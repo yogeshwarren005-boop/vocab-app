@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make revisions in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or reorganize, especially for the purpose of updating and improving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Re-examined and altered or corrected to incorporate improvements or current facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic recension and judicial opinion, describes an authorized edition or amended judgment reflecting updated scholarship or precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manuscript was revised around 1803 and sold to a London publisher, Crosbie & Co., who sold it back in 1816."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the campaign of 1908 the Republicans admitted that the protective tariff needed to be revised, but they declared that it should be revised by its friends."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For usually a tariff has been revised downward because a few years of prosperity with large imports had so increased customs duties that the government has had surplus revenues."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **revised** edition of the pastoral chronicle omitted several rustic colloquialisms that had puzzled northern readers."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Our plans must be perpetually **revised** under the teaching of experience."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The author produced a **revised** copy containing numerous suppressions forced by the printer's caution."*

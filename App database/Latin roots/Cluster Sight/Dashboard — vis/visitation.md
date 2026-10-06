@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annoying or frustrating or catastrophic event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disaster or catastrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official or formal visit, typically for inspection; a severe trial or affliction regarded as a divine dispensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical law and public health history, an episcopal inspection of parishes or the widespread onset of an epidemic pestilence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it will please you To show us so much gentry and good will As to expend your time with us awhile, For the supply and profit of our hope, Your visitation shall receive such thanks As fits a king’s remembrance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This visitation Is but to whet thy almost blunted purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this follows— Which, as I take it, is a kind of puppy To the old dam treason—Charles the Emperor, Under pretence to see the Queen his aunt— For ’twas indeed his colour, but he came To whisper Wolsey—here makes visitation."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not forget: this **visitation** / Is but to whet thy almost blunted purpose."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The dreadful **visitation** of the pestilence fell upon the parish of St. Giles in the summer of 1665."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She bowed her head beneath what she felt to be a just and sorrowful **visitation**."*

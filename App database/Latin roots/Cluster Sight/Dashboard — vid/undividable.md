@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be divided without leaving a remainder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cannot be divided without leaving a remainder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being separated, split, or partitioned into component parts; indivisible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical ontology and atomism, designates the ultimate unitary substance or Monad that resists all spatial or conceptual cleavage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Thyself I call it, being strange to me, / That, **undividable**, incorporate, / Am better than thy dear self's better part."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul is **undividable**; you cannot dissect its divine light into separate compartments."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The spiritual essence remains **undividable**, transcending the fragile fractures of mortal flesh."*

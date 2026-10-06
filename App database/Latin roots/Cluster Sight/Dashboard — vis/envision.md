@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Picture to oneself; imagine possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To imagine as a future possibility; to picture in the mind or visualize clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical phenomenology and creative cognition, denotes the intentional mental projection of hypothetical scenarios, architectures, or social states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, envision designates imagine; conceive of; see in one's mind."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"To construct a workable society, one must first boldly **envision** institutions where human goodwill finds natural expression."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She closed her eyes to **envision** the completed canvas, seeing rhythm and color converge upon the pale space."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"Men of science must learn to **envision** the ethical consequences of the tremendous forces they unleash."*

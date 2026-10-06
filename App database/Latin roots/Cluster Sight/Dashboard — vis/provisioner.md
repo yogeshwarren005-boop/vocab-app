@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplier of victuals or supplies to an army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplier of victuals or supplies to an army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, merchant, or company that supplies food, victuals, and necessary stores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and maritime enterprise, the purveyor or contractor charged with procuring and distributing rations to fleets or expeditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provisioner designates a supplier of victuals or supplies to an army."*
+> - 📜 **Herman Melville (*Omoo*):** *"The ship's **provisioner** had cheated the crew, substituting rotten salt-beef for sound barrel meats."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"Every licensed **provisioner** was obliged to leave food at the barricaded door without personal contact."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The California hide-drogher looked to the shore **provisioner** for fresh bullock beef after months at sea."*

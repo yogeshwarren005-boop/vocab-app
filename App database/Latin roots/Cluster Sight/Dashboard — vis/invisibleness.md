@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceivable by the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceivable by the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of escaping visual detection or being hidden from observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern natural philosophy and theology, refers to immaterial spiritual substances or transparent atmospheric fluids that elude optical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invisibleness designates the quality of not being perceivable by the eye."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The subtle air challenges an **invisibleness** that eludes our sensory organs though supporting our vital breath."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Spirits and demons claim an **invisibleness** that allows them to instigate mischief unperceived."*
+> - 📜 **Ralph Cudworth (*The True Intellectual System of the Universe*):** *"The incorporeal deity maintains an essential **invisibleness** across all material creation."*

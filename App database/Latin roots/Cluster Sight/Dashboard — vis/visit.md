@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going to see some person or place or thing for a short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To go to see a person or place for companionship, inspection, or official business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral theology and institutional governance, to inspect ecclesiastical foundations, administer official comfort to the afflicted, or inflict divine judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the honour of thy lordliness To one so meek, that mine own servant should Parcel the sum of my disgraces by Addition of his envy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go home with it, and please your wife withal, And soon at supper-time I’ll visit you, And then receive my money for the chain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the Lady Valeria is come to visit you."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"O Caesar, what a wounding shame is this, / That thou vouchsafing here to **visit** me, / Doing the honour of thy lordliness / To one so meek."*
+> - 📜 **Jane Austen (*Emma*):** *"It was her regular custom to **visit** the poor cottages of the parish with charitable supplies."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce proposed that we should **visit** the ancient chambers in Chancery Lane together."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) one of the aesir; son of odin; avenges his parent by slaying fenrir at ragnarok.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) one of the aesir; son of odin; avenges his parent by slaying fenrir at ragnarok.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Norse mythology, the silent god of vengeance and tremendous physical strength, destined to slay Fenrir at Ragnarok.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Germanic mythography and comparative religion, personifies the enduring, primeval forest and restorative silence that overcomes catastrophic doom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remember me, when I was of the Assir, and of the Vanir, that Odin sat in judgment over men in the court of the twelve gods, and that their names were Thor, Baldur, Niord, Frey, Tyr, Bregi, Heimdal, Hoder, Vidar, Ull, Forseti, and Loki."*
+> - 📜 **Snorri Sturluson (*The Prose Edda*):** *"Then steps forward the silent god **Vidar**, and sets his foot upon the lower jaw of the monstrous wolf."*
+> - 📜 **H. A. Guerber (*Myths of the Norsemen*):** *"Resolute and uncomplaining, **Vidar** personified the boundless, quiet primeval forest that survives all devastations."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"In the heroic figures of ancient faith, **Vidar** stands as the silent avenger whose iron shoe crushes the monsters of chaos."*

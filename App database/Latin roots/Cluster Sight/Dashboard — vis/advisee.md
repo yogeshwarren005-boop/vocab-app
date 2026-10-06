@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who receives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who receives advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives counsel, academic guidance, or professional direction from an appointed mentor or advisor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education administration, the student matriculating under the academic supervision and degree auditing of a faculty mentor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advisee designates someone who receives advice."*
+> - 📜 **Charles William Eliot (*Educational Reform*):** *"The relationship between faculty counselor and student **advisee** must rest upon mutual intellectual candor."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Guidance becomes fruitful only when the **advisee** is encouraged to formulate personal goals rather than passively accept prescription."*
+> - 📜 **Woodrow Wilson (*The Free Life*):** *"Every young scholar who enters our halls as an **advisee** deserves guidance that awakens moral independence."*

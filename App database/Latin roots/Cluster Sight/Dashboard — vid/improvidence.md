@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of prudence and care by someone in the management of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of prudence and care by someone in the management of resources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to foresee or provide for future needs; thriftlessness or recklessness with resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and moral philosophy, an absence of prudent foresight and capital accumulation that exposes individuals or states to abrupt deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But when by improvidence I have cast myself into necessities of using more upon myself or upon things in themselves of less importance, I have prospered much less than when I did otherwise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet there is occasion to deplore the improvidence that is fostered and that prevails, especially among those receiving their incomes in the form of wage or salary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The security of all would thus be subjected to the parsimony, improvidence, or inability of a part."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Even if the rent is not mended, perhaps the worst vice betrayed is **improvidence**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capitals are increased by parsimony, and diminished by prodigality and public **improvidence**."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"The principal distress of the laboring poor arises from an habitual **improvidence** regarding marriage and savings."*

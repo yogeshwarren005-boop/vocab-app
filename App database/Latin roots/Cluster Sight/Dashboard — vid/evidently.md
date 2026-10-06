@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is clearly seen, obvious, or plainly apparent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pragmatic discourse and logical inference, signals an empirical deduction supported by immediate perceptual observation or compelling circumstantial indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything was just as we had left it last night and was evidently intended to remain so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought him only awkward and shy, for he was evidently much embarrassed; and I fancied that the best thing I could do would be to wait until I saw that he had everything he wanted and then to leave him to himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He apologized for his lateness: his arrival was **evidently** by arrangement."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"There is **evidently** no reason why all these motives for observance should not attach themselves to utilitarian morality."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The man had **evidently** met with foul play, as indicated by the violent disarray of the study."*

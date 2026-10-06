@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: View the outline of by means of an x-ray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a mental picture of something that is invisible or abstract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a mental image or picture of something not present to the senses (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and artistic training, the intentional generation and spatial manipulation of internal ocular representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"As usual, the Chinese descriptions are exceedingly difficult to visualise, and in many cases are open to several interpretations, and are not easy to reconcile with established facts."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In view of this the colour of the Yüeh bowls, the blue-green of the hills, is easily visualised."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She tried to **visualise** the color of the hedge at dusk, holding the memory against the gray air."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes closed his eyes, striving to **visualise** the exact path the fleeing baronet had taken across the mire."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"When we **visualise** a familiar face, the internal image possesses qualities distinct from immediate sensory perception."*

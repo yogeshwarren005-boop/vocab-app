@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner arousing resentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner arousing resentment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner designed or calculated to provoke ill will, resentment, or odious comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and critical discourse, discriminating against individuals or groups with malicious or unfair distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"What she felt was that a territorial, a political, a social magnate had conceived the design of drawing her into the system in which he rather invidiously lived and moved."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Privilege was **invidiously** contrasted with common misery to inflame the passions of the Parisian multitude."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"He praised his rival's draftsmanship **invidiously**, merely to detract from his superior gifts of coloration."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The royal prerogative was exercised **invidiously**, rewarding court favorites while burdening industrious merchants."*

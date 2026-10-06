@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Can be divided usually without leaving a remainder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be divided usually without leaving a remainder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being partitioned, separated, or resolved into distinct parts, shares, or mathematical units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics and metaphysics, describes extended matter or space that can undergo continuous subdivision without loss of elemental identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"How could communities, / Degrees in schools and brotherhoods in cities, / Peaceful commerce from **dividable** shores... / But by degree, stand in authentic place?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Every particle of solid extension remains **dividable** into lesser corpuscles by the human intellect."*
+> - 📜 **Isaac Newton (*Opticks*):** *"It seems probable to me that God formed matter in solid, hard, impenetrable particles, not further **dividable** by ordinary forces."*

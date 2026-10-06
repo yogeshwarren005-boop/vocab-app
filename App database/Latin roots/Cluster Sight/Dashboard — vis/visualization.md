@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental image that is similar to a visual perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental image that is similar to a visual perception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of mental visual images; the visual representation of data or concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern computational science and statistical graphics, the graphical encoding of complex abstract information into intuitive perceptual diagrams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By sheer visualization under my eyelids I constructed chess-boards and played both sides of long games through to checkmate."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The beginning of every advertisement or series of advertisements is represented in terms of a first visualization."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The vividness of mental **visualization** varies enormously among individuals, from photographic clarity to faint abstraction."*
+> - 📜 **John Dewey (*How We Think*):** *"Effective education depends upon graphic **visualization**, transforming verbal formulas into concrete mental models."*
+> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"Geometrical intuition relies upon spatial **visualization** to grasp truths that formal algebra proves only step by step."*

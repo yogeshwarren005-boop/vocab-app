@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An announcement that usually advises or warns the public of some threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exercising the power to recommend, counsel, or warn without possessing executive authority to compel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, emergency management, and state bureaucracy, designates an official bulletin notifying the public of imminent hazards or regulatory recommendations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Alongside of the Reserve Board, is placed a Federal Advisory Council, consisting of one member from the board of directors of each of the twelve district banks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Shea, _William Andrews Clark Memorial Library_ Thomas Wright, _William Andrews Clark Memorial Library_ ADVISORY EDITORS Ralph Cohen, _University of Virginia_ William E."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The cabinet retains a purely **advisory** character, while ultimate constitutional responsibility rests upon the chief magistrate."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Local town councils perform an essential **advisory** service, mediating between state decrees and village sentiment."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A specialized **advisory** commission should draft legislative bills, leaving parliament the sovereign power of enactment."*

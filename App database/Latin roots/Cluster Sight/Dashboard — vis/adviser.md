@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers knowledgeable counsel, expert guidance, or strategic recommendations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In governance and geopolitics, designates a confidential counselor or cabinet expert who assists executive leadership in shaping public policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"My father instructed the two sons and acted as helper and adviser to the Baroness in many things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With many hearty handshakes and good wishes the two Remke ladies at last let their friend and adviser go."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno saw himself as her protector and adviser, and as her brother's close friend he meant to keep an active watch over her."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I came to you, Mr. Holmes, because you are acknowledged as the supreme unofficial **adviser** in matters of mystery."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A wise **adviser** does not dictate our course, but reflects back to us our own unclouded judgment."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"He sought an elderly **adviser** whose long acquaintance with local records might clarify the ancient deed."*

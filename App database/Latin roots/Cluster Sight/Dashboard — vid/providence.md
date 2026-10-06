@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of rhode island; located in northeastern rhode island on narragansett bay; site of brown university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The guardianship and control exercised by a deity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protective care, spiritual guidance, or foreseeing oversight of God or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological teleology and civic philosophy, represents the benevolent cosmological ordering that directs worldly affairs toward ultimate moral equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will be laid to us, whose providence Should have kept short, restrain’d, and out of haunt This mad young man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s a special providence in the fall of a sparrow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, she is mortal; But by immortal Providence she’s mine."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's a special **providence** in the fall of a sparrow; if it be now, 'tis not to come; if it be not to come, it will be now."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"There, 'tis a happy **providence** that I be no worse off than my neighbors."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The wise author of our being, through benign **providence**, has suited our faculties to the business of life."*

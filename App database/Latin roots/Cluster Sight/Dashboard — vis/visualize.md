@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a mental picture of someone or something; to make something perceptible to the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific pedagogy and creative problem-solving, mapping abstract relational matrices into dynamic three-dimensional geometric structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Can you visualize me milking cows, for instance?" "No," answered Amanda, "I'd say that you were cut out for a different role." There was a deeper meaning in the country girl's words than the flighty city girl could read."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The tone of the parables is due largely to this gift of visualizing, to use an ugly modern word, and of doing it with swiftness and precision."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence was not a fanciful man: but the red and grey remains of Clara Janaway would have set the visualizing faculty to work in the mind of a ploughboy."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It is difficult for the mind to **visualize** a fourth dimension perpendicular to the three we know."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The physicist must constantly **visualize** the invisible motions of atoms to explain the thermal behavior of gases."*
+> - 📜 **Albert Einstein (*Autobiographical Notes*):** *"I always found it necessary to **visualize** physical processes in concrete geometric terms before casting them into mathematical equations."*

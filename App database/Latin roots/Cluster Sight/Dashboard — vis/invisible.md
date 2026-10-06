@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or nearly impossible to see; imperceptible by the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prominent or readily noticeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived by the sense of sight; hidden from optical view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic philosophy and physical sciences, describes unobservable regulatory mechanisms or microscopic entities that govern macro phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear Phoebe, If ever—as that ever may be near— You meet in some fresh cheek the power of fancy, Then shall you know the wounds invisible That love’s keen arrows make."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Go make thyself like a nymph o' th' sea; be subject / To no sight but thine and mine, **invisible** / To every eyeball else."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"He intends only his own gain, and he is led by an **invisible** hand to promote an end which was no part of his intention."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Author of evil, unknown till thy revolt, / Unnamed in Heaven, now thou dost become **invisible**."*

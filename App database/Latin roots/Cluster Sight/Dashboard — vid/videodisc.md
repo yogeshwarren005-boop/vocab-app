@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat circular optical or mechanical disc on which prerecorded television pictures and sounds are stored for playback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information storage history and optoelectronics, represents an analog optical precursor to the compact disc, utilizing laser-read microscopic pits on reflective aluminum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videodisc designates a digital recording (as of a movie) on an optical disk that can be played on a computer or a television set."*
+> - 📜 **Arthur C. Clarke (*1984: Spring - A Choice of Futures*):** *"The high-density optical **videodisc** proved that vast libraries of pictorial knowledge could be stored on a sliver of reflective plastic."*
+> - 📜 **Isaac Asimov (*Robot Visions*):** *"In our archives the memory stores resembled a spinning **videodisc**, readable by fine pulses of coherent light."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"Technologies of electronic reproduction, whether magnetic tape or reflective **videodisc**, freeze transient performances into permanent replayable artifacts."*

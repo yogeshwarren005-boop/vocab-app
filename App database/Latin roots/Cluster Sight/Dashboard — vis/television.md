@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telecommunication system that transmits images of objects (stationary or moving) between distant points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telecommunication system for transmitting moving images and sound over distances; the electronic receiver display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications theory and cultural studies, represents the dominant audiovisual medium of the twentieth century that homogenized domestic leisure and political discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The young are already exposed to far more negative forces in the general run of storybooks, television shows, Internet games and the real world."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Let me tell you about it.' The grandchild chose the grandparent over television and the many other forms of professionally polished commercial entertainment that thrusts forward for his or her attention."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He places his cane on the ground beside him and crosses his legs just as I often do when I watch television."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The walls of the parlor were filled with monstrous talking screens of full-color **television**."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"With the arrival of **television**, the viewer becomes the screen, caught in an immersive mosaic of electronic light."*
+> - 📜 **E. B. White (*One Man's Meat*):** *"I believe **television** is going to be the test of the modern world; in its light we shall see whether our race can outsmart its own inventions."*

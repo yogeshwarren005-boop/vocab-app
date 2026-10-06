@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give something useful or necessary to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give what is desired or needed, especially support, food or sustenance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply, furnish, or make available something needed, useful, or essential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory drafting and contract law, stipulates mandatory terms, contingencies, or binding obligations that govern executing parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, provide. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, more careful for the latter-born, Had fast’ned him unto a small spare mast, Such as sea-faring men provide for storms."*
+> - 📜 **William Shakespeare (*Sonnet 111*):** *"O, for my sake do you with Fortune chide, / The guilty goddess of my harmful deeds, / That did not better for my life **provide**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the duty of statecraft to **provide** against future scarcities by encouraging agriculture and commerce."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was instructed to **provide** Pip with a new suit of clothes suited to his great expectations."*

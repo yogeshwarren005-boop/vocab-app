@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give bad advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give bad advice to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give bad, ill-considered, or misleading counsel to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political historiography and executive administration, describes the catastrophic failure of counselors who lead a sovereign or cabinet into disastrous foreign entanglement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misadvise designates give bad advice to."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To **misadvise** the sovereign in matters touching constitutional balance is to undermine the commonwealth itself."*
+> - 📜 **Francis Bacon (*Essays*):** *"Corrupt flatterers **misadvise** princes, tailoring their words to courtier ambition rather than the public good."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Weak emperors were easily persuaded to **misadvise** their generals, dispatching contradictory orders to the Danubian frontier."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resulting in vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not resulting in vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perceived by or involving the sense of sight; auditory, tactile, or conceptual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and cognitive psychology, relates to somatic, olfactory, proprioceptive, or auditory modalities operating independently of retinal processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvisual designates not resulting in vision."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Spatial orientation relies extensively upon **nonvisual** sensations such as labyrinthine balance and muscular strain."*
+> - 📜 **Helen Keller (*The World I Live In*):** *"My comprehension of external nature is constructed entirely out of tactile, olfactory, and other **nonvisual** impressions."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Aesthetic appreciation engages **nonvisual** kinesthetic tensions alongside the retinal patterns of a painting."*

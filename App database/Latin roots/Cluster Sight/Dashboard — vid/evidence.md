@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Your basis for belief or disbelief; knowledge on which to base belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication that makes something evident.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Facts, signs, or objects that indicate whether a belief or proposition is true or valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and epistemology, comprises testimony, physical exhibits, and documented records admissible before a tribunal to prove a contested fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast spoken all already, unless thou canst say they are married; but thou art too fine in thy evidence; therefore stand aside."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My precious queen, forbear, And give true evidence to his love, which stands An honourable trial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Thou hast spoken all already, unless thou canst say they are married; but thou art too fine in thy **evidence**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first public **evidence** of Bathsheba's decision to be a farmer in her own person was her appearance on 'Change."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"He that would not deceive himself ought to build his assent upon no other basis than the manifest **evidence** of things."*

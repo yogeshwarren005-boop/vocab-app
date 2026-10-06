@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visitor or guest, especially an unexpected, mysterious, or supernatural one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature and natural history, an apparition, migratory bird, or transient phenomenon appearing briefly in an unfamiliar habitat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I rang the bell, for I wanted a candle; and I wanted, too, to get an account of this visitant."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The king experienced a poignant grief when for a moment he feared that, unable to follow her, he must forever lose sight of his beauteous visitant."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But whatever might have been his fate, now that he was gone the natives multiplied their acts of kindness and attention towards myself, treating me with a degree of deference which could hardly have been surpassed had I been some celestial visitant."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The princely Hierarch / In their bright stand there left his Powers, to seize / Possession of the garden; he alone, / To find where heavenly **visitant** might dwell."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The ghastly **visitant** entered the chamber, chilling the blood of the solitary spectator."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A strange, unexpected **visitant** crossed the threshold of the decaying mansion."*

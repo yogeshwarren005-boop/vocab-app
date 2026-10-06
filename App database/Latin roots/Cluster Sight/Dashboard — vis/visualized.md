@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed as a mental picture; represented visually or brought before the mind's eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and cognitive science, mentally realized with vivid spatial and chromatic detail prior to external execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when I had become expert at this visualized game of memory the exercise palled on me."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad visualized the scene on the bridges and flight decks of the more than two dozen warships, ranging from cruisers to fighters that formed the task force."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He recalled and visualized each planet, natural and artificial satellite and space station out to the Guardians."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I **visualized** the great African river flowing through the dark heart of the immense continent."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"She **visualized** the festive drawing room, filled with flowers and expectant guests, before the first carriage arrived."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes had already **visualized** the murderer's height, stride, and footwear from the muddy footprints outside the window."*

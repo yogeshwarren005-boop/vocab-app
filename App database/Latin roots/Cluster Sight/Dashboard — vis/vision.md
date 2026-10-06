@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid mental image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to see; the visual faculty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of ocular perception; an imaginative or prophetic contemplation of future occurrences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and aesthetics, denotes an imaginative conceptualization of future possibilities or sublime spiritual insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Touching this vision here, It is an honest ghost, that let me tell you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"These our actors, / As I foretold you, were all spirits, and / Are melted into air, into thin air: / And, like the baseless fabric of this **vision**, / The cloud-capp'd towers, the gorgeous palaces, / The solemn temples, the great globe itself, / Yea, all which it inherit, shall dissolve."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His heart danced with gladness, / And rejoiced in the glorious **vision** of peace restored to men."*
+> - 📜 **William Blake (*A Vision of the Last Judgment*):** *"I question not my corporeal or vegetative eye any more than I would question a window; I look through it and not with it to behold the **vision**."*

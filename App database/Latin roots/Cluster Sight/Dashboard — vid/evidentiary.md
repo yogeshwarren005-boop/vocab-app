@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or constituting evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or based on evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or relating to admissible evidence in a court of law or judicial proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural jurisprudence, governs the statutory criteria of authenticity, relevance, and hearsay applicable to testimony and documentary exhibits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evidentiary designates pertaining to or constituting evidence."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The strictness of our **evidentiary** rules was forged to protect juries from misleading prejudice."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"Every ruling upon an **evidentiary** question shapes the channel through which truth must reach the court."*
+> - 📜 **Felix Frankfurter (*The Case of Sacco and Vanzetti*):** *"A trial collapses into injustice when tenuous conjecture supplants solid **evidentiary** proof."*

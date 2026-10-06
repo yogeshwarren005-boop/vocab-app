@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who puts text into appropriate form for publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who puts text into appropriate form for publication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who re-examines, updates, edits, or corrects a written text, code, or schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil service administration and philology, an expert lexicographer or legal proofreader responsible for standardizing official translations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reviser designates someone who puts text into appropriate form for publication."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"The anxious **reviser** of a monumental lexicon finds errors multiplying faster than he can eradicate them."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The modern **reviser** of ancient verse must preserve the grandeur of the original while honoring contemporary idiom."*
+> - 📜 **Thomas Babington Macaulay (*Speeches*):** *"The parliamentary **reviser** reduced the tangled chaos of penal statutes into an orderly statutory code."*

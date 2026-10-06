@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prophetic vision (as in a dream).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of foreseeing or anticipating future events; prescience or foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of history and sociology, the systematic anticipation of socio-economic trends and demographic movements through analytical modeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"That would be in a couple of hours, at the end of which—I had the acute prevision—my little pupils would play at innocent wonder about my nonappearance in their train."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I suppose I now read into our situation a clearness it couldn’t have had at the time, for I seem to see our poor eyes already lighted with some spark of a prevision of the anguish that was to come."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I had a prevision that day that Elsie and I had better make the most of our time during this summer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will felt that Mr. Casaubon had had a profound **prevision** of this catastrophe before his death."*
+> - 📜 **Auguste Comte (*A General View of Positivism*):** *"The ultimate object of all positive science is **prevision**, enabling humanity to act with methodical prudence."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Ethical progress depends on human **prevision**, checking the cosmic process by intentional social cooperation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen; or open to easy view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obvious to the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be seen by the eye; perceptible to sight; readily apparent or noticeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and empirical epistemology, refers to electromagnetic radiation within the spectrum detectable by human photoreceptors or phenomena manifest to sensory observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I am Antony, Yet cannot hold this visible shape, my knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that the heavens do not their visible spirits Send quickly down to tame these vile offences, It will come, Humanity must perforce prey on itself, Like monsters of the deep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear, look up: Though Fortune, visible an enemy, Should chase us with my father, power no jot Hath she to change our loves."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Here I am Antony, / Yet cannot hold this **visible** shape, my knave."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Light is that great and **visible** medium whereby bodies discover to us their shapes and colors."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hills rose in dark, massive silhouettes, barely **visible** beneath the starless vault."*

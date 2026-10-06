@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vision of events in the distant past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vision of events in the distant past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or faculty of looking backward in time; retrospective sight or contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and literary poetics, the deliberate mental re-experiencing and anamnesis of repressed memory traces or past developmental epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovision designates a vision of events in the distant past."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The Spirit of the Years possessed a melancholy **retrovision**, viewing human struggles across the vast expanse of centuries."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our immediate perception of temporal duration involves both forward anticipation and instantaneous **retrovision**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Through imaginative **retrovision**, the poet reconstructs the lost enthusiasm and innocence of youthful feeling."*

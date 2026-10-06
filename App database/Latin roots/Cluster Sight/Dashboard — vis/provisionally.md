@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporarily and conditionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporarily and conditionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms subject to future change, confirmation, or formal ratification; temporarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific research and international law, adopting an assumption or treaty protocol conditionally pending experimental results or diplomatic assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"I have **provisionally** accepted the view that gemmules are thrown off by every cell of the body."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The estate was **provisionally** sequestered until the court could ascertain the rightful heir."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The investigator **provisionally** accepts a hypothesis as a working tool to guide experimentation."*

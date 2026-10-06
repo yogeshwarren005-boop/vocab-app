@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (born in 1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (born in 1925).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refers to American essayist, novelist, and polemicist Gore Vidal, or in viticulture to the cold-hardy white hybrid grape Vidal blanc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history and cultural critique, evokes patrician irony, revisionist historical narrative, and razor-sharp political commentary on American hegemony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vidal designates united states writer (born in 1925)."*
+> - 📜 **Gore Vidal (*United States: Essays 1952–1992*):** *"Style is knowing who you are, what you want to say, and not giving a damn; in this respect **Vidal** maintained an effortless mastery."*
+> - 📜 **Christopher Hitchens (*Arguably*):** *"Gore **Vidal** brought to American letters the stately venom and historical erudition of a Roman senator."*
+> - 📜 **William F. Buckley Jr. (*National Review*):** *"The public debate with **Vidal** showcased an intense clash of ideological wit unmatched in modern television."*

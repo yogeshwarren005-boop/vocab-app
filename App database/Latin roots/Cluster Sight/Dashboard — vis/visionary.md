@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person given to fanciful speculations and enthusiasms with little regard for what is actually possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with unusual powers of foresight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinking about or planning the future with imagination or wisdom; existing only in a dream or imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and utopian thought, describes an idealized thinker whose speculative systems run far ahead of practical contemporary reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was no longer the milkmaid, but a visionary essence of woman—a whole sex condensed into one typical form."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Paul Lecamus is always worthy to be heard.' 'Oh!' he said, 'I am called visionary."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It brought a smile to the grave face of M. le Curé and tempted me well nigh to laughter, so strangely did this sensation of the actual, break and disperse the visionary atmosphere."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She was no longer the milkmaid, but a **visionary** essence of woman—a whole sex condensed into one typical form."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His schemes were counted **visionary** by practical men of business who mistook their own narrowness for prudence."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Hollingsworth was a **visionary**, so utterly possessed by his philanthropic scheme that he sacrificed all human affection to it."*

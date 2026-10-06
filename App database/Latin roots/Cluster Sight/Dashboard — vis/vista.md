@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual percept of a region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual percept of a region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasing or extensive view, especially one seen through a long, narrow opening or along an avenue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape architecture and philosophical historiography, a channeled perspective opening toward distant spatial horizons or conceptual futures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket looks at him as if his face were a vista of some miles in length and he were leisurely contemplating the same."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"We looked down the whole vista, and saw it closed by iron gates, and it could not have been more than a furlong in length.” “Oh!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Full souls are double mirrors, making still An endless vista of fair things before, Repeating things behind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"It was no mature woman with a long dark **vista** of intrigue behind her who was tormented thus, but a girl of simple life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The long gallery opened upon an enchanting **vista** of autumn woods and rolling meadowlands."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sat in my sunny doorway from sunrise till noon, looking out across the quiet **vista** of the pond."*

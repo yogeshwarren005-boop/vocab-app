@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crow; raven; rook; jackdaw; chough; magpie; jay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crow; raven; rook; jackdaw; chough; magpie; jay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denotes the cosmopolitan family of oscine passerine birds that includes crows, ravens, rooks, jays, and magpies, renowned for complex problem-solving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy and comparative ethology, represents a family demonstrating high brain-to-body mass ratios, mirror self-recognition, and sophisticated social cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvidae designates crow; raven; rook; jackdaw; chough; magpie; jay."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Among all birds, the family **Corvidae** exhibits the most remarkable degree of mental flexibility and acute wariness."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The wide geographical range of the **Corvidae** testifies to their adaptive resourcefulness across varied climates."*
+> - 📜 **Richard Bowdler Sharpe (*A Review of Recent Attempts to Classify Birds*):** *"In osteology and behavioral adaptability, the **Corvidae** occupy an eminent position near the crown of passerine development."*

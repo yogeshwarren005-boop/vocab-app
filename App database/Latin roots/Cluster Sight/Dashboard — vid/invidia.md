@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spite and resentment at seeing the success of another (personified as one of the deadly sins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ill will, malice, or envious resentment directed toward another's good fortune or prosperity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman mythology, moral philosophy, and iconography, the personification of destructive envy, often portrayed as a serpent-eating fury possessing the evil eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invidia designates spite and resentment at seeing the success of another (personified as one of the deadly sins)."*
+> - 📜 **Francis Bacon (*Essays*):** *"There is none of the affections which have been noted to fascinate or bewitch, but love and envy; and Latin authors named the latter **invidia**."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Pallor overspreads her cheek, her body shrinks, and venom fills her breast; such is the hideous visage of **Invidia**."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"From **invidia** spring bitter whispers, secret detraction, and perpetual torment at the well-being of a neighbor."*

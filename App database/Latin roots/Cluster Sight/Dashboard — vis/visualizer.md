@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery is visual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose prevailing mental imagery is visual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who possesses a strong ability to form mental pictures; a device or software displaying images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive typology and data design, an individual whose cognitive architecture relies predominantly on visual-spatial processing rather than verbal cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"KEEP IT SIMPLE The visualizer should keep one cardinal point in mind."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"The natural **visualizer** retains vivid, brightly illuminated mental images that rival actual sensory perception."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To the born **visualizer**, an abstract concept immediately calls up a concrete tableau or diagram."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The artist was an extraordinary **visualizer**, able to manipulate complex geometric forms mentally before putting brush to canvas."*

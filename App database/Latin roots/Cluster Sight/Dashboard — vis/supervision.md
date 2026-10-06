@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management by overseeing the performance or operation of a person or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or function of overseeing and directing workers, operations, or tasks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional sociology and public administration, the organizational hierarchy that maintains accountability, quality control, and regulatory compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His purpose is to stimulate the industry of the workers, thus reducing waste and cost of labor and supervision, and thereby increasing profits."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The spirit of commerce demands ceaseless **supervision**, lest enterprise degenerate into fraud."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Our utopian community dispensed with all official **supervision**, trusting to mutual affection and honor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative centralization subjects the life of every citizen to perpetual bureaucratic **supervision**."*

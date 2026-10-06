@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of supplying or providing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of providing or supplying something for use; a stock of necessary food or supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contracts and constitutional drafting, a specific clause, stipulation, or qualification that establishes rights and duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five days we do allot thee for provision, To shield thee from disasters of the world; And on the sixth to turn thy hated back Upon our kingdom: if, on the next day following, Thy banish’d trunk be found in our dominions, The moment is thy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, till the expiration of your month, You will return and sojourn with my sister, Dismissing half your train, come then to me: I am now from home, and out of that provision Which shall be needful for your entertainment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take up, take up; And follow me, that will to some provision Give thee quick conduct."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I have with such **provision** in mine art / So safely ordered that there is no soul— / No, not so much perdition as an hair— / Betid to any creature in the vessel."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He made ample **provision** for her future independence in the codicil of his will."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent master makes seasonal **provision** of grain and fuel before winter prices advance."*

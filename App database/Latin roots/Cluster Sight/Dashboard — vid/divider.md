@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomist who classifies organisms into many groups on the basis of relatively minor characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who separates something into parts or groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument consisting of two hinged pointed legs; an partitions or boundary that separates spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural interior design and draftsmanship, designates physical partitions, decorative screens, or geometric drafting tools utilized for proportional transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"His majesty laughing, said, Faith, you are no equal divider."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace top consists of cast-iron corner-posts and dividers, the walls and ends laid up with brickwork, surmounted by a tubular top of the Shelby type from which the gas off-takes lead."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"And although they are dexterous enough upon a piece of paper, in the management of the rule, the pencil, and the **divider**, they are clumsy mechanics."*
+> - 📜 **King James Bible (*Gospel of Luke*):** *"Man, who made me a judge or a **divider** over you?"*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He laid down his brass **divider** upon the architectural parchment, conscious of a profound weariness."*

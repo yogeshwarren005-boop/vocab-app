@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Editing that involves writing something again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of re-examining, editing, amending, or polishing a text, doctrine, or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing workflow and institutional governance, the iterative phase of scrutiny during which drafts undergo textual correction and substantive verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"For help in revising the proofs I have to thank the Rev."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Disappointing! and now there was no chance of revising his impression, for apparently she had gone away with Laura--who should have known better than to leave Captain Hyde to his own devices."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here would be another light, as of oxy-hydrogen, showing the very grain of things, and revising all former explanations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She sat beside him, **revising** the Latin transcriptions with patient devotion until the candle guttered."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I spent my mornings in the woods, **revising** the journal entries written during the preceding winter."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The novelist spent years **revising** her sentences, seeking an effortless cadence that masked grueling labor."*

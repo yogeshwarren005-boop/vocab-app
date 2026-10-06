@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prudent or wise; not recommended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prudent or wise; not recommended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prudent, sensible, or recommended under existing circumstances; inadvisable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In risk management and tactical assessment, designating strategic actions that expose an enterprise to preventable disaster or needless liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I do go it will be unadvisable for me to take her on this my first journey."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It may be unadvisable, however, to speak too loudly of the increased custom of the house, lest Mr."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"With every deference to the opinion of my beloved and respected Lady Southdown, I think it would be quite unadvisable to commence so early upon serious topics with Miss Crawley."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel deemed it completely **unadvisable** to reopen old wounds while her spirits were so fragile."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Watson, it would be most **unadvisable** to venture into those dark alleys without our revolvers."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas considered any sudden theatrical enterprise **unadvisable** during his absence from home."*

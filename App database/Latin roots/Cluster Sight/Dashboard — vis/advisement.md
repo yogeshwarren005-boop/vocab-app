@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careful consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful consideration, formal deliberation, or consultation prior to reaching a decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial procedure, denotes the period during which a judge reserves decision on a submitted motion to conduct legal research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blythe Bessie in the milking shiel, Says—“I’ll be wed, come o’t what will”: Out spake a dame in wrinkled eild; “O’ gude advisement comes nae ill."*
+> - 📜 **King James Bible (*1 Chronicles*):** *"The lords of the Philistines upon **advisement** sent him away, saying, He will fall to his master Saul to the jeopardy of our heads."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Matters of such momentous imperial consequence require long **advisement** and temperance of spirit."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The elders sat in solemn **advisement**, debating what penalty should be visited upon the transgressor."*

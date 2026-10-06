@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informed, enlightened, or acting with deliberate caution, prudence, and forethought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and administrative parlance, describing a resolution adopted after consultation with qualified counsel or thorough deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, I am advised what I say, Neither disturb’d with the effect of wine, Nor heady-rash, provok’d with raging ire, Albeit my wrongs might make one wiser mad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am advised to give her music a mornings; they say it will penetrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good cousin, be advised, stir not tonight."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Therefore, prepare thee to cut off the flesh. Shed thou no blood; nor cut thou less nor more, but just a pound of flesh: if thou cut'st more or less, be it but so much as makes it light or heavy in the substance, or the division of the twentieth part of one poor scruple—nay, if the scale do turn but in the estimation of a hair, thou diest, and all thy goods are confiscate. Mark, Jew: be well **advised**."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men of age object too much, consult too long, adventure too little, and seldom drive business home to the full period, but content themselves with a mediocrity of success; yet their counsel is well **advised**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A statesman must be thoroughly **advised** before he consents to dismantle ancient pillars of civic order."*

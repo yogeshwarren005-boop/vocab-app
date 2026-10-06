@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cassette for videotape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cassette for videotape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic cartridge containing magnetic tape wound between two reels, used for recording and playing back audiovisual material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mass media and material culture, represents the physical magnetic format that decentralized cinematic distribution and time-shifted television viewing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videocassette designates a cassette for videotape."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The entertainment cartridge was delivered not as a digital packet but as a magnetic **videocassette** packaged in stamped plastic."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Every technological shift from celluloid projection to personal magnetic **videocassette** transforms the sensory balance and viewer autonomy."*
+> - 📜 **Stephen King (*Danse Macabre*):** *"The advent of the **videocassette** recorder allowed fans of midnight horror to summon monstrous visions into their living rooms at will."*

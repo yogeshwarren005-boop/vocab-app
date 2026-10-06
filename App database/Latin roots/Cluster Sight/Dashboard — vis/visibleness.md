@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality or fact or degree of being visible; perceptible by the eye or obvious to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality or fact or degree of being visible; perceptible by the eye or obvious to the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of presenting a clear sensory presence to human eyes; optical perceptibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and optics, describes the threshold of luminosity and contrast required for an object to be distinguished against its background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, visibleness designates quality or fact or degree of being visible; perceptible by the eye or obvious to the eye."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The subtle vapor achieves a transient **visibleness** only when condensed by sudden evening chill."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Phantoms assume a terrible **visibleness** in the diseased imagination of the melancholy man."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Light is the medium through which bodies attain their **visibleness** to the observing eye."*

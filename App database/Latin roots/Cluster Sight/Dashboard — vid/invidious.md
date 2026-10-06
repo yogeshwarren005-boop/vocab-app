@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or implying a slight or showing prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or implying a slight or showing prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to arouse resentment, bitterness, anger, or ill will in others; unjustly discriminatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and social relations, designating distinctions or comparisons calculated to offend sensibilities and provoke jealous antagonism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Either the change in the quality of the air from heavy to light, or the sense of being amid new scenes where there were no invidious eyes upon her, sent up her spirits wonderfully."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Distrust naturally creates distrust, and by nothing is good-will and kind conduct more speedily changed than by invidious jealousies and uncandid imputations, whether expressed or implied."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But all suppositions of this kind are invidious, and ought to be banished from the consideration of the great question before the people."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"But the rich man—not to make any **invidious** comparison—is always sold to the institution which makes him rich."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel hoped that the whole truth of the matter might not be published, avoiding any **invidious** judgment upon the girl."*
+> - 📜 **James Joyce (*Ulysses*):** *"The task would be an **invidious** one and one beyond my poor powers."*

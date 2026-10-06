@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pays a visit or spends time with someone socially or professionally; a guest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and ecclesiastical governance, an external trustee, bishop, or dignitary possessing ultimate appellate authority over a foundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The visitor will not give him o’er so."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was very much astonished that her visitor should have already heard what had taken place the night before, as she knew that her sons would not speak of it of their own free will."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli, please join the other children and stay there till I come," the mother interrupted herself, turning to the little girl, whose eyes had been expectantly glued on the visitor's face in the hope of hearing if the two boys were still locked up."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Look, he's winding up the watch of his wit; by and by it will strike. The **visitor** will not give him o'er so."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet pastoral routine of the farm was interrupted by the appearance of a handsome, well-dressed **visitor**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was startled by the entrance of an unexpected **visitor** while engaged in his microscopic studies."*

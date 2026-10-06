@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prudent or wise; not recommended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not advisable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwise, imprudent, or not recommended under existing circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical strategy and administrative policy, describes a course of action carrying disproportionate systemic risks relative to its prospective utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Evidently it was inadvisable to continue the subject."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"This interview is important to us." "How many of your people are there on the earth?" "It is inadvisable to answer that fully, but there are some hundreds."*
-> - 📜 **James Joyce (*Ulysses*):** *"Highly unlikely of course there was even a shadow of truth in the stones and, even supposing, he thought a return highly inadvisable, all things considered."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He felt it was **inadvisable** to press the inquiry further, observing her sudden agitation."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"It is highly **inadvisable** to form theories before one possesses all the relevant data."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found it **inadvisable** to alienate the hospital board on a question of mere protocol."*

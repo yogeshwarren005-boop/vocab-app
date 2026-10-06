@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as or based on evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or based on evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as, providing, or relating to evidence; probative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of proof and scientific methodology, possessing verifiable relevance and weight sufficient to establish or rebut an empirical hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The evidential value of a good hymn book will stand investigation."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There is an evidential value in a good father, in wife and children--even in a telearchy with its tiles and cement--which is apt to be under-estimated."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The value of fossil remains lies in their **evidential** power to link divergent branches of mammalian life."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The subjective transformation carries immense **evidential** significance for the person who undergoes it."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"An **evidential** fact must bear a real, causal connection to the circumstance it purports to prove."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceivable by the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceivable by the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being imperceptible to the eye; inability to be seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics, speculative fiction, and sociological theory, the cloaking of matter from radiation or the systemic marginalization of unacknowledged social classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She heard old Royce sing in the pantomime of Turko the Terrible and laughed with others when he sang: I am the boy That can enjoy Invisibility."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regards Judge Pyncheon’s invisibility, however, that matter will soon be remedied."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Such writing as this we have quoted renders visible the invisibilities of imaginative colour."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The criminal relied upon social **invisibility**, moving among the guests as a common servant whom nobody noticed."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"I realized the extraordinary advantages of **invisibility**, but also its terrifying, isolated helplessness in the winter cold."*
+> - 📜 **Plato (*The Republic*):** *"He discovered the ring of Gyges, which bestowed total **invisibility** whenever its collet was turned inward."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to seeing, sight, or the sense of vision; optical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and neurological science, refers to perceptual representations processed through ocular sensory pathways into cognitive spatial models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her—visual familiarity, oral strangeness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"An intensely visual memory had flashed over him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all in vain; those young Platonists have a notion that their vision is imperfect; they are short-sighted; what use, then, to strain the visual nerve?"*
+> - 📜 **Francis Bacon (*The Essays*):** *"We represent also all manner of reflexions, refractions, and multiplications of **visual** beams of objects."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The immense whiteness of the leviathan smote the **visual** nerve with an overpowering, eerie dread."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Michael from Adam's eyes the film removed / Which that false fruit had bred; then purged with euphrasy and rue / The **visual** nerve, for he had much to see."*

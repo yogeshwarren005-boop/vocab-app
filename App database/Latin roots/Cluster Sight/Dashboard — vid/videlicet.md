@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As follows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As follows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That is to say; namely; specifically; used to introduce a detailed clarification or enumeration (abbreviated viz.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric, jurisprudence, and scholarly exegesis, specifies the precise scope or particulars of a general preceding assertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poor world is almost six thousand years old, and in all this time there was not any man died in his own person, _videlicet_, in a love-cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus she means, _videlicet_— THISBE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er her father says, if you perceive Her mood inclining that way that I spoke of, _Videlicet_, the way of flesh—you have me?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"The poor world is almost six thousand years old, and in all this time there was not any man died in his own person, **videlicet**, in a love-cause."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"He resolved to deliver his whole system under three heads, **videlicet**, of clothes, of religion, and of government."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Society is founded upon Cloth; **videlicet**, upon outward vestures and traditional symbols."*

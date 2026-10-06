@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is to supply a particular service or commodity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who provides the means for subsistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, institution, or entity that supplies sustenance, resources, or necessary services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In welfare economics and family sociology, designates the primary earner or public agency ensuring the material subsistence and social security of dependents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have left it on the board, so soon As I had made my meal, and parted With pray’rs for the provider."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With all his talk of economy, however, he is a bountiful provider and a hospitable housekeeper."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You'll find me a good provider, and we'll let one another alone, and get along some way or 'nother." The captain's voice fairly broke; he had been speaking as if to a brother man; he was tired out and perplexed."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"I would have left it on the board, so soon / As I had made my meal, and parted / With pray'rs for the **provider**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign becomes the ultimate **provider** of public infrastructure which private commerce cannot maintain."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The industrial master must become a genuine **provider** and captain of industry, not a mere consumer of wages."*

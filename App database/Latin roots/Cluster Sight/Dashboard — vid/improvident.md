@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provident; not providing for the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given careful consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to plan ahead or provide for future necessities; thoughtlessly wasteful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and sociological inquiry, exhibiting present-bias characterized by the exhaustion of reserves and disregard for cyclical scarcity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Improvident soldiers, had your watch been good, This sudden mischief never could have fall’n."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who says this is improvident jealousy?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She found, to her dismay, that this was owing to their having eaten all the seed potatoes,—that last lapse of the improvident."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"**Improvident** soldiers, had your watch been good, / This sudden mischief never could have fall'n."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She found, to her dismay, that this was owing to their having eaten all the seed potatoes, that last refuge of the **improvident**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I do not deny that he is **improvident**, but Mr. Micawber possesses expectations of the highest character."*

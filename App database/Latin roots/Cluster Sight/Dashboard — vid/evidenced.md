@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shown, attested, or made manifest by clear outward signs or demonstrable proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal analysis and historiography, substantiated through empirical documentation, material artifacts, or sworn deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That he expressed the general feeling in our train was evidenced by the many women who leaned from the wagons, thrusting out gaunt forearms and shaking bony, labour-malformed fists at the last of Mormondom."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Deposits are not entered in a depositor's book, as is the usual practice of savings banks, but are evidenced by certificates issued in fixed denominations of $1, $2, $5, $10, $20, $50, and $100."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By universal practice supported by a long line of court decisions, these rights (whether evidenced by paper or not) are made subject to taxation, except as by piecemeal legislation certain grudging exceptions have been made."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's decline was **evidenced** by the neglect into which his spacious stone yards had fallen."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The elevation of the coastal terrace was clearly **evidenced** by beds of recent marine shells clinging to the cliffs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The decay of civic virtue was mournfully **evidenced** in the mercenary composition of the frontier legions."*

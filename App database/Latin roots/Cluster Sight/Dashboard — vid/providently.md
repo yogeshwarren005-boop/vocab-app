@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a provident manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a provident manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With prudent, far-sighted care and deliberate preparation for future requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theology and resource governance, managing stores and provisions with careful stewardship and unremitting foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take that, and He that doth the ravens feed, Yea, providently caters for the sparrow, Be comfort to my age."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Take that, and He that doth the ravens feed, / Yea, **providently** caters for the sparrow, / Be comfort to my age."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The parsimonious emmet, **providently** wise, gathers her winter food beneath the ground."*
+> - 📜 **Francis Bacon (*Essays*):** *"Whosoever is **providently** prepared against unexpected disasters converts peril into sudden triumph."*

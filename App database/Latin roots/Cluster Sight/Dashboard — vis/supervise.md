@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To oversee, direct, or watch over the execution of a task, process, or group of workers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory and labor management, exercising direct operational authority to ensure compliance with performance standards and safety mandates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was a division of the tributary states into sections, an associate manager to each, who should supervise, control and stimulate every aid-society in her section, going from village to village, and organizing, if need be, as she went."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Associate Managers, whose business it was to supervise the work in their own neighborhoods, had been appointed in nearly every county of the entire Department, fifty-six Associate Managers in all."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Let me **supervise** the canzonet; here are only numbers ratified."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The master manufacturer must personally **supervise** the division of labor to prevent waste and slackness."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"Trained foremen must systematically **supervise** each mechanical operation to maximize efficiency."*

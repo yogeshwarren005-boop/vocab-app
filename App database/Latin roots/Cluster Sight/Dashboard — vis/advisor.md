@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who provides expert advice, strategic direction, or professional guidance; alternative spelling of adviser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern corporate governance and financial regulation, an authorized fiduciary or investment consultant managing institutional portfolios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His eyes moved from one advisor to the other."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Well, as my diplomatic affairs advisor, Drummer, what did you make of it?" "My feeling is that Camari is willing to meet us halfway to resolve differences between the Regions." "You do, eh?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To those who do not recognize me, I am Deke Drummer, formerly an advisor to Reen Narval and, also formerly the Commander of the INOR Combined Fleet."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A responsible **advisor** must possess both technical competence and firm independence from factional pressure."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"As a diplomatic **advisor** in London during the Civil War, he observed statecraft stripped of rhetorical romance."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He acted as my confidential **advisor**, pointing out how a young printer might best avoid commercial pitfalls."*

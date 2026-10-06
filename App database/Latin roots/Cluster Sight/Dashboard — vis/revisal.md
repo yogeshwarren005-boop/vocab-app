@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rewriting something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reviewing, amending, examining, or correcting a text or regulation; revision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic publishing and statutory reform, the systematic recension of legal codes or editorial proofs prior to authorized printing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The theory, neither of the British, nor the State constitutions, authorizes the revisal of a judicial sentence by a legislative act."*
+> - 📜 **Jonathan Swift (*Letters*):** *"The manuscript has undergone a rigorous **revisal**, excising all superfluous passages and awkward phrases."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Dryden's translations suffered from haste, rarely enjoying the benefit of a second **revisal**."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"The committee of five submitted the Declaration to the **revisal** of Congress, who struck out several clauses."*

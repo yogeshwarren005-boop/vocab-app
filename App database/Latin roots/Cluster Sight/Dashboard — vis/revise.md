@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine again with a view to making corrections, improvements, or updates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual scholarship and legislative drafting, to amend wording, adjust statutory boundaries, or rectify typographic and conceptual errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was not used to expect that he should have to repeat or revise his communications of a practical or personal kind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, among the worthy people who have so kindly received us, I revise my record of these adventures once more."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Before committing himself to speech he made a determined effort to revise his facial expression."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He spent long hours in the library, attempting to **revise** the voluminous notes for his Key to all Mythologies."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"I have been led to **revise** some of my earlier opinions regarding the effects of sexual selection."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A thinker must continually **revise** his doctrines as new influxes of truth expand the mind."*

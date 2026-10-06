@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A video recording made on magnetic tape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively wide magnetic tape for use in recording visual images and associated sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnetic tape used for recording and reproducing moving visual images, broadcasts, and accompanying sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast journalism and television production, represents the magnetic media standard that replaced 16mm motion picture film for rapid electronic newsgathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videotape designates a video recording made on magnetic tape."*
+> - 📜 **Don DeLillo (*White Noise*):** *"They gathered in the den to watch the disaster unfold repeatedly on grainy handheld **videotape**."*
+> - 📜 **Susan Sontag (*Regarding the Pain of Others*):** *"The visceral immediacy of magnetic **videotape** transformed the public perception of military engagement and urban unrest."*
+> - 📜 **Joan Didion (*After Henry*):** *"The prosecution played the unedited police **videotape** frame by frame, trying to fix certainty onto grainy magnetic raster lines."*

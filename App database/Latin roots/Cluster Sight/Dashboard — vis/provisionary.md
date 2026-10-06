@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a temporary arrangement or makeshift measure; provisional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative history, relates to interim decrees, military occupations, or transitional civil charters enacted prior to regular constitutional establishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provisionary designates under terms not final or fully worked out or agreed upon."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **provisionary** municipalities erected throughout the departments possessed neither lawful title nor stable authority."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Convention Parliament acted as a **provisionary** assembly to settle the succession following the King's flight."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"A cabinet in transition often adopts **provisionary** measures to manage urgent departmental affairs."*

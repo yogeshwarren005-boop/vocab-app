@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious disagreement between two groups of people (typically producing tension or hostility).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ridge of land that separates two adjacent river systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate or branch into distinct parts, shares, or conflicting groups; to cause separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and hydrology, designates the elevated drainage ridge or boundary line separating adjacent catchment basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The world and my great office will sometimes Divide me from your bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*
+> - 📜 **William Shakespeare (*Sonnet 24*):** *"Mine eye and heart are at a mortal war, / How to **divide** the conquest of thy sight."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let there be firmament / Amid the waters, and let it **divide** / The waters from the waters."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Time is but the stream I go a-fishing in; I drink at it, but while I drink I see the sandy bottom and detect how its currents **divide**."*

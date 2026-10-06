@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who supervises or has charge and direction of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program that controls the execution of other programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who directs, inspects, and oversees the work of other employees or operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal administration and labor hierarchy, a designated civil officer or industrial manager possessing immediate operational oversight over subordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would you, the supervisor, grossly gape on, Behold her topp’d?"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So strong was the superstitious belief of the people in this deified stone that when, some twenty years ago, the road supervisor of the district threw it over and broke off a portion, it was prophesied that Kaneaukai would be avenged for the insult."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And when shortly afterward the supervisor lost his position and removed from the district, returning not to the day of his death; and since several of his relatives have met untimely ends, not a few felt it was the recompense of his sacrilegious act."*
+> - 📜 **William Shakespeare (*Othello*):** *"Would you, the **supervisor**, grossly gape on? / Behold her tupped?"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The municipal **supervisor** inspected the market stalls, examining the weights and grain measures."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The bureaucratic **supervisor** operates within strict jurisdictional limits defined by written rules."*

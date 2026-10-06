@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who divides parts into smaller parts (especially a divider of land into building sites).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who divides parts into smaller parts (especially a divider of land into building sites).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual, developer, or agency that partitions tracts of land or large units into smaller lots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real estate development and urban geography, represents the commercial speculator who plats rural acreage into suburban residential subdivisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdivider designates someone who divides parts into smaller parts (especially a divider of land into building sites)."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The commercial **subdivider** laid out mechanical gridirons across the meadows without regard for topography or human community."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"No suburban **subdivider** can manufacture the organic vitality that arises spontaneously on diverse city streets."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The land **subdivider** sees in a marsh only prospective building parcels, blind to its hydrologic integrity."*

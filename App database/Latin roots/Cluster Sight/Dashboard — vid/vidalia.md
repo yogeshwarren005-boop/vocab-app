@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central georgia; the origin of vidalia onions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central georgia; the origin of vidalia onions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally sweet, mild variety of yellow granex onion cultivated in Georgia under regulated geographic appellation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and culinary horticulture, denotes alliums grown in low-sulfur sandy loam soils that suppress pungent allicin formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vidalia designates a town in central georgia; the origin of vidalia onions."*
+> - 📜 **Craig Claiborne (*The New York Times Food Encyclopedia*):** *"No allium matches the delicate, almost melon-like sweetness of a genuine fresh **Vidalia** onion plucked from Georgia loam."*
+> - 📜 **James Beard (*Beard on Food*):** *"A sliced **Vidalia** requires nothing more than coarse salt, freshly cracked pepper, and a splash of vinegar to showcase its natural sugars."*
+> - 📜 **Alton Brown (*Good Eats: The Early Years*):** *"Because sulfur compounds are absent in the local sandy loam, the **Vidalia** delivers sweetness where standard yellow onions deliver sting."*

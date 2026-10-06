@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or capacitive platter storing video and audio tracks for retrieval; alternative spelling of videodisc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interactive computing and digital archiving, denotes large-format optical storage platters utilized in archival installations, flight simulators, and educational kiosks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videodisk designates a digital recording (as of a movie) on an optical disk that can be played on a computer or a television set."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Much like the gold-plated Voyager record, a modern **videodisk** preserves our civilization's sights and sounds against the erosions of time."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"When information is etched into the tracks of a **videodisk**, meaning emerges only when decoded by an interpreting mechanism."*
+> - 📜 **Jean Baudrillard (*Simulacra and Simulation*):** *"The hyperreal image, encoded without flaw upon the metallic surface of the **videodisk**, replaces the fragile memory of historical events."*

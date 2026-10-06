@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parted by conflict of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not shared by or among others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not separated into parts or fractions; whole, complete, and fully concentrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal property rights and cognitive psychology, designates unbroken tenancy in common or sustained, unfragmented mental attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XXXVI Let me confess that we two must be twain, Although our undivided loves are one: So shall those blots that do with me remain, Without thy help, by me be borne alone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These all form a complex of equitable claims, which together equal in value one undivided property right, which in turn equals the value of the wealth.[4] § 7. #Limitations of bequest and inheritance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It forbids corporate ownership of stock in a competing corporation, forbids interlocking directorates in large banks and in other competing corporations, with capital, surplus and undivided profits aggregating more than $1,000,000."*
+> - 📜 **William Shakespeare (*Sonnet 36*):** *"Let me confess that we two must be twain, / Although our **undivided** loves are one."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I waited for a few moments, until he could give me his **undivided** attention; and then proceeded to explain."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind from within, with **undivided** devotion."*

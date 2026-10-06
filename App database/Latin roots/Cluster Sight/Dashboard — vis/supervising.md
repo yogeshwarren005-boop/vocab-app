@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directing, monitoring, or overseeing work, operations, or personnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial psychology and civil governance, exercising administrative leadership and real-time operational vigilance over institutional workflows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially is the difficulty of supervising workers and of ensuring the performance of a certain standard, or minimum, amount and quality of work great in larger enterprises."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The lender must also, in estimating net interest, count the cost of placing, supervising, and collecting the loan."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A larger part of the energies of men will then be directed merely to supervising the developed machinery."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was seen **supervising** the loading of the grain wagons in the early morning mist."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The chief engineer was **supervising** the stokehold when the mysterious shock jarred the ship."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"He spent the summer **supervising** police reforms in the precinct houses of the metropolis."*

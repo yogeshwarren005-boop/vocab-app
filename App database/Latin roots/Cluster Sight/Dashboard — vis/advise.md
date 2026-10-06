@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give advice to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To offer suggestions, counsel, or practical guidance to someone regarding a prudent course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional and judicial protocol, conveys formal intelligence, statutory notification, or legal recommendation to an interested party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’Tis an unseason’d courtier; good my lord, Advise him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my chamber and advise me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I'll not remember you of my own vices, / But to **advise** you to avoid the like."*
+> - 📜 **Francis Bacon (*Essays*):** *"The greatest trust between man and man is the trust of giving counsel; therefore let him who would **advise** do so with sober integrity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I would **advise** you by all means to accept his proposals, as nothing could be more advantageous to your family."*

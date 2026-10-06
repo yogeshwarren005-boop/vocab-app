@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making visits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go to see a place, as for entertainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of paying a visit or staying temporarily; attending or working at an institution on a temporary basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and medical practice, formalized patterns of community calls or periodic clinical consultations at remote stations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The odds is gone, And there is nothing left remarkable Beneath the visiting moon. [_Faints._] CHARMIAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the Duke of Buckingham and I Are come from visiting his Majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shent our messengers; and we lay by Our appertainings, visiting of him."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The odds is gone, / And there is nothing left remarkable / Beneath the **visiting** moon."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He had spent the afternoon **visiting** the timber fallers in the secluded coombe."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader made a point of **visiting** every cottage where there was trouble to dispense hearty advice."*

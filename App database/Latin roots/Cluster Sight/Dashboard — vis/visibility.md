@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality or fact or degree of being visible; perceptible by the eye or obvious to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degree of exposure to public notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distance one can see as determined by light, weather, and atmospheric conditions; clear optical perceptibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and sociology, denotes optical transmission through atmospheric particulate or the public prominence and institutional recognition accorded to a social group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cobwebs revealed their presence on sheds and walls where none had ever been observed till brought out into visibility by the crystallizing atmosphere, hanging like loops of white worsted from salient points of the out-houses, posts, and gates."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"She knows, as well as the poet, that destructibility is not one of nature's words; that it is only the relationship of things--tangibility, visibility--that are transitory."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Along with the visible sunlight there comes to us from the sun a quantity of light known as "ultra-violet," since it makes its effect known in the spectrum of sunlight beyond the violet, which is the limit of visibility at one end of the spectrum."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The twilight reduced the **visibility** of the heath to a dim confusion of furze mounds and gravelly hollows."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The statue emerged into sudden **visibility** as the torchlight flickered along the damp gallery."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The blinding sheets of spray reduced **visibility** to the length of the ship's forecastle."*

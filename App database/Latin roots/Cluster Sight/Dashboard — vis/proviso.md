@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stipulated condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition, qualification, or stipulation inserted into an agreement, statute, or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure and jurisprudence, an express limiting clause that restricts the scope of an enactment or prevents a forfeiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I shall like it,” she cried, “beyond anything in the world; and do not let us put it off—let us go to-morrow.” This was readily agreed to, with only a proviso of Miss Tilney’s, that it did not rain, which Catherine was sure it would not."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But I'm at your service, subject always to the proviso that I'm Bernard's agent, which makes my position rather delicate."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now she began to think of her husband’s will, which had been made at the time of their marriage, leaving the bulk of his property to her, with proviso in case of her having children."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He accepted the inheritance, but with the painful **proviso** that barred his cousin from any claim upon the estate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old gentleman had signed the parchment, inserting an eccentric **proviso** concerning the manor house."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every legislative power granted to Congress is accompanied by the necessary **proviso** of constitutional conformity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into parts or portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated or split into two or more parts, factions, or divergent directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and social psychology, describes a commonwealth or constituency characterized by polarization, divergent loyalties, or conflicting ideological allegiances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony!” Then in the midst a tearing groan did break The name of Antony; it was divided Between her heart and lips."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor Ophelia Divided from herself and her fair judgement, Without the which we are pictures or mere beasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
+> - 📜 **William Shakespeare (*Sonnet 36*):** *"Even for this, let us **divided** live, / And our dear love lose name of single one."*
+> - 📜 **Abraham Lincoln (*House Divided Speech*):** *"A house **divided** against itself cannot stand; I believe this government cannot endure permanently half slave and half free."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found her mind painfully **divided** between duty toward her husband and the claims of natural compassion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whydahs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whydahs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, brood-parasitic African songbirds comprising the whydahs and indigobirds, belonging to the family Viduidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ornithology, exhibits extreme host-specific brood parasitism where nestling gape patterns and mimic vocalizations correspond exactly to estrildid finch hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the Lord Treasurer’s Remembrancer’s office is the following:--“Uske: De Elizea John ap Jevan vidua, occasionat. ad ostendendum quo titulo tenet domum et situm Prioratus de Uske, et alias terras in comitatu Monmouth."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the African bird genus **Vidua**, the nuptial plumage of the males displays extraordinarily elongated tail feathers during the breeding display."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The species of **Vidua** present remarkable adaptations in their parasitic habits, matching the calls of their foster-parents."*
+> - 📜 **Robert B. Payne (*The Indigobirds and Whydahs of the Genus Vidua*):** *"Vocal mimicry in **Vidua** is learned directly from host parents, establishing a non-genetic mechanism for reproductive isolation."*

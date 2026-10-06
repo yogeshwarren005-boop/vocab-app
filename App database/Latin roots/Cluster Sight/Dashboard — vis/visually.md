@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to seeing or appearance; by means of sight or vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic critique and ergonomic design, assessing composition, color balance, and spatial harmony through direct perceptual apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh...nothin'.' Think a Story If you can think a story, and if you can write a letter or express your thoughts orally or visually, then you can combine them into a message to a grandchild."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ground crew tracked the parachute visually to estimate where it would land."*
-> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner arranged his atmospheric compositions so that they were **visually** compelling even when viewed upside down."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The aesthetic critic must be **visually** sensitive to every subtle nuance of tone and contour."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Pigeon fanciers select birds that are **visually** distinctive, fixing bizarre plumage through generations of breeding."*

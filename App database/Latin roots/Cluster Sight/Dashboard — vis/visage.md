@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is british).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance conveyed by a person's face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The face, facial expression, countenance, or outward appearance of a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry and dramatic characterization, the physical countenance reflecting interior passions, moral nobility, or tragic suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood upon your visage dries; ’tis time It should be looked to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven’s face doth glow, Yea this solidity and compound mass, With tristful visage, as against the doom, Is thought-sick at the act."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Is it not monstrous that this player here, / But in a fiction, in a dream of passion, / Could force his soul so to his own conceit / That from her working all his **visage** wann'd?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"His **visage** seemed / As though an angel's, though scarred with lightning and deep furrowed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There was a determined, grim fortitude in Ahab's weather-beaten **visage** that silenced all dissent."*

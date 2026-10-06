@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into subdivisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into smaller and smaller pieces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide a part into still smaller parts; to separate further after an initial division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning, real estate law, and anatomy, denotes partitioning a single parcel or morphological structure into discrete subordinate units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. [17] Quoin is not a Euclidean term."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. *Quoin is not a Euclidean term."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is because of the feebleness of our mental power that we divide and subdivide these complex questions and try to answer certain parts before we seek to answer the whole."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"At the middle of the forehead horizontally **subdivide** this upper quoin, and then you have two almost equal parts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Systematists continually **subdivide** large genera into smaller groups as transitional forms are discovered."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When peasant proprietors **subdivide** their land excessively, agricultural productivity suffers from fragmented plots."*

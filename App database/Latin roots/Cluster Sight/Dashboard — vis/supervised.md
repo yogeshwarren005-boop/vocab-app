@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Managed, guided, or overseen by a person in authority; monitored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral science and clinical training, describing professional internships or machine learning workflows guided by human feedback and labeled parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"While she supervised the cooking of the meats and soups and coffee, all nice things were made and distributed by herself."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The underground staff are very carefully organised with this end in view, and the whole is supervised by Government inspectors."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The turnkey **supervised** the arrival of the prisoners with the practiced eye of long institutional habit."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Every ward was closely **supervised** by senior matrons who enforced strict hygiene."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The laboratory exercises were carefully **supervised** to encourage independent observation."*

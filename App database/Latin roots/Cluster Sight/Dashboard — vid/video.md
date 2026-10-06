@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visible part of a television transmission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recording of both the visual and audible components (especially one containing a recording of a movie or television program).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The electronic recording, reproduction, or broadcast of moving visual images on a display screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and media theory, refers to the electronic signal raster, scan frequencies, and digital matrices that translate optical luminance into visual displays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Videsne quis venit?_ HOLOFERNES. _Video, et gaudeo._ ARMADO. _Chirrah!_ HOLOFERNES. _Quare_ “chirrah”, not “sirrah”?"*
+> - 📜 **Nam June Paik (*Art and Satellite*):** *"Just as collage technique replaced oil paint, the cathode ray and **video** tube will replace the traditional canvas of our era."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, The Cultural Logic of Late Capitalism*):** *"The continuous flow of experimental **video** captures the fragmented temporality and spatial depthlessness of late capital."*
+> - 📜 **J. G. Ballard (*The Atrocity Exhibition*):** *"In the electronic landscape, monitored screens and recorded **video** loops dictate the emotional posture of the inhabitants."*

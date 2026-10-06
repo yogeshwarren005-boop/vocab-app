@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing carefully for the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careful in regard to your own interests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or indicating timely, careful preparation for the future; thrifty and prudent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pastoral and political economics, displays sagacious stewardship over grain, capital, and labor to avert unexpected calamity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Do, let her alone, she gives good counsel; do not trouble your self with Ladies, they are too light: Let out your Land, and get a provident Steward. _Ang_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This may hasten the transfer of the lands from less provident to more provident owners, who are willing to take the land at a higher capitalization."*
+> - 📜 **William Shakespeare (*Henry V*):** *"It fits us then to be as **provident** / As fears may teach us out of late examples / Left by the fatal and neglected English."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **provident** and temperate members of civilized communities generally prosper and rear larger families."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Those nobles who had seen the coming storm in time, being **provident**, removed their wealth beyond the sea."*

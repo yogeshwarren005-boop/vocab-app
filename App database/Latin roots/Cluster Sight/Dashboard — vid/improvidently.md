@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an improvident manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an improvident manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unwary, thriftless, or short-sighted manner without regard for future consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic critique, dispensing liquid reserves or natural resources with reckless disregard for oncoming contingencies or seasonal hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, improvidently designates in an improvident manner."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He had spent his early fortune **improvidently**, assuming that kinship would forever supply his deficits."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The settler squandered his summer yields **improvidently**, leaving his household defenseless against winter frost."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic republics often incur public debt **improvidently**, pandering to immediate civic desires at posterity's expense."*

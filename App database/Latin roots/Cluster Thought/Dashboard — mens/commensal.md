@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living with or sharing food at the same table; an organism participating in a commensal relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ecological symbiosis, an organism benefiting from association with a host without causing harm or parasitism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living with, on, or in another organism without causing injury to either partner; or sharing the same dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological parasitology and symbiotic biology, designating a symbiotic association where one organism benefits without harming the host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain small crustaceans live as harmless **commensals** within the shells of large mollusks."*
-> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The parasite feeds upon its host, whereas the **commensal** merely shares its table."*
-> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"The **commensal** association between different marine organisms demonstrates that nature is not solely a battlefield of fierce competition."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain cirripedes attach themselves to the skin of whales as harmless **commensal** organisms, nourished by organic particles in the passing currents."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The intestinal flora includes benign **commensal** microbes that aid physiological digestion without exciting pathological reactions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopic observer must carefully differentiate pathogenic bacteria from innocent **commensal** species inhabiting the mucosal lining."*

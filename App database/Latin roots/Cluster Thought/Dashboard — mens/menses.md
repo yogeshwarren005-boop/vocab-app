@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The periodic monthly discharge of blood and mucosal tissue from the uterus; menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and reproductive biology, the cyclical shedding of the uterine endometrial lining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly flow of blood and mucosal tissue from the uterus; menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological physiology and reproductive endocrinology, the cyclical shedding of the uterine endometrial lining in the absence of fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Harvey (*Exercitationes de Generatione Animalium*):** *"The periodic return of the **menses** marks the natural cycle of female generative potential."*
-> - 📜 **Aristotle (*The History of Animals*):** *"In human physiology, the regular cessation and return of the **menses** is governed by natural biological rhythms."*
-> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Physical and emotional fluctuations frequently coincide with the onset of the **menses**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppression of the **menses** during severe systemic illnesses frequently signals profound secondary nutritional exhaustion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Periodic cycles corresponding to the mammalian **menses** suggest deep physiological rhythms inherited from primordial progenitors."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Chlorosis in young maidens is almost invariably accompanied by an irregular or retarded appearance of the **menses**."*

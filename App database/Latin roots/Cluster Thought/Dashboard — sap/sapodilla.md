@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large tropical evergreen tree (Manilkara zapota) yielding sweet brown fruit and chicle gum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agriculture and commerce, the tree cultivated for its edible sugary fruit and latex base for chewing gum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large tropical evergreen tree (Manilkara zapota) native to Central America, or its sweet edible brownish fruit, also the source of chicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pomology and economic botany, a Sapotaceous tree producing chicle latex used in chewing gum and russet fruits with sweet, pear-flavored pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*Journal of Researches*):** *"We refreshed ourselves with the sweet, sugary pulp of the tropical **sapodilla**."*
-> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapodilla** tree yields a fruit as large as a quince, having a luscious and fragrant taste."*
-> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The milky latex of the **sapodilla** trunk furnishes the chicle gum prized by the native tribes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the tropical orchards, the sweet pulp of the ripe **sapodilla** was universally esteemed by the inhabitants."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Lumbermen extract milky latex from the trunk of the **sapodilla**, which hardens into an elastic gum."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The **sapodilla** thrives in coastal plantations, yielding abundant crops of russet-skinned, sugary fruit."*

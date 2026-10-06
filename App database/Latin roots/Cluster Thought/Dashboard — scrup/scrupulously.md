@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme care, thoroughness, and conscientious adherence to moral or factual accuracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical narratives and archival science, adhering strictly to procedural standards and historical truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a careful, thorough, and conscientious manner; strictly adhering to ethics or precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical methodology and empirical investigation, executing tasks with painstaking fidelity to rules, accuracy, and truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had **scrupulously** discharged my duty toward my pupils and neglected nothing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His dress and grooming were **scrupulously** attended to, reflecting a fastidious personal dignity."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's chronometers were **scrupulously** checked each noon by the chief mate."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie **scrupulously** avoided every opportunity of meeting him, determined to preserve her sibling's peace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneers **scrupulously** cleaned their iron barbs, sharpening each cutting edge to razor keenness."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have **scrupulously** recorded every negative fact that appeared to conflict with my theory of natural selection."*

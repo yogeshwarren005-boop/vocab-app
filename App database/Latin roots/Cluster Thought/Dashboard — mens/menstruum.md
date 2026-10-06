@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solvent; any liquid substance that dissolves a solid or extracts soluble elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and early chemistry, a dissolving liquid traditionally believed to work best during a monthly lunar cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solvent, particularly a liquid substance that dissolves a solid; or catamenial fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and pharmaceutical chemistry, an active dissolving medium used in extracting medicinal principles or dissolving metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"How ignorant are plough-boys!—Nay, I have since discovered that love is the universal **menstruum** that dissolves all human differences."*
-> - 📜 **Francis Bacon (*Novum Organum*):** *"The alchemists sought a universal **menstruum** capable of dissolving every tangible substance into its primal essence."*
-> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Aqua fortis acts as a powerful **menstruum** upon silver, dissolving the metal into a clear saline solution."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Aqua fortis acted as a powerful **menstruum**, dissolving the silver alloy while leaving the gold intact."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The particles of the metallic solute are sustained within the liquid **menstruum** by mutual attractive forces."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"I introduced the calcined mineral into an acid **menstruum**, observing an immediate release of pungent air."*

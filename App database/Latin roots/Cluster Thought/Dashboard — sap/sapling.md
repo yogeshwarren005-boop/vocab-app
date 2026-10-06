@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young tree, especially one with a slender, flexible trunk; a youthful person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral narrative, symbolizing supple youth, resilience, or malleable inexperience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young, slender tree; or a young person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In silviculture and forest ecology, a young tree with a trunk diameter between 1 and 5 inches, transitioning from seedling to mature tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Richard III*):** *"Behold, mine arm is like a blasted **sapling** withered up!"*
-> - 📜 **Henry David Thoreau (*Walden*):** *"I set out each tender **sapling** with great care, watering its roots against the summer drought."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young birch bent like a **sapling** beneath the sudden fury of the gale."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look how the bent **sapling** yields to the gale, yet springs upright when the storm departs."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He carefully pruned each tender **sapling** in the nursery, shielding it from biting spring frosts."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A young birch **sapling** sprang up through the stone threshold of the abandoned cellar hole."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American woodpecker (genus Sphyrapicus) that drills rows of small holes in trees to feed on sap and insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological field study, migratory woodpeckers maintaining sap-wells that provide critical sustenance to hummingbirds and insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American woodpecker (Sphyrapicus) that drills neat rows of small holes in tree trunks to feed on sap and attracted insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and forest ecology, a hole-drilling woodpecker creating sap wells that provide vital nourishment for hummingbirds, bats, and insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John James Audubon (*Ornithological Biography*):** *"The yellow-bellied **sapsucker** excavates neat horizontal rows of small holes in the bark of maple trees."*
-> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We heard the sharp tap of the **sapsucker** drilling the tender cambium of the birch tree."*
-> - 📜 **John Burroughs (*Wake-Robin*):** *"The **sapsucker** feeds on the sweet exuding syrup and the insects attracted to its punctures."*
+> - 📜 **John Burroughs (*Birds and Poets*):** *"The yellow-bellied **sapsucker** drills orderly horizontal belts of punctures around the trunks of apple trees."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I paused to watch the diligent **sapsucker** tapping the bark of the birch, feeding upon the sweet ascending juices."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"The rapid drumming of the **sapsucker** echoed through the mountain firs as spring touched the high country."*

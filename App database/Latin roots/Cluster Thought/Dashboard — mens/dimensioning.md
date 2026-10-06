@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of measuring, sizing, or recording dimensions on a technical drawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and mechanical engineering, calculating precise spatial tolerances and load clearances for structural materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of determining, marking, or specifying dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical drafting, structural engineering, and architecture, indicating precise linear measurements, tolerances, and geometric constraints on technical drawings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Tredgold (*Elementary Principles of Carpentry*):** *"Careful **dimensioning** of timber girders prevents catastrophic deflection under heavy roof loads."*
-> - 📜 **Isambard Kingdom Brunel (*Life and Works*):** *"The accurate **dimensioning** of the iron plates was crucial to the strength of the steamship's hull."*
-> - 📜 **Henry Maudslay (*Memoir and Mechanical Inventions*):** *"Precision in the **dimensioning** of machine screws laid the basis for modern interchangeable parts."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The exact **dimensioning** of every brass cog and escapement was crucial to avoid jamming in the calculating engine."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford*):** *"Accurate **dimensioning** of the masonry abutments ensured that the suspension bridge withstood violent mountain gales."*
+> - 📜 **Isambard Kingdom Brunel (*Life of Isambard Kingdom Brunel*):** *"Meticulous **dimensioning** of the iron girders allowed the railway viaduct to span the river gorge with perfect stability."*

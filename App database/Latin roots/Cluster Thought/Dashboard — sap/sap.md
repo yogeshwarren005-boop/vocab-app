@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vital fluid that circulates through a plant; to gradually weaken or deplete energy or strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military fortification and siege craft, a deep narrow trench excavated to undermine enemy bastions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The essential fluid circulating through the vascular system of a plant, carrying water and nutrients; or vitality, vigor, or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and military siegecraft, xylem and phloem fluid transport, or a deep, narrow trench dug toward an enemy fortification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The **sap** doth rise, and budding twigs proclaim the return of spring."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Whose tender tree nourished with **sap** divine yielded fruit immortal."*
-> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The ascent of vital **sap** within the wood nourishes both branch and leaf."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The winter's cold doth nip the tender plant, And keep the **sap** from feeding leaf and fruit."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In spring the **sap** begins to flow through the sugar maples before the frost has left the woodland floor."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He could almost hear the upward surge of vital **sap** awakening the slumbering apple orchards."*

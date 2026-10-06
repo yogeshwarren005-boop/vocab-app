@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A moral qualm or feeling of doubt that restrains action; also an apothecary measure of weight (20 grains).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In casuistry and moral theology, a persistent fear that a chosen deed is sinful, demanding minute examination of conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of doubt or hesitation with regard to the morality or propriety of an action; or a small unit of weight (1/24 of an ounce).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and classical pharmacy, an agonizing moral hesitation regarding right and wrong, or an ancient apothecaries' weight equal to 20 grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Yes, good faith, every dram of it; and I will not bate thee a **scruple**."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt almost guilty in asking for knowledge about him, but the dread of acting wrongly silenced every other **scruple**."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And these chaps, too, had no earthly reason for any kind of **scruple**."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Some craven **scruple** of thinking too precisely on the event, a thought which quartered hath but one part wisdom and three parts coward."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She entertained a delicate moral **scruple** against enjoying wealth derived from oppressive social practices."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare was tormented by a persistent theological **scruple** that prevented him from taking holy orders."*

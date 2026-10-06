@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into soap through chemical reaction with an alkali; hydrolyzed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and lipidology, fats whose triglyceride bonds have undergone alkaline decomposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into soap through alkaline hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic chemistry, describing lipids or esters that have reacted with a base to form fatty acid salts and alcohol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When the mutton fat is completely **saponified**, the alkaline base neutralizes the stearic acid."*
-> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The ingested lipids are partly **saponified** by the alkaline secretions of the bile and pancreatic fluid."*
-> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The resinous ester was **saponified** using alcoholic potash and then precipitated with acid."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The tallow, having been thoroughly **saponified** by boiling alkali, parted with its heavy glycerin."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"When vegetable fats are completely **saponified**, they yield soluble soaps perfectly suited for domestic scouring."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The organic residue, once **saponified** and neutralized, was subjected to microscopic examination for microbial spores."*

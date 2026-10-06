@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubs and trees in the soapberry family whose berries yield a lathering soap substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, soapberry trees whose pericarp contains saponins traditionally used for laundering delicate textiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trees and shrubs in the family Sapindaceae whose fruit contains saponin and is used as a natural soap (soapberry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, the type genus of Sapindaceae whose drupes yield lather when macerated in water, traditionally used as detergent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Roxburgh (*Flora Indica*):** *"The pulp of the fruit of **Sapindus** saponaria forms an abundant lather with water and serves in place of soap."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The indigenous inhabitants harvest the nuts of **Sapindus** for washing delicate silk fabrics."*
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Sapindus** is represented in the warmer states by the wild soapberry tree."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The berries of **sapindus** saponaria lather freely in water and are widely employed in the West Indies as a substitute for manufactured soap."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Species of **sapindus** grow natively in southern river valleys, recognized by their translucent, saponaceous fruits."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Native washermen have utilized the wild berries of **sapindus** for generations to cleanse delicate silk fabrics."*

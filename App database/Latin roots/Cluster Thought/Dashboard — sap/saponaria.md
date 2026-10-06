@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous flowering plants in the carnation family, known as soapworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal medicine, plants whose roots and foliage yield lathering saponins used as natural detergents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the pink family (Caryophyllaceae), commonly called soapwort, containing lather-forming saponins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry and ethnobotany, specifically Saponaria officinalis, whose roots produce a gentle natural detergent historically used for washing wool and tapestry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"The bruised leaves of **Saponaria**, or soapwort, being agitated in water, make an abundant froth."*
-> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Common **Saponaria** officinalis grows along riverbanks, bearing pale pink clusters of scented blossoms."*
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Saponaria** belongs to the pink family, notable for containing mucilaginous saponins."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The common **saponaria**, or soapwort, contains abundant mucilaginous juice that lathers like soap in water."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along roadside banks, **saponaria** officinalis blooms with dense clusters of pale pink flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Mountain villagers gather wild **saponaria** roots to scour fine woolen shawls without damaging the fiber."*

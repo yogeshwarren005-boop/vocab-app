@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to measurement; in music, denoting notation indicating exact rhythmic time values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and historical metrology, the transition from unmeasured plainchant to polyphonic notation with precise note lengths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to measure, measurement, or metric rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical musicology, referring to the medieval and Renaissance notation system indicating exact rhythmic durations through note shapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Burney (*A General History of Music*):** *"The introduction of **mensural** notation enabled composers to record polyphonic rhythms with mathematical precision."*
-> - 📜 **John Hawkins (*A General History of the Science and Practice of Music*):** *"Franco of Cologne was among the earliest masters to establish rules for **mensural** harmony."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Every physical experiment depends upon **mensural** accuracy in recording time, weight, and distance."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The invention of **mensural** notation enabled fourteenth-century composers to coordinate intricate polyphonic voices with rhythmic precision."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architectural harmony of the façade depends upon subtle **mensural** proportions governing the placement of arches."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Classical verse achieves its majestic flow through strict adherence to balanced **mensural** intervals."*

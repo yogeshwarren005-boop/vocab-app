@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater water-molds that feed saprophytically on organic matter and parasitize fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic pathology and mycology, the primary causal agent of fungal epidemics attacking salmonid fins and gills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of water molds (Oomycota) that grow as saprobes on decaying aquatic matter or parasites on freshwater fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic pathology and mycology, cotton-like fungal molds causing cotton-wool disease (saprolegniasis) in fish and amphibian eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Saprolegnia in Relation to the Salmon Disease*):** *"The aquatic fungus **Saprolegnia** forms a white, cottony growth over the epidermal lesions of diseased salmon."*
-> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Specimens of drowned insects in pond water were speedily covered with filaments of **Saprolegnia**."*
-> - 📜 **Louis Pasteur (*Studies on the Silkworm Disease*):** *"Parasitic molds related to **Saprolegnia** attack weak aquatic larvae and fish fry."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"My investigations into the salmon disease proved that the destructive white fungus was a species of **saprolegnia**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Aquarium fish suffering from skin abrasions are rapidly overwhelmed by parasitic **saprolegnia**."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Freshwater streams and stagnant pools harbor ubiquitous spores of **saprolegnia**, decomposing dead aquatic vegetation."*

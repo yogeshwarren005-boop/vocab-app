@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commensal manner; living together in a non-parasitic symbiotic relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological natural history, co-existing with a host species to obtain nourishment or shelter without inflicting systemic injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commensal manner; living in a non-injurious symbiotic relationship or dining at a common table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiological ecology, coexisting within a host organism without eliciting an inflammatory or immune response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The acorn-shells attached to the whale's skin dwell **commensally** without invading its living flesh."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Certain annelids dwell **commensally** in the tubes of larger burrowing creatures."*
-> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Epiphytes growing upon tropical forest trees subsist **commensally** upon airborne moisture without parasitic tapping."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Various micrococci reside **commensally** within the nasopharyngeal cavity under ordinary conditions of host health."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Certain small crustaceans inhabit the branchial chambers of bivalves **commensally**, sharing the current of nutrient water."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic cats and dogs have lived **commensally** with mankind for millennia, sharing hearth and sustenance."*

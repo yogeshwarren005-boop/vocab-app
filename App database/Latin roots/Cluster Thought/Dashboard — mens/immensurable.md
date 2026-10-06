@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being measured; measureless, boundless, or limitless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical poetry and sublime cosmological prose, denoting infinities that surpass all finite instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being measured; boundless, limitless, or immeasurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metaphysics and poetry, exceeding any finite metric, standard, or capacity of quantification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild Abyss, the womb of Nature and perhaps her grave, through the **immensurable** void they plunge."*
-> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"He reigns over the **immensurable** deep, sovereign of elemental storms."*
-> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"In my dreams, architectural halls opened into **immensurable** corridors vanishing into eternity."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild Abyss, the womb of Nature and perhaps her grave, through dark and **immensurable** space."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Beneath the vaulted sky lay the **immensurable** deep, untamed by mortal dominion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The creative imagination partakes of an **immensurable** energy that defies mechanical analysis."*

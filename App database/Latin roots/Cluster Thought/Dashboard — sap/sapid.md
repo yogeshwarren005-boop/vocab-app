@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant, savory, or distinctive taste; flavorful or palatable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and culinary philosophy, possessing lively intellectual zest, piquancy, or agreeable character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant, savory, or distinct flavor; palatable or flavorful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and gastronomic aesthetics, stimulating the gustatory receptors with agreeable, flavorful qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lamb (*Essays of Elia*):** *"The roast pig presented a crisp, succulent crackling and the most **sapid** morsels imaginable."*
-> - 📜 **Laurence Sterne (*A Sentimental Journey*):** *"A crust of bread and a flask of **sapid** wine sufficed for my modest luncheon."*
-> - 📜 **John Ruskin (*The Stones of Venice*):** *"True art, like wholesome food, must be **sapid** and nourishing to the human spirit."*
+> - 📜 **Charles Lamb (*The Essays of Elia*):** *"The roasted pork offered a morsel so richly **sapid** that even ascetic hermits might have yielded to temptation."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A well-read mind imparts a **sapid** relish to the driest conversational topics."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His prose was crisp and **sapid**, seasoned with unexpected bursts of satirical wit."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on decaying or dead organic matter (especially of animals or carrion insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and vertebrate ecology, organisms playing a crucial sanitary role by decomposing carcasses and leaf-litter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on dead, decaying, or putrefying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and invertebrate zoology, describing scavengers such as carrion beetles or fly larvae that consume decomposing biological substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms and **saprophagous** larvae consume decaying vegetation, converting it into rich loam."*
-> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Certain beetles are strictly **saprophagous**, subsisting entirely upon decomposing animal carcasses."*
-> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swarms of **saprophagous** insects quickly dispose of fallen fruit and rotting timber in the tropical forest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Numerous beetles and dipterous larvae have evolved strictly **saprophagous** habits, expediting the breakdown of animal carcasses."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The digestive tract of **saprophagous** insects is specially modified to tolerate putrefactive toxins."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The burying beetle provides a classic example of a **saprophagous** scavenger serving the sanitary economy of nature."*

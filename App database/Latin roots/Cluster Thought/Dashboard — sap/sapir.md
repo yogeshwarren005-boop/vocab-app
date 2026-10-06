@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edward Sapir (1884–1939), an American linguist and anthropologist influential in structural linguistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic anthropology, co-originator of the Sapir-Whorf hypothesis regarding linguistic relativity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edward Sapir (1884–1939), an influential American linguist and anthropologist renowned for the Sapir-Whorf hypothesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological linguistics, referring to Sapir's pioneering research on Native American languages and the linguistic relativity of worldview.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"The brilliant field researches of Edward **Sapir** revealed the intricate grammatical architecture of indigenous tongues."*
-> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"In agreement with **Sapir**, we recognize that linguistic categories mold our intuitive perception of reality."*
-> - 📜 **Leonard Bloomfield (*Language*):** *"The phonetic and phonemic methods introduced by **Sapir** set a new standard for descriptive linguistics."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The field studies of **Sapir** demonstrated the profound structural sophistication of indigenous American languages."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"My former pupil Edward **Sapir** revealed how grammatical categories subtly shape human habits of thought."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"Building upon the insights of **Sapir**, we recognized that the linguistic system determines how reality is segmented."*

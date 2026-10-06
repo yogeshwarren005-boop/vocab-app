@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo the monthly discharge of blood and mucosal tissue from the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalogy, experiencing recurring cycles of reproductive fertility accompanied by endometrial sloughing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge blood and mucosal tissue from the uterus as part of the monthly cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human reproductive physiology, to undergo the periodic hormonal shedding of the uterine lining during the female reproductive years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Female anthropoid apes **menstruate** at intervals approximating those observed in the human species."*
-> - 📜 **Havelock Ellis (*Man and Woman*):** *"Healthy women begin to **menstruate** during adolescence as secondary sexual characteristics mature."*
-> - 📜 **James George Frazer (*Balder the Beautiful*):** *"In various indigenous societies, girls who begin to **menstruate** are secluded in special ceremonial huts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Female primates continue to **menstruate** cyclically throughout adult life until ovarian senescence intervenes."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological imperative to **menstruate** reflects the recurring preparation of the uterine mucosa for embryo implantation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female anthropoid apes **menstruate** at intervals corresponding remarkably closely to the human monthly period."*

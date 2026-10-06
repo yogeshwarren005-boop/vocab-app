@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measurable extent of some kind, such as length, breadth, depth, or time; an aspect or facet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metaphysics, spatial coordinates defining the framework of the universe or scope of an idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measurable extent of a particular kind, such as length, breadth, depth, or time; or scope and magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and differential geometry, the minimum number of independent coordinates required to specify any point within a mathematical space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"There is no difference between Time and any of the three dimensions of Space except that our consciousness moves along it; Time is the fourth **dimension**."*
-> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul's expansion adds a new **dimension** to every ordinary experience."*
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"The tragedy assumed an almost epic **dimension** under the burning tropical sky."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Hath not a Jew eyes? hath not a Jew hands, organs, **dimension**, senses, affections, passions?"*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The massive oak cast an ominous shadow whose immense **dimension** deepened with the setting sun."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A great moral idea expands the mind, adding a new spiritual **dimension** to daily experience."*

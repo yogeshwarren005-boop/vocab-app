@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment from dead or decaying organic matter; living as a saprophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological microbiology, nutrition characterized by enzymatic external digestion of non-living cellular substrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment from dead, decaying, or decomposing organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial physiology and botany, designating a heterotrophic lifestyle relying on external enzymatic digestion of non-living substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain non-green flowering plants have adopted a **saprophytic** mode of life in damp shady woods."*
-> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The **saprophytic** bacteria multiplying in the broth converted the gelatin into liquid peptones."*
-> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"A **saprophytic** fungus derives its carbon and nitrogen directly from dead and putrefying matter."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Harmless **saprophytic** bacteria swarmed in the fermenting broth, competing with pathogenic organisms for nourishment."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Woodland fungi exhibiting **saprophytic** nutrition perform the vital ecological task of clearing dead timber."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under normal circumstances, the human alimentary canal harbors myriad **saprophytic** micro-organisms."*

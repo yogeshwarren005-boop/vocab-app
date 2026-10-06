@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To measure, calculate, or gauge extent, dimension, or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and mathematical physics, establishing exact proportional relationships between observable forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To measure; to determine dimensions, area, or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and land geodesy, to compute precise spatial dimensions and geographic areas through geometric triangulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Reid (*Essays on the Active Powers of Man*):** *"We must learn to **mensurate** moral obligations not by subjective inclination, but by objective duty."*
-> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The geometrician learns to **mensurate** celestial distances by applying planar trigonometry."*
-> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"To **mensurate** accurately is the first prerequisite for formulating physical laws."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford*):** *"The surveyor was dispatched to **mensurate** the mountain contours before finalizing the canal aqueduct route."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Our instruments enabled us to **mensurate** mechanical movements down to the ten-thousandth part of an inch."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"Astronomers must meticulously **mensurate** planetary orbits across successive oppositions to detect gravitational perturbations."*

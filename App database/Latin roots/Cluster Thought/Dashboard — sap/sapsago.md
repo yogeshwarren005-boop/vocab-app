@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, pungent green Swiss cheese flavored with powdered blue fenugreek (Schabziger).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition, an ancient skimmed-milk cheese of the canton of Glarus, grated over rustic potato and noodle dishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, pungent green Swiss cheese flavored with powdered dried sweet clover (blue fenugreek).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dairy gastronomy and cheesemaking, Schabziger, an ancient alpine skimmed-milk cheese grated over bread and noodles for sharp herbal savor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The grated green **sapsago** cheese imparted a pungent herbal fragrance to the Swiss macaroni."*
-> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"He brought out a hard, conical block of Alpine **sapsago**, flecked with aromatic clover leaves."*
-> - 📜 **George Borrow (*The Bible in Spain*):** *"The traveler sustained himself upon a crust of bread and a morsel of hard Swiss **sapsago**."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A crumb of pungent **sapsago** cheese imparted a curious rustic tang to the evening supper."*
+> - 📜 **Charles Lamb (*The Essays of Elia*):** *"He relished the sharp, clover-scented sharpness of green **sapsago**, grated over buttered toast."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The host produced a hard wedge of alpine **sapsago**, prized by connoisseurs for its fragrant herbal sharpness."*

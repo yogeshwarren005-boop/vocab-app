@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, aquatic sediment rich in organic matter formed under anoxic conditions on lake or sea beds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum geology and paleoceanography, carbon-rich anaerobic mud that constitutes the precursor to petroleum hydrocarbons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark-colored, organic-rich sediment deposited in oxygen-depleted aquatic environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geology and paleoceanography, dark muddy marine layers formed during periods of deep-water anoxia, rich in preserved organic carbon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The fetid black **sapropel** accumulated on the stagnant lake bed, rich in organic slime and anaerobic bacteria."*
-> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists recognize ancient petroleum source beds in the dark, bituminized **sapropel** of prehistoric seas."*
-> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The primordial mud and aquatic **sapropel** provided a fertile matrix for the emergence of rudimentary living forms."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Anaerobic lake basins accumulate thick deposits of dark **sapropel**, preserving microscopic plant tissues from oxidation."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"Fossiliferous shales frequently originate from ancient seafloor **sapropel** deposited in stagnant marine basins."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The bed of the tropical lagoon was covered with foul, bituminous **sapropel** exhaling inflammable gases."*

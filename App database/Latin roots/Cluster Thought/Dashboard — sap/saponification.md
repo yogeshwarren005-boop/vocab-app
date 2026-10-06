@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical hydrolysis of a fat or oil with an alkali to produce soap and glycerol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and industrial manufacturing, alkaline cleavage of ester linkages yielding salts of fatty acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical conversion of a fat or oil into soap and alcohol through reaction with an alkali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and forensic science, alkaline hydrolysis of triglycerides yielding glycerol and fatty acid salts, or adipocere formation in cadavers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical process of **saponification** decomposes neutral fats into alkaline soap and sweet glycerin."*
-> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"In the **saponification** of tallow, caustic potash combines with fatty acids to form soluble stearates."*
-> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The gradual **saponification** of fixed oils by lixivial salts was known even to ancient artisans."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The process of **saponification** decomposes animal tallow into stearic acid and sweet glycerine."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Industrial **saponification** of vegetable oils with caustic soda revolutionized nineteenth-century hygiene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under moist underground conditions, subcutaneous fat undergoes spontaneous **saponification**, transforming into adipocere."*

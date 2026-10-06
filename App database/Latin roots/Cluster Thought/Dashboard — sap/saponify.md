@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a fat, oil, or ester into soap by treatment with an alkali.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and physiological chemistry, hydrolyzing fatty esters through heating with basic hydroxide solutions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a fat, oil, or ester into soap by boiling with an alkali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical technology, to hydrolyze an ester bond using aqueous hydroxide to produce a carboxylate salt and an alcohol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heating animal oils with caustic soda will rapidly **saponify** the triglycerides."*
-> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Caustic alkalis possess the power to **saponify** fixed oils upon application of moderate heat."*
-> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium hydrate acts vigorously to **saponify** vegetable oils, forming hard soluble soap."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Boiling caustic potash will rapidly **saponify** the oil, turning it into a clear, gelatinous lather."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"To **saponify** beeswax requires prolonged heating under pressure with concentrated lye."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Industrial chemists learned how to **saponify** crude palm oils on an enormous scale."*

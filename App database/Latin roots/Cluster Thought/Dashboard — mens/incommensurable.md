@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be judged or measured by the same standard; lacking a common basis of comparison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and mathematics, values or geometric lengths (like the diagonal of a unit square) that cannot be expressed as simple ratios.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a common measure or standard of comparison; incapable of being compared or evaluated together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and epistemology, describing magnitudes whose ratio is irrational, or paradigms lacking shared evaluative criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Intellectual pleasures and physical sensations are qualitatively distinct and fundamentally **incommensurable**."*
-> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Use-value and exchange-value are frequently **incommensurable** when measured by immediate utility."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The side of a square and its diagonal are geometrically **incommensurable** magnitudes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The diagonal of a square remains forever **incommensurable** with its side, presenting an irremovable mathematical truth."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The existence of **incommensurable** geometric lengths compelled Greek geometers to develop a rigorous theory of proportions."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical ecstasy and analytical logic appear entirely **incommensurable** when judged from within their respective experiential frameworks."*

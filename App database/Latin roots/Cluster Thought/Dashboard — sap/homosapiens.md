@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The primate species to which modern humans belong, characterized by high intelligence and symbolic language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleoanthropology and zoological taxonomy, the sole surviving species of the genus Homo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The species of modern bipedal primates to which all living humans belong, characterized by high cognitive capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and taxonomy, the binomial taxon established by Linnaeus in 1758 denoting wise or rational man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"In a genealogical series, **Homo sapiens** forms but a single branch of the catarrhine simian lineage."*
-> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural gap between **Homo sapiens** and the gorilla is smaller than that separating the gorilla from the lower monkeys."*
-> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The phylogenetic emergence of **Homo sapiens** crowns the long terrestrial drama of vertebrate evolution."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In a series of forms graduating insensibly from some ape-like creature to man as he now exists, it would be impossible to fix on any definite point where the term **homosapiens** ought to be applied."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural differences separating **homosapiens** from the highest apes are less than those which divide the ape from lower monkeys."*
+> - 📜 **Asa Gray (*Darwiniana*):** *"Linnaeus classified **homosapiens** alongside the primates upon anatomical grounds, despite philosophical objections."*

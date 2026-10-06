@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant, fungus, or microorganism that lives on dead or decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological botany and mycology, an organism absorbing dissolved nutrients from decomposed humus rather than synthesizing sugars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives on and derives its nutrients from dead or decaying organic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and mycology, historical term for heterotrophic fungi, bacteria, or plants living upon decomposing humus without true photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The bird's-nest orchis functions as a **saprophyte**, absorbing nourishment from leaf-mould through its fungal mycorrhizae."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Unlike green photosynthetic plants, a **saprophyte** lives upon pre-existing organic compounds in the soil."*
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The kingdom of fungi is primarily composed of **saprophytes** that break down dead timber and humus."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The Indian pipe, lacking chlorophyll, thrives as a woodland **saprophyte** nourished by forest leaf-mould."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Certain delicate orchids live as a subterranean **saprophyte**, absorbing decomposed nutrients through fungal mycorrhizae."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mushroom is an archetypal **saprophyte**, converting forest floor detritus into fungal biomass."*

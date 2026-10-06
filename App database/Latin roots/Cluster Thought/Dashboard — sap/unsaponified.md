@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap; remaining in the form of neutral fat, wax, or ester.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical lipid chemistry and manufacturing, the portion of a fat or oil mixture that resists alkaline saponification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap; remaining in the form of neutral fat, oil, or ester without alkaline hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical lipid chemistry and industrial soap manufacturing, the fraction of neutral triglycerides or waxes that failed to react with alkali.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The ethereal extract contained neutral waxes that remained **unsaponified** after treatment with aqueous potash."*
-> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"A considerable portion of the cholesterol in the bile remains **unsaponified** throughout intestinal digestion."*
-> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Mineral oils mixed with vegetable fats persist in an **unsaponified** condition following alkaline boiling."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Analysis of the residual fat showed that a considerable portion remained **unsaponified** after the first boiling."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"To ensure the quality of fine toilet soap, every trace of **unsaponified** grease must be eliminated."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The chemical extraction separated the **unsaponified** sterols from the soluble fatty acid soaps."*

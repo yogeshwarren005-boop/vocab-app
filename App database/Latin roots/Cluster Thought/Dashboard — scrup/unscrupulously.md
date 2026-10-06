@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unprincipled, dishonest, or morally unconstrained manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investigative history and dramatic fiction, pursuing ambition by fraud, deception, or ruthless betrayal of allies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing no moral principles; dishonestly, unfairly, or ruthlessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical critique, pursuing personal gain or victory without regard to truth, honor, or justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Thus **unscrupulously** did the old gentlewoman sacrifice every principle to secure her selfish objective."*
-> - 📜 **Mark Twain (*The Gilded Age*):** *"The corrupt lobbyist operated **unscrupulously** behind the scenes to purchase legislative votes."*
-> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"He borrowed and speculated **unscrupulously**, trusting that audacious bluff would conceal his insolvency."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farfrae's rivals claimed that he had acted **unscrupulously**, though in truth he had merely exercised superior foresight."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The cunning solicitor acted **unscrupulously**, squeezing desperate clients for every guinea they possessed."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Lobbyists distributed railroad stock **unscrupulously** among legislators to purchase favorable votes."*

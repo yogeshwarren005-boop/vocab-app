@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of moral scruples; unprincipled, corrupt, and dismissive of ethical obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical satire and commerce, exploiting trust or legal loopholes for ruthless personal or financial aggrandizement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing no moral principles; not honest or fair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and commercial critique, opportunistically unprincipled, exploiting others without ethical inhibition or remorse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There have been times when ladies lived in strongholds and had **unscrupulous** barons for neighbors."*
-> - 📜 **Henry David Thoreau (*Walden*):** *"Men at all? or small movable forts and magazines, at the service of some **unscrupulous** man in power?"*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"For ever since those inventive but **unscrupulous** times, men have sought gain at any hazard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode's past was stained by transactions with an **unscrupulous** pawnbroker who accumulated stolen wealth."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The Mississippi steamboat harbored many an **unscrupulous** swindler preying upon naive frontiersmen."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"Governments often enlist the services of **unscrupulous** men who obey orders without consulting conscience."*

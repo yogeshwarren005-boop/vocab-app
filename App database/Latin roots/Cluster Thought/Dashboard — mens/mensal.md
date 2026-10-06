@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the dining table; in church law, referring to revenues allocated for a bishop's table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and ecclesiastical jurisprudence, benefices or customs reserved specifically for domestic hospitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a table; specifically, providing for the maintenance of a table or dining board.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical law and feudal property tenure, designating lands, revenues, or tithes allocated specifically to supply the bishop's or abbot's dining table.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The lavish **mensal** luxuries of the later emperors disgusted the austere senators of the old republic."*
-> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The brothers fell into fierce disputation over the allocation of their father's **mensal** legacy."*
-> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **mensal** tithes were specifically reserved for the sustenance of the presiding prelate."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Monastic revenues were divided between monastic maintenance and the bishop's private **mensal** fund."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Ancient statutes secured specific royal estates as **mensal** properties destined for the sustenance of the sovereign's household."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The fertile valley lands were declared **mensal** possessions of the abbey, supplying wheat and wine for the hospitality of the high table."*

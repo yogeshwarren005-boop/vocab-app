@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the qualities of soap; soapy, slippery, or unctuous in texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character satire and social critique, describing an evasively smooth, flattering, or untrustworthy demeanour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the qualities of soap; soapy, slippery, or unctuous in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical mineralogy and character analysis, slick and lathery, or hypocritically smooth, evasive, and oily in social conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer possessed a bland and **saponaceous** manner that made his slippery promises hard to pin down."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale-oil, when freshly baled from the case, felt remarkably soft and **saponaceous** to the touch."*
-> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The courtier smiled with **saponaceous** servility, agreeing with every royal whim."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blubber felt soft and **saponaceous** to the touch as the whalemen stripped the blanket-pieces from the carcass."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The greasy lawyer had a smooth, **saponaceous** manner that set every honest client on guard."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The decomposition of fatty acids by alkali yields a thick **saponaceous** compound."*

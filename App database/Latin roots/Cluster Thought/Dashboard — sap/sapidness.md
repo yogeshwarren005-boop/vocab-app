@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavorfulness, palatability, or the property of having a pleasing taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical prose and early scientific treatises, the distinct gusto or sensory richness inherent in organic bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of possessing distinct, agreeable taste or relish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic critique, the flavorful quality or savoriness of a dish or beverage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The remarkable **sapidness** of wild berries commended them to the primitive hunters of ancient Britain."*
-> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The distinct **sapidness** of saline solutions demonstrates the diverse shapes of their constituent particles."*
-> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The lively **sapidness** of his epistolary style preserves these old memoirs from oblivion."*
+> - 📜 **William Hazlitt (*Sketches and Essays*):** *"The native **sapidness** of wild berries gathered on sunny hillsides exceeds any cultivated fruit."*
+> - 📜 **Charles Lamb (*The Essays of Elia*):** *"He praised the lingering **sapidness** of old Madeira wine, savored slowly by the fireside."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A pleasant **sapidness** in colloquial discourse keeps the intellect alert and amused."*

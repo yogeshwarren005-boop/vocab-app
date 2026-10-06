@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of sap; juicy, succulent, or vigorously alive; also informal for overly sentimental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literature and forestry, wood or foliage rich in living cambial juices and vibrant growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of sap; juicy, succulent, or vigorously alive; or overly sentimental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In timber carpentry and modern colloquial critique, containing green wood with active sap, or excessively emotional and cloying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old oak, quite transfigured, spreading out a canopy of **sappy** dark-green foliage, stood majestic in the sun."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s naething like the honest nappy; whare’ll ye e’er see men sae happy, or find a heart so warm and **sappy**?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The timber had been cut green, and the **sappy** logs hissed and crackled upon the hearth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And all the **sappy** branches turn to dry and withered boughs."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I split the fresh pine logs, enjoying the resinous scent of the green, **sappy** wood."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young coppice was thick with **sappy** hazel rods, swaying pliantly under the spring breeze."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an immense degree; exceedingly, hugely, or extraordinarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social narrative and character observation, magnifying emotions, amusement, or relief beyond usual measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great degree or extent; vastly, enormously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative comparison, overwhelmingly or by an extraordinary margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **immensely** amused by Mr. Collins's pompous and solemn declarations."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The strange clue proved to be **immensely** valuable in guiding our investigation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt **immensely** relieved when the distressing conversation was brought to an end."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Domestic breeds vary **immensely** in structural conformation compared to the uniform characters of wild ancestral species."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found his professional labours **immensely** lightened by Dorothea's sympathetic understanding."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The discovery of that single footprint altered the entire aspect of the case and assisted us **immensely**."*

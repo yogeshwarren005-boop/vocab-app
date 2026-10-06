@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavorful savoriness, palatableness, or distinct taste that delights the palate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and aesthetics, the capacity of a substance or discourse to stimulate agreeable discernment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Palatability, rich flavor, or distinct stimulation of the sense of taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological gastronomy, the concentration of gustatory chemical stimulants perceived by the taste buds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Samuel Johnson (*The Rambler*):** *"Luxury cloys the appetite, until dishes lose all their natural **sapidity** and zest."*
-> - 📜 **William Hazlitt (*Table-Talk*):** *"The pleasant **sapidity** of seasoned conversation outlasts the formal brilliance of disputation."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The sensation of **sapidity** produced on the palate depends upon the chemical qualities of the body dissolved."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Salt imparts a delightful **sapidity** to meats, preserving them from corruption while sharpening appetite."*
+> - 📜 **Charles Lamb (*The Essays of Elia*):** *"No culinary art can rival the native **sapidity** of succulent young crackling."*
+> - 📜 **Oliver Wendell Holmes (*Over the Teacups*):** *"Anecdotal humor provides the conversational **sapidity** that rescues formal dinners from tedious dullness."*

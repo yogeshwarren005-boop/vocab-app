@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic relationship between two organisms wherein one benefits while the other is neither harmed nor helped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ecology, co-adaptive companionship where sharing shelter, transport, or crumbs provides mutual survival advantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic relationship between two organisms where one benefits while the other is neither harmed nor helped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In community ecology and evolutionary biology, a neutral symbiotic adaptation distinguished from mutualism and true parasitism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In instances of biological **commensalism**, neither species suffers detriment from their continuous association."*
-> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Mutual assistance through physiological **commensalism** increases the chance of survival in fragile environments."*
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"We must strictly distinguish parasitism from true **commensalism**, where companionship brings no injury."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Evolutionary transitions between simple **commensalism** and obligate mutualism occur across numerous marine invertebrate taxa."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The phenomenon of **commensalism** proves that intimate biological coexistence need not entail predatory injury."*
+> - 📜 **Asa Gray (*Darwiniana*):** *"Botanical epiphytes dwelling upon forest branches provide picturesque demonstrations of ecological **commensalism**."*

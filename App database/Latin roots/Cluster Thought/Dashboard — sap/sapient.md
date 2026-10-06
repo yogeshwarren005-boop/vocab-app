@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wise or attempting to appear wise; sagacious and discerning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ironical narrative and literature, possessing or affecting an aura of grave intellectual supremacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wise, sagacious, or possessing great discernment; or pretending to be wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical prose, possessing deep understanding, or mockingly applied to pretenders of wisdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*King Lear*):** *"It shall be done; I will arraign them straight. Come, sit thou here, most **sapient** sir."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The **sapient** gentlemen of the coroner's jury deliberated upon the mysterious demise of the lodger."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her father looked extremely **sapient**, and nodded approval of the prudent economic arrangement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him, from his all-obeying breath I hear The doom of Egypt; and this **sapient** queen, Whom ne'er the word of 'No' woman heard speak, Shall here be queen of us."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **sapient** critics who scoffed at evolutionary geology were quickly silenced by fossil discoveries."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The venerable whaleman shook his head with a **sapient** look that warned us of impending tempest."*

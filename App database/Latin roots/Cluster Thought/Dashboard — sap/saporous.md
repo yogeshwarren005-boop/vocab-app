@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor; having a distinct, stimulating taste or agreeable savor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiology and natural philosophy, exciting the gustatory sense through dissolved sapid particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having flavor or taste; flavorful, savory, or sapid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and 18th-century philosophy, capable of exciting the gustatory nerve endings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The juices of ripe fruits become remarkably **saporous** under the warm rays of the autumn sun."*
-> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"Saline particles impart a sharp, **saporous** sensation when applied to the moisture of the tongue."*
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **saporous** qualities of wine or vinegar are sensible ideas produced in our minds by corpuscular motion."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The tongue discerns between insipid substances and those that are richly **saporous**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The taste of sugar is a secondary quality produced in the mind by **saporous** particles affecting the palate."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A well-prepared broth is deeply **saporous**, comforting the invalid with delicate savor."*

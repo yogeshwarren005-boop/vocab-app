@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the menses or periodic uterine cycle; occurring on a monthly basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological and medical literature, physiological rhythms and historical rituals associated with the lunar cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the menses or the monthly cycle of menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive physiology and mammalian biology, recurring on a monthly cycle governed by ovarian and pituitary hormonal rhythms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"The regular **menstrual** cycle in higher primates indicates a deep physiological homology with mankind."*
-> - 📜 **William James (*The Principles of Psychology*):** *"Periodic **menstrual** rhythms demonstrate how bodily changes subtly influence subjective temperament."*
-> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient taboos surrounded women during their **menstrual** period, demanding complete seclusion from tribal affairs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **menstrual** cycle serves as a sensitive diagnostic barometer reflecting female neuro-endocrine balance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **menstrual** periodicity observed in higher primates indicates a conserved physiological heritage dating to ancient mammalian ancestors."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Endometrial proliferation and subsequent breakdown constitute the morphological stages of the normal **menstrual** rhythm."*

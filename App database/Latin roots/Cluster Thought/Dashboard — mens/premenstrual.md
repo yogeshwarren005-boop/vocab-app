@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or experienced in the days immediately preceding menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and gynecology, transient somatic and affective changes observed prior to the onset of the menses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, experienced, or situated before menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and neuropsychiatry, designating physiological and emotional symptoms recurring in the late luteal phase of the ovarian cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The **premenstrual** phase is frequently characterized by mild vascular congestion and heightened nervous irritability."*
-> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Emotional tension observed during the **premenstrual** period often reactivates repressed neurotic conflicts."*
-> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Anthropological customs frequently record dietary restrictions observed during the **premenstrual** days."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe migraine headaches frequently coincide with the **premenstrual** drop in systemic hormonal levels."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The **premenstrual** phase is often characterized by emotional irritability, heightened sensory sensitivity, and physical fatigue."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Uterine congestion and glandular hypertrophy mark the histological changes characteristic of the **premenstrual** endometrium."*

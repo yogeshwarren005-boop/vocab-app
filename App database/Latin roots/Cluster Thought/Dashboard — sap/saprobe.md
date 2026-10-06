@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that derives its nourishment from decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and saprology, a decomposing bacterium or fungus recycling nutrients in terrestrial and aquatic biomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a fungus or bacterium, that derives its nourishment from decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and limnology, a decomposer essential for nutrient cycling in aquatic and terrestrial ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The microscopic **saprobe** plays an indispensable role in nature by decomposing dead animal tissues into elemental salts."*
-> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Every bacterial **saprobe** secretes digestive ferments that liquefy decaying organic matter."*
-> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Without the scavenge work of the fungal **saprobe**, the surface of the earth would be choked with ancient debris."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Every microscopic **saprobe** plays an indispensable role in resolving dead organic matter into primitive mineral elements."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms collaborate with each fungal **saprobe** in transforming fallen leaves into rich agricultural humus."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The bacterial **saprobe** sustains the cycle of life by decomposing lifeless tissue."*

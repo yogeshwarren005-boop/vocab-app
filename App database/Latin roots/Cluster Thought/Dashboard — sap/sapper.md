@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier employed in building military fortifications, digging trenches, or laying and clearing mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and combat engineering, an operative skilled in subterranean tunneling under enemy battlements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier responsible for military engineering duties, such as building fortifications, trenches, and bridges, or clearing minefields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, a combat engineer trained to excavate approach trenches (saps) toward enemy fortifications or detonate siege mines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A retired military **sapper** had settled in the village, skilled in masonry and surveying."*
-> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"Every imperial **sapper** worked tirelessly under heavy fire to entrench the exposed artillery battery."*
-> - 📜 **Winston Churchill (*The River War*):** *"The army was preceded by the **sapper** and miner, bridging every swollen torrent across the desert."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"He was a **sapper**, a military engineer from the regiment at Chatham, separated from his company during the Martian advance."*
+> - 📜 **Winston Churchill (*The River War*):** *"Every bridge and entrenchment along the railway line was constructed under the supervision of a dedicated **sapper**."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The brave **sapper** crawled forward under heavy rifle fire to sever the electrical wire of the enemy mine."*

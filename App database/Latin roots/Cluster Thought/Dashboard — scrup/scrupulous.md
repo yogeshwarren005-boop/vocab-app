@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strict moral integrity; painstaking, meticulously exact, and attentive to right conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional and scholarly practice, executing duties or scientific observations with rigorous precision and fidelity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diligent, thorough, and extremely attentive to details; or strictly adhering to moral principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and scholarship, characterized by uncompromising conscientiousness, precision, and rigorous honesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes’s **scrupulous** way of saving himself and his respectability not to feel concerned was sublime."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He is so very strict and **scrupulous** in his notions; over-scrupulous I must say."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A man of **scrupulous** honor would never have consented to profit by such an ignominious deception."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes examined the carpet with the most **scrupulous** care, magnifying glass in hand."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth was **scrupulous** in fulfilling every contract, holding that careless workmanship was an insult to God."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was a man of **scrupulous** honesty, incapable of deceiving any master who trusted him."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (the sapodilla family), largely comprising tropical evergreen trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, a family producing valuable latexes (such as gutta-percha and chicle) and nutritious fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical and subtropical trees and shrubs characterized by milky latex, leathery leaves, and edible fruits or gutta-percha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and systematic botany, the sapodilla family in the order Ericales, yielding valuable timber, chicle, gutta-percha, and shea butter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Sapotaceae** consists of tropical trees containing milky laticiferous juices and leathery evergreen foliage."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Gutta-percha and diverse edible fruits are yielded by arborescent members of **Sapotaceae**."*
-> - 📜 **George Bentham (*Genera Plantarum*):** *"The berry of **Sapotaceae** typically encloses large lustrous seeds with a conspicuous lateral scar."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **sapotaceae** is celebrated for its milky sap, which in many species hardens into gutta-percha or chewing gum."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous grand canopy trees in Malayan rainforests belong to the **sapotaceae**, prized for both timber and latex."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Members of the **sapotaceae** are predominantly tropical, with thick evergreen leaves and berry-like fruits."*

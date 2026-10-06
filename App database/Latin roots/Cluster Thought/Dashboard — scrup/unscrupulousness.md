@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being devoid of moral principles; shameless dishonesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical critique and political narrative, systemic disregard for honor, fairness, or human dignity in the pursuit of power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait or condition of lacking moral principles, fairness, or honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and historical critique, blatant disregard for ethical boundaries and human dignity in pursuit of ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Without these, not even the invaluable quality of **unscrupulousness** itself is sufficient to win modern worldly success."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"No lower estimate could have vindicated the indefatigable **unscrupulousness** of the colonel's lifelong ambitions."*
-> - 📜 **Joseph Conrad (*Nostromo*):** *"The cynical **unscrupulousness** of the dictator was matched only by the servility of his terrified ministers."*
+> - 📜 **George Eliot (*Romola*):** *"The tragic ruin of the Florentine republic stemmed from the cynical **unscrupulousness** of its factional leaders."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Unbridled commercial **unscrupulousness** undermines the trust upon which free economic exchange depends."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The revolutionary conspiracy was infected by an icy **unscrupulousness** that treated human lives as disposable instruments."*

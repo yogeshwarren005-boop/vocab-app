@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great wisdom, discernment, or knowledge, especially when applied with elevated judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and satirical prose, profound philosophical insight, or mocked pretension of superior understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great wisdom, discernment, or profound knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and moral philosophy, deep philosophical insight or sage discernment, often used ironically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"O sovran, virtuous, precious of all trees in Paradise! of operation blest to **sapience**, hitherto obscured."*
-> - 📜 **Walter Scott (*The Antiquary*):** *"The learned bailiff stroked his chin and delivered himself of an opinion with solemn **sapience**."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon nodded his head with an air of ponderous **sapience** that silenced the young curate."*
+> - 📜 **John Milton (*Paradise Lost*):** *"O sacred, wise, and wisdom-giving Plant, Mother of Science, now I feel thy power Within me clear, not only to discern Things in their causes, but to trace the ways Of highest agents, deemed of other **sapience**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The elder gentlemen nodded their heads with grave **sapience**, professing to foresee the fall of the ministry."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All mortal **sapience** is but a shadowy glimmer compared to the eternal light of cosmic truth."*

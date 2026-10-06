@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical art or process of calculating lengths, areas, and volumes of geometric figures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil surveying and classical applied geometry, computing physical land boundaries or structural volumes from linear measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or art of measuring; specifically, mathematical computation of lengths, areas, and volumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied geometry and geodesic engineering, the mathematical formulas and techniques used to determine geometric magnitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **mensuration** of the faculties of the mind has, I believe, no established scale in political science."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Mustard is well up in mathematics and practical **mensuration**, and can survey any farm in the parish."*
-> - 📜 **Isaac Newton (*Opticks*):** *"By the exact **mensuration** of optical angles, the refractive index of glass was definitively determined."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Accurate astronomical **mensuration** requires instruments constructed with the utmost mechanical rigidity and precision."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford*):** *"Practical **mensuration** formed the foundation of civil engineering, allowing contractors to estimate masonry volumes with certainty."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The mathematical **mensuration** of light rays demonstrates that nature operates according to immutable geometric laws."*

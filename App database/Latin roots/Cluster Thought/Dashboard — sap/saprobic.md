@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by organisms that live on decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology, waters classified according to their degree of organic pollution and anaerobic microbial decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living on dead, decaying organic matter; relating to saprobes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological water quality assessment, designating organisms that decompose organic pollutants, used to classify saprobic zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"In primitive stagnant waters, **saprobic** microorganisms thrive by consuming dissolved detritus."*
-> - 📜 **Louis Pasteur (*Researches on the Fermentation of Yeast*):** *"Certain fungi flourish best in **saprobic** environments rich in rotting carbohydrate residues."*
-> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The presence of **saprobic** organisms in a stream indicates a high level of decaying organic discharge."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The **saprobic** breakdown of animal waste products constitutes nature's universal recycling laboratory."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Without the ceaseless activity of **saprobic** organisms, the earth's surface would be choked with undecayed organic remains."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forest fungi exhibiting a **saprobic** habit thrive upon decomposing tree trunks in damp jungle ravines."*

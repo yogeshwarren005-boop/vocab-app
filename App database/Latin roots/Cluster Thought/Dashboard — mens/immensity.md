@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vastness, boundless expanse, or immeasurable extent in space, time, or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemplative literature, the infinite abyss of stellar space or eternity dwarfing mortal affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vastness of extent or size; boundless or immeasurable space, time, or magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmological astronomy and ontology, the infinite expanse of the physical cosmos or divine omnipresence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The sun sank into the **immensity** of the sea, leaving an ominous crimson glow."*
-> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The stars awaken in the human breast a thrilling sense of the celestial **immensity**."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He gazed upward into the starry **immensity** and felt his own earthly troubles shrink into nothingness."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The true philosopher stands receptive before the **immensity** of the universe, conscious of infinite law."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship glided onward through the dark **immensity** of the equatorial sea under an unclouded dome of stars."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Lost in the blue **immensity** of the Pacific, the pequod seemed a mere speck upon eternity."*

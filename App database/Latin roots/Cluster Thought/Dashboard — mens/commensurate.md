@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding in size, extent, or degree; proportionate and adequate to a given purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional law, ensuring governmental powers align with delegated responsibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding in size, extent, amount, or degree; proportionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and ethics, aligning rewards, penalties, or resources proportionally with merit, effort, or scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Power should be granted only with a **commensurate** responsibility to the commonwealth."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The means employed should be **commensurate** with the great ends to be attained."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her ambitions were vast, but her opportunities were by no means **commensurate** with them."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every secret is told, every crime is punished, every virtue rewarded, every wrong redressed, in silence and certainty, with **commensurate** power."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wages of labor naturally vary in proportion to the trust reposed in the workman, requiring a **commensurate** recompense."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her generous ambition sought an enterprise **commensurate** with her deep spiritual longings."*

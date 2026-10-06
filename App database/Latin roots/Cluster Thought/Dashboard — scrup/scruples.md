@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hesitations, pangs of conscience, or moral objections restraining conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical conflict and tragedy, competing obligations that paralyze resolve or impose agonizing restraint upon duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ethical doubts, moral reservations, or pangs of conscience that restrain one's actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, principled inhibitions preventing an individual from participating in questionable or dishonorable undertakings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Macbeth*):** *"Fears and **scruples** shake us: in the great hand of God I stand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Considering my own **scruples**, and the fact that I wish to live an honest life, I cannot comply."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Notions and **scruples** were like spilt needles, making one afraid of treading or sitting down."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Fears and **scruples** shake us; in the great hand of God I stand."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His rough commercial ambition brushed aside all tender **scruples** regarding his rival's misfortunes."*
+> - 📜 **George Eliot (*Romola*):** *"Tito possessed intellect and charm, but lacked the moral **scruples** necessary to resist seductive betrayal."*

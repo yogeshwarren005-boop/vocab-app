@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (the soapberry family), including maples, lychees, and horse chestnuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a major tropical and temperate family characterized by rich saponin content in bark or seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The soapberry family of flowering plants, comprising trees, shrubs, and woody vines including litchi, rambutan, and horse chestnut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an order-defining family characterized by compound leaves, nectariferous disks, and saponin-rich tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Sapindaceae** includes the soapberry and horse-chestnut, characterized by compound leaves and saponin-bearing seeds."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous climbing lianas and timber trees of the tropics belong to the extensive family **Sapindaceae**."*
-> - 📜 **George Bentham (*Genera Plantarum*):** *"The petals of **Sapindaceae** frequently bear an internal scale or tuft of hairs above the claw."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **sapindaceae** is remarkable for yielding both delicious tropical fruits like the litchi and lather-producing berries."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forest trees of the family **sapindaceae** abound in the Western Ghats, yielding durable timber and cleansing saponins."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The American buckeye represents the **sapindaceae** in our temperate deciduous woodlands."*

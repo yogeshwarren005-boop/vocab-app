@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat-topped tableland or elevation; the top slab of an altar; or an international society for high IQ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and ecclesiastical architecture, an elevated plateau capped by resistant rock, or consecrated altar stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A table; or a raised tabular anatomical surface, constellation, or high-IQ society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical architecture and astronomy, the flat top slab of a consecrated altar, or the constellation Mensa (Table Mountain) in the southern sky.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lyell (*Principles of Geology*):** *"The flat-topped **mensa** formations of the plateau were carved out by centuries of fluvial erosion."*
-> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The relics were reverently deposited beneath the marble **mensa** of the high altar."*
-> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The isolated **mensa** rose sheer into the sky, its flat summit untouched by human feet."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The flat tabular summit of the mountain resembled a colossal natural **mensa** elevated above the cloud line."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishop placed the sacred vessels upon the marble **mensa** of the ancient cathedral."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early Christian basilicas featured an unadorned stone **mensa** resting upon four slender porphyry pillars."*

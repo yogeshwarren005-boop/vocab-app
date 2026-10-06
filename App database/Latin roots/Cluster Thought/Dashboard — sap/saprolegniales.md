@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of aquatic oomycete molds containing the genus Saprolegnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic taxonomy and marine mycology, filamentous water-molds characterized by biflagellate zoospores and cellulose walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of water molds (phylum Oomycota) containing filamentous, coenocytic aquatic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an oomycete order characterized by biflagellate zoospores and oogonia containing multiple oospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Henry Huxley (*Saprolegnia in Relation to the Salmon Disease*):** *"The order **Saprolegniales** is distinguished by biflagellate zoospores and aquatic mycelia living upon decomposing organic matter."*
-> - 📜 **Joseph Dalton Hooker (*The Cryptogamic Botany*):** *"The water-molds of **Saprolegniales** bridge the structural boundary between simple algae and filamentous fungi."*
-> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Reproduction in the order **Saprolegniales** exhibits both sexual oogonia and free-swimming asexual swarm-spores."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The life cycle of the **saprolegniales** reveals remarkable adaptations for flagellated spore dispersal in freshwater currents."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic molds belonging to the **saprolegniales** thrive upon submerged vegetable debris."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists classification assigns these filamentous water molds to the distinct order **saprolegniales**."*

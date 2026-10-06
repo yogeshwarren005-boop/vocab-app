@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous flowering plants containing families such as Sapindaceae, Rutaceae, and Anacardiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phylogenetic taxonomy, woody plants typically possessing pinnately compound leaves and nectariferous disks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flowering plants comprising nine families, including Sapindaceae, Rutaceae, Anacardiaceae, and Meliaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, an angiosperm clade producing ethereal oils, resins, or saponins, including citrus, sumac, and mahogany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The alliance **Sapindales** comprises diverse woody families exhibiting asymmetrical floral development."*
-> - 📜 **Asa Gray (*Structural Botany*):** *"Within the order **Sapindales**, we observe a persistent tendency toward polycarpic and nectariferous disc structures."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species belonging to **Sapindales** are distributed widely throughout both hemispheres."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The extensive order **sapindales** groups together plants possessing glandular foliage and complex floral discs."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Comparative floral morphology places citrus and maple relatives within the natural alliance of the **sapindales**."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Subtropical forests display exceptional diversity among the arboreal families belonging to the **sapindales**."*

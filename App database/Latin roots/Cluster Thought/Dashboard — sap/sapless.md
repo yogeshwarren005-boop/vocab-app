@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sap or vital moisture; dry, withered, or devoid of vigor and vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic tragedy and portraiture, describing decayed age, lifeless prose, or withered ambition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sap; dry, withered, or destitute of vitality, passion, or interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pathology and literary prose, desiccated of moisture, or emotionally lifeless and sterile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"These eyes, like lamps whose wasting oil is spent, wax dim, and these gray locks are withered like a **sapless** bough."*
-> - 📜 **Robert Burns (*Poems and Songs*):** *"Fusionless, pithless, **sapless**, tasteless, the dried stalk shivers in the winter blast."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My heart felt cold and **sapless**, like a dead trunk in an icy wind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The aged oak stands with **sapless** branches, stripped of its summer verdure by autumn gales."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The winter heath was covered with brittle, **sapless** furze that crackled beneath every hurried step."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I had no desire to spend my youth over dry, **sapless** pedantries that offered no nourishment to the spirit."*

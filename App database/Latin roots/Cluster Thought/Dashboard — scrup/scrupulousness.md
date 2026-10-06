@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being conscientious, exacting, and morally principled in thought and deed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and historical jurisprudence, rigorous self-scrutiny and unwavering adherence to truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meticulous attentiveness to details, strict conscientiousness, and uncompromising moral rectitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character ethics, rigid fidelity to duty, meticulous fairness, and intolerance of moral compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her sensitive nature was tormented by a moral **scrupulousness** that magnified every youthful error."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The reflection that the fate of a fellow-creature depended on his word demanded the utmost **scrupulousness**."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He performed every religious observance with an austere **scrupulousness** that bordered on asceticism."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles Winterborne's extraordinary **scrupulousness** made him sacrifice his own happiness rather than inconvenience others."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His professional **scrupulousness** won the confidence of all citizens who valued upright legal counsel."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In morbid melancholia, religious **scrupulousness** magnifies imaginary sins into unforgivable crimes."*

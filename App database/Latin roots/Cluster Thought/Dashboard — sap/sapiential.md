@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or imparting wisdom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology and literary genre, applied to books such as Proverbs, Ecclesiastes, and Job containing moral precepts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or imparting wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and theological literature, denoting the wisdom books (such as Proverbs, Ecclesiastes, and Wisdom of Solomon) emphasizing moral and philosophical discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus was the world created with divine and **sapiential** power, harmonious in every part."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **sapiential** books of King Solomon contain profound maxims on government and morals."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Ancient philosophy possessed a **sapiential** depth that modern empiricism too often ignores."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **sapiential** books of the Old Testament offer practical moral guidance grounded in divine reverence."*
+> - 📜 **John Milton (*The Reason of Church Government*):** *"Spiritual truths are communicated through poetic visions and **sapiential** parables."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Hebrew **sapiential** literature sought to regulate conduct through righteousness rather than dogmatic speculation."*

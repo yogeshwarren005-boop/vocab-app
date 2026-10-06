@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being measured; possessing measurable dimensions, duration, or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy and natural science, properties susceptible to quantitative evaluation against empirical standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being measured; measurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics and musical theory, possessing determinate quantitative dimensions or strict rhythmic metrical values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Duration and space are **mensurable** quantities because we can apply repeated standard units to them."*
-> - 📜 **Samuel Johnson (*The Rambler*):** *"Human life is composed of **mensurable** hours, each of which should be dedicated to virtue or learning."*
-> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Astronomy became an exact science only when celestial motions were reduced to **mensurable** angles and intervals."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All physical extension is essentially **mensurable**, presenting parts that can be numbered and compared."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Physical phenomena become subject to mathematical demonstration only when reduced to exact, **mensurable** quantities."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Science advances by transforming vague qualitative impressions into precise, **mensurable** data."*

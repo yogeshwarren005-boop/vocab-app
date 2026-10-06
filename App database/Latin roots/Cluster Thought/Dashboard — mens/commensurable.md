@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurable by the same standard or common metric; proportionate and reducible to a shared ratio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mathematics and value theory, magnitudes or moral goods whose comparative worth can be numerically calculated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurable by the same standard or common metric; having a common measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and number theory, having a ratio that can be expressed as a quotient of two integers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Pleasures differing in quality are not strictly **commensurable** on any simple quantitative scale."*
-> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The intellect seeks units of measure that render disparate natural phenomena mutually **commensurable**."*
-> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Geometric figures are **commensurable** when their proportions can be expressed by common rational numbers."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Magnitudes are properly **commensurable** only when they can be compared directly against an identical unit of measure."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The geometric proportions of refracted rays demonstrated that their refrangibility and wave intervals were precisely **commensurable**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Pythagoras was profoundly disturbed by the discovery that the side and diagonal of a square are not **commensurable**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, attribute, or magnitude of being immense; vastness, enormity, or boundless scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic philosophy and sublime aesthetics, the transcendent vastness of nature inspiring humility in the human mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of surpassing ordinary bounds in magnitude; vastness, boundless extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical aesthetics and natural theology, sublime spatial or metaphysical vastness evoking awe or reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer **immenseness** of the sperm whale filled the young sailor with reverent awe."*
-> - 📜 **John Ruskin (*Modern Painters*):** *"The **immenseness** of the Alpine precipice overwhelms the spectator with its sheer vertical scale."*
-> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Looking upward into the midnight sky, man shudders before the silent **immenseness** of the cosmos."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul feels humbled yet exalted before the silent **immenseness** of the starry firmament."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The utter solitude and **immenseness** of the virgin wilderness overwhelmed the solitary voyager."*
+> - 📜 **Herman Melville (*Mardi*):** *"He gazed across the ocean, pondering the fathomless **immenseness** that separated mortal shores from eternity."*

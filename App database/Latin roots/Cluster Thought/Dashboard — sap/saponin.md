@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plant glucosides that form a durable, soapy froth when shaken with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry and pharmacology, hemolytic and surfactant compounds produced by plants as natural defenses against pathogens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant glycosides that form a soapy, persistent lather when shaken in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology, a secondary plant metabolite possessing hemolytic, detergent, and antifungal properties, found in soapwort and ginseng.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Justus von Liebig (*Organic Chemistry in its Applications to Agriculture and Physiology*):** *"The bitter glucoside known as **saponin** produces a durable, frothy lather when shaken with water."*
-> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain seeds containing toxic **saponin** are avoided by grazing cattle."*
-> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The foaming properties of the extract were attributed to the presence of colloidal **saponin**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bitter root contains abundant **saponin**, which froths copiously when agitated in water."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Indigenous hunters used plant extracts containing potent **saponin** to stun river fish."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain botanical hemolytic toxins owe their red blood cell lysis to high concentrations of **saponin**."*

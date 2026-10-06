@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not commensurate; out of proportion, unequal, or inadequate to a given requirement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional criticism and statecraft, resources or capabilities that fall hopelessly short of constitutional duties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disproportionate; not adequate, corresponding, or commensurate in size, extent, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic analysis and ethics, characterized by a lack of parity or equitable balance between effort and outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The puny resources of the rebel faction were hopelessly **incommensurate** with the colossal task they undertook."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her intense moral fervor found only petty, **incommensurate** channels of parochial charity."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A revenue system **incommensurate** with the national defense will inevitably invite foreign aggression."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The military preparations were utterly **incommensurate** with the magnitude of the invasion threatening the realm."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He felt a bitter pang of disappointment that his heroic sacrifice had produced results so meager and **incommensurate**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The peasant's exhausting toil yielded a return painfully **incommensurate** with the health sacrificed in the fields."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large or great, especially in scale, degree, or volume; vast and boundless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic narrative and natural description, overwhelming the senses through sheer magnitude or infinite expanse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large or great, especially in scale, degree, volume, or extent; vast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and metaphysical philosophy, boundless, immeasurable, or exceeding ordinary comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer's chambers were piled high with an **immense** accumulation of musty legal documents."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"An **immense** wall of white foam rose where the leviathan breached the ocean surface."*
-> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath stretched away in **immense** solitude beneath the darkening autumn sky."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When we contemplate the **immense** distance between the fixed stars, our imaginations are overwhelmed by the boundless expansion of space."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"An **immense** wall of white foam rose suddenly where the colossal leviathan breached the surface."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **immense** cordillera of the Andes stretched endlessly toward the frozen south, crowned with eternal snow."*

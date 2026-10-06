@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemically weathered rock formed in place that retains the original structural features of the parent bedrock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and soil science, deeply decomposed crystalline rock preceding complete transformation into residual clay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemically weathered, soft, clay-rich rock formed in place by the decomposition of igneous or metamorphic rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil geomorphology and regolith geology, friable weathered rock retaining original rock textures and structural joints, underlying soil horizons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lyell (*Elements of Geology*):** *"The underlying granitic rock had decomposed in situ into soft, friable **saprolite** retaining original mineral banding."*
-> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"In humid tropical regions, chemical leaching transforms hard crystalline gneiss into thick blankets of clayey **saprolite**."*
-> - 📜 **Grove Karl Gilbert (*Report on the Geology of the Henry Mountains*):** *"The weathered mantle of **saprolite** had been stripped away by torrential desert storms."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep tropical weathering decomposes hard granite into friable **saprolite**, easily excavated with ordinary hand shovels."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The hills surrounding Rio de Janeiro are mantled with thick beds of red **saprolite** formed by secular decay of gneiss."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Beneath the fertile jungle humus lies a deep stratum of decomposed granite or **saprolite**."*

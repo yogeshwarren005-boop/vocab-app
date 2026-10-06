@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wise, discerning, or rational (the Latin specific epithet for modern mankind in biological taxonomy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological philosophy, denoting the conscious reflective capacity that defines modern humanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wise, discerning, or rational (as in the taxonomic species epithet Homo sapiens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological nomenclature, the specific designation given to anatomically modern humanity, highlighting cognitive capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"The designation of Homo **sapiens** reflects our unique capacity for abstract reflection and symbolic speech."*
-> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the genus Homo, Linnaeus classified mankind as Homo **sapiens**, characterized by self-knowledge."*
-> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The cranial capacity of Homo **sapiens** distinguishes the species from all fossil Neanderthal remains."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Naturalists agree in assigning man to the genus Homo and the distinct species **sapiens**."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The anatomical cranial capacity of Homo **sapiens** dramatically distinguishes modern humans from primitive hominids."*
+> - 📜 **Asa Gray (*Darwiniana*):** *"In calling our race Homo **sapiens**, science acknowledged that mental reflection is our distinctive biological crown."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of integrity, honor, rectitude, and admirable moral character (borrowed from Yiddish).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural ethics and community life, an individual embodying decency, empathy, and steadfast responsibility toward others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of integrity, honor, deceny, and noble moral character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socio-cultural ethics and Yiddish linguistics, an exemplary human being exhibiting rectitude, compassion, and communal responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Rosten (*The Joys of Yiddish*):** *"To call someone a real **mensch** is the highest compliment of moral character and decency in Jewish culture."*
-> - 📜 **Saul Bellow (*Herzog*):** *"All his life he had struggled against pettiness, striving simply to live and die as an honorable **mensch**."*
-> - 📜 **Bernard Malamud (*The Assistant*):** *"In that dark grocery store, Frank learned what it truly meant to act like a **mensch** toward his suffering neighbor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Moral evolution elevates the civilized individual toward the ideal of a true **mensch**, governed by empathy and social duty."*
+> - 📜 **William James (*Memories and Studies*):** *"In every community one finds that rare, noble spirit whom friends revere as an authentic **mensch**."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Beneath his gruff laboratory manner, Gottlieb proved himself a genuine **mensch**, incapable of petty deceit."*

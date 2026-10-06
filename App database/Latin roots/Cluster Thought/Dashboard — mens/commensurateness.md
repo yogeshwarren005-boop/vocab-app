@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proportionate correspondence, adequacy, or the capacity to be measured by a shared standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological ethics and aesthetics, the harmonious congruence between artistic expression and underlying thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being proportionate, adequate, or corresponding in measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and jurisprudence, exact proportionality between action and consequence or effort and recompense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **commensurateness** of our hypotheses with observed facts is the true test of inductive reasoning."*
-> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Justice requires an exact **commensurateness** between the labor expended and the reward received."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"There must be an inward **commensurateness** between the poetic imagination and the expressive diction."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Social justice requires an undeniable **commensurateness** between the services rendered by an individual and the benefits received."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The sense of justice demands an intrinsic **commensurateness** between the gravity of a moral offence and its legal penalty."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In nature there exists an unfailing **commensurateness** between the seed sown and the harvest reaped."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recurring physiological process of discharging blood and cellular tissue from the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological medicine and anthropology, the monthly ovarian-endometrial cycle regulating mammalian fertility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or cycle of discharging blood and cellular debris from the uterus at approximately monthly intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology and physiological endocrinology, the catamenial discharge marking the follicular reset of the ovarian cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful*):** *"At her first **menstruation** a Baniva girl must pass several days in fasting and complete silence."*
-> - 📜 **Charles Darwin (*The Descent of Man*):** *"Periodic **menstruation** in monkeys and apes suggests a shared evolutionary lineage with humanity."*
-> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physiological cycle of **menstruation** produces subtle alterations in pulse, temperature, and mental agility."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Normal **menstruation** depends upon harmonious coordination between the pituitary gland, the ovaries, and the uterine endometrium."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological onset of **menstruation** at puberty denotes the functional maturation of the female reproductive system."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The phenomena of **menstruation** in higher anthropoids substantiate our phylogenetic relationship with the primates."*

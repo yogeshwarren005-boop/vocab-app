@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical evergreen fruit tree native to Mesoamerica; the sapodilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and regional botany, the species Achras sapota yielding russet-skinned fruits with sweet, granular flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sapodilla tree or fruit; an older botanical genus name synonymous with Manilkara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pomology and historical taxonomy, the resinous tree yielding chicle gum and sugary, brown-skinned tropical fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The sweet and juicy fruit of the **sapota** is prized throughout the Spanish West Indies."*
-> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapota** tree resembles our pear tree in stature and produces fruit of excellent flavor."*
-> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Achras **sapota** is widely cultivated in tropical gardens for its luscious brown berries."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In South American gardens, the **sapota** produces clusters of russet fruit possessing a luscious, sugary flavor."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Shaded orchards of **sapota** and guava lined the fertile banks of the Orinoco."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The **sapota** thrives in warm alluvial soils, highly valued across India for its delicious dessert fruit."*

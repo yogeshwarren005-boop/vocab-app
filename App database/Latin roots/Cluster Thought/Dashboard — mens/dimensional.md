@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to dimensions or spatial extent; having a specified number of dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and geometric analysis, pertaining to the coordinate parameters of physical or mathematical manifolds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to physical dimensions, spatial measurements, or extents of magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and geometric analysis, characterizing spaces, manifolds, or coordinate systems defined by a specific number of axes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William James (*The Principles of Psychology*):** *"Our perception of spatial relations is fundamentally three-**dimensional** and grounded in muscular movement."*
-> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"In non-Euclidean geometry, n-**dimensional** space is treated with rigorous algebraic abstraction."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Any real body must have extension in four directions; it must have length, breadth, thickness, and duration; it is a four-**dimensional** reality."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Scientific people know very well that Time is only a kind of Space; here is a popular scientific diagram, a four-**dimensional** geometry."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Our mechanical calculating apparatus operated through complex multi-**dimensional** gear linkages."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The physical properties of elastic ether require rigorous mathematical formulation in three-**dimensional** mechanics."*

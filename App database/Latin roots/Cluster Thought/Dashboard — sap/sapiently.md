@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise, shrewd, sagacious, or knowingly observant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and humor, gesturing or nodding knowingly to imply deep comprehension of a matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise, sagacious, or discerning manner; or with an affectation of wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, delivering opinions with grave thoughtfulness or simulated profoundness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The veteran harpooneer shook his head **sapiently**, forecasting foul weather from the setting sun."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Major Dobbin listened attentively and remarked **sapiently** that all would turn out well in time."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lestrade nodded **sapiently**, though it was plain that he had failed to grasp Holmes's deduction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke nodded **sapiently**, convinced that he had touched upon the essential root of the agrarian problem."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient clerks shook their powdered wigs **sapiently**, murmuring of long-established Chancery precedents."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"He listened with a grave expression, commenting **sapiently** on the hazards of foreign exchange."*

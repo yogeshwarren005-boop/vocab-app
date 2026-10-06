@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having dimensions, or the specific number of dimensions possessed by a space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topology and modern epistemology, the degree of geometric freedom or complexity inherent in a conceptual system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or property of possessing dimensions or existing in a specified number of dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topology and multidimensional statistics, the degree of geometric freedom or number of orthogonal coordinate variables defining a manifold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The **dimensionality** of a continuum is determined by the number of independent variables required to locate a point."*
-> - 📜 **William James (*A Pluralistic Universe*):** *"The rich **dimensionality** of lived experience defies reduction to a single logical plane."*
-> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"Our physical senses suggest a space of three dimensions, but mathematical thought easily contemplates higher **dimensionality**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The mathematical concept of **dimensionality** depends upon the independent parameters needed to isolate an individual point."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The philosophical question of higher spatial **dimensionality** fascinated theoretical physicists long before our temporal experiments."*
+> - 📜 **Alfred North Whitehead (*The Concept of Nature*):** *"Our immediate perception of spatial extension reveals an intrinsic three-fold **dimensionality** inherent in physical nature."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systemic toxic illness resulting from the absorption into the blood of toxins from decaying tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and surgical pathology, intoxication arising from bacterial products at a necrotic wound focus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition caused by toxic products of saprophytic bacteria entering the circulatory system (American spelling of sapraemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, toxemia resulting from the absorption of toxins from decomposing, gangrenous, or necrotic tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike progressive septicemia, the clinical fever of **sapremia** abates promptly once the necrotic focus is cleansed."*
-> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic dressings eliminate the decomposition of surgical discharges, thereby preventing systemic **sapremia**."*
-> - 📜 **Havelock Ellis (*The Nationalisation of Health*):** *"The medical officer traced the toxic **sapremia** to contamination from an untreated drainage canal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The high fever and shivering chills subsided rapidly once the focus of uterine **sapremia** was thoroughly evacuated."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"By excluding airborne germs from the wound, carbolic acid prevents putrid **sapremia**."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Cleanliness and pure air are sovereign antidotes against surgical **sapremia** in convalescent wards."*

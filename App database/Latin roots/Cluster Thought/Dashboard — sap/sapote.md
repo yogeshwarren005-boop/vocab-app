@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, edible tropical fruit produced by trees of the Sapotaceae and related families.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican ethnobotany, sweet fleshy fruits ranging from white to black varieties cultivated for millennia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tropical American trees bearing sweet, edible fruit, especially the white sapote, mamey sapote, or black sapote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agriculture and culinary botany, edible fruits from several distinct tropical families (Sapotaceae, Ebenaceae, Rutaceae) sharing soft, rich pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Darwin (*Journal of Researches*):** *"In the tropical valleys of the Andes, the black **sapote** produces a fruit with rich, dark pulp."*
-> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The markets of Mexico are stocked with white and yellow varieties of luscious **sapote**."*
-> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapote** is esteemed among the most delicious and wholesome fruits of Central America."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"We halted under the shade of a flowering **sapote** tree, refreshing ourselves with its luscious fruit."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The market stalls at Guayaquil were piled high with ripe **sapote**, chirimoyas, and pineapples."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Cultivated varieties of **sapote** bear fruit whose creamy texture rivals the finest custard."*

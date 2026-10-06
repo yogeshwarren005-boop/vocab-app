@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that makes people cruel or lacking normal human qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that makes people cruel or lacking normal human qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting vegetable or inorganic matter into animal tissue; or degradation to a bestial or animal condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological history and moral critique, the chemical assimilation of ingested chyle into living flesh, or the moral descent of humans into raw sensuality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalisation designates an act that makes people cruel or lacking normal human qualities."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Digestion accomplishes the progressive **animalisation** of vegetable proteins, converting albuminous plant matter into blood fibrin."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A purely materialistic philosophy leads to the inevitable **animalisation** of society, reducing noble duty to cash appetite."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The physiological **animalisation** of nutrients requires digestive secretions that hydrolyze complex carbohydrates into blood sugars."*

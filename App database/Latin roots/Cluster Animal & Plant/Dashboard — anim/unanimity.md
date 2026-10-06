@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everyone being of one mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everyone being of one mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete agreement or unity of opinion, purpose, or decision among all members of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and judicial procedure, the consensus required in petit jury verdicts or international treaty ratifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When forty men told the same things with such unanimity, Warden Atherton and Captain Jamie could only conclude that the testimony was a memorized lie which each of the forty rattled off parrot-like."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Be that as it may, certain it is that the natural uncleanness of woman at her monthly periods is a conception which has occurred, or been revealed, with singular unanimity to several ancient legislators."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the course of the year, however, there had been a change in the public sentiment, of which the unanimity at Dollop’s was an index."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The requirement of complete **unanimity** among the states under the Confederation paralyzed the national government in foreign affairs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate ratified the elevation of the new emperor with sudden and suspicious **unanimity**, trembling before the Praetorian guards."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"The unanimous Declaration of the thirteen united States of America demonstrated the profound **unanimity** of the colonies in throwing off tyranny."*

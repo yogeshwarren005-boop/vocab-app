@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental calmness, composure, and evenness of temper, especially under difficult or stressful circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy and medical ethics, maintaining tranquil reason and unruffled judgment amid crisis or catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with his usual equanimity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, she had hardly recovered her equanimity since the disturbance which she had suffered from Oak’s remarks."*
+> - 📜 **William Osler (*Aequanimitas, with Other Addresses*):** *"In the face of imminent catastrophe or medical tragedy, the physician must preserve that supreme **equanimity** that steadies the hand and clarifies the intellect."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Marcus Aurelius bore the betrayal of his generals and the burdens of empire with unfailing philosophical **equanimity**."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot bore the petty complaints and thoughtless slights of her sisters with a sweet and gentle **equanimity**."*

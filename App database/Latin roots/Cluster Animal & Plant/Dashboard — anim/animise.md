@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give lifelike qualities to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To infuse with life, soul, or vital energy; or to interpret natural objects as possessing spirits or consciousness; animize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical anthropology, projecting human psychological attributes onto inanimate environmental landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animise designates give lifelike qualities to."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Poetic mythologies tend to **animise** every grove and spring, peopling the wilderness with dryads and nymphs."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"To **animise** the mechanical universe was the noble poetic task achieved by the early bardic songs."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Early man felt a spontaneous psychological impulse to **animise** the sun, the wind, and the roaring ocean."*

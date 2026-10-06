@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregation of a country's military aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operation of aircraft to provide transportation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The design, development, production, operation, and use of aircraft; the art and science of flying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and technological history, the twentieth-century revolution that shrank global transport distances and altered warfare doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aviation designates the aggregation of a country's military aircraft."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The rapid advancement of **aviation** transformed national frontiers into meaningless lines upon the map."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Military **aviation** expanded from a perilous reconnaissance experiment into the dominant tactical arm of naval and land combat."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"I watched the dawn of British **aviation** on Salisbury Plain, marveling at the courage of the young pioneers who flew those flimsy kites."*

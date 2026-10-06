@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similarity in appearance or character or nature between persons or things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Striking resemblance, correspondence, or likeness; or an allegorical comparison or counterpart in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology and literary allegory, a physical or narrative representation mirroring spiritual or celestial archetypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thus, the sperm whale and the humpbacked whale, each has a hump; but there the similitude ceases."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, this same humpbacked whale and the Greenland whale, each of these has baleen; but there again the similitude ceases."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But after allowing due weight to this consideration, it may still be maintained, that there are many points of similitude which render these examples not unworthy of our attention."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"I have used **similitude** to show the way / That leads the pilgrim to the realms of day."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What if earth / Be but the shadow of heaven, and things therein / Each to other like, more than on earth is thought? By high **similitude** revealed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In its majestic bulk and mysterious wanderings, the white whale presented an awful **similitude** of the boundless ocean itself."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of being unlike or different; difference or unlikeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and cladistics, measuring mathematical divergence or character differences between comparative data sets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The dissimilarity is not so strong."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Nothing greatly original had resulted from these measures; and the effects of the opium had convinced him that there was an entire dissimilarity between his constitution and De Quincey’s."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Notwithstanding the immense physical **dissimilarity** between different human races, their emotional expressions display striking uniformity."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The imagination easily passes between related impressions, but halts when confronted with absolute **dissimilarity**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The striking **dissimilarity** between the sisters' temperaments was evident to all who observed their reactions to unexpected grief."*

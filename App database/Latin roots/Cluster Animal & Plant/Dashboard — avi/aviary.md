@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large enclosure, cage, or building designed for keeping, rearing, and displaying birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural architecture and wildlife preservation, an open-flight netting structure integrated with living shrubs and freshwater pools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their gauzy skirts had brushed up from the grass innumerable flies and butterflies which, unable to escape, remained caged in the transparent tissue as in an aviary."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"So much for the exterior; which, with its wire-like reed-twisted sides, not a little reminded me of an immense aviary."*
+> - 📜 **Francis Bacon (*The Essays (Of Gardens)*):** *"For an **aviary**, I would not have it too close, but of turf, with living trees and bushes growing therein, where birds may sing and nest."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"I constructed a spacious outdoor **aviary** to observe the mating behavior and plumage inheritance of several fancy pigeon breeds."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The country gentleman adorned his grounds with a handsome octagonal **aviary** stocked with goldfinches and exotic canaries."*

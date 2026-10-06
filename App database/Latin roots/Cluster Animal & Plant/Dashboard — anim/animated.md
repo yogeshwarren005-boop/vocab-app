@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of life, action, spirit, or excitement; lively; or endowed with life or the illusion of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinematography and art, created by photographing a sequence of drawings or computer graphics to produce the illusion of motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was animated and glowing, as if Ada’s tenderness had gratified him; but I could only hope, with a sigh, that the letter might have some stronger effect upon his mind on re-perusal than it assuredly had then."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not too late to hear them, for it was not too late to be animated by them to be good, true, grateful, and contented."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She should put it off as long as she could;” but was not easy till she had talked Charles into driving her over on an early day, and was in a very animated, comfortable state of imaginary agitation, when she came back."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's dark eyes were rendered uncommonly intelligent by the beautiful expression of her bright and **animated** countenance."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"An **animated** conversation arose around the festive dinner table concerning the prospects of the coming county election."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Her gestures were graceful and her eyes sparkled with an **animated** fire that captivated every observer."*

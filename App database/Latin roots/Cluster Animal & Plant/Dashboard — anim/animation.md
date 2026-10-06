@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of living or the state of being alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being able to survive and grow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively vitality, buoyant energy, and enthusiasm; or the cinematic technique of photographing sequential drawings to create the illusion of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual media and film history, producing moving illusions by sequentially displaying hand-drawn cels, stop-motion puppets, or digital frames.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is only an invention of people who are not contented with one misfortune but must make up an added terror," the mother said with animation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius is keeping watch, we won't get very close to it, because the property is fenced in for a long way around." "Oh, we can go up on the road to the entrance," said Kurt with animation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not really understand why the boys should have to live together," she said with animation; "they do not profess to feel much friendship for each other, and never seek each other out."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's performance at the pianoforte was marked by an exquisite taste and a youthful **animation** that delighted all present."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs: the spark of **animation** had caught."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth spoke of his yachting adventures with such brilliant **animation** that he completely fascinated our quiet circle."*

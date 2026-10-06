@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to animatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to animatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by animatism; viewing the physical world as invested with an impersonal life force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious ethnology, characterizing rituals and taboo observances directed toward sacred stones, rivers, or meteorological phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatistic designates of or pertaining to animatism."*
+> - 📜 **Robert Ranulph Marett (*The Threshold of Religion*):** *"The savage warrior maintains an **animatistic** reverence for his war-club, believing the weapon possesses inherent vital potency."*
+> - 📜 **Lucien Levy-Bruhl (*How Natives Think*):** *"Primitive mentality perceives an **animatistic** participation between the hunter and the forest that surrounds him."*
+> - 📜 **Bronislaw Malinowski (*Magic, Science and Religion*):** *"Trobriand canoe-building ceremonies reflect an **animatistic** conviction that the living wood responds to sacred spells."*

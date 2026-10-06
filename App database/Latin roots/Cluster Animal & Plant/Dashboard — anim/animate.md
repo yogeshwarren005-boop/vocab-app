@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring to life; impart life, vigor, energy, or spirit to; or possessing life and movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and grammar, denoting a class of nouns or pronouns referring to living beings (humans, animals) rather than inanimate objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, attending with all the strength and zeal, and thought, which instinct supplied, to Henrietta, still tried, at intervals, to suggest comfort to the others, tried to quiet Mary, to animate Charles, to assuage the feelings of Captain Wentworth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"An account of the concert was immediately claimed; and Anne’s recollections of the concert were quite happy enough to animate her features and make her rejoice to talk of it."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"What fine chisel / Could ever yet cut breath? Let no man mock me, / For I will kiss her. / Masterly done: / The very life seems warm upon her lip. / The fixture of her eye has motion in't, / As we are mock'd with art. O, she is **animate**!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet, eager to **animate** it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The vital breath of heaven descended to **animate** the dust of the ground, and man became a living soul."*

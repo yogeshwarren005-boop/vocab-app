@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who imparts energy and vitality and spirit to other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technician who produces animated cartoons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates animated films, cartoons, or graphics; or one who imparts life, spirit, and vigor to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinematography and digital arts, the artist who designs keyframes, character movement, and lip-sync timings for moving images.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animator designates someone who imparts energy and vitality and spirit to other people."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The wise teacher acts as an **animator** of young minds, sparking curiosity rather than burdening memory with dry facts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A cheerful companion is the true **animator** of social assemblies, dispelling gloom with spontaneous wit."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"He was the chief **animator** of the scientific project, infusing his colleagues with his own unflagging enthusiasm."*

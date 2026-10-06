@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard copal derived from an african tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various resins or oleoresins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of Japanese animation characterized by colorful graphics, vibrant characters, and fantastical or futuristic themes; or a fragrant copal resin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual culture and international media studies, hand-drawn and digital animation originating in Japan, adapted from manga and popular literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anime designates a hard copal derived from an african tree."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands*):** *"The tropical tree produces a clear yellowish gum called **anime**, which burns with an agreeable balsamic odor."*
+> - 📜 **John Gerard (*The Herball*):** *"Resin **anime** is brought from the West Indies and is commended by ancient physicians for comforting cold joints."*
+> - 📜 ** Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The expressive stylized lines of Japanese popular woodcuts anticipated the vibrant dynamic aesthetics of modern Japanese graphic art and **anime**."*

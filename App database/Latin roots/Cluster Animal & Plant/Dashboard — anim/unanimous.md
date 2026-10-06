@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In complete agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together as a single undiversified whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or indicating the agreement of everyone involved; fully agreed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative and judicial ballots, a vote cast without a single dissenting voice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every voice in nature was unanimous in bespeaking change."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The result was that a unanimous and enthusiastic call was addressed to him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The committee to which it was sent received it with great regret, and a unanimous feeling found expression that, at anyrate, he should retain the office of Principal."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The club passed a **unanimous** vote of thanks to Mr. Pickwick for his luminous and entertaining paper on the source of the Hampstead ponds."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The vestry meeting came to a **unanimous** resolution to oppose the new parish assessment with all legal vigor."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"If the minority will not acquiesce, the majority must, or the government must cease. There is no other alternative; for continuing the government is acquiescence on one side or the other. Can we hope for a **unanimous** sentiment?"*

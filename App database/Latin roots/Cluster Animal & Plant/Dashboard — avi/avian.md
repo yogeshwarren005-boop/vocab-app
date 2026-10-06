@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characteristic of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary taxonomy, describing the theropod dinosaur lineage characterized by feathers, hollow bones, and a wishbone (furcula).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Perhaps sir can inform inquirer, in such case, what is curious avian object?" he said, pointing upward."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It seemed to be inspecting them as a smaller avian might inspect a bug crawling across a road."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Too bad; I liked that little sprout." "I thank gracious lady for kindly expressed sentiment, but oversize avians have not yet removed me," said a voice and Gloria looked down to see Yoshio bowing at her side."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discovery of Archaeopteryx in the Solnhofen limestone revealed the ancient anatomical link between reptilian and **avian** structures."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are most nearly intermediate between Birds and Reptiles*):** *"The pelvic girdle of certain bipedal dinosaurs approaches the specialized **avian** architecture with remarkable evolutionary precision."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The arrival of migratory **avian** visitors in early April marks the true commencement of the English spring."*

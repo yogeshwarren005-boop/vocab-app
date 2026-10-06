@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to birds of a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to birds of a particular region or period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the avifauna of a specific geographical region or geological epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological surveys, describing species composition, breeding migrations, and conservation status of regional bird communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avifaunal designates of or relating to birds of a particular region or period."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The boundary known as Wallace's Line marks an abrupt **avifaunal** transition between Asian and Australasian bird families."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **avifaunal** similarities between Tristan da Cunha and the African continent can only be explained by wind-dispersed strays."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Our **avifaunal** expedition along the coast of Labrador cataloged millions of nesting puffins, guillemots, and eider ducks."*

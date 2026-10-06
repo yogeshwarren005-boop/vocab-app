@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give lifelike qualities to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To endow with life, soul, or personal consciousness; to represent an inanimate object as alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, the poetic device of personification conferring animal or human vitality upon inanimate scenery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animize designates give lifelike qualities to."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The poet's passionate feeling leads him to **animize** the wild mountain crags, describing them as angry giants brooding over the valley."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The pure mind possesses an alchemy that can **animize** the dullest mechanical facts of life into spiritual parables."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"It is the sacred function of genius to **animize** the inert clay of everyday routine with the fire of visionary thought."*

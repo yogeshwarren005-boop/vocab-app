@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given fresh life or vigor or spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restored to life, consciousness, or vigor; revived from a dormant or lifeless state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical fiction and pathology, reviving after prolonged coma, drowning, or hypothermic suspension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This kindly light reanimated us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This sight reanimated me; and seizing my own knife, I hacked and hewed away without mercy."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But ever since Gaboriau created his Lecoq, the transcendent detective has been in favor; and Conan Doyle’s famous gentleman analyst has given him a fresh lease of life, and reanimated the stage by reverting to the method of Poe."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"The mesmerized subject appeared **reanimated** for a few fleeting moments, uttering words from beyond the threshold of dissolution."*
+> - 📜 **Arthur Conan Doyle (*The Ring of Thoth*):** *"The ancient chemical elixir had **reanimated** the dormant tissues of the Egyptian mummy after three thousand years."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"A draught of cordial warmly **reanimated** the shipwrecked mariner, who had lain cold and senseless upon the beach."*

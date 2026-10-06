@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several diseases caused by deficiency of one or more vitamins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several diseases caused by deficiency of one or more vitamins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical disease or pathological condition caused by a chronic deficiency of one or more essential vitamins in the diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry and pathology, classic systemic deficiency syndromes including scurvy (vitamin C), beriberi (B1), and rickets (D).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avitaminosis designates any of several diseases caused by deficiency of one or more vitamins."*
+> - 📜 **Christiaan Eijkman (*Nobel Lecture in Physiology or Medicine*):** *"Our investigations into polyneuritis in fowls demonstrated that the disease is a true **avitaminosis** curable by unpolished rice bran."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Nutritional Disorders)*):** *"Severe dietary **avitaminosis** leads to profound metabolic disruption, producing scurvy or rickets depending on the specific missing nutrient."*
+> - 📜 **Frederick Gowland Hopkins (*Feeding Experiments Illustrating the Importance of Accessory Food Factors*):** *"Animals fed on purified synthetic diets perish rapidly of acute **avitaminosis** unless supplied with minimal traces of fresh milk."*

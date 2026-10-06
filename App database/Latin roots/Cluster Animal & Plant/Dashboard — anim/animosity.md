@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of ill will arousing active hostility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of ill will arousing active hostility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong hostility, bitter enmity, or active ill will directed against someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and jurisprudence, prolonged partisan or national malice that erupts into open conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I tell you, my good Esther, when he and I were on those terms which he found so convenient, we were not on natural terms.” “Are division and animosity your natural terms, Richard?” “No, I don’t say that."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He bore an animosity towards the deceased gentleman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your sex have such a surprising animosity against one another when you do differ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient **animosity** between Rome and Carthage could only be extinguished by the utter destruction of the African republic."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neighboring nations are natural enemies, driven by commercial jealousy and territorial ambition into perpetual mutual **animosity**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's deep-rooted **animosity** toward Mr. Darcy began to dissolve as she read his candid and dignified letter."*

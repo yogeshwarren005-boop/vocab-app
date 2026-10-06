@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depiction in the form of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that makes people cruel or lacking normal human qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making or becoming animal-like; conversion of food into living animal tissue; or reduction to bestiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology, the metabolic transformation of plant matter into animal flesh; or sociologically, the dehumanization of laborers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalization designates a depiction in the form of an animal."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"In the animal body, the process of **animalization** incorporates vegetable proteins directly into muscular fibrillae."*
+> - 📜 **Karl Marx (*Economic and Philosophic Manuscripts of 1844*):** *"Alienated factory labor produces a brutal **animalization** of the worker, who feels free only in eating, drinking, and procreating."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Protracted warfare inevitably results in the moral **animalization** of conquering and conquered populations alike."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemptible fearfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contemptible fearfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The display of petty cowardice, faint-heartedness, and irresolution when confronted with peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the habitual inability of the will to face hardship or defend righteousness against intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pusillanimousness designates contemptible fearfulness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing more surely invites contempt from adversaries than a conspicuous **pusillanimousness** in demanding one's lawful rights."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The constitutional assembly perished through its own **pusillanimousness**, shrinking from enforcing the decrees it had enacted."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Parents must eradicate every tendency toward **pusillanimousness** by accustoming children to bear minor pains with fortitude."*

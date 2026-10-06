@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine eels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine eels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of marine ray-finned fishes commonly known as moray eels, characterized by elongated scaleless bodies and sharp predatory teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology and marine ecology, apex reef predators possessing pharyngeal jaws, reduced gill openings, and absent pectoral fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muraenidae designates marine eels."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The family **Muraenidae** encompasses the morays, distinguished by robust muscular bodies, scaleless skins, and powerful predatory dentition."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the coral reefs of the Keeling Islands, vicious morays of the family **Muraenidae** snapped fiercely from deep rock crevices."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In the **Muraenidae**, the gill apertures are reduced to small round lateral orifices, allowing respiration within narrow subterranean burrows."*

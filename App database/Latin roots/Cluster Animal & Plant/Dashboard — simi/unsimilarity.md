@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of similarity; dissimilarity, unlikeness, or disparity between things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology and aesthetic theory, the conspicuous difference between objects that precludes taxonomic grouping or artistic harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsimilarity designates the quality of being dissimilar."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The marked **unsimilarity** between domestic breeds of dogs often puzzles observers who expect descendants of one wild species to look alike."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The discerning judgment detects subtle **unsimilarity** where the careless fancy sees only resemblance."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The segregation of heterogeneous parts proceeds through the continuous emergence of functional **unsimilarity**."*

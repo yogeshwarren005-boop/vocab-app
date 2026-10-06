@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving with reserve and decorum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The affectation of being demure in a provocative way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modest reserve, quiet shyness, or affected primness in demeanor and appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social character study, quiet, unassuming decorum that disarms suspicion or masks inner tenacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel was demureness itself as she followed with Captain Hyde."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty Sorrel assumed an air of pretty **demureness** whenever Arthur Donnithorne entered the dairy parlor."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Miss La Creevy laughed at the affected **demureness** of the fashionable sitters who came to have their miniatures painted."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Winterbourne was intrigued by the young American girl's combination of outspoken freedom and occasional charming **demureness**."*

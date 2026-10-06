@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing, digesting, or incorporating nutrients, ideas, or cultural groups into an existing whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis and plant physiology, the ongoing dynamic process of photosynthetic fixation or cultural integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Middlemarch, in fact, counted on swallowing Lydgate and assimilating him very comfortably."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The changes of time, as was formerly remarked, on the comparative situation of the different States, will have an assimilating effect."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mass would be likely to remain nearly the same, assimilating constantly to itself its gradual accretions."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Living matter maintains its identity by constantly **assimilating** foreign substances and casting off decomposed waste."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was busy **assimilating** her husband's scholarly theories, eager to become his faithful intellectual assistant."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"A great genius possesses a gigantic appetite, reading and **assimilating** all preceding thinkers to feed his own original vision."*

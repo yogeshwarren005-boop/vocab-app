@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The birds of a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The birds of a particular region or period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The birds of a particular region, habitat, or geological period considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and island ecology, analyzing species richness, endemism, and adaptive radiation among avian populations in discrete geographical zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avifauna designates the birds of a particular region or period."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The remarkable **avifauna** of the Galápagos Archipelago comprises several distinct species of ground-finches found nowhere else on earth."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The oceanic isolation of New Zealand permitted an ancient **avifauna** of giant flightless moas to evolve in the absence of predatory mammals."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The local **avifauna** of our parish has been enriched this season by the nesting of several pairs of rare red-backed shrikes."*

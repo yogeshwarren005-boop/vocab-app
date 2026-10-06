@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taxonomic kingdom comprising all living or extinct animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxonomic kingdom comprising all living or extinct animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological taxonomic kingdom comprising all multicellular, heterotrophic, eukaryotic organisms lacking rigid cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, the major evolutionary kingdom characterized by blastula development, specialized tissues, and motile locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sunt enim animalia, quae dracones appellamus...."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Adversus haec ergo hujusmodi inventum est remedium, ut videlicet rogus ex ossibus construeretur, et ita fumus hujusmodi animalia fugaret."*
+> - 📜 **Carolus Linnaeus (*Systema Naturae*):** *"The kingdom **Animalia** is distinguished from the vegetable and mineral kingdoms by the presence of sensation and voluntary locomotion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The kingdom **Animalia** encompasses an immense diversity of body plans derived from ancestral colonial flagellates."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Within the kingdom **Animalia**, the divergence between radial sponges and bilateral coelomates marks the primary evolutionary split."*

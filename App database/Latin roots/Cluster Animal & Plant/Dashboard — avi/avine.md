@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin avi within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of avi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a bird; avian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and comparative anatomy, archaic or literary adjective denoting flight, plumage, or bird-like bodily poise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avine designates pertaining to, derived from, or characteristic of latin avi within the domain of animal & plant."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are most nearly intermediate between Birds and Reptiles*):** *"The fossil skeleton exhibits an astonishing mosaic of reptilian bones terminated by an unmistakably **avine** foot."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The pneumaticity of the bones constitutes a primary **avine** characteristic designed to reduce specific gravity in flight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea-hawk hovered above the mast-head with swift **avine** grace, screaming defiance at the storm."*

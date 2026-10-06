@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of life; no longer living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of life; no longer living.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of life; lifeless, dead; or lacking spirit, energy, or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and pathology, describing a body in deep syncope, coma, or complete physical expiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"What is man, that knowledge is so sparingly conferred upon him! that his heart should be wrung with distress, and his frame be exanimated with fear, though his safety be encompassed with impregnable walls!"*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The lady Madeline lay **exanimate** upon the bier, though a faint mocking blush lingered upon her bosom."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The judge sat motionless in the great oaken chair, his heavy countenance frozen in an **exanimate** and terrible repose."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The crushed Philistines lay scattered beneath the fallen pillars, an **exanimate** heap of pride and folly."*

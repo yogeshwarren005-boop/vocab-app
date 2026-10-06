@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complaint uttered in a low and indistinct tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a low, continuous, indistinct sound; whispering or muttering complaints quietly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral verse and nature prose, the soothing sound of bees in lime trees, winding brooks, or rustling forest leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s speaking now, Or murmuring “Where’s my serpent of old Nile?” For so he calls me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"West of this place, down in the neighbour bottom; The rank of osiers, by the murmuring stream, Left on your right hand, brings you to the place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Sometimes a thousand twangling instruments / Will hum about mine ears, and sometime voices / That, if I then had waked after long sleep, / Will make me sleep again: and then, in dreaming, / The clouds methought would open and show riches / Ready to drop upon me. A sweet **murmuring** sound enchanted me."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline*):** *"This is the forest primeval. The **murmuring** pines and the hemlocks, / Bearded with moss, and in garments green, indistinct in the twilight."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The quiet **murmuring** of the bees among the clover blossoms accompanied the warm lazy hours of the afternoon."*

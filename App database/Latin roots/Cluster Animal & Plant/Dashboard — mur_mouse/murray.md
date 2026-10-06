@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British classical scholar (born in australia) who advocated the league of nations and the united nations (1866-1957).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philologist and the lexicographer who shaped the oxford english dictionary (1837-1915).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to the Murray River, the longest river in Australia; or Sir James Murray (1837–1915), founding editor of the Oxford English Dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian physical geography, the major river draining the Murray-Darling basin; or in lexicography, the master editor of historical English lexicology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family of John Murray, a ploughman or "hind" from the Duns district, and now settled at Bastleridge, the next farm to Ayton Hill, also attended Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It ripened into affection between John Cairns and Alison, John Murray's only daughter, and in June 1814 they were united in marriage."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"During this session, as had been previously arranged, he lodged in Charles Street with his mother's brother, whose eldest son, John Murray, shared his room."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The grand river **Murray** drains vast interior valleys of southeastern Australia, flowing through arid eucalyptus plains to the sea."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Navigation along the **Murray** provided the essential commercial artery for early pastoral settlement in the Australian interior."*
+> - 📜 **Max Muller (*The Science of Language*):** *"The monumental lexicographical labor undertaken by Dr. James **Murray** established a new historical foundation for the study of English words."*

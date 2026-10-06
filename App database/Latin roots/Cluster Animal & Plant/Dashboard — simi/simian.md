@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ape or monkey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling an ape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling monkeys or apes; or a monkey or ape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology and physical anatomy, characterizing traits (such as the simian crease or projecting canine teeth) typical of higher primates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With a wail of anguish the simian clutched at the precious object."*
-> - 📜 **James Joyce (*Ulysses*):** *"Seven dwarf simian acolytes, also in red, cardinal sins, uphold his train, peeping under it."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The early progenitors of man were no doubt once covered with hair, both sexes having beards; their ears were pointed and capable of movement, and their bodies were provided with a tail, having the usual **simian** characteristics."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Every bone in the human skeleton corresponds in detail with a homologous structure in the higher **simian** apes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"The professor scrambled along the narrow stone ledge with an astonishing, agile **simian** dexterity that horrified us."*

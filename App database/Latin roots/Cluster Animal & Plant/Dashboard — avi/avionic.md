@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to avionics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to avionics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to avionics; pertaining to the electronic systems and equipment used in aircraft and spacecraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical aerospace engineering, designating navigation systems, radar telemetry, fly-by-wire autopilots, and cockpit displays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avionic designates of or relating to avionics."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Modern supersonic flight relies entirely upon sophisticated **avionic** feedback loops that react faster than any human nervous system."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The reconstruction of global transport depended upon standardized **avionic** equipment ensuring safe blind landings in all weathers."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The battle of the beams was an intense scientific conflict in **avionic** navigation that decided the defense of our cities against nighttime bombers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin anim within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of anim in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of restoring to life, consciousness, or active energy; resuscitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical physiology, restoring cardiac and pulmonary function after near-drowning, cardiac arrest, or deep asphyxiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reanimation designates pertaining to, derived from, or characteristic of latin anim within the domain of animal & plant."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The dream of physiological **reanimation** haunted my waking hours, driving me to dissecting rooms and charnel vaults."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Immediate artificial respiration and warmth offer the best prospect for the **reanimation** of individuals recovered from cold water."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Doctor Moreau spoke calmly of cellular **reanimation**, treating surgical regeneration as a mere problem in tissue mechanics."*

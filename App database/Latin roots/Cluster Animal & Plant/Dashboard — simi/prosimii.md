@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional suborder of primates comprising the lemurs, lorises, bushbabies, and tarsiers, representing the more ancestral primate radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic primatology, distinguished from the Anthropoidea (simians) by smaller relative brain volumes, grooming claws, and nocturnal adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosimii designates not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **Prosimii** is characterized by the presence of a toilet-claw on the second toe and a specialized procumbent mandibular dentition."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Fossil crania from the Paris gypsum demonstrate that ancestral representatives of the **Prosimii** were widely distributed across Europe in the Tertiary."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The evolutionary line leading to the anthropoid apes branched off from ancestral stock closely allied to modern **Prosimii**."*

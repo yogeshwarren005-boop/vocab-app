@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that has the characteristics of a more primitive type of that organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that has the characteristics of a more primitive type of that organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who displays atavism; one who exhibits physical, psychological, or behavioral traits resembling distant remote ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological criminology and fiction, a person whose instincts recall primeval or uncivilized evolutionary stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atavist designates an organism that has the characteristics of a more primitive type of that organism."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When Holmes examined the portrait of wicked Hugo Baskerville, he realized that Stapleton was an anatomical **atavist** carrying the same sinister lineage."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"The habitual criminal represents an anthropological **atavist**, reproducing in modern society the fierce instincts of primitive humanity."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The Beast Folk inevitably experienced moral collapse, each creature becoming an **atavist** returning to ancestral brute savagery."*

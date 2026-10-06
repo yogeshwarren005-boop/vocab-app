@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to birds of a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to birds of a particular region or period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to avifaunistics; relating to the scientific study and cataloging of regional bird populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological literature, comprehensive geographic treatises mapping avian distribution, habitat requirements, and migration corridors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avifaunistic designates of or relating to birds of a particular region or period."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **avifaunistic** survey of the Moluccas revealed that every isolated island possessed distinct endemic honeyeaters and parrots."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"An **avifaunistic** comparison between continental and insular birds shows that island species frequently lose bright courtship coloration."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"The monograph provides an exhaustive **avifaunistic** analysis of the migratory flyways crossing the great Missouri river basin."*

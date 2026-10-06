@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemptible fearfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contemptible fearfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemptible timidity, cowardice, or lack of courage and resolution in the face of danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and military ethics, disgraceful irresolution that surrenders honor or vital civic duties out of base fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The second property of your excellent sherris is the warming of the blood, which, before cold and settled, left the liver white and pale, which is the badge of pusillanimity and cowardice."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"There are in fact writers as to whom we make out that their refuge from this is to assume it to be not worth their attempting; by which pusillanimity in truth their honour is scantly saved."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial court purchased a shameful truce from the barbarians, betraying the fatal **pusillanimity** that hastened the empire's collapse."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To surrender sovereign constitutional authority under the threat of foreign intimidation would be an act of unpardonable **pusillanimity**."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Sudden fear and ungrounded suspicion produce that **pusillanimity** which disqualifies a magistrate from effective leadership."*

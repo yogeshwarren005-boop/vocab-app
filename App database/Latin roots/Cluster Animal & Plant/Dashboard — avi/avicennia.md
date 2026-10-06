@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical shrubs or trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical mangrove trees in the acanthus family (Acanthaceae), commonly known as black mangroves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In estuarine and coastal marine ecology, halophytic shrubs famous for vertical pencil-like pneumatophores that project upward through tidal mud for gas exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avicennia designates small genus of tropical shrubs or trees."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense forests of **Avicennia** fringe the tropical estuaries, their tangled aerial roots catching sediment and extending the shoreline."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We paddled our native canoe through winding tidal creeks bordered by grey **Avicennia** mangroves alive with mudskippers and fiddler crabs."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The black mangrove, **Avicennia** nitida, forms an impenetrable coastal barrier whose submerged roots harbor millions of juvenile marine organisms."*

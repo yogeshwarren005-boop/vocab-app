@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of ill will arousing active hostility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of ill will arousing active hostility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile feeling, ill will, or underlying malicious intent; or the basic attitude, disposition, or purpose governing action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian psychology, the unconscious masculine archetype within a woman's psyche, complementing her feminine conscious persona.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Several other women also chimed in, with an animus which none of them would have been so fatuous as to show but for the rollicking evening they had passed."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"She seemed to say that duty compelled her to follow her father's lead, and that the act must not be taken as evidence of any personal animus."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Vasari, it should be said, was a pupil of Andrea, and therefore must, in this instance, have had special opportunities of knowledge, though he may, on the same account, have had some special ‘animus’ when he wrote."*
+> - 📜 **Carl Jung (*The Archetypes and the Collective Unconscious*):** *"The **animus** personifies the masculine inner figure in a woman's unconscious, frequently expressing itself through rigid intellectual convictions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The prosecutor conducted the impeachment with an evident **animus** that exceeded all bounds of judicial impartiality."*
+> - 📜 **David Hume (*The History of England*):** *"The parliament displayed an unmistakable **animus** against the Duke of Buckingham, voting down his naval supplies."*

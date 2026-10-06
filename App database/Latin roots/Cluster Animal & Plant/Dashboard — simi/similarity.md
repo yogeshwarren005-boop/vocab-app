@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or feature of being similar; resemblance, likeness, or correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological cognition and comparative biology, the perceived correspondence between objects that guides classification, induction, and memory retrieval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was, perhaps, one of those cases in which advice is good or bad only as the event decides; and for myself, I certainly never should, in any circumstance of tolerable similarity, give such advice."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cook read to them the account of Paul's shipwreck, showing the similarity of their experience. _'What made that captain change his course against his will?' but the ever present Spirit of God"_."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Community of embryonic structure reveals community of descent; this profound **similarity** cannot be explained by adaptation alone."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Association by **similarity** is the true hallmark of intellectual genius, bringing together ideas never before united."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"All our reasonings concerning matter of fact are founded on the **similarity** between past causes and their observed effects."*

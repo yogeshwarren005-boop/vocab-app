@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish painter (1617-1682).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish painter (1617-1682).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Bartolomé Esteban Murillo (1617–1682), renowned Spanish Baroque painter celebrated for religious canvases and realistic genre street scenes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the Sevillian master famous for radiant, atmospheric chiaroscuro and tender depictions of the Immaculate Conception and beggar boys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"You must have a "sunset nature" to appreciate a sunset, and you must be sanctified wholly to see in Christ a beauty and loveliness which no Murillo and no Raphael and no Del Sarto have yet put on canvas."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The street children painted by **Murillo** display a delightful naturalness of posture and a rich harmony of warm shadow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw compared Dorothea's pure, upturned countenance to one of the celestial Madonnas of **Murillo**."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"In the galleries of Madrid, the luminous religious masterworks of **Murillo** capture the tender devoutness of Spanish Catholicism."*

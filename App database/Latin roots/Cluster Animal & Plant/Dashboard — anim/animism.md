@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all natural objects and the universe itself have souls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that all natural objects and the universe itself have souls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious belief that natural objects, natural phenomena, and the universe itself possess souls or conscious spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological theory, Edward Tylor's concept identifying the attribution of spirits to plants, rocks, and animals as the earliest stage of human religion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They hold to their own language and religion, one a dialect akin to Tibetan, and the other a form of animism."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But Buddhist animism is not a philosophical theory."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"I propose to define **animism** as the deep-seated belief in spiritual beings, which constitutes the groundwork of the philosophy of religion."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The universal prevalence of **animism** among hunting tribes explains their reverent prayers before felling a sacred oak."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Primitive **animism** interpreted every rustle in the forest as the deliberate voice of an unseen spiritual agent."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks softly and indistinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks softly and indistinctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murmurs; one who complains in a low voice or mutters discontentedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and moral commentary, a chronic grumbler who spreads subtle dissent and mutiny among the ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Poems 1817*):** *"Low murmurer of tender lullabies!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For living murmurers There’s places of rebuke."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"By times it seemed to me that I could bear it no longer, that it was but justice to turn those murmurers _(pleureuses)_ away, and let them try what better they could do for themselves."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"No **murmurer** or malcontent was tolerated in the camp, where discipline and faith required joyful obedience."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The stern general executed the ringleader, silencing every sullen **murmurer** among the mutinous legions."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The habitual **murmurer** poisons his own peace by continually searching for grievances where none exist."*

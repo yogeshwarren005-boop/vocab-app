@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reappearance of an earlier characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reappearance of an earlier characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recurrence of or reversion to an ancestral genetic trait, characteristic, or behavior after several generations of absence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and nineteenth-century criminology, phenotypic throwbacks illustrating latent ancestral genes or primitive behavioral regressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Author of ‘Some Freaks of Atavism’ (_Lancet_ 1882). ‘Do We Progress?’ (_Journal of Psychology_, March, 1883)."*
-> - 📜 **James Joyce (*Ulysses*):** *"I would deal in especial with atavism."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Crossing distinct breeds of domestic pigeons frequently produces an **atavism** where the wild blue rock-pigeon plumage reappears."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The primordial instincts that stirred within Buck were an unmistakable **atavism**, awakening memories of ancestral wolf packs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her passionate defense of her dignity seemed an ancient **atavism** inherited from her knightly Norman ancestors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Patient, long-suffering, and forbearing under provocation or hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral characterization, showing enduring patience and self-restraint rather than hasty anger or resentment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, longanimous designates showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans was of a **longanimous** disposition, enduring her sister's thoughtless complaints with unwearied gentleness."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The hermit demonstrated a **longanimous** patience toward the curious travelers who interrupted his solitary devotions."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Amy's **longanimous** devotion to her selfish father in the Marshalsea was the marvel of all who witnessed it."*

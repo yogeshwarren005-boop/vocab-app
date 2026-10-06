@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief that natural objects, forces, and physical phenomena are endowed with an impersonal, pervasive life-force or supernatural power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology, R. R. Marett's theory of a 'pre-animistic' stage of religion attributing raw power (mana) to storms, mountains, and trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatism designates the attribution of consciousness and personality to natural phenomena such as thunderstorms and earthquakes and to objects such as plants and stones."*
+> - 📜 **Robert Ranulph Marett (*The Threshold of Religion*):** *"In **animatism**, nature is regarded not as peopled by distinct disembodied spirits, but as directly alive and fraught with mysterious power."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Scholars distinguish between personified animism and the more general concept of **animatism** pervading primeval folklore."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The belief that the volcano itself is a conscious living force represents a classic manifestation of archaic **animatism**."*

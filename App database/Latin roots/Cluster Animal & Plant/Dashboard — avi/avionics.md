@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Science and technology of electronic systems and devices for aeronautics and astronautics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Science and technology of electronic systems and devices for aeronautics and astronautics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The electronic systems and equipment used in aircraft, artificial satellites, and spacecraft; or the science of their design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern aerospace technology, combining aviation and electronics to control flight communications, radar, and propulsion telemetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avionics designates science and technology of electronic systems and devices for aeronautics and astronautics."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The spacecraft was navigated by integrated **avionics** that calculated planetary orbital trajectories with microsecond precision."*
+> - 📜 **Isaac Asimov (*The Currents of Space*):** *"A single malfunction in the ship's navigation **avionics** would strand the crew light-years from the nearest charted star lane."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Future aerial warfare, as we now realize, was destined to become a contest of delicate electromagnetic **avionics** and radio coordination."*

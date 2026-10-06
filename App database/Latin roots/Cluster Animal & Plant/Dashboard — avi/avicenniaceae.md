@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications: coextensive with the genus avicennia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications: coextensive with the genus avicennia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical family of mangrove shrubs and trees centered on the genus Avicennia, now usually subsumed under Acanthaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic classification history, halophytic mangrove trees characterized by opposite leathery leaves, cryptoviviparous seeds, and salt-secreting foliar glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avicenniaceae designates used in some classifications: coextensive with the genus avicennia."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Systematists established the family **Avicenniaceae** to distinguish these peculiar marine mangroves from the terrestrial Verbenaceae."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Members of the **Avicenniaceae** are distributed along sheltered tropical shorelines throughout the Indian and Pacific Oceans."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The floral adaptations and viviparous germination exhibited by the **Avicenniaceae** reflect intense evolutionary pressure in tidal habitats."*

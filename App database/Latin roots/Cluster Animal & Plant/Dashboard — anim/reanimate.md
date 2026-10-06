@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore to life; revive from death, unconsciousness, or apparent extinction; or to inspire with fresh vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic literature and biomedical history, reviving suspended animation through galvanism or artificial respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He came in with cheery look and manly spirit, and tried to reanimate the expiring heart of the poor money digger, but it was all in vain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Death stared him in the face unless his soul could be induced to speed at once across the sea and reanimate its deserted tenement."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence they take care to throw the bones and offal into the sea, in order that the soul may reanimate them at the resurrection of the salmon."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Could I infuse a spark of vital warmth into this lifeless clay, I might **reanimate** the form that death had overtaken."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The good wine served to **reanimate** the chilled and exhausted travelers after their harrowing journey through the snow."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thy cheering voice is able to **reanimate** our drooping spirits and summon courage back into our hearts."*

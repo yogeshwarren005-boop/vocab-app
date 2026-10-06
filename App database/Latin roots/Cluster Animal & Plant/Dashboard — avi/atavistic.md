@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an atavist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an atavist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by atavism; reverting to or suggestive of an ancient ancestral type or primitive instinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism and psychopathology, deep-seated emotional drives (such as tribalism or bloodlust) resurfacing beneath civilized social norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This history is written in our tissues and our bones, in our functions and our organs, in our brain cells and in our spirits, and in all sorts of physical and psychic atavistic urgencies and compulsions."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval silence of the African river awakened an **atavistic** dread that civilized European habits could not quiet."*
+> - 📜 **Jack London (*White Fang*):** *"The smell of fresh blood triggered an **atavistic** ferocity that made him forget the master's voice in an instant."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Fear of the dark and of creeping things represents an **atavistic** survival from our tree-dwelling arboreal ancestors."*

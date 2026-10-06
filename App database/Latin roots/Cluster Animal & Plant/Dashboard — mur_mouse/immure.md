@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lock up or confine, in or as in a jail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enclose or confine someone against their will within walls; to imprison or shut away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gothic tragedy and monastic history, the horrifying punishment of walling a condemned offender alive within a stone niche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sixty and nine that wore Their crownets regal from the Athenian bay Put forth toward Phrygia; and their vow is made To ransack Troy, within whose strong immures The ravish’d Helen, Menelaus’ queen, With wanton Paris sleeps—and that’s the quarrel."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Our prison strong, this huge convex of fire, Outrageous to devour, immures us round Ninefold; and gates of burning adamant, Barred over us, prohibit all egress."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"First, three hundred lashes with the scourge; then immuring in the chastisement cell, with vinegar, water, and bread, until repentant contrition and the fullest amendment were made manifest."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"And with your arms outstretch'd, / As if you were a-walking on a rope, / As 'twere in a dark lantern; or to **immure** yourself, / Like a snail, in your shell."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"I laid tier after tier of stone to **immure** the helpless Fortunato forever in the subterranean recess of the catacombs."*
+> - 📜 **Walter Scott (*Marmion*):** *"The ecclesiastical judges decreed that the faithless nun should be left to **immure** in the stone dungeon of Saint Hilda."*

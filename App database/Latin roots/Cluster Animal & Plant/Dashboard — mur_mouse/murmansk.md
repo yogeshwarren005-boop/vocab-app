@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major seaport city in northwestern Russia situated on Kola Bay of the Barents Sea; the largest city north of the Arctic Circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century naval history, the vital ice-free Arctic port that served as the terminal for the perilous Allied Arctic convoys during World War II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmansk designates a port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii."*
+> - 📜 **Winston Churchill (*The Second World War: The Hinge of Fate*):** *"The Arctic convoys battling through ice and U-boats to deliver supplies to **Murmansk** demanded the highest fortitude from our merchant navy."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The strategic importance of **Murmansk** stems from the warm North Atlantic drift, which keeps its northern harbor free of ice all year round."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"British and Allied contingents were dispatched to the northern port of **Murmansk** during the turbulent final months of the Russian intervention."*

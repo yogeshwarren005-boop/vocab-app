@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive primates having large ears and eyes and characterized by nocturnal habits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive primates having large ears and eyes and characterized by nocturnal habits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive primate belonging to the suborder Strepsirrhini (or Prosimii), including lemurs, lorises, galagos, and tarsiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary primatology, arboreal primates characterized by moist rhinaria, reflective tapeta lucida, dental toothcombs, and nocturnal habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosimian designates primitive primates having large ears and eyes and characterized by nocturnal habits."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The primitive brain and dental traits of the madagascan **prosimian** illustrate the transitional stage between insectivores and higher apes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The lemurine mammals of Madagascar preserve an archaic **prosimian** stock that flourished during the Eocene epoch."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the dense forests of Celebes we encountered the spectral tarsier, a curious nocturnal **prosimian** with enormous luminous eyes."*

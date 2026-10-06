@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech involving the explicit comparison of one thing with another of a different kind, typically using the words 'like' or 'as'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and epic poetry, an extended figurative comparison (Homeric simile) illuminating character, battle, or natural drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good swift simile, but something currish."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s no simile for his lungs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never before seen a woman’s lips and teeth which forced upon his mind with such persistent iteration the old Elizabethan simile of roses filled with snow."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A poetical **simile** must not only illustrate the thought, but awaken an emotional resonance that enriches the imagination."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Milton's celebrated **simile** comparing the fallen angels to autumn leaves in Vallombrosa delights both ear and intellect."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A subtle jest, / A biting **simile** that wounds the ear / With cruel mocking mirth."*

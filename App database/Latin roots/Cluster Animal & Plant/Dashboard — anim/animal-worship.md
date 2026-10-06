@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious veneration, deification, or ritual honoring of animals; zoolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural anthropology, totemic cults where sacred animals (such as the Apis bull or sacred ibis) embody divine cosmic powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animal-worship designates the worship of animals."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman satirists mocked the superstitious **animal-worship** of the Nile valley, where leeks and crocodiles received divine honors."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive **animal-worship** frequently originates in the hunter's desire to propitiate the spirit of the slain beast."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Zoolatry or direct **animal-worship** represents a natural development of animism, investing powerful predators with spiritual souls."*

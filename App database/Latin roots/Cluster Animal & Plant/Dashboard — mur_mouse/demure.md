@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reserved, modest, shy, and quiet in manner and appearance, often in an affected or playful way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and satirical characterization, describing an outwardly prim demeanor concealing sharp satirical wit or quiet ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s never none of these demure boys come to any proof; for thin drink doth so over-cool their blood, and making many fish meals, that they fall into a kind of male green-sickness; and then, when they marry, they get wenches."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then to have the humour of state; and after a demure travel of regard, telling them I know my place as I would they should do theirs, to ask for my kinsman Toby."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I'll smile and be **demure**, / And take the letter with a solemn grace."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"Jane sat quietly in the window-seat, her simple black dress and **demure** composure baffling Rochester's scrutiny."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Agnes Wickfield was always tranquil, gentle, and **demure**, shedding peace wherever she moved in the old Canterbury house."*

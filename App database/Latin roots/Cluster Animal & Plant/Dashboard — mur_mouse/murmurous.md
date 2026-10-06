@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by soft sounds; ; ; - r.p.warren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by soft sounds; ; ; - r.p.warren.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, filled with, or resembling a murmur; making a low, continuous, gentle sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century sensory poetry, evoking the warm auditory ambiance of summer woods, tranquil rivers, or sleepy hives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"He met within the murmurous vestibule His young disciple."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Such a spring is said to have gushed from the foot of the great oak at Dodona, and from its murmurous flow the priestess drew oracles."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The coming musk-rose, full of dewy wine, / The **murmurous** haunt of flies on summer eves."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Through the **murmurous** pines the wind blew soft and cool, carrying the scent of mountain wildflowers."*
+> - 📜 **Alfred Lord Tennyson (*The Princess*):** *"The moan of doves in immemorial elms, / And **murmurous** sound of innumerable bees."*

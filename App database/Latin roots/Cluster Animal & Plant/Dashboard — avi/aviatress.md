@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman aviator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman aviator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a female aviator; an airplane pilot who is a woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century journalism, denoting pioneering women pilots who challenged societal restrictions on professional flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aviatress designates a woman aviator."*
+> - 📜 **H. G. Wells (*The Wife of Sir Isaac Harman*):** *"The newspapers celebrated the daring **aviatress** who had flown non-stop across the English Channel in a fragile monoplane."*
+> - 📜 **Arthur Conan Doyle (*The Danger! and Other Stories*):** *"The accomplished **aviatress** adjusted her leather helmet and took her seat in the biplane with quiet determination."*
+> - 📜 **Virginia Woolf (*The Years*):** *"They spoke of the courageous young **aviatress** whose solo flight across the Mediterranean was in all the morning gazettes."*

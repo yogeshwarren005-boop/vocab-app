@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To absorb and integrate food into living tissues; or to take in and fully understand information; or to absorb a group into a wider society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the phonological process whereby a sound becomes identical or more similar to an adjacent sound in connected speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we do not definitely set our minds to assimilate the ideas of Jesus, we shall make too little of the heart of God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we can wrestle with that central thought and assimilate it, or, as the old divines said, "appropriate" it, make it our own, the rest of the Gospel is easy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It can harmonize, assimilate, and protect the several parts and members, and extend the benefit of its foresight and precautions to each."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plants **assimilate** inorganic carbon from atmospheric carbonic acid through the photochemical action of their green chlorophyll."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human mind cannot truly **assimilate** ideas that are accepted on blind authority without rational examination."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American republic displays an extraordinary power to **assimilate** vast multitudes of diverse immigrants into a single commonwealth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin avi within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of avi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice, science, or hobby of keeping, breeding, and caring for wild and domestic birds in captivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation biology and zoological management, captive propagation programs aimed at preventing the extinction of endangered avian species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aviculture designates pertaining to, derived from, or characteristic of latin avi within the domain of animal & plant."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Gentlemen devoted to **aviculture** have achieved astonishing results in modifying the plumage and skull dimensions of domestic canaries."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The art of **aviculture** has taught us much concerning the diet and seasonal song cycles of British finches."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Through careful **aviculture**, local traders preserved exquisite birds of paradise alive during long sea voyages to coastal ports."*

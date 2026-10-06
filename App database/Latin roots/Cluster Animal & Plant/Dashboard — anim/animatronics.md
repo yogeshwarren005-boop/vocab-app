@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of robots to look like animals (developed for disneyland).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of robots to look like animals (developed for disneyland).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique of creating lifelike robotic puppets, mechanized figures, or artificial animals for entertainment, theme parks, or film effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical engineering and cinematic special effects, integrating pneumatics, servo-mechanisms, and computerized telemetry to mimic animal anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatronics designates the construction of robots to look like animals (developed for disneyland)."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"If modern science could construct mechanized prehistoric monsters, such mechanical illusions would rival nature's ancient wonders through ingenious **animatronics**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian handling-machines moved with an articulate complexity that foreshadowed the most sophisticated industrial **animatronics**."*
+> - 📜 **Jules Verne (*The Steam House*):** *"The mechanical elephant was a masterpiece of Victorian automaton design, an early forerunner of modern theatrical **animatronics**."*

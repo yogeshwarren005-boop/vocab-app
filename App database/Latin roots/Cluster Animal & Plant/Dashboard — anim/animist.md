@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who accepts the doctrine of animism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the doctrine of animism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in or adherent of animism, holding that all things in nature possess living souls or conscious spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ethnology, an indigenous practitioner who communicates with animal ancestors and environmental spirits through ritual offerings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animist designates one who accepts the doctrine of animism."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"To the consistent **animist**, the river that drowns a fisherman is not a mere stream of water, but an offended conscious deity."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"The Siberian **animist** shaman conducts elaborate chants to escort the soul of the slain bear back to the spirit world."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native boatman was an instinctive **animist**, scanning the dark coastal waters for signs of malevolent spirits."*

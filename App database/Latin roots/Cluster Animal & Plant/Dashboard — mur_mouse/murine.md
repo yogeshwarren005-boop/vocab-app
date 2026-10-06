@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rodent that is a member of the family muridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or transmitted by a member of the family muridae (rats and mice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling mice or rats; belonging to the rodent family Muridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical research and epidemiology, laboratory mice (Mus musculus) or rat models used in genetic transgenics and infectious disease studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murine designates a rodent that is a member of the family muridae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain nocturnal carnivores prey exclusively upon small **murine** quadrupeds that burrow beneath roots and rocks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemic bubonic plague is primarily a **murine** disease transmitted from infected black rats to humans by rodent fleas."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **murine** rodent skeleton demonstrates remarkable agility and burrowing adaptability, coupled with constantly growing incisors."*

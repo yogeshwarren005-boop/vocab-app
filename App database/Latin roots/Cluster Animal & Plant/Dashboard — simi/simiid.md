@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin simi within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of simi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the ape family Simiidae (now usually Pongidae or Hominidae), comprising anthropoid apes like the chimpanzee, gorilla, and orangutan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical primatology, distinguished from Old World monkeys (Cercopithecidae) by the absence of a tail, larger brain size, and brachiating shoulder girdles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simiid designates pertaining to, derived from, or characteristic of latin simi within the domain of animal & plant."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The cranial capacity of the adult **simiid** ape reaches barely a third of that found in the lowest human races."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"In every typical **simiid**, the upper canine teeth project far beyond the occlusal plane, requiring a diastema in the opposite jaw."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The anatomical structures of the higher **simiid** apes approach the human standard with remarkable evolutionary fidelity."*

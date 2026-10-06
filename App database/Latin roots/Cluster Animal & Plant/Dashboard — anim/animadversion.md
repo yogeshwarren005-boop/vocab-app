@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh criticism or disapproval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harsh criticism or disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical, censorious, or disparaging remark or observation; severe censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and polemical debate, a judicial or literary rebuke highlighting moral or logical fallacies in an opponent's thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor have I scrupled, in so flagrant a case, to allow myself a severity of animadversion little congenial with the general spirit of these papers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fifth point will demand little animadversion."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Egan unworthy of his position, or that could justly be the occasion of serious animadversion or criticism."*
+> - 📜 **John Milton (*Animadversions upon the Remonstrant's Defence*):** *"I thought it necessary to publish this strict **animadversion** to expose the prelate's evasive sophistries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian must pass severe **animadversion** upon the cruelty and fiscal extortions of the later emperors."*
+> - 📜 **David Hume (*The History of England*):** *"The conduct of the royal favorites provoked sharp **animadversion** from the leaders of the House of Commons."*

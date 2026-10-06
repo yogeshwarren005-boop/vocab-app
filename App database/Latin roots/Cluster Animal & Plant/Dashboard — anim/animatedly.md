@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an animated manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an animated manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lively, spirited, enthusiastic, or vigorous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social dialogue, conversing with energetic facial expressions, rapid gestures, and emotional engagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing through, they spoke and gestured animatedly to each other."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The look of his eyes was resolute, calm, and animatedly alert, as never before."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Billy, after a moment's silence, began to talk animatedly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw gesticulated **animatedly** as he defended his unconventional views on modern political reform."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel talked **animatedly** of her travels through Italy, her face glowing with intellectual delight."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The young clerks were discussing the latest chancery scandal **animatedly** over their luncheon in the coffee-house."*

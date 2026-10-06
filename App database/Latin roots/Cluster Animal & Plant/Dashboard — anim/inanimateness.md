@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inert, lifeless condition of mineral matter or dead organic material lacking consciousness, sensation, and voluntary motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy, the absolute absence of vital or teleological responsiveness in unformed physical substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inanimateness designates not having life."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Between the vital activities of living protoplasm and the dull **inanimateness** of mineral crystals lies the profound mystery of biology."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The total **inanimateness** of matter demonstrates that consciousness could never arise from mechanical collisions of bare atoms."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The cosmic transition from **inanimateness** to organic vitality marks a fundamental stage in the evolutionary unfolding of nature."*

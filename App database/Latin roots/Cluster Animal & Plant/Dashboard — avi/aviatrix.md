@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman aviator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman aviator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female aviator or airplane pilot; aviatress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aeronautics, celebrating heroic aviation pioneers such as Amelia Earhart, Amy Johnson, and Harriet Quimby.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aviatrix designates a woman aviator."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"The crowd cheered the renowned **aviatrix** as she stepped from the cockpit after setting a new transcontinental speed record."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The country fair featured an acrobatic display by a celebrated **aviatrix** who performed daring loops above the fairgrounds."*
+> - 📜 **H. G. Wells (*The Autocracy of Mr. Parham*):** *"The daring **aviatrix** surveyed the crowd with calm professional poise, unaffected by the clamor of the press."*

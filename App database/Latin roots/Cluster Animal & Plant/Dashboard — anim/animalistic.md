@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to animalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to animalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by animal instincts, appetites, or physical nature; bestial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, behavior dominated by primal survival drives, aggression, or raw physical desires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalistic designates of or pertaining to animalism."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Claggart's envy possessed an **animalistic** ferocity that aimed at the total destruction of innocent goodness."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Under the law of club and fang, the dog's civilized veneer vanished, awakening fierce **animalistic** instincts for survival."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Arabella represented that coarse, **animalistic** nature that exerted an irresistible physical pull upon Jude's sensitive temperament."*

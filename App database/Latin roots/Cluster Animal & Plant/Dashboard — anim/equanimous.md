@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In full control of your faculties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In full control of your faculties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, composed, and even-tempered; maintaining mental poise and emotional balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character depiction, reacting to sudden reversal of fortune or unjust provocation without anger or despair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equanimous designates in full control of your faculties."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Winterborne remained quietly **equanimous** under the loss of his ancestral timber property, facing adversity without a murmur."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother possessed an **equanimous** temper that allowed him to play whist cheerfully with parishioners whose sermons he abhorred."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The general was an **equanimous** commander, surveying the carnage of Blenheim with the cool precision of a chess master."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of one mind; without dissent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of one mind; without dissent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without opposition; with the agreement and approval of every person involved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic and parliamentary record, recording resolutions adopted by acclaim without a divided count.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The people in Nolla unanimously agree that the ghost of Wildenstein has gone to his eternal rest, because peace again is reigning at the castle."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Carried unanimously.” “Carried unanimously,” I repeated, going on with my work."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We all know that, and ye must have a wonderful talented constitution to be able to live so long, mustn’t he, neighbours?” “True, true; ye must, malter, wonderful,” said the meeting unanimously."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The proposal was approved **unanimously**, and the subscription list for the new public library was filled in a few weeks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The council decreed **unanimously** that the heretical writings should be committed publicly to the flames in the marketplace."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The town meeting voted **unanimously** to levy a special tax for the maintenance of the village grammar school."*

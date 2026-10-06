@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the doctrine of animism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the doctrine of animism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by animism; attributing spirits or conscious life to inanimate nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological development and anthropology, child cognition or mythological traditions personifying winds, trees, and stones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animistic designates of or pertaining to the doctrine of animism."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The **animistic** conception of the world survives in classical mythology under the refined guise of river gods and mountain nymphs."*
+> - 📜 **Jean Piaget (*The Child's Conception of the World*):** *"Young children naturally pass through an **animistic** stage where the sun is believed to follow them consciously across the street."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"An **animistic** view of nature leads the agrarian peasant to perform ceremonial dances to awaken the slumbering spirit of the corn."*

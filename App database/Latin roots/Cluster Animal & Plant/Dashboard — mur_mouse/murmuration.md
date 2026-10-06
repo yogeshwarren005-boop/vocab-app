@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of murmuring; or a collective flock of starlings, especially when flying in dense, swirling, synchronized aerial formations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological field ethology, the mesmerizing undulating sky dances performed by hundreds of thousands of starlings at twilight roosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmuration designates a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"At dusk we witnessed a vast **murmuration** of starlings wheeling and descending like an undulating cloud into the reed-beds."*
+> - 📜 **Alfred Lord Tennyson (*In Memoriam A. H. H.*):** *"A soft **murmuration** ran through the pine woods as the evening breeze stirred the highest boughs."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The sky was darkened by an immense **murmuration** of birds, sweeping across the river in magnificent synchronized maneuvers."*

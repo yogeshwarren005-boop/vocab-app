@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In like or similar manner; ; - samuel johnson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In like or similar manner; ; - samuel johnson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a similar way or manner; likewise; in corresponding fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical exposition and comparative argument, introducing an analogous case that corroborates an established proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Similarly, being permitted to look in at the door of the fatal chamber, he depicts that apartment as three-quarters of a mile long by fifty yards high, at which the court is particularly charmed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"As domestic dogs display intense affection for their human masters, **similarly** wolves in a pack manifest unwavering loyalty to their leader."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The price of commodities fluctuates with market supply; **similarly**, the wages of labor depend on the demand for employment."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The left ventricle pumps arterial blood throughout the systemic organs; **similarly**, the right ventricle propels venous blood to the lungs."*

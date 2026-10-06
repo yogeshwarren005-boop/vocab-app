@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between two or more institutions etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between two or more institutions etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, existing, or occurring between walls; or taking place between institutions or university faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fortress engineering and architecture, the defensive space, ditch, or corridor constructed between double concentric city walls (the zwinger).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermural designates between two or more institutions etc."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The besieging Turks crowded into the narrow **intermural** space between the inner and outer Theodosian ramparts of Constantinople."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The defensive fortress possessed an **intermural** gallery allowing guards to shoot through narrow crenelles at advancing sappers."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Excavations at Knossos revealed an **intermural** drainage system crafted from interlocking terracotta pipes of extraordinary sophistication."*

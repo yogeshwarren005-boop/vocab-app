@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (jungian psychology) the inner self (not the external persona) that is in touch with the unconscious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner soul, vital life force, or essential animating spirit of a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian analytical psychology, the unconscious feminine archetype residing within the male psyche, complementing the external persona.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"I own it, this is all wrong, and the rest, Frustra sed anima monet, caro quod fortius est."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Also _Tert. de Anima_, 39, _Sic et omnibus genii deputantur, quod daemonum nomen est."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The tone of Tertullian, _e.g._ in _de Anima_, 1, on the Phaedo, suggests that Socrates may have been over-preached."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The **anima** represents the personification of all feminine psychological tendencies in a man's unconscious."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The rational soul, or **anima** rationalis, constitutes the substantial form that animates the human physical body."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Ancient metaphysics posited an incorporeal **anima** to account for the spontaneous self-motion of living creatures."*

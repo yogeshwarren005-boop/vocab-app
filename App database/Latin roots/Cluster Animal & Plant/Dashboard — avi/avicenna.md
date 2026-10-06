@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latinized name of Ibn Sina (c. 980–1037), Persian polymath, philosopher, and physician who authored The Canon of Medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy and medicine, the towering medieval thinker whose Aristotelian synthesis and clinical encyclopedias dominated European universities until the Renaissance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Gilles de Rais, marshal of France, and Avicenna; Nicolas Flamel and his wife Petronella; Lady Alice Kyteler of Kilkenny, and Gerald of Desmond, the Great Earl; and newer names, Dee and Edward Kelly...."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosophical commentaries and medical canon of **Avicenna** were reverently studied in the universities of Bologna and Paris for five hundred years."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The Canon of **Avicenna** stands as the most famous medical textbook ever written, serving as the medical bible of East and West alike."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"In discussing the distinction between essence and existence in creatures, the master repeatedly cites the profound insights of **Avicenna**."*

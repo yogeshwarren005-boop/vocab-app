@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good-natured tolerance of delay or incompetence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good-natured tolerance of delay or incompetence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Patient endurance of injuries, hardship, or provocation; long-suffering forbearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics, a spiritual virtue enabling the faithful to endure prolonged suffering without retaliating or losing hope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, longanimity designates good-natured tolerance of delay or incompetence."*
+> - 📜 **Thomas Browne (*Christian Morals*):** *"Exercise that sublime **longanimity** which overlooks trivial affronts and leaves vengeance entirely to the divine judge."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"The **longanimity** of the saints shone most brightly in their patient submission to unjust persecution and martyrdom."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola preached that the divine mercy had exercised immense **longanimity** toward the persistent corruptions of Florence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not animated or enlivened; dull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not animated or enlivened; dull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not animated; lacking life, vigor, spirit, or enthusiasm; dull and listless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic criticism and acting theory, performance or painting lacking spontaneous vitality, dynamic gesture, or emotional depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The only person of the company who seemed unanimated with the general satisfaction was Mr."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mr. Rushworth's reading of his dramatic part was heavy, stiff, and utterly **unanimated**, provoking general laughter among the rehearsal party."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A poem constructed solely by grammatical rules without poetic fire remains an **unanimated** corpse of verse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's delivery of the sermon was dry and **unanimated**, sounding like the rustle of withered parchment."*

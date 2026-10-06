@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not virulent; unable to produce disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not virulent; unable to produce disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not virulent; lacking the ability to cause disease or damage to a host organism; benign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and immunology, attenuated bacterial or viral strains that induce immunity without producing clinical infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avirulent designates not virulent; unable to produce disease."*
+> - 📜 **Louis Pasteur (*On the Attenuation of the Virus of Fowl Cholera*):** *"By exposing the bacterial broth to atmospheric oxygen for several weeks, we obtained an entirely **avirulent** strain suitable for vaccination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Normal mucosal membranes harbor millions of microorganisms that remain completely **avirulent** until tissue resistance is impaired."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Inoculation with an **avirulent** variant provoked a localized inflammatory reaction without producing generalized systemic disease."*

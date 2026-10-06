@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the class of nouns denoting nonliving things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not endowed with life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not alive, especially in the manner of animals and humans; showing no signs of life; lifeless or inert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and philosophy, non-living property or material objects that lack consciousness, moral agency, and voluntary motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In his lowering magazine of dust, the universal article into which his papers and himself, and all his clients, and all things of earth, animate and inanimate, are resolving, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I saw how the fine form of man was degraded and wasted; I beheld the corruption of death succeed to the blooming cheek of life; I saw how the worm inherited the wonders of the eye and brain, handling **inanimate** clay with trembling hands."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dusty legal parchments lay in **inanimate** bundles upon the shelves, holding the ruined fortunes of dead suitors."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"To every natural form, rock, fruit, or flower, / Even the loose stones that cover the highway, / I gave a moral life: I saw them feel, / Or linked them to some feeling: the great mass / Lay bedded in **inanimate** repose."*

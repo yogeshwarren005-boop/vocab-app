@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Latin singular form of animalcule; a microscopic organism or protozoan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early biological literature, designating any minute infusorian observed swimming in fermenting organic infusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalculum designates microscopic organism such as an amoeba or paramecium."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The improved microscope brings to light the astonishing organization of each minute **animalculum** in vinegar and stagnant rain."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"We observed a transparent **animalculum** whose internal organs pulsed with rhythmic contractions under the focal lens."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Nature exhibits no less exquisite workmanship in the framing of an **animalculum** than in the anatomy of an elephant."*

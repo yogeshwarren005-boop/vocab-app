@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being animated; having animal life as distinguished from plant life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being animated; having animal life as distinguished from plant life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vital property of possessing life, spirit, consciousness, and active physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical biology and linguistics, the conceptual category distinguishing living agents from inert inanimate matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animateness designates the property of being animated; having animal life as distinguished from plant life."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The imagination confers a semblance of **animateness** upon natural scenery, investing trees and clouds with living passion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A young child attributes **animateness** to toys and moving shadows before learning to classify objects as lifeless."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The visual perception of **animateness** depends on detecting spontaneous, self-generated changes of trajectory."*

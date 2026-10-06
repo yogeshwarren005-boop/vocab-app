@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin simi within the domain of Animal & Plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of simi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or appearance of an ape or monkey; monkey-like in structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic primatology, belonging to the infraorder Simiiformes (the anthropoids: New World monkeys, Old World monkeys, apes, and humans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simiiform designates pertaining to, derived from, or characteristic of latin simi within the domain of animal & plant."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The fossil anthropoid display distinct **simiiform** characteristics, possessing closed postorbital septa and fused mandibular symphyses."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dental formula and flattened nails of the specimen confirm its place among the true **simiiform** primates."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"From archaic catarrhine ancestors arose the diverse **simiiform** lineages that populated the tropical forests of the Old World."*

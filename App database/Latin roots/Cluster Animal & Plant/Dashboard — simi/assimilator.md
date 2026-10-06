@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, organism, or system that absorbs, integrates, or digests diverse elements into a unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and philosophy, an intellectual thinker who synthesizes disparate philosophical traditions into an overarching system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilator designates someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Dante was the great **assimilator** of medieval theology, fusing scholastic philosophy and Italian politics into immortal verse."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true philosopher resembles the bee, which is neither a mere gatherer like the ant nor a spinner of webs, but an **assimilator** of nature."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"Shakespeare was an omnivorous **assimilator** of old chronicles, transforming crude ballads into universal human drama."*

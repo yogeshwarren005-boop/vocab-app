@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operate an airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operate an airplane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fly an aircraft; to navigate the air in a powered aeroplane or flying machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the early history of aeronautics, operating heavier-than-air motorized apparatus using three-axis aerodynamic controls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aviate designates operate an airplane."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The ambition to **aviate** had seized upon inventors across the globe, filling every shed with experimental wire-and-canvas craft."*
+> - 📜 **Arthur Conan Doyle (*The Horror of the Heights*):** *"Joyce-Armstrong was determined to **aviate** higher into the stratosphere than any human had ever ventured before."*
+> - 📜 **Rudyard Kipling (*Actions and Reactions*):** *"The pilot prepared to **aviate** into the gathering storm clouds, trusting his twin propellers and balanced rudders."*

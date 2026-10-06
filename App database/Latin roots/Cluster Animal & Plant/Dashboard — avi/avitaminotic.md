@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of avitaminosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of avitaminosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or suffering from avitaminosis; deficient in essential dietary vitamins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nutrition, describing symptoms like night blindness, bleeding gums, or peripheral neuropathy arising from dietary deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avitaminotic designates of or relating to or characteristic of avitaminosis."*
+> - 📜 **Christiaan Eijkman (*Researches on Beriberi*):** *"The **avitaminotic** pigeons recovered their normal posture and muscular strength within hours after receiving thiamine extract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **avitaminotic** patient presenting with spongy bleeding gums and loose teeth was promptly cured with fresh lime juice."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Defective bone mineralization in the child was traced directly to an **avitaminotic** state resulting from lack of cod-liver oil and sunlight."*

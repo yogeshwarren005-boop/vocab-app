@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent in the form of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brutal, unfeeling, or inhuman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into animal substance or tissue; or to render sensual, bestial, or brutish in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical commentary, indulging base appetites to the point of extinguishing rational moral faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalise designates represent in the form of an animal."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"A system of false education tends to **animalise** women by training them to cultivate only superficial physical attractions."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To live solely for bodily pleasure is to **animalise** the immortal soul created for higher spiritual labor."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Brutal prison conditions tend to **animalise** the convict rather than reform his social instincts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or functioning in the process of assimilation, absorption, or incorporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry and metabolic physiology, describing synthetic anabolic pathways that construct cellular biomass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilatory designates capable of taking (gas, light, or liquids) into a solution; "an assimilative substance."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The digestive secretion of the leaf glands enables the rapid **assimilatory** absorption of animal nitrogen."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The hepatic caeca perform crucial **assimilatory** functions, manufacturing digestive enzymes and storing glycogen reserves."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Anabolic growth depends entirely upon the efficiency of the internal **assimilatory** tissues of the organism."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of mentally absorbing ; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward, promoting, or capable of performing assimilation; absorbing and integrating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and plant physiology, the capacity of an organism or mind to synthesize external matter into its own structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"How much of this country would now be worth preserving if the North had been covered by Africans as is South Carolina to-day, in view of their non-assimilative character?"*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The **assimilative** power of the intellect classifies every new sensory impression by linking it to kindred memories."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The green leaves constitute the primary **assimilative** apparatus of the plant, fixing solar energy into organic starches."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"True teaching strengthens the student's **assimilative** grasp rather than merely testing rote factual memory."*

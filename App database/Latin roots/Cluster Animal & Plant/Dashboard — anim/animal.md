@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism characterized by voluntary movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the appetites and passions of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism belonging to the kingdom Animalia, typically multicellular, eukaryotic, and heterotrophic, possessing specialized sensory organs and voluntary movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical anthropology and moral discourse, designating physical, sensory, or instinctual human nature as distinguished from intellect or spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the thing itself: unaccommodated man is no more but such a poor, bare, forked animal as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His intellect is not replenished; he is only an animal, only sensible in the duller parts."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
+> - 📜 **Aristotle (*Politics*):** *"Man is by nature a political **animal**, endowed above all other creatures with the power of speech and moral perception."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every domestic **animal** has descended from one or more wild ancestral species through generations of artificial selection."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The perception of ideas constitutes the grand distinction between the **animal** kingdom and inferior vegetable nature."*

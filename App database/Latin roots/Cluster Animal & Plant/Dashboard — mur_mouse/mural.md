@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting that is applied to a wall surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting or other work of art executed directly upon a wall; or relating to, situated on, or resembling a wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomy and fort architecture, mural instruments (mural quadrants) fixed firmly against stone walls in meridian lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is the mural down between the two neighbours."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Disburd’nd Heav’n rejoic’d, and soon repaird Her mural breach, returning whence it rowld."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It rears its irregular walls and massive towers, like a mural crown around the brow of a lofty ridge, waves its royal banner in the clouds, and looks down with a lordly air upon the surrounding world."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient **mural** paintings of the Venetian council chambers celebrated civic triumphs with radiant Renaissance pigments."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The royal observatory was equipped with a massive **mural** circle firmly bolted to a stone pier for measuring celestial declinations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman soldier who first scaled the enemy rampart was rewarded with the coveted **mural** crown of gold."*

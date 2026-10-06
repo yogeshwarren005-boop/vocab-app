@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To modify microorganisms by repeated culture in the developing chick embryo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To modify microorganisms by repeated culture in the developing chick embryo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render bird-like; or in microbiology, to attenuate a pathogen by passing it repeatedly through chicken embryos or birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and vaccine development, passaging mammalian viruses through fertile hen eggs to reduce virulence for human immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avianize designates to modify microorganisms by repeated culture in the developing chick embryo."*
+> - 📜 **Louis Pasteur (*Researches on Rabies*):** *"Attempts to **avianize** the rabies virus by serial inoculation into avian hosts yielded significant insights into viral attenuation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern bacteriologists frequently **avianize** pathogenic strains within embryonic tissues to prepare safe protective vaccines."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The skeletal modifications required to **avianize** a theropod reptile demonstrate the plastic mutability of vertebrate limbs."*

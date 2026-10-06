@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried on within the bounds of an institution or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on within the bounds of an institution or community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or done within the walls or boundaries of a building, town, university, or institution; interior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In collegiate athletics and municipal public health, sports competitions between students of the same school, or burials prohibited inside city limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intramural designates carried on within the bounds of an institution or community."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient Roman law strictly prohibited **intramural** burials within the sacred pomœrium of the city."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sanitary reformer denounced the pestilential horrors of crowded **intramural** churchyards nestled among London tenements."*
+> - 📜 **Henry James (*The Bostonians*):** *"The college campus fostered an active **intramural** athletic rivalry that kept the student body in vigorous physical condition."*

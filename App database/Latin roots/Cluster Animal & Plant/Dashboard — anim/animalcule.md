@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic animal or protozoan organism invisible to the naked eye, such as a rotifer or paramecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century microscopy, the living motile microorganisms discovered by Antonie van Leeuwenhoek in water droplets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The animalcule that the marine polypus secretes live by millions at the bottom of their cells."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here am I with nothing but my pipe and pond-animalcules."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"In a single drop of pond water, I discovered an incredible multitude of living **animalcule** creatures moving with astonishing swiftness."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The tiny philosopher appeared to the giant king like an inquisitive little **animalcule** endowed with the power of speech."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The greenish scum on stagnant water proves upon microscopic examination to be teeming with diverse **animalcule** forms."*

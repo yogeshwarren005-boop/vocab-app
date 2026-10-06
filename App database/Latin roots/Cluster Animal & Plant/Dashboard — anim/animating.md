@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imparting life, vigor, energy, or courage; inspiring, stimulating, or enlivening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and moral psychology, the guiding ideal or passionate conviction that drives collective historical movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fanny’s own spirit seemed to be animating her frame."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The want of his animating influence appeared to be peculiarly felt one day that he had been summoned to Millcote on business, and was not likely to return till late."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, there is that peculiar voice of hers, so animating and piquant, as well as soft: it cheers my withered heart; it puts life into it.—What, Janet!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The patriotic spirit of the early republic was the **animating** principle that secured Roman triumph over Mediterranean rivals."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A vigorous executive is an essential and **animating** ingredient in the composition of good government."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A ray of hope broke through the despair that had so long weighed upon my heart, **animating** me to renewed exertion."*

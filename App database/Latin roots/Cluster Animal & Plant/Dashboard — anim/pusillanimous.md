@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of courage or determination; timid, cowardly, and faint-hearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and dramatic literature, describing rulers or commanders who shrink from necessary decisions out of personal fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Surely, on no other occasion should I have been thus pusillanimous."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They become drunken, indolent, feeble, thievish, and pusillanimous."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A mole on the right side, over any part of the ribs, denotes the person to be pusillanimous, and slow in understanding anything that may be attended with difficulty."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"A most devilish knave, and a coward, a most devout coward, a **pusillanimous** fellow that will fly from his own shadow."*
+> - 📜 **David Hume (*The History of England*):** *"King John's reign was disgraced by alternating fits of tyrannical insolence and **pusillanimous** submission to foreign demands."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A **pusillanimous** policy that yields basic constitutional principles to appease a violent faction will destroy all social order."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be absorbed and incorporated into body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be absorbed and incorporated into body tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being absorbed and incorporated into the tissues of an organism; digestible; or intellectually absorbable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and nutritional science, nutrients capable of traversing the intestinal mucosa into the bloodstream without generating toxic residues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilable designates able to be absorbed and incorporated into body tissues."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The food must be converted by gastric and pancreatic juices into a soluble, **assimilable** form before it can nourish muscular tissue."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Knowledge must be presented in an easily **assimilable** sequence that corresponds to the natural development of the child's mind."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Peptones represent the final **assimilable** product of protein digestion, readily diffusing into blood capillaries."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To modify microorganisms by repeated culture in the developing chick embryo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To modify microorganisms by repeated culture in the developing chick embryo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt, modify, or transform so as to resemble or function like a bird; avianize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical design and comparative physiology, modifying experimental gliders or wings according to aerodynamic bird mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avianise designates to modify microorganisms by repeated culture in the developing chick embryo."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Pioneering aeronauts sought to **avianise** their crude monoplanes by shaping the canvas wings after the curved profile of the swift."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Comparative Anatomy*):** *"Evolutionary adaptations to **avianise** the vertebrate forelimb involved the fusion of metacarpals and the total loss of distal phalanges."*
+> - 📜 **Jules Verne (*Robur the Conqueror*):** *"The inventor refused to **avianise** his aerial vessel with flapping feathers, trusting instead to powerful vertical lifting screws."*

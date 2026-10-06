@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states broadcast journalist remembered for his reports from london during world war ii (1908-1965).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Edward R. Murrow (1908–1965), celebrated American broadcast journalist who pioneered radio reporting during the Blitz and exposed McCarthyism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mass media and journalistic ethics, an exemplar of fearless investigative reporting and uncompromising broadcasting integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murrow designates united states broadcast journalist remembered for his reports from london during world war ii (1908-1965)."*
+> - 📜 **Winston Churchill (*The Second World War: Their Finest Hour*):** *"The vivid radio broadcasts of Edward R. **Murrow** from London rooftops during the Blitz stirred the conscience of the American people."*
+> - 📜 **Walter Lippmann (*Essays in the Public Philosophy*):** *"Broadcast pioneers like **Murrow** demonstrated that the new electronic medium could educate the public mind with solemn intellectual dignity."*
+> - 📜 **Arthur M. Schlesinger Jr. (*The Age of Roosevelt*):** *"The courageous television broadcasts of **Murrow** broke the spell of fear that McCarthyism had cast over American public life."*

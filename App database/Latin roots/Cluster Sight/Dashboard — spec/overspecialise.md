@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become overly specialized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become overly specialized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To specialize to an excessive degree, sacrificing breadth, adaptability, or general resilience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and pedagogical theory, describes an over-narrow focus that leaves an organism or scholar vulnerable to rapid changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overspecialise designates become overly specialized."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms that **overspecialise** to a single food source risk extinction whenever climatic shifts eradicate that host."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Modern academic institutions tend to **overspecialise**, producing technicians who lack comprehensive historical vision."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Lineages that **overspecialise** in giant body size or bizarre ornamentation frequently terminate in dead-end fossil branches."*

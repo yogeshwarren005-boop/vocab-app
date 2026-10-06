@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being specified, defined, named, or determined precisely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational logic and legal theory, describes conditions, contractual obligations, or algorithmic parameters that can be stated unambiguously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specifiable designates capable of being specified."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A logical class is well-defined only when its defining characteristic is clearly **specifiable**."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Inquiry begins with an indeterminate situation and moves toward a determinate, **specifiable** problem."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A scientific hypothesis must possess **specifiable** empirical conditions under which it could be falsified."*

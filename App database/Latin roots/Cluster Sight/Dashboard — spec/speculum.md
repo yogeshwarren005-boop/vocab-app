@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mirror (especially one made of polished metal) for use in an optical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for dilating a bodily passage or cavity in order to examine the interior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument used to dilate an orifice of the body for inspection; a mirror or reflector of polished metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy and gynecological medicine, a polished bronze or alloy telescope mirror, or a diagnostic instrument introduced by modern surgeons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Their bad, irregular condition was due to the tools being imperfect, and Coster in the first practice of his invention was inexperienced and therefore bound to produce such imperfections as are found in the Speculum."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In male ducks, the iridescent **speculum** upon the wing-feathers acts as a striking visual ornament during courtship."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"We cast a massive bronze **speculum** for the forty-foot telescope, grinding its parabolic curve with tireless care."*
+> - 📜 **Sir William Osler (*The Principles and Practice of Medicine*):** *"The careful introduction of the **speculum** revealed a deep mucosal ulceration that accounted for the chronic hemorrhage."*

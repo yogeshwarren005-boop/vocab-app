@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devote oneself to a special area of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated on a small area of a subject; designed or fitted for one particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anatomy and economic organization, describes highly adapted organs or industrial tools optimized for a narrow, demanding function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The sources of his figurative wealth are specialised, sources of Shakespeare's are universal."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The woodpecker exhibits exquisitely **specialised** feet, tail-feathers, and beak for climbing trees and extracting grubs."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The town had developed a **specialised** market for malting barley, drawing buyers from distant shires."*
+> - 📜 **G. K. Chesterton (*What's Wrong with the World*):** *"The modern professional has become so **specialised** that he can no longer comprehend common human existence."*

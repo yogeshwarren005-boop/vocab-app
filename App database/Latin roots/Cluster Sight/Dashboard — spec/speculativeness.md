@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial risk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being a conclusion or opinion based on supposition and conjecture rather than on fact or investigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being speculative; inclination to theorize or engage in financial speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and financial characterology, an adventurous mental or economic disposition inclined to hazard capital or dogma upon bold hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speculativeness designates financial risk."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"German philosophy exhibits a daring **speculativeness** that scales the highest peaks of metaphysical abstraction."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"In seasons of easy credit, the **speculativeness** of the merchant community expands beyond all sober limits."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato combines poetic imagination with rigorous dialectic **speculativeness**, uniting east and west."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguishing trait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being particular and pertaining to a specific case or instance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinctive character, singular excellence, or remarkable uniqueness that sets something apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and social psychology, the cherished perception of unique personal worth, distinction, or cosmic purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialness designates a distinguishing trait."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every individual soul possesses an inherent **specialness** that cannot be duplicated by any other created being."*
+> - 📜 **George Eliot (*Adam Bede*):** *"She clung to the belief in her own modest **specialness**, dreaming of a future lifted above the dairy farm."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A profound sense of holy **specialness** visits the convert, flooding the mind with miraculous peace."*

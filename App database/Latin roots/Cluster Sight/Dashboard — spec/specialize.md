@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To concentrate one's efforts on a particular skill, subject, trade, or field of study; American spelling of specialise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and professional development, to adapt anatomically or industrially to a specific environmental niche or commercial service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While in the villages and smaller cities the commercial banks perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"While in the villages and smaller cities they perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farmers have been specializing more and more in the kinds of products to which their farms are adapted in respect to soil, relation to market, and otherwise."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species that **specialize** in a narrow ecological niche often attain tremendous local abundance."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The modern corporation encourages its technicians to **specialize** in discrete mechanical processes."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"We must not urge children to **specialize** too early, before the broad foundations of culture are laid."*

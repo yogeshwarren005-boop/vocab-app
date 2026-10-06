@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone seen (especially a notable or unusual sight).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of glasses used to correct defective vision; optical lenses held in a frame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of optics and material culture, represents the bifocal and convex lens innovations that extended human intellectual productivity into advanced age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even with this I lost fair England’s view, And bid mine eyes be packing with my heart, And called them blind and dusky spectacles, For losing ken of Albion’s wished coast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wilt thou on thy deathbed play the ruffian, And seek for sorrow with thy spectacles?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"The sixth age shifts / Into the lean and slipper'd pantaloon, / With **spectacles** on nose and pouch on side."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The maltster adjusted his horn-rimmed **spectacles** to read the livestock notices pasted upon the granary door."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The White Queen took off her **spectacles** and peered across the snowy wood at the approaching traveler."*

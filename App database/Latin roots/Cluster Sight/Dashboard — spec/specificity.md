@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being specific rather than general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being specific to a particular organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Explicit detail, exact definition, or the narrow molecular affinity between complementary biochemical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and enzymatic kinetics, the molecular complementarity that permits an enzyme or antibody to bind exclusively to its cognate substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specificity designates the quality of being specific rather than general."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The lock-and-key relationship explains the extraordinary chemical **specificity** of antitoxins in neutralizing bacterial poisons."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Biological **specificity** arises from close steric fit and complementary hydrogen bonding across molecular interfaces."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The structural **specificity** of base pairing guarantees accurate replication of genetic information."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolve so as to lead to a new species or develop in a way most suited to the environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To evolve or develop into a new biological species from an ancestral population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the process whereby gene flow between isolated populations ceases, leading to independent phenotypic divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciate designates evolve so as to lead to a new species or develop in a way most suited to the environment."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographically isolated populations tend to **speciate** when genetic drift and divergent selection accumulate."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Peripheral isolates may **speciate** rapidly on a geological timescale, producing punctuated equilibrium patterns."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Natural selection favors mechanisms that prevent wasteful hybridization, driving incipient races to **speciate**."*

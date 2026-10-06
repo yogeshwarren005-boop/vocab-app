@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring between species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring between species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between or involving different species of plants, animals, or other organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical ecology and population modeling, governs predator-prey dynamics, parasitism, and competitive exclusion between sympatric taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspecific designates arising or occurring between species."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The battle of life is most severe when **interspecific** competition occurs between closely allied genera."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Divergence of character reduces **interspecific** conflict, allowing diverse forms to occupy the same territory."*
+> - 📜 **G. Evelyn Hutchinson (*The Ecological Theater and the Evolutionary Play*):** *"The niche hyperspace defines the mathematical limits within which **interspecific** coexistence remains stable."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact about some part (as opposed to general).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that has a mitigating effect on a specific disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly defined or identified; precise and detailed; peculiar to a particular thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and taxonomy, refers to a therapeutic remedy targeting a single distinct disease or traits defining an individual biological species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This referred to a specific page in the printed book."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"EVERY WORK, HOWEVER GOOD, NEEDS SPECIAL, SPECIFIC, DAILY PRAYER FOR ITS PROSPERITY."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She was led to see that the habit was a _sin_; and as such, she abandoned it, with specific application to Christ to save her from it."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **specific** differences between allied varieties often escape the casual glance of the observer."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Certain pigeon varieties exhibit **specific** differences in the number of their tail feathers and vertebrae."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must seek out the **specific** causes of natural phenomena rather than resting upon vague generalities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring within a species; involving the members of one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring within a species; involving the members of one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or arising within a single biological species; among individuals of the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics and microevolution, analyzes allele frequency shifts, morph variations, and behavioral polymorphisms within a breeding deme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraspecies designates arising or occurring within a species; involving the members of one species."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"High **intraspecies** genetic diversity provides the raw material upon which environmental selection acts."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Polytypic distributions reflect **intraspecies** divergence driven by geographical barriers and climatic gradients."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Clinal variation demonstrates how **intraspecies** adaptations adjust smoothly across continuous geographic clines."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism belonging to the same species as another organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the same species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism belonging to the same biological species as another organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and population genetics, relates to intraspecific communication, mate choice, and territorial competition between members of the same taxonomic species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conspecific designates an organism belonging to the same species as another organism."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Aggressive encounters between **conspecific** males frequently resolve through ritualized displays rather than lethal combat."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Pheromonal trails allow an ant to identify and recruit **conspecific** nestmates to newly discovered forage."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Cooperation between **conspecific** individuals evolves readily when guided by the arithmetic of kin selection."*

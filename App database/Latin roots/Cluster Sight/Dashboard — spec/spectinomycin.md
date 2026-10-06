@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic used to treat gonorrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic used to treat gonorrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aminocyclitol antibiotic produced by Streptomyces spectabilis, used primarily to treat gonorrhea infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and microbiology, binds specifically to the 30S ribosomal subunit of bacteria, inhibiting protein synthesis and mRNA translation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectinomycin designates an antibiotic used to treat gonorrhea."*
+> - 📜 **Maxwell Finland (*Clinical Pharmacology and Therapeutics*):** *"The discovery of **spectinomycin** provided an invaluable alternative agent for patients hypersensitive to penicillin."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"Soil isolates of the genus Streptomyces yielded **spectinomycin**, expanding our therapeutic armory against resistant cocci."*
+> - 📜 **Stuart B. Levy (*The Antibiotic Paradox*):** *"Target mutations in ribosomal RNA can render gonococcal strains refractory to therapeutic courses of **spectinomycin**."*

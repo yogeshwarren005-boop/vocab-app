@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spectacular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spectacular manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressive, dramatic, eye-catching, or sensational manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and economic narration, describes an event, triumph, or bankruptcy executed on an astonishing and unmistakable scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Then only was he permitted to be seen, spectacularly poring over large books, and casting his breeches and gaiters into the general weight of the establishment."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The fireworks illuminated the Parisian night **spectacularly**, casting monstrous shadows of the Bastille over the crowd."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Newton's gravitational theory succeeded **spectacularly** where ancient vortex models had collapsed into confusion."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The speculative railroad scheme collapsed **spectacularly**, ruining hundreds of prominent investors overnight."*

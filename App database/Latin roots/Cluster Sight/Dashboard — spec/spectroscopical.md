@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving spectroscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving spectroscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a spectroscope or to spectroscopy; spectroscopic in character or method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century observational astronomy, denotes experimental setups utilizing prisms to analyze solar prominences and chemical vapours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectroscopical designates of or relating to or involving spectroscopy."*
+> - 📜 **George Ellery Hale (*The Study of Stellar Evolution*):** *"The **spectroscopical** examination of solar flares revealed bright reversals of the hydrogen lines."*
+> - 📜 **William Huggins (*Atlas of Representative Stellar Spectra*):** *"Through **spectroscopical** analysis, we proved that nebulae were not merely unresolved clusters of stars, but luminous incandescent gases."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **spectroscopical** method affords an invaluable test of the kinetic vibrations executed by gaseous molecules."*

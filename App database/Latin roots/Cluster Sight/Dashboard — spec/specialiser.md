@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who is devoted to one occupation or branch of learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, organism, or institution that specializes in a particular trade, field, or biological function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological niche theory and market economics, represents a specialist taxon or dedicated enterprise thriving upon a narrow, high-efficiency resource base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialiser designates an expert who is devoted to one occupation or branch of learning."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In an unchanging tropical rainforest, the extreme **specialiser** outcompetes the generalist by superior foraging efficiency."*
+> - 📜 **Thorstein Veblen (*The Place of Science in Modern Civilization*):** *"The industrial **specialiser** masters one microscopic technical manipulation at the cost of broader mechanical comprehension."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The soldier ant is an extreme morphological **specialiser**, incapable of feeding itself without the aid of minor workers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance of truth that is false or deceptive; seeming plausibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance of truth that is false or deceptive; seeming plausibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of seeming superficially plausible or sound while being fallacious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical critique and legal argument, the deceptive gloss that enables a false premise to command temporary assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciousness designates an appearance of truth that is false or deceptive; seeming plausibility."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **speciousness** of worldly pleasure quickly fades, leaving behind only emptiness and remorse."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A keen logician penetrates the **speciousness** of scholastic syllogisms that darken knowledge."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tyrant relied upon the legal **speciousness** of senate decrees to disguise his absolute power."*

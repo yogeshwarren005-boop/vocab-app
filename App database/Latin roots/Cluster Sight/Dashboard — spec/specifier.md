@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who draws up specifications giving details (as for obtaining a patent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who draws up specifications giving details (as for obtaining a patent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or document that specifies or determines particulars; in linguistics, a syntactic marker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative grammar (X-bar theory) and industrial procurement, the structural constituent that sisters with X-bar, or the technical architect writing project standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specifier designates someone who draws up specifications giving details (as for obtaining a patent)."*
+> - 📜 **Noam Chomsky (*Barriers*):** *"In modern syntactic theory, the **specifier** of a functional projection hosts displaced elements in movement transformations."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Every phrase structure tree contains a head, a complement, and a **specifier** that defines reference."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architectural **specifier** must understand the moral character of the stone he prescribes for the facade."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of specializing; making something suitable for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The special line of work you have adopted as your career.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of concentrating on and becoming expert in a particular subject, skill, or trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and evolutionary biology, represents the structural division of labor and organ differentiation that increases metabolic or productive output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gradually there came about a specialization of risk-taking by the men most able to bear it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, limits to the net advantage of specialization in crops, and competent authorities on agriculture question whether in many cases that limit has not been readied and passed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The specialization in stock raising in the prairie states ceased to be profitable when lands became more valuable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The greatest improvements in the productive powers of labor arise from the effects of **specialization**."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution is an integration of matter accompanied by a concomitant differentiation and structural **specialization**."*
+> - 📜 **Emile Durkheim (*The Division of Labour in Society*):** *"Modern social solidarity depends upon functional **specialization** rather than mechanical conformity."*

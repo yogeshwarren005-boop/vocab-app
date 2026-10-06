@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cagey manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cagey manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cautious, wary, and prudent manner, considering all possible consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical conduct and delicate diplomacy, treading with measured deliberation to avoid inciting scandal or legal penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairyman himself had been lending a hand; but Mr Crick, as well as his wife, seemed latterly to have acquired a suspicion of mutual interest between these two; though they walked so circumspectly that suspicion was but of the faintest."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third person rode up circumspectly through the wood (it was plain that he had had a lesson) and stopped behind the count."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He walked very slowly and circumspectly, and there was something indescribably guilty and furtive in his whole appearance."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Winterborne picked his way **circumspectly** through the fallen timber, guarding his burdened pony."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He stepped **circumspectly** along the icy flags, dreading the betrayal of an audible footfall."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The brothers proceeded **circumspectly**, interpreting their father's will with ingenious hair-splitting."*

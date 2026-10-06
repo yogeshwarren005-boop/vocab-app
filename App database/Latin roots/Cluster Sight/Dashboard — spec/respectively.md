@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the order given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the order given.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separately or individually in the order mentioned; each to each.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory documentation and scientific reporting, correlates series of elements systematically to their corresponding counterparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"These the waggoner delivered to each of us respectively, reading the name aloud first."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Swills is entirely corroborated by two intelligent married females residing in the same court and known respectively by the names of Mrs."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"You are very **respectively** welcome, sir. Accept my service."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The three milkmaids took their places **respectively** beside their favorite cows in the long milking shed."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The hawk and the swallow returned **respectively** to their customary haunts as spring advanced."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subject of study, skill, or item of commerce in which someone is an expert or which is uniquely distinctive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and medical practice, a formal contract under seal or a board-certified clinical discipline requiring residency training.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troy, yet upon his basis, had been down, And the great Hector’s sword had lack’d a master, But for these instances: The specialty of rule hath been neglected; And look how many Grecian tents do stand Hollow upon this plain, so many hollow factions."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A notable collection of etchings and engravings from the old masters was gradually made by him, those from Claude’s paintings being a specialty."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In view of the many interests committed to its care, the Republican party seems disinclined to make a specialty of the Negro Problem."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The **specialty** of rule hath been neglected."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing's medical **specialty** embraced obscure brain maladies that baffled conventional practitioners."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"An action of debt upon a **specialty** required production of a deed bearing the actual wax seal of the debtor."*

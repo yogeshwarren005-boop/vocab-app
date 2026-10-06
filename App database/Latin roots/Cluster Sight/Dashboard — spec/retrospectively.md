@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner contemplative of past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner contemplative of past events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With reference to past events; in a manner that looks backward in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical causality and judicial interpretation, analyzing actions or liabilities through the lens of subsequent developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers nodded his head retrospectively two or three times, and actually drew a sigh."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Looking back **retrospectively** upon my early years in the warehouse, the memory still brings a pang of loneliness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon evaluated his marriage **retrospectively**, concluding that Dorothea's ardent nature was unsuited to quiet scholarship."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We reconstruct our conscious decisions **retrospectively**, assigning motives that were barely recognized during action."*

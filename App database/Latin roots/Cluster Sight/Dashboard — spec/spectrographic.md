@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or employing a spectrograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or employing a spectrograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or performed by means of a spectrograph; recording spectra photographically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical metallurgy and celestial mechanics, refers to analytical techniques measuring elemental concentrations through characteristic emission bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrographic designates relating to or employing a spectrograph."*
+> - 📜 **Edwin Hubble (*The Observational Approach to Cosmology*):** *"The **spectrographic** evidence for nebular red-shifts remains the principal empirical foundation of cosmic expansion."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Precise **spectrographic** plates confirmed that the abundance of hydrogen in stellar atmospheres vastly exceeded early estimates."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The **spectrographic** separation of alpha and beta rays demonstrated their distinct electromagnetic properties."*

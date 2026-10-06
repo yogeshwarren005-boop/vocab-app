@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spectacular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not spectacular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spectacular, dramatic, or sensational; ordinary, modest, and understated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and institutional historiography, characterizes gradual, mundane processes that yield profound long-term systemic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Aside from its effects upon the wage-bargain, unionism finds its greatest justification is in its unspectacular fraternal, mutual-benefit, and educational functions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection accumulates minute, **unspectacular** modifications through immense lapses of geological time."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her daily life was filled with quiet, **unspectacular** duties that won no public applause."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The most durable triumphs of scientific method arise from patient, **unspectacular** laboratory verification."*

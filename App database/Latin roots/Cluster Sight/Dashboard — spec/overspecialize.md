@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become overly specialized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become overly specialized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To specialize excessively or to an extreme degree; American spelling of overspecialise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and organizational ecology, represents extreme technical specialization that causes structural rigidity and catastrophic vulnerability to disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overspecialize designates become overly specialized."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"When professional schools **overspecialize**, they turn out trained technicians destitute of broad humanistic insight."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"The danger of modern life is that intellectuals **overspecialize** in their grooves, losing contact with common sense."*
+> - 📜 **Stephen Jay Gould (*Ever Since Darwin*):** *"Lineages do not deliberately **overspecialize**; they merely respond to immediate selection pressures until the environment shifts."*

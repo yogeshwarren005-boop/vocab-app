@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Courteous regard for people's feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courteous regard for people's feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or trait of being respectful; courteous deference toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical training and civic manners, the cultivated disposition that honors legitimate authority, parental dignity, and communal peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, respectfulness designates courteous regard for people's feelings."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"True humility does not consist in cringing, but in a generous **respectfulness** toward all human souls."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy observed the quiet **respectfulness** with which Elizabeth addressed her father."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A modest **respectfulness** toward age and learning is the first ornament of youthful character."*

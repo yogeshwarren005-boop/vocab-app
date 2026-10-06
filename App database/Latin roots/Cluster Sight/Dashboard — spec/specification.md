@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Naming explicitly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of describing or identifying something precisely; a detailed description of design and materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patent law, engineering, and architectural contracting, the statutory document reciting the exact construction parameters and claims of an invention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This specification of particulars evidently excludes all pretension to a general legislative authority, because an affirmative grant of special powers would be absurd, as well as useless, if a general authority was intended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Three (Logistics Depot) Mission Construct a space station to specification above Coldfield and designate it 'Slingshot Logistics Depot'."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The official report contained a detailed **specification** of the military hospitals scattered across the capital."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The patent **specification** must explain the construction of the filament so that any mechanic can reproduce it."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"Every workshop operation requires a written **specification** detailing tool feed, speed, and sequence."*

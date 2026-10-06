@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for spectrographic analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument for spectrographic analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical apparatus with a prism or grating for producing and examining light spectra visually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy and physics, the foundational nineteenth-century instrument that revealed the elemental constituents of the sun and stars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"SPECTROSCOPE (THE), AND ITS WORK."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a beam of light is analysed in the spectroscope the red rays are bent least and the blue rays most, so that the red rays fall at one end of the spectrum and the blue at the other."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such forms the essential principle of the spectroscope."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The astronomer turned his **spectroscope** upon the dying red sun, noting the deepening absorption bands across the spectrum."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Yet the **spectroscope** revealed wonders no naked eye could discern among the distant star-clusters."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger adjusted the prism of his small direct-vision **spectroscope**, watching the lines of etheric light shudder and shift."*

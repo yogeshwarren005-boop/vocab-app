@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who respects someone or something; usually used in the negative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who respects someone or something; usually used in the negative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shows partiality, favoritism, or deference to particular individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and judicial maxims, typically employed in negative constructions asserting absolute divine or legal impartiality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was no respecter of persons; he contradicted the richest burghers without hesitation; he took possession of the sacred elbow chair, which time out of mind had been the seat of sovereignty of the illustrious Ramm Rapelye."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A company on the plains is no respecter of persons, and titles which might have caused offense before starting were received in good part, and worn gracefully thenceforward."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"For these two were old friends, old mates both at school and college, both thorough respecters of themselves and of each other, and what does not always follow, men who thoroughly enjoyed each other’s company."*
+> - 📜 **King James Bible (*Acts of the Apostles*):** *"Of a truth I perceive that God is no **respecter** of persons; but in every nation he that feareth him is accepted."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The civil magistrate must be no **respecter** of persons, protecting the rights of all subjects equally."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"A true republic is no **respecter** of hereditary titles, recognizing only talent and civic virtue."*

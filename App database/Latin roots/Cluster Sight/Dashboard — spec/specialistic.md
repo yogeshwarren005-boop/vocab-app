@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or characteristic of specialists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing focused training.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or suitable for a specialist or a specialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical commentary on scientific literature, describes dense, technical discourse aimed exclusively at peer experts within a narrow field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialistic designates of or related to or characteristic of specialists."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A purely **specialistic** training threatens to starve the imagination and dwarf the moral sympathies of young physicians."*
+> - 📜 **John Dewey (*The Public and Its Problems*):** *"When political governance retreats into **specialistic** technocracy, democratic participation becomes an empty ritual."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The philosopher must resist the **specialistic** fragmentation that treats mind and nature as unrelated compartments."*

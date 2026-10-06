@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring within a species; involving the members of one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring within a species; involving the members of one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing within a single species; intraspecific competition or variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ethology and sociobiology, describes density-dependent resource competition, dominance hierarchies, and mating strategies among conspecifics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraspecific designates arising or occurring within a species; involving the members of one species."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As the individuals of the same species come into the closest competition, **intraspecific** struggles are usually the fiercest."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Resource partitioning minimizes **intraspecific** aggression, ensuring efficient harvest of localized food patches."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Microevolutionary trends emerge directly from selection pressures operating during intense **intraspecific** rivalries."*

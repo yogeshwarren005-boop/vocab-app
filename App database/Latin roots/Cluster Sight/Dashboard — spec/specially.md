@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a special manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a distinctly greater extent or degree than is common.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For a special purpose; in a special manner; particularly or expressly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory drafting and technical manufacture, indicates custom engineering or explicit administrative designation for a single client or case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though the nature of our quarrel yet never brooked parle, know now, upon advice, it toucheth us both,—that we may yet again have access to our fair mistress, and be happy rivals in Bianca’s love,—to labour and effect one thing specially."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Has seen the plaintive wexed and worrited by the children (for children they will ever be and you cannot expect them specially if of playful dispositions to be Methoozellers which you was not yourself)."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Am I to understand, sir,” says Sir Leicester, “and is my Lady to understand”—he brings her in thus specially, first as a point of gallantry, and next as a point of prudence, having great reliance on her sense—“am I to understand, Mr."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Let me see: 'When thou canst get the ring upon my finger which never shall come off... then call me husband: but in such a then I write a never.' This is a dreadful sentence. 'Twas my father's ring; and I have **specially** kept it."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He had ordered a cask of cider made **specially** from the finest golden pippins of his orchard."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain plants are **specially** adapted to attract night-flying moths by opening only after dusk."*

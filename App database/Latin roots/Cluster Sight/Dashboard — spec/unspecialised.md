@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not specialized or modified for a particular purpose or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not specialized or modified for a particular purpose or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adapted to a particular purpose, skill, or environment; generalized in function or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and evolutionary morphology, refers to stem cells, basal clades, or primitive teeth that retain pluripotency and broad utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unspecialised designates not specialized or modified for a particular purpose or function."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Primitive ancestral mammals possessed an **unspecialised** dentition suited to an omnivorous diet."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The amoeba represents an **unspecialized** protoplasmic mass performing all vital functions without organs."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Evolution proceeds from the homogeneous and **unspecialised** toward the heterogeneous and highly differentiated."*

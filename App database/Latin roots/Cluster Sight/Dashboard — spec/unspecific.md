@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not detailed or specific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not detailed or specific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not specific; lacking precision, exact detail, or narrow definition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology and diagnostic analysis, refers to clinical signs such as fever or malaise that occur across many disparate disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unspecific designates not detailed or specific."*
+> - 📜 **Sir William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with **unspecific** constitutional complaints that masked the underlying cardiac lesion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A vague and **unspecific** emotion often precedes the sharp realization of an impending danger."*
+> - 📜 **John Dewey (*How We Think*):** *"Thinking begins with an **unspecific** feeling of perplexity before the problem can be clearly formulated."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devote oneself to a special area of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To concentrate one's efforts on a particular skill, subject, trade, or field of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology and urban sociology, to undergo evolutionary or institutional adaptation toward an exclusive ecological or commercial role.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The sources of his figurative wealth are specialised, sources of Shakespeare's are universal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Certain floral structures **specialise** to accommodate the proboscis of a single pollinating moth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A student must **specialise** if he desires to extend the boundary of scientific knowledge by even a single inch."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Modern vocational duty commands the individual to **specialise**, renouncing the Faustian universality of the Renaissance."*

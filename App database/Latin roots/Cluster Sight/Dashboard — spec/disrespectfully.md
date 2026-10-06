@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disrespectful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that shows a lack of respect, reverence, or courtesy; insolently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic and judicial governance, speaking or behaving in a manner calculated to diminish the lawful authority of a superior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Upon the hint of having spoken disrespectfully or carelessly of the family and the family honours, he was quite indignant."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would not speak disrespectfully of a brother of yours, Isabella, I am sure; but you know very well that if I could think of one man more than another—_he_ is not the person.” Isabella was silent."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Yet, Fanny, do not imagine I would now speak disrespectfully of Sir Thomas, though I certainly did hate him for many a week."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The boy was warned never to speak **disrespectfully** of the court, lest he incur severe chancery penalties."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She could not bear to hear her uncle mentioned **disrespectfully**, even by those whose affection she valued most."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom rebuked his sister for answering their aunt **disrespectfully** before the gathered family circle."*

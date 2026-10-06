@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of a biological species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution of a biological species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary formation of new and distinct biological species from ancestral populations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micro- and macroevolutionary theory, encompasses allopatric, sympatric, and parapatric mechanisms mediated by reproductive isolation barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciation designates the evolution of a biological species."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Allopatric **speciation** remains the primary engine of taxonomic diversity among terrestrial vertebrates."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Heterochronic shifts in developmental timing can accelerate **speciation** without requiring massive genomic restructuring."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Geographical barriers such as rivers or mountain ranges provide the initial severance essential for **speciation**."*

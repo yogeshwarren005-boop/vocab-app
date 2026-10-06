@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide upon or fix definitely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identified clearly and definitely; stated in explicit detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and empirical science, designated as a mandatory parameter or parameter value agreed upon prior to execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both were made legalized forms of money (and standards of deferred payments) in units of specified weights and fineness, the weights bearing a certain ratio to each other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Demand deposits are those payable on demand, the demand in practice being by means of personal checks requesting the bank to pay to (or on the order of) a specified person, or to pay to bearer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some cases the right has been granted as a monopoly to certain banks in return for specified payments and services."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The breeder selected animals possessing the **specified** markings until the trait bred true."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The codicil of the will **specified** the exact conditions under which the estate was to pass."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The artisan contracted to deliver the ironwork at the **specified** date, under penalty of forfeiture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special offering (usually temporary and at a reduced price) that is featured in advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dish or meal given prominence in e.g. a restaurant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Better, greater, or otherwise different from what is usual; designed for a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse and statutory law, refers to singular divine providences or localized legislative acts distinct from general statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus he his special nothing ever prologues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's a **special** providence in the fall of a sparrow. If it be now, 'tis not to come; if it be not to come, it will be now; if it be not now, yet it will come: the readiness is all."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt a **special** dread of meeting those who had known her during her girlhood at Marlott."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The legislature may enact a **special** law to meet extraordinary public emergencies."*

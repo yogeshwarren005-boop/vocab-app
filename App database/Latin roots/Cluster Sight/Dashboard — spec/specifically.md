@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In distinction from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In distinction from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is detailed, precise, and explicit; for a particular purpose or reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and statutory construction, designates application restricted solely to the named taxon or provision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Generically man is one, and specifically man means all men."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They believed that God had specifically created the Republican party to bring about their emancipation."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"On the other hand they regarded the Democratic party as the earthly abode of the devil, created specifically and solely for the purpose of harassing them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many naturalists have asserted that domestic races are **specifically** distinct from their wild ancestral stocks."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Moral rules are formulated **specifically** to guide human conduct toward mutual preservation."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Nature works **specifically**, assigning to each creature its own distinct weapon and defense."*

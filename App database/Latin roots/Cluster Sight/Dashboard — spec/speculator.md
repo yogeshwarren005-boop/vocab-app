@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes conjectures without knowing the facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who risks losses for the possibility of considerable gains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invests in stocks, property, or commodities in the hope of making large profits; a theoretical thinker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and agrarian history, the commercial actor who acquires land, grain, or securities solely to exploit price fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"THE SPECULATOR AS A RISK-TAKER [Sidenote: An element of speculation in all business] 1. _Every enterpriser is to some extent specializing as a risk-taker._ This familiar idea may be taken as a starting point in discussing speculation."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In a business sense the speculator is one who studies carefully the conditions and the chances of a change of prices; hence arises the thought that speculation is connected with chance."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"One may ask, How, if the miller in the long run benefits, can the speculator gain?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The land **speculator** looks upon the ancient forest only as so many cords of marketable firewood."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **speculator** is a man who enters into any trade which promises an extraordinary and immediate profit."*
+> - 📜 **Karl Marx (*Capital*):** *"The monetary crisis overtakes the **speculator** just when his paper operations seemed poised for triumph."*

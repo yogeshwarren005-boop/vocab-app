@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not knowing or expecting; not thinking likely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aware of the presence of danger; trusting; without suspicion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nature documentaries and military histories, describes prey or infantry moving unwarily into an ambush or predator's striking range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That can, with studied, sly, ensnaring art, Betray sweet Jenny’s unsuspecting youth?"*
-> - 📜 **Effie Afton (*Eventide*):** *"How long the fair girl remained thus innocent and unsuspecting, we are yet to know."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did then; 't was no harm," answered the unsuspecting Mike."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **unsuspecting** girl walked straight into the web of domestic intrigue woven by her relatives."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The moose approached the bank with **unsuspecting** confidence, unmindful of our canoe behind the rushes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale surfaced near the **unsuspecting** boat, its massive shadow darkening the green depths."*

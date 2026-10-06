@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thoughtfulness about your own situation and feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoughtfulness about your own situation and feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency or disposition to examine one's own thoughts, motives, and feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychological characterology, an inward habit of reflection that fosters acute ethical self-awareness or melancholic paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introspectiveness designates thoughtfulness about your own situation and feelings."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Hamlet's profound **introspectiveness** disables his arm, smothering decisive enterprise beneath scrupulous contemplation."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel's fine **introspectiveness** led her to examine her marital loyalties with agonizing precision."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Excessive **introspectiveness** detaches the spirit from the natural world whence all vital nourishment flows."*

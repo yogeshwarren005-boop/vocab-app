@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heedful of potential consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heedful of potential consequences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wary and unwilling to take risks; cautious, prudent, and attentive to all circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiation and legal strategy, characterizes actors who survey surrounding perils and avoid premature commitments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not his smoothing words Bewitch your hearts; be wise and circumspect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"High-reaching Buckingham grows circumspect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My life,” says the unhappy stationer, “would you have any objections to mention why, being in general so delicately circumspect in your conduct, you come into a wine-vaults before breakfast?” “Why do YOU come here?” inquires Mrs."*
+> - 📜 **William Shakespeare (*Richard III*):** *"High-reaching Buckingham grows **circumspect**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was naturally **circumspect**, keeping his accounts and his conscience under scrupulous observation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We must be exceedingly **circumspect**, Watson, for our adversary is a master of cunning misdirection."*

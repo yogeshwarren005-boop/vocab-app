@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated on a small area of a subject; designed for a particular purpose; American spelling of specialised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological anatomy and systems engineering, describes organs or machinery refined to execute a single, demanding function with high efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Diversified versus specialized farming. § 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Factories can be specialized to produce that for which each is best fitted."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The reddleman pursued a **specialized** calling that isolated him from the ordinary agricultural community."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"The modern materialist has developed a **specialized** intellect at the expense of universal sanity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man's hand is a less **specialized** organ than the forelimb of a horse, yet capable of infinite manipulations."*

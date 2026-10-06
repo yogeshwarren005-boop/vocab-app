@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without specificity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without specificity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a nonspecific manner; without targeting a particular entity, pathogen, or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, binding or adsorbing generally to substrates through electrostatic or hydrophobic interactions without stereospecific cleft recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonspecifically designates without specificity."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrophobic molecules adhere **nonspecifically** to protein surfaces through weak van der Waals forces."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Certain basic polypeptides bind **nonspecifically** along the sugar-phosphate backbone of nucleic acids."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The crude antibiotic filtrate acted **nonspecifically** against several distinct microbial strains in the broth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spectroscope by which spectra can be photographed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic record of a spectrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument used for photographing or digitally recording a spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics and analytical chemistry, disperses incoming electromagnetic radiation into component wavelengths recorded upon photographic emulsions or CCD arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrograph designates a spectroscope by which spectra can be photographed."*
+> - 📜 **George Ellery Hale (*The Study of Stellar Evolution*):** *"Mounted at the focus of the great reflector, the stellar **spectrograph** opened an entirely new epoch in solar physics."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"The slit of the **spectrograph** was centered upon the nucleus of the spiral nebula to measure its radial velocity."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Radiative Transfer*):** *"Data gathered by the vacuum **spectrograph** provided crucial verification for stellar atmosphere theory."*

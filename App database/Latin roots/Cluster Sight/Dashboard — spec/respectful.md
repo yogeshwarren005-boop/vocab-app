@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or exhibiting respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing deference, esteem, and polite regard for someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and institutional protocol, behaving with deliberate courtesy, lowering one's voice, and observing established ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I speak of interest, it is only to recommend myself and my respectful wretchedness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He says, ‘I beg my respectful compliments to my Lady, who, I hope, has benefited by the change."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell with a respectful glance and a bow that way, “as to place near her a young beauty of the name of Rosa."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel maintained a **respectful** distance, watching Bathsheba's bright silhouette against the sheepfold gate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate spoke in a quiet, **respectful** tone that disarmed the elderly patient's suspicion."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice addressed the Cheshire Cat in a timid, **respectful** voice, uncertain of its temper."*

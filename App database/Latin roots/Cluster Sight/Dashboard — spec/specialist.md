@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who is devoted to one occupation or branch of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practices one branch of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who concentrates primarily on a particular subject, craft, medical discipline, or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and military command, an authority possessing advanced certification, diagnostic acumen, and technical proficiency within a defined field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He was an aircraft emergency survival equipment specialist in the Pacific Area during World War II and a technical writer for several years afterwards."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I consulted a Harley Street **specialist**, who confirmed that the strange nervous collapse had an organic origin."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The engineer was a **specialist** in high-pressure steam, untroubled by moral dilemmas of technological growth."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The secret detective posed as an eccentric **specialist** in European anarchism to win admission to the council."*

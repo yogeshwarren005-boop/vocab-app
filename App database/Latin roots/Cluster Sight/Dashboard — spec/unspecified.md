@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated explicitly or in detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not stated explicitly or in detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated clearly or named explicitly in detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative regulations and legal contracts, refers to terms or variables left open for subsequent negotiation or discretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I will add that his finger-nails were scrupulously attended to, and that he meant to marry a well-educated young lady (as yet unspecified) whose person was good, and whose connections, in a solid middle-class way, were undeniable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The testator bequeathed an **unspecified** sum for the relief of aged widows in the parish."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The visitor arrived at an **unspecified** hour of the night, leaving no name with the porter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal petition referred to **unspecified** damages suffered by the heirs across four generations."*

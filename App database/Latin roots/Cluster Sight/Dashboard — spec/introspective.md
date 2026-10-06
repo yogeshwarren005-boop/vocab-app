@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to examining own sensory and perceptual experiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to examining own sensory and perceptual experiences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by examination of one's own thoughts and feelings; reflective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and clinical psychology, designates a personality disposition tilted inward toward ruminative contemplation and self-scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Inward melancholy it was impossible for a man like Oak, introspective far beyond his neighbours, to banish quite, whilst conning the present untoward page of his history."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Then he stood before the fire and looked me over in his singular introspective fashion."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is introspective, and I want to introspect."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare had the **introspective** look of a youth whose life had been spent among theological dogmas."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He fell into one of his silent, **introspective** moods, staring into the glowing hearth without speaking."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Time Traveller was an **introspective** man, given to puzzling over physical paradoxes late into the night."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with or related to the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with or related to the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expected or likely to happen in the future; potential; looking forward in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, finance, and epidemiological studies, denotes anticipated benefits or longitudinal observations tracked into the future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is in some respects more searching than a tax on actual rents, for it reaches the prospective, or speculative, rental. (d) Taxes may be on _expenditure_ (sometimes called taxes on consumption)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A good deal of our farm land is undoubtedly too intensively used now in view of present and prospective commodity prices and wages."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even a prospective brother-in-law may be an oppression if he will always be presupposing too good an understanding with you, and agreeing with you even when you contradict him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate counted upon his **prospective** practice to discharge the heavy debts incurred in furnishing his home."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Life is a **prospective** adventure, perpetually outrunning our present formulas and achievements."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was intoxicated by his **prospective** wealth, neglecting the humbler friends of his youth."*

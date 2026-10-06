@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is under suspicion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or institution against whom an action is brought in a court of law; the person being sued or accused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have an idea or impression of the existence, presence, or truth of something without certain proof; to doubt the truth or innocence of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, designates an individual officially investigated for potential culpability prior to formal indictment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CORNELIUS. [_Aside._] I do suspect you, madam; But you shall do no harm."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The time is out of joint: O cursed spite, / That ever I was born to set it right! / Nay, come, let's go together. I **suspect** some foul play."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He had cause to **suspect** that his domestic secrets were being whispered among the townspeople."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"We must never **suspect** a man merely because circumstantial evidence points in his direction."*

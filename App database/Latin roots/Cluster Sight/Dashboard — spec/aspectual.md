@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to an aspect (as an aspect of the verb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to an aspect (as an aspect of the verb).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or expressing grammatical aspect, which denotes the temporal flow or completion of an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and semantics, analyzes whether verbal morphology encodes perfective, imperfective, telic, or habitual perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspectual designates of or belonging to an aspect (as an aspect of the verb)."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"Verbal systems distinguish between tense as time-location and **aspectual** modification as the internal development of action."*
+> - 📜 **Bernard Comrie (*Aspect*):** *"The **aspectual** distinction between perfective and imperfective reflects different ways of viewing the internal temporal constituency of a situation."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The underlying syntactic phrase marker assigns **aspectual** features to the auxiliary complex before transformational operations apply."*

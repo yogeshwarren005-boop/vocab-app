@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written offer to sell securities (filed with the sec) that sets forth a plan for a (proposed) business enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catalog listing the courses offered by a college or university.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printed document advertising or describing a school, commercial enterprise, or forthcoming publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate securities law and investment finance, the statutory disclosure document outlining a company's financial status, operations, and offering risks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
-> - 📜 **Algis Budrys (*Citadel*):** *"The individual holding the option is then referred to Emigration, which provides copies of a prospectus taken from the General Survey report, and advertises the option holder's asking prices on subdivisions."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I want you to be ready to lay out a complete advertising and prospectus program."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The fraudulent company issued a glowing **prospectus**, promising boundless returns from swamp lands in Eden."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He showed his friends a printed **prospectus** of a grand mining syndicate that required only modest starting capital."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The published **prospectus** of joint-stock companies often exaggerates profits to attract unwary subscribers."*

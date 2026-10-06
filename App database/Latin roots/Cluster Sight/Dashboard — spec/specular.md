@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reflecting light like a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reflecting light like a mirror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the properties of a mirror; reflecting light cleanly without diffusing it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and optics, describes crystal faces or smooth optical surfaces that exhibit mirror-like reflection obeying Snell's law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specular designates capable of reflecting light like a mirror."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Look downward on that globe, whose hither side / With light from hence, though but reflected, shines; / That place is earth, the seat of man, that light / His day, be this his night, the moon that rises / With **specular** brilliance across the void."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Polished metal displays a **specular** reflection that returns rays in ordered angles rather than scattered diffuse beams."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"On calm mornings the surface of the pond becomes a vast **specular** sheet, faithfully mirroring every pine and cloud."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemplation of things past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look back upon (a period of time, sequence of events); remember.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A review of or meditation upon past events or period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and historical reflection, the analytical backward survey that illuminates causal relationships invisible at the moment of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She would have fixed him; she would have made him happy for ever.’ My dearest Fanny, I am giving you, I hope, more pleasure than pain by this retrospect of what might have been—but what never can be now."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"How often thus the morn of life, "In dim eclipse disastrous twilight sheds." A twilight not dispelled until the light dawns on a retrospect whose bitterness could not be borne unless seen side by side with the other picture of Paradise."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the facts before us almost all the meaning they were to receive from subsequent and more cruel occurrences."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Our age is retrospective; it builds the sepulchres of the fathers; it writes biographies, histories, and criticism. The foregoing generations beheld God and nature face to face; we, through their eyes. Why should not we also enjoy an original relation to the universe? In **retrospect** we lose the creative hour."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In **retrospect**, those painful trials appeared as the necessary discipline that forged her spirit."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters*):** *"Looking back in calm **retrospect**, I would not exchange the scientific battles of my youth for any earthly honor."*

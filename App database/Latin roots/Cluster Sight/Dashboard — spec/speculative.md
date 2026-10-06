@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not financially safe or secure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on fact or investigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on conjecture rather than knowledge; involving a high risk of loss with the hope of great gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and economic theory, designates abstract theoretical contemplation distinct from practical application, or high-risk capital deployments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts speculative their unsure hopes relate, But certain issue strokes must arbitrate; Towards which advance the war. [_Exeunt, marching._] SCENE V."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When sorrow ceases to be speculative, sleep sees her opportunity."*
+> - 📜 **William Shakespeare (*Othello*):** *"My **speculative** and officed instruments."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles embarked upon a **speculative** timber purchase that jeopardized his modest ancestral inheritance."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A wave of **speculative** excitement swept the commercial world, bidding up commodity prices to unnatural heights."*

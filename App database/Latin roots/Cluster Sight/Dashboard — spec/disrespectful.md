@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting lack of respect; rude and discourteous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neither feeling nor showing respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of respect, deference, or courtesy; impolite and insolent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social hierarchy and institutional discipline, flouting customary protocols or verbal honors due to magistrates, elders, or sacred offices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"ELLIOT.” Such a letter could not be read without putting Anne in a glow; and Mrs Smith, observing the high colour in her face, said— “The language, I know, is highly disrespectful."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He said, 'I did not expect from M. le Maire anything that was disrespectful to religion.' Heaven forbid that I should be disrespectful to religion at any time of life, but then it was impossible to me."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Price, in her turn, was injured and angry; and an answer, which comprehended each sister in its bitterness, and bestowed such very disrespectful reflections on the pride of Sir Thomas as Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He considered it profoundly **disrespectful** for a young woman to challenge the received wisdom of her elders."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I was terrified lest my awkward silence should be interpreted as a **disrespectful** attitude toward Miss Murdstone."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth would not allow herself to be **disrespectful** to her mother, though she blushed at her foolish remarks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of inspectors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of inspectors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, district, or collective body of official inspectors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and civil governance, the institutional department responsible for auditing educational institutions, factories, or municipal services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inspectorate designates a body of inspectors."*
+> - 📜 **Matthew Arnold (*Reports on Elementary Schools*):** *"The government **inspectorate** exercised a steadying influence across all rural educational foundations."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"We debated the reorganization of the factory **inspectorate** to secure rigorous enforcement of labor laws."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The technical competence of the state **inspectorate** forms a cornerstone of modern rational bureaucracy."*

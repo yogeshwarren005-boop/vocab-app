@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By spectrographic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By spectrographic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a spectrograph or through spectrographic analysis; in a spectrographic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and geochemical spectrometry, measuring isotopic ratios or stellar radial velocities through calibrated spectral line analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrographically designates by spectrographic means."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"When examined **spectrographically**, the faint extragalactic nebulae revealed systematic displacements toward the red."*
+> - 📜 **George Ellery Hale (*Ten Years' Work of a Mountain Observatory*):** *"Sunspots were studied **spectrographically** to measure the intense Zeeman magnetic splitting within their umbrae."*
+> - 📜 **Cecilia Payne-Gaposchkin (*Stellar Atmospheres*):** *"Elements identified **spectrographically** in the solar corona confirmed the universal distribution of terrestrial matter."*

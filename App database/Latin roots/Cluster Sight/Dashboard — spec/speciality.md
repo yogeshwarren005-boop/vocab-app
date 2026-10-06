@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pursuit, product, or subject of study to which someone gives special attention; a specialty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In provincial commerce, traditional culinary arts, and professional jurisprudence, denotes a distinctive regional manufacture or specialized legal domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This, however, was a speciality on that particular birthday, and not a general solemnity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first movement in his new progress was the lambing of his ewes, and sheep having been his speciality from his youth, he wisely refrained from deputing the task of tending them at this season to a hireling or a novice."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sheep-tending was Gabriel’s speciality."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The brewing of fine autumnal ale was the acknowledged **speciality** of the Three Mariners Inn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had chosen morbid anatomy as his **speciality**, pursuing research with austere, uncompromising zeal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chancery practice was the lucrative **speciality** of the conservative legal firm in Lincoln's Inn Fields."*

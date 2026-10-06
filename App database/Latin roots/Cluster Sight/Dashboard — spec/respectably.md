@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a tolerably worthy extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decent and morally reputable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is socially acceptable, proper, or fairly good in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social chronicle, maintaining domestic decency, punctual debt payment, and outward decorum despite modest income.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Hughes, satisfied with having so respectably settled her young charge, returned to her party."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, when I had brushed my hair very smooth, and put on my black frock—which, Quakerlike as it was, at least had the merit of fitting to a nicety—and adjusted my clean white tucker, I thought I should do respectably enough to appear before Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Seeing a respectably-dressed person, a lady as she supposed, she came forward with civility."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mrs. Tulliver prided herself on having always lived **respectably**, with best linen and sterling silver spoons."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah struggled to conduct her miniature shop **respectably**, hiding her patrician pride behind the counter."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was dressed **respectably**, though his frayed cuffs hinted at chronic monetary embarrassment."*

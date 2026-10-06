@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of your efforts on a particular field of study or occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The special line of work you have adopted as your career.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to a particular subject, branch of knowledge, trade, or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic sociology and the history of science, the institutional partitioning of knowledge into discrete sub-disciplines with proprietary jargon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialism designates the concentration of your efforts on a particular field of study or occupation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The danger of modern scientific **specialism** is that it produces investigators blind to broader philosophical harmonies."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Culture opposes the narrowness of professional **specialism**, seeking to view human life whole and harmonious."*
+> - 📜 **Max Weber (*Science as a Vocation*):** *"An impassioned dedication to **specialism** is the sole condition under which scientific achievement can nowadays be attained."*

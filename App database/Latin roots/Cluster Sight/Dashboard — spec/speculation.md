@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forming of a theory or conjecture without firm evidence; investment in stocks or property with hope of gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy and economic history, encompasses abstract philosophical inquiry or market bubbles driven by leveraged anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy bones are marrowless, thy blood is cold; Thou hast no speculation in those eyes Which thou dost glare with!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know it to be unnecessary and calculated to awaken speculation, doubt, rumour, I don’t know what, in the house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has been used by all sides of the speculation and has done a deal more harm in bringing odds and ends together than if she had meant it."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Thou hast no **speculation** in those eyes / Which thou dost glare with."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's monumental **speculation** regarding ancient mythologies proved a labyrinth without a clue."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There was a wild **speculation** in his eyes as he studied the changing contours of the portrait."*

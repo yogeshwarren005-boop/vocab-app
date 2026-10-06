@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard highly; think much of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show respect towards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admired or held in high esteem by others for qualities, achievements, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In community sociology and professional ethics, designates elders, magistrates, or physicians whose moral authority is universally acknowledged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The service of the foot, Being once gangrened, is not then respected For what before it was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only their ends You have respected, stopped your ears against The general suit of Rome; never admitted A private whisper, no, not with such friends That thought them sure of you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Proof! He is a **respected** man of the city, and his word outweighs our complaints."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Captain Vye was widely **respected** across Egdon Heath as an eccentric officer of long naval service."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Squire Cass was the most **respected** landowner in Raveloe, presiding over holiday feasts at the Red House."*

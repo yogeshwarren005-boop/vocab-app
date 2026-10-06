@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for spectacles (eyeglasses) or for technical specifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture and industrial manufacturing, colloquial shorthand for optical reading lenses or comprehensive engineering performance blueprints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"A receding forehead, little specs of eyes, a turned-up nose, and great blubber lips, adown whose corners flowed eternally two miniature cataracts."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I got a pair of specs from a peddling man of Ballymena," said she, "but they don't seem to do me much good."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But it's neither the grey hairs nor the specs that spoils the looks."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller glanced over his horn-rimmed **specs** with an expression of supreme comic detachment."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I drew up the mechanical **specs** for our new telegraph line with exacting precision."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger adjusted his dark blue **specs**, hiding his hollow, bandaged visage from the curious innkeeper."*

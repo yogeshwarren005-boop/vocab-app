@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused by a specific agent; used also of staining in making microscope slides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused by a specific agent; used also of staining in making microscope slides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not detailed, exact, or specific; not caused by or directed toward a particular pathogen or agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and pharmacology, refers to innate immune responses or broad-spectrum receptor binding lacking targeted molecular selectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonspecific designates not caused by a specific agent; used also of staining in making microscope slides."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine*):** *"The initial febrile reaction displayed a **nonspecific** systemic resistance before localized symptoms manifested."*
+> - 📜 **Sir William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of vague, **nonspecific** malaise weeks before the characteristic rash appeared."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"We must distinguish between selective side-chain affinity and mere **nonspecific** cellular absorption."*

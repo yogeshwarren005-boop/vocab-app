@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspected or believed likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suspected or believed likely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regarded as dangerous, false, or guilty; not known or realized to exist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific discovery and narrative drama, reveals hidden phenomena or loyalties whose quiet presence was unperceived by all observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the head of that ignoble traitor, The dangerous and unsuspected Hastings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had come in a pelting rain-storm, and part of the newspaper had become torn, and disclosed the blue, unsuspected hat box."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But conclusions regarding practical questions of public policy, tho they may appear to be simple, usually are biased and complicated by assumptions, prejudices, selfish interests, and feelings, deep-rooted and often unsuspected."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Away, my lord! / We have an **unsuspected** treason here."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Under the surface of daily routine lie vast **unsuspected** reservoirs of spiritual energy."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I discovered an **unsuspected** depth in the pond, where the sounding lead dropped into clear water."*

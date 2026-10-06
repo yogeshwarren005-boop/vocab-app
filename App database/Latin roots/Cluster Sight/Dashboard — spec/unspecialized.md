@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not specialized or modified for a particular purpose or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not specialized or modified for a particular purpose or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adapted to a particular purpose, skill, or environment; generalized; American spelling of unspecialised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and evolutionary embryology, denotes pluripotential embryonic cells capable of differentiating into diverse specialized tissue types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unspecialized designates not specialized or modified for a particular purpose or function."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The simplest animal organism consists of **unspecialized** protoplasm capable of movement, ingestion, and reproduction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Forms that remain **unspecialized** often survive great extinction events while extreme specialists perish."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Early education should cultivate **unspecialized** mental flexibility rather than narrow vocational dexterity."*

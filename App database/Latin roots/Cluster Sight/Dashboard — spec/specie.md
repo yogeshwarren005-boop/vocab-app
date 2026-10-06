@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coins collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coins collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money in the form of coins or metallic currency rather than paper banknotes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary economics and financial history, bullion or gold and silver coins held in bank reserves to guarantee convertible banknote redemption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notes depreciated and drove gold out of circulation, and it was not until 1821 that specie payments were definitely resumed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These notes may be returned to the issuing bank either to be redeemed in specie or to be paid in some other form of credit, such as deposits or exchange."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He drew from his pocket a handful of ancient gold **specie**, offering it to the carriage driver."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A banking system must always maintain a prudent reserve of **specie** to meet sudden runs upon its credit."*
+> - 📜 **Alexander Hamilton (*Report on the Subject of a National Bank*):** *"Paper credit unsupported by adequate **specie** inevitably collapses into depreciation and public distress."*

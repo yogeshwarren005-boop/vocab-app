@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing what is common or usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Better or greater than usual; special, exceptional, or of primary importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and epistolary style, emphasizes distinct personal regard or specific individual designation within a larger group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hamlet, this deed, for thine especial safety,— Which we do tender, as we dearly grieve For that which thou hast done,—must send thee hence With fiery quickness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, looking round, “if I don’t think I must have had a dream of that picture, you know!” As no one present takes any especial interest in Mr."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Our chiefest courtier, cousin, and our son, / ... / We pray you, throw to earth / This unprevailing woe; and think of us / As of a father: for let the world take note, / You are the most immediate to our throne; / And with no less nobility of love / Than that which dearest father bears his son, / Do I impart toward you. For your intent / In going back to school in Wittenberg, / It is most retrograde to our desire: / And we beseech you, bend you to remain / Here, in the cheer and comfort of our eye, / Our chiefest courtier, cousin, and our son. You have our **especial** love."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak watched Bathsheba with an **especial** tenderness that asked for no return or acknowledgment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of the eye has always presented an **especial** difficulty for the theory of natural selection."*

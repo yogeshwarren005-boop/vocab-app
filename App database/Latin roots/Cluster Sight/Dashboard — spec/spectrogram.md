@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic record of a spectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic record of a spectrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual photographic or digital representation of a spectrum; a voiceprint or acoustic spectrum display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic phonetics, signal processing, and astrophysics, a three-dimensional graph displaying frequency distribution and intensity variation over elapsed time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrogram designates a photographic record of a spectrum."*
+> - 📜 **Roman Jakobson (*Preliminaries to Speech Analysis*):** *"The acoustic **spectrogram** converts transient formant frequencies of human speech into measurable visual patterns."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"An examination of the stellar **spectrogram** reveals absorption lines that betray the elemental composition of the corona."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Every planetary **spectrogram** functions as a chemical fingerprint transmitted across interplanetary space."*

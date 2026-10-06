@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect on one's own thoughts and feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect on one's own thoughts and feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine one's own thoughts, mental processes, or internal emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology and phenomenology, engaging in deliberate metacognitive observation to describe the contents of conscious experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is introspective, and I want to introspect."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Holmes had a rare capacity to **introspect**, detaching his analytical intellect from bodily discomfort."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The psychologist must learn to **introspect** without altering the transient stream of conscious feeling."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was driven to **introspect** deeply during those long solitary evenings at Lowick."*

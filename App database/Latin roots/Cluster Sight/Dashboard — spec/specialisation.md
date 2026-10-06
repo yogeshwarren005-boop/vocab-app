@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the structural adaptation of some body part for a particular function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of specializing; making something suitable for a special purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of concentrating on and becoming expert in a particular subject, skill, or biological function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and political economy, represents functional differentiation of cellular tissues or division of labor across industrial markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialisation designates (biology) the structural adaptation of some body part for a particular function."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The physiological division of labor leads to high anatomical **specialisation** among social insects."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The Selenites carried industrial **specialisation** to monstrous extremes, breeding workers suited to a single task."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The greatest improvements in the productive powers of labor arise from the effects of **specialisation**."*

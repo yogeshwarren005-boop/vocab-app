@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible but false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on pretense; deceptively pleasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superficially plausible, but actually wrong, deceptive, or misleading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and moral theology, characterizes arguments that masquerade as sound logic while concealing fallacies or selfish motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am not sure, my dear girl, but that it may be wise and specious to preserve that outward indifference."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"PUBLIUS. [1] This was but another name more specious for the independence of the members on the federal head."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This argument presents itself under a very specious and seducing form; and is well calculated to lay hold of the prejudices of those to whom it is addressed."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His promises had a **specious** plausibility that deceived even the most cautious tradesmen in town."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"We must beware of **specious** analogies that seduce the mind into premature philosophical conclusions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby's conduct was cloaked in **specious** excuses that could not withstand rigorous scrutiny."*

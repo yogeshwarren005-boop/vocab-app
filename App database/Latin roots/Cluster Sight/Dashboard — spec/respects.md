@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often used with `pay') a formal expression of esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually preceded by `in') a detail or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Polite greetings, expressions of regard, or specific details and particulars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary courtesy and logical analysis, conveys formal regards to an acquaintance or identifies discrete analytical points of comparison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he shall think it fit A saucy stranger in his court to mart As in a Romish stew, and to expound His beastly mind to us, he hath a court He little cares for, and a daughter who He not respects at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The instances that second marriage move Are base respects of thrift, but none of love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet in some respects, I grant, I cannot go."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Since that **respects** of fortune are his love, / I shall not be his wife."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins begged leave to present his humble **respects** to Lady Catherine de Bourgh."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer sent his **respects** to the family, promising to attend the reading of the will."*

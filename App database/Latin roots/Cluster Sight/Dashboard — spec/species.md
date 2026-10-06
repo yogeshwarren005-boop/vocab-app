@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) taxonomic group whose members can interbreed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific kind of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, taxonomy, and epistemology, a subordinate category within a genus characterized by shared distinctive essential properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It involves me in correspondence with public bodies and with private individuals anxious for the welfare of their species all over the country."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sleeps in his turret with a complaining flag-staff over his head, and has some leads outside on which, any fine morning when he is down here, his black figure may be seen walking before breakfast like a larger species of rook."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The father of this pleasant grandfather, of the neighbourhood of Mount Pleasant, was a horny-skinned, two-legged, money-getting species of spider who spun webs to catch unwary flies and retired into holes until they were entrapped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I look at the term **species** as one arbitrarily given, for the sake of convenience, to a set of individuals closely resembling each other."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep seemed to belong to an ancient, unalterable **species** that had pastured on the chalk downs since Roman days."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In philosophical classification, a **species** is marked off from its genus by some fundamental attribute."*

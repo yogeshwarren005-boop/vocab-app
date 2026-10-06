@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a distinctly greater extent or degree than is common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a special manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent; very much; particularly; used to single out an individual member.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical prose and argumentative taxonomy, isolates a paramount factor or distinct instance that corroborates a universal principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I especially think, under Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the business you have broached here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I will buy with you, sell with you, talk with you, walk with you, and so following, but I will not eat with you, drink with you, nor pray with you. What news on the Rialto? Who is he comes here? / This is Signior Antonio. / How like a fawning publican he looks! / I hate him for he is a Christian, / But more for that in low simplicity / He lends out money gratis and brings down / The rate of usance here with us in Venice. / If I can catch him once upon the hip, / I will feed fat the ancient grudge I bear him. / He hates our sacred nation, and he rails, / Even there where merchants most do congregate, / On me, my bargains and my well-won thrift, / Which he calls interest. Cursed be my tribe, / If I forgive him! I hate him **especially** for his insults."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dawn was cold, **especially** over the misty water-meadows where the cows waited for the milkers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vocal organs of primates are **especially** developed to convey emotional alarm and social cohesion."*

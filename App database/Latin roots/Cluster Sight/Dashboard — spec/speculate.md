@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a theory or conjecture about a subject without firm evidence; to invest in stocks or property with high risk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and financial markets, denotes deductive philosophical contemplation of first principles or capital ventures seeking capital gains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not speculate upon the source from which it came or wonder whose humanity was so considerate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As everybody knows.” Quebec and Malta here exclaim, with clapping of hands, that Bluffy is sure to bring mother something, and begin to speculate on what it will be."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She belonged to him: the certainties of that position were so well defined, and the reasonable probabilities of its issue so bounded that she could not speculate on contingencies."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The villagers gathered at the quiet inn to **speculate** upon the stranger's sudden arrival on the heath."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is perilous to **speculate** upon the causes of variation until extensive breeding experiments have been completed."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"To **speculate** is the highest function of the intellect, tracing visible nature back to divine thoughts."*

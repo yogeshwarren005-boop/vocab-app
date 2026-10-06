@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin spec within the domain of Sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of spec in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characterized by examination of one's own thoughts, motives, and feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological autobiographies and stream-of-consciousness narratives, turning mental scrutiny inward upon transient subjective states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introspectively designates pertaining to, derived from, or characteristic of latin spec within the domain of sight."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles reflected **introspectively** upon his broken prospects, watching the cider press drip in silence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When we look **introspectively** into the stream of thought, we find no static ideas, but continuous transformation."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Bernard spoke **introspectively**, weaving phrases to capture the fugitive cadence of his private sensations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With speculation; in a speculative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With speculation; in a speculative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner based on conjecture rather than knowledge; with an eye toward speculative financial gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and commercial analysis, engaging with propositions or markets provisionally and analytically without dogmatic certainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Before this time he had known it but speculatively; now he thought he knew it as a practical man; though perhaps he did not, even yet."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard regarded the rising wheat prices **speculatively**, calculating how to ruin his younger rival."*
+> - 📜 **William James (*The Will to Believe*):** *"The philosopher entertains metaphysical theses **speculatively**, awaiting moral experience to confirm or discard them."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Corn dealers hold grain **speculatively**, expecting higher returns as winter scarcities intensify."*

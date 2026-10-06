@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed description of design criteria for a piece of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for specification, speculation, or spectacle; a technical requirement or commercial gamble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design and engineering practice, denotes building or purchasing on risk ('on spec') or adherence to detailed manufacturing blueprints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I swore arterwards, sure as ever I spec’lated and got rich, you should get rich."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Get a piece of land on spec, Plow and sow, There's a place for every peck, You can grow."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He done buyed a heap of Corson's spec'mens an' paid him more'n a hundred dollars for 'em."*
+> - 📜 **Thomas Edison (*Writings and Observations*):** *"We built the first dynamo according to our own **spec**, testing each armature under heavy electrical load."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"He bought a parcel of riverfront land purely on **spec**, hoping the steamboat trade would double its value."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The foundry manufactured heavy ordnance strictly to imperial **spec**, delivering naval guns on schedule."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring between species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring between species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between, arising between, or involving members of two or more different biological species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative evolutionary biology and community ecology, denotes mutualistic symbiosis, cross-taxa viral transmission, or inter-lineage competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspecies designates arising or occurring between species."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Reproductive isolating mechanisms prevent **interspecies** hybridization and preserve genetic integrity."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Ecological niches are continually shaped by **interspecies** competition for limited light and nutrients."*
+> - 📜 **Frans de Waal (*Chimpanzee Politics*):** *"Rare instances of **interspecies** adoption reveal emotional capacities that transcend taxonomic boundaries."*

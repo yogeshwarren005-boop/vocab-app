@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overall summary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overall summary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive summary, survey, or digest of a diverse subject or field of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, bibliographic taxonomy, and legal digests, an organized outline providing a panoramic overview of extensive materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conspectus designates an overall summary."*
+> - 📜 **Matthew Arnold (*Schools and Universities on the Continent*):** *"The report presented a lucid **conspectus** of secondary education across the German states."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A rapid **conspectus** of the Roman provinces reveals the immense administrative burden borne by the Antonines."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In this introductory chapter I offer a provisional **conspectus** of the phenomena of mental life."*

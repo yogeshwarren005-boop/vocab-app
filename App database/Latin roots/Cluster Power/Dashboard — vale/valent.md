@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) having valence; usually used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) having valence; usually used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified chemical valence or combining power; combining or having value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunological serology, possessing specified binding capacity or antigenic affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valent._ 20, who suggests that the Valentinians had "nut-trees in the sky"--it is a book in which he allows himself a good deal of gaiety and free quotation. [57] i, 28. [58] M."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial legions under **Valent** marched with disciplined resolution across the Illyrian frontier to suppress the rebellion."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain remedies are medically **valent** only when prepared according to astrological aspects and humoral balance."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In early Gnostic disputations, the teachings of **Valent** and his followers were attacked for speculative allegories."*

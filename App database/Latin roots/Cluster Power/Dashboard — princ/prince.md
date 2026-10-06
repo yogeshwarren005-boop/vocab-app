@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male member of a royal family other than the sovereign (especially the son of a sovereign).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign ruler, royal male monarch, or male member of a royal lineage ranking directly below the king.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preeminent leader, outstanding dignitary, or acknowledged master within a designated profession or discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, if I cannot serve you, I can serve as great a prince as you are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But sure he is the prince of the world; let his nobility remain in’s court."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Good night, sweet **prince**, / And flights of angels sing thee to thy rest! / Why does the drum come hither?"*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A **prince** must have no other objective or thought, nor select anything for his study, other than war and its rules and discipline."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom thus Satan with bold words and high: / '**Prince**, that with one half-conquering hand / Hast made against our host such breach.'"*

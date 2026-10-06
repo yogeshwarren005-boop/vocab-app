@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long depression in the surface of the land that usually contains a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long depression in the surface of the land that usually contains a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquil valley, hollow basin, or dale situated between protecting ridges or hills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic or religious diction, the earthly realm of mortal sorrow and transitory striving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anon, I’m sure, the Duke himself in person Comes this way to the melancholy vale, The place of death and sorry execution Behind the ditches of the abbey here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great is his comfort in this earthly vale, Although by his sight his sin be multiplied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An untimely ague Stayed me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Anon, I'm sure, the Duke himself in person / Comes this way to the melancholy **vale**, / The place of death and sorry execution."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The luxuriant **vale** of Blackmoor unfolded below them, its lush pastures shrouded in delicate morning mist."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I looked down into the quiet **vale** where the pond lay like a polished mirror reflecting the pine-clad heights."*

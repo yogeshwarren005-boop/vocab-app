@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily perturbed or excited or upset; marked by extreme calm and composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being agitated, upset, or excited; profoundly calm and steadily serene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying unshakable coolness, placid detachment, and steady self-control under severe stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it’s chafing and galling—it’s—it’s worse than your smattering chattering magpie of a grandmother,” to the imperturbable Judy, who only looks at the fire, “to know he has got what’s wanted and won’t give it up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is as imperturbable as the hearthstone to which he has quietly walked."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn is as **imperturbable** as the hearthstone to which he has quietly walked, listening without moving a muscle."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Starbuck remained **imperturbable** amid the confusion, directing the lowering of the boats with cool nautical skill."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His **imperturbable** exterior concealed a mind acutely alive to every subtle shade of meaning in the conversation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being resistant to decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being resistant to decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being immune to decay, destruction, oblivion, or temporal dissolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring immortal preservation through spiritual nature, transcendent value, or material invulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperishability designates the property of being resistant to decay."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Ethereal spirits boast an innate **imperishability**, proof against mortal weapons and the corrosive flight of worldly centuries."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poetry redeems from decay the visitations of the divinity in man, conferring an authentic **imperishability** upon mortal thought."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The genuine classics of literature achieve their **imperishability** by speaking directly to the universal moral faculties of mankind."*

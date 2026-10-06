@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixed feelings or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed feelings or emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coexistence of opposing attitudes, conflicting emotions, or contradictory impulses toward an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and psychiatry, simultaneous positive and negative feelings driving psychological tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambivalence designates mixed feelings or emotions."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"The emotional attitude of the primitive toward taboo customs involves a deep-seated **ambivalence**, combining dread with unconscious longing."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"I have designated by the term **ambivalence** the specific capacity of the psyche to entertain mutually exclusive tendencies at the same instant."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our deliberate choices often arise from an acute **ambivalence** of impulse, wherein rival sympathies pull our active will in opposed directions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get over an illness or shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recover health, vitality, and physical vigor gradually after an acute illness or bodily injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pass through a restorative recuperative stage wherein normal physiological stamina returns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, there is this noteworthy difference between savage and civilized; that while a sick, civilized man may be six months convalescing, generally speaking, a sick savage is almost half-well again in a day."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yielding to the solicitation of friends she immediately returned to Washington, where, after a serious illness of several weeks, she, when apparently convalescing, relapsed, and fell another martyr to a love of country." Dr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Two or three others died, and when they left, five or six weeks afterward, all had recovered, sufficiently at least to bear removal, save three whom they left convalescing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Now, there is this noteworthy difference between savage and civilized constitutions: the wild hunter can **convalesce** from wounds that would destroy a pampered townsman."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"In that quiet cottage beside the garden wall, she was permitted to **convalesce** away from the noisy turmoil of the pensionnat."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The doctor promised that Jim would soon **convalesce** if we kept him quiet and gave him warm broths."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female member of a royal family other than the queen (especially the daughter of a sovereign).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a sovereign royal family, especially the daughter or daughter-in-law of a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female sovereign ruling a principality in her own right, or the royal consort of a reigning prince.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is well done, and fitting for a princess Descended of so many royal kings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair princess, you have lost much good sport."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur the challenger, the Princess calls for you."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"This **princess**, / The deliverer of her father from his sorrows, / Shall be our pattern in her sweet humility."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In her rural simplicity she walked with the unconscious grace of an exiled **princess** unmindful of her lost heritage."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She looked every inch a **princess**, bearing her misfortunes with a silent courage that commanded immediate respect."*

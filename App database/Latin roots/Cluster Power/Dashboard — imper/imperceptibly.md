@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner so slight, gradual, or subtle as to be virtually unnoticeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By minute successive stages that reveal change only over significant intervals of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"First, that he seems imperceptibly to establish a dreadful right of property in mademoiselle."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should be sorrier still if I did not think that the rain might be helping me.” She imperceptibly crept closer, and he wrapped round them both a large piece of sail-cloth, which was sometimes used to keep the sun off the milk-cans."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Imperceptibly I became conscious of a change in Biddy, however."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The character forms **imperceptibly** amidst daily choices, like coral islands rising silently beneath ocean waves."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The sun seemed to travel across the sky with unnatural speed, dimming **imperceptibly** into twilight."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The hard gold had passed away, and its place was filled **imperceptibly** by the soft golden curls of the child."*

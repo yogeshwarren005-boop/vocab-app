@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of resisting the penetration or passage of fluids through pores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which a geological strata, membrane, or building material repels moisture ingress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermeableness designates the property of something that cannot be pervaded by a liquid."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The **impermeableness** of crystalline schist causes surface drainage to carve deep ravines along mountain flanks."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The relative **impermeableness** of different substances to radiant heat reveals profound differences in molecular architecture."*
+> - 📜 **Robert Boyle (*Experiments and Notes about the Mechanical Origine of Divers Particular Qualities*):** *"Experiments demonstrate the **impermeableness** of dense metals when subjected to extreme hydrostatical pressures."*

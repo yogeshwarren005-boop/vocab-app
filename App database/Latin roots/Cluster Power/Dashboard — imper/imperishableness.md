@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being resistant to decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being resistant to decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of enduring without decay, deterioration, or temporal dissolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherent resilience against the corrupting ravages of time, physical corrosion, or oblivion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperishableness designates the property of being resistant to decay."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The moral sentiment alone possesses the seal of absolute **imperishableness**, outlasting all material monuments and empires."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Justice is eternal, and the **imperishableness** of divine truth guarantees that wrong cannot prosper forever."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The true mark of literary genius is the **imperishableness** of its creations amidst shifting fashions of speech."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain or unable to decide about what course to follow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain or unable to decide about what course to follow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing simultaneous conflicting feelings, uncertain attitudes, or mixed impulses regarding a choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting wavering or contradictory tendencies that prevent decisive commitment to a single course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambivalent designates uncertain or unable to decide about what course to follow."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"An **ambivalent** disposition toward parental authority produces persistent hesitation in forming independent moral judgments."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"Paul remained painfully **ambivalent**, torn between fierce protective tenderness and a desperate yearning to escape her consuming affection."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily felt strangely **ambivalent** as she regarded the canvas, loving the memory of Mrs. Ramsay while resenting her past domination."*

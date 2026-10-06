@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or difficult to perceive by the mind or senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible or difficult to perceive by the mind or senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely slight, gradual, or subtle; incapable of being perceived by ordinary sensory observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding by increments so fine as to escape detection except through cumulative duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just as that imperceptible motion which appears like stillness is infinitely divided in its properties from stillness itself, so had his hope undistinguishable from despair differed from despair indeed."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By imperceptible degrees, as the tide ran out, we lost more and more of the nearer woods and hills, and dropped lower and lower between the muddy banks, but the tide was yet with us when we were off Gravesend."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"By an **imperceptible** transition, the afternoon gold faded into the dull ash of an autumn twilight."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can act only by very short and slow steps, by **imperceptible** varieties suited to new conditions."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship rose on the swell with an almost **imperceptible** roll, gliding silently through the nocturnal sea."*

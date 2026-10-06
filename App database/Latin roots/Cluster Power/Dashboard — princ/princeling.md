@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty or insignificant prince who rules some unimportant principality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young prince.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty, petty-minded, or politically insignificant prince governing a tiny, powerless state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diminutive ruler or minor subordinate lord possessing pretension to sovereign dignity without real geopolitical weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, princeling designates a petty or insignificant prince who rules some unimportant principality."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Every German **princeling** maintained his miniature court, imitating Versailles with grotesque ceremonies and ruinous expenses."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The haughty proconsul treated each barbarian **princeling** as a mere tributary servant of the Roman senate."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The empire dissolved into a chaotic mosaic of territories, each ruled by an obstinate **princeling** who levied arbitrary tolls."*

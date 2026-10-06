@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to imperialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to imperialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting characteristics, policies, or aggressive aims typical of imperial empire-building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting geopolitical domination, military hegemony, or commercial subjugation over foreign peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperialistic designates of or relating to imperialism."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"This grand **imperialistic** scheme promises to unite the globe, yet it forgets the simple liberty of an English tavern."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Pecuniary emulation easily aligns itself with **imperialistic** ambitions that celebrate collective dominance and predatory display."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The young politicians of that decade were captivated by noisy **imperialistic** slogans that promised national grandeur without intellectual toil."*

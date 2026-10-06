@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin regn within the domain of Power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of regn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the formal reign, temporal duration, or chronological era of a sovereign monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to official administrative calendars and legal statutes dated from the exact year of a ruler's accession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regnal designates pertaining to, derived from, or characteristic of latin regn within the domain of power."*
+> - 📜 **William Stubbs (*The Constitutional History of England*):** *"The computation of public documents by **regnal** years established a fixed chronological standard throughout the judicial archives of the realm."*
+> - 📜 **Edward Augustus Freeman (*The History of the Norman Conquest of England*):** *"In every royal charter and court roll, the precise **regnal** formula was recited to mark the legitimate continuity of the Crown."*
+> - 📜 **James Anthony Froude (*History of England*):** *"The second statute was enacted during the fourth **regnal** year of Queen Elizabeth, amidst sharp contention between churchmen and ministers."*

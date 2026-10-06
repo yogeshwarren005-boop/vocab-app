@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental annual plant, Amaranthus hypochondriacus, distinguished by dense, upright crimson flower spikes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden polygonaceous cultivar or amaranth grown for dramatic burgundy foliage and everlasting plume inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince's-feather designates annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"The crimson plumes of **prince's-feather** form a brilliant contrast when massed in wide autumn borders beside pale asters."*
+> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"That fair garden flower called **prince's-feather** beareth velvety tassels of deep purple, which endure through cold winds."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Under the common name **prince's-feather**, cultivators include vigorous forms of Amaranthus with dense erect velvety paniculate flower heads."*

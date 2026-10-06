@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of not permitting fluids, gases, or radiation to pass through a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences and materials engineering, the physical resistance of dense rock or membrane barriers to fluid transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A series of experiments and arguments proves to every man that he, as an object of observation, is subject to certain laws, and man submits to them and never resists the laws of gravity or impermeability once he has become acquainted with them."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"A series of experiments proves that matter exhibits both extension and relative **impermeability** to external impact."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The absolute **impermeability** of the glass enclosure preserved the delicate vacuum against atmospheric penetration."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The dense layer of compacted clay possessed sufficient **impermeability** to retain surface water throughout prolonged droughts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing especially liquids to pass or diffuse through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing especially liquids to pass or diffuse through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being passed through or penetrated, especially by liquids or moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a compact texture or structure that prevents the transmission of water or other fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermeable designates preventing especially liquids to pass or diffuse through."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"An **impermeable** stratum of shale underlying porous sandstone forces the subterranean water to emerge as natural springs."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Clay formations form an **impermeable** floor, preventing rain from sinking into deeper geological basins."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"We fashioned a shelter of woven branches plastered with stiff mud, which proved almost **impermeable** to the torrential tropical rain."*

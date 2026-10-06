@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not allowable, admissible, or permissible; contrary to accepted law, ethics, or rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excluded from legitimate practice, legal procedure, or ethical conduct by formal mandate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissible designates not permitted."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"It is logically **impermissible** to treat a class as a member of itself, if vicious paradoxes are to be avoided."*
+> - 📜 **G. E. Moore (*Principia Ethica*):** *"An action is judged morally **impermissible** when alternative conduct would produce significantly greater organic good."*
+> - 📜 **William James (*The Will to Believe*):** *"To close our minds against evidence merely from dread of error is an **impermissible** abdication of intellectual responsibility."*

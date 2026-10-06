@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permissibly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not permissibly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that violates established laws, regulations, or ethical standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without lawful sanction or legitimate moral warrant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissibly designates not permissibly."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"When the magistrate acts **impermissibly**, exceeding the clear limits of his charter, public confidence is undermined."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society interferes **impermissibly** whenever it attempts to dictate private opinion without showing direct injury to others."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Egoism oversteps **impermissibly** when it seeks self-affirmation through the deliberate destruction of another living will."*

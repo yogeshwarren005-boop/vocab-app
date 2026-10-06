@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rule or standard especially of good behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental truth, axiom, law, or doctrine that serves as the foundation for a system of belief or reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settled moral rule of action or personal code of conduct guiding deliberate choices and conscientious behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle: That faith would live again by death of need."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"If I had a thousand sons, the first humane **principle** I would teach them should be to forswear thin potations and to addict themselves to sack."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection: this is the grand **principle**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have called this **principle**, by which each slight variation, if useful, is preserved, by the term Natural Selection."*

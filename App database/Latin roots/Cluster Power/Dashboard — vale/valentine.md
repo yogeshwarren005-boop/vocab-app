@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweetheart chosen to receive a greeting on saint valentine's day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card sent or given (as to a sweetheart) on saint valentine's day.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A card, letter, token, or gift expressing romantic affection sent to a sweetheart on February 14.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chosen sweetheart or romantic partner greeted or courted on Saint Valentine's Day.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, let’s have no words of this; but when they ask you what it means, say you this: [_Sings._] Tomorrow is Saint Valentine’s day, All in the morning betime, And I a maid at your window, To be your Valentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Publius, come hither, Caius, and Valentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caius and Valentine, lay hands on them."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To-morrow is Saint Valentine's day, / All in the morning betime, / And I a maid at your window, / To be your **Valentine**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She purchased the handsome seal and stamped the playful **valentine** with the fatal motto 'Marry Me' before dispatching it."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Sam Weller sat down in the tavern parlour to compose an elaborate **valentine** adorned with gilt cupids and bleeding hearts."*

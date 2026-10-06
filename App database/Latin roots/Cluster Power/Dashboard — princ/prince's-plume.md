@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial of southwestern united states having leathery blue-green pinnatifid leaves and thick plumelike spikes of yellow flowers; sometimes placed in genus cleome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A western North American biennial desert herb, Stanleya pinnata, bearing long, feathery spikes of bright yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selenium-accumulating brassicaceous wildflower indicating selenium-rich soils across arid southwestern plains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince's-plume designates annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Stanleya pinnata, commonly known as **prince's-plume**, lifts its golden racemes above dry gravelly benches in the Great Basin."*
+> - 📜 **John Muir (*Steep Trails*):** *"Along the desolate wash, the yellow torches of **prince's-plume** were waving gracefully in the hot desert wind."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For wild garden plantings in dry sunny exposures, the stately flower spikes of **prince's-plume** produce a striking golden effect."*

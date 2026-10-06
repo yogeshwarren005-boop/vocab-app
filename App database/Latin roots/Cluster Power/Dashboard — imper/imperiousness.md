@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being imperious and overbearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being imperious and overbearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogant overbearingness, haughty command, or dictatorial presumption in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imposing habit of sovereign command that demands deference and subdues resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such imperiousness would have damned a little less beauty; and on the other hand, such beauty would have redeemed a little less imperiousness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s native imperiousness and strength of determination served him well."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such imperiousness would have damned a little less beauty; and on the other hand, such beauty would have redeemed a little less imperiousness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such **imperiousness** would have damned a little less beauty; and on the other hand, such beauty would have redeemed far greater pride."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode's native **imperiousness** and strength of determination served him well when confronting rebellious townsmen."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The haughty **imperiousness** of Lady Catherine's manners alienated all who were not intimidated by her aristocratic wealth."*

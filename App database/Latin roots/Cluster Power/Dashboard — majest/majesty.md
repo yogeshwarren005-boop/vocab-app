@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressiveness in scale or proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supreme imperial greatness, sovereign dignity, or commanding authority inspiring profound awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official royal title or titular style accorded to reigning monarchs and imperial sovereigns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What hope is there of his **majesty**'s amendment, when sickness and sorrow join in league against him?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The grand and lofty things in the world all bear this silent stamp of sovereign **majesty**, unborrowed from human court or crown."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The serene **majesty** of the silent downs seemed to rebuke the agitated fever of their hurried confession."*

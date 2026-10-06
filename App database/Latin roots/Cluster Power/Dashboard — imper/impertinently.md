@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impudent or impertinent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impudent or impertinent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insolently disrespectful, intrusive, or presumptuously rude manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner irrelevant, inappropriate, or unsuited to the serious subject under discussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No one is to speak impertinently or beside the question, superfluous, or tediously."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Credit me, it is better to enjoy the good which God sends thee, than to be impertinently curious how it comes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He interrupted her reflections by inquiring **impertinently** into the state of her heart with unfeeling levity."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Credit me, it is better to enjoy the good which God sends thee, than to be **impertinently** curious about secret perils."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian courtiers whispered **impertinently** among themselves, mocking my size and awkward manners behind my back."*

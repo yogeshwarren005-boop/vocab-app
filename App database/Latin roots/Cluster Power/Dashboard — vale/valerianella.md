@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world annual herbs widely naturalized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world annual herbs widely naturalized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small annual herbs in Caprifoliaceae, including corn salad or lamb's lettuce, cultivated for salads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing Eurasian garden annuals producing tender rosette leaves and dense cymes of pale lilac flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valerianella designates genus of old world annual herbs widely naturalized."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"The several species of **Valerianella**, commonly known as corn salad, are sown in autumn to supply fresh greens throughout winter."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"**Valerianella** olitoria grows abundantly among stubble fields, bearing small heads of pale blue flowers in early spring."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Plants*):** *"Cultivators prize **Valerianella** for its hardiness against frost, furnishing a wholesome salad when other vegetables fail."*

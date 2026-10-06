@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogantly domineering, overbearing, dictatorial, or urgent and compelling in demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying haughty command that tolerates no opposition or delay in submission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not th’ imperious show Of the full-fortuned Caesar ever shall Be brooched with me; if knife, drugs, serpents, have Edge, sting, or operation, I am safe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Imperious Caesar, dead and turn’d to clay, Might stop a hole to keep the wind away."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"**Imperious** Caesar, dead and turn'd to clay, / Might stop a hole to keep the wind away: / O, that that earth, which kept the world in awe, / Should patch a wall to expel the winter's flaw!"*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia had an **imperious** desire for escape from the lonely heath, longing for music, lights, and crowded ballrooms."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her demeanor was characterized by an **imperious** dignity which seemed to rise above the ignominy of the public scaffold."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of saying farewell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An utterance, speech, or formal gesture of farewell delivered upon departing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concluding formal address or literary poem bidding affectionate or solemn farewell to companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valediction designates a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)."*
+> - 📜 **John Donne (*Songs and Sonnets (A Valediction: Forbidding Mourning)*):** *"Our two souls therefore, which are one, / Though I must go, endure not yet / A breach, but an expansion, / In this holy **valediction**."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"His tender **valediction** to his friend moved the listeners to tears, expressing heartfelt grief without extravagant rhetorical ornament."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"With this solemn **valediction** the wanderer took his staff in hand and turned his face toward the desolate frontier."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is recovering from illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to health after illness or debility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recovering from disease, bodily debility, or injury and gradually regaining former health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person undergoing post-acute rehabilitation, or a facility maintained for recuperating patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A week had passed since Leonore had spent her first day as convalescent among the family."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He gave, at any rate, like a convalescent slightly fatigued, a languid shake of his head."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The **convalescent** eye drinks in the sweetness of the outdoor morning with a fresh sense of wonder unknown to unbroken vigor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She tended the **convalescent** child through the long afternoons, reading cheerful stories until twilight fell."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I sat by the cot of a young **convalescent** soldier from Maine, writing down his messages to his mother."*

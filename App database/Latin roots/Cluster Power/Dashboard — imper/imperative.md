@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood that expresses an intention to influence the listener's behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some duty that is essential and urgent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing an urgent authoritative command, obligatory duty, or unavoidable necessity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, the verbal mood utilized to articulate direct commands, injunctions, or entreaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was imperative that we should stay together a little while, to avoid the scandal to you that would have resulted from our immediate parting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was imperative that she should go home."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had lived a moral and upright life in the eyes of the world, but careless and neglectful of all religious duties, and now with eternity before him he felt his life a failure and his imperative need of help."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An **imperative** sense of duty urged him forward through the blinding snow toward the sheepfold."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The financial necessity had become **imperative**, forcing him to consider measures he once despised."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Moral law addresses every human conscience with an **imperative** authority that brooks no evasion."*

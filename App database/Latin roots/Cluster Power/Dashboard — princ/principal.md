@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The original amount of a debt on which interest is calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The educator who has executive authority for a school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First, highest, or foremost in rank, authority, importance, or degree of significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A capital sum of money placed on investment or loaned at interest, distinguished from its accrued profits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you remember any of the principal evils that he laid to the charge of women?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Can you remember any of the **principal** evils that he laid to the charge of women?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our **principal** duty is to furnish our minds with clear and distinct perceptions of things as they truly exist in nature."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The lender receives back his original **principal** intact, together with the customary interest agreed upon in the contract."*

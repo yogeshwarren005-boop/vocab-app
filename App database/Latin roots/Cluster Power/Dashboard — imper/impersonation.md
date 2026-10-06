@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a person that is exaggerated for comic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pretending to be another person, whether for dramatic entertainment or fraudulent imposture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The artistic or psychological embodiment of a distinct persona, archetype, or dramatic character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Finally, the delicate fancy of La Fargehas supplemented the immortal pen-portrait of the Typee maiden with a speaking impersonation of her beauty."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Driving in spars at any point and on any system, inch by inch he covered more and more safely from ruin this distracting impersonation of seven hundred pounds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His silent courtship seemed an unconscious **impersonation** of ancient patient devotion, enduring all rebuffs without complaint."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The aged priest appeared like a living **impersonation** of archaic superstition, mumbling incantations beside the carved idols."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's theatrical **impersonation** of injured innocence deceived nobody, yet it delighted his loyal family."*

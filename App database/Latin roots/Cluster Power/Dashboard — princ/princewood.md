@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american timber tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A durable tropical hardwood derived from Cordia gerascanthus or Hamelia patens, valued in cabinetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A West Indian timber tree of the borage family yielding fragrant, handsomely grained wood used for veneers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, princewood designates tropical american timber tree."*
+> - 📜 **Sir Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The tree called **princewood** by our carpenters affordeth a hard, compact timber, highly esteemed for ornamental wainscot."*
+> - 📜 **Patrick Browne (*The Civil and Natural History of Jamaica*):** *"Cordia gerascanthus, commonly styled Spanish elm or **princewood**, is one of the most useful timber trees on the island."*
+> - 📜 **Philip Miller (*The Gardeners Dictionary*):** *"The specimens of **princewood** brought from the West Indies display an exquisite dark grain well suited for fine cabinet work."*

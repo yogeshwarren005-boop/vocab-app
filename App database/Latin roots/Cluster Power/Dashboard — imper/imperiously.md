@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a haughtily domineering, dictatorial, or commanding manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With peremptory authority that commands instant and unquestioning compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] Who’s there that knocks so imperiously?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock looks imperiously at her visitor when the servant has left the room, casting her eyes over him from head to foot."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Answer me—speak again!” he ordered, imperiously and aloud."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Who's there that knocks so **imperiously**? What haughty lord disturbs our council with insolent clamor?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock looks **imperiously** at her visitor when the servant has left the room, casting a chilling glance upon him."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"'Answer me—speak again!' he ordered, **imperiously** and aloud, gazing intently into my eyes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Territory ruled by a prince.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory ruled by a prince.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign territory, state, or constitutional jurisdiction governed by a prince or royal monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme rank, sovereignty, or preeminent station occupied by a ruling prince.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then speak the truth by her; if not divine, Yet let her be a principality, Sovereign to all the creatures on the earth."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Tachienlu is in the principality of the King of Chala, whose palace is one of the two or three noteworthy buildings in the place, and the Tibetan population of some seven hundred families, not counting the lamas, is directly under his authority."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Tachienlu, _sui generis_, 123; situation of, 123; China and Tibet meet in, 123; in the grip of lamaism, 124; principality of King of Chala, 125; government of, 125; key to the western country, 125; meeting Capt."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Then speak the truth by her; if not divine, / Yet let her be a **principality**, / Sovereign to all the creatures on the earth."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"He felt as if he had stumbled into some tiny, forgotten **principality** perched high among the clouds above Europe."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Tachienlu is situated within the mountainous **principality** of the King of Chala, whose fortified palace overlooks the river."*

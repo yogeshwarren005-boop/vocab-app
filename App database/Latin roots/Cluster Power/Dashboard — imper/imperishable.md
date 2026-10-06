@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perishable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unceasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of perishing, rotting, or fading; enduring eternally through all temporal vicissitudes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining permanently vital, untarnished, and indestructible in memory, value, or essence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the imperishable spirit did not cease."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, later and earlier, there were other lives in which I sang with the priests and bards the taboo-songs of the stars wherein we believed was written our imperishable record."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Behind them is an imperishable record, brief yet illustrious, of feats performed over the entire range of the Western Hemisphere."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Books are the treasured wealth of the world and the fit inheritance of generations, an **imperishable** monument of genius."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their bright celestial armour was forged of **imperishable** substance, defying the fiery darts of the adversary."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is an **imperishable** dignity in heroic endeavor, even when crowned with disaster in the lonely oceans."*

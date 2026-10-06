@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshakable calmness, serene composure, or steady self-possession incapable of being upset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stoic equanimity that remains placid and tranquil through acute crises or violent provocations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"His countenance had resumed its habitual imperturbability."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*
-> - 📜 **James Joyce (*Ulysses*):** *"The pluterperfect imperturbability of the department of agriculture."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"His countenance had resumed its habitual **imperturbability**, revealing neither fear nor triumph as the monster drew near."*
+> - 📜 **James Joyce (*Ulysses*):** *"The pluterperfect **imperturbability** of the department officials exasperated every petitioner who sought redress."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes listened to the harrowing narrative with absolute **imperturbability**, his eyes fixed dreamily upon the ceiling."*

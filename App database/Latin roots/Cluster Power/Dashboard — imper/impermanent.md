@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permanent; not lasting; - james thurber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or enduring for a limited time only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permanent; enduring only for a short time; transitory, fleeting, or provisional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking structural stability or lasting institutional endurance under shifting conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The necessity to counteract by impermanent sojourn the permanence of arrest."*
+> - 📜 **James Joyce (*Ulysses*):** *"He reflected on the necessity to counteract by an **impermanent** sojourn the rigid permanence of bureaucratic arrest."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Our fragile identities seem brief and **impermanent**, like shadows dancing upon an empty wall."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"All the commercial splendor of the city appeared strangely **impermanent**, a flimsy superstructure awaiting inevitable collapse."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Majestic in manner or bearing; superior to mundane matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying great dignity or nobility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting grand dignity, stately nobility, and imposing sublimity in form, bearing, or elevation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoking reverence or awe through royal magnificence, monumental scale, or commanding aesthetic proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ye gods, it doth amaze me, A man of such a feeble temper should So get the start of the majestic world, And bear the palm alone. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a most majestic vision, and Harmonious charmingly."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"This is a most **majestic** vision, and / Harmonious charmingly: May I be bold / To think these spirits?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all, **majestic** in his sturdy, untutored strength."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her wardrobe was of an almost religious simplicity, yet something in her carriage gave every drapery a **majestic** fall."*

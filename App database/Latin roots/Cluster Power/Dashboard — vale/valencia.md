@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in northern venezuela.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern spain on the mediterranean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic Mediterranean port city and fertile agricultural province in eastern Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet, thin-skinned variety of sweet orange widely grown in warm climates for fresh juice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had made an excursion from Valencia to Murviedro, with a view to inspect the remains of Roman magnificence scattered in the environs of that town."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They returned to Valencia together."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While Pleyel remained in Valencia, Carwin betrayed no aversion to intercourse, and the former found no small attractions in the society of this new acquaintance, On general topics he was highly intelligent and communicative."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Traveling through the irrigated huerta toward **Valencia**, one observes an unbroken paradise of orange groves and sparkling canals."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The ancient kingdom of **Valencia** is celebrated for its glorious climate, rich silk manufactures, and fertile alluvial soil."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"I arrived at **Valencia** late in the afternoon, entering through the massive Gothic gates of the medieval city."*

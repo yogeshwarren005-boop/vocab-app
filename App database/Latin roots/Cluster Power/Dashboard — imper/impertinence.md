@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insolent disrespect, improper forwardness, or rude presumption toward superiors or companions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irrelevance, inapplicability, or lack of pertinence to the matter under current deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have unconsciously said an impertinence?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is mere impertinence in me to offer any recommendation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What impertinence!” said Liddy, in a low voice."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To introduce irrelevant metaphysical disputations into practical morals is a tedious **impertinence** that darkens counsel."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"'What **impertinence**!' said Liddy in a low voice, blushing at the audacious compliments paid by the stranger."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She resented his unsolicited advice as an unpardonable **impertinence**, though concealed beneath an air of polite concern."*

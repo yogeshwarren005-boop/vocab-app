@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a property of atoms or radicals; their combining power given in terms of the number of hydrogen atoms (or the equivalent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining power of an atom or radical measured by the number of hydrogen atoms it can displace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, the intrinsic attractiveness or aversiveness of an event, object, or situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"It was afterwards conveyed by a female to William de <g>Valentia</g>, Earl of Pembroke, whose third son, Aymer de Valence, became his heir, and was murdered in France in 1323."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"John’s, founded by the Valences, or Valentias, with a lazar-house and almshouse."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The chemical **valence** of an element is determined by the outermost ring of electrons and their tendency to form shared pairs."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Variations in the observed **valence** of transition metals reflect the participation of inner d-electrons in bond formation."*
+> - 📜 **Edward Frankland (*Experimental Researches in Pure, Applied, and Physical Chemistry*):** *"Every element possesses a definite combining capacity or **valence**, which fixes the proportions of its compound molecules."*

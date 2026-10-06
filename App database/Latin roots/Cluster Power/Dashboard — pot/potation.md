@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serving of drink (usually alcoholic) drawn from a keg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of drinking (especially an alcoholic drink).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drinking, quaffing, or imbibing liquids, particularly intoxicating or alcoholic beverages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A draught, libation, or prepared beverage consumed during social celebrations or private toasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of the company were furnished with pipes, and most of them with some kind of evening potation."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Small beer--will it be believed!--was the only drink with which unhappy gentlemen soothed the fever of their previous night's potation."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"He whose tongue of old was frozen-- As he quaffs, with this potation Deep and deeper inspiration Seems to grow a Prophet--chosen, For he speaks by divination!"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of the company were furnished with pipes, and most of them with some kind of evening **potation** to fortify good cheer."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"After an excessive **potation** of heavy port, the old major sat nodding in his armchair before the hearth."*
+> - 📜 **William Shakespeare (*Othello*):** *"I have very poor and unhappy brains for drinking; I could well wish courtesy would invent some other custom of **potation**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impersonal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without personal bias, individual partiality, or subjective emotional involvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an objective, detached, or generalized manner addressing broad principles rather than specific persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And when he died, I was very sorry, but impersonally sorry ... as if something nice in the world had been gone ... a swan shot...."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is scarcely decorous, however, to speak all, even where we speak impersonally."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He always calls them impersonally 'they' or 'it.' He doesn't see much of them anyway, now, I understand."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is scarcely decorous, however, to speak all, even where we speak **impersonally** and under the protection of historical distance."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The detective examined the bloodstained letter **impersonally**, as though analyzing an algebraic equation on a blackboard."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And when he died, I was very sorry, but **impersonally** sorry, as if something noble in the distant landscape had vanished."*

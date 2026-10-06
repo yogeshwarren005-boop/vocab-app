@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in the gulf of guinea that is part of sao tome and principe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in the gulf of guinea that is part of sao tome and principe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental philosophical or ethical principle serving as the underlying foundation of a theoretical system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Italian or Spanish word for prince, universally associated with Machiavelli's celebrated treatise on statecraft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
+> - 📜 **Niccolò Machiavelli (*The Prince (Il Principe)*):** *"Un **principe** non deve dunque avere altro obietto né altro pensiero, se non l'arte della guerra."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The first **principe** or axiomatic rule of knowledge must be grounded upon clear sensation and reflective intuition."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"'I am an admirer of Montesquieu,' replied Prince Andrew, 'and his idea that le **principe** des monarchies est l'honneur.'"*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most frequent or common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most frequent or common.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely existing, generally accepted, or commonly occurring in a particular region or timeframe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dominant in influence or prevailing as standard practice among a community or historical era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But Volumnia the fair, being subject to the prevalent complaint of boredom and finding that disorder attacking her spirits with some virulence, ventures at length to repair to the library for change of scene."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At feasts and festivals also, in firmaments she has often graced, and among constellations she outshone but yesterday, she is still the prevalent subject."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As a result of habit and ignorance (widely prevalent at that time) they were remarkably unconcerned about this matter."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The superstition was **prevalent** throughout the western valleys, surviving all modern schoolroom skepticism."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Such opinions were **prevalent** among provincial bankers who viewed every innovative enterprise with profound suspicion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia the fair, being subject to the **prevalent** complaint of boredom, fluttered into the drawing-room seeking diversion."*

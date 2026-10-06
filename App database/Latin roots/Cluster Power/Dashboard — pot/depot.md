@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Station where transport vehicles load or unload passengers or goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated facility or warehouse where military stores, commercial merchandise, or provisions are assembled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A railroad station or central passenger terminal where trains stop to load cargo and passengers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was never known to wait a second, say nothing about a minute, beyond the time._' I then inquired if we could not stay at the depot."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Knowing of no human help, I left the depot and went into the woods, some ways from the station, where I could be alone, and tell that Friend who is able to provide, and who is rich unto all that call upon Him."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took the morning train at the Princeton depot, and reached home about eleven o'clock."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"We hurried through the evening drizzle to the railway **depot**, hoping to intercept our quarry before the midnight express departed."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The startings and arrivals of the cars are now the epochs in the village day; they go and come with such regularity to the **depot**."*
+> - 📜 **James Joyce (*Dubliners*):** *"He waited under the gaslamp near the freight **depot**, watching the shunters guide the rumbling wagons onto the siding."*

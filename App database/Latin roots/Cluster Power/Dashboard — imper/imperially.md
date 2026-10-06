@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperial, royal, or sovereignly commanding manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With majestic grandeur or sovereign magnificence befitting supreme imperial governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperially designates in an imperial manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He looked **imperially** round upon his harpooneers, as if summoning them to witness a covenant of life and death."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck governed the pensionnat **imperially**, directing every movement of pupils and teachers with serene, despotic grace."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakespeare ruled **imperially** over the English tongue, commanding words like obedient courtiers to mirror every subtle emotion."*

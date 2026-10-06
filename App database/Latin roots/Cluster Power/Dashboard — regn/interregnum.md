@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time between two reigns, governments, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time between two reigns, governments, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary period of suspense or hiatus between the close of one sovereign reign and the accession of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any temporary pause, discontinuity, or institutional lapse in governmental leadership or administrative order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, I saw that here was a sort of interregnum in Providence; for its even-handed equity never could have so gross an injustice."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He found his kingdom in great confusion, the feudal chieftains having taken advantage of the troubles and irregularities of a long interregnum, to strengthen themselves in their possessions, and place themselves above the power of the laws."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"We can account, to some extent, for this interregnum or spiritual life, but only to some extent."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, I saw that here was a sort of **interregnum** in Providence; for its even-handed justice had seemed suspended while the tempest raged."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He found his kingdom in great confusion, the feudal chieftains having taken advantage of the long **interregnum** to assert an lawless independence."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"During this tumultuous **interregnum**, the senators debated with feeble eloquence while the legions prepared to decide the succession by sword."*

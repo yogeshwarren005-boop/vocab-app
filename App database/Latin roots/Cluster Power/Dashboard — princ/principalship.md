@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of principal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of principal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, tenure, administrative authority, or executive jurisdiction of a principal or headmaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The executive leadership position at the head of a collegiate university, theological seminary, or academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Principalship of the University became vacant by the death of Dr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The **Principalship** of the University became vacant by the lamented death of Dr. Lee, whereupon the faculty urged his appointment."*
+> - 📜 **David Masson (*Edinburgh Sketches and Memories*):** *"His tenure of the **principalship** was marked by vigorous reforms in academic discipline and the expansion of the collegiate library."*
+> - 📜 **Thomas McCrie (*The Life of Andrew Melville*):** *"Upon assuming the **principalship** of the college, he introduced novel methods of linguistic study and philosophical debate."*

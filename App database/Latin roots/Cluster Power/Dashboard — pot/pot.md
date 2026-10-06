@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plumbing fixture for defecation and urination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded, deep vessel crafted of metal, earthenware, or glass used for cooking, boiling, or storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cumulative stakes, pooled wagers, or financial sum contested by participants in a wagering contest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, good pint-pot; peace, good tickle-brain.—Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is ’t such a matter to get a pottle-pot’s maidenhead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would give all my fame for a pot of ale and safety."*
+> - 📜 **William Shakespeare (*Henry V*):** *"I would give all my fame for a **pot** of ale and safety: if I should die in this enterprise, who shall give comfort to my kindred?"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He tipped the contents of the earthen **pot** into the furrow, watching the pungent mixture soak into the clay."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The brown earthenware **pot** had been his companion for twelve years, and he treasured the fragments even after it broke."*

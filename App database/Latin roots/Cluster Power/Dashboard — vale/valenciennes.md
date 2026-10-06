@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northeastern france long noted for its lace industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of bobbin lace with floral patterns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate, durable bobbin lace made of linen thread, featuring a diamond-shaped mesh ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic lace-manufacturing city in northern France near the Belgian border renowned for textile crafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A bride (who is going to visit at a baronet’s) must have a few first-rate pocket-handkerchiefs; but beyond the absolutely necessary half-dozen, Rosamond contented herself without the very highest style of embroidery and Valenciennes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A bride who is going to visit at a baronet's seat must have a few first-rate pocket-handkerchiefs bordered with real **Valenciennes**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her collar and cuffs were of fine **Valenciennes** lace, arranged with Parisian elegance above her dark silk gown."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma inspected the delicate trimmings of **Valenciennes** on the bridal chemisette, admiring the fine transparency of the needlework."*

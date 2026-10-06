@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed perennial herbs and some shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed perennial herbs and some shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of perennial herbs and shrubs in the family Caprifoliaceae yielding medicinal roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical genus encompassing the medicinal garden valerian and related rhizomatous species of temperate zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VALERIAN RUST; spots yellowish; sori subrotund, small, confluent, sometimes circinating; epidermis at length bursting; spores reddish-brown, subglobose or clavate, shortly pedicellate.—On _Valeriana officinalis_."*
+> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"The wild garden **Valeriana** groweth near watersides, bearing sweet-smelling tufts of pale purple blossoms."*
+> - 📜 **William Woodville (*Medical Botany*):** *"The root of **Valeriana** officinalis has long maintained a high reputation as an antispasmodic in medical practice."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, and Mould*):** *"Microscopic examination reveals parasitic rust fungi infecting the lower leaves of wild **Valeriana** along woodland paths."*

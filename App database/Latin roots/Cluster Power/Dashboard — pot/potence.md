@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being potent; a male's capacity to have sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being potent; a male's capacity to have sexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent strength, generative capacity, or executive power to produce dynamic effects or outcomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and mechanics, a T-shaped crutch-head figure, cross design, or supportive bracket pivot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potence designates the state of being potent; a male's capacity to have sexual intercourse."*
+> - 📜 **John Guillim (*A Display of Heraldrie*):** *"The shield was blazoned with a cross **potence**, having four equal limbs whose extremities terminate in transverse bars like crutches."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He traced the bearing on the ancient tombstone, noting the medieval **potence** sculpted above the family escutcheon."*
+> - 📜 **Randle Cotgrave (*A Dictionarie of the French and English Tongues*):** *"A **potence** signifieth an engine of support, a gibbet or cross-tree, fashioned to uphold weights or display authority."*

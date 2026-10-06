@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperative and commanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperative and commanding manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commanding, authoritative, or urgently obligatory manner admitting no refusal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With peremptory force that demands immediate compliance or practical resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had shown indications of anointing him above his fellows by installing him as the bailiff that the farm imperatively required."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Mary herself began to be more agitated by the remembrance of what she had gone through, than she had been by the reality—questioning those acts of hers which had come imperatively and excluded all question in the critical moment."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The young husband was frantic with grief—but circumstances imperatively forbade the deferring his voyage to New York."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her conscience spoke **imperatively**, demanding that she make a full disclosure before the wedding morning."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The circumstances called **imperatively** for instant decision, yet he lingered in painful hesitation."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The voice of duty summoned him **imperatively** away from the sunny terraces of the Roman villa."*

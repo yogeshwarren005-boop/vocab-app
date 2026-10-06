@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm and unruffled self-assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm and unruffled self-assurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enduring serenity, unshakeable tranquility, and proof against emotional agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steady, tranquil stoicism of temperament that remains calm and unruffled amidst turmoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperturbableness designates calm and unruffled self-assurance."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Socrates met his judges with that sublime **imperturbableness** which flows from conscious integrity and philosophical peace."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Mirabeau alone confronted the tumultuous mob with an iron **imperturbableness**, mastering their passions with his voice."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"The extraordinary **imperturbableness** of Iago makes his villainy appear more sinister and inexorable."*

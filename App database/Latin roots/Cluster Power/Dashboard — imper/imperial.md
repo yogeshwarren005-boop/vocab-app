@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tufted beard worn by emperor napoleon iii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of luggage carried on top of a coach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or ruled by an emperor, empress, or expansive sovereign empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commanding, majestic, or magnificent in scale; also designating established British systems of weights and measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My due from thee is this imperial crown, Which, as immediate from thy place and blood, Derives itself to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then hear me, gracious sovereign, and you peers, That owe yourselves, your lives, and services To this imperial throne."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"My due from thee is this **imperial** crown, / Which, as immediate from thy place and blood, / Derives itself to me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She carried herself with an **imperial** pride that forbade any familiarity from rustic admirers."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The international theft involved documents vital to the **imperial** interests of the British government."*

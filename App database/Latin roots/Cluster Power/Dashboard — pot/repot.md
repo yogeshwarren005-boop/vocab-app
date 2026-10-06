@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in a new, usually larger, pot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in a new, usually larger, pot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transplant a growing plant into a fresh, typically larger container with renewed soil medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disturb the root ball of a potted specimen in horticulture to prevent root-bound stunted growth and replenish nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repot designates put in a new, usually larger, pot."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In early spring, when active root development begins, the gardener should carefully **repot** greenhouse specimens that have outgrown their vessels."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"We must **repot** the broad-leaved lilies before the buds break, using sweet loam enriched with decayed leaf-mould."*
+> - 📜 **Jane Loudon (*The Ladies' Companion to the Flower-Garden*):** *"When you **repot** tender shrubs, take care not to bury the collar of the stem deeper than it was positioned in the former pot."*

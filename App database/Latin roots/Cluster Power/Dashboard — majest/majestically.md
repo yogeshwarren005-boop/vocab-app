@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a majestic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a majestic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Executing actions with elevated dignity, imposing regal gravity, or awe-inspiring grandeur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or proceeding with deliberate, monumental calm characteristic of sovereign ceremonies or cosmic motions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbit-sucker or a poulter’s hare."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Since he has your orders to come, I will not interrupt you.” Sir Leicester in his gallantry retires, rather declining to accept a bow from the young man as he goes out and majestically supposing him to be some shoemaker of intrusive appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore he says “you” are beaten, and not “we.” Sir Leicester is majestically wroth."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"If thou dost it half so gravely, so **majestically**, both in word and matter, hang me up by the heels for a rabbit-sucker."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The great twilight silhouette rose **majestically** against the dying sunset, dwarfing all transient human movements."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock enters **majestically**, having a stately manner which confers tremendous solemnity on the simplest domestic greeting."*

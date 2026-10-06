@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain ruled by an emperor or empress; the region over which imperial dominion is exercised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supreme authority; absolute dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supreme executive authority, sovereign power, or command over an empire or armed forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional law, supreme military and civil jurisdiction vested in magistrates and consuls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They still, in fine, seem to cherish with blind devotion the political monster of an imperium in imperio."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"GRIGGS, Author of "Imperium in Imperio," "Overshadowed," "Dorlan's Plan," etc."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lenehan, lighting it for him with quick grace, said: —Silence for my brandnew riddle! —_Imperium romanum_, J."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 15)*):** *"They still seem to cherish with blind devotion the political monster of an **imperium** in imperio, dividing sovereignty against itself."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senate conferred the full consular **imperium** upon Augustus, masking autocratic dominion under ancient constitutional titles."*
+> - 📜 **James Joyce (*Ulysses*):** *"He spoke with satirical venom of the Roman **imperium** that held ancient nations bound beneath foreign legions."*

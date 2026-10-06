@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or wielding force or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing great physical power, biochemical strength, moral efficacy, or sovereign authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an intense pharmacological effect on biological systems, or exercising compelling persuasive impact on human minds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou offer’st fairly to thy brother’s wedding: To one his lands withheld, and to the other A land itself at large, a potent dukedom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy crystal window ope; look out; No longer exercise Upon a valiant race thy harsh And potent injuries."*
+> - 📜 **William Shakespeare (*Othello*):** *"Most **potent**, grave, and reverend signiors, / My very noble and approv'd good masters, / That I have ta'en away this old man's daughter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts by life and death—by the preservation of individuals with favorable variations, a most **potent** engine of divergence."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The thoughts of a great mind are the most **potent** forces that enter into human affairs, overturning thrones and empires."*

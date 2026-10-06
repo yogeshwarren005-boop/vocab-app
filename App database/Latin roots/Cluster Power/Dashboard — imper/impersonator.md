@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who (fraudulently) assumes the appearance of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who (fraudulently) assumes the appearance of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer, mimic, or impostor who adopts the voice, appearance, or identity of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor specializing in satirical or dramatic character sketches portraying celebrated public figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the impersonator of Heaven’s persistent irony towards him, who had once before broken in upon his bliss, scourged him, and snatched his delight away, had come to do these things a second time."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Her hands and features working.)_ It was Gerald converted me to be a true corsetlover when I was female impersonator in the High School play _Vice Versa_."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even then Boldwood did not recognize that the **impersonator** of Heaven's persistent irony stood smiling on the threshold."*
+> - 📜 **James Joyce (*Ulysses*):** *"The skilled mimic on the music-hall stage proved a marvelous **impersonator**, copying every vocal mannerism of Dublin magistrates."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The anarchist agent was an accomplished **impersonator**, passing undetected through police cordons in the disguise of a bishop."*

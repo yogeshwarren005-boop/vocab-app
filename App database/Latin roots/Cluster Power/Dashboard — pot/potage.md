@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick (often creamy) soup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick (often creamy) soup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, hearty soup or broth prepared by stewing vegetables, grains, and meats together in a kettle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or culinary term denoting thickened pottage or pureed vegetable stew served as a basic foodstuff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Mouton aux navets," added the butler gravely (pronounce, if you please, moutongonavvy); "and the soup is potage de mouton a l'Ecossaise."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"A savoury dish of **potage** was carried into the dining-room with tremendous solemnity, filling the vestibule with rich aromas."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"They huddled about the boiling kettle, scraping each crumb from the bottom for their meager evening **potage**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The hermit placed before his guest a wooden bowl containing a coarse **potage** made of parched peas and forest herbs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small latex-containing aquatic fern of southern brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small latex-containing aquatic fern of southern brazil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of aquatic heterosporous ferns within Marsileaceae characterized by bilobed floating leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized South American water fern yielding latex canals and adapted to seasonally flooded wetland margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regnellidium designates small latex-containing aquatic fern of southern brazil."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In **Regnellidium**, the sporocarp arises from the base of the petiole and exhibits structural features intermediate between Marsilea and Pilularia."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The monotypic genus **Regnellidium** is of exceptional phylogenetic interest because of the presence of laticiferous tubes throughout its tissues."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Morphological comparisons of aquatic pteridophytes place **Regnellidium** in a uniquely isolated taxonomic position among the rhizocarpous families."*

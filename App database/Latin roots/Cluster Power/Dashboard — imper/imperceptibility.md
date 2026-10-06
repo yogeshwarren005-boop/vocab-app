@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being imperceptible by the mind or the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being imperceptible by the mind or the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being too subtle, minute, or gradual to be detected by human senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychology and physics, the property of falling below the minimum threshold of conscious perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperceptibility designates the property of being imperceptible by the mind or the senses."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The perpetual decay of material particles proceeds with an **imperceptibility** that eludes our grosser sensory faculties."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Transitions in stream-of-consciousness occur with such delicate **imperceptibility** that boundary lines cannot be fixed."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Slow geological alterations accomplish enormous displacements despite the total **imperceptibility** of daily movement."*

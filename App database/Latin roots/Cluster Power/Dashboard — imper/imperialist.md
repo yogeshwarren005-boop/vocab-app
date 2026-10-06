@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in imperialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to imperialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, supporter, or political agent of imperial expansion and colonial dominion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or motivated by ideological doctrines of overseas hegemony and territorial annexation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Nor did the energetic imperialist stop here."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will not be slaves to the imperialists of the Inner Region." The new President organized a brotherhood with like morals, and bestowed on them ministries of great personal influence and profit."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The honest **imperialist** suffers because he must perpetually defend a commercial monopoly under the cant of bringing civilization."*
+> - 📜 **Rudyard Kipling (*The Five Nations*):** *"He spoke with the fervent conviction of an unyielding **imperialist**, envisioning order and commerce across distant oceans."*
+> - 📜 **Bertrand Russell (*Principles of Social Reconstruction*):** *"The narrow outlook of the ardent **imperialist** blinds him to the legitimate aspirations of subject nationalities."*

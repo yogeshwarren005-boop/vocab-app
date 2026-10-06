@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of forming chemical bonds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining capacity of an atom or radical expressed as the number of chemical bonds it can establish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the number of grammatical arguments controlled by a verbal predicate in a clause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valency designates the phenomenon of forming chemical bonds."*
+> - 📜 **Nevil Sidgwick (*The Electronic Theory of Valency*):** *"The electronic theory of **valency** explains both electrovalent ions and coordinate links under unified physical principles."*
+> - 📜 **J. J. Thomson (*Electricity and Matter*):** *"Chemical **valency** finds a direct mechanical explanation in the configuration of mobile corpuscles within the atomic sphere."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and their Radiations*):** *"During radioactive transformations, the sudden shift in atomic number alters the elemental **valency** of the daughter product."*

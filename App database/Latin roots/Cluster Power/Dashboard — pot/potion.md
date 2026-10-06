@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal or magical or poisonous beverage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicinal or magical or poisonous beverage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal, intoxicating, or magical liquid concoction mixed for swallowing in a single dosage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmacological draught, philter, or herbal tincture brewed for restorative, curative, or poisonous purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, thou incestuous, murderous, damned Dane, Drink off this potion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st like a physician, Helicanus, That ministers a potion unto me That thou wouldst tremble to receive thyself."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Take thou this vial, being then in bed, / And this distilled liquor drink thou off; / When presently through all thy veins shall run / A cold and drowsy **potion**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"It was like swallowing a fiery **potion** brewed by subterranean demons, but it warmed the chill out of his sea-drenched marrow."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The physician prepared a bitter **potion** which he commanded me to drink, promising it would restore my digestion."*

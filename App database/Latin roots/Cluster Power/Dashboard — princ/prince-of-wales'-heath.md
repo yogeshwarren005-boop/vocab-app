@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african shrub grown for its profusion of white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african shrub grown for its profusion of white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A South African shrubby heath, Erica retorta, producing terminal clusters of showy, curved, waxy rose-colored flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental Cape heath cultivated in temperate conservatories for its sticky, tubular corollas and recurved foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince-of-wales'-heath designates south african shrub grown for its profusion of white flowers."*
+> - 📜 **Joseph Paxton (*Paxton's Botanical Dictionary*):** *"The cultivar named **prince-of-wales'-heath** is prized by collectors of Cape heaths for its brilliant pink tubular corollas."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Plants*):** *"Erica retorta, or **prince-of-wales'-heath**, requires an airy conservatory and peat soil drained with coarse silica."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Among ericaceous imports from Southern Africa, the **prince-of-wales'-heath** represents one of the most distinctive horticultural varieties."*

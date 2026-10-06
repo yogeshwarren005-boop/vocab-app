@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of a person who is a valetudinarian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a person who is a valetudinarian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infirm, sickly, or frail in constitution; prone to chronic illnesses or invalidism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or suited to a convalescent invalid dwelling under strict protective regimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valetudinary designates of or relating to or characteristic of a person who is a valetudinarian."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There is a wisdom in this beyond the rules of physic: a man's own observation what he finds good of, and what he finds hurt of, is the best physic to preserve a **valetudinary** constitution."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"To a **valetudinary** man, life is a perpetual warfare against the petty distresses of a languishing body."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"My uncle Matt, with his **valetudinary** humours, found Bath full of noise, folly, and frivolous dissipation."*

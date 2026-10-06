@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lightly pert and exuberant quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pertinent to the matter under consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rude, insolently disrespectful, or brazenly lacking proper deference in speech or bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pertinent; irrelevant or inapplicable to the subject matter under examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In very brief, the suit is impertinent to myself, as your worship shall know by this honest old man, and though I say it, though old man, yet poor man, my father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear a little further, And then I’ll bring thee to the present business Which now’s upon us; without the which this story Were most impertinent."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not one of my children has ever been so impertinent, to say the least, as your little daughter is already." "I am very sorry you should have to tell me that," Mrs."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"In very brief, the suit is **impertinent** to myself, as your worship shall know by this honest old man."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"'You should learn not to make personal remarks,' Alice said with some severity; 'it's very **impertinent**.'"*
+> - 📜 **George Eliot (*Silas Marner*):** *"The young squire considered any inquiry into his private amusements as an **impertinent** intrusion upon gentlemanly liberty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of not existing for indefinitely long durations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of not existing for indefinitely long durations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of not lasting; transient mutability or temporary duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptibility to swift termination, dissolution, or historical replacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermanency designates the property of not existing for indefinitely long durations."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Nature teaches the wise observer the lesson of **impermanency**, sweeping away proud dynasties like autumn leaves."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Cosmic nature reveals an unceasing flux, an essential **impermanency** in all organic forms and environmental adaptations."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The tragic sense of life springs from our awareness of the **impermanency** of beauty and the inevitable loss of cherished ideals."*

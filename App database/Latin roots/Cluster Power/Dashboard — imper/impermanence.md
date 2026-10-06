@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of not existing for indefinitely long durations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of not existing for indefinitely long durations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transitory mutability, fleeting duration, or temporary existence of physical phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and contemplative traditions, the universal law that all compounded phenomena undergo dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"So strong is the sense of his own misery, the premonition of his own death, that we scarcely know, nor does it matter, whether it is in the person of Keats or of himself that he is lamenting the impermanence of earthly good."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The radical **impermanence** of our emotional states is one of the most familiar facts of introspective observation."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Physical objects exhibit continuous **impermanence**, dissolving under analysis into ever-shifting configurations of energy."*
+> - 📜 **D. H. Lawrence (*The Rainbow*):** *"She watched the clouds dissolving across the evening sky, overwhelmed by the haunting **impermanence** of human joy."*

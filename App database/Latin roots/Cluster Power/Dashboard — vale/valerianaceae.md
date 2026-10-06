@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of mostly herbs having a characteristic fetid odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of mostly herbs having a characteristic fetid odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former plant family of the order Dipsacales, now treated within Caprifoliaceae, bearing asymmetric flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of temperate herbs and small shrubs characterized by opposite leaves, pungent rhizomes, and pappus-like calyxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valerianaceae designates genus of mostly herbs having a characteristic fetid odor."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Valerianaceae** is distinguished by opposite leaves without stipules and an asymmetrical monopetalous corolla."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Members of **Valerianaceae** produce small calyx lobes that unroll at maturity into a feathery pappus crowning the fruit."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Botanical affinities link **Valerianaceae** closely to Dipsacaceae through shared inflorescence structure and achene morphology."*

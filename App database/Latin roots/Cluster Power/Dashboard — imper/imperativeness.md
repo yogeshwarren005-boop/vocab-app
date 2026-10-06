@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being insistent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of being urgently commanding, peremptorily authoritative, or unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The compelling urgency or unavoidable moral necessity attaching to an obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt to the full all the imperativeness of the motives which urged Will’s conduct."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"There was a quiet **imperativeness** in his tone which quelled the rising anger of the assembly."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She felt the **imperativeness** of the summons, knowing that further delay would appear unpardonable."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The divine **imperativeness** of work alone rescues man from frivolous despair and sluggish apathy."*

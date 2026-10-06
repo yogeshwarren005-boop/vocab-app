@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by covalence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by covalence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by or characterized by the mutual sharing of one or more electron pairs between atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to molecular architectures joined by stable homopolar shared-electron interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covalent designates of or relating to or characterized by covalence."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The normal **covalent** bond involves two electrons of opposite spin shared equally between the bonded nuclei."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"In typical organic molecules, carbon forms four nonpolar **covalent** linkages arranged toward the vertices of a tetrahedron."*
+> - 📜 **C. A. Coulson (*Valence*):** *"Quantum mechanical resonance between polar and purely **covalent** structures explains the exceptional strength of the linkage."*

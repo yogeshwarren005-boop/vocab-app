@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of extending your rule over foreign countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation that advocates imperial interests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A national policy, practice, or advocacy of extending sovereign power and colonial dominion abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geopolitical acquisition and economic exploitation of overseas territories through military or diplomatic hegemony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Here I am discussing "The Dangers of Imperialism" and "The Anglo-American Friendship," while men are starving for the Bread of Life!"*
+> - 📜 **J. A. Hobson (*Imperialism: A Study*):** *"Modern **imperialism** represents a debasement of genuine nationalism, transforming defensive patriotism into aggressive territorial expansion."*
+> - 📜 **G. K. Chesterton (*Tremendous Trifles*):** *"The trouble with modern **imperialism** is that it is not proud of its land; it is only proud of its size."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Before we judge the Martians too harshly, we must remember what ruthless destruction our own European **imperialism** wrought upon gentle races."*

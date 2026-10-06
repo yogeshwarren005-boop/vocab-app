@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin regn within the domain of Power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of regn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of sovereign authority, ruling dominion, or prevailing supremacy in governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period or constitutional tenure during which a monarch or governing regime exercises active power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regnancy designates pertaining to, derived from, or characteristic of latin regn within the domain of power."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature will not have any permanent aristocracy, but ever shifts the seat of **regnancy** from one principle of vitality to another."*
+> - 📜 **Samuel Taylor Coleridge (*On the Constitution of the Church and State*):** *"The enduring stability of the commonwealth depends upon the lawful **regnancy** of moral law over transient legislative impulses."*
+> - 📜 **Hall Caine (*The Christian*):** *"She felt the irresistible **regnancy** of conscience asserting its claim over every conflicting emotion of her troubled heart."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of two or having two valences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of two or having two valences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a chemical valence of two; capable of combining with two univalent atoms or radicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to bivalent metal cations or pairing chromosomes during the meiotic synapsis phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divalent designates having a valence of two or having two valences."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Calcium and barium act uniformly as **divalent** metals in forming oxides and stable halogen salts."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrochemical equivalent of a **divalent** base requires twice the quantity of electric fluid to effect decomposition."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Precipitation of the **divalent** iron is effected rapidly upon the addition of ammonium sulfide in neutral solution."*

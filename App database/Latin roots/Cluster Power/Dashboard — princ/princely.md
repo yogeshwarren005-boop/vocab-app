@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and superior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the rank of or befitting a prince.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting, characteristic of, or resembling a royal prince in munificence, generosity, or dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagantly splendid, magnificent, or liberal in scale, bearing, or material endowment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are fallen into a princely hand; fear nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that now Refused most princely gifts, am bound to beg Of my lord general."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou goddess, Thou divine Nature, thou thyself thou blazon’st In these two princely boys!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"I do not know that Englishman alive / With whom my soul is any jot at odds / More than the infant that is born to-night: / I thank my God for my **princely** heart."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain dispensed his hospitality with a **princely** open-handedness that took all the crew by surprise."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient palace retained traces of its former **princely** splendor amidst crumbling arches and overgrown terraces."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being resistant to decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being resistant to decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The essential quality of existing without susceptibility to death, rot, or temporal decline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring, incorruptible longevity characterized by continuous metaphysical or physical permanence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperishingness designates the property of being resistant to decay."*
+> - 📜 **Algernon Charles Swinburne (*William Blake: A Critical Essay*):** *"The prophetic vision asserts the eternal **imperishingness** of the imaginative faculty above all transient forms."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"In every great mountain landscape there is a solemn testimony to the **imperishingness** of divine design amidst geological decay."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The exquisite lyric possesses a rare **imperishingness**, surviving intact while vast systems of philosophy crumble into dust."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For the most part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For the most part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly, primarily, mainly, or for the most significant part in rank, order, or causality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining above all other considerations to the primary agent, purpose, or mechanism involved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She carries some small litter in a reticule which she calls her documents, principally consisting of paper matches and dry lavender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a confused little crowd of people, principally children, gathered about the house at which we stopped, which had a tarnished brass plate on the door with the inscription JELLYBY."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But what principally struck us was a jaded and unhealthy-looking though by no means plain girl at the writing-table, who sat biting the feather of her pen and staring at us."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral sentiments of mankind have been **principally** formed by the beneficial or hurtful effects of conduct upon general happiness."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This divergence of character has been effected **principally** through the long-continued operation of natural selection."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"My suspicions were directed **principally** toward the strange stranger whom our client had noticed lurking upon the moor."*

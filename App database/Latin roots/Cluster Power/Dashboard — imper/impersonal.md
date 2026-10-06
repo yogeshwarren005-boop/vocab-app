@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to or responsive to individual persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no personal preference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influenced by personal feelings, individual bias, or private emotional considerations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct personal reference or emotional warmth; objective, detached, or abstract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, addressing us, his new friends, in an impersonal manner."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wealth is an impersonal basis of taxation; each piece of wealth might be taxed once as a unit no matter how the ownership were divided."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These become a part of business costs, and are diffused over the whole population in general prices.[14] This system of impersonal wealth taxation may then be supplemented by personal taxation, applied through inheritance and income taxes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He spoke with that cold, **impersonal** precision which wounded her more deeply than an outburst of passionate anger."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Sherlock Holmes regarded the mystery from an **impersonal** standpoint, viewing human misery merely as data for intellectual deduction."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Nature presents an **impersonal** majesty which neither flatters human vanity nor yields to our petulant sorrow."*

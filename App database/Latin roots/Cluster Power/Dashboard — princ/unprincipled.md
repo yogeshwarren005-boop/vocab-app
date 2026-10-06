@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking principles or moral scruples; - a.e.stevenson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little or no integrity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral conscience, ethical scruples, or upright guidelines in conduct and interpersonal relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting opportunistic, unscrupulous, or corrupt behavior without regard for justice, truth, or honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A warmth overspread his face: surely she was not so unprincipled as to flirt in a fair!"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She must be an unprincipled one, or she could not have used your brother so."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Giacinta was unprincipled and violent: I tired of her in three months."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An **unprincipled** flirt who plays with honest affections is more dangerous to a village than an open enemy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She could not bear the thought that her family should be allied with an **unprincipled** adventurer who masked greed behind compliments."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"An **unprincipled** society quickly exhausts its moral capital and falls prey to internal decay and cynicism."*

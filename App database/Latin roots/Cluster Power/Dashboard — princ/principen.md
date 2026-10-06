@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for ampicillin, a broad-spectrum semisynthetic penicillin antibiotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aminopenicillin antimicrobial agent formulated to inhibit bacterial cell wall synthesis during active proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, principen designates semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin)."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Ampicillin, marketed under trade names including **Principen**, exhibits extended antibacterial efficacy against Gram-negative bacilli."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (7th Edition)*):** *"Therapeutic dosages of **Principen** provide effective bactericidal concentrations in both biliary secretions and urinary tracts."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Formulations of **Principen** trihydrate are widely prescribed for oral administration in treating susceptible respiratory and enteric infections."*

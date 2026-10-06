@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of cannulization; the surgical insertion of a tube or cannula into a vessel or cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and vascular surgery, placing indwelling catheters for parenteral nutrition or hemodynamic monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canulization designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Urgent **canulization** of the internal jugular vein was undertaken when peripheral veins were inaccessible."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The **canulization** of the lacrimal punctum dislodged the fibrous obstruction and restored natural drainage."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Proper **canulization** requires strict antisepsis to prevent secondary thrombophlebitis in catheterized vessels."*

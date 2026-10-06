@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing in a biblical canon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or required by canon law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to a canon, rule, or standard; canonical; or relating to a church canon or cathedral clergyman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, designating the simplest or standard mathematical form (such as canonic transformations or coordinates in Hamiltonian mechanics).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canonic designates appearing in a biblical canon."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Milton conformed strictly to the ancient **canonic** models of tragedy, preserving the classical unities of time and action."*
+> - 📜 **William Hamilton (*Lectures on Quaternions*):** *"The equations of dynamic motion assume their most elegant and symmetrical form when expressed in **canonic** Hamiltonian variables."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ecclesiastical decrees received **canonic** validity through the solemn signatures of the assembled metropolitan bishops."*

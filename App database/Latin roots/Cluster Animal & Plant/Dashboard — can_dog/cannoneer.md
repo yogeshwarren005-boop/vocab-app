@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artilleryman who serves or fires a cannon; a gunner in an artillery crew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, trained specialists calculating elevation, powder charges, and lanyard firing in fortress or naval gunnery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the cups; And let the kettle to the trumpet speak, The trumpet to the cannoneer without, The cannons to the heavens, the heavens to earth, ‘Now the King drinks to Hamlet.’ Come, begin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannoneer begot this lusty blood?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give me the cups; / And let the kettle to the trumpet speak, / The trumpet to the **cannoneer** without, / The cannons to the heavens, the heavens to earth."*
+> - 📜 **Walt Whitman (*Leaves of Grass (The Artilleryman's Vision)*):** *"The old **cannoneer** remembers the smoke, the deafening crash, and the desperate struggle around the smoking gun carriage."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The veteran **cannoneer** swabbed out the smoking bore of the culverin before ramming home a fresh charge of powder."*

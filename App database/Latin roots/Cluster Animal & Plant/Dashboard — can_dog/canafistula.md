@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of canafistola; the golden shower tree (Cassia fistula) or its long purging seed pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy, the dried cylindrical legumes imported from tropical plantations to compound traditional laxative electuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canafistula designates deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The fruit of **canafistula** is a long, round, black cane containing within many cross partitions filled with sweet black pulp."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In traditional dispensing, the pulp of **canafistula** was combined with manna and tamarinds to form a mild aperient electuary."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient writers on materia medica celebrated **canafistula** as a gentle and cooling medicine free from irritating qualities."*

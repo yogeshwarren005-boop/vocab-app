@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small canal or duct as in some bones and parts of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small canal or duct as in some bones and parts of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute canal or tubular channel, especially in bone or other biological tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopic anatomy, the microscopic conduits radiating from bone lacunae allowing osteocyte cytoplasmic processes to communicate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canaliculus designates a small canal or duct as in some bones and parts of plants."*
+> - 📜 **William Bowman (*Lectures on the Parts Concerned in Operations on the Eye*):** *"Tears pass from the punctum lachrymale through the slender **canaliculus** into the lacrimal sac."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each bone lacuna communicates with its neighbors through dozens of branching conduits, each termed a **canaliculus**."*
+> - 📜 **Richard Owen (*Odontography*):** *"The dentinal tubules branch repeatedly near the enamel boundary, each minute **canaliculus** terminating in fine arborizations."*

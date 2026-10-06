@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of malayan tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of malayan tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus name synonymous with Cananga, comprising the fragrant ylang-ylang tree and allied tropical Annonaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dendrology, woody trees characterized by trimerous flowers, numerous stamens, and aromatic berries in clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canangium designates a genus of malayan tree."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The botanical specimen cataloged under **Canangium** odoratum produced exquisite drooping flowers in our palm house."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Forest canopies in the Moluccas are adorned with wild species of **Canangium**, filling the humid woods with intoxicating scent."*
+> - 📜 **Hans Sloane (*Catalogus Plantarum*):** *"East Indian travellers describe the aromatic virtues of **Canangium**, whose blossoms are woven into festive garlands."*

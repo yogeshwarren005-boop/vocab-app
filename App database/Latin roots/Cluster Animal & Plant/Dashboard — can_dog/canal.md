@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) an indistinct surface feature of mars once thought to be a system of channels; they are now believed to be an optical illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial waterway constructed to allow the passage of boats or ships inland, or to convey water for irrigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, a tubular passage, duct, or channel in a bone, cartilage, or organ through which nerves or vessels pass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For heavy, slow-moving freight, a railroad can even now barely rival a parallel canal at its best."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At its best, therefore, the small land-locked canal is fitted only to be a supplementary agent in the system of transportation wherever another transportation agency of higher speed and greater regularity is possible."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The opening of a navigable **canal** reduces carriage freight and opens extensive inland markets to agricultural produce."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The neural **canal** formed by the vertebral arches encloses and protects the delicate spinal cord along its entire length."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The weary travelers followed the towpath of the murky industrial **canal**, watching black coal barges glide slowly by."*

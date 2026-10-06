@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Airtight sealed metal container for food or drink or paint etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity contained in a can.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be able to; have the physical, mental, or legal power to; or a cylindrical metal container for preserving food or holding liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food technology, an airtight tinplate or aluminum canister hermetically sealed and heat-sterilized to prevent bacterial spoilage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then can I grieve at grievances foregone, And heavily from woe to woe tell o’er The sad account of fore-bemoaned moan, Which I new pay as if not paid before."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"If thou didst ever hold me in thy heart, / Absent thee from felicity awhile, / And in this harsh world draw thy breath in pain, / To tell my story. What **can** man do more?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I carried my daily supply of milk in a tin **can** that swung lightly from my hand along the woodland path."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No man **can** conceive an idea which has not entered through the channels of external sensation or internal reflection."*

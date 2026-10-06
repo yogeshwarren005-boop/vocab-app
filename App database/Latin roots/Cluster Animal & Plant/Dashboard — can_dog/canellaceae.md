@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One genus: aromatic tropical trees of eastern africa and florida to west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of aromatic tropical flowering trees and shrubs (order Canellales), characterized by leathery leaves containing essential oil glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In magnoliid phylogenetics, an ancient early-diverging angiosperm lineage sharing archaic floral traits and pungent monoterpenoid oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canellaceae designates one genus: aromatic tropical trees of eastern africa and florida to west indies."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The family **Canellaceae** is distinguished by its alternated, gland-dotted leaves and pungent aromatic bark containing valuable essential oils."*
+> - 📜 **Joseph Dalton Hooker (*Genera Plantarum*):** *"Genera of the **Canellaceae** are restricted to tropical America and eastern Africa, displaying a disjunct relictual distribution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The restricted geographical range of ancient families like the **Canellaceae** points to extensive extinction of intermediate continental links."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With foresight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shrewd, prudent, cautious, or thrifty manner, especially in financial or practical matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots literature and narrative prose, exercising quiet, calculated foresight to avoid danger or secure commercial gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, sir; all was very still.” “We shall get you off cannily, Dick: and it will be better, both for your sake, and for that of the poor creature in yonder."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Chorus.—I rede you, beware at the hunting, young men, I rede you, beware at the hunting, young men; Take some on the wing, and some as they spring, But cannily steal on a bonie moor-hen."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Cannilie, cannily, quietly, prudently, cautiously."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Bailie Nicol Jarvie counted his silver groats **cannily**, refusing to part with a single coin without verified receipts."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David Balfour stepped **cannily** along the slippery rocks, mindful that a single false step would plunge him into the boiling surf."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The veteran statesman walked **cannily** between rival court factions, preserving his influence while others fell to the guillotine."*

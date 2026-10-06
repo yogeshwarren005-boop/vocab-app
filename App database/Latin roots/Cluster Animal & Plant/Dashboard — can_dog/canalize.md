@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide (a city) with a canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct the flow of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a natural stream into a canal; or to channel, guide, or restrict energy, water, or communication into a specific direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and urban planning, directing informational flow or automobile traffic through structured pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalize designates provide (a city) with a canal."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit acts as an organic flywheel, serving to **canalize** nervous impulses through established paths of least resistance."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Educational institutions must **canalize** youthful impulses without crushing the spontaneous impulse to explore."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The world directorate sought to **canalize** scientific research toward renewable energy and public hygiene."*

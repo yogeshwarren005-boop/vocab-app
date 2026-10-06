@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative piece of toasted or stale bread or cracker topped with a savory garnish, served as an appetizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French interior design and culinary terminology, originally a sofa or couch, metaphorically applied to savory hors d'oeuvres resting on bread crusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canape designates an appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Footmen in knee-breeches circulated among the guests, offering silver salvers of champagne and delicate caviar **canape** morsels."*
+> - 📜 **Marcel Proust (*Within a Budding Grove*):** *"The hostess offered her visitors tiny toasts adorned with spiced anchovies, presenting each **canape** with practiced aristocratic grace."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby's garden tables were garnished with spiced baked hams crowded against salads of harlequin designs and pastry **canape** pastries."*

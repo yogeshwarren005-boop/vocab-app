@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bad mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bad mood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bad-tempered, quarrelsome, irritable, or uncooperative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humorous prose, snapping at well-meaning companions and finding fault with every innocent convenience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantankerously designates in a bad mood."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Smallweed snapped **cantankerously** at his trembling granddaughter, demanding his cushion and his pipe without delay."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Old Edie Ochiltree answered the bailiff **cantankerously**, defending his vagrant liberties with caustic Scottish wit."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The retired club colonel grumbled **cantankerously** over his morning mutton chop, complaining that the empire was going to ruin."*

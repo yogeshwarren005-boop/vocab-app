@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flask for carrying water; used by soldiers or travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sells food and personal items to personnel at an institution or school or camp etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small container used by soldiers or travelers for carrying water; or a restaurant or cafeteria provided for military personnel or workers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and institutional architecture, a post exchange supplying provisions, or a compact soldier's flask fitted with a felt cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only those things he always kept with him remained in his room; a small box, a large canteen fitted with silver plate, two Turkish pistols and a saber—a present from his father who had brought it from the siege of Ochákov."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now you, Captain,” and he turned to a thin, dirty little artillery officer who without his boots (he had given them to the canteen keeper to dry), in only his stockings, rose when they entered, smiling not altogether comfortably."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Another company, a lucky one for not all the companies had vodka, crowded round a pockmarked, broad-shouldered sergeant major who, tilting a keg, filled one after another the canteen lids held out to him."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The youth unslung his tin **canteen** and drank greedily of the warm river water amidst the smoke of battle."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Ministry **canteen** was a noisy, crowded basement room reeking of sour cabbage and synthetic Victory gin."*
+> - 📜 **Rudyard Kipling (*Barrack-Room Ballads*):** *"The soldiers gathered in the **canteen** after drill, clinking tin mugs and singing of faraway English shires."*

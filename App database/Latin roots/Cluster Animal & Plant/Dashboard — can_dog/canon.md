@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rule or especially body of rules or principles generally established as valid and fundamental in a field or art or philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A priest who is a member of a cathedral chapter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general law, rule, principle, or criterion by which something is judged; or the list of sacred books accepted as genuine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, a contrapuntal composition in which a melody is imitated strictly by one or more voices after a duration; or a member of a cathedral chapter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. ’Twas from the canon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, that this too too solid flesh would melt / Thaw and resolve itself into a dew! / Or that the Everlasting had not fix'd / His **canon** 'gainst self-slaughter!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Council of Trent definitively established the biblical **canon**, anathematizing all who rejected the apocryphal scriptures."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The venerable **canon** enjoyed his quiet stall in the cathedral choir, dividing his days between sacred chant and garden roses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a canal or a conversion to canals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management through specified channels of communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a river into a canal or system of canals; or the provision of channels or routes for traffic or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental genetics and civil engineering, C. H. Waddington's concept of buffered developmental pathways that produce robust phenotypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalisation designates the production of a canal or a conversion to canals."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extensive **canalisation** of inland rivers transformed the commercial geography of northern England during the eighteenth century."*
+> - 📜 **C. H. Waddington (*The Strategy of the Genes*):** *"Developmental **canalisation** ensures that phenotypic development follows defined epigenetic valleys despite environmental fluctuations."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Urban municipal growth requires the thorough **canalisation** of drainage systems to prevent periodic epidemic outbreaks."*

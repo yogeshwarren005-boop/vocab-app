@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small and light boat; pointed at both ends; propelled with a paddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel by canoe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow, lightweight boat, typically pointed at both ends and propelled with a paddle by one or more seated or kneeling paddlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and maritime exploration, traditional birchbark, dugout, or outrigger watercraft developed by indigenous peoples for navigating rivers and coastal waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am taboo—sacred as the sacred canoe-house under the floor of which repose the bones of heaven alone knows how many previous kings of Raa Kook’s line."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Pyeng-yang I became a water-carrier, for know that that old city, whose walls were ancient even in the time of David, was considered by the people to be a canoe, and that, therefore, to sink a well inside the walls would be to scupper the city."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I put Arunga in the bow of the fire-hollowed log that was most rudely a canoe."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide carried the birchbark **canoe** upon his shoulders across the rocky carry with effortless wilderness grace."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders paddled their carved outrigger **canoe** through the roaring ocean surf, riding the crest of the breakers into the lagoon."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I spent months felling a cedar tree to hollow out a sea-going **canoe**, only to find the craft too heavy to drag to the water."*

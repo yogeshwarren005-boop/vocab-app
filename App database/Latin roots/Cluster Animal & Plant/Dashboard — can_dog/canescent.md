@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of greyish white.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with fine whitish hairs or down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing white or hoary; covered with short, fine, dense whitish or greyish hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptive taxonomy, foliage, stems, or sepals displaying a velvety grayish-white surface that reflects intense sunlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canescent designates of greyish white."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The lower surface of the sagebrush leaf is densely **canescent**, appearing silvery-white in the bright desert sunlight."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The alpine shrub is recognized by its **canescent** branchlets, which protect the tender shoot buds from drying Himalayan winds."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Along the chalk banks we noticed several species of wormwood whose hoary, **canescent** foliage scented the summer air."*

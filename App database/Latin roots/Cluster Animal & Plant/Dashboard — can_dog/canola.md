@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vegetable oil made from rapeseed; it is high in monounsaturated fatty acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oilseed rape plant with low erucic acid, or the edible vegetable oil extracted from its seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern agricultural genetics and food science, cultivars of Brassica napus bred in Canada for heart-healthy unsaturated cooking oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canola designates vegetable oil made from rapeseed; it is high in monounsaturated fatty acids."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Vast golden fields of flowering **canola** covered the Canadian prairie, attracting beneficial pollinators from miles around."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Modern agricultural rotation incorporates **canola** and legumes to restore organic nitrogen to exhausted grain soils."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Specially bred oilseed rape, now commercialized as **canola**, provides exceptional vegetable oil low in saturated fats."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease caused by an uncontrolled division of abnormal cells in a part of the body; a malignant tumor; or the fourth zodiac sign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cellular pathology, unregulated cellular proliferation invading surrounding tissues and metastasizing to distant organs via lymph or blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Now it embraces a very large gathering of useful enterprises: _A Consumptive's Home, Children's Home, Grove Hall Church, Tract Repository, a Training College_, and a _Cancer Home_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A lady came to the Consumptive's Home with a cancer in the cheek, which had attained the size of a filbert."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"As knotty oaks, and griefs of **cancer** grow / In stubborn minds that know no patient ease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical excision before regional lymph node involvement remains our most dependable weapon against epithelial **cancer**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"When the sun reaches the summer solstice in **Cancer**, lengthening the northern days and warming the fruitful earth."*

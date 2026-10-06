@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sage of eastern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sage of eastern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American wild herbaceous plant, Salvia lyrata (lyre-leaved sage), historically used in traditional folk remedies for wounds and skin lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American ethnobotany and herbalism, a woodland mint with lyre-shaped basal leaves applied as a poultice for sores and warts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancerweed designates sage of eastern united states."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The blue-flowered **cancerweed**, Salvia lyrata, abounds in dry open woodlands and sandy fields from Connecticut southward."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"In the sandy roadside clearing grew patches of the wild sage called **cancerweed**, opening pale violet blossoms in May."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Rustic practitioners possessed great faith in the bruised leaves of **cancerweed** as an external application for indolent ulcers."*

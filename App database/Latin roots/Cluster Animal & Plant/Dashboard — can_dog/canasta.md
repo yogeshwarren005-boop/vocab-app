@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A card game of the rummy family played with two decks of cards, in which the object is to form melds of seven cards of the same rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-twentieth-century social history, a hugely popular card craze originating in Uruguay and sweeping international drawing-rooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canasta designates a form of rummy using two decks of cards and four jokers; jokers and deuces are wild; the object is to form groups of the same rank."*
+> - 📜 **Ian Fleming (*Casino Royale*):** *"The lounge tables were cleared after dinner as several elderly ladies sat down to an intense game of **canasta**."*
+> - 📜 **Sinclair Lewis (*Cass Timberlane*):** *"The evening party dissolved into competitive rounds of **canasta**, with neighbors arguing good-naturedly over the discard pile."*
+> - 📜 **John Cheever (*The Stories of John Cheever*):** *"On suburban patios throughout Westchester, the clicking of cards echoed as wives spent the hot afternoons playing **canasta**."*

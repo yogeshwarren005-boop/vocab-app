@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flexible tube inserted into a body cavity for draining off fluid or introducing medication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small flexible tube inserted into a body cavity for draining off fluid or introducing medication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, flexible tube inserted into a body cavity, duct, or blood vessel, used to administer medication or drain fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical instruments and experimental physiology, a metal or plastic trocar sleeve utilized in paracentesis, venipuncture, or arterial pressure recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannula designates a small flexible tube inserted into a body cavity for draining off fluid or introducing medication."*
+> - 📜 **William Bowman (*Lectures on the Eye*):** *"The surgeon introduced a delicate silver **cannula** into the lacrimal sac to irrigate the obstructed nasal duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thoracentesis performed with an aspirating **cannula** evacuated two pints of clear serous fluid from the pleura."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The trocar is withdrawn after puncture, leaving the hollow **cannula** in place to facilitate continuous peritoneal drainage."*

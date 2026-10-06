@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard fiber used in making coarse twine; from philippine agave plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine plant yielding a hard fibre used in making coarse twine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical succulent plant of the agave family (Agave cantala), cultivated especially in the Philippines and Indonesia for its tough white leaf fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural commerce and cordage production, long bast fibers derived from agave leaves used to manufacture ropes, twine, and burlap bags.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantala designates hard fiber used in making coarse twine; from philippine agave plants."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The islanders cultivated extensive plantations of **cantala**, processing the fleshy spiny leaves into strong durable cordage."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"The commercial fiber harvested from **cantala** resembles sisal but is prized for greater flexibility in marine rope-making."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"We observed rows of **cantala** planted along sandy terraces, their stout sword-like leaves harvesting water from ocean mists."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a canton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a canton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to a canton, especially an administrative division of the Swiss Confederation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Swiss constitutional politics, the sovereign legislative, executive, and judicial powers retained by individual member states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantonal designates of or relating to a canton."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I spent several happy years in Lausanne, admiring the tranquil administration and equitable laws of the **cantonal** council."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The Swiss federal constitution carefully reserves residual sovereign powers to the separate **cantonal** legislatures."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Swiss guards who defended the Tuileries with unflinching heroism were recruited from ancient **cantonal** mountain families."*

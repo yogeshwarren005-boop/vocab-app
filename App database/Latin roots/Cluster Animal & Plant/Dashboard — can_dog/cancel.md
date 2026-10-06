@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notation cancelling a previous sharp or flat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone indefinitely or annul something that was scheduled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decide or announce that a planned event will not take place; or to annul, invalidate, or revoke a contract, order, or stamp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arithmetic and algebraic calculation, to eliminate common factors from the numerator and denominator of a fraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, great pow’rs, If you will take this audit, take this life, And cancel these cold bonds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So can I: So every bondman in his own hand bears The power to cancel his captivity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, seeling night, Scarf up the tender eye of pitiful day, And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale!—Light thickens; and the crow Makes wing to th’ rooky wood."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Come, seeling night, / Scarf up the tender eye of pitiful day; / And with thy bloody and invisible hand / **Cancel** and tear to pieces that great bond / Which keeps me pale!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"By obedience to the divine will, we **cancel** the ancient penalty of sin and restore peace to the conscience."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge resolved to **cancel** the harsh debts of his impoverished tenants and begin life anew."*

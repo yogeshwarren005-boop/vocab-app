@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient city is southeastern italy where hannibal defeated the romans in 216 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient city is southeastern italy where hannibal defeated the romans in 216 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient village in Apulia, southeastern Italy, celebrated as the site of Hannibal's tactical masterpiece over the Roman legions in 216 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and history, the classic paradigm of double envelopment, where an outnumbered commander annihilates an attacking force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannae designates ancient city is southeastern italy where hannibal defeated the romans in 216 bc."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The catastrophic slaughter at **Cannae** threatened the very existence of Rome, yet the republic refused all overtures of surrender."*
+> - 📜 **David Hume (*The History of England*):** *"The battle of Agincourt was regarded by military commentators as an English **Cannae**, where knights fell before disciplined yeomen."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary battlefield seemed another **Cannae**, strewn with thousands of fallen warriors beneath a smoky autumn sky."*

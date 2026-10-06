@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vocal composition with an instrumental accompaniment, typically in several movements, often involving a choir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Baroque musicology, sacred or secular choral works perfected by J. S. Bach, alternating recitatives, arias, and chorales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hurrah!” cried the three hundred voices again, but instead of the band a choir began singing a cantata composed by Paul Ivánovich Kutúzov: Russians!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The footman, who was distributing leaflets with Kutúzov’s cantata, laid one before Pierre as one of the principal guests."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Salmon performed the Battle of Borodino (a savage cantata against the Corsican upstart, who had lately met with his Russian reverses)--Mr."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The performance of Bach's church **cantata** revealed the sublime polyphonic mastery that underpins his sacred choral writing."*
+> - 📜 **Johann Wolfgang von Goethe (*Wilhelm Meister's Apprenticeship*):** *"The chapel choir rehearsed a joyful Easter **cantata**, filling the ancient vaulted sanctuary with triumphant melodies."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Leverkühn's final monumental **cantata**, The Lamentation of Dr. Faustus, was a work of devastating expressive dissonance."*

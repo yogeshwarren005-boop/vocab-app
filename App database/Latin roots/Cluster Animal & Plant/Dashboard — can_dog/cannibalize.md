@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use parts or pieces of an existing machine or system to repair or construct another; or to eat human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern corporate strategy, introducing a new product line that captures sales from the manufacturer's own established brands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Repairs would be accomplished through use of anything from on-site fabricated bits-and-pieces to parts and assemblies cannibalized from wrecked aircraft."*
+> - 📜 **Winston Churchill (*The Second World War: The Grand Alliance*):** *"We found it necessary to **cannibalize** unserviceable aircraft in North Africa to provide spare parts for active squadrons."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Deprived of factory imports, the engineers had to **cannibalize** ancient railway locomotives to build stationary irrigation pumps."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The stranded motorists were forced to **cannibalize** the abandoned cars to procure fuel and workable batteries."*

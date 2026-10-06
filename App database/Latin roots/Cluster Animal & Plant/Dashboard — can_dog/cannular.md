@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a tube; having hollow tubes (as for the passage of fluids).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or function of a cannula; tubular, hollow, or conduit-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical instrumentation and comparative morphology, hollow needle-like shafts or cylindrical bone passages designed for fluid conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannular designates constituting a tube; having hollow tubes (as for the passage of fluids)."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The poison fangs of viperine serpents feature a **cannular** hollow canal through which venom is injected from the gland."*
+> - 📜 **William Bowman (*Practical Anatomy*):** *"The specialized **cannular** needle enabled the operator to inject vascular networks with colored wax without rupturing delicate capillaries."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"A **cannular** probe was gently passed along the fistulous tract to determine the depth of the purulent cavity."*

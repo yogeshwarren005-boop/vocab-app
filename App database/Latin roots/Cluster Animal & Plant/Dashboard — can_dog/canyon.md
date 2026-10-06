@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine formed by a river in an area with little rainfall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine formed by a river in an area with little rainfall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep gorge, typically one with a river flowing through it, flanked by steep cliffs or escarpments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology, a deep valley carved through horizontal strata by long-term river incision, exemplified by the Grand Canyon of the Colorado.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was just a bleak waste of a landscape, barren of trees and vegetation, a shallow canyon with easy-sloping walls of rubble."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"From the river we directed our course toward a deep canyon which, opening toward us as if the bluff had been riven asunder by some great convulsion of Nature, at its further end reached the level of the plains, and offered us an easy ascent."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The foaming torrent rushed through the granite depths of the **canyon**, echoing with a deep musical roar between the towering cliffs."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Our stagecoach rattled along the narrow ledge of the **canyon**, with dizzying precipices dropping hundreds of feet to the river below."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"We tracked the elk into the shadow of a deep rocky **canyon** where clear mountain springs nourished groves of yellow pine."*

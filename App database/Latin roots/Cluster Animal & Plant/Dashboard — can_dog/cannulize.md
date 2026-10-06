@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce a cannula or tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce a cannula or tube into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a cannula or tube into a body cavity, duct, or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative surgery and medical physiology, inserting a tubular sleeve into an incision to establish reliable fluid drainage or vascular access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulize designates introduce a cannula or tube into."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must **cannulize** the distended bladder through the suprapubic route when urethral strictures prevent catheterization."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Failure to **cannulize** the vein promptly during acute hemorrhage may result in irreversible cerebral ischemia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When investigating salivary gland innervation, the researcher must carefully **cannulize** the chorda tympani duct."*

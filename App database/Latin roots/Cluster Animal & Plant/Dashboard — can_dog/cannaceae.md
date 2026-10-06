@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus canna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus canna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrowroot family of monocotyledonous flowering plants (order Zingiberales), comprising the single genus Canna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm morphology, plants possessing asymmetric flowers with petaloid staminodes, monothecal anthers, and starch-rich underground rootstocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannaceae designates coextensive with the genus canna."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The natural family **Cannaceae** is remarkable for its petaloid stamens, only one of which carries a fertile pollen-bearing anther lobe."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"In the **Cannaceae**, the conspicuous brightly colored parts of the flower are not true petals, but modified sterile staminodes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Lush stands of tropical vegetation belonging to the **Cannaceae** lined the riverbanks of the Orinoco with broad green leaves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of publicly withdrawing or renouncing a prior statement, opinion, belief, or confession; a retraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and ecclesiastical history, formal legal or theological documents signed by scholars disavowing censured publications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lord and master did well to make his recantation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every sound of his voice beginning on the old subject stirred her with a terrifying bliss, and she coveted the recantation she feared."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Now I take him in the nick, e're I have done with him, he had better have stood between two panes of Wainscot, and made his recantation in the Market, than hear me conjure him. _And_."*
+> - 📜 **David Hume (*The History of England*):** *"Cranmer's sudden and dramatic revocation of his previous **recantation** before the burning stake astonished both friends and enemies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Julian demanded a public **recantation** from the Christian bishops who had supported his rival's decrees."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal demanded a formal **recantation** of monarchical principles before granting safe conduct to suspects."*

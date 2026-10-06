@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory where food is canned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory where food is canned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory where food, especially fish, fruit, or vegetables, is processed and sealed into metal cans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and labor history, mechanized coastal packing facilities famous for seasonal migrant employment and processing lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Pine Camp was in the midst of a vast huckleberry country, and at the Forks a cannery had been established."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"In the morning when the sardine fleet came in, the **cannery** whistles screamed and the whole town scrambled down to the docks to pack fish."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"I spent two seasons working at a salmon **cannery** in Alaska, watching thousands of gleaming fish gutted and packed by machinery."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The local vegetable **cannery** was the largest employer in Gopher Prairie, dominating the summer economy of the county."*

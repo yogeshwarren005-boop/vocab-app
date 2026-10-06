@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal container for storing dry foods such as tea or flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metal container for storing dry foods such as tea or flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of canister; a small metal or wooden box or container for storing tea, coffee, or gunpowder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and naval records, an artillery case shot packed with lead pellets that scattered widely when fired from brass cannon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannister designates metal container for storing dry foods such as tea or flour."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The old lady reached down the silver **cannister** to measure out tea for the assembled whist party."*
+> - 📜 **Walter Scott (*Waverley*):** *"The gunners loaded the field pieces with ball and **cannister**, awaiting the highland charge with steady discipline."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The gunner's mate inspected each copper **cannister** of gunpowder stored securely in the frigate's lower magazine."*

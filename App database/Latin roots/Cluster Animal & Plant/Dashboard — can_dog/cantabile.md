@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth and flowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth and flowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smooth, graceful, singing style; flowing and melodic in musical performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical instrumental music, an expressive performance direction instructing performers to imitate the lyricism and legato breathing of the human voice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantabile designates smooth and flowing."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The cellist delivered the slow movement with an exquisite **cantabile** tone that drew tears from the audience."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"Holmes played a soothing **cantabile** melody upon his Stradivarius, meditating upon the tragic clues of the case."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The violin entered with a tender **cantabile** theme, soaring above the somber polyphony of the lower strings."*

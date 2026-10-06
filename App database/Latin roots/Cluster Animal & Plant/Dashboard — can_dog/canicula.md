@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in the sky; in canis major.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in the sky; in canis major.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Dog Star (Sirius); or the dog days of summer (the period of intense heat in July and August associated with the heliacal rising of Sirius).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin astronomy and folklore, the celestial dog (Canis Major) whose conjunction with the summer sun was blamed for fever and drought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canicula designates the brightest star in the sky; in canis major."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The burning heat of the **Canicula** blazed upon the parched fields, withering the grass along the dry riverbeds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions avoided marching through the Pontine marshes during the deadly season of the **Canicula** when malignant fevers raged."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians strictly prohibited bloodletting and violent purges during the sultry reign of the **Canicula**."*

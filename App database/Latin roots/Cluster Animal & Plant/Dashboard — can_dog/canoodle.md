@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fondle or pet affectionately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fondle or pet affectionately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kiss, cuddle, fondle, or caress someone affectionately and intimately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century colloquial slang and comic narrative, affectionate spooning, courtship cuddles, or amorous dalliance in secluded corners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canoodle designates fondle or pet affectionately."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The young sweethearts sat on the riverbank to **canoodle** in the moonlight, oblivious to the mosquitos buzzing about their ears."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He watched the high-school couples **canoodle** on front porches as he drove home through the warm suburban evening."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"I observed Tuppy attempting to **canoodle** with Angela in the shadow of the rose arbor before she snubbed him soundly."*

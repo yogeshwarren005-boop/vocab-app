@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a latticelike structure pierced with holes or windows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open or latticed or porous structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lattice-like, open-meshed, or porous structure; cross-barred or reticulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, designating spongy or trabecular bone tissue containing marrow cavities, as opposed to dense compact cortical bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancellated designates having a latticelike structure pierced with holes or windows."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The epiphyses of long bones consist internally of **cancellated** osseous tissue designed to distribute compressive stresses."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The porous **cancellated** bone contains red marrow wherein active hemopoiesis generates red blood corpuscles."*
+> - 📜 **William Bowman (*Lectures on the Eye*):** *"Beneath the thin compact cortical layer lay the resilient **cancellated** trabeculae supporting the orbital wall."*

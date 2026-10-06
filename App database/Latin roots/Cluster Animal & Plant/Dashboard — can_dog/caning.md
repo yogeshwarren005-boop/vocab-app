@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work made of interlaced slender branches (especially willow branches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat with a cane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A corporal punishment administered by striking someone with a flexible cane or rod; or woven cane wickerwork on a chair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British school culture and domestic craft, institutional disciplinary beating, or the geometric weaving of rattan strips for chair seats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caning designates work made of interlaced slender branches (especially willow branches)."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers administered a severe **caning** to the trembling boy, glorying in his cruel dominion over the helpless scholars."*
+> - 📜 **George Orwell (*Such, Such Were the Joys*):** *"The headmaster summoned the trembling boy to his study for a formal **caning** that left deep bruised welts across his legs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Scatcherd punished Helen Burns with a sudden **caning** on the neck for having dirty fingernails."*

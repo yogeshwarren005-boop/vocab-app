@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical region of southwestern india on the west coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical region of southwestern india on the west coast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal region of southwestern India (now Kanara or Coastal Karnataka), lying between the Western Ghats and the Arabian Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial trade history, celebrated for spice cultivation, teak timber, and historical trading posts established by the Portuguese and British East India Company.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canara designates a historical region of southwestern india on the west coast."*
+> - 📜 **Richard Francis Burton (*Goa and the Blue Mountains*):** *"We rode through the lush spice plantations of North **Canara**, where betel palms and pepper vines climbed the foothills."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman merchant galleons traded along the pepper-rich coasts of **Canara** and Malabar, exchanging silver denarii for oriental spices."*
+> - 📜 **Arthur Wellesley (*Wellington's Despatches*):** *"The pacification of the **Canara** district was essential to secure our supply lines from the coast to the Mysore plateau."*

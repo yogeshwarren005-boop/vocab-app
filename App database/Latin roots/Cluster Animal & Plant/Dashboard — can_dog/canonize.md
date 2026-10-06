@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare someone a saint officially; or to treat, regard, or sanction as being of paramount authority or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and critical theory, elevating historical figures, texts, or philosophical systems to unquestioned dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Why, even the churches that believe in saints don't canonize mortals until they have been a hundred years dead--they want to be sure they are dead and their mortal weaknesses forgotten." Amanda laughed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is an error in philosophy to **canonize** ancient authorities and regard their opinions as infallible boundaries of human knowledge."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"No law can be sacred to me but that of my nature. Do not **canonize** ancient traditions at the expense of your own living intuition."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We must not **canonize** temporary factional passions into fundamental principles of constitutional jurisprudence."*

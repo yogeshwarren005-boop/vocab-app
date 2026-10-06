@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden bucket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small can.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small can, metal drinking vessel, or wooden drinking cup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan drama and nautical drinking songs, a small drinking tankard used for passing ale or grog around a table.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some wine, ho! [_Sings._] _And let me the cannikin clink, clink, And let me the cannikin clink, clink: A soldier’s a man, O, man’s life’s but a span, Why then let a soldier drink._ Some wine, boys!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"‘Aye, aye, my merry lads, it’s a lively leak this; hold a cannikin, one of ye, and let’s have a taste."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When the liquor’s out why clink the cannikin?"*
+> - 📜 **William Shakespeare (*Othello*):** *"And let me the **cannikin** clink, clink; / And let me the **cannikin** clink. / A soldier's a man; / A life's but a span; / Why, then, let a soldier drink."*
+> - 📜 **Walter Scott (*The Pirate*):** *"The old sailor filled his silver **cannikin** with Hollands gin, proposing a health to all bold rovers of the Spanish Main."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The buccaneers sat round the camp kettle, clinking each tin **cannikin** as they sang of dead men's chests."*

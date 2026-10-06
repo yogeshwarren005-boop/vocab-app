@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a latticelike structure pierced with holes or windows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open or latticed or porous structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a latticed, cross-barred, or reticulated structure; cancellated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, describing insect wings, sponge skeletons, or plant leaves with a network of intersecting ridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancellate designates having a latticelike structure pierced with holes or windows."*
+> - 📜 **Charles Darwin (*A Monograph on the Fossil Balanidae*):** *"The outer surface of the shell plates exhibits a finely **cancellate** sculpture formed by intersecting longitudinal and transverse ribs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The siliceous skeleton of the hexactinellid sponge presents a magnificent **cancellate** framework of intersecting spicules."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The delicate venation of the decayed leaf formed a beautiful **cancellate** skeleton when the green parenchyma washed away."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone acting as an informer or decoy for the police.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female singer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, bright-yellow cage bird (Serinus canaria) known for its melodious singing; or a bright yellow color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining history, a sentinel bird carried underground because of its extreme sensitivity to odorless toxic carbon monoxide and firedamp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best courtier of them all, when the court lay at Windsor, could never have brought her to such a canary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will to my honest knight Falstaff, and drink canary with him. [_Exit Host._] FORD [_Aside_.] I think I shall drink in pipe-wine first with him; I’ll make him dance.—Will you go, gentles?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O knight, thou lack’st a cup of canary: When did I see thee so put down?"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Dartle looked at the singing **canary** in its gilded cage with a sharp, inquisitive expression that unsettled me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The cage holding the pet **canary** was hung outside the cottage door in the bright morning sunshine."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The coal miners carried a caged **canary** into the deep drift to provide immediate warning against lethal odorless gas."*

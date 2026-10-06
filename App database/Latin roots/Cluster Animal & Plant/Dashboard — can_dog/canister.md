@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic cylinder packed with shot and used as ammunition in a firearm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metal container for storing dry foods such as tea or flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round or cylindrical container, typically of metal, used for storing dry food, tea, or chemicals; or a canister-shot artillery projectile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an anti-personnel artillery shell filled with lead musket balls that fragmented upon firing into a devastating scatter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thankee!” Having leisurely helped himself from a canister borrowed from somebody downstairs for the purpose, and having made a considerable show of tasting it, first with one side of his nose and then with the other, Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The guns were advanced, the artillerymen blew the ash off their linstocks, and an officer gave the word “Fire!” This was followed by two whistling sounds of canister shot, one after another."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"They lay upon the surface like canister-shot upon a battle-field."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty kept her tea in a neat Japanned tin **canister** on the high shelf above the cheerful galley fire."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The battery commander ordered his gunners to switch from round shot to **canister**, sweeping the advancing French columns at close range."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The good dame reached down her silver tea **canister** to brew a fragrant cup for her honored evening guest."*

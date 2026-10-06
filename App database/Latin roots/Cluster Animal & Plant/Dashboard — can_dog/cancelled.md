@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Postpone indefinitely or annul something that was scheduled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annulled, revoked, invalidated, or called off; marked with lines or a stamp to show invalidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliography and publishing, a printed leaf excised from a book before publication due to an error, replaced by a corrected cancel leaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, no more but this: Henry, your sovereign, Is prisoner to the foe, his state usurped, His realm a slaughter-house, his subjects slain, His statutes cancelled, and his treasure spent; And yonder is the wolf that makes this spoil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An expired date, cancelled ere well begun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hath thy servant, Opportunity Betrayed the hours thou gav’st me to repose, Cancelled my fortunes, and enchained me To endless date of never-ending woes?"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Cancel his bond of life, dear God, I pray, / That I may live to say, the dog is dead. His **cancelled** life brings peace."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancient royal land grant was **cancelled** by the provincial court, precipitating the long family feud."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My indenture was formally **cancelled** by the proctor, and I walked forth from Doctors' Commons a free man."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn derived from the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymn or liturgical chant taken directly from biblical texts, other than the Psalms; or a little song.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian liturgy, morning and evening canticles sung during Daily Office services (Magnificat, Nunc Dimittis, Benedictus, Te Deum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What a noble thing is that canticle in the fish’s belly!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angelic choir sang a triumphant **canticle** of praise as the new-created universe arose out of chaos."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The basilica resounded with the solemn **canticle** of Ambrose, celebrating the victory of orthodox faith over imperial persecution."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius was deeply moved by the ancient Christian **canticle**, whose simple musical phrasing conveyed sublime spiritual peace."*

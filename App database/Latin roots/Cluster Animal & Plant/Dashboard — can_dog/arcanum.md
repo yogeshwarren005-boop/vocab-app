@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information known only to a special group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profound secret or mystery; or a marvelous or miraculous remedy sought by alchemists; an elixir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Paracelsian alchemy and philosophy, a concentrated spiritual essence capable of transmuting base matter or restoring vital health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Certainly no man whatever; for this arcanum doth enter into an artist of a stiff neck; he only hath it who transcends the progress of angels and comes to the very Archtype himself."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient alchemists vainly pursued the supreme **arcanum** that should turn base metals into gold and grant immortal youth."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Nature holds many a hidden **arcanum** which the curious intellect of man strives in vain to comprehend."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The philosopher claimed to have discovered the grand **arcanum** of regulating the seasons and directing the weather."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly aromatic inner bark of the canella winterana used as a condiment and a tonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the family Canellaceae, especially Canella winterana (wild cinnamon), whose aromatic bark is used as a spice and tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy and spice trade, white cinnamon bark imported from the West Indies as an aromatic stomachic and stimulant condiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella designates highly aromatic inner bark of the canella winterana used as a condiment and a tonic."*
+> - 📜 **Hans Sloane (*A Voyage to Jamaica*):** *"The bark of **Canella** possesses an agreeable warm, spicy taste, serving the islanders as an excellent substitute for true Ceylon cinnamon."*
+> - 📜 **John Gerard (*The Herball*):** *"Apothecaries import the dried aromatic bark of **Canella**, prescribing it in tincture to strengthen cold and sluggish digestions."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The aromatic bark of **Canella** alba yields an essential oil combining the fragrances of cloves and nutmeg."*

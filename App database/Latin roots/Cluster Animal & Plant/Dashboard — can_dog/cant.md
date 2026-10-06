@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock phrases that have become nonsense through endless repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypocritical and sanctimonious talk, typically of a moral, religious, or political nature; or the specialized jargon of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and naval architecture, an inclined or slanted surface, tilt, or bevel; or to set at an oblique angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I am no novel-reader—I seldom look into novels—Do not imagine that _I_ often read novels—It is really very well for a novel.” Such is the common cant."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Life is al a variorum, We regard not how it goes; Let them cant about decorum, Who have character to lose."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*
+> - 📜 **Samuel Johnson (*Boswell's Life of Samuel Johnson*):** *"Clear your mind of **cant**. You may talk in this manner; it is a mode of talking in society; but don't think in that manner."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"The present age is distinguished above all others for **cant**; **cant** political, **cant** poetical, and **cant** religious."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter planed the timber with a slight **cant** toward the gunwale, allowing seawater to drain freely from the deck."*

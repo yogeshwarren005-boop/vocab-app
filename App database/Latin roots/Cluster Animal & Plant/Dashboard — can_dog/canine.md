@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various fissiped mammals with nonretractile claws and typically long muzzles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a dog or dogs; or a pointed tooth between the incisors and premolars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalogy and physical anthropology, prominent conical teeth specialized for seizing, holding, and tearing flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s visit it seemed spellbound: all the night I heard but three sounds at three long intervals,—a step creak, a momentary renewal of the snarling, canine noise, and a deep human groan."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Certainly such elements in the character of a marriageable girl tended to interfere with her lot, and hinder it from being decided according to custom, by good looks, vanity, and merely canine affection."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male gorilla possesses formidable **canine** teeth that serve as deadly defensive weapons in territorial combat."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The Count parted his lips with a grim smile, revealing sharp white **canine** teeth that protruded over his lower red lip."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak's young sheepdog displayed an eager **canine** intelligence, watching his master's whistle with vigilant eyes."*

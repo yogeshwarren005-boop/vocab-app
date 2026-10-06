@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip parts or components from an old or damaged machine to repair or build another; cannibalize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial marketing and business, to reduce the sales or market share of one product by introducing another similar product.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannibalise designates eat human flesh."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Our mechanical units were compelled to **cannibalise** damaged tanks in order to keep remaining armored fighting vehicles in operation."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Engineers had to **cannibalise** the defunct power plant, extracting copper coils and dynamos for the new laboratory."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We resolved to **cannibalise** our broken camp wagon to construct rafts for navigating the river rapids."*

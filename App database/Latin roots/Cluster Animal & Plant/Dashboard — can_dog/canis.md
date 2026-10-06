@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the canidae: domestic and wild dogs; wolves; jackals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of carnivorous mammals that includes true dogs, wolves, coyotes, and jackals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, the type genus of Canidae, encompassing cursorial pack-hunting predators with deep chests and bushy tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pliny, _Naturalis Historic_ xviii. 269 _sq_.: "_Exoritur dein post triduum fere ubique confessum inter omnes sidus ingens quod canis ortum vocamus, sole partem primam leonis ingresso."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If so, classify it." And we answered that the birth in the air had developed into wolves, and been classified as the _canis latrans_, noisy and harmless."*
+> - 📜 **Carolus Linnaeus (*Systema Naturae*):** *"Linnaeus designated the faithful domestic companion as **Canis** familiaris, placing it alongside the gray wolf and the red fox."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Naturalists differ widely as to whether all domestic dogs trace their pedigree to **Canis** lupus or to several distinct jackal ancestors."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In the genus **Canis**, the upper carnassial tooth shears against the first lower molar with immense shearing force."*

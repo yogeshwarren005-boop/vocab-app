@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common form of skin cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cancroid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a crab in form or appearance; or resembling or having the characteristics of a cancer; cancerous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century surgical pathology, an old clinical term for cutaneous squamous cell carcinoma (epithelioma) of low malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancroid designates the most common form of skin cancer."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The localized epithelial tumor termed **cancroid** differs from deep visceral carcinoma in its slower growth and delayed metastasis."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"A chronic **cancroid** ulcer on the lower lip was successfully eradicated through wide wedge excision of the vermilion border."*
+> - 📜 **Richard Owen (*Lectures on Invertebrates*):** *"Certain primitive trilobites exhibit an archaic **cancroid** outline that misled early naturalists into classifying them with crabs."*

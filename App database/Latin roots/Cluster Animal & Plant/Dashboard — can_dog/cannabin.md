@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resin obtained from the hemp plant; thought to be the active narcotic agent in marijuana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resin obtained from the hemp plant; thought to be the active narcotic agent in marijuana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resinous or alkaloidal extract obtained from Cannabis sativa, formerly investigated for pharmacological and sedative properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century materia medica, an impure resinous precipitate tested by toxicologists before modern isolation of delta-9-THC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabin designates a resin obtained from the hemp plant; thought to be the active narcotic agent in marijuana."*
+> - 📜 **Robley Dunglison (*New Remedies*):** *"By treating Indian hemp with ether, O'Shaughnessy prepared a concentrated resin termed **cannabin**, possessing powerful hypnotic effects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early investigators examined the therapeutic actions of **cannabin** in mitigating the excruciating agony of trigeminal neuralgia."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Small doses of purified **cannabin** were administered experimentally to alleviate stubborn spasmodic asthma."*

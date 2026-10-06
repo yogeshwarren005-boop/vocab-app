@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected with cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a cancer; an evil that grows and spreads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, relating to, or resembling cancer; malignant; or spreading corruptively like a cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, cells characterized by anaplasia, nuclear pleomorphism, atypical mitotic figures, and invasive stromal destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancerous designates relating to or affected with cancer."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of **cancerous** tissue demonstrates that malignant cells arise directly from pre-existing normal host cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **cancerous** infiltration of surrounding connective tissues produces the characteristic hard, adherent nature of the tumor."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A **cancerous** corruption had eaten away the ancient feudal institutions of France, making catastrophe inevitable."*

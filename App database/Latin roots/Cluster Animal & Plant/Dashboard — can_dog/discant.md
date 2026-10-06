@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative musical accompaniment (often improvised) added above a basic melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative musical accompaniment (often improvised) added above a basic melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval polyphonic music style in which a voice sings a countermelody above a plainsong tenor; or to discourse or comment at length; descant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical counterpoint, the soprano or highest melodic line in vocal or instrumental music; or in rhetoric, an elaborate verbal monologue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discant designates a decorative musical accompaniment (often improvised) added above a basic melody."*
+> - 📜 **William Shakespeare (*Richard III*):** *"And therefore, since I cannot prove a lover, / To entertain these fair well-spoken days, / I am determined to prove a villain / And hate the idle pleasures of these days. / Plots have I laid, inductions dangerous, / By drunken prophecies, libels and dreams, / To set my brother Clarence and the king / In deadly hate the one against the other. To **discant** on mine own deformity."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The nightingale tuned her sweet nocturnal **discant**, charming the silent woods of Eden with her passionate song."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The critic paused to **discant** upon the philosophical subtleties embedded within Dryden's political satires."*

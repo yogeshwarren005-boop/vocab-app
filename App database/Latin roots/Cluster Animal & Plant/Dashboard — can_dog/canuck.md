@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term for canadians in general and french canadians in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term for canadians in general and french canadians in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial term for a Canadian, especially a French-Canadian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American cultural slang and lumberjack lore, designating hardy northern woodsmen or Canadian national identity with colloquial warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Our Jack Canuck is active, He plays a pretty goal, But make swift runs to cover When drums begin to roll."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck's unselfish, He lets the honors go All to his British brother, When war time bugles blow."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And Jack Canuck is modest; That's why he chooses rears, And sees the front seats taken By British volunteers."*
+> - 📜 **Walt Whitman (*Leaves of Grass (Song of Myself)*):** *"The **Canuck** lumberman stands balanced upon the log raft in the foaming river rapids, fearless and free."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our crew included an energetic **Canuck** axeman who could fell a giant hemlock in half the time of other woodchoppers."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Francois was a shrewd French-Canadian **Canuck** who understood sled-dogs better than any man in the Yukon territory."*

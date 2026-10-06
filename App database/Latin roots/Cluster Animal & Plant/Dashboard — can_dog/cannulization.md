@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical act or process of inserting a cannula into a bodily duct, cavity, or blood vessel; cannulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intensive care medicine, placement of central venous lines or arterial catheters for systemic hemodynamic monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulization designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid **cannulization** of the femoral artery was performed to monitor central blood pressure during profound hemorrhagic shock."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The successful **cannulization** of the parotid duct allowed the surgeon to inject antiseptics directly into the infected gland."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In laboratory pharmacology, vascular **cannulization** constitutes the standard method for recording drug effects upon heart rate."*

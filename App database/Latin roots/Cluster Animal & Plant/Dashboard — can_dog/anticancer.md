@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in the treatment of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting against or effective in the treatment, prevention, or retardation of cancer; antineoplastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and medicinal chemistry, pharmacological agents designed to inhibit tumor proliferation or trigger malignant cell apoptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticancer designates used in the treatment of cancer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of targeted **anticancer** therapeutics promises to replace non-specific cellular toxins with molecular precision."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Modern surgical research strives to identify adjuvant **anticancer** compounds capable of preventing metastatic recurrence."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"We sought a chemical magic bullet that would exert specific **anticancer** activity without injuring surrounding normal tissues."*

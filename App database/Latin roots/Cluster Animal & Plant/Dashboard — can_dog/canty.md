@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively and brisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lively and brisk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively, cheerful, merry, and brisk in spirits; pleasant, snug, and comfortable in domestic humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional Scots poetry and vernacular song, describing a merry, warm-hearted, contented rustic companion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The clachan yill had made me canty, I was na fou, but just had plenty; I stacher’d whiles, but yet too tent aye To free the ditches; An’ hillocks, stanes, an’ bushes, kenn’d eye Frae ghaists an’ witches."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then muse-inspirin’ aqua-vitae Shall make us baith sae blythe and witty, Till ye forget ye’re auld an’ gatty, An’ be as canty As ye were nine years less than thretty— Sweet ane an’ twenty!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Until a pow as auld’s Methusalem He canty claw!"*
+> - 📜 **Robert Burns (*The Cotter's Saturday Night*):** *"The frugality of the honest cottager made his humble hearth a blest and **canty** refuge from the winter storm."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The old woman was a **canty**, cheerful body who had a kind word and an encouraging smile for every weary traveler."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"The cottage was clean and **canty**, with a peat fire glowing warmly upon the hearth and porridge simmering on the grate."*

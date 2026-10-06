@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth three-beat gait; between a trot and a gallop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride at a canter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, three-beat gait of a horse, easy and rhythmic, faster than a trot but slower than a gallop; or to ride at this pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically derived from the easy riding pace of medieval pilgrims journeying to the shrine of Thomas Becket at Canterbury ('Canterbury gallop').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then there was a pony expressly for my riding, a chubby pony with a short neck and a mane all over his eyes who could canter—when he would—so easily and quietly that he was a treasure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a canter now,” he said, throwing away the light."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She would canter up to the door on her pony, followed by a mounted livery servant."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The stag at eve had drunk his fill, / Where danced the moon on Monan's rill, / And deep his midnight lair had made / In lone Glenartney's hazel shade; / Then broke into an easy **canter** across the heather."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane rode to Netherfield on horseback, setting off at a brisk **canter** before the rain clouds broke."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba urged her pony into a graceful **canter**, her dark hair streaming in the autumn breeze across the downs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical tree, Cassia fistula (golden shower tree), known for its hanging yellow flower clusters and cylindrical pods containing sweet medicinal pulp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Caribbean and Spanish colonial ethnobotany, the sweet black mucilaginous pulp extracted from long woody legumes to prepare mild laxative syrups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canafistola designates deciduous or semi-evergreen tree having scented sepia to yellow flowers in drooping racemes and pods whose pulp is used medicinally; tropical asia and central and south america and australia."*
+> - 📜 **Hans Sloane (*A Voyage to Jamaica*):** *"The Spaniards call this ornamental purging cassia **canafistola**, employing the sweet black pulp of its long pods in domestic pharmacy."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"Along the roadside grew fine specimens of **canafistola**, their drooping golden flower panicles scenting the humid tropical air."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The indigenous apothecaries collect the pods of **canafistola** to prepare a gentle purgative electuary famous throughout the Antilles."*

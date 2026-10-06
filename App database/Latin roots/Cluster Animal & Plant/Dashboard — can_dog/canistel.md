@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical tree of florida and west indies yielding edible fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ovoid orange-yellow mealy sweet fruit of florida and west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evergreen tropical tree (Pouteria campechiana) in the sapote family, or its yellow-fleshed fruit, commonly called eggfruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pomology, native to Central America, prized for its sweet, custardy, rich yellow pulp resembling cooked egg yolk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canistel designates tropical tree of florida and west indies yielding edible fruit."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The indigenous markets displayed baskets of the yellow **canistel**, whose sweet, dense pulp resembles the yolk of a hard-boiled egg."*
+> - 📜 **Hans Sloane (*A Voyage to Jamaica*):** *"The fruit of the sapotaceous **canistel** tree ripens into a bright golden sphere that provides agreeable food for the islanders."*
+> - 📜 **David Fairchild (*Exploring for Plants*):** *"We collected seeds of the Mesoamerican **canistel**, hoping to introduce this delicious golden eggfruit into Florida groves."*

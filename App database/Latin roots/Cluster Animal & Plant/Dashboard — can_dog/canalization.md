@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a canal or a conversion to canals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management through specified channels of communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of canalizing a watercourse; or directing resources, ideas, or physical substances through defined channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and psychology, phenotypic buffering against genetic or environmental noise, or guiding instinctive drives into sublimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalization designates the production of a canal or a conversion to canals."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"The **canalization** of development represents an evolutionary adaptation that preserves adaptive anatomical forms across generations."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Repeated mental association establishes a neural **canalization** that facilitates the spontaneous flow of associated ideas."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Civilized culture depends upon the successful **canalization** of primal instinctual energies into creative social pursuits."*

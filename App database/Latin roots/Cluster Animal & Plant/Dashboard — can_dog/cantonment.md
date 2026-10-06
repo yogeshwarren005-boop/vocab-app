@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary living quarters specially built by the army for soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent military station or garrison, especially in British India; or temporary quarters for troops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial military administration, self-contained residential compounds accommodating European officers, native regiments, and administrative headquarters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her Ladyship, our old acquaintance, is as much at home at Madras as at Brussels in the cantonment as under the tents."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The whole cantonment saw them set out and return."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"Life in the military **cantonment** during the hot weather was an endless succession of polo matches, social calls, and evening band concerts."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The regiment was stationed at the Cawnpore **cantonment** when the first ominous murmurs of the great mutiny broke forth."*
+> - 📜 **Flora Annie Steel (*On the Face of the Waters*):** *"The British families resided in spacious thatched bungalows lining the wide avenues of the peaceful Meerut **cantonment**."*

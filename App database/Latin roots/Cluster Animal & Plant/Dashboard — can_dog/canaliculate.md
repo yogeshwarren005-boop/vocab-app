@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thin parallel channels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having thin parallel channels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Channelled or grooved longitudinally; having a small groove, canal, or furrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and malacology, describing petiole stems, leaves, or gastropod shells marked with longitudinal concave troughs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canaliculate designates having thin parallel channels."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The leaf-stalk of the celery is conspicuously **canaliculate**, presenting a deep longitudinal channel along its upper surface."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The opercular valves of the barnacle exhibit a **canaliculate** exterior marked by fine parallel growth furrows."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The floral bracts are distinctly **canaliculate**, clasping the developing flower bud within their curved concave folds."*

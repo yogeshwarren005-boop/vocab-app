@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cover with a canopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or as with a canopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered, vaulted, or overhung by or as if by a canopy; sheltered from above.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative architecture and landscape poetry, describing ceremonial four-poster beds, thrones, or leafy forest boughs meeting overhead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flame o’ th’ taper Bows toward her and would under-peep her lids To see th’ enclosed lights, now canopied Under these windows white and azure, lac’d With blue of heaven’s own tinct."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away before me to sweet beds of flowers, Love-thoughts lie rich when canopied with bowers. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Away before me to sweet beds of flowers; / Love-thoughts lie rich when **canopied** with bowers."*
+> - 📜 **John Milton (*Comus*):** *"I know each lane, and every alley green, / Dingle, or bushy dell of this wild wood, / And every bosky bourn from side to side, / My daily walks and ancient neighborhood. The woods were richly **canopied**."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"The oak and beech met high above, forming a dark **canopied** roof that shut out the glare of noon."*

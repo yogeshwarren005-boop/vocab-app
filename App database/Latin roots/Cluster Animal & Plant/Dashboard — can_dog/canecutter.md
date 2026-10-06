@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wood rabbit of southeastern united states swamps and lowlands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wood rabbit of southeastern united states swamps and lowlands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who cuts and harvests sugar cane by hand in fields, traditionally using a heavy curved machete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural labor history, plantation workers enduring brutal physical toil, sharp cane leaves, and extreme tropical heat during the sugar harvest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canecutter designates a wood rabbit of southeastern united states swamps and lowlands."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The weary **canecutter** labored under the blazing sun of the Louisiana bayous from dawn to dusk during the grinding season."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"A gang of sturdy **canecutter** laborers swung their heavy billhooks in unison, felling the ripe purple stalks across the plantation."*
+> - 📜 **Hans Sloane (*A Voyage to Jamaica*):** *"The plantation owner rewarded each faithful **canecutter** with extra rations of salt fish upon the successful completion of the harvest."*

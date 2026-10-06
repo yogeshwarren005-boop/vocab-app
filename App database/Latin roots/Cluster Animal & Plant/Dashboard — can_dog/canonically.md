@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a canonical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a canonical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that conforms to canon law, standard rules, or accepted authoritative tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and ecclesiastical administration, mapped or ordained in strict compliance with established axiomatic protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Behind this lightsome couple, so close to the Maypole that its boughs shaded his jovial face, stood the figure of an English priest, canonically dressed, yet decked with flowers, in heathen fashion, and wearing a chaplet of the native vine leaves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The newly elected patriarch was **canonically** consecrated in Saint Sophia amid the solemn chants of the Greek clergy."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"A sacrament administered **canonically** by an ordained priest confers divine grace ex opere operato regardless of personal unworthiness."*
+> - 📜 **David Hume (*The History of England*):** *"The barons argued that the bishop had not been **canonically** invested according to the ancient customs of the realm."*

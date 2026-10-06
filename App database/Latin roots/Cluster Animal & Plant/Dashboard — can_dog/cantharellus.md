@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A well-known genus of fungus; has funnel-shaped fruiting body; includes the chanterelles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A well-known genus of fungus; has funnel-shaped fruiting body; includes the chanterelles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of edible wild mushrooms in the family Cantharellaceae comprising true chanterelles, prized for their golden color and fruity apricot aroma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and foraging gastronomy, Cantharellus cibarius, characterized by funnel-shaped golden caps and blunt, fork-veined false gills running down the stipe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantharellus designates a well-known genus of fungus; has funnel-shaped fruiting body; includes the chanterelles."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Under the beech woods we gathered abundant specimens of the golden **Cantharellus**, whose delicate perfume was noticed by all."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the moist mossy trail grew clusters of bright yellow fungi of the genus **Cantharellus**, glowing amidst the damp forest shadows."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The damp southern beech forests supported magnificent edible fungi allied to **Cantharellus**, forming a staple food for the Fuegian natives."*

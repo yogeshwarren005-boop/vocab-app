@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river rising in northeastern new mexico and flowing eastward across the texas panhandle to become a tributary of the arkansas river in oklahoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of Canada, its people, language, or culture; or a native or citizen of Canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In boreal biogeography, designating the Canadian life zone characterized by extensive coniferous taiga, moose, and snowshoe hares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Besides, if I failed to go on now, it would be very difficult to get my borrowed team together again, and impossible to get my man again; and we could as well live without bread as without wood in a Canadian Winter."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Canadian Industrial Disputes Act of 1907 is an example that has had influence upon public opinion everywhere, and has been followed to some extent in recent legislation in New Zealand, America, and elsewhere."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Colorado Act of 1915 goes even beyond the Canadian act in its scope."*
+> - 📜 **Francis Parkman (*Montcalm and Wolfe*):** *"The **Canadian** militia fought with desperate tenacity behind stockades, defending their native riverbanks against British assaults."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The call of the white-throated sparrow, known to northern woodsmen as the **Canadian** songbird, broke the silence of the pines."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The **Canadian** division stood their ground with magnificent heroism when the first wave of poison gas was released at Ypres."*

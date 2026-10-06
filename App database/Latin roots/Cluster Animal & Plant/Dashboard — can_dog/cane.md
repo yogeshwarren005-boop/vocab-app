@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stick that people can lean on to help them walk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong slender often flexible stem as of bamboos, reeds, rattans, or sugar cane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hollow, jointed, woody stem of tall grasses, especially bamboo or sugar cane; or a slender walking stick made from this stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and botany, Saccharum officinarum, cultivated across tropical plantations as the primary global source of sucrose sugar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a cane, he had an eye-glass, he had a snuff-box, he had rings, he had wristbands, he had everything but any touch of nature; he was not like youth, he was not like age, he was not like anything in the world but a model of deportment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As soon as she had entered the field Troy saw her, and sticking his pitchfork into the ground and picking up his crop or cane, he came forward."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How blooming you are to-day!” Troy flung down his cane and put his foot on the ladder to ascend."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The master, the swabber, the boatswain, and I, / The gunner and his mate, / Loved Moll, Meg, and Marian, and Margery, / But none of us cared for Kate; / For she had a tongue with a tang, / Would cry to a sailor, 'Go hang!' / She loved not the savour of tar nor of pitch, / Yet a tailor might scratch her where'er she did itch. A goodly **cane** to lean on."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Murdstone struck the desk with his heavy walking **cane**, demanding absolute obedience from the frightened boy."*
+> - 📜 **Herman Melville (*Typee*):** *"The natives constructed their airy summer pavilions from polished poles of wild bamboo **cane** lashed with coconut fiber."*

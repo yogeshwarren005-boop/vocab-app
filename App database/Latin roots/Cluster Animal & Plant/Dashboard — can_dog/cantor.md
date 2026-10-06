@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical director of a choir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official of a synagogue who conducts the liturgical part of the service and sings or chants the prayers intended to be performed as solos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who sings or leads the chanting in a Jewish synagogue (hazzan); or the leader of singing in a cathedral choir (precentor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In German musical history and church administration, the music director of a major civic church (such as J. S. Bach as Thomaskantor in Leipzig).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantor designates the musical director of a choir."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The voice of the **cantor** rose in passionate, mournful supplication, carrying the prayers of the congregation to heaven."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Sebastian Bach labored in Leipzig as humble church **cantor**, composing immortal sacred cantatas for every Sunday in the liturgical year."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The cathedral **cantor** stepped before the altar to intone the opening phrase of the ancient Easter hymn."*

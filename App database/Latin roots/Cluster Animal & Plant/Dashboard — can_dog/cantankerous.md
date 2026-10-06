@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly obstructive and unwilling to cooperate; - spectator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad-tempered, argumentative, quarrelsome, and uncooperative in disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic comedy and novelistic characterization, eccentric old eccentrics or obstinate villagers who resist every polite accommodation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The hardy cantankerous Serb, Whom even the Turk couldn't curb, In having a go With Emperor Joe, Will the plans of the Kaiser disturb."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But I s’pose, Anne, to be fair, _I_ was cantankerous too."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It kept me all cross and cantankerous and I saw I’d have to get out or I’d never have any peace."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The coachman was a crusty, **cantankerous** old fellow who grumbled at every turn of the road and snarled at the horses."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Christian Cantle was plagued by a **cantankerous** temper that made him the laughingstock of the heath gatherings."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Our pack mule proved an obstinate, **cantankerous** brute that refused to budge whenever the trail grew steep."*

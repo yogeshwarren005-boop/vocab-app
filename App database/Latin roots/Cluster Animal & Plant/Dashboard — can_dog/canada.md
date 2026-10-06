@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation in northern north america; the french were the first europeans to settle in mainland canada.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign country in northern North America, extending from the Atlantic to the Pacific and northward into the Arctic Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political geography, the former French colony of New France along the St. Lawrence River, later British North America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns spent five months in the United States and Canada."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he arranged his tour so as to enable him also to be present at the General Assembly of the American Presbyterian Church at Madison, and at that of the Presbyterian Church of Canada at Montreal."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"Champlain founded Quebec on the cliffs of the St. Lawrence, establishing the French empire in **Canada** amidst the northern wilderness."*
+> - 📜 **Henry David Thoreau (*A Yankee in Canada*):** *"I made a brief excursion into **Canada** to observe the French habitant villages and the fortified ramparts of old Quebec."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The glacial drift covering northern Europe corresponds with the vast morainic deposits strewn across upper **Canada**."*

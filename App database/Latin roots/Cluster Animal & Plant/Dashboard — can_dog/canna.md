@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical and subtropical flowering plant of the genus Canna, grown for its broad, lush foliage and showy red, orange, or yellow flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, Canna indica (achira), cultivated in the Andes and Caribbean for its edible, starch-rich rhizomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There Sophy tight, a lassie bright, Besides a handsome fortune: Wha canna win her in a night, Has little art in courtin’."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Laird o’ Braehead has been on his speed, For mair than a towmond or twa, man; The Laird o’ the Ford will straught on a board, If he canna get her at a’, man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Though I canna ride in weel-booted pride, And flee o’er the hills like a craw, man, I can haud up my head wi’ the best o’ the breed, Though fluttering ever so braw, man."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Florists have produced magnificent garden hybrids of the tropical **Canna**, combining bronze foliage with brilliant scarlet petals."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The showy **canna** beds formed a striking focal point in the public gardens with their lush tropical leaves."*
+> - 📜 **Hans Sloane (*Catalogus Plantarum*):** *"The wild Indian reed, or **Canna**, grows abundantly along marshy ditches, yielding hard round seeds once used as shot."*

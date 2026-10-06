@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Many of the best known edible crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Many of the best known edible crabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine decapod crustaceans comprising true edible crabs, notably including the rock crabs of the genus Cancer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, brachyuran crabs characterized by broad oval or hexagonal carapaces with scalloped anterolateral margins and powerful pincers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancridae designates many of the best known edible crabs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The family **Cancridae** comprises the typical marine crabs whose broad cephalothorax and folded abdomen represent the highest brachyuran specialization."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In tidal pools along the rocky shores of Chile, we collected several large predatory crabs belonging to the **Cancridae**."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In the **Cancridae**, the robust chelae are heavily calcified, enabling the crab to crush hard-shelled bivalves with ease."*

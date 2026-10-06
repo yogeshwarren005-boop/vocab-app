@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the dog days of summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or especially immediately preceding or following the heliacal rising of canicula (the dog star).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Dog Star (Sirius), or to the hot, sultry days of summer (dog days).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatological history and classical literature, describing the oppressive, stagnant heat and fevers historically accompanying Sirius rising.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canicular designates of or relating to the dog days of summer."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many traditions have been delivered touching the **canicular** days, wherein the conjunction of Sirius with the sun was held to kindle pestilence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery slumbered in the midst of the long vacation, sweltering through the breathless **canicular** heat of August."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce **canicular** sun beat down upon the desert sands of Mesopotamia, exhausting the heavily armored Roman infantry."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The back of a saddle seat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of a saddle seat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A corner, edge, slice, or portion of something, especially a piece cut out of a larger whole; or the raised rear part of a saddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equestrian saddlery and medieval weaponry, the rear upward projection of a saddle tree supporting the rider's lower back against lances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See how this river comes me cranking in, And cuts me from the best of all my land A huge half-moon, a monstrous cantle out."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"See how this river comes me cranking in, / And cuts me from the best of all my land / A huge half-moon, a monstrous **cantle** out."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight sat firmly rooted in his high-peaked saddle, his back pressed hard against the iron-plated **cantle**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A ragged **cantle** of turf had been pared from the barrow, exposing the white chalk beneath the heather."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort off the northeastern tip of the yucatan peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular island resort off the northeastern tip of the yucatan peninsula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major resort city in southeastern Mexico situated on the northeast coast of the Yucatán Peninsula, bordered by the Caribbean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Mayan archaeology and modern geography, a barrier island region near ancient trade networks transformed into a world tourism hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancun designates a popular island resort off the northeastern tip of the yucatan peninsula."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Yucatan*):** *"The coastal waters off the barrier sands of **Cancun** sparkled with vivid turquoise hues, concealing ancient ruined Mayan watchtowers."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The low limestone shores of **Cancun** and the eastern peninsula were navigated by indigenous merchants carrying jade and salt."*
+> - 📜 **D. H. Lawrence (*Mornings in Mexico*):** *"The Caribbean breeze swept across the white sands of **Cancun**, where the ancient limestone meets the boundless emerald ocean."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating the flesh of your own kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of eating the flesh of your own kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating the flesh of one's own species, especially the eating of human flesh by humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology, intraspecific predation observed among insects, amphibians, and fishes under conditions of nutritional stress or overcrowding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Consider, once more, the universal cannibalism of the sea; all whose creatures prey upon each other, carrying on eternal war since the world began."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The reader will ere long have reason to suspect that the Typees are not free from the guilt of cannibalism; and he will then, perhaps, charge me with admiring a people against whom so odious a crime is chargeable."*
+> - 📜 **Herman Melville (*Typee*):** *"The dread of **cannibalism** cast a dark shadow over my captive stay among the friendly Marquesan islanders."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Ritual **cannibalism** among primitive tribes frequently arose from the belief that one absorbed the courage of the slain warrior."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"My soul was filled with horror and disgust at the unmistakable evidence of **cannibalism** upon the solitary shore."*

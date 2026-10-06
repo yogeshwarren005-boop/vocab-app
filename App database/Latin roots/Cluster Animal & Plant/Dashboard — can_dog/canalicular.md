@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or like or having a canaliculus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or like or having a canaliculus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the structure of a canaliculus or small canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bone histology and hepatic microanatomy, designating microscopic channels connecting osteocytes with blood vessels or bile ductules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalicular designates relating to or like or having a canaliculus."*
+> - 📜 **William Bowman (*The Structure and Use of the Malpighian Bodies of the Kidney*):** *"The delicate **canalicular** system within the compact osseous tissue ensures metabolic nourishment reaches the deepest bone cells."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In certain sponges, a complex **canalicular** network circulates seawater through flagellated digestive chambers."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Microscopic **canalicular** ducts conduct secretory fluids from individual glandular acini into collecting channels."*

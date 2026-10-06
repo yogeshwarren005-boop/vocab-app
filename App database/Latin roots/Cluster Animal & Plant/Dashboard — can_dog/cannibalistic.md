@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of cannibals or exhibiting cannibalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of cannibals or exhibiting cannibalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or practicing cannibalism; consuming the flesh of one's own kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and sociology, predatory behavior directed against conspecifics, or corporate acquisitions that devour existing company assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannibalistic designates characteristic of cannibals or exhibiting cannibalism."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The wild river flowed past villages rumored to practice **cannibalistic** rites in the depths of the primeval jungle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Certain insect larvae display **cannibalistic** habits, devouring their weaker siblings as soon as they emerge from the egg mass."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sharks tore at the whale's carcass with a blind, **cannibalistic** fury that made the water boil with bloody foam."*

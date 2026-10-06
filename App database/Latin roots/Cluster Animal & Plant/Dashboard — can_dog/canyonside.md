@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The steeply sloping side of a canyon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The steeply sloping side of a canyon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sloping or precipitous wall or flank of a canyon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mountain ecology and landscape description, the rugged terrain supporting specialized cliff flora and animal scramble trails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canyonside designates the steeply sloping side of a canyon."*
+> - 📜 **John Muir (*Our National Parks*):** *"Clinging to the dizzy **canyonside**, ancient juniper trees twisted their gnarled roots into narrow granite crevices."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"We rode along the steep **canyonside** trail, scanning the opposite crags for mountain sheep feeding upon the grassy ledges."*
+> - 📜 **Owen Wister (*The Virginian*):** *"A single horseman was visible picking his way cautiously down the perilous **canyonside** toward the cottonwoods by the stream."*

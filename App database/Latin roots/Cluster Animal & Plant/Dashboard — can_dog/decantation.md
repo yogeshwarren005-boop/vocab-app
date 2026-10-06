@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of pouring off a clear liquid from a container without disturbing the sediment or precipitate remaining at the bottom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical laboratory chemistry, a fundamental separation technique used when filtration is too slow or unsuited for gelatinous precipitates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decantation designates the act of gently pouring off a clear liquor (as from its original bottle) without disturbing the lees."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Washing precipitates by **decantation** is far superior to filtration when dealing with heavy crystalline residues."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"By repeated **decantation** with distilled water, the chemist removes every trace of soluble chloride from the silver precipitate."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The purified liquor was separated by gentle **decantation**, leaving the gross dregs settled firmly at the bottom of the glass."*

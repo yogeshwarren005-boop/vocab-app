@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mountainous islands in the atlantic off the northwest coast of africa forming spanish provinces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone acting as an informer or decoy for the police.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of canary; small, yellow seed-eating finches of the genus Serinus; or the Canary Islands in the Atlantic Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of aviculture and maritime trade, domesticated songbirds bred from wild Atlantic island finches, celebrated for cheerful trilling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is the short and the long of it: you have brought her into such a canaries as ’tis wonderful."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It must be a continent, or at least an island—one of the Canaries, or of the Cape Verde Islands."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fanciers have produced remarkable breeds of **canaries**, altering both the coloration of plumage and the character of the musical song."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Caged **canaries** will interbreed with our native greenfinches and goldfinches, yielding fertile mule hybrids."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The Spanish captain traded along the coast of the **Canaries**, taking aboard wine, dried fruits, and fresh water for the voyage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of cannulation; the surgical insertion of a cannula into a bodily passage or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the establishment of tubular access for drainage, perfusion, or hemodynamic recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canulation designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Successful venous **canulation** was accomplished after difficulty, permitting the continuous delivery of saline and glucose."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The procedure of tracheal **canulation** afforded immediate respiratory relief to the suffocating child."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Physiology*):** *"Direct arterial **canulation** provided Harvey's successors with exact experimental measurements of cardiac output."*

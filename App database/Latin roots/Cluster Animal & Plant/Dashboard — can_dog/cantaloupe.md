@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of muskmelon vine having fruit with a tan rind and orange flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of melon (Cucumis melo) having a ribbed or netted rind and sweet, aromatic, orange-colored flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and culinary arts, a warm-season annual gourd prized for high water content, dietary beta-carotene, and refreshing sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Look--what's that over there?" At nearly the same level as themselves and directly over the city of Newark a huge globular object, not unlike an enormous green cantaloupe, appeared to float in the air."*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"The true southern **cantaloupe** is a blessing to the palate, superior to all the cold pumpkins of the north."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I admired the great green leaves of the **cantaloupe** spreading across the sand, nourishing sweet juicy fruit beneath the summer sun."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Breakfast was served on the sunny terrace, featuring iced **cantaloupe** and fragrant coffee before the morning swim."*

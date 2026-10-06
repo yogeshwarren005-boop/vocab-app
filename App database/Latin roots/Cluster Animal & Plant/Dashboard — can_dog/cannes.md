@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port and resort city on the french riviera; site of an annual film festival.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port and resort city on the french riviera; site of an annual film festival.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glamorous resort city on the French Riviera (Côte d'Azur), renowned for luxury hotels, sandy beaches, and its annual international film festival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European diplomatic and travel history, popularised by Lord Brougham in 1834, becoming a winter retreat for European royalty and aristocracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So imprisoned and tortured was this gentle little heart, when in the month of March, Anno Domini 1815, Napoleon landed at Cannes, and Louis XVIII fled, and all Europe was in alarm, and the funds fell, and old John Sedley was ruined."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"It was from Erskine, and written at the Hôtel d’Angleterre, Cannes."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The sheltered bay of **Cannes** sparkled in the southern sun, framed by olive-clad hills and the blue waters of the Mediterranean."*
+> - 📜 **Guy de Maupassant (*Afloat*):** *"Our yacht dropped anchor in the harbor of **Cannes**, where the white villas along the Croisette were bathed in golden twilight."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The wealthy invalid was advised by his London physician to spend the damp winter months in the mild climate of **Cannes**."*

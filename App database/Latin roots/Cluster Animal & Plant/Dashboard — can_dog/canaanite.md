@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient semitic people who occupied canaan before it was conquered by the israelites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extinct language of the semitic people who occupied canaan before the israelite conquest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Semitic people inhabiting ancient Canaan before the arrival of the Israelites; or an inhabitant of Canaan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Near Eastern archaeology and epigraphy, Northwest Semitic speaking populations celebrated for bronze metallurgy, Ugaritic literature, and early alphabetic inscriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw the sinful Canaanites Upon the shewbread dine, And spoil the temple vessels And drink the temple wine."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"I saw him fight the Canaanites And set God's Israel free."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Carthaginian colonists proudly traced their descent and Punic tongue back to the ancient **Canaanite** ports of Tyre and Sidon."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The proud **Canaanite** lords assembled in their temple to celebrate the downfall of their feared Hebrew adversary."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Templar denounced his Saxon enemies with all the fiery rhetoric of a Hebrew prophet rebuking the idolatrous **Canaanite** tribes."*

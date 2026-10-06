@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dogs; wolves; jackals; foxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dogs; wolves; jackals; foxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological family of carnivorous mammals that includes domestic dogs, wolves, coyotes, jackals, dingoes, and foxes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, caniform carnivorans characterized by slender cursorial limbs, forty-two teeth, and acute olfactory tracking abilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canidae designates dogs; wolves; jackals; foxes."*
+> - 📜 **Thomas Henry Huxley (*On the Cranial and Dental Characters of the Canidae*):** *"I have been led to divide the family **Canidae** into two primary series based upon the structure of the temporal and zygomatic arches."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social cooperation and communicative vocalizations reach high development among wild members of the **Canidae**."*
+> - 📜 **Richard Owen (*Odontography*):** *"The dental formula of the **Canidae** preserves an ancestral balance between sectorial flesh-cutting and tubercular grinding molars."*

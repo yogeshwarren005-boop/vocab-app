@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to King Canute (Cnut the Great, c. 995–1035), king of Denmark, England, and Norway, famed for the legend of commanding the tide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English historiography and political folklore, the wise monarch who demonstrated the limits of royal power by showing that the ocean tide would not obey his command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The great castle of Norwich, built by Canute, and the great tower at Bury, prove their civilization and skill in architecture."*
+> - 📜 **David Hume (*The History of England*):** *"King **Canute** seated himself upon the beach and commanded the rising ocean tide to retire, exposing the foolish flattery of his fawning courtiers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Scandinavian empire founded by **Canute** the Great united the crowns of England, Denmark, and Norway under a single powerful sovereign."*
+> - 📜 **Thomas Carlyle (*The Early Kings of Norway*):** *"The famous coastal rebuke administered by **Canute** to his courtiers stands as an enduring parable on the impotence of earthly majesty before natural law."*

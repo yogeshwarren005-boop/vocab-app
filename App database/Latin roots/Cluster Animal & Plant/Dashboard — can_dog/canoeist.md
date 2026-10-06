@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone paddling a canoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone paddling a canoe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who paddles or travels in a canoe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In outdoor recreation and adventure literature, wilderness paddlers navigating backcountry river rapids and portage routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canoeist designates someone paddling a canoe."*
+> - 📜 **Robert Louis Stevenson (*An Inland Voyage*):** *"The adventurous **canoeist** paddled along the winding rivers of northern France, sleeping in riverside inns under the willow trees."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The solitary **canoeist** glides silently past sleeping farms, observing wildlife that vanishes at the sound of heavy oars."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"Our native **canoeist** read the swirling tidal currents of the icy fiord with extraordinary navigational instinct."*

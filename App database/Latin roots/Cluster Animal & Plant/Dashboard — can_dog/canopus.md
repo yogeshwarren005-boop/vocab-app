@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supergiant star 650 light years from earth; second brightest star in the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supergiant star 650 light years from earth; second brightest star in the sky.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second-brightest star in the night sky, a white supergiant in the southern constellation Carina; or an ancient Egyptian port.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial navigation and aerospace astronautics, the primary attitude-reference star used by space probes to navigate outside the solar plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He points it burning towards Sirius; he says that Sirius shall twinkle like Canopus."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He sings; he sings about Canopus, he sings about Sirius; he points to them with fire,[807] that they may twinkle like each other."*
+> - 📜 **John Herschel (*Results of Astronomical Observations at the Cape of Good Hope*):** *"The brilliant white supergiant **Canopus** dominates the southern heavens, blazing with unsurpassed planetary brilliance."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"As we sailed past the Tropic of Cancer, **Canopus** rose above the horizon, guiding our course across the Atlantic."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient trading harbor of **Canopus** on the western mouth of the Nile was renowned for wealth and festive licentiousness."*

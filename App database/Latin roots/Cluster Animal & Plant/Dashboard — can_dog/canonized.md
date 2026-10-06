@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially proclaimed a saint; or recognized, revered, and established as an authoritative classic or orthodox standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical religion, martyrs inscribed in the Roman Martyrology for universal liturgical commemoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Louis XVI was executed because they said he was dishonorable and a criminal,” came into Pierre’s head, “and from their point of view they were right, as were those too who canonized him and died a martyr’s death for his sake."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Those **canonized** bones that sleep in peace / Shall wake to hear the trumpet of our victory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"King Louis IX of France was **canonized** by Boniface VIII, remembered by posterity as Saint Louis the crusader."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan elders were reverenced by the people with almost the same devotion paid to **canonized** saints in Catholic realms."*

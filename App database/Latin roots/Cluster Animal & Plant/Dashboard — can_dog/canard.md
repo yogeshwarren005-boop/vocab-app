@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately misleading fabrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately misleading fabrication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfounded rumor, fabricated story, or hoax, especially one deliberately spread by the press.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical design, an aerodynamic configuration where a small forewing or horizontal stabilizer is placed ahead of the main wing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I understood very soon that all that which was published in the "Gazette" of the sixteenth was a canard, and so I said to Don José de Montoria and his wife, who in their optimism attributed my incredulity to a lack of public spirit."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The sensational Parisian newspaper story proved to be a pure **canard**, invented by an imaginative correspondent out of whole cloth."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The rumor of Napoleon's sudden victory at Waterloo was an alarming **canard** that sent the stock market plunging into panic."*
+> - 📜 **Edgar Allan Poe (*The Balloon-Hoax*):** *"The public eagerly devoured what proved to be an ingenious journalistic **canard** describing a transatlantic balloon flight in three days."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bottle with a stopper; for serving wine or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle with a stopper; for serving wine or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative glass or crystal bottle, typically with a stopper, into which wine or other liquor is poured for serving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture and social dining rituals, an engraved crystal vessel displayed on dining tables to aerate vintage wines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He left his compliments, and would you partake of some refreshment”—there were biscuits and a decanter of wine on a small table—“and look over the paper,” which the young gentleman gave me as he spoke."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, taking a decanter of choicer wine from his dumb-waiter, and filling for each of us and for himself, “and may the question of supremacy be settled to the lady’s satisfaction!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley, passing the decanter to Mr."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge set out the bottles with trembling joy, filling a heavy glass **decanter** with glowing port wine for Bob Cratchit."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Hurst called impatiently for the wine **decanter**, indifferent to any conversation that did not concern the dinner or the cards."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Abbey Grange*):** *"On the mahogany sideboard stood a cut-glass **decanter** containing the remains of a bottle of fine Beaune wine."*

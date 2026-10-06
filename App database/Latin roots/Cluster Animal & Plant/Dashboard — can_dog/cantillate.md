@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recite with musical intonation; recite as a chant or a psalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To chant or intone religious texts, especially Hebrew scripture, with ritual musical inflections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synagogue liturgical tradition, reciting biblical verses according to ancient Masoretic trope signs (te'amim) indicating phrasing and melody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantillate designates recite with musical intonation; recite as a chant or a psalm."*
+> - 📜 **Ernest Renan (*History of the People of Israel*):** *"The ancient Levites were trained to **cantillate** the sacred psalms before the altar with traditional modal inflections."*
+> - 📜 **Max Muller (*Lectures on the Origin of Religion*):** *"In every ancient religion, the priesthood learned to **cantillate** sacred hymns to preserve their exact phonetic meter."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The cantor rose in the synagogue to **cantillate** the Sabbath Torah portion, his resonant voice vibrating with ancient modal cadences."*

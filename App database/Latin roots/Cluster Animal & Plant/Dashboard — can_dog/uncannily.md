@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncanny manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uncanny manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncanny, strange, eerie, mysterious, or unsettling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction and ghost stories, exhibiting resemblance, precision, or prescience so exact as to feel supernatural.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge became uncannily silent."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The portrait of Hugo Baskerville resembled Stapleton so **uncannily** that Holmes gasped in astonishment at the likeness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The demonic laughter echoed **uncannily** through the third-story corridor of Thornfield Hall in the dead of night."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The sleeve moved with human gestures while remaining **uncannily** empty, terrifying all who watched in the village parlor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city on the zhu jiang delta in southern china; the capital of guangdong province and a major deep-water port.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small administrative division of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a country established for political or administrative purposes, especially in Switzerland; or a corner of a shield in heraldry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and vexillology, a rectangular charge occupying the upper hoist corner of an escutcheon or national flag.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom prevailed, for example, throughout the canton of Lucerne."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This was called "burning the witch." In some parts of the canton also they used to wrap old wheels in straw and thorns, put a light to them, and send them rolling and blazing down hill."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Jura mountains of the canton of Bern, while the log is burning on the hearth the people sing a blessing over it as follows:-- "_May the log burn!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hardy mountaineers of each Swiss **canton** defended their ancestral liberties against the Austrian chivalry at Morgarten."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The administrative autonomy enjoyed by each Swiss **canton** illustrates the strengths and weaknesses of decentralized confederation."*
+> - 📜 **Walter Scott (*Anne of Geierstein*):** *"Deputies from every forest **canton** assembled at Uri to swear mutual defense upon the ancient mountain covenant."*

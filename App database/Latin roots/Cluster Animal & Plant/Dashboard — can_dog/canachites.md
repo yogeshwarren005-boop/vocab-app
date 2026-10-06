@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spruce grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spruce grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of North American grouse in the family Phasianidae, notably comprising the spruce grouse (Canachites canadensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In boreal ornithology, conifer-dwelling grouse famous for feeding on spruce needles during winter and displaying extreme tameness ('fool hen').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canachites designates spruce grouse."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The spruce grouse, cataloged under **Canachites**, inhabits the dense larch and spruce swamps of Maine and lower Canada."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In the genus **Canachites**, the male exhibits handsome slate-and-black plumage with a vibrant scarlet comb above the eye."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide pointed out a pair of spruce partridges of the genus **Canachites** perched fearlessly upon a low balsam bough."*

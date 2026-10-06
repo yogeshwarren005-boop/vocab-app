@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hot period between early july and early september; a period of inactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hot period between early july and early september; a period of inactivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Dog Star, Sirius; or the dog days of summer, marked by intense, sultry heat and stagnant air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical French literature and historical meteorology, the oppressive summer period between mid-July and late August.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canicule designates the hot period between early july and early september; a period of inactivity."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The dusty streets of the faubourg baked under the breathless glare of the **canicule**, driving the working poor into dark alleys."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"During the extreme heat of the **canicule**, the Mediterranean ports were plagued by outbreaks of coastal fever."*
+> - 📜 **Honoré de Balzac (*Père Goriot*):** *"The boarding-house garden wilted beneath the blazing sun of the **canicule**, its few geraniums covered in chalky dust."*

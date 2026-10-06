@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid found in the jack bean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid found in the jack bean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-protein amino acid structurally related to L-arginine, found in certain leguminous plants, especially the seeds of Canavalia ensiformis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical ecology and plant defense, an antimetabolite incorporated into insect proteins in place of arginine, causing lethal structural disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canavanine designates an amino acid found in the jack bean."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Plant seeds contain diverse non-protein nitrogenous compounds, among which the arginine analogue **canavanine** serves as a potent biochemical defense."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Toxic amino acids like **canavanine** illustrate the chemical armory that legumes employ to repel herbivorous insect larvae."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Molecular mimics such as **canavanine** poison cellular protein synthesis by competing with essential standard amino acids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of cambridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of cambridge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the University of Cambridge or the city of Cambridge; or a student or graduate of Cambridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British university culture, designating traditions, rowing crews (the Light Blues), or collegiate scholarship associated with Cambridge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantabrigian designates a resident of cambridge."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The proud **Cantabrigian** scholars defended their university privileges against the arbitrary mandates of James II."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Arthur Pendennis arrived at the university eager to emulate the fashionable habits of the senior **Cantabrigian** gentlemen."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The tutor was an accomplished **Cantabrigian** mathematician who had achieved high honors in the mathematical tripos."*

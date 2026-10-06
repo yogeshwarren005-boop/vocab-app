@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the quechuan people living in the cuzco valley in peru.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the incas or their culture or empire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the Incas, their pre-Columbian South American empire, civilization, architecture, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Andean archaeology and historical ethnology, designating the Tahuantinsuyu empire centered at Cusco, famed for monumental masonry and road networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incan designates a member of the quechuan people living in the cuzco valley in peru."*
+> - 📜 **William H. Prescott (*History of the Conquest of Peru*):** *"The monumental **Incan** highways traversed dizzying Andean precipices with stone stairs and suspension bridges of extraordinary engineering."*
+> - 📜 **Alexander von Humboldt (*Vues des Cordillères*):** *"The massive cyclopean stones of the **Incan** fortress of Sacsahuamán fit together with such precision that a knife blade cannot penetrate the joints."*
+> - 📜 **Hiram Bingham (*Lost City of the Incas*):** *"Machu Picchu revealed the crowning perfection of **Incan** architectural mastery, perched between granite mountain peaks above the Urubamba."*

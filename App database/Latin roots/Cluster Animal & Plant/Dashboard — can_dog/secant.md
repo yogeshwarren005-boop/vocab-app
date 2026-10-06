@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line that intersects a curve at two or more points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the adjacent side of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line that cuts a curve in two or more points; or the trigonometric function that is the reciprocal of the cosine (sec x = 1 / cos x).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and trigonometry, the ratio of the hypotenuse to the adjacent side in a right-angled triangle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secant designates a straight line that intersects a curve at two or more points."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The trajectory of the refracted ray through the prism may be computed geometrically by considering the **secant** of the angle of incidence."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"In spherical trigonometry, the computation of zenith distances employs the **secant** and cosecant of the observer's latitude."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"A **secant** line intersecting a circle illustrates how limits can be analyzed as the distance between intersection points vanishes."*

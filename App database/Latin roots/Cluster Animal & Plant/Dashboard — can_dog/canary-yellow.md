@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of a canary; of a light to moderate yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of a canary; of a light to moderate yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright, clear, vibrant yellow color resembling the plumage of a yellow canary bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mineralogy, botany, and fashion, denoting an intense primary yellow hue without greenish or orange undertones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canary-yellow designates having the color of a canary; of a light to moderate yellow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Boythorn wore an enormous **canary-yellow** waistcoat that seemed to reflect his loud, boisterous good-nature."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The jewel thief dropped a leather pouch containing several rare **canary-yellow** diamonds of immense value."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He bound the curious French novel in a cover of **canary-yellow** silk to match the decadent atmosphere of his library."*

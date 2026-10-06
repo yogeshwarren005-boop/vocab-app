@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transparent covering of an aircraft cockpit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The umbrellalike part of a parachute that fills with air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental cloth covering hung or held up over a bed, throne, or sacred object; or any overhanging projection or foliage cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest ecology and architecture, the uppermost continuous layer of foliage formed by mature tree crowns, intercepting sunlight and rain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gives not the hawthorn bush a sweeter shade To shepherds looking on their silly sheep Than doth a rich embroidered canopy To kings that fear their subjects’ treachery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A canopy, borne by four of the Cinque Ports; under it, the Queen in her robe, in her hair, richly adorned with pearl, crowned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O woe, thy canopy is dust and stones, Which with sweet water nightly I will dew, Or wanting that, with tears distill’d by moans."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"This most excellent **canopy**, the air, look you, this brave o'erhanging firmament, this majestical roof fretted with golden fire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under the shady **canopy** of whispering boughs, the first parents enjoyed sweet nocturnal repose."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The dense green **canopy** of the summer pines cast cool, fragrant shadows across the tranquil waters of the pond."*

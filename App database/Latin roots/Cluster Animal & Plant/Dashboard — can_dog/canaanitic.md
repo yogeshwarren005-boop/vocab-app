@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of semitic languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of semitic languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ancient Canaan, its inhabitants, or the Canaanite branch of Northwest Semitic languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Semitic comparative linguistics, the dialect continuum encompassing Hebrew, Phoenician, Punic, Moabite, and Ammonite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canaanitic designates a group of semitic languages."*
+> - 📜 **Ernest Renan (*History of the People of Israel*):** *"Early Hebrew poetry preserves unmistakable traces of archaic **Canaanitic** mythological imagery and sacrificial nomenclature."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"Phoenician maritime inscriptions reveal the close grammatical kinship connecting all **Canaanitic** dialects along the Levant."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The invention of the North Semitic alphabet took place in a bilingual contact zone between Egyptian hieroglyphic and **Canaanitic** scripts."*

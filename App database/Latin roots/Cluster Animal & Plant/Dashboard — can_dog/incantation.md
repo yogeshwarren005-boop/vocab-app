@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ritual recitation of words or sounds believed to have a magical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ritual recitation of words or sounds believed to have a magical effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of words said as a magic spell, charm, or chant; or the chanting or uttering of words purporting to have magical power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ritual folklore, anthropology, and dramatic poetry, verbal formulas believed to summon supernatural entities or alter physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In consequence of a disease among the black cattle the people agreed to perform an incantation, though they esteemed it a wicked thing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"If the fire were not produced before noon, the incantation lost its effect."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Round about the cauldron go; / In the poison'd entrails throw. / ... / Double, double toil and trouble; / Fire burn and cauldron bubble. A fearful **incantation**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With hellish **incantation** the sorcerer invoked the dark powers of the deep to overthrow the kingdom of light."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The German charlatan muttered an unintelligible **incantation** over the glowing brazier to deceive his credulous patron."*

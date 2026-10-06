@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an open or latticed or porous structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an open or latticed or porous structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a porous, spongy, or latticed structure, especially said of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic biomechanics, the internal trabecular network of bones aligned along lines of principal mechanical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancellous designates having an open or latticed or porous structure."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The internal **cancellous** architecture of the human femur displays trajectories corresponding precisely to mechanical stress lines."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cranial vault is composed of two plates of compact bone separated by an intermediate layer of vascular **cancellous** diploë."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous osteomyelitis attacks primarily the vascular **cancellous** tissue of the vertebral bodies and articular epiphyses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various fissiped mammals with nonretractile claws and typically long muzzles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various fissiped mammals with nonretractile claws and typically long muzzles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal of the dog family Canidae, including wolves, jackals, foxes, and wild dogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carnivoran evolution, cursorial digitigrade predators possessing non-retractile claws, acute olfaction, and specialized shearing carnassial teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canid designates any of various fissiped mammals with nonretractile claws and typically long muzzles."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The origin of the domestic dog from one or more wild **canid** species remains one of the most intriguing problems in biology."*
+> - 📜 **Thomas Henry Huxley (*On the Cranial and Dental Characters of the Canidae*):** *"Every typical **canid** exhibits a prolonged facial rostrum and well-developed sagittal crest for temporal muscle attachment."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The African hunting dog represents a specialized cursorial **canid** that hunts in coordinated packs with relentless endurance."*

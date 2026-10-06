@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve in a can or tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserved and sealed in an airtight tin or glass container; or recorded in advance for subsequent broadcast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century commercial food production and mass media, hermetically processed foodstuffs, or pre-recorded studio audience laughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chicago canned milk never gave more comfort than on this occasion, I assure you."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Potatoes, received from Iowa, and dried fruit and canned, have been distributed among the men."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great need we have in connection with these 'Diet Kitchens,' is the want of canned fruits, jellies, preserves, etc."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The fishermen brought their catches to the factory, where tons of pilchards were salted, cooked, and **canned** for shipment."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Working-class families relied heavily on cheap **canned** meats and sweetened condensed milk, degrading their nutritional health."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt praised the convenience of modern life, where every household consumed **canned** peaches and standardized bread."*

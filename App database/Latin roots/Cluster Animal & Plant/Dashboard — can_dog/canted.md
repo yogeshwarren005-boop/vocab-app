@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heel over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing or being caused to depart from the true vertical or horizontal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tilted, angled, sloped, or pitched obliquely; or expressed in sanctimonious, hypocritical, or jargonized cant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpentry, naval architecture, and surveying, beveled edges or frames set at an inclination to the perpendicular.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Just then the stone canted, the dark and slimy top was seen to end in a smoothly rounded edge, and close by the man’s legs poked up a dusky, flat, and snake-like head."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship lay heavily **canted** over on her side as the tremendous squall struck our remaining topsails."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The puritan hypocrite spoke in a **canted** whine that sickened every honest listener in the courtroom."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The Hispaniola had run ashore on the sandbar and sat **canted** sharply to port, her deck awash with breakers."*

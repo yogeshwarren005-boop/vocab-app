@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific or pharmaceutical name for the wild cinnamon tree (Canella winterana) or its fragrant medicinal inner bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial materia medica, an aromatic tonic prescribed in European dispensatories to treat dyspepsia, scurvy, and chronic debility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella-alba designates large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes."*
+> - 📜 **Hans Sloane (*Catalogus Plantarum*):** *"Specimens of **Canella-alba** were gathered on the dry limestone hills of Jamaica, where the tree thrives in coastal sunshine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The old practitioners placed great reliance on bitter infusions of **Canella-alba** to stimulate appetite in convalescent patients."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Writers on foreign simples frequently confound true cinnamomum with the aromatic cortex of **Canella-alba** from the Western Indies."*

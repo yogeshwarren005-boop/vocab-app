@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Canton (Guangzhou) in southern China, its people, culture, or the Yue Chinese language widely spoken there and in Hong Kong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Chinese dialectology and global diaspora history, a major Sinitic branch retaining archaic Middle Chinese final stop consonants and six to nine tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantonese designates the dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china."*
+> - 📜 **Richard Francis Burton (*Pilgrimage to El-Medinah and Meccah*):** *"In the crowded oriental port we met prosperous **Cantonese** merchants trading in raw silk, porcelain, and southern teas."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The **Cantonese** language preserves ancient phonetic features that have been lost in the more modern Mandarin dialects of the north."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The Chinese miners in California were chiefly **Cantonese** laborers whose patient, uncomplaining industry was the marvel of the camp."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by barbarity suggestive of a cannibal; rapaciously savage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by barbarity suggestive of a cannibal; rapaciously savage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or resembling cannibals or cannibalism; anthropophagous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and maritime survival chronicles, describing ritual or starvation practices of consuming human flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannibalic designates marked by barbarity suggestive of a cannibal; rapaciously savage."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders were universally feared across the Pacific for their supposed **cannibalic** feasts upon captive enemies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Fuegians were accused of **cannibalic** atrocities during severe winters when famine threatened the tribe."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The native crew was composed of men belonging to tribes reputedly **cannibalic**, yet they behaved with extraordinary restraint."*

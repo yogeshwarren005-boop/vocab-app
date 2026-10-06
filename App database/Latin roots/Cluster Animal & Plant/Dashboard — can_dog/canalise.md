@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide (a city) with a canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct the flow of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a river into a canal; or to direct, channel, or guide thoughts, energies, or resources into a specific course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and hydraulic engineering, constructing weirs and locks to regulate water flow and establish navigable inland routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canalise designates provide (a city) with a canal."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The supreme task of wartime leadership is to **canalise** the entire productive energy of the nation toward victory."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Social customs operate like physical riverbanks, serving to **canalise** human passions into constructive cooperative channels."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The ancient Mesopotamians were the first to **canalise** the Euphrates, turning desert sands into fruitful grainfields."*

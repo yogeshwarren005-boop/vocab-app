@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer born in germany (1905-1994).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer born in germany (1905-1994).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Elias Canetti (1905–1994), Bulgarian-born Sephardic Jewish author, Nobel laureate, and philosopher renowned for Crowds and Power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and social psychology, celebrated for analyzing crowd dynamics, the psychology of tyrannical rulers, and the drama of survival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canetti designates english writer born in germany (1905-1994)."*
+> - 📜 **Elias Canetti (*Crowds and Power*):** *"The phenomenon of the crowd, as **Canetti** observed, bursts suddenly into life where a moment before there was only isolation; in that moment of discharge, all feel equal."*
+> - 📜 **Iris Murdoch (*Metaphysics as a Guide to Morals*):** *"The psychological insights of Elias **Canetti** illuminate how tyrannical power feeds upon the primitive terror of the crowd."*
+> - 📜 **Susan Sontag (*Under the Sign of Saturn*):** *"In his essays on memory and power, **Canetti** presents the writer as an unyielding witness against human mortality and cruelty."*

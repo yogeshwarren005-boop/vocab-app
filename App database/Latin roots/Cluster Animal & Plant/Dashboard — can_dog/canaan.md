@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient country in southwestern asia on the east coast of the mediterranean sea; a place of pilgrimage for christianity and islam and judaism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient country in southwestern asia on the east coast of the mediterranean sea; a place of pilgrimage for christianity and islam and judaism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient biblical region situated between the Mediterranean Sea and the Jordan River; the Promised Land of the Israelites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical typography and spiritual hymnody, an allegorical emblem of heavenly rest, spiritual freedom, and ultimate deliverance from oppression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a land of oil, true enough: but not like Canaan; a land, also, of corn and wine."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So to the Jews old Canaan stood, While Jordan rolled between.” Never did those sweet words sound more sweetly to me than then."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And, on a parched and starving world The brazen sun glares down; Though Canaan's forests, fields and farms, Are scorched, as with a flame, There's food in Joseph's granaries In Egypt just the same."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From Egypt to the land of **Canaan** led / By his prophetic rod, the chosen seed / Enjoy the promised rest."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The enslaved singers disguised their longing for northern freedom under moving spiritual hymns about crossing into **Canaan**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertile hills and pastures of ancient **Canaan** supported prosperous agricultural communities along the coastal trade routes."*

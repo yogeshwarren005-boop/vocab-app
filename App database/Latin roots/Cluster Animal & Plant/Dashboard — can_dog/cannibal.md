@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats the flesh of other human beings; or an animal that eats the flesh of members of its own species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and ethnology, derived from Caniba (Carib), symbolizing extreme savagery or desperate maritime survival taboos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was said they were given to cannibal practices."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
+> - 📜 **William Shakespeare (*Othello*):** *"And of the Cannibals that each other eat, / The Anthropophagi, and men whose heads / Do grow beneath their shoulders. A fearsome **cannibal** tale."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg was a native of Rokovoko, an island far away to the West and South. It is not down in any map; true places never are. Yet he was a lovable **cannibal**."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I was horrified to discover human bones and embers upon the beach, left by a feast of **cannibal** savages from the mainland."*

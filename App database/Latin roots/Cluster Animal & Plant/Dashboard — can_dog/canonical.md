@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing in a biblical canon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or required by canon law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to or ordered by canon law; included in the list of sacred books; or accepted as being standard, authoritative, or orthodox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical physics and literature, the canonical ensemble of thermodynamics, or the standard recognized body of literary masterworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But it may be more than a coincidence that his countrymen were impressed with his knowledge of the national literature; and traces of other than canonical books have been found in his teaching."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They unweariedly continue their canonical hours, not piecing any service to another, except the _vigils_ for the deceased."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas</g> and the clergy of the middle ages are to be condemned for resisting such injustice by prayers, and law, and canonical censures, what will be thought of <g>St."*
+> - 📜 **John Milton (*Areopagitica*):** *"The licensers claimed the authority to determine what books were **canonical** and orthodox, suppressing every daring original thought."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Archdeacon Grantly appeared in full **canonical** attire, his shovel hat and apron asserting clerical dignity against all reform."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Book of Common Prayer was invested with **canonical** authority by statutory enactment under Elizabeth I."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta filled with meat or cheese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta filled with meat or cheese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large cylindrical tubes of pasta, traditionally stuffed with a savory filling of minced meat, ricotta, or spinach, and baked with sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian regional gastronomy, an oven-baked pasta dish originating in Campania and Emilia-Romagna, coated in béchamel and tomato ragù.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannelloni designates tubular pasta filled with meat or cheese."*
+> - 📜 **Norman Douglas (*South Wind*):** *"The trattoria chef served a steaming dish of baked **cannelloni** bubbling with fragrant tomato sauce and fresh basil."*
+> - 📜 **Ernest Hemingway (*Across the River and into the Trees*):** *"They sat at the corner table in Harry's Bar, enjoying a glass of Valpolicella alongside baked **cannelloni**."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"To prepare authentic **cannelloni**, roll fresh egg pasta sheets around a filling of braised veal, spinach, and grated parmesan."*

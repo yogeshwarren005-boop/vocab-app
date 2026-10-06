@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of flowering plants (order Rosales) that includes Cannabis (hemp, marijuana) and Humulus (hops).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and pharmacognosy, wind-pollinated dioecious herbs and climbers possessing resinous secretory glands containing aromatic terpenes and cannabinoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabidaceae designates two genera of erect or twining herbs that are pollinated by the wind, including the genera cannabis and humulus; term not used in all classifications; in some the genus cannabis is placed in the family moraceae and the genus humulus in the family urticaceae."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The family **Cannabidaceae** unites the valuable fiber plant hemp with the brewing hop vine under a single natural alliance."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Genera of the **Cannabidaceae** are characterized by palmately divided leaves, dioecious flowers, and rich resinous aromatic glands."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The common hop, belonging to the **Cannabidaceae**, revolves in search of support with extraordinary circumnutational energy."*

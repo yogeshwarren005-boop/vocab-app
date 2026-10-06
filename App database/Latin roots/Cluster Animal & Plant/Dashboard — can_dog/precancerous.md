@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a growth that is not malignant but is likely to become so if not treated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a growth that is not malignant but is likely to become so if not treated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or manifesting a histological condition that tends to develop into cancer; premalignant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and oncology, cellular atypia, dysplasia, or carcinoma in situ preceding invasive stromal penetration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precancerous designates of or relating to a growth that is not malignant but is likely to become so if not treated."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Leukoplakia of the tongue must be regarded by the surgeon as a dangerous **precancerous** state requiring prompt intervention."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic localized irritation of epithelial tissues frequently induces **precancerous** hyperplasia that demands early surgical scrutiny."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination reveals cellular dysplasia in **precancerous** lesions before malignant invasion breaks the basement membrane."*

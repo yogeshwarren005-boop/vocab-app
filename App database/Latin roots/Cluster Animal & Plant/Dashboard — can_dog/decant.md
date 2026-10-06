@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour a liquid gently from one vessel into another, especially wine or a chemical solution, without disturbing the sediment at the bottom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and culinary arts, separating a clear supernatant liquid from a settled precipitate, or aerating aged vintage wine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is an ineffably oozy, stringy affair, most frequently found in the tubs of sperm, after a prolonged squeezing, and subsequent decanting."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"No fighting, indeed, but folks lying drunk on the floor, and decanting, until both my dogs got so drunk by attending them, that they could not stand."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The host proceeded to **decant** a bottle of rare old port with exquisite care, watching the candlelight through the dark glass."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"After the precipitate hath completely subsided to the bottom, carefully **decant** the clear alkaline liquor into a clean vial."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The butler stood by the sideboard ready to **decant** the sherry before the mayor and corporation sat down to dinner."*

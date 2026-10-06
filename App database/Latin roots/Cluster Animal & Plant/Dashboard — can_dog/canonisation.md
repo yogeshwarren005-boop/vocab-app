@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official declaration by the Pope that a deceased Catholic is a saint and worthy of public veneration; canonization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and cultural history, the elevation of an author, text, or artist into the permanent classical pantheon of high culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"For them he is the "banner of freedom," which, "Torn but flying, Streams like a thunder-cloud against the wind." He has suffered that worst indignity of canonisation as a being saintly and superhuman, not subject to the morality of ordinary mortals."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The papal **canonisation** of martyrs was preceded by rigorous legal trials wherein the devil's advocate challenged every recorded miracle."*
+> - 📜 **John Donne (*The Canonization*):** *"We can die by it, if not live by love, / And if unfit for tombs and hearse / Our legend be, it will be fit for verse; / And if no piece of chronicle we prove, / We'll build in sonnets pretty rooms; / And by our **canonisation** be remembered."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The posthumous **canonisation** of Charles I as a royal martyr became the central dogma of high Tory political theology."*

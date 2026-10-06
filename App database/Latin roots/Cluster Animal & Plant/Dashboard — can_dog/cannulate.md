@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce a cannula or tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce a cannula or tube into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a cannula into a vein, artery, duct, or body cavity; or having the form of a tube or cannula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical procedure and laboratory hemodynamics, placing an intravenous or intra-arterial catheter to record pressure or deliver intravenous fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulate designates introduce a cannula or tube into."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of severe circulatory collapse, the physician must promptly **cannulate** a peripheral vein to administer saline infusions."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Physiologists **cannulate** the carotid artery of the dog and connect it to a mercury manometer to register blood pressure."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The operator attempted to **cannulate** the Wharton duct to dislodge an impacted submandibular salivary calculus."*

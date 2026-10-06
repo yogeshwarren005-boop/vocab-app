@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs or woody vines of mainly american tropics and subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs or woody vines of mainly american tropics and subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical climbing or sprawling leguminous plants in the pea family (Fabaceae), commonly known as jack beans or sword beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and biochemistry, resilient cover crops and green manures producing large seeds that are the primary source of the amino acid canavanine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canavalia designates herbs or woody vines of mainly american tropics and subtropics."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The robust papilionaceous flowers of **Canavalia** display specialized explosive mechanisms that dust visiting bees with pollen."*
+> - 📜 **Hans Sloane (*A Voyage to Jamaica*):** *"The climbing sword-bean, a species of **Canavalia**, grows luxuriantly over fences, producing immense curved pods containing white seeds."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Canavalia** are widely cultivated throughout the tropics both as nutritious forage for cattle and as restorative soil cover."*

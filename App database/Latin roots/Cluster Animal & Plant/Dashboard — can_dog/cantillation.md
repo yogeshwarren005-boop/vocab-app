@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liturgical chanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liturgical chanting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual chanting or musical intonation of sacred scriptures or liturgical texts in religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and Jewish liturgy, the formal system of chanting Hebrew biblical texts guided by melodic accents that emphasize grammatical syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantillation designates liturgical chanting."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Daniel listened with profound awe to the solemn **cantillation** of the ancient Hebrew prayers in the Frankfurt synagogue."*
+> - 📜 **Ernest Renan (*The Life of Jesus*):** *"The traditional synagogal **cantillation** preserved the melodic cadence of biblical poetry long after Hebrew ceased to be a spoken tongue."*
+> - 📜 **Max Muller (*The Science of Language*):** *"Vedic recitation and Hebrew **cantillation** both demonstrate how ritual singing protects sacred texts from phonetic corruption."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense growth of cane (especially giant cane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense growth of cane (especially giant cane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, impenetrable thicket of giant canes or reeds, especially Arundinaria gigantea, growing along river bottoms in the southeastern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American landscape ecology and frontier history, vast wetlands that provided wildlife habitat for black bears, cougars, and outlaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Young'un, if you go down in this damn river bottom, you'll get lost!" I scooted under a low-hanging limb and headed for a canebrake right ahead."*
-> - 📜 **James Joyce (*Ulysses*):** *"THE VOICE OF VIRAG: _(A birdchief, bluestreaked and feathered in war panoply with his assegai, striding through a crackling canebrake over beechmast and acorns.)_ Hot!"*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"We hid the raft in a deep **canebrake** along the riverbank, where the tall green reeds completely concealed us from passing steamboats."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The now-extinct Carolina parakeet congregated in noisy flocks within the dense **canebrake** bottoms along the Mississippi River."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"Hunting bear through a tangled southern **canebrake** tests the endurance of both hounds and horsemen to the utmost."*

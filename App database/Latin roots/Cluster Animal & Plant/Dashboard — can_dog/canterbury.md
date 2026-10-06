@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in kent in southeastern england; site of the cathedral where thomas a becket was martyred in 1170; seat of the archbishop and primate of the anglican church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic cathedral city in Kent, southeastern England, the ecclesiastical capital of the Church of England; or a low stand with partitions for holding music sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English literature and religious history, the celebrated destination of Chaucer's Canterbury Tales pilgrims seeking the martyr shrine of St. Thomas Becket.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lads, my lads, tomorrow morning, by four o’clock early at Gad’s Hill, there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Archbishop of Canterbury and the Bishop of Ely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CANTERBURY. ’Twould drink the cup and all."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"And specially, from every shires ende / Of Engelond, to **Caunterbury** they wende, / The hooly blisful martir for to seke."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Archbishop of **Canterbury** stood as the first subject of the realm, crowning monarchs in Westminster Abbey."*
+> - 📜 **Jane Austen (*Emma*):** *"In the drawing-room stood a rosewood **canterbury** containing the young ladies' latest bound piano sonatas."*

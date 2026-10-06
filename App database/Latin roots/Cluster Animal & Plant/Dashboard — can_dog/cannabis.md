@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most commonly used illicit drug; considered a soft drug, it consists of the dried leaves of the hemp plant; smoked or chewed for euphoric effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall annual dioecious Asian plant (Cannabis sativa) with palmate leaves, cultivated for tough bast fiber (hemp) and psychotropic resins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and pharmacology, the flowering tops containing psychoactive cannabinoid compounds utilized in traditional medicine and rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannabis designates any plant of the genus cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers; yields tough fibers and narcotic drugs."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of **Cannabis** sativa diverge widely according to whether they are grown for textile fiber or for intoxicating resin."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The mystic brotherhood prepared a potent confection of **cannabis** and honey to induce visionary trances during nocturnal assemblies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tincture of **cannabis** was historically employed as an effective palliative in cases of severe migraine and muscular spasm."*

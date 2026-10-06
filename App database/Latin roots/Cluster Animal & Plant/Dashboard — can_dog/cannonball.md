@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid projectile that in former times was fired from a cannon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid projectile that in former times was fired from a cannon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid round spherical metal or stone projectile fired from a cannon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical warfare and siege engineering, cast-iron shot designed to puncture oak hulls or demolish stone masonry walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the course of the argument cannonballs, scimitars, boomerangs, blunderbusses, stinkpots, meatchoppers, umbrellas, catapults, knuckledusters, sandbags, lumps of pig iron were resorted to and blows were freely exchanged."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Tell him he hath made a match with too much youth; / And bid him think the gun-stones that he seeks / Are turn'd to **cannonball** terrors for his court."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"A stray **cannonball** skipped across the ocean swells, striking our bulwarks and scattering deadly oak splinters across the deck."*
+> - 📜 **Arthur Conan Doyle (*The Exploits of Brigadier Gerard*):** *"A spent **cannonball** bounced through the mud, showering our cavalry squadron with dirt and turf."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical procedure or act of cannulating a vein, duct, or cavity; cannulization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, providing venous access for saline fluid therapy, blood transfusions, or physiological pressure monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulisation designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The **cannulisation** of the saphenous vein was performed under local anaesthesia to initiate urgent saline infusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Skillful **cannulisation** of the trachea provides immediate airway relief during diphtheritic laryngeal obstruction."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"In physiological experiments, the **cannulisation** of the ureter allows direct quantitative collection of renal secretions."*

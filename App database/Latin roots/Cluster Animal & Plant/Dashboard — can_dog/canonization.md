@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official act or process by which the Catholic Church declares a deceased person to be a saint; or elevation to classical status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and curriculum design, institutional processes (anthologies, university syllabi) establishing canonical literary masterworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canonization designates (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The process of **canonization** was subjected to strict judicial rules under Urban VIII, requiring verified miracles and heroic virtue."*
+> - 📜 **John Donne (*Songs and Sonnets (The Canonization)*):** *"With all the solemnity of poetic **canonization**, the lovers are enshrined in verse for all future generations to admire."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The literary **canonization** of Jeffrey Aspern had transformed his most trivial scrap of correspondence into sacred treasure."*

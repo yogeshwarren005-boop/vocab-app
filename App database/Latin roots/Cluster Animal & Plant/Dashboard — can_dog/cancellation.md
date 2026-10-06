@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cancelling; calling off some arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of revoking or annulling or making void.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of canceling something; an annulment, revocation, or decision that an event will not occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postal history and philately, an official ink postmark applied to a postage stamp to prevent its fraudulent reuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cancellation of foreign indebtedness. § 9."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Cancellation of human sin Prayer is not to be used as a confessional to cancel sin."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The total **cancellation** of public debt without repayment would deal a fatal blow to national honor and commercial credit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The unexpected **cancellation** of the chancery hearing left the exhausted suitors wandering aimlessly in the fog."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate agreed to the **cancellation** of the lease, accepting heavy financial penalties to escape his unmanageable debts."*

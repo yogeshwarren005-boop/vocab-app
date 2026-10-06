@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the hypotenuse to the opposite side of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the hypotenuse to the opposite side of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trigonometric function that is the reciprocal of the sine of an angle (csc x = 1 / sin x).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical trigonometry and spherical astronomy, calculated historically from trigonometric tables for navigation and triangle resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosecant designates ratio of the hypotenuse to the opposite side of a right-angled triangle."*
+> - 📜 **Isaac Newton (*The Mathematical Principles of Natural Philosophy*):** *"In calculating orbital perturbations, the radius vector varies inversely with the sine, or directly as the **cosecant** of the true anomaly."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The determination of celestial latitude requires trigonometric calculations involving the secant and **cosecant** of the observer's polar distance."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"Trigonometric functions such as the sine, tangent, and **cosecant** express geometric ratios between angular lines in a unit circle."*

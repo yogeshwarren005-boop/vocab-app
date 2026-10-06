@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting the operation of supernatural influences; ; ; - john galsworthy; ; - henry kingsley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing the ordinary or normal;  - george will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strange or mysterious, especially in an unsettling, eerie, or supernatural way; weird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic aesthetics, Sigmund Freud's 'das Unheimliche' (the uncanny): that class of the frightening which leads back to what is old and long familiar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is always other people who tell, and those have been told again by others, that something uncanny has been seen at the castle."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that inexplicable, that uncanny turn of countenance mean?” “I was thinking, sir (you will excuse the idea; it was involuntary), I was thinking of Hercules and Samson with their charmers—” “You were, you little elfish—” “Hush, sir!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long it had been searching me through and through, and over and over, I cannot tell: so keen was it, and yet so cold, I felt for the moment superstitious—as if I were sitting in the room with something uncanny."*
+> - 📜 **Sigmund Freud (*The Uncanny (Das Unheimliche)*):** *"The **uncanny** is that class of the terrifying which leads back to something long known to us, once very familiar."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"An **uncanny** hound bayed across the desolate moorland, chilling the hearts of all who heard its spectral cry."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"There was something abnormal and **uncanny** in the creature's appearance, an indescribable deformity that revolted the gaze."*

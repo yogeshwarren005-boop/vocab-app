@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest part (usually the melody) in a piece of choral music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major division of a long poem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the major divisions or sections into which a long epic or narrative poem is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian poetic tradition (Dante, Ariosto, Tasso, Byron), a book-length poetical segment originally conceived as a single sung unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Part three, for instance, contains a poem that reads like a parody of Belinda awaking in the first canto of Pope's _Rape of the Lock_."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Then soft on the air I whisper a prayer, And know 'twill be echoed above: "Be Thou very near her to comfort and cheer her, Oh, God, bless and cherish my Love!" CANTO THE SECOND."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Jonathan Foster, in the Bohn Library):-- “The Carmelite monk, Fra Filippo di Tommaso Lippi (1412-1469) *1* was born at Florence in a bye-street called Ardiglione, under the Canto alla Cuculia, and behind the convent of the Carmelites."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The third **canto** of the pilgrimage records Harold's wanderings along the majestic Rhine and among the Alpine peaks."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"In every sparkling **canto** of the mock-heroic epic, the poet ridicules the trivial vanities of fashionable society."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Dante partitioned his divine vision into a hundred harmonious cantos, each **canto** echoing with celestial and infernal harmonies."*

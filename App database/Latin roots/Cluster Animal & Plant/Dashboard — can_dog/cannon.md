@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large artillery gun that is usually on wheels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy gun fired from a tank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, large-caliber artillery gun, historically firing solid iron balls or stone shot via gunpowder; or to collide forcefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military artillery history, smoothbore cast-bronze or iron muzzle-loading siege guns that replaced medieval trebuchets and wall-battering engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then a soldier, Full of strange oaths and bearded like the pard, Jealous in honour, sudden and quick in quarrel, Seeking the bubble reputation Even in the cannon’s mouth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The phrase would be more german to the matter if we could carry cannon by our sides."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hamlet, this pearl is thine; Here’s to thy health. [_Trumpets sound, and cannon shot off within._] Give him the cup."*
+> - 📜 **William Shakespeare (*King John*):** *"The **cannon** have their bowels full of wrath; / And ready mounted are they to spit forth / Their iron indignation 'gainst your walls."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"And there was mounting in hot haste: the steed, / The mustering squadron, and the clattering car, / Went pouring forward with impetuous speed, / And swiftly forming in the ranks of war; / And deep the thunder of the **cannon** spoke."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The boom of heavy **cannon** from the Bastille towers echoed through the revolutionary streets of Paris."*

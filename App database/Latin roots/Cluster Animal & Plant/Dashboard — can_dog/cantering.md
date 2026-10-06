@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ride at a canter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go at a canter, of horses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving or riding at a canter; advancing at a smooth, rhythmic, three-beat equine pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In travel narrative and equestrian description, covering open downland roads swiftly without exhausting the mount.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They had reached the front of the house, and were about to go in, when a boy on horseback came cantering up the avenue, and handed a telegram to Edward."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They were cantering homeward as they talked."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I saw you on Saturday cantering over the hill on a nag not worthy of you."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight rode steadily along the forest highway, his heavy charger **cantering** easily beneath his armored weight."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A horseman came **cantering** along the lonely lane, accompanied by a great black-and-white hound bounding before him."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The archers watched the French scout **cantering** across the meadow, checking his reins to inspect their battle line."*

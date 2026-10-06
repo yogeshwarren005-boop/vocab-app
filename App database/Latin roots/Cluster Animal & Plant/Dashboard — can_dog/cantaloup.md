@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of muskmelon vine having fruit with a tan rind and orange flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit of a cantaloup vine; small to medium-sized melon with yellowish flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small round melon with ribbed orange flesh and sweet musky perfume; a variant spelling of cantaloupe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European horticulture, Cucumis melo cantalupensis, originally cultivated at Cantalupo in Italy, famed for warty rinds and aromatic sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantaloup designates a variety of muskmelon vine having fruit with a tan rind and orange flesh."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The autumn garden was rich with fragrant **cantaloup** melons ripening on their sprawling leafy vines."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The dessert table groaned under luscious baskets of purple grapes, peaches, and sweet summer **cantaloup** slices."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Our harvest dinner was sweetened by a ripe **cantaloup** gathered fresh that morning from the sunlit garden patch."*

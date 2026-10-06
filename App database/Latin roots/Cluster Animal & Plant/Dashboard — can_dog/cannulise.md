@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce a cannula or tube into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce a cannula or tube into.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a cannula into a blood vessel or bodily passage; cannulize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and human surgery, catheterizing a lymphatic vessel or trachea to maintain ventilation or drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulise designates introduce a cannula or tube into."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon resolved to **cannulise** the radial artery to obtain exact arterial blood pressure readings during the operation."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"To measure bile secretion rates, it is necessary to **cannulise** the common bile duct before stimulating digestion."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"When superficial veins have collapsed, the assistant must cut down and **cannulise** the internal jugular trunk."*

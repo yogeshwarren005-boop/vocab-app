@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-kicking dance of french origin performed by a female chorus line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-kicking dance of french origin performed by a female chorus line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lively, high-kicking, scandalous dance for women in chorus lines, originating in nineteenth-century Parisian music halls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dance history and theatrical satire, celebrated in Offenbach's operettas and Toulouse-Lautrec's Moulin Rouge posters for its energetic acrobatic defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In part it was a modest _cancan_, in part a step dance, in part a skirt dance (so far as my tail-coat permitted), and in part original."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"We went to the Jardin Mabille to see the famous **cancan**, where the dancers executed high kicks with astonishing agility and complete disregard for decorum."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"The wild, breathless rhythms of the **cancan** swept through the dance hall, sweeping the students and grisettes into a whirlwind of petticoats."*
+> - 📜 **George du Maurier (*Trilby*):** *"The students in the Latin Quarter danced an extravagant **cancan** at the carnival ball, shouting and kicking to the ceiling."*

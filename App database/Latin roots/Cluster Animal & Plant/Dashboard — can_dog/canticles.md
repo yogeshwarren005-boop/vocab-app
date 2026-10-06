@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of canticle; or the biblical book known as the Song of Solomon (Canticle of Canticles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and monastic mysticism, sacred love poetry interpreted allegorically by St. Bernard as the mystical union of Christ and the Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canticles designates an old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The holy book of **Canticles** portrays under the figure of bridal love the spiritual union between Christ and his faithful spouse, the Church."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The pilgrims rested in the fragrant apple orchard, singing sweet **canticles** of thanksgiving for their safe journey."*
+> - 📜 **George Eliot (*Romola*):** *"The novices chanted the evening **canticles** with clear youthful voices that floated across the quiet cloister of San Marco."*

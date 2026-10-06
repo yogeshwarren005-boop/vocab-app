@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a sacred person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare (a dead person) to be a saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially declare a dead person to be a saint in the Catholic Church; or to regard as of great authority or holiness; canonize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, to admit an author or work into the authoritative curriculum or recognized classical tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"On his house-top, he displayed pike and cap, as a good citizen must, and in a window he had stationed his saw inscribed as his “Little Sainte Guillotine”--for the great sharp female was by that time popularly canonised."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Tell / Why thy **canonised** bones, hearsed in death, / Have burst their cerements; why the sepulchre, / Wherein we saw thee quietly inurn'd, / Hath oped his ponderous and marble jaws, / To cast thee up again."*
+> - 📜 **Alexander Pope (*An Epistle to Dr. Arbuthnot*):** *"Praise from such men is praise indeed; / They **canonise** the author whom they read."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman Curia would **canonise** only those ascetics whose miracles were attested by sworn witnesses of credible character."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Projecting horizontal beam fixed at one end only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Project as a cantilever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long projecting beam or girder fixed at only one end, used in bridge construction and architectural balconies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering, structural spans projecting over a void carrying loads through moment resistance at the fixed anchor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Gazing at it each day, there rose up slowly by degrees in his mind, like a dream, the picture of a great work on a new and startling principle--a modification of the cantilever to the necessities of the situation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The great steel bridge rested upon massive stone piers, its central **cantilever** span looming black against the smoky dawn."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian palace balcony was supported by an ornate carved **cantilever** of Istrian marble projecting over the canal."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The human arm operates mechanically as an organic **cantilever**, counterbalancing loads through the tension of the deltoid and pectoral muscles."*

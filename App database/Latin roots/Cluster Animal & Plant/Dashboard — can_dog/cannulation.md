@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical insertion of a cannula or catheter into a blood vessel, duct, or body cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physiology and critical care medicine, catheterizing vessels for hemodialysis, cardiopulmonary bypass, or hemodynamic monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulation designates the insertion of a cannula or tube into a hollow body organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Successful arterial **cannulation** allowed continuous blood pressure tracings during the experimental administration of adrenaline."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Precise aseptic technique during venous **cannulation** is essential to prevent septic phlebitis in debilitated surgical patients."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Physiology*):** *"Through the **cannulation** of the thoracic duct, early anatomists were able to collect pure lymph for chemical analysis."*

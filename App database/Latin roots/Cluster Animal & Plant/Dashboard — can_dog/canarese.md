@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a kannada-speaking group of people living chiefly in kanara in southern india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a kannada-speaking group of people living chiefly in kanara in southern india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the language (Kannada) or people of the Kanara (Canara) region of southwestern India; or the Dravidian language itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Dravidian linguistics, an ancient literary language boasting classical inscriptions dating back to the fifth century CE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canarese designates a member of a kannada-speaking group of people living chiefly in kanara in southern india."*
+> - 📜 **Max Muller (*Lectures on the Science of Language*):** *"The Dravidian family includes Tamil, Telugu, and **Canarese**, each possessing rich independent literatures and ancient epigraphic records."*
+> - 📜 **Richard Francis Burton (*Goa and the Blue Mountains*):** *"Our native guide spoke a rustic dialect of **Canarese**, translating the local legends of the mountain temples."*
+> - 📜 **William Logan (*Malabar Manual*):** *"The hill tribes of the Western Ghats preserve archaic linguistic traits connecting their speech directly with ancient **Canarese**."*

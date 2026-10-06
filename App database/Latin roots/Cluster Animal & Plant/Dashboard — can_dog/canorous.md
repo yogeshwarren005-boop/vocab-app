@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Richly melodious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Richly melodious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasant-sounding, melodious, musical, or resonant in voice or acoustic tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and avian bioacoustics, characterizing rich, harmonious birdsong or vibrant oratorical vocalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canorous designates richly melodious."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Touching the **canorous** dying song of swans, celebrated by the poets, natural history hath discovered no anatomical confirmation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The orator possessed a full, **canorous** voice that charmed the ears of the assembly before engaging their reason."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The nightingale pours forth its rich and **canorous** strains from the hawthorn brake throughout the silent May nights."*

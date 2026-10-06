@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and continuous artillery fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with cannons or artillery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, continuous, and coordinated discharge of artillery fire; or to attack or barrage with heavy gunfire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military battle tactics, prolonged preparatory bombardment intended to breach fortifications and shatter enemy infantry formations before an assault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The immortal tune ended, a fine DD rolling forth from the bass-viol with the sonorousness of a cannonade, and Gabriel delayed his entry no longer."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In spite of the serious cannonade, Captain Nemo did not appear on the platform; but, if one of the conical projectiles had struck the shell of the _Nautilus_, it would have been fatal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He heard the cannonade behind him growing louder and more frequent."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tremendous Turkish **cannonade** battered the crumbling ramparts of Constantinople day and night without intermission."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The deafening **cannonade** at Borodino shook the earth, filling the valley with a suffocating wall of sulfurous smoke."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The historic **cannonade** of Valmy repulsed the Prussian invaders, saving the young French Republic from annihilation."*

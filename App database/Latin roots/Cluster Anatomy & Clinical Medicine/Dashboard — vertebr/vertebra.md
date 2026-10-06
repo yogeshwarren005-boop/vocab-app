@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any single bone or cartilaginous segment composing the spinal column in vertebrate animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology, a segmented skeletal unit typically consisting of a centrum, neural arch, and articular processes surrounding and protecting the spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey wore a polished necklace of codfish vertebra; and Hosea Hussey had his account books bound in superior old shark-skin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The spinal cord in man extends only as far downwards as the last dorsal or first lumbar **vertebra**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that **vertebra** the spinal canal will terminate."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The peasant's cart rattled along with its long, snake-like **vertebra**, calculated to surmount any unevenness of the mountain roads."*

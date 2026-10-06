@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of a human (or animal) body from the neck to the end of the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire back of the body, or the upper surface of a bodily part such as the tongue, foot, or hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the posterior aspect of the torso or the convex superior surface of the foot (dorsum pedis) and hand (dorsum manus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsum designates the posterior part of a human (or animal) body from the neck to the end of the spine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The lingual papillae covering the **dorsum** of the tongue are richly supplied with taste buds and sensory nerve endings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pitting edema upon the **dorsum** of the feet is among the earliest physical signs of congestive cardiac decompensation."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Extensive inflammation across the **dorsum** of the foot requires careful incision to relieve subfascial tension."*

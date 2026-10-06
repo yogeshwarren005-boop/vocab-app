@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the chironomidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the chironomidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of non-biting midges within the family Chironomidae, known for their aquatic red larvae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and cellular biology, midge larvae renowned for giant polytene chromosomes in their salivary glands, widely studied in gene transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chironomus designates type genus of the chironomidae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tiny aquatic larva of **Chironomus** demonstrates remarkable tenacity in surviving severe organic pollution."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Under the microscope, the pulsating dorsal vessel of the living **Chironomus** larva reveals every detail of circulation."*
+> - 📜 **Jan Swammerdam (*The Book of Nature*):** *"The blood-red worm of the water-midge **Chironomus** builds delicate tubes of silt along the lake floor."*

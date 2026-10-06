@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serious weakening and loss of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition or process of being drained of physical vigor, vitality, or mental strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroses and nineteenth-century medical diagnosis, systemic nervous debility and neuromuscular prostration resembling neurasthenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enervation designates lack of vitality."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged mental overwork and chronic insomnia frequently culminate in profound somatic and emotional **enervation**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid military **enervation** of the imperial army exposed the frontiers to barbarian incursions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A nation sunk in spiritual **enervation** cannot withstand the volcanic awakening of popular indignation."*

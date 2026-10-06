@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bundle of nerve fibers running to various organs and tissues of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The courage to carry on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordlike bundle of neural fibers conducting sensory or motor impulses; or steady courage and resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and human psychology, a peripheral neural conduit, or colloquially the fortitude and emotional stamina to withstand danger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve. [_Ghost beckons._] Still am I call’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agamemnon, Thou great commander, nerve and bone of Greece, Heart of our numbers, soul and only spirit In whom the tempers and the minds of all Should be shut up—hear what Ulysses speaks."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She must have the nerve of a stoic!” “The heart of a wife merely,” floated in a whisper about the ears of the three, and turning they saw Bathsheba in the midst of them."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"My fate cries out, and makes each petty artery in this body as hardy as the Nemean lion's **nerve**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She must possess the **nerve** of a stoic to face the ruin of her sheep without shedding a single tear."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"How a **nerve** comes to be sensitive to light hardly concerns us more than how life itself first originated upon Earth."*

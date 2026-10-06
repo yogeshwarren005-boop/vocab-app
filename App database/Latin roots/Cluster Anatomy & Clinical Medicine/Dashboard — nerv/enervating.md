@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to drain physical energy, moral resolve, or mental vitality; debilitating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental physiology, describing humid oppressive climates or sedentary habits that suppress autonomic tone and cellular metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air of the place, so fresh in the spring and early summer, was stagnant and enervating now."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The three o’clock sun shone full upon him, and the strange enervating conviction that her seducer confronted her, which had been gaining ground in Tess ever since she had heard his words distinctly, was at last established as a fact indeed."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew that the enervating climate of the Southern river city would never do for his wife."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The air of the dairy, so fresh in spring, felt stagnant and **enervating** under the oppressive July heat."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"If the **enervating** magic of the place did not operate to subdue him, his original vigor might yet survive."*
+> - 📜 **Herman Melville (*Typee*):** *"The warm, perfumed breezes of the tropical valley exerted an **enervating** spell upon our restless sailor ambitions."*

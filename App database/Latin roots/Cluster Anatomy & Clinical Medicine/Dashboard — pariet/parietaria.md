@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of stingless herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of stingless herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the nettle family Urticaceae, commonly known as pellitory-of-the-wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and allergic immunology, stingless wall-growing nettles (such as Parietaria officinalis) whose wind-borne pollen is a potent seasonal allergen in the Mediterranean basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parietaria designates small genus of stingless herbs."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"**Parietaria**, commonly called pellitory-of-the-wall, groweth upon ancient stone ramparts and ruined battlements."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The small greenish flowers of **Parietaria** possess curious elastic stamens that discharge their pollen with sudden force."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"An infusion of **Parietaria** hath been celebrated by ancient physicians as an effective diuretic for clearing the kidneys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely irritating to the nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely irritating to the nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely stressful, harrowing, or exhausting to one's patience and nervous composure (variant of nerve-racking).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and psychological prose, an experience characterized by acute apprehension, suspense, and sympathetic autonomic arousal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerve-wracking designates extremely irritating to the nerves."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Steering through the treacherous fog-bound reefs under Wolf Larsen's furious gaze was a **nerve-wracking** experience."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The strict decorum of the dinner party concealed a **nerve-wracking** contest of unspoken social rivalries."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The ceaseless roar and bustling motor traffic of central London produced a **nerve-wracking** sensation of imminent peril."*

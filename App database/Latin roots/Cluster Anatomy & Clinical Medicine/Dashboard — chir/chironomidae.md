@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Midges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Midges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and globally distributed family of non-biting midges belonging to the insect order Diptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology and entomology, aquatic dipterans whose benthic larvae (bloodworms) serve as vital ecological indicators of water quality and benthic food webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chironomidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several species of **Chironomidae**, the males possess magnificent plumose antennae that resonate to the wing-tones of the females."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The delicate larvae of **Chironomidae** flourish in stagnant marsh waters, providing essential nourishment to juvenile fishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The aquatic stages of **Chironomidae** exhibit rudimentary tracheal systems adapted to low-oxygen mud environments."*

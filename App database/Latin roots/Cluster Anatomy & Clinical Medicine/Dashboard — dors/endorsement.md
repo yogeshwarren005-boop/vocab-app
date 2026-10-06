@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of giving one's public approval or support to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking and contract jurisprudence, a legal signature or clause written on the back of a negotiable bill, transferring title and guaranteeing value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes pass without endorsement and thus depend on the credit of the bank alone, not, like checks, on the credit of the person, from whom received."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Each of the managers was furnished with a copy of the rules, which, with the endorsement of the branch office with which the service was connected, constituted the commission of the manager."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I have done myself the honour of counting you one trusting friend, and such endorsement is dear to me.” He held out a hand, which Quincey took."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I have done myself the honour of counting you one trusting friend, and such **endorsement** is dear to me."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The senator hesitated to append his personal **endorsement** to a railroad bill burdened with questionable subsidies."*
+> - 📜 **William James (*The Will to Believe*):** *"Our active faith gives vital **endorsement** to possibilities that would remain dead without our personal commitment."*

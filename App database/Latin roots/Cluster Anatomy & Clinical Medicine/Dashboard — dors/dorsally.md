@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dorsal location or direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dorsal location or direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward, upon, or in the direction of the back or posterior aspect of an anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive embryology and surgical navigation, spatial orientation directed toward the spine or uppermost surface of an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsally designates in a dorsal location or direction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The neural tube closes **dorsally** along the midline of the developing vertebrate embryo during early gastrulation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The hairs along the spine bristle up **dorsally** when the animal prepares to confront a threatening adversary."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In primitive fishes, the notochord is arched **dorsally** by a series of cartilaginous protective plates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of chirps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make high-pitched sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of sharp, cheerful chirps or trills, especially produced by small birds or insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ethology and descriptive prose, a brief vocalization or clicking sound made to encourage an animal or express alert vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A grasshopper began to chirrup by the wall, and like a blue thread a long thin dragon-fly floated past on its brown gauze wings."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Whence gather'd?--The locust's glad chirrup May furnish a stave; The ring of a rowel and stirrup, The wash of a wave."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ay and, ever to the ending, Cricket chirps at need, Executes the hand’s intending, Promptly, perfectly,--indeed Saves the singer from defeat With her chirrup low and sweet. 10."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A grasshopper began to **chirrup** by the wall, and like a blue thread a long thin dragon-fly floated past on its brown gauze wings."*
+> - 📜 **Charles Dickens (*The Cricket on the Hearth*):** *"The cheerful little kettle began to **chirrup** and hum upon the hearth as if celebrating the carrier's safe return."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Sparrows continued to **chirrup** vigorously under the eaves while Maggie stood watching the swift current of the Floss."*

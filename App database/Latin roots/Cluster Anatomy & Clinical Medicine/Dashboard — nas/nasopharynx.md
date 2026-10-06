@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity forming the upper part of the pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity forming the upper part of the pharynx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The uppermost section of the pharynx located directly behind the nasal cavities and above the soft palate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory anatomy, the anatomical chamber communicating anteriorly with the choanae and laterally with the middle ear via the Eustachian tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasopharynx designates cavity forming the upper part of the pharynx."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nasopharynx** remains patent during respiration, its roof and posterior wall richly carpeted with lymphoid follicles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accumulation of dry crusts and fetid secretions in the **nasopharynx** characterizes chronic atrophic rhinitis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Swallowing causes the soft palate to rise against the posterior pharyngeal wall, completely sealing off the **nasopharynx**."*

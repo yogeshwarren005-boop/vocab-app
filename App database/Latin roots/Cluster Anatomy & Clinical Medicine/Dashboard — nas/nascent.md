@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being born or beginning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being born or beginning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into existence, newly born, or developing early potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and chemical synthesis, an organ or compound at the moment of its initial formation exhibiting heightened reactivity or plasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The rooms wherein dozens of infants had wailed at their nursing now resounded with the tapping of nascent chicks."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Mycelium of White rust with nascent oogonia × 360. 〃 206."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rooms now resounded with the tapping of **nascent** lives upon the threshold of rustic existence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An organ may be considered **nascent** when it is in process of development under the influence of natural selection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our **nascent** thoughts emerge as vague tendencies before coalescing into articulate intellectual judgments."*

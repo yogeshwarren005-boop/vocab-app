@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak in a nasal voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak in a nasal voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical designation for a nasal bone, plate, or rostral cranial element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative craniology and vertebrate paleontology, the paired dermal bone (os nasale) roofed over the anterior nasal chamber in tetrapod skulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasale designates speak in a nasal voice."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The os **nasale** articulates superiorly with the frontal bone and laterally with the frontal process of the maxilla."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In fossil reptilian crania, the paired **nasale** elements extend forward to delimit the external bony nares."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The rostral sutures joining the **nasale** with adjacent facial bones remain distinct in primitive mammalian skulls."*

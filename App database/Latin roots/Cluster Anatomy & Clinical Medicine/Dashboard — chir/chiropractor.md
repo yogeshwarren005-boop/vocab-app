@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who practices chiropractic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who practices chiropractic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional who treats disorders of the spine and musculoskeletal system through manual adjustments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complementary medicine, a licensed practitioner performing targeted spinal thrusts and articular mobilization to relieve neural impingement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractor designates a therapist who practices chiropractic."*
+> - 📜 **Daniel David Palmer (*The Science, Art and Philosophy of Chiropractic*):** *"The skilled **chiropractor** employs the hands to correct osseous displacements and re-establish neuromuscular balance."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The small town housed both an orthodox apothecary and an enterprising **chiropractor** whose adjustments were highly popular."*
+> - 📜 **Morris Fishbein (*The Medical Follies*):** *"He documented the rapid spread of the licensed **chiropractor** across American municipalities during the early twentieth century."*

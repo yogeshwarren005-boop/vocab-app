@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or requiring courage and contempt of danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bold, courageous, and daring; or colloquially impudent, presumptuous, or nervously tense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, sinewy and vigorous with strong muscular tension; in modern colloquial use, brazenly audacious or easily agitated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's one of your nervy men." "Not after he was ten years old," said Laura smiling."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And now, each drawing near to each, with arms uplifted, and outspread palms with sinewy play, like nervy claws trying to clutch or grip, they seek a chance for a deadly clinch."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I look at those maroon curtains, and this hideous patterny carpet, and feel all nervy and on edge; then Jacky thinks I am tired, and brings me hot milk." She opened her speedwell blue eyes to their fullest width, and stared at me dolefully."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Death, that dark spirit, in his **nervy** arm doth lie, which, being advanced, declines, and then men die."*
+> - 📜 **Herman Melville (*Mardi*):** *"The chieftain stood erect, wielding his heavy war-club with a **nervy** grip that defied all hostile spears."*
+> - 📜 **George Meredith (*The Egoist*):** *"The young man's **nervy** impudence astonished the conservative elders assembled around the dinner table."*

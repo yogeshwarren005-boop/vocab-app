@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of being born.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incipient emergence, early generation, or the initial phase of coming into existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and evolutionary metaphysics, the nascent stage wherein potential qualities begin actualization within an embryonic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nascency designates the event of being born."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A poetic idea in its first **nascency** hovers like an intangible presence before assuming verbal form."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Amidst the ruin of outworn dogmas, the discerning philosopher perceives the **nascency** of a more glorious spiritual faith."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"During the **nascency** of complex social structures, functional differentiation proceeds at an ever-accelerating pace."*

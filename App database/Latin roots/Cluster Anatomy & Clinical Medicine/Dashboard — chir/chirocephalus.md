@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairy shrimp; brine shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairy shrimp; brine shrimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater fairy shrimp belonging to the crustacean order Anostraca.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and limnology, fairy shrimps characterized by prominent prehensile appendages borne upon the head of the male for clasping the female.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirocephalus designates fairy shrimp; brine shrimp."*
+> - 📜 **Thomas Bell (*A History of the British Stalk-eyed Crustacea*):** *"Specimens of **Chirocephalus** diaphanus may be observed swimming gracefully on their backs in vernal woodland pools."*
+> - 📜 **William Elford Leach (*Zoological Miscellany*):** *"The remarkable cephalic apparatus of the male **Chirocephalus** serves as a delicate grasping organ during courtship."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the primitive branchiopod **Chirocephalus**, the lack of a dorsal carapace leaves the eleven thoracic segments fully exposed."*

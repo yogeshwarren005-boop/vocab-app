@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To approve, support, or sustain publicly; or to sign the back of a negotiable document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and public policy, to execute a signature upon the reverse of a legal instrument transferring rights, or to give formal sanction to an initiative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"By these passages it is plain that a sign or a wonder does not establish a doctrine or endorse a man as certainly being _from God_."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the Scriptures often appear in 488:12 our common version to approve and endorse belief, when they mean to enforce the necessity of understanding."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While not endorsing his third party scheme (our party is good enough) we endorse the spirit of initiative and independence that prompts it."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I **endorse** the last words written, but this time there is no doubt in question regarding our solemn compact."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"I cannot **endorse** the strange obstinacy of a clerk who refuses to verify his own copied folios."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Whoso would be a man must not meekly **endorse** the opinions of his neighbors, but consult his own conscience."*

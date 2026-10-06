@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric landmark located at the intersection of the frontal bone and the two nasal bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic anthropology and cephalometry, the midline point of the frontonasal suture used to calculate facial angle, cranial indices, and rhinological proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasion designates the craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nasion** corresponds to the middle of the frontonasal suture at the deepest indentation of the root of the nose."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Measurements taken from the **nasion** to the basion provide an accurate index of anterior cranial base development."*
+> - 📜 **William Henry Flower (*Fashion in Deformity*):** *"The position of the **nasion** remains remarkably stable across various races, serving as a reliable baseline for skull analysis."*

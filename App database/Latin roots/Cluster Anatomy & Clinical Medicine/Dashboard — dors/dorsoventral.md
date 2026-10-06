@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending from the back to the belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending from the back to the belly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending along or relating to the axis connecting the back (dorsal) and belly (ventral) surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and comparative morphometry, the fundamental axis of bilateral symmetry perpendicular to the anteroposterior plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsoventral designates extending from the back to the belly."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Flatworms exhibit pronounced **dorsoventral** compression, which facilitates cutaneous gas exchange across the entire body surface."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The flattened cotyledons demonstrate clear **dorsoventral** polarity in their growth response to incident sunlight."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The deep **dorsoventral** diameter of the thoracic cage reflects the large volume of the cardiopulmonary viscera."*

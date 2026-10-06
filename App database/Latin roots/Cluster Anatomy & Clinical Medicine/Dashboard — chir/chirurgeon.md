@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin chir within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of chir in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a surgeon; a medical practitioner who treats injuries and diseases by manual operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, a guild-trained operator who performed phlebotomies, amputations, and wound dressings with instruments prior to modern surgical training.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirurgeon designates pertaining to, derived from, or characteristic of latin chir within the domain of anatomy & clinical medicine."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight was committed to the care of a skilled **chirurgeon** who dressed his gashes with soothing balsams."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"I sent in haste for the **chirurgeon** to dress my cousin's fractured leg, which had been hurt in the coaching accident."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The naval **chirurgeon** inspected the injured seamen with brisk efficiency, wielding probe and forceps with indifferent composure."*

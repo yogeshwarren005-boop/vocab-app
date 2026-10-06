@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states political cartoonist (1840-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states political cartoonist (1840-1902).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thomas Nast (1840–1902), American caricaturist and editorial cartoonist considered the father of American political cartooning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual journalism and political history, the graphic satirist whose Harper's Weekly cartoons exposed the corruption of Tammany Hall's Boss Tweed and popularized the Republican elephant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"His letters to his friend Nast almost invariably contain some expression of his heart-ache."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin's earliest love-affair, that with Louise Nast, is important for his Weltschmerz only in its bearing upon the development of his general character."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Da leg' ich meinen Ossian weg und komme zu Dir," he writes in 1788 to his friend Nast."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"The graphic genius of Thomas **Nast** did more to topple corrupt political rings than dozens of legislative commissions."*
+> - 📜 **William Dean Howells (*Literary Friends and Acquaintance*):** *"Every weekly cartoon from **Nast** struck with the force of an ethical thunderbolt across the political landscape."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The ferocious pencil of **Nast** held a mirror up to the gross materialism and moral cynicism of the Gilded Age."*

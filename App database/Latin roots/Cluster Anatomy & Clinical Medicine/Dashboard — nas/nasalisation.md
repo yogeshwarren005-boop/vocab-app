@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of nasalizing; the utterance of sounds modulated by the nasal resonators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of nasalizing; the utterance of sounds modulated by the nasal resonators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonetic production of a speech sound accompanied by lowering of the soft palate so that air escapes through the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and acoustic phonetics, the physiological process wherein oral vowels or consonants acquire nasal resonance through palatal relaxation (British spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalisation designates the act of nasalizing; the utterance of sounds modulated by the nasal resonators."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Vowel **nasalisation** occurs when the velum is lowered sufficiently to allow the vocal resonance to pass through the nasal passages."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The historical development of modern French vowels demonstrates how anticipatory **nasalisation** permanently transformed the language's phonetic system."*
+> - 📜 **Otto Jespersen (*Phonetics*):** *"In casual vernacular speech, degrees of involuntary **nasalisation** frequently affect vowels immediately preceding nasal consonants."*

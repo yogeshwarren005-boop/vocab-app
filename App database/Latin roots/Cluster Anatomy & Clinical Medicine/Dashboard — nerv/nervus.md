@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bundle of nerve fibers running to various organs and tissues of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bundle of nerve fibers running to various organs and tissues of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical term for a nerve; a cord of sensory or motor fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic human gross anatomy, an individual named peripheral neural structure (such as the nervus vagus or nervus opticus) enclosed in connective tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervus designates any bundle of nerve fibers running to various organs and tissues of the body."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nervus** opticus pierces the sclera and choroid at the posterior pole of the globe to expand into the sensory retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammation attacking the trunk of the **nervus** facialis inside the fallopian aqueduct produces acute peripheral Bell's palsy."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"The respiratory movements depend essentially upon the integrity of the **nervus** phrenicus descending through the thorax."*

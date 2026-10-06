@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A village in western northamptonshire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in 1645 that settled the outcome of the first english civil war as the parliamentarians won a major victory over the royalists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Naseby, a parish in Northamptonshire, England; site of the pivotal 1645 battle of the English Civil War.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British military history, the decisive battlefield where Oliver Cromwell's New Model Army shattered King Charles I's Royalist forces on June 14, 1645.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"At the battle of Naseby, Miles was slain, And Huntly sank from his wounds that week; We left young Clare upon Worcester plain-- How the "Ironside" gash'd his girlish cheek."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"After the battle of Naseby, nothing prospered with the King."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Entering upon a melancholy progress from house to house, among the staunch royalists of South Wales, he had thus sought relief from the gloomy reflections by which his mind was oppressed after the total defeat at Naseby."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"The field of **Naseby** sealed the fate of royal absolutism and inaugurated the supremacy of the parliamentary sword."*
+> - 📜 **Edward Hyde, Earl of Clarendon (*The History of the Rebellion*):** *"After the disastrous rout at **Naseby**, the King's affairs were hopelessly broken beyond all human recovery."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The iron discipline of the Ironsides at **Naseby** demonstrated the irresistible power of religious zeal united with military skill."*

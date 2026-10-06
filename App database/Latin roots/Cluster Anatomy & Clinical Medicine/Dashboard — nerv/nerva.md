@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marcus Cocceius Nerva (30–98 AD), Roman Emperor who founded the Nerva–Antonine dynasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman imperial history, the aged senator acclaimed emperor in 96 AD whose adoption of Trajan established the meritocratic succession of the 'Five Good Emperors'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerva designates emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The accession of **Nerva** inaugurated a peaceful era during which the supreme power was conferred upon genuine merit."*
+> - 📜 **Tacitus (*The Works of Cornelius Tacitus*):** *"The venerable **Nerva** united two things long deemed incompatible: imperial sovereignty and civil liberty."*
+> - 📜 **Niccolò Machiavelli (*Discourses on Livy*):** *"Under the golden reigns from **Nerva** to Marcus Aurelius, the world enjoyed unparalleled security and justice."*

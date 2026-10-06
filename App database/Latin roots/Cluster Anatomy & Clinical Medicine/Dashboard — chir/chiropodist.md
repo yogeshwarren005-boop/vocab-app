@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in care for the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in care for the feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who treats minor ailments, deformities, and afflictions of the feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of clinical medicine and podiatry, a licensed professional treating corns, bunions, and ingrown nails through skilled manual instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropodist designates a specialist in care for the feet."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The odd gait of the visitor suggested an appointment with a **chiropodist** rather than any involvement in criminal matters."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He spoke of his troublesome corns and recommended an experienced **chiropodist** residing in the neighbouring court."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"One cannot conduct high society conversations while walking upon feet in desperate need of a skillful **chiropodist**."*

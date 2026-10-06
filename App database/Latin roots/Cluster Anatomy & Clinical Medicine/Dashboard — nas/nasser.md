@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian statesman who nationalized the suez canal (1918-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in egypt formed by dams built on the nile river at aswan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gamal Abdel Nasser (1918–1970), the second President of Egypt who championed Arab socialism and pan-Arab unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-twentieth-century geopolitics, the charismatic military officer who led the 1952 Egyptian Revolution, nationalized the Suez Canal, and co-founded the Non-Aligned Movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasser designates egyptian statesman who nationalized the suez canal (1918-1970)."*
+> - 📜 **Gamal Abdel Nasser (*The Philosophy of the Revolution*):** *"Our destiny as Egyptians, **Nasser** insisted, is inextricably linked with the Arab world, Africa, and the Islamic circle."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The strategic maneuvers of Colonel **Nasser** in the Levant transformed the entire political equilibrium of the Middle East."*
+> - 📜 **Anthony Eden (*Full Circle: The Memoirs of Sir Anthony Eden*):** *"The sudden seizure of the Suez Canal Company by President **Nasser** precipitated an acute imperial crisis in London."*

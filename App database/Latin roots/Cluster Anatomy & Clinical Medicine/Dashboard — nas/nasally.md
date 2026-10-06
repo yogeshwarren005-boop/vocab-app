@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a nasal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a nasal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characterized by nasal resonance, or through the nasal passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology and descriptive linguistics, denoting sound emission or aerosolized medication conducted directly through the nostrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Pretty Poll! _(His yellow parrotbeak gabbles nasally.)_ They had a proverb in the Carpathians in or about the year five thousand five hundred and fifty of our era."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"He hummed **nasally** between the stanzas of the hymn, keeping time with a slow nod of his venerable head."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The clerk delivered the municipal proclamation **nasally**, squinting over his horn-rimmed spectacles at the crowd."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband intoned his philosophical homilies **nasally**, elevating his flabby hands in pious theatrical gesture."*

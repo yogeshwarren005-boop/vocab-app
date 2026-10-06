@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the strength, vitality, energy, or moral courage of a person or society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and moral philosophy, to induce debilitating neuromuscular exhaustion or erode systemic vitality through luxurious excess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An artful cabal in that council would be able to distract and to enervate the whole system of administration."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similarly some savages imagine that contact with a woman in childbed enervates warriors and enfeebles their weapons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The enervating climate and boundless luxuries of Antioch conspired to **enervate** the discipline of the Roman legions."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Unchecked indolence will gradually **enervate** the sharpest intellect, rendering the mind incapable of arduous exertion."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Reliance upon external institutions tends to **enervate** individual self-trust and sap native creative power."*

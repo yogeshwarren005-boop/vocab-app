@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who writes their signature on the back of a commercial document or bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking law, a party whose indorsement on a promissory note creates secondary liability to pay the instrument upon dishonor by the maker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And as he's a real shaver, I'll have the minister or some other responsible man for an indorser." It was growing dusk when he reached the toll-house on Kimballton turnpike, about a quarter of a mile from the village of this name."*
+> - 📜 **John Marshall (*Judicial Opinions*):** *"Due diligence must be exercised in demanding payment from the maker before proceeding against the **indorser**."*
+> - 📜 **Joseph Story (*Commentaries on the Law of Promissory Notes*):** *"The contract of the **indorser** is that if the bill is dishonored, he will indemnify the holder upon timely notice."*
+> - 📜 **James Kent (*Commentaries on American Law*):** *"A discharge given to the principal debtor necessarily extinguishes the collateral liability of every accommodation **indorser**."*

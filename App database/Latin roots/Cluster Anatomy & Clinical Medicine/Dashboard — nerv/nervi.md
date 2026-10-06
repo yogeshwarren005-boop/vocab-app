@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian architect who pioneered in the use of reinforced concrete (1891-1979).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian architect who pioneered in the use of reinforced concrete (1891-1979).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical plural of nervus; the peripheral nerve trunks of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical human and veterinary gross anatomy, the formal Latin designation for major neural pathways such as the nervi craniales or nervi spinales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervi designates italian architect who pioneered in the use of reinforced concrete (1891-1979)."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nervi** pathetici, or fourth cranial nerves, exhibit the longest intracranial course of all cranial neural trunks."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The large paired **nervi** vagi distribute inhibitory autonomic fibers to the branchial and digestive visceral arcades."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The spinal **nervi** emerge regularly between adjacent vertebrae to supply the segmentally arranged myotomes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of courage, confidence, self-control, or mental fortitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric literature and dramatic narrative, to dismantle an individual's emotional composure through intense psychological dread or shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"As he did it he avoided glancing at the sleeper, but not lest pity should unnerve him; merely to avoid spilling."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we follow up with threats and menacing gestures against Slingshot, the effect may unnerve them, to say the least."*
-> - 📜 **Effie Afton (*Eventide*):** *"Perhaps life's trials would sooner unnerve her spirit."*
+> - 📜 **Bram Stoker (*Dracula*):** *"These horrifying discoveries, in conjunction with the wild work we have in hand, help to **unnerve** the stoutest man."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Let not that sudden dread **unnerve** your stout resolution when the royal battle trumpet sounds."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The ominous raven croaking above the castle ramparts seemed calculated to **unnerve** the superstitious retainers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anxiously nervous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With nervous excitement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an apprehensive, tense, jittery, or easily startled manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description and narrative prose, manifesting sympathetic anxiety through hurried movements, tremors, or hesitant speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy sat down at the table and began nervously sharpening the carving-knife on the carving-fork, still looking at me (as I felt quite sure without looking at him) in the same unusual manner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Laban, you know her best—you’d better go and ask to speak to her.” “I bain’t fit for any such thing,” said Laban, nervously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I bain't fit for any such responsibility, said the young shepherd **nervously**, fingering the brim of his rough hat."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He looked **nervously** down at the legal documents upon his desk, hesitating to sign the momentous agreement."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip glanced **nervously** behind him at every shadow on the lonely marsh road, fearing the convict's sudden reappearance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brash cheeky manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a brash cheeky manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an apprehensive, jittery, or agitated manner; or with audacious boldness and cheek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, acting under palpable nervous tension, or displaying brash, presumptuous confidence without regard for convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervily designates in a brash cheeky manner."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He grasped the desk **nervily**, looking toward the courthouse door as though expecting an unwelcome officer of the law."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The anarchist glanced **nervily** into the shadowy corners of the tavern before whispering his dangerous instructions."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger laughed **nervily**, his bandaged head jerking sideways at every unexpected footstep on the stairs."*

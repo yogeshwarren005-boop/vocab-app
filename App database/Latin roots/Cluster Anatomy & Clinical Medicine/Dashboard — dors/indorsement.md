@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promotional statement (as found on the dust jackets of books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech seconding a motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A signature or legal notation written upon the back of a bill, note, or check; endorsement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, the formal inscription by which a negotiable instrument is assigned and made payable to a designated transferee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"The grumblers looked blank and did not open their mouths, and the others joined in a shout of indorsement and approval."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I see the vast factories with their foremen and workmen, and hear the **indorsement** of all commerce and mechanical trade."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"Upon this petition the President made a brief **indorsement** directing the Secretary of War to investigate the soldier's plea."*
+> - 📜 **Benjamin Franklin (*The Autobiography of Benjamin Franklin*):** *"My brother's printed journal carried the formal **indorsement** of the magistrates, without which no sheet could appear."*

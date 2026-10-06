@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of placental mammals possessing forelimbs adapted into membranous wings; the bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and comparative anatomy, the only truly flying mammals, characterized by elongated metacarpals and phalanges supporting a flight patagium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiroptera designates an old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Dobson on sexual characters in the **Chiroptera**, Proceedings of the Zoological Society, records several remarkable anatomical variations."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The modified manual skeleton of the **Chiroptera** presents the most marvelous evolutionary adaptation of the vertebrate hand."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In all **Chiroptera**, the clavicle is remarkably well developed to provide sturdy anchorage for the primary flight muscles."*

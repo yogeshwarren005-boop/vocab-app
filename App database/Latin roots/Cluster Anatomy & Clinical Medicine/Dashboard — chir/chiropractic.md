@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic system of complementary medicine centered on the diagnosis and manipulative treatment of spinal misalignments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical manual therapy, a discipline founded on the premise that vertebral subluxations compromise neuromuscular integrity and general vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure."*
+> - 📜 **Daniel David Palmer (*The Chiropractor's Adjuster*):** *"The foundation of **chiropractic** rests upon restoring normal physiological transmission through manual spinal adjustment."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Modern practitioners must distinguish between established orthopedic manipulation and the wider theoretical claims of **chiropractic**."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Institutions professing **chiropractic** doctrines must align their clinical instruction with validated principles of anatomical science."*

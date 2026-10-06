@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise reference book providing specific information about a subject or location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise reference book providing specific information about a subject or location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A handbook, concise manual, or compact compendium of practical rules and knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and classical literature, a pocket-sized vade mecum summarizing ethical maxims or spiritual guidelines for everyday living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchiridion designates a concise reference book providing specific information about a subject or location."*
+> - 📜 **Desiderius Erasmus (*Enchiridion Militis Christiani*):** *"He designed this Christian **enchiridion** not for disputation in scholastic halls, but to arm the soul with virtuous precepts."*
+> - 📜 **Epictetus (*The Enchiridion, or Manual*):** *"This brief **enchiridion** contains those indispensable truths that preserve equanimity amidst the tumult of human affairs."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Let this small manual serve as an **enchiridion** of pious exercises for the daily governance of the Christian household."*

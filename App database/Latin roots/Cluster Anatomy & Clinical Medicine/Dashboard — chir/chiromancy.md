@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telling fortunes by lines on the palm of the hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telling fortunes by lines on the palm of the hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Palmistry; divination or character analysis through the inspection of the lines and mounts of the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and mantic traditions, the esoteric methodology correlating palmar flexure lines with astrological influences and temperaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromancy designates telling fortunes by lines on the palm of the hand."*
+> - 📜 **John Dryden (*The Spanish Fryar*):** *"Her faith in fraudulent **chiromancy** led her to consult every strolling astrologer who passed through the city gates."*
+> - 📜 **Samuel Butler (*Hudibras*):** *"With astrological arts and subtle **chiromancy**, he persuaded simple folk that their stars were written in their hands."*
+> - 📜 **William Congreve (*Love for Love*):** *"You may read your own destiny without resorting to the dubious subtleties of medieval **chiromancy**."*

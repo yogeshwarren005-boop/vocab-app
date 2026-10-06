@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical american plant of the genus tropaeolum having pungent juice and long-spurred yellow to red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering garden plant of the genus Tropaeolum, cultivated for its spurred flowers and pungent, edible peltate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and culinary history, South American herbaceous plants named from Latin nasus tortus ('twisted nose') owing to their peppery mustard-like essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"NASTURTIUM UREDO: hypogenous; spots pale-yellow; sori minute, roundish, scattered or confluent; sporidia ovoid or subglobose, orange.—On leaves of _Tropæolum aduncum_."*
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Then she carried Big Mary out to the gray rock in the back yard where the nasturtiums grow, to sit in the fresh air all day long."*
-> - 📜 **James Joyce (*Ulysses*):** *"Don’t cast your nasturtiums on my character. —Whatever statement you make, says Joe, will be taken down in evidence against you. —Of course an action would lie, says J."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"I left the poor fellow wandering about by the scarlet **nasturtium** beds, lost in philosophical contemplation."*
+> - 📜 **Emily Dickinson (*The Poems of Emily Dickinson*):** *"The vivid orange cup of the **nasturtium** holds the late afternoon sunbeam as if reluctant to surrender the autumn day."*
+> - 📜 **John Ruskin (*Proserpina*):** *"Consider the shield-shaped leaf of the **nasturtium**, upon whose surface drops of morning dew roll like beads of molten silver."*

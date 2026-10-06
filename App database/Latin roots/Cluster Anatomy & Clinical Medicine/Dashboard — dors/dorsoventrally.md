@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dorsoventral direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dorsoventral direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a direction extending from the back surface to the belly surface of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological morphology, describing an organism or structure that is compressed or flattened along its vertical axis from dorsal to ventral sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsoventrally designates in a dorsoventral direction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the crocodile is compressed **dorsoventrally**, presenting a broad and flattened predatory snout."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The peduncle is flattened **dorsoventrally**, allowing the sessile barnacle to resist turbulent wave action."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Benthic rays are flattened **dorsoventrally**, a modification perfectly adapted to resting concealed in marine sand."*

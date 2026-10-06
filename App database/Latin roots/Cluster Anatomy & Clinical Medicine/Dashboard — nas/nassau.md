@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the bahamas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the bahamas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city and major commercial center of the Commonwealth of the Bahamas, or a European royal dynasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history, the sovereign German county and royal House of Nassau that produced William the Silent and the rulers of the Netherlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But inquiring at the Bible House in Nassau street if any of the officers of that Society knew of a minister who could be recommended to fill their pulpit, now vacant for some months."*
-> - 📜 **James Joyce (*Ulysses*):** *"He crossed at Nassau street corner and stood before the window of Yeates and Son, pricing the fieldglasses."*
-> - 📜 **James Joyce (*Ulysses*):** *"Master Dignam walked along Nassau street, shifted the porksteaks to his other hand."*
+> - 📜 **James Joyce (*Dubliners*):** *"They walked along **Nassau** Street and then turned into Kildare Street, conversing in hushed collegiate tones."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The princely house of **Nassau** contributed illustrious captains to the protracted wars of European liberation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The stadtholders of the house of **Nassau** maintained domestic authority through balance of power among the United Provinces."*

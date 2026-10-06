@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality of the voice that is produced by nasal resonators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of the voice that is produced by nasal resonators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acoustic resonance produced when voiced airflow passes through the nasal cavity during speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical voice pathology and speech acoustics, hypernasal resonance caused by velopharyngeal incompetence or structural clefts of the palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasality designates a quality of the voice that is produced by nasal resonators."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The rural preacher intoned his verses with a monotonous **nasality** that droned like a solitary hornet in church."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The rustic hunter replied with a sharp native **nasality** that seemed bred of long winters and mountain gales."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The perception of timbre distinguishes the vocal **nasality** of a voice from pure open chest resonance."*

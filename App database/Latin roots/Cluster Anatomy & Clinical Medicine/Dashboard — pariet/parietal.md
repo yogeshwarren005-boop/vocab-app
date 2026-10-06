@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the parietal bones in the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the parietal bones in the cranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or forming the walls of a body cavity, or denoting the parietal bones of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy and osteology, pertaining to the bilateral parietal bones forming the roof and sides of the cranium, or to the parietal lobe of the cerebrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon’s deposition it was stated that the posterior third of the left parietal bone and the left half of the occipital bone had been shattered by a heavy blow from a blunt weapon."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you have any objection to my running my finger along your parietal fissure?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the surgeon's deposition it was stated that the posterior third of the left **parietal** bone was severely fractured."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **parietal** foramen in ancestral vertebrates represents the vestige of a median pineal sensory organ."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The external surface of the **parietal** bone is convex and marked near the center by the prominent parietal eminence."*

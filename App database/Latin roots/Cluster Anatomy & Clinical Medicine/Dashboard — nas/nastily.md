@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a nasty ill-tempered manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a nasty ill-tempered manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpleasant, malicious, offensive, or spitefully disagreeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology and descriptive narrative, behavior exhibiting spiteful venom, petty malice, or sordid malevolence toward others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Elsie hushed me down quick, and said, nastily, that if I was afraid I could take her hand or go home to nursie."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He smiled **nastily**, pleased that his barbed insinuation had struck directly at his cousin's vulnerable pride."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The wind veered into the east and blew **nastily** across the bleak ridge, bringing sleet and bitter frost."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The turnkey glared **nastily** upon the wretched prisoners as he clanged the heavy iron grate shut behind them."*

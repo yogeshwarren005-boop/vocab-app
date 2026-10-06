@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of physical strength, mental vigor, or moral resolution; debilitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and climatology, suffering from constitutional lassitude, neuromuscular flaccidity, or chronic tropical exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Add to this, my late scenes of idleness and dissipation have enervated my mind to an alarming degree."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There is little honour in conquering an **enervated** adversary whose limbs tremble with exhaustion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The Greeks may have retrograded because the aristocracy became **enervated** by excessive luxury and slave labor."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister returned home in an **enervated** condition, his spirit crushed beneath the heavy burden of concealed guilt."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nerv within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nerv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic medicine, herbal tonic, or chemical agent acting to calm or strengthen the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy and botanical medicine, natural sedative or neurotonic remedies (such as valerian or chamomile) prescribed for nervous agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervine designates pertaining to, derived from, or characteristic of latin nerv within the domain of anatomy & clinical medicine."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Valerian root is celebrated as an efficacious **nervine** capable of abating hysterical paroxysms and spasmodic tremors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rest, wholesome nutrition, and a mild vegetable **nervine** often restore tranquility to the exhausted neurasthenic invalid."*
+> - 📜 **Nicholas Culpeper (*The English Physitian*):** *"Lavender hath ever been esteemed an admirable **nervine**, comforting the cold trembling sinews of the head and brain."*

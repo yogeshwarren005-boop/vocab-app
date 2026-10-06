@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nas within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nas in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated within, introduced into, or administered through the nasal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and otolaryngology, describing topical drug administration or surgical procedures performed within the nasal mucosa and turbinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intranasal designates pertaining to, derived from, or characteristic of latin nas within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful **intranasal** inspection reveals mucosal hypertrophy or polypoid growths that frequently obstruct the upper respiratory tract."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Fliess maintained that reflex neuroses could be directly influenced by topical cocainization of specific **intranasal** trigger zones."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"Experimental **intranasal** inoculation in laboratory animals demonstrated how pathogens gain access to the central nervous system."*

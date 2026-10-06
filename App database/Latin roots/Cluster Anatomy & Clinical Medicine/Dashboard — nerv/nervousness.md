@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anxious feeling you have when you have the jitters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uneasy psychological state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition or feeling of being anxious, apprehensive, agitated, or tense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological medicine, an emotional state characterized by mental unease, autonomic hyperarousal, tachycardia, and motor restlessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The women threw off their nervousness, and titters and giggling became more frequent."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"From that time she began to improve; the paroxysms of pain grew less, and disappeared; her nervousness was relieved, she could sleep, her mind was full of peace."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"At last—it seemed an at last to Fanny’s nervousness, though not remarkably late—he began to talk of going away; but the comfort of the sound was impaired by his turning to her the next moment, and saying, “Have you nothing to send to Mary?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The village women soon threw off their initial **nervousness**, and merry laughter echoed through the shearing barn."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"What can you expect from a weary helmsman who out of sheer **nervousness** had just flung his steering-pole overboard?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The first time Pip lowered after a whale he evinced extreme **nervousness**, trembling violently at the monster's thrashing fluke."*

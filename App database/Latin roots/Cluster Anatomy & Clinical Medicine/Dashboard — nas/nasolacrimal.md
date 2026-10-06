@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nas within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nas in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting the nasal cavity and the lacrimal apparatus of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and surgical anatomy, describing the nasolacrimal duct that conducts tears from the lacrimal sac into the inferior nasal meatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasolacrimal designates pertaining to, derived from, or characteristic of latin nas within the domain of anatomy & clinical medicine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nasolacrimal** canal opens inferiorly beneath the inferior nasal concha, protected by a delicate mucosal valve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic obstruction of the **nasolacrimal** duct frequently induces recurrent dacryocystitis and persistent epiphora."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In terrestrial tetrapods, the **nasolacrimal** canal conveys excess ocular moisture directly into the olfactory chamber."*

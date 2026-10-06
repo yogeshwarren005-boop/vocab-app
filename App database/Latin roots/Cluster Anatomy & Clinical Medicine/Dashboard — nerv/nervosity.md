@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nerv within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nerv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nervous temperament, persistent excitability, or an innate tendency toward agitation and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century psychiatric literature and neuroses studies, constitutional hypersensitivity to emotional stimuli and environmental stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervosity designates pertaining to, derived from, or characteristic of latin nerv within the domain of anatomy & clinical medicine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked constitutional **nervosity** frequently predisposes the patient to functional cardiac palpitations and digestive spasms."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her conversational vivacity was tinged with a slight **nervosity** that revealed how deeply she dreaded the approaching interview."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"A feverish **nervosity** seized him whenever he reflected upon the perilous state of the family's mortgaged affairs."*

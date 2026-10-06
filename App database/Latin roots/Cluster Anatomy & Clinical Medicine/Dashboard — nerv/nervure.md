@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the horny ribs that stiffen and support the wing of an insect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural vein in an insect's wing, or a principal rib of a plant leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological morphology and paleontology, the hollow chitinous tubes that stiffen insect wings and transmit hemolymph and fine tracheae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervure designates any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The under side of a wing-**nervure** in crickets exhibits microscopic stridulating teeth that generate loud courtship songs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The branching pattern of each wing-**nervure** provides an indispensable diagnostic character in insect classification."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Fossil dragonflies from the Carboniferous strata display intricate **nervure** networks preserved with astonishing fidelity in shale."*

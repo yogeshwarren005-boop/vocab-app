@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of courage and strength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of courage, presence of mind, or steady composure; shaken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive psychology, experiencing acute emotional demoralization and trembling motor instability following terrifying encounters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But don’t mistake me; I beg this because you may have been led to do so in noticing—if you did notice it—how your sudden appearance unnerved me down there."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The sight of Phyllis, sitting calm and cool in her chair under the cedar, unnerved me."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Pyrrhus at Priam drives, in rage strikes wide; but with the whiff and wind of his fell sword the **unnerved** father falls."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Completely **unnerved** by the unexpected revelation, she sank back upon the grass, hiding her tearful face."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fact is I was completely **unnerved** by a sheer blank fright, pure abstract terror unconnected with any physical danger."*

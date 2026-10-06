@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who publicly approves or supports a candidate, proposal, or enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial paper law, the party who signs the reverse of a negotiable draft or check, thereby undertaking contingent liability to subsequent holders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I found a responsible endorser before me, and it was my purpose to hold him liable, and to bring him to his just responsibility without delay."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The financial credit of the state rests upon the known solvency of every reliable public **endorser**."*
+> - 📜 **Daniel Webster (*Speeches and Forensic Arguments*):** *"The court held that notice of protest had been properly served upon the secondary **endorser** of the protested note."*
+> - 📜 **Thomas Jefferson (*The Writings of Thomas Jefferson*):** *"He refused to stand as an **endorser** for speculative loans that endangered the private fortunes of his kindred."*

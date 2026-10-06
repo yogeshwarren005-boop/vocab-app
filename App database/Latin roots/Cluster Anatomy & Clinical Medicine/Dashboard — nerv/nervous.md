@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily agitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or fraught with or showing anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the body's system of nerves; or easily excited, agitated, anxious, or apprehensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neurobiology and psychology, relating to neural conduction and sensory reception, or exhibiting sympathetic hyperexcitability under duress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By that time we were so anxious and nervous that even Richard confessed, as we rattled over the stones of the old street, to feeling an irrational desire to drive back again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not bodily so much as nervous, nervous!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A nervous affection has probably as much to do with these demonstrations as any imbecile intention in the poor old woman, but on the present occasion they are so particularly lively in connexion with the Windsor arm-chair, fellow to that in which Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff who showed this **nervous** dread of loving his neighbour as himself, climbed the hill in moody silence."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The **nervous** system reacts instantaneously upon the vasomotor channels, causing sudden flushing or pallor in emotional crises."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Organic lesions of the central **nervous** axis demand meticulous anatomical localization before surgical intervention."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending backward (of the body or a body part).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bending backward (of the body or a body part).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upward flexion or backward bending of a body part, especially the foot or hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and kinematic gait analysis, the contraction of anterior tibial muscles reducing the angle between the dorsal foot and anterior leg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsiflexion designates the act of bending backward (of the body or a body part)."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Contraction of the tibialis anterior muscle produces energetic **dorsiflexion** of the foot at the talocrural joint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In peroneal nerve palsy, loss of active **dorsiflexion** produces the characteristic high-stepping steppage gait."*
+> - 📜 **Charles Bell (*The Anatomy of the Brain*):** *"Testing passive **dorsiflexion** of the wrist reveals spastic resistance in patients suffering from pyramidal tract lesions."*

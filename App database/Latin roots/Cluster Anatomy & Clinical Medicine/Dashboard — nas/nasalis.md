@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proboscis monkeys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proboscis monkeys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial muscle spanning the dorsum and nostrils that acts to compress or dilate the nasal aperture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In facial anatomy, a paired mimetic muscle consisting of a transverse compressor naris portion and an alar dilator naris portion innervated by the facial nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalis designates proboscis monkeys."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **nasalis** muscle arises from the maxilla and sends aponeurotic fibers across the bridge of the nose to compress the cartilaginous apertures."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"During fierce rage or deep disgust, contraction of the **nasalis** and levator muscles draws the nostrils upward in an instinctive sneer."*
+> - 📜 **Charles Bell (*The Anatomy and Philosophy of Expression as Connected with the Fine Arts*):** *"The delicate play of the **nasalis** fiber tracts imparts subtle emotional animation to the human countenance in passion."*

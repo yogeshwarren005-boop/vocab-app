@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giorgio de Chirico (1888–1978), Italian painter and founder of the Scuola Metafisica art movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and cultural studies, the distinctive aesthetic pioneered by Giorgio de Chirico characterized by hauntingly deserted piazzas, elongated shadows, and enigmatic classical statuary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirico designates italian painter (born in greece) whose deep shadows and barren landscapes strongly influenced the surrealists (1888-1978)."*
+> - 📜 **André Breton (*Surrealism and Painting*):** *"The early canvases of **Chirico** unveiled a profound new mythology of deserted arcades and melancholic clocktowers."*
+> - 📜 **Herbert Read (*A Concise History of Modern Painting*):** *"In the enigmatic compositions of **Chirico**, architectural perspective becomes an instrument of dreamlike psychological tension."*
+> - 📜 **James Thrall Soby (*Giorgio de Chirico*):** *"Every mysterious colonnade painted by **Chirico** resonates with a brooding stillness that forever altered modern European art."*

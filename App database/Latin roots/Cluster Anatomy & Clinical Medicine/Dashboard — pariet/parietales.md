@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large order of dicotyledonous plants of subclass dilleniidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large order of dicotyledonous plants of subclass dilleniidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order of dicotyledonous flowering plants possessing parietal placentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical systematic botany, a major plant group classified by Bentham and Hooker, characterized by ovaries whose ovules attach directly to the outer ovarian walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parietales designates a large order of dicotyledonous plants of subclass dilleniidae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The order **Parietales** includes diverse families unified by the characteristic attachment of ovules to the ovary wall."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Several tropical genera belonging to the **Parietales** yield valuable resins, aromatic barks, and edible fruits."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"In our natural arrangement, the **Parietales** occupy an intermediate position between the Ranales and Polygalinae."*

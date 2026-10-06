@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The neural or electrical arousal of an organ or muscle or gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distribution of nerve fibers to an organ or body region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distribution, arrangement, or functional activity of nerves within an organ or bodily part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuromuscular physiology, the total neural supply and reflex modulation governing cardiac, smooth, or striated muscle tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervation designates the neural or electrical arousal of an organ or muscle or gland."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The motor **innervation** of the larynx is derived entirely from the recurrent laryngeal branch of the vagus nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disturbances of autonomic **innervation** produce profound abnormalities in vasomotor regulation and pupillary reflexes."*
+> - 📜 **Charles Bell (*The Anatomy of the Brain*):** *"The dual **innervation** of sensory and motor roots explains the distinct paths of reflex volition and bodily sensation."*

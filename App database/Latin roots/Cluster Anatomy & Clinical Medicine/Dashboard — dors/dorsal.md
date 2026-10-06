@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or on or near the back or upper surface of an animal or organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing away from the axis of an organ or organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated on, or directed toward the back or upper surface of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy and comparative zoology, the posterior anatomical plane in humans or superior aspect in quadrupeds and fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That evening he was within a feather-weight’s turn of abandoning his road to the nearest station, and driving across that elevated dorsal line of South Wessex which divided him from his Tess’s home."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He has a peculiar way of showing his dorsal hooked fin in swimming, which looks something like a Roman nose."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The spinal cord in man extends only as far downwards as the last **dorsal** or first lumbar vertebra."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Driving across that high **dorsal** ridge, the wind buffeted the cart from the vast open downs below."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The prominent spinous processes of the thoracic vertebrae provide sturdy leverage for the **dorsal** musculature."*

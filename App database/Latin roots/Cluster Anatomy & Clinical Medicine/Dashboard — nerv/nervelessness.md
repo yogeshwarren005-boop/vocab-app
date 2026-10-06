@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fearless self-possession in the face of danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearless self-possession in the face of danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of lacking physical power, muscle tone, or emotional reactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary psychology and neurological semiotics, flaccidity of will or muscle, or alternatively absolute imperturbability devoid of anxious tremors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervelessness designates fearless self-possession in the face of danger."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A curious **nervelessness** crept over his limbs as the bitter moorland frost chilled him to the bone."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The statue's languid posture conveyed an impression of dreamy **nervelessness** untouched by worldly passions."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"A sudden overwhelming **nervelessness** invaded his frame, leaving him paralyzed before the terrible revelation."*

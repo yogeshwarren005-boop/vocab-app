@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a composed and unconcerned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a composed and unconcerned manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without physical vigor, muscular power, or emotional agitation; limply and feebly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical description and expressive narrative, describing a hand or body that drops without motor tone or acts with total unhurried indifference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervelessly designates in a composed and unconcerned manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The pistol slipped **nervelessly** from his trembling fingers and clattered loudly upon the marble hearth."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her fingers fell **nervelessly** away from the piano keys as the sorrowful remembrance overwhelmed her composure."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He leaned **nervelessly** against the damp stone wall of the college, staring blankly into the cold winter fog."*

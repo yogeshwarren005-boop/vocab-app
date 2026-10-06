@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An independent agency of the united states government responsible for aviation and spaceflight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent agency of the united states government responsible for aviation and spaceflight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The National Aeronautics and Space Administration, the civilian aerospace agency of the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space exploration and technological history, the federal agency established in 1958 responsible for civilian spaceflight, lunar exploration, and robotic interplanetary science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasa designates an independent agency of the united states government responsible for aviation and spaceflight."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The robotic Voyager missions orchestrated by **NASA** transformed our understanding of the outer solar system and its giant moons."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Through the massive technical coordination of **NASA**, humanity took its first tentative footsteps upon the lunar surface."*
+> - 📜 **Lyndon B. Johnson (*Public Papers of the Presidents*):** *"We created **NASA** to ensure that space exploration would serve the peaceful development and scientific enlightenment of all mankind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the space between two vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the space between two vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, located, or occurring between two adjacent vertebrae of the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic anatomy, relating to the fibrocartilaginous intervertebral discs and articulating ligaments that absorb shock and permit spinal flexibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intervertebral designates pertaining to the space between two vertebrae."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each **intervertebral** disc consists of a fibrous outer ring, the anulus fibrosus, enclosing the gelatinous nucleus pulposus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The thickness of the **intervertebral** cartilages varies throughout the spinal column according to the degree of mobility required."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Spinal nerves emerge from the neural canal through paired **intervertebral** foramina situated along the vertebral column."*

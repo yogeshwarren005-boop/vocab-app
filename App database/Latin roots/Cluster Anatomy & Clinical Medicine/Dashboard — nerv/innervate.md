@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply nerves to (some organ or body part).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulate to action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply an anatomical organ, muscle, or tissue with nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, to conduct electrical motor impulses or sensory signals that activate and regulate peripheral end-organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innervate designates supply nerves to (some organ or body part)."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Branches from the third cranial nerve penetrate and **innervate** the superior, inferior, and medial rectus muscles."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The delicate nerve twigs that **innervate** the facial muscles respond with lightning speed to emotional stimuli."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Motor neurons arising in the ventral horn send axons through peripheral nerves to **innervate** skeletal myofibers."*

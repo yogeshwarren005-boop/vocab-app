@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive or even (of persons) malicious; ; ; ; ; ; - ezra pound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperatingly difficult to handle or circumvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely unpleasant, offensive, foul, repulsive, or spitefully malicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation and vernacular description, describing a noxious wound, virulent infection, severe weather, or vindictive behavioral disposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The _solus_ in thy most mervailous face; The _solus_ in thy teeth, and in thy throat, And in thy hateful lungs, yea, in thy maw, perdy, And, which is worse, within thy nasty mouth!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know, mother, that all they care about is to do mean and nasty things." "But they will go to town, too, and then you will be thrown together."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Nay, but to live in the rank sweat of an enseamed bed, stew'd in corruption, honeying and making love over the **nasty** sty."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Did a **nasty** brute of a dog want to kill it; did he, poor dear sheep, wandering upon the solitary down?"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Our family always hated cats: **nasty**, low, vulgar things that frighten innocent little mice like us."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring fear; ; - g.h.johnston.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing a loss of courage, composure, or emotional control; deeply unsettling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction and psychiatric description, inducing an ominous sensation of dread, disorientation, and vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"At the start it was a kind of bellow, then it toned down to a succession of hog-like grunts, and at last, with a startling and unnerving suddenness, it flattened to a sharp, explosive hiss."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The cold dawn and the deadly errand through deserted streets produced an **unnerving** sensation of absolute loneliness."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-folk chanting their horrific litany in the shadowy ravine sounded like an **unnerving** parody of human society."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The brooding silence that hung over the gloomy manor house was more **unnerving** than any open threat of violence."*

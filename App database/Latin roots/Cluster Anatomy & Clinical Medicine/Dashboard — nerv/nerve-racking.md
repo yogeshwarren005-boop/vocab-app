@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely irritating to the nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely irritating to the nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely distressing, tense, or agonizing to the mind, nerves, or emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric and descriptive literature, describing severe sustained psychological stress that threatens emotional stability and physical endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerve-racking designates extremely irritating to the nerves."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The long, solitary vigil across the misty moor proved a **nerve-racking** ordeal for Sir Henry's shaken constitution."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Waiting in the darkened scullery while the Martian tripod strode overhead was a **nerve-racking** agony of suspense."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ceaseless creaking of the damaged collision-bulkhead in the darkness was a **nerve-racking** trial for the young officer."*

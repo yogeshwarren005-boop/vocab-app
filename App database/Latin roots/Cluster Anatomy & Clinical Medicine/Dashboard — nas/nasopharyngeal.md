@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located near the nasopharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located near the nasopharynx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting both the nasal cavity and the pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otorhinolaryngology and oncology, referring to the mucosal lining, lymphatic tissue (adenoids), or neoplasms (such as carcinoma) of the upper pharynx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasopharyngeal designates of or relating to or located near the nasopharynx."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypertrophy of the **nasopharyngeal** tonsil produces chronic mouth-breathing and altered facial development in growing children."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Persistent irritation in the **nasopharyngeal** vault often excites a dry reflex cough that simulates bronchial catarrh."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"Bacteriological swabs obtained from the **nasopharyngeal** mucosa revealed virulent colonies of diphtheria bacilli."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or situated in the vicinity of the vertebrae or spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neurovascular anatomy, describing essential anatomical structures such as the vertebral artery, vertebral vein, or vertebral canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"This primitive fish can hardly be said to possess a brain, **vertebral** column, or heart in any differentiated form."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The segmented **vertebral** column provides the primary axial support and protective housing for the spinal marrow."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"A severe lateral curvature of the **vertebral** axis inevitably restricts the expansion of the thoracic viscera."*

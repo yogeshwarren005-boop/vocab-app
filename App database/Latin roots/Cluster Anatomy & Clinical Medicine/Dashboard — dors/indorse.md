@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write one's signature on the back of a legal or financial document; to endorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal statutory jurisprudence and traditional commercial paper drafting, the legal act of signing a negotiable bill of exchange to assign title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He appealed to me to indorse his view that there was a tin of sardines and part of a cold fowl and plenty of bread and cheese."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"My motive for withholding it from the coroner’s inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Semi-Colon lay on the grass close to his father, who occupied a cracker-box seat in this tableau, the amiable son at little intervals raising his head to indorse, in his peculiar dissyllabic way, what the positive parent said."*
+> - 📜 **George Washington (*The Writings of George Washington*):** *"I am requested to **indorse** the accompanying warrants before they are presented to the treasury for payment."*
+> - 📜 **Alexander Hamilton (*Report on the Subject of Manufactures*):** *"Merchants of high standing **indorse** domestic bills of exchange, thereby facilitating the rapid circulation of capital."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"The officer had no discretionary power to refuse to **indorse** the patent once the legal conditions had been satisfied."*

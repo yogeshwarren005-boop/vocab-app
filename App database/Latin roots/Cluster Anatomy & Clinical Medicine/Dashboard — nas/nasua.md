@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coatis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coatis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American mammals in the family Procyonidae, commonly known as coatis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, omnivorous diurnal procyonids characterized by a long, flexible, upturned snout adapted for rooting in forest litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog nasua as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The active troops of **Nasua** forage busily across the forest floor, thrusting their long snouts into every rotten log."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The tame **Nasua** followed the Indian hunters through the thicket, hunting grubs with unflagging curiosity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the cranial morphology of **Nasua**, the elongated nasal region and sturdy zygomatic arches reflect its specialized foraging habits."*

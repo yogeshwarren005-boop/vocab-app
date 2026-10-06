@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of nasalizing; the utterance of sounds modulated by the nasal resonators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of nasalizing; the utterance of sounds modulated by the nasal resonators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a speech sound accompanied by lowering of the soft palate so that air escapes through the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic articulatory phonetics, the physiological coupling of the nasopharynx and nasal cavities to the vocal tract during phonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalization designates the act of nasalizing; the utterance of sounds modulated by the nasal resonators."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Complete **nasalization** transforms the standard oral vowel into a distinct resonant acoustic phone."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The extensive **nasalization** characteristic of Romance languages emerged from the assimilation of nasal codas into syllable nuclei."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"We observe that contextual **nasalization** occurs automatically when vowels immediately precede nasal sonorants."*

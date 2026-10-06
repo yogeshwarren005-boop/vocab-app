@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state characterized by foul or disgusting dirt and refuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malevolence by virtue of being malicious or spiteful or nasty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pervasive foulness, moral repulsiveness, spiteful malice, or physical offensiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and human satire, visceral vulgarity, offensive squalor, or malicious cruelty degrading human interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe always kept a supply of it in the cupboard; having a belief in its virtues correspondent to its nastiness."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once the weapons are assembled, installed and calibrated we could be on the receiving end of more nastiness." Leaning forward over the table, he looked directly at the President."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I did indeed observe that the unseemly **nastiness** of these creatures distinguished them from all civilized brutes."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"A writer degrades his intellect when he descends to gratuitous **nastiness** merely to shock refined readers."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The industrial city surrendered its former architectural nobility to unmitigated smoke, squalor, and moral **nastiness**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of being born.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of being born.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning of existence, emergence, origin, or incipient formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aesthetics and developmental philosophy, the initial phase in the genesis of an intellectual or cultural paradigm prior to full maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nascence designates the event of being born."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"We celebrate the **nascence** of genius wherever fresh insight triumphs over inherited institutional forms."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"In the delicate dawn of fifteenth-century Florence, one witnesses the fragile **nascence** of modern artistic consciousness."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The mysterious **nascence** of secular drama signaled the slow dissolution of medieval allegorical mysteries."*

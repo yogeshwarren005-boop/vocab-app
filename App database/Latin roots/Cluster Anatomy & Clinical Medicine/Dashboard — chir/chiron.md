@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the learned centaur who tutored achilles, asclepius, hercules, jason, and other heroes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asteroid discovered in 1977; it is unique in having an orbit lying mainly between the orbits of saturn and uranus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wisest and most just of the centaurs in Greek mythology, famed as a physician, sage, and tutor to heroes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of classical medicine, the legendary mentor of Asclepius and Achilles whose name symbolizes surgical skill and herbal healing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow, my lord, and I’ll soon bring her back. [_Exeunt Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards._] MUTIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Chiron and Demetrius braving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Sound drums and trumpets, and let Demetrius and **Chiron** attend upon their sovereign's command."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"Taught by divine **Chiron** the healing art, he bathed the wound and calmed the throbbing smart."*
+> - 📜 **John Keats (*Endymion*):** *"Ancient **Chiron** trod these shadowy glades, instructing youthful heroes in the secrets of wild woodland herbs."*

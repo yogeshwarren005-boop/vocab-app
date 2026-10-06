@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak nasally or through the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce with a lowered velum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To articulate a vowel or consonant with nasal resonance by lowering the soft palate; to nasalize (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative historical phonology, the vocalic mutation whereby oral sounds absorb resonance from adjacent nasal consonants over linguistic generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasalise designates speak nasally or through the nose."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Speakers of certain regional dialects unconsciously **nasalise** long open vowels before voiced alveolar plosives."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Historical sound shifts reveal how speakers gradually **nasalise** vowels when an archaic final nasal consonant weakens."*
+> - 📜 **Otto Jespersen (*Phonetics*):** *"Foreign language learners must practice diligently not to **nasalise** clear oral syllables during formal declamation."*

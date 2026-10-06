@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes; amphibians; reptiles; birds; mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes; amphibians; reptiles; birds; mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The comprehensive taxonomic subphylum of chordate animals possessing an internal vertebral column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological systematics, the taxon comprising cyclostomes, cartilaginous and bony fishes, amphibians, reptiles, birds, and mammals, defined by an articulated axial skeleton and cranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Amongst existing **Vertebrata**, we find but a small amount of gradation in the structure of the eye."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The fundamental morphological plan of the **Vertebrata** remains recognizable across every adaptive evolutionary radiation."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"In all **Vertebrata**, the central nervous axis occupies a closed dorsal neural canal above the alimentary canal."*

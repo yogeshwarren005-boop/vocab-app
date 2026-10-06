@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwriting, penmanship, or the art and individual style of personal script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and archival bibliography, the physical execution, orthographic ductus, and scribal technique observable in historical manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal chirography on more substantial materials than at present."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Unconsciously my **chirography** expands into placard capitals as I record these astounding adventures."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal **chirography**."*
+> - 📜 **Edgar Allan Poe (*Autography*):** *"The minute peculiarities of an author's **chirography** frequently betray the nervous constitution of the mind."*

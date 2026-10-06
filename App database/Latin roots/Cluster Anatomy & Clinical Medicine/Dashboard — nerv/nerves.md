@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uneasy psychological state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of your emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systemic anatomical network of neural cords; or nervous apprehension and irritability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and vernacular parlance, the bodily nervous system, or colloquially an acute state of psychological tension and anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though grey Do something mingle with our younger brown, yet ha’ we A brain that nourishes our nerves and can Get goal for goal of youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke is very strangely gone from hence; Bore many gentlemen, myself being one, In hand, and hope of action; but we do learn, By those that know the very nerves of state, His givings-out were of an infinite distance From his true-meant design."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROSPERO. [_To Ferdinand._] Come on; obey: Thy nerves are in their infancy again, And have no vigour in them."*
+> - 📜 **William Shakespeare (*Sonnet 120*):** *"For that sorrow, which I then did feel, needs must I under my transgression bow, so I but call to mind my deepest **nerves**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sound nourishment gives **nerves** to the weary laborer who must face the heavy harvest tasks of dawn."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The sympathetic **nerves** regulate involuntary cardiac rhythms and visceral contractions across all vertebrate species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who yields or surrenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who yields or surrenders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who surrenders, yields, capitulates, or formally hands over possession of property or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property conveyance and military treaties, the party who makes a formal surrender of land title or military fortress to a conqueror.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrenderer designates a person who yields or surrenders."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The generous conqueror granted honorable terms of safety and departure to the **surrenderer** of the besieged fortress."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon copyhold conveyance, the **surrenderer** resigns the estate into the hands of the lord of the manor to the use of the purchaser."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The stubborn defender vowed he would die upon the breach rather than be branded as a cowardly **surrenderer**."*

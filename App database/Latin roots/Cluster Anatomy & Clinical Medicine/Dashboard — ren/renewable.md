@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be renewed or extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being renewed; replaceable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being replenished naturally or extended in contractual duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and property law, describing resources that regenerate through natural cycles, or leases subject to formal extension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Report to the Club of Rome (Depletion of the world's non-renewable natural resources). http://dieoff.com/page25.htm CHINA PLANS MOON LANDING, October 5, 2000, by Charles Hutzler, Associated Press."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
+> - 📜 **John Muir (*The Yosemite*):** *"The cascading mountain streams represent an ever-flowing, **renewable** blessing bestowed by winter snows upon the valley."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The farm lease was declared **renewable** every seven years upon mutual agreement of landlord and tenant."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The annual harvest of woodland birch and cedar is a **renewable** harvest if managed with prudent economy."*

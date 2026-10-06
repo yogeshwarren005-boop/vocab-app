@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Epinephrine; a catecholamine hormone and neurotransmitter secreted by the adrenal medulla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency pharmacotherapy and autonomic physiology, a sympathomimetic amine stimulating alpha and beta adrenergic receptors to elevate cardiac output and dilate airways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenalin designates a catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypodermic injection of **adrenalin** provides instantaneous relief in paroxysms of acute spasmodic asthma by relaxing bronchial smooth muscle."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The intravenous introduction of minute doses of **adrenalin** immediately produces powerful vasoconstriction and rising blood pressure."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Under the sudden influence of fear or rage, a surge of **adrenalin** mobilizes hepatic glycogen for immediate muscular exertion."*

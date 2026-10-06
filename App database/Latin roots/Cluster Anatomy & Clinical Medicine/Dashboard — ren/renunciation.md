@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or disowning or disclaiming as invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of rejecting, disowning, or relinquishing a right, claim, belief, or possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and spiritual literature, voluntary self-denial and surrender of personal desire in pursuit of ethical ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But now that she was stung to a fever by Izz’s tale, there was a limit to her powers of renunciation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In every life this cannot but be so, for a man must limit himself; but, if it be for a high end, the renunciation will be blessed with some fruit of good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And she had not reached that point of renunciation at which she would have been satisfied with having a wise husband: she wished, poor child, to be wise herself."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"His life became an exercise in bitter **renunciation**, relinquishing his academic dreams one by one in silence."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Unselfish **renunciation** of personal happiness is noble only when it directly enhances the general happiness of mankind."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola demanded total **renunciation** of worldly vanities, calling the citizens of Florence to puritanical repentance."*

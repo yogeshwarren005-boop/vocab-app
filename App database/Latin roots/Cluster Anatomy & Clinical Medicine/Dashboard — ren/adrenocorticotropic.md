@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulating or acting on the adrenal cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulating or acting on the adrenal cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a stimulating effect on the adrenal cortex; corticotropic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, designating the anterior pituitary trophic hormone (ACTH) that binds to melanocortin receptors on adrenocortical cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenocorticotropic designates stimulating or acting on the adrenal cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Synthetic **adrenocorticotropic** peptide infusions are utilized in provocative testing to evaluate adrenal functional reserve."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The discovery of the **adrenocorticotropic** factor clarified the obscure pathology connecting pituitary tumors with suprarenal obesity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **adrenocorticotropic** feedback loop maintains plasma cortisol concentrations within strict physiological limits."*

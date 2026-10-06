@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both adrenal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both adrenal glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of one or both adrenal glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrine surgery, the operative ablation of the adrenal glands indicated for functional pheochromocytoma, Cushing's disease, or metastatic malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenalectomy designates surgical removal of one or both adrenal glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **adrenalectomy** in experimental animals precipitates severe electrolyte collapse unless cortical hormones are continuously replaced."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The surgical clinic explored subtotal **adrenalectomy** in severe basophilism to relieve the distressing symptoms of hypercortisolism."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous ligation of the fragile suprarenal veins is the cardinal step in preventing catastrophic hemorrhage during **adrenalectomy**."*

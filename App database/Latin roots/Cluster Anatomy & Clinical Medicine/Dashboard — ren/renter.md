@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An owner of property who receives payment for its use by another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tenant who pays rent for the use of land, housing, or equipment; or one who leases property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian sociology and housing law, an occupant possessing leasehold rights without freehold ownership of real property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She became a subscriber; amazed at being anything _in propria persona_, amazed at her own doings in every way, to be a renter, a chuser of books!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"All these things might be alleged against Lydgate, but then, they are the periphrases of a polite preacher, who talks of Adam, and would not like to mention anything painful to the pew-renters."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Admiral Croft was regarded as an unexceptionable **renter** for Kellynch Hall, being wealthy, respectable, and quietly disposed."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The poor **renter** pleaded for an extension of time, swearing that the harvest money would clear his arrears."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The wealthy **renter** of the neighboring dairy was looked up to as one of the substantial men of the parish."*

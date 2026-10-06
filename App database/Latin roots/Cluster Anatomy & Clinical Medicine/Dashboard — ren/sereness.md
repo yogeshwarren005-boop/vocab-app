@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A withered dryness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A withered dryness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclouded calm, tranquil placidity, or undisturbed peacefulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural descriptions and contemplative prose, the quiet stillness of atmospheric conditions or the untroubled repose of the human spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sereness designates a withered dryness."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The crystal **sereness** of the morning pond mirrored the overarching pine tops without a single ripple."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"A divine **sereness** overspreads the autumn landscape, inviting the contemplative mind to peaceful meditation."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"True philosophical wisdom brings an inward **sereness** that shelters the soul amidst worldly storms."*

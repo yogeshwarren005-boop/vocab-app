@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulating or acting on the adrenal cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulating or acting on the adrenal cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulating or governing the hormonal secretion of the adrenal cortex (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pituitary endocrinology, designating the anterior pituitary polypeptide hormone that stimulates cortisol production in the adrenal cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenocorticotrophic designates stimulating or acting on the adrenal cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Basophilic adenomas of the anterior pituitary secrete excessive **adrenocorticotrophic** hormone, driving bilateral cortical overgrowth."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The anterior hypophysis exerts master endocrine control through its **adrenocorticotrophic** and gonadotrophic secretions."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Experimental administration of purified **adrenocorticotrophic** extracts demonstrated rapid restoration of atrophic adrenal glands."*

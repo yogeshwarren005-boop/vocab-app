@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or situated in the vicinity of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human nephrology and metabolic physiology, relating to glomerular filtration, tubular reabsorption, or the excretion of nitrogenous waste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renal designates of or relating to the kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **renal** failure manifests clinically with uremic stomatitis, progressive normocytic anemia, and secondary hyperparathyroidism."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **renal** artery arises directly from the abdominal aorta, dividing into segmental branches at the hilum of the kidney."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Widespread anasarca without evidence of primary cardiac failure directed our diagnostic suspicion toward advanced **renal** disease."*

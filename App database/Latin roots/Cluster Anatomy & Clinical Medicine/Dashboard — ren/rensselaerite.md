@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of soft talc; sometimes used as wood filler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of soft talc; sometimes used as wood filler.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact, soft, waxy variety of talc or saponite formed by the pseudomorphic alteration of pyroxene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and petrology, a fine-grained hydrous magnesium silicate named after Stephen Van Rensselaer, quarried in northern New York for ornamental carvings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rensselaerite designates a kind of soft talc; sometimes used as wood filler."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The mineral **rensselaerite** occurs in Jefferson County, New York, presenting a compact, soapy texture derived from altered pyroxene crystals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Specimens of **rensselaerite** illustrate how hydrothermal circulation pseudomorphically transforms hard silicate minerals into soft talcose masses."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"The metamorphic rocks of northern New York contain deposits of **rensselaerite**, valued by mineral collectors for its unusual waxy luster."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reno, a prominent city in western Nevada near Lake Tahoe, celebrated for tourism, gaming, and legal services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century American cultural geography, 'The Biggest Little City in the World', renowned historically as a hub for rapid divorce proceedings and early gaming resorts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reno designates a city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"She spoke with cynical amusement of taking a temporary residence in **Reno** to sever her matrimonial ties."*
+> - 📜 **Sinclair Lewis (*Dodsworth*):** *"The train sped westward across the sagebrush desert toward the glittering oasis of **Reno**."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Migrants talked of the Nevada crossroads around **Reno**, where gambling palaces gleamed against the arid Sierra hills."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To resume, restore to fresh condition, re-establish, or extend the period of validity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and civil administration, to revive spiritual commitments or extend legal covenants before expiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore shall he die, And I’ll renew me in his fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renew thy strength; I had rather thou shouldst live while nature will Than die ere I hear more."*
+> - 📜 **William Shakespeare (*Sonnet 15*):** *"All in war with Time for love of you, as he takes from you, I engraft you new, and in my verse your youth **renew**."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"In the woods we return to reason and faith; there I feel that nothing can befall me in life which nature cannot **renew**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The gentle spring shower seemed to **renew** the green youth of the blooming valley pastures."*

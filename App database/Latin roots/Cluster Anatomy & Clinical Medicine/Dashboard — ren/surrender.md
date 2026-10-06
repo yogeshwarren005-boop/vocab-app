@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of despair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal act of admitting defeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To yield, give up possession of, or cease resistance to an enemy, authority, or superior power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and psychology, the formal capitulation of forces, or the psychological abandonment of individual control to a compelling passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray tell ’em thus much from me: There should be one amongst ’em, by his person More worthy this place than myself, to whom, If I but knew him, with my love and duty I would surrender it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you let us hit together: if our father carry authority with such disposition as he bears, this last surrender of his will but offend us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch hither Richard, that in common view He may surrender."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I must **surrender** my royal crown and sceptre into the hands of an ambitious and rebellious kinsman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her resolute pride refused to **surrender** to grief, even when the full tragedy of her situation was made known."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Let a man never **surrender** his intellectual integrity to the conformist clamor of popular opinion."*

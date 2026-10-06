@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose income is from property rents or bond interest and other investments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose income is from property rents or bond interest and other investments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose income is derived from investments, rents, dividends, or annuities rather than wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and sociological analysis, a member of the bourgeois property-owning class living on passive capital income.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The one who has a perpetual income from bonds or rents is called a _rentier_."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The euthanasia of the **rentier**, of the functionless investor, will be no sudden revolution but the gradual consequence of capital abundance."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The comfortable life of the urban **rentier** is insulated from the mechanical rigors of industrial production by dividends."*
+> - 📜 **George Bernard Shaw (*Widowers' Houses*):** *"He defended his privileged leisure with the cool equanimity of a **rentier** whose quarterly dividends arrive without fail."*

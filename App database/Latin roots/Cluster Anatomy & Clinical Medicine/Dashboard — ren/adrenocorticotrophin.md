@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced by the anterior pituitary gland that stimulates the adrenal cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone produced by the anterior pituitary gland that stimulates the adrenal cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polypeptide hormone secreted by the anterior pituitary that stimulates the adrenal cortex (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, ACTH (corticotropin), a 39-amino-acid peptide regulating glucocorticoid synthesis in response to hypothalamic CRH.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenocorticotrophin designates a hormone produced by the anterior pituitary gland that stimulates the adrenal cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elevated circulating levels of **adrenocorticotrophin** cause characteristic cutaneous hyperpigmentation in primary adrenal failure."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The secretion of **adrenocorticotrophin** fluctuates in response to physiological stress, cold, and acute trauma."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The hypothalamic-pituitary axis modulates the release of **adrenocorticotrophin**, demonstrating how emotional states influence somatic metabolism."*

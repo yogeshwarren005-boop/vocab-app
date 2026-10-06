@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both adrenal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both adrenal glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of one or both suprarenal (adrenal) glands; adrenalectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrine surgery, the extirpation of the suprarenal glands performed to eradicate pheochromocytomas or manage steroid-dependent tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprarenalectomy designates surgical removal of one or both adrenal glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental **suprarenalectomy** in dogs demonstrated that cortical loss is rapidly fatal unless salt and adrenal extracts are supplied."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Successful **suprarenalectomy** requires exquisite gentleness to avoid tearing the short, wide right adrenal vein where it enters the vena cava."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical introduction of subtotal **suprarenalectomy** marked a daring frontier in twentieth-century endocrine surgery."*

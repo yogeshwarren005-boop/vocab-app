@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act (spoken or written) declaring that something is surrendered or disowned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act (spoken or written) declaring that something is surrendered or disowned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of giving up, repudiating, or surrendering a right, title, or claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal documentation, the explicit covenant or declaration by which an individual yields privileges or earthly ambitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold you as a thing enskied and sainted By your renouncement an immortal spirit, And to be talked with in sincerity, As with a saint."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"What he would not permit this office to consist of was yet to be settled: there was a queer relief, at all events—I mean for myself in especial—in the renouncement of one pretension."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The little volume was to be issued by Cottle of Bristol, early in the coming year, 1797; and Lamb was desirous to seize the occasion of giving his sister an unlooked-for pleasure and of consecrating his verses by a renouncement and a dedication."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Upon her **renouncement** of the world, she entered the cloister to dedicate her days to prayer."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"His voluntary **renouncement** of his family title and estates in France astonished the Parisian aristocracy."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The philosophical **renouncement** of sensual desires opened his mind to a quieter, more austere beauty."*

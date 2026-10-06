@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can not be renewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can not be renewed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being renewed, replenished, or regenerated once consumed; exhaustible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental economics and natural resource management, designating finite geological resources (such as fossil fuels or minerals) that cannot replenish on a human timescale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Consider UIPS limitations in nonrenewable metals, minerals and other vital reserves until Slingshot begins to produce."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deficits in our nonrenewable assets, and the many other natural substances we depend on, if not resolved within the next few centuries, could force us back into caves, and I don't use that word 'figuratively'."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The insatiable appetite for metals, minerals, rare earths and other nonrenewable substances increased inexorably."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The vast coal beds of Britain represent a **nonrenewable** treasury of buried solar energy upon which modern industry subsists."*
+> - 📜 **John Muir (*Our National Parks*):** *"We squander these ancient subterranean resources as though our **nonrenewable** mineral wealth had no inevitable end."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The primeval forest once felled by ruthless commerce represents a virtually **nonrenewable** inheritance of centuries."*

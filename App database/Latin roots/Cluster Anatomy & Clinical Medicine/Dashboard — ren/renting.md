@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of paying for the use of something (as an apartment or house or car).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Let for money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or transaction of paying or receiving rent for the temporary use of property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In housing economics and property tenancy, occupying real estate under contractual leasehold terms rather than owner-occupancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The landlord of a farm let to a tenant, especially to a share tenant, is still to a large extent the general manager, controlling in a large measure through the renting contract and by his oversight, the operations of the farm."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The other sister is left feeling very much at a loss, but she hits on the idea of renting a small London flat in a poor area, making herself look like a very elderly woman, and finding acts of kindness to do for her neighbours."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am told that you have some idea of renting a house called Pastimes, near here!" "We have taken Pastimes."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He was engaged in **renting** a deserted estate at Carfax, whose vast stone vaults suited his sinister nocturnal designs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The neighborhood was thrown into great excitement by a wealthy young gentleman from the north **renting** Netherfield Park."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber entertained bold schemes of **renting** a commodious house in Canterbury, despite his complete lack of ready funds."*

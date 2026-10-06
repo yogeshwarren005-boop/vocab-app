@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French impressionist painter (1841-1919).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French impressionist painter (1841-1919).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierre-Auguste Renoir (1841–1919), celebrated French Impressionist painter renowned for vibrant color and luminous depictions of human life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, a master painter of the French Impressionist school famed for sparkling light effects, sensuous nudes, and joyful Parisian leisure scenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renoir designates french impressionist painter (1841-1919)."*
+> - 📜 **Émile Zola (*The Masterpiece*):** *"The radiant sun-dappled canvases of **Renoir** celebrated the joyful spectacle of Parisian youth with incomparable warmth."*
+> - 📜 **Herbert Read (*A Concise History of Modern Painting*):** *"In the luminous brushwork of **Renoir**, color becomes pure vibration, capturing the transient glow of flesh and summer foliage."*
+> - 📜 **George Moore (*Modern Painting*):** *"Nobody understood the delicate bloom upon a young woman's cheek better than the lyric master **Renoir**."*

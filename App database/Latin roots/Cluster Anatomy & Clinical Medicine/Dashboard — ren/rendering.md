@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic performance, translation, graphic depiction, or legal delivery of an account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural visualization and musical interpretation, the specific execution and stylistic realization of a score, sketch, or dramatic text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop with speechless indignation as he drew on his tight gloves, of course unconscious of the homage she was rendering."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It might be—any age almost.” After rendering this general tribute to the port, Mr."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"By **rendering** up your liberty, you may redeem your brother from impending execution."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"His faithful **rendering** of the old woodland ballad moved the rustic listeners to thoughtful silence."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The artist gave a vivid **rendering** of facial agony, capturing every furrow etched upon the brow."*

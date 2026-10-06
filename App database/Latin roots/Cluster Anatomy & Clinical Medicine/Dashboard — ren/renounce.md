@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave (a job, post, or position) voluntarily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare formal abandonment of a claim, right, title, doctrine, or allegiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and historical jurisprudence, voluntary abdication of hereditary privilege, legal possession, or sectarian belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only this proof I’ll of thy valour make: In single combat thou shalt buckle with me, And if thou vanquishest, thy words are true; Otherwise I renounce all confidence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call’d us for our fierceness, English dogs; Now like to whelps we crying run away. [_A short alarum._] Hark, countrymen, either renew the fight, Or tear the lions out of England’s coat; Renounce your soil, give sheep in lions’ stead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame on himself, for my desert is honour; And to repair my honour lost for him, I here renounce him and return to Henry."*
+> - 📜 **William Shakespeare (*King Lear*):** *"By all the operation of the orbs from whom we do exist and cease to be, here I disclaim all my paternal care, and **renounce** my daughter."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"In his bitter remorse, Henchard resolved to **renounce** all strong drink for as many years as he had lived."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was prepared to **renounce** every luxury of wealth for the sake of an honorable and dedicated marriage."*

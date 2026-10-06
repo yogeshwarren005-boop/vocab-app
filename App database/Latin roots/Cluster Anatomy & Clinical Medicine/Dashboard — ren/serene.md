@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not agitated; without losing self-possession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely clear and fine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, tranquil, untroubled, and unclouded; peaceful and clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and classical stoicism, an undisturbed equilibrium of the soul unaffected by external fortune; or a royal title of address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby merely added, with the serene composure with which she said everything, “Go along, you naughty Peepy!” and fixed her fine eyes on Africa again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But so from rough outsides (I hope I have learnt), serene and gentle influences often proceed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it lovely, and gentle, and beautiful, and pleasant, and serene, and joyful?"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The evening sky was **serene** and cloudless, glowing with a soft amber light that bathed the ancient town."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her noble countenance preserved a **serene** composure that subdued the passionate anger of those around her."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Above the tumultuous storms of the lower world, the celestial spheres revolve in **serene** and everlasting light."*

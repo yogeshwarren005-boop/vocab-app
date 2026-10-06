@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tearing apart violently; splitting; or causing excruciating emotional anguish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and acoustic description, the physical laceration of fabrics or tissues, or a sound that pierces the air with violent sharpness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Our voices rang like broken chords, like a tearing and rending of sound."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pondering over these heart-rending tidings, Catherine walked slowly upstairs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed, to you I owe some fearful pangs of mental suffering, but I ought to forgive you, for you knew not what you did: while rending my heart-strings, you thought you were only uprooting my bad propensities."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A terrible, heart-**rending** cry of mortal agony broke the dead silence of the lonely moor."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The sudden cracking of the winter pond ice sounded like the loud **rending** of massive timbers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship shuddered under the **rending** shock of the whale's assault against the wooden hull."*

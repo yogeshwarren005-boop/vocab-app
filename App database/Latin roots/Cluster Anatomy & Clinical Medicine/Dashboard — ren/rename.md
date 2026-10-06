@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a new name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name again or anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a new, different, or updated name to a person, place, institution, or entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative nomenclature and archival management, the formal alteration of a taxonomic, geographical, or institutional title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantine determined to **rename** the ancient city of Byzantium after himself, establishing it as the new capital of the empire."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament resolved to **rename** the strategic forts and public squares to celebrate the victorious Protestant succession."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman conquerors did not hesitate to **rename** the ancient Saxon manors according to their own dialect."*

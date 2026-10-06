@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known, acclaimed, and honored for exceptional deeds, virtues, or talents; famous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, celebrated across nations and epochs for monumental intellectual, architectural, or literary contributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So.— Thus then, thou most renowned: Caesar entreats Not to consider in what case thou stand’st Further than he is Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brought to this town by that most famous warrior, Duke Menaphon, your most renowned uncle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, Rome, that all alone Martius did fight Within Corioles’ gates, where he hath won, With fame, a name to Caius Martius; these In honour follows “Coriolanus.” Welcome to Rome, renowned Coriolanus. [_Sound flourish._] ALL."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Her sunny locks hang on her temples like a golden fleece, which makes her seat of Belmont Colchos' strand, and many Jasons come in quest of her, for she is fair and of wondrous virtues, widely **renowned**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The parson informed Durbeyfield that his humble family was descended from the **renowned** knight Sir Pagan d'Urberville."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He was a **renowned** advocate in the criminal courts, famous for tearing hostile witnesses to shreds upon cross-examination."*

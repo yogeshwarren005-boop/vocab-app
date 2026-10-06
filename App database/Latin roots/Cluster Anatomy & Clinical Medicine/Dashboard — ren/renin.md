@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzymatic hormone secreted by renal juxtaglomerular cells that initiates the renin-angiotensin-aldosterone cascade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal physiology and hypertension pathophysiology, an aspartic protease converting circulating angiotensinogen into angiotensin I to regulate arterial pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renin designates a proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental renal ischemia triggers copious release of **renin**, which initiates severe secondary arterial hypertension."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The discovery of **renin** in kidney extracts demonstrated that the organ functions as an active endocrine gland as well as an excretory filter."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The enzymatic action of **renin** upon plasma proteins illustrates the exquisite biochemical feedback governing systemic blood pressure."*

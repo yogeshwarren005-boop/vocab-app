@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peacefully serene manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peacefully serene manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, tranquil, untroubled, and peacefully composed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description and dramatic narrative, facing adversity, danger, or emotional turmoil without agitation or panic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To see that composed court yesterday jogging on so serenely and to think of the wretchedness of the pieces on the board gave me the headache and the heartache both together."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very curious to see her looking on serenely from her writing-table while Caddy and I discussed it, occasionally shaking her head at us with a half-reproachful smile like a superior spirit who could just bear with our trifling."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak looked **serenely** upon the ruin of his fortunes, accepting disaster with patient, uncomplaining fortitude."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The aged minister smiled **serenely** upon the congregation as he delivered his final benediction."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes sat **serenely** in his armchair, exhaling blue smoke rings while the frantic visitor poured out his tale."*

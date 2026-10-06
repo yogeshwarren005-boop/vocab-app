@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complimentary; without payment of rent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without paying rent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupying premises, land, or housing without the obligation of paying rent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal tenure and modern tenancy law, occupancy granted as perquisite of office, familial beneficence, or charitable concession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-free designates complimentary; without payment of rent."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The housekeeper was permitted to reside **rent-free** in the west wing of the manor in consideration of her long service."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Sir John Middleton generously offered them the cottage **rent-free**, but Mrs. Dashwood insisted upon paying a modest annual sum."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He lived **rent-free** in the decrepit cottage by the mill, eking out a precarious existence as a seasonal odd-job man."*

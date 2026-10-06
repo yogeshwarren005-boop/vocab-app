@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rented car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rented car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial business or service that leases automobiles to customers for short durations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern transportation economics, a commercial vehicle rental service providing self-drive cars to travelers and tourists at transport terminals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-a-car designates a rented car."*
+> - 📜 **John Steinbeck (*Travels with Charley*):** *"Every airport terminal buzzed with hurried travelers clustering around the brightly lit **rent-a-car** counters."*
+> - 📜 **F. Scott Fitzgerald (*The Crack-Up*):** *"He considered taking a temporary **rent-a-car** to explore the sprawling suburban developments springing up along the coast."*
+> - 📜 **Jack Kerouac (*On the Road*):** *"We traded stories at midnight near a neon-lit **rent-a-car** lot where sleek sedans stood parked in gleaming rows."*

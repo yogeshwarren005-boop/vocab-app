@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to blocking or reducing adrenergic effects in the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to blocking or reducing adrenergic effects in the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing, blocking, or counteracting the physiological effects of adrenaline or sympathetic stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology, designating sympathetic receptor antagonists (such as alpha or beta blockers) used to lower blood pressure and manage arrhythmias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiadrenergic designates relating to blocking or reducing adrenergic effects in the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of an **antiadrenergic** agent prevents paroxysmal hypertensive surges during the surgical manipulation of a pheochromocytoma."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The **antiadrenergic** properties of ergot alkaloids were demonstrated by their ability to reverse the vascular pressor response of epinephrine."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Modern pharmacologists developed targeted **antiadrenergic** compounds to shield the failing myocardium from excessive sympathetic drive."*

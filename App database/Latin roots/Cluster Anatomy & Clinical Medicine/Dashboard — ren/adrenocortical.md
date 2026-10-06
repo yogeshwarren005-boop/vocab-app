@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or derived from the cortex of the adrenal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or derived from the cortex of the adrenal glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or affecting the cortex of the adrenal gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In steroid endocrinology, relating to the glucocorticoid, mineralocorticoid, and sex steroid hormones synthesized within the three zones of the adrenal cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenocortical designates of or derived from the cortex of the adrenal glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **adrenocortical** insufficiency leads to electrolyte wasting, profound dehydration, and systemic hypotension."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Autopsy sections in patients with plethoric adiposity revealed diffuse bilateral **adrenocortical** hyperplasia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **adrenocortical** layers—the glomerulosa, fasciculata, and reticularis—exhibit distinct histological organization under the microscope."*

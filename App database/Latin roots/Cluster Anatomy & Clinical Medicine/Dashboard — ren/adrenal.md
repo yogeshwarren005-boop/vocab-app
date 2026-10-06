@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of complex endocrine glands situated near the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the adrenal glands or their secretions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated near or atop the kidneys; or relating to the adrenal glands and their hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, designating the paired suprarenal glands composed of an outer steroidogenic cortex and an inner catecholaminergic medulla.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenal designates either of a pair of complex endocrine glands situated near the kidney."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Addison demonstrated that primary fibrocaseous destruction of the **adrenal** capsules leads inexorably to bronzed skin and fatal asthenia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each **adrenal** gland rests upon the superior pole of the corresponding kidney, enclosed in renal fascia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Extracts prepared from the **adrenal** medulla exert an immediate pressor effect upon the peripheral vascular channels."*

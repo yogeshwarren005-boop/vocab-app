@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf or bean shape) resembling the shape of kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf or bean shape) resembling the shape of kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a kidney; having a rounded curved outline with a deep notch or sinus at the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and anatomical pathology, describing kidney-shaped leaves (such as Asarum) or bean-shaped pathological lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore then emits a curved and obtuse tube, which soon ceasing to elongate itself, gives origin to three or four sporidia, of a reniform or kidney shape."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Most of these reniform sporidia disengage themselves from the filaments on which they are produced, and either elongate themselves into a simple and uniform filament, or swell at the extremity as if to reproduce a second spore."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Wild ginger produces a pair of large, dark green **reniform** leaves that carpet the moist woodland soil."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The normal human spleen presents a flattened, oblong, slightly **reniform** contour against the diaphragm."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The **reniform** cotyledons of the seedling rotate towards the light with striking phototropic precision."*

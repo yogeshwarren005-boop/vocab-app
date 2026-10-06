@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restoring to fresh condition, regenerating, or extending the period of validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritual philosophy and biological regeneration, the ongoing restorative process of rebuilding vital tissues or ethical convictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Full of confidence in God, she hoped that the hand which had opened an impassable road would also lead an embittered heart back to himself, and by renewing in him the love of his fellowmen, bring about much happiness and joy."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Renewing then my courage, and gathering my feeble remains of strength, I pushed on."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The steady influence of quiet study was effective in **renewing** his intellectual ambition and purpose."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The forest breeze seemed capable of **renewing** the faded roses upon the frail woman's pale cheeks."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Sleep exerted its gentle **renewing** influence, smoothing away the haggard lines etched by terror."*

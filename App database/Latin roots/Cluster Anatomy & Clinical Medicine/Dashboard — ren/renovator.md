@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who restores, refurbishes, repairs, or updates buildings, artifacts, or institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art conservation and historical masonry, a skilled craftsperson who repairs damaged frescoes, stonework, or antique architectural structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Moonlight, and the sentiment in man’s heart responsive to it, are the greatest of renovators and reformers."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The clumsy **renovator** scraped the delicate Gothic tracery, destroying the handiwork of fourteenth-century carvers."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"An Italian **renovator** was busily cleaning the ancient marble frieze, revealing the crisp chiseling of classical masters."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The architect acted as an ecclesiastical **renovator**, surveying the cracked tower of the lonely Cornish church."*

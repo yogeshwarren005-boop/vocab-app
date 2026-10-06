@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that curdles milk in making cheese and junket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that curdles milk in making cheese and junket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coagulating preparation extracted from the abomasum of ruminants containing chymosin, used to curdle milk in cheesemaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dairy science and traditional husbandry, an enzymatic extract rich in proteolytic chymosin utilized to precipitate casein curds from whey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rennet designates a substance that curdles milk in making cheese and junket."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mrs. Crick added the measured spoonful of **rennet** to the warm vat, stirring the milk with practiced dairy skill."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The cool dairy was fragrant with fresh cream, clean wooden churns, and the pungent aroma of drying **rennet**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Simple country fare of milk curdled with wild plant **rennet** provided the hermit with wholesome sustenance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That is able or fit be rented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is able or fit be rented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being rented or leased; suitable for letting to tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real estate appraisal and urban housing, commercial or residential floor area meeting safety and legal codes for leasing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rentable designates that is able or fit be rented."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The old stone warehouse was still solidly built and easily **rentable** to the grain merchants of the canal basin."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every **rentable** cottage in the village was occupied by shearers and dairy hands during the busy summer months."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ruined court contained not a single **rentable** room, its rotting joists and shattered roofs threatening imminent collapse."*

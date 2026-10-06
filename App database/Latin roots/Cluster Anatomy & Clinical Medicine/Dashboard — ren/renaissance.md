@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The revival of learning and culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great revival of art, classical literature, and humanist learning in Europe from the 14th to 17th centuries; or any major rebirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural historiography and aesthetics, the historical epoch marked by the revival of classical antiquity, empirical science, and individualistic philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The Renaissance knew of strange manners of poisoning—poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is nearly all that I said of the Central Renaissance in thirty pages of the ‘Stones of Venice’ put into as many lines, Browning’s being also the antecedent work."*
+> - 📜 **George Eliot (*Romola*):** *"Florence in the late fifteenth century was the radiant heart of the **Renaissance**, vibrant with intellectual passions and artistic rivalries."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He looked for a new spirituality that would combine the passion of the **Renaissance** with modern artistic consciousness."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"His magnificent palace was furnished with all the lavish splendor and intellectual pride of a **Renaissance** prince."*

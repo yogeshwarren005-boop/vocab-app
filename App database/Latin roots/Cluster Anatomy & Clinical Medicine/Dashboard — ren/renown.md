@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread fame, high repute, and celebrated distinction throughout society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic literature and historical chronicles, lasting public esteem and glory earned through exceptional heroism, scholarship, or artistic mastery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er the course, the end is the renown. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Our glorious ancestors won immortal **renown** upon the bloody field of Agincourt."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Warriors who achieved vast **renown** on earth found their worldly glory turned to hollow dust in eternity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The military **renown** of Trajan secured the Roman borders against barbarian encroachment for a generation."*

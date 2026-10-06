@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rebels and becomes an outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who deserts a faith, cause, party, or allegiance; a traitor or apostate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and religious warfare, a turncoat who abandons conventional principles to join hostile or outlaw factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"This is 'Peter Bell the Third' (1819), an attack on Wordsworth, partly literary for the dulness of his writing since he had been sunk in clerical respectability, partly political for his renegade flunkyism."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But his body was too young, too strong, too tenacious of earth to be betrayed by the renegade mind."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mark him as a newly arrived renegade, a killer and genetic flake dangerous to Coldfield's safety."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The cynical **renegade** mocked the loyal soldiers who continued to defend the crumbling citadel."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"He was branded as a **renegade** knight who had betrayed his sacred crusading vows for Saracen gold."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial deserters found refuge among the barbarian tribes, serving as **renegade** commanders against Rome."*

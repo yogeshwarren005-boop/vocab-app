@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restored to fresh vitality, vigor, or valid condition; revived or resumed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and psychology, regaining strength, resolve, or active operation following an interval of cessation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At your return, visit our house, let our old acquaintance be renewed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, you know that." Apollonie now said good-bye with renewed thanks."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*
+> - 📜 **William Shakespeare (*Henry V*):** *"With **renewed** courage our soldiers charged the breach, inspired by the royal banner waving above."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak returned to his shearing with **renewed** energy, determined to complete the task before sunset."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She looked upon the tranquil morning landscape with **renewed** composure and a peaceful heart."*

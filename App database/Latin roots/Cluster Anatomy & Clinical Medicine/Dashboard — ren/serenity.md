@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition free from stress or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of mental stress or anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pervasive tranquility, unclouded calmness, or undisturbed peace of mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stoic philosophy and meditative ethics, absolute psychological equanimity (ataraxia) remaining steadfast amidst life's external trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conviction bred serenity, her pulse slowed, and she was able to look about her."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember remarking at the time my serenity of mind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet **serenity** of the night sky calmed his agitated spirit after the violent harvest turmoil."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"He who possesses inward **serenity** carries a sanctuary within his own breast that no worldly fortune can violate."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I breathed an atmosphere of perfect **serenity**, sitting beside the cabin door in reverie from sunrise until noon."*

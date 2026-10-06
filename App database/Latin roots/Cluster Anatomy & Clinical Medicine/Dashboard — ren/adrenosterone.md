@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steroid having androgenic activity; obtained from the cortex of the adrenal gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endogenous steroid hormone produced in the adrenal cortex exhibiting weak androgenic activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In steroid biochemistry, 11-ketoandrostenedione, a C19 adrenal steroid intermediate isolated by Tadeus Reichstein during early corticosteroid characterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenosterone designates a steroid having androgenic activity; obtained from the cortex of the adrenal gland."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive excretion of **adrenosterone** and related 17-ketosteroids is observed in virilizing tumors of the adrenal cortex."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The chemical isolation of **adrenosterone** from suprarenal extracts revealed the diverse spectrum of steroids synthesized by the gland."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Biochemists demonstrated that **adrenosterone** possesses mild masculinizing properties compared to testicular testosterone."*

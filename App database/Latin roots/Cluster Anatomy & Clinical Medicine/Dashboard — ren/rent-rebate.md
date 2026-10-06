@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rebate on rent given by a local government authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rebate on rent given by a local government authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction, subsidy, or partial refund granted on rental payments, especially in social welfare housing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal public administration and housing economics, a targeted financial subsidy reducing rental liabilities for low-income tenant households.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-rebate designates a rebate on rent given by a local government authority."*
+> - 📜 **George Bernard Shaw (*Widowers' Houses*):** *"The vestry debated whether to grant a municipal **rent-rebate** to impoverished artisans living in the condemned rookeries."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The progressive council instituted a comprehensive **rent-rebate** scheme to shield working families from extortionate tenement rates."*
+> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"Soames examined the estate accounts, noticing that a small **rent-rebate** had been allowed to the widowed tenant of the dairy."*

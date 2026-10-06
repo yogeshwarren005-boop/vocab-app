@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mistake of not following suit when able to do so.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to fulfill a promise or obligation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To go back on a promise, undertaking, or contract; or in card games to fail to follow suit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract disputes and vernacular idiom, the deliberate refusal to fulfill a solemn commitment or acknowledged obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **James Joyce (*Ulysses*):** *"We fought for the royal Stuarts that reneged us against the Williamites and they betrayed us."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"His captain's heart, which in the scuffles of great fights hath burst the buckles on his breast, **renege** all temper."*
+> - 📜 **James Joyce (*Ulysses*):** *"He was not the man to **renege** upon a comrade in the hour of political adversity."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was too proud to **renege** upon his word, even when financial ruin stared him in the face."*

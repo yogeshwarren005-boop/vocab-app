@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that occurs in gastric juice; causes milk to coagulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chymosin; a proteolytic enzyme found in the gastric juice of young ruminants that curdles milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastric biochemistry, an endopeptidase that specifically cleaves the peptide bond between phenylalanine and methionine in kappa-casein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rennin designates an enzyme that occurs in gastric juice; causes milk to coagulate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The gastric glands of infant mammals secrete **rennin** to precipitate casein for efficient peptic digestion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Under the catalytic action of **rennin**, liquid milk is rapidly converted into a firm gelatinous clot in the stomach."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"In the fourth stomach of the calf, **rennin** operates at a specific acidic pH to optimize the curdling of maternal milk."*

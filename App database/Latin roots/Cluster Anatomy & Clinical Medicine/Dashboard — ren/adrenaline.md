@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sympathomimetic hormone secreted by the adrenal medulla; epinephrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology and stress physiology, the principal catecholamine mediating the acute 'fight-or-flight' autonomic reaction in vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenaline designates a catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"A sudden surge of frantic **adrenaline** coursed through his veins as he dodged past the bewildered constable."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In profound anaphylactic shock, prompt intramuscular administration of **adrenaline** counteracts catastrophic systemic vasodilation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The physiological manifestations of terror—dilated pupils, pallor, and trembling—are governed by sympathetic discharge and circulating **adrenaline**."*

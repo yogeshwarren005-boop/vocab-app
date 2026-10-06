@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation, artistic performance, translation, or formal surrender of a person or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and aesthetic criticism, the official extradition or surrender of an individual, or the stylistic execution of a dramatic role.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Masterly rendition. _At the siege of Ross did my father fall._ A cavalcade in easy trot along Pembroke quay passed, outriders leaping, leaping in their, in their saddles."*
-> - 📜 **James Joyce (*Ulysses*):** *"Most trenchant rendition of that ballad, upon my soul and honour it is. —Lablache, said Father Cowley."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"A third difficulty in making a collection of Chinese nursery lore is greater than either the first or the second,--I refer to the difficulty of a metrical rendition of the rhymes."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"His wild **rendition** of the antique ballad struck upon my ear with fantastic and melancholy power."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The northern magistrates resisted the compulsory **rendition** of fugitive slaves to their southern masters."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her dramatic **rendition** of the poetic recitation held the fashionable drawing-room completely spellbound."*

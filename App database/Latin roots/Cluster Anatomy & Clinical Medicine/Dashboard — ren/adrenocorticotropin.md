@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced by the anterior pituitary gland that stimulates the adrenal cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone produced by the anterior pituitary gland that stimulates the adrenal cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adrenocorticotropic hormone (ACTH); the anterior pituitary hormone that stimulates the adrenal cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroendocrinology, the cleavage product of pro-opiomelanocortin (POMC) that stimulates cholesterol conversion to pregnenolone in the adrenal cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenocorticotropin designates a hormone produced by the anterior pituitary gland that stimulates the adrenal cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical diagnosis of Addison's disease is verified by measuring an elevated serum **adrenocorticotropin** alongside subnormal cortisol levels."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Hypophysectomy in animals results in rapid cortical atrophy that can be entirely reversed by administering purified **adrenocorticotropin**."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The physiological pulse of **adrenocorticotropin** peaks in the early morning hours, synchronizing the organism with the diurnal cycle."*

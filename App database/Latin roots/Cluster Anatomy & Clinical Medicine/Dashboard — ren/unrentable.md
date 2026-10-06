@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or fit to be rented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or fit to be rented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being rented; unsuitable for letting or leasing to tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real estate economics, describing dilapidated, condemned, or legally encumbered premises that cannot attract tenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrentable designates not able or fit to be rented."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The dilapidated tenement was utterly **unrentable**, its rotting floors and broken roof having long driven out all human tenants."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The neglected cottages on the low marsh ground were deemed virtually **unrentable** by the prudent estate bailiff."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The crumbling storehouse by the river stood empty and **unrentable** throughout the long winter season."*

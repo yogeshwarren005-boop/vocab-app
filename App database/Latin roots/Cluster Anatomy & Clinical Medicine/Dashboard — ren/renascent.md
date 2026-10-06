@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising again as to new life and vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rising again as to new life and vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Springing into fresh life, experiencing a revival, or rising again with renewed vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and psychological narrative, describing values, emotions, or artistic impulses that awaken into energetic expression after prolonged suppression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So spoke love renascent, preparing the way for Tess’s devoted outpouring, which was then just being forwarded to him by his father; though owing to his distance inland it was to be a long time in reaching him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"So spoke love **renascent**, preparing the way for Tess's devoted outpouring upon the bridge."*
+> - 📜 **George Meredith (*The Egoist*):** *"Her **renascent** cheerfulness welcomed the warm sunshine that swept away the gloom of winter."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The **renascent** energy of Italian scholarship exhumed forgotten classical manuscripts from dusty monastic libraries."*

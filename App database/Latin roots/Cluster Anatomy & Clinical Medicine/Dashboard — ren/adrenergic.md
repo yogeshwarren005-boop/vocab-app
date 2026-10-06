@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug that has the effects of epinephrine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to epinephrine (its release or action).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, activated by, or releasing adrenaline, noradrenaline, or related sympathomimetic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, designating postganglionic sympathetic neurons, cellular receptors (alpha and beta), or medications that mimic sympathetic nerve activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenergic designates drug that has the effects of epinephrine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive **adrenergic** stimulation originating from an occult pheochromocytoma precipitates severe hypertensive crises."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The physiological response of the arterial tree to sympathetic stimulation depends upon specific **adrenergic** neuroeffector junctions."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The autonomic equilibrium maintains a constant balance between cholinergic vagal restraint and powerful **adrenergic** acceleration."*

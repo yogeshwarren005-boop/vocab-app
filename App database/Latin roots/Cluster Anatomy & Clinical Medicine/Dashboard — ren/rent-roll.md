@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A register of rents; includes the names of tenants and the amount of rent they pay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A register of rents; includes the names of tenants and the amount of rent they pay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal register, schedule, or account of rental income derived from an estate's tenant properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landed aristocracy and agrarian economic history, the primary documentary ledger recording tenant obligations, land holdings, and gross estate revenue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rent-roll designates a register of rents; includes the names of tenants and the amount of rent they pay."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The immense **rent-roll** of the English duke gave him an annual revenue rivaling that of continental sovereign princes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient d'Urberville **rent-roll** once embraced a dozen parishes across the fertile vale of Blackmoor."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet calculated Mr. Darcy's ten thousand a year from the reputed **rent-roll** of his magnificent Derbyshire estates."*

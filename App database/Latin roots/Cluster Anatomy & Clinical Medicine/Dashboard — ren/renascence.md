@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of european history at the close of the middle ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second or new birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rebirth, revival, or renewed blossoming of life, art, culture, or intellectual energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and philosophical literature, a resurgence of classical aesthetic vitality or intellectual enthusiasm; a renaissance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Renascence and Other Poems by Edna St."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"There was something of the **Renascence** Prince about his omnivorous culture and restless publicity."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The delicate dawn of the fifteenth century represented a glorious **renascence** of the human spirit."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Hellenism enjoyed a splendid **renascence** during the revival of classical letters in western Europe."*

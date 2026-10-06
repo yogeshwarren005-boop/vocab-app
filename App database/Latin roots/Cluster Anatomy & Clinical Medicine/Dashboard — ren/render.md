@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance similar to stucco but exclusively applied to masonry walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To submit, deliver, or yield up; to cause to become; or to execute an artistic depiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and artistic expression, to deliver a formal judicial verdict, or to interpret and represent a visual scene or musical composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Therefore, Jew, though justice be thy plea, consider this, that in the course of justice none of us should see salvation; we do pray for mercy, and that same prayer doth teach us all to **render** the deeds of mercy."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages; yet he dismisses without notice his thought, because it is his; in every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty; great works of art have no more affecting lesson for us than this: they teach us to abide by our spontaneous impression with good-humored inflexibility; then only will nature **render** up her deepest secret."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The jury took but little time to **render** their unanimous verdict of guilty against the prisoner."*

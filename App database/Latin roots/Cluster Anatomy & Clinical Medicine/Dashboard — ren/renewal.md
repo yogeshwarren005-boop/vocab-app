@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of renewing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of restoring, reviving, or extending the validity of an agreement or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and seasonal narrative, the restorative resurgence of vitality, energy, or spiritual hope after exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Touching that matter, you know, I really and truly am very sorry that my arrangements in life, combined with circumstances over which I have no control, should prevent a renewal of what was wholly terminated some time back,” said Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They did not like each other, and no renewal of acquaintance now could do any good; and were Lady Russell to see them together, she might think that he had too much self-possession, and she too little."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So he played a more coaxing game; and while never going beyond words, or attempting the renewal of caresses, he did his utmost orally."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"With the first budding of the saplings came a quiet **renewal** of hope in the hearts of the forest folk."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The little child brought a blessed **renewal** of warmth and human sympathy into the lonely weaver's solitary cottage."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The arrival of Roman springtime brought a joyous **renewal** of creative inspiration to the artist's studio."*

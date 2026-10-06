@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to a previous or better condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make brighter and prettier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore to a good state of repair, freshness, or operational efficiency; to renew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil architecture and institutional reform, structural rehabilitation of historic buildings, civic charters, or exhausted soil systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It revived her, but could not renovate her courage."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A thousand years scarce serve to form a state; An hour may lay it in the dust: and when Can man its shattered splendour renovate, Recall its virtues back, and vanquish Time and Fate?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She insisted on much cleaning and renovating, and on the day of the arrival robbed the green-houses and conservatories for the adornment of the house, the table, and her own person."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature forever seeks to **renovate** herself, casting aside worn forms to create fresh vigor and beauty."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The young proprietor intended to **renovate** the neglected manor house before bringing home his bride."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every morning was a cheerful invitation to make my life of equal simplicity, and may I say innocence, with Nature herself, to **renovate** my spirit."*

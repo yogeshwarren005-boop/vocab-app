@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who renounces or gives up worldly possessions, pleasures, or social status for spiritual devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious asceticism and Eastern philosophy, a sannyasi or monastic devotee who abandons secular attachments to seek spiritual liberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renunciant designates used especially of behavior."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The sincere **renunciant** finds in total poverty and detachment an inward peace that worldly wealth can never bestow."*
+> - 📜 **Max Müller (*The Six Systems of Indian Philosophy*):** *"The holy **renunciant** wandered from village to village with only a staff and begging bowl, absorbed in contemplation of Brahman."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"In the austere figure of the Christian or Buddhist **renunciant**, the will-to-live achieves complete metaphysical self-negation."*

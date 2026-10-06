@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can not be renewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can not be renewed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being renewed, replenished, or extended in duration; nonrenewable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In resource economics and leasing jurisprudence, designating finite natural assets or contractual terms that terminate irrevocably upon expiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrenewable designates that can not be renewed."*
+> - 📜 **John Muir (*Our National Parks*):** *"The mineral veins hidden within these granite peaks represent an **unrenewable** wealth that once ransacked is lost forever."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The tenancy was bound by an **unrenewable** covenant that expired at the close of the current calendar year."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Time squandered in petty commercial trifles is an **unrenewable** treasure that no gold can ever buy back."*

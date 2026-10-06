@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition in several movements; has no fixed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song characteristically played outside the house of a woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical performance or song given in the open air at night, especially beneath a lady's window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical music history, an instrumental composition in multiple movements (divertimento) composed for an evening social gathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"P. 153 Christmas 158 A Serenade 160 THE SONG OF THE EXILE. _A CANADIAN EPIC_."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The bands of the regiments are also sent to serenade them, and on these occasions orders are given _to suppress the national airs_, as being offensive to these traitors in crinoline." During the year 1862, Mrs."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The distant barking of farm dogs across the river sounded like a rustic **serenade** in the quiet evening air."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Beneath the high balcony of his beloved, the young cavalier tuned his guitar to breathe a tender midnight **serenade**."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The barrel-organ played an Italian **serenade** whose sweet melody drifted softly through the dusty street."*

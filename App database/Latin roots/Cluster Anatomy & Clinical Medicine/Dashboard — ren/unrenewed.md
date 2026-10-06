@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not revived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not revived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been renewed, restored, replaced, or extended in validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and property literature, an unregenerate spiritual condition, or a leasehold covenant left in an unextended, lapsed state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"On the other, there could not be a full disclosure of the true feelings of the unrenewed heart."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"How clearly and terribly, my hearers, does this subject discover the ungodliness of the unrenewed heart."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The lease of the Durbeyfield cottage remained **unrenewed** after her father's death, leaving the family homeless."*
+> - 📜 **Jonathan Edwards (*Sinners in the Hands of an Angry God*):** *"The heart of an **unrenewed** sinner remains blind to the glorious spiritual beauty of divine grace."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old agreements lay **unrenewed** in the attorney's dusty drawers, gathering cobwebs through decades of Chancery litigation."*

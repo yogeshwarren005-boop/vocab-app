@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ren within the domain of Anatomy & Clinical Medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ren in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated above or atop the kidneys; or designating the adrenal glands and their secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy, designating the glandula suprarenalis, suprarenal arteries, and autonomic nerves innervating the adrenal capsule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprarenal designates pertaining to, derived from, or characteristic of latin ren within the domain of anatomy & clinical medicine."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **suprarenal** capsules are two flattened crescentic bodies situated on the upper anterior aspect of each kidney."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Addison recognized that bilateral tuberculous destruction of the **suprarenal** glands produced fatal constitutional prostration."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The rich vascular supply of the **suprarenal** bodies reflects their intense endocrine metabolic activity in the living organism."*

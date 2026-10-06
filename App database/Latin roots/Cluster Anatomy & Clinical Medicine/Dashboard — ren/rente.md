@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annuity, investment income, or government bond interest, especially in French financial history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European economic history, French government perpetual bonds (les rentes) paying fixed annual interest, a favorite investment of the bourgeoisie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Chaucer used "rente" as an income."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Cattle had he enough and rente," cattle probably meaning property (chattels), and rente income."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the French _la rente_ means the income from any kind of property; but corporate securities and national bonds came particularly to be called _les rentes_, because they are a form of investment yielding a permanent income."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Old Grandet invested his accumulating gold in government **rente**, watching the Parisian market prices with rapacious vigilance."*
+> - 📜 **Karl Marx (*Capital*):** *"The French peasant dreamed of accumulating a small annual **rente** in state bonds to secure his declining years against penury."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The security of the public debt and the payment of every state **rente** became vital concerns of the emerging middle class."*

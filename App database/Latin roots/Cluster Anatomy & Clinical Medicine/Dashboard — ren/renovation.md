@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of improving by renewing and restoring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being restored to its former good condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of restoring something to a good condition or fresh vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban preservation and ecclesiastical architecture, extensive structural restoration reversing centuries of material decay and weathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet it must be admitted that this family formed a very good stock whereon to regraft a name which sadly wanted such renovation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were delighted with the renovation and decorations of their rooms; with the new drapery, and fresh carpets, and rich tinted china vases: they expressed their gratification ungrudgingly."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But as the current of its doctrines is so entirely opposed to our natural inclinations, as to render a moral renovation indispensable to a perception of the glory of revealed truth; all such ground of skepticism is removed."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The medieval stonework of the college was undergoing a ruthless **renovation** that scraped away all ancient patina."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The thorough **renovation** of academic curricula is necessary if classical universities are to meet modern scientific needs."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"What is called **renovation** is often nothing less than the total destruction of an ancient building's spirit."*

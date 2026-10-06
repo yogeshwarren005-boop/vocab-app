@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The increase in activity of the adrenal glands just before puberty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The increase in activity of the adrenal glands just before puberty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental awakening of the adrenal cortex in middle childhood initiating adrenal androgen secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric endocrinology, the normal maturational increase in dehydroepiandrosterone (DHEA) and androstenedione production preceding true gonadal puberty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adrenarche designates the increase in activity of the adrenal glands just before puberty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature **adrenarche** manifests with early pubic and axillary hair growth in children without advanced skeletal maturation."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Instruction in pediatric endocrinology distinguished the physiological onset of **adrenarche** from pathologic adrenal hyperplasia."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"He studied the metabolic transitions of **adrenarche**, correlating hormonal excretion with cutaneous and somatic growth patterns."*

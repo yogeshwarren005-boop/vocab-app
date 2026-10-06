@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reflecting light like a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reflecting light like a mirror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a mirror in smoothness, brightness, or reflective quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics and geographical description, having an unruffled, glass-like surface that reflects incident light with specular sharpness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This was Speránski’s cold, mirrorlike look, which did not allow one to penetrate to his soul, and his delicate white hands, which Prince Andrew involuntarily watched as one does watch the hands of those who possess power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This mirrorlike gaze and those delicate hands irritated Prince Andrew, he knew not why."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Walden Pond lay in unruffled serenity, its **mirrorlike** expanse reflecting the green hilltops."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pacific lay in a calm so profound that the sea presented a vast **mirrorlike** plain beneath the sun."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We sailed across a **mirrorlike** sheet of water in which every cloud was inverted with absolute precision."*

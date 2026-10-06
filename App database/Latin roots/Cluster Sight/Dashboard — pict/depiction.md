@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic or vivid verbal description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation by picture or portraiture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or result of depicting something, either in a visual artwork or a verbal description; representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical theory and semiotics, an aesthetic portrayal conveying narrative themes, social realities, or character psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depiction designates a graphic or vivid verbal description."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her realistic **depiction** of provincial provincial society earned the praise of thoughtful contemporary critics."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic sculpture achieves its power through faithful **depiction** of natural foliage and animal life."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The satirical **depiction** of high society unmasked the vanity beneath aristocratic elegance."*

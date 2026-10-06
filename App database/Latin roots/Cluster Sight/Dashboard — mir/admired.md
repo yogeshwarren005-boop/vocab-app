@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel admiration for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look at with admiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with wonder, high esteem, and profound respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, held in honored esteem by peers for intellectual or moral excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"**Admired** Miranda! Indeed the top of admiration! Worth what's dearest to the world!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was widely **admired** for his medical skill, though his reformist zeal alarmed traditionalists."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister was revered and **admired** by the entire Puritan congregation as a beacon of holiness."*

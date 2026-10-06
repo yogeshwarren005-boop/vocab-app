@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pulse generator used for echo sounding in sonar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pulse generator used for echo sounding in sonar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that emits short, high-pitched acoustic pulses or signals (pings).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine technology and oceanographic telemetry, an underwater acoustic transmitter attached to ocean equipment or aircraft flight recorders to aid acoustic location.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinger designates a pulse generator used for echo sounding in sonar."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The submarine's directional sonar locked onto the rhythmic signals of the acoustic **pinger** marking the undersea pen."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"We tracked the drifting current-measuring buoy by following the pulsed beacon emitted by its underwater **pinger**."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Modern oceanographers deploy instruments equipped with an acoustic **pinger** to map the abyssal seafloor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or consisting of pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of pictures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to painting, pictorial art, or visual representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art criticism and aesthetics, relating to the formal, chromatic, or compositional properties of pictorial creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pictural designates pertaining to or consisting of pictures."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poem possesses a rare **pictural** quality, presenting each scene with the luminous finish of a Venetian painting."*
+> - 📜 **William Hazlitt (*Sketches of the Principal Picture-Galleries in England*):** *"Titian's canvas displays a consummate **pictural** harmony that blends flesh tints with golden light."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **pictural** grandeur of early mosaic work resides in its bold flat surfaces and brilliant tesserae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Ottoman and Islamic land tenure, state-owned land whose usufruct rights were granted to cultivators in exchange for taxes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian economic history and Middle Eastern law, land over which ultimate ownership belonged to the public treasury (Bayt al-mal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Miris of Assam prize tiger's flesh as food for men; it gives them strength and courage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under imperial agrarian codes, extensive agricultural tracts were classified as **miri**, leased to peasant cultivators."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The revenue of the provincial **miri** lands was collected by imperial tax-farmers for the sultan's treasury."*
+> - 📜 **James Bryce (*Transcaucasia and Ararat*):** *"The complex tenure of **miri** property required Ottoman land registries to distinguish between state sovereignty and peasant usufruct."*

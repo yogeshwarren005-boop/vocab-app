@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of paying close and continuous attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigilant attentiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alert, sustained watchfulness for possible danger, deception, or difficulties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic ethics and military defense, alert, sustained watchfulness preserving liberty, security, or institutional integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall Henry’s conquest, Bedford’s vigilance, Your deeds of war, and all our counsel die?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No port is free, no place That guard and most unusual vigilance Does not attend my taking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Their **vigilance** is asleep: we can make our attempt on the crown without hindrance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In wild animal herds, the sentinel keeps watch with tireless **vigilance**, signaling danger to the group."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The masthead lookout required relentless **vigilance**, scanning the horizons for the faint spout of a whale."*

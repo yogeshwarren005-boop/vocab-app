@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect as if in a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect or resemble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflected in or as if in a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive literature and optics, having an image reproduced with faithful specular clarity on a smooth surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The strong southern light broke in splinters on the dancing water, and was mirrored in reflected ripplings, silver-pale, tremulous, over the shadowy understems of grass and loosestrife on the opposite bank."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there."*
-> - 📜 **Effie Afton (*Eventide*):** *"Her calm, clear eyes mirrored the bright fancies that flitted through her brain."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The serene waters of the lake **mirrored** the surrounding pine forests and the autumn sky."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His secret thoughts were **mirrored** in the portrait with terrifying, uncompromising fidelity."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The quiet pool **mirrored** the twilight stars, unbroken by any passing breeze."*

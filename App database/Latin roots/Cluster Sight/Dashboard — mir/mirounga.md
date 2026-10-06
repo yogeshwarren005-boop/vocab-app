@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elephant seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elephant seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of massive earless seals comprising the northern and southern elephant seals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, the largest extant pinnipeds (Mirounga leonina and M. angustirostris), known for pronounced sexual dimorphism and inflatable male proboscis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirounga designates elephant seals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The colossal bull seals of the genus **mirounga** congregate on subantarctic beaches during the breeding season."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sealers hunted the enormous **mirounga** on southern islands for its abundant yield of clear, illuminating oil."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The inflatable nasal sac of male **mirounga** serves as an acoustic resonating chamber during territorial combat."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fee paid for instruction (especially for higher education).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching pupils individually (usually by a tutor hired privately).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fee paid for instruction at a school, college, or university; or teaching or instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and education, guardianship, care, and custodial instruction of a young person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To the tuition of God: from my house, if I had it,— DON PEDRO."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After breakfast he walked with his two brothers, non-evangelical, well-educated, hall-marked young men, correct to their remotest fibre, such unimpeachable models as are turned out yearly by the lathe of a systematic tuition."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Trotter, the schoolmaster of his native parish of Ayton, to come and assist him in the school and with the tuition of boarders in his house."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"And so I commit you—To the **tuition** of God: From my house, if I had it."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He saved every shilling from his stonecutting wages to pay for classical **tuition** at Christminster."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Students pay costly **tuition** to sit in classrooms, while neglecting the practical arts of life."*

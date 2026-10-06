@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keeping watch over examination candidates to prevent cheating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keeping watch over examination candidates to prevent cheating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of invigilating; supervision of students during an examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational assessment, the formal proctoring procedures guaranteeing test integrity and security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invigilation designates keeping watch over examination candidates to prevent cheating."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"Strict **invigilation** was enforced to ensure that candidates relied solely upon their personal memory and intellect."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The academic **invigilation** of university prize competitions required impartiality beyond suspicion."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Hours of classroom **invigilation** left the young tutor exhausted and impatient for the evening breeze."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miraculous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a miraculous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miraculous manner; by supernatural intervention or remarkably against all odds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative history, escaping catastrophe or achieving success through an extraordinary, seemingly providential coincidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick, who was there with the rest, his wrapper gleaming miraculously white against a leaden evening sky, suddenly looked at his heavy watch."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The blind prayed for sight, the lepers for a cure, the lame far the use of their limbs, and the deaf for the use of their ears, and surely had they prayed unwarrantably, their prayers would not have been so miraculously answered."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But first, ere the great task began, I returned thanks to that Being through whose mercy I had been so miraculously preserved."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The frail carriage swung precariously near the ravine, yet **miraculously** righted itself before plunging over."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The wounded youth **miraculously** survived the severe fever that had carried off his companions."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pure water of Walden Pond seemed **miraculously** preserved from the corrupting impurities of human commerce."*

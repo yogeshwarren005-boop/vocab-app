@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great auk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great auk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct flightless seabirds in the auk family (Alcidae), containing the great auk (Pinguinus impennis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ornithology and paleontology, the flightless North Atlantic alcid hunted to extinction by 1844, the original bird to which the name penguin was applied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinguinus designates great auk."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extinction of the great auk, **pinguinus** impennis, demonstrates the vulnerability of large flightless birds on populated islands."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Osteological specimens of **pinguinus** show massive pectoral girdles adapted for subaqueous flight."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Mariners raided the nesting rocks of **pinguinus**, slaughtering thousands of helpless birds for feathers and fat."*

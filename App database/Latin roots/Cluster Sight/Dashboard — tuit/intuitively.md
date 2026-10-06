@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intuitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intuitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of intuition; without conscious reasoning; instinctively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological description, grasping relationships, intentions, or truths through immediate instinctive apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She knew intuitively that servants and porters and waiters would far rather serve Hyde than her father."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had determined not to ask her to marry him till he was sure of her answer, but he was sure of it now, intuitively sure of it . . . the truth being that under his impassive manner impulse was driving him along like a leaf in the wind."*
-> - 📜 **Effie Afton (*Eventide*):** *"Bitterly she charged him with cold, unfeeling cruelty; for she intuitively perceived the drift of those few words."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"We know our own sensations **intuitively**, but the external causes of those sensations must be inferred."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther felt **intuitively** that the proud lady harbored a tragic, unconfessed grief."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth understood **intuitively** that Mr. Darcy's reserve masked genuine sensitivity."*

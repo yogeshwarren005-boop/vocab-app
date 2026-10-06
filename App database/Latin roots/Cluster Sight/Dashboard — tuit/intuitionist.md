@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to intuitionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to intuitionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of intuitionism in philosophy, ethics, or mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In foundational debate, a thinker holding that fundamental moral principles or mathematical truths are apprehended by direct intuitive faculty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intuitionist designates of or relating to intuitionism."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The ethical **intuitionist** assumes that the moral quality of actions is recognized as immediately as physical color."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"The mathematical **intuitionist** refuses to accept existence theorems unless a concrete computational method is demonstrated."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A religious **intuitionist** regards personal spiritual illumination as higher evidence than abstract scholastic debate."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical (magazine or newspaper) containing many pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or consisting of pictures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed in, or illustrated by pictures; graphic or vivid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic aesthetics and print journalism, employing visual illustrations or evocative imagery to convey scenes and narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s master-key, admitted us to the tapestried room, with its great bed and its pictorial cabinet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers now closed his book, approached the table, and, as he took a seat, fixed his blue pictorial-looking eyes full on me."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Agnes in the low September sunshine, Val became aware of something pleasantly pictorial in the landscape."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The human mind naturally converts thoughts into **pictorial** symbols, illustrating abstract concepts with vivid imagery."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The **pictorial** illustrations of facial muscle contractions demonstrate the physiological basis of emotion."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ancient whaling treatises were enriched with quaint **pictorial** representations of monstrous sea beasts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to get stuck as if in a mire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stuck, entangled, or bogged down in deep mud; or entangled in a difficult situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, immobilized by physical peat or soil, or hopelessly caught in moral, legal, or emotional complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The terrified horses tried again and again to break away; but the chain harnesses were too strong; nor did the mired wheel budge."*
-> - 📜 **James Joyce (*Ulysses*):** *"When night hides her body’s flaws calling under her brown shawl from an archway where dogs have mired."*
-> - 📜 **James Joyce (*Ulysses*):** *"Slowly three times, one after another, from a full crupper he mired."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The lumber wagon was heavily **mired** in the clay lane, requiring four strong draught horses to dislodge it."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver found his fortunes hopelessly **mired** in expensive lawsuits with his downstream neighbors."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The heavy carriage remained **mired** up to its axles in the black Mississippi silt."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic character used in picture writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic character used in picture writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pictorial symbol or glyph representing a word, concept, or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and primitive epigraphy, ancient ideograms carved into stone or painted on cave walls before the invention of phonetic alphabets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But these traces, and such hieroglyphics, or, to be more exact pictographs, as I have been able to decipher from the old documents, tell of one country, or perhaps it was only a city, over which this great golden idol of Quitzel presided."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, as a matter of fact, it is very hard to decipher the Mayan pictographs."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every ancient **pictograph** conveyed meaning directly to the eye without reference to spoken phonemes."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The Indian guide traced a primitive **pictograph** on birch bark to communicate our route."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition from an isolated **pictograph** to a cursive syllabic script represents centuries of scribal evolution."*

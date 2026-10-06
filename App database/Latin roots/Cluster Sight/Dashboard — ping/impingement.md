@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Influencing strongly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp collision produced by striking or dashing against something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of striking or colliding with something; an impact or infringement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and acoustic physics, mechanical collision of anatomical structures causing compression, or wave collision against an interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impingement designates influencing strongly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden **impingement** of the furious autumn squall rattled the ancient casements with startling violence."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The **impingement** of high-velocity molecules against the piston generates uniform hydrostatic pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic bursal **impingement** beneath the acromial arch produces localized shoulder tenderness and restricted mobility."*

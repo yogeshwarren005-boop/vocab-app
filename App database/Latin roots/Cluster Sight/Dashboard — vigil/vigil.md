@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of sleeplessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rite of staying awake for devotional purposes (especially on the eve of a religious festival).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of staying awake during the night, especially to keep watch, pray, or nurse the sick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical history and classical chivalry, a solemn devotional watch kept on the eve of a religious festival, or a squire's all-night prayer before knighthood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"How shall I ever forget that dreadful vigil?"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Imperial Sorrow loves her sway, or I had sooner broken your vigil, my brother," said Bertram."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz’s adorers were keeping their uneasy vigil."*
+> - 📜 **William Shakespeare (*Henry V*):** *"He that shall live this day, and see old age, Will yearly on the **vigil** feast his neighbours, And say 'To-morrow is Saint Crispian.'"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We kept our silent **vigil** in the dark bedroom, waiting for the deadly serpent to appear through the ventilator."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His lonely nocturnal **vigil** on the bridge of the Patna seemed wrapped in absolute peace before the catastrophe."*

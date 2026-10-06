@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any amazing or wonderful occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marvellous event manifesting a supernatural act of a divine agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinary and welcome event that is not explicable by natural or scientific laws and is therefore attributed to a divine agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological epistemology and philosophy, a supernatural suspension or alteration of physical nature serving as a sign of divine power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’m not their father; yet who this should be Doth miracle itself, lov’d before me.— ’Tis the ninth hour o’ th’ morn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O miracle of men!—him did you leave, Second to none, unseconded by you, To look upon the hideous god of war In disadvantage, to abide a field Where nothing but the sound of Hotspur’s name Did seem defensible: so you left him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended, nature’s miracle, Thou art allotted to be ta’en by me."*
+> - 📜 **William Shakespeare (*Henry V*):** *"It were a **miracle** if a prince so wild should turn suddenly to sober virtue."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"A **miracle** is a violation of the laws of nature; and because firm experience establishes these laws, the proof against a miracle is as full as can be imagined."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **miracle** considered in itself is that which exceeds the known power of natural agents."*

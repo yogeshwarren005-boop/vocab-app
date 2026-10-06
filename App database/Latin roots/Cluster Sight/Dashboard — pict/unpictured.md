@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pictured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pictured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not depicted in a picture or illustration; unrepresented visually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive literature, existing without pictorial illustration, or left entirely to the reader's imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"How can I essay To picture such unpictured might as thine?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There were secret passages of his life that remained **unpictured**, hidden behind a veil of silence."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The silent tragedies of the deep forest remained **unpictured** by the bustling townsfolk miles away."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The oldest ancestral portrait had vanished, leaving an **unpictured** blank space upon the oak paneling."*

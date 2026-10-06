@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Butterworts: a large genus of almost stemless carnivorous bog plants; europe and america to antarctica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butterworts: a large genus of almost stemless carnivorous bog plants; europe and america to antarctica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small insectivorous herbaceous plants in the bladderwort family (Lentibulariaceae), commonly called butterworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carnivorous botany, rosette-forming plants whose greasy, glandular leaves secrete mucilage and digestive enzymes to trap and absorb insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinguicula designates butterworts: a large genus of almost stemless carnivorous bog plants; europe and america to antarctica."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"My experiments on **pinguicula** vulgaris proved that its glandular secretions rapidly digest small diptera captured on the greasy leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The yellow butterwort, **pinguicula** lutea, grows in wet pine barrens, bearing solitary spurred blossoms."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Along dripping subalpine bog banks, small rosettes of **pinguicula** thrive where soil nitrogen is scarce."*

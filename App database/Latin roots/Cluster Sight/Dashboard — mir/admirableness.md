@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admirable excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admirable excellence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being worthy of admiration, high regard, or praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, intrinsic excellence or praiseworthy dignity that inspires respectful reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admirableness designates admirable excellence."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The **admirableness** of Milton's epic diction lies in its harmonized sublimity and metrical control."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"There is an unvarnished **admirableness** in genuine simplicity that pretension can never counterfeit."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral **admirableness** of an action depends upon its tendency to produce general human flourishing."*

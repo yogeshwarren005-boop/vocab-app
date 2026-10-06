@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of miracles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of miracles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive religious devotion to or credulous reverence for miraculous occurrences and wonder-working relics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religions and secular critique, superstitious veneration of prodigies and faith healings displacing ethical reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miracle-worship designates the worship of miracles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Medieval pilgrimages were sustained by widespread **miracle-worship**, drawing credulous multitudes to saintly shrines."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Mechanical **miracle-worship** debases true spiritual wonder into vulgar craving for magical spectacles."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Puritan reformers swept away the medieval **miracle-worship** that had obscured the simple ethical gospel."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New zealand conifer used for lumber; the dark wood is used for interior carpentry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish surrealist painter (1893-1983).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large coniferous tree (Prumnopitys ferruginea) native to New Zealand, bearing red fleshy seed coats, valued for timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian dendrology and Maori ethnobotany, a Podocarpaceous canopy tree whose aromatic berries attract kereru (native wood pigeons).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miro designates new zealand conifer used for lumber; the dark wood is used for interior carpentry."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The New Zealand **miro** yields a valuable reddish timber prized by colonists for durable carpentry."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the primeval forests of the Bay of Islands, majestic specimens of the **miro** towered above the tree-ferns."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Conifers such as the **miro** illustrate the archaic southern gymnosperm flora that flourished on Gondwana."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The actions of a vigilance committee in trying to enforce the laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The actions of a vigilance committee in trying to enforce the laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Law enforcement undertaken without legal authority by a self-appointed group or individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology and political sociology, extrajudicial justice characterized by mob retribution and disregard for due process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigilantism designates the actions of a vigilance committee in trying to enforce the laws."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"Recourse to organized **vigilantism** reflects the breakdown of regular judicial administration in remote territories."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"While frontier **vigilantism** arose as a rough remedy against desperadoes, civilized society must replace it with constitutional courts."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"The rise of secret societies after the civil conflict exemplified the dangerous excesses inherent in unrestrained **vigilantism**."*

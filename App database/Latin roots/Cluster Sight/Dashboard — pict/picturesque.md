@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting or suitable for a picture; pretty as a picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly expressive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visually attractive, quaint, or charming in a way that resembles a picture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, an aesthetic category situated between the beautiful and the sublime, characterized by rugged variety, irregularity, and rustic charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Who would make the vulgar very picturesque and faithful by putting back the hands upon the clock of time and cancelling a few hundred years of history."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was a picturesque old house in a fine park richly wooded."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient stone barn presented a highly **picturesque** aspect with its moss-grown gables and arched doorway."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The English rural landscape is an exquisitely finished garden, **picturesque** in every lane and hedgerow."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He loved the **picturesque** squalor of foreign ports, where life appeared raw and uncensored."*

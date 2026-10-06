@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admirable excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admirable excellence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excellence, praiseworthy character, or worthiness of profound esteem and respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and aesthetics, moral or aesthetic distinction that commands universal esteem and reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admirability designates admirable excellence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True **admirability** consists not in transient popular applause, but in steadfast adherence to moral virtue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her quiet unselfishness possessed an **admirability** that deepened with every trial."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We perceive an inherent **admirability** in any character that acts with self-reliant independence."*

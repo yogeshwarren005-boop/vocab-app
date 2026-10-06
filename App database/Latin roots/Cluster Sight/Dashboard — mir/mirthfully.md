@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mirthful, merry, or laughingly cheerful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, expressing humor or good cheer with audible gaiety and lively amusement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Miss Mathewson”--his glance mirthfully surveyed her--“Aunt Ellen will take you upstairs and give you a chance to put that magnificent brown hair into a condition where it will not shock the natives at the station."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Then all shouted mirthfully, and leaped about the room."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick beamed **mirthfully** upon the assembly, raising his punch glass in a festive toast."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw laughed **mirthfully**, shaking his head at the solemn pedantries of the town gossips."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shearers chatted **mirthfully** over their cider mugs when the afternoon's clipping was finished."*

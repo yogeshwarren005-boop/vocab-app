@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual imagery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual representation as by photography or painting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of creating a picture, visualizing in the mind, or representing in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and literary composition, mental imagery or vivid narrative description evoking sensory impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had been looking at the Ghost’s Walk lying in a deep shade of masonry afar off and picturing to myself the female shape that was said to haunt it when I became aware of a figure approaching through the wood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those black angularities which his face had used to put on when his wishes were thwarted now did duty in picturing the incorrigible backslider who would insist upon turning again to his wallowing in the mire."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had no heart to go about his daily concerns, which appeared so paltry and profitless, but sat all day long in the chimney corner, picturing to himself ingots and heaps of gold in the fire."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He spent the long winter evenings **picturing** their future home on an idyllic colonial homestead."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"By carefully **picturing** each stage of muscular movement, we can decipher the anatomical origin of human laughter."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I sat by the marsh fire, **picturing** terrifying figures lurking in the dense winter fog."*

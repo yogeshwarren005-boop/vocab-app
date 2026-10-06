@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a counterintuitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a counterintuitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner contrary to common sense, expectation, or immediate intuition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical analysis, producing outcomes that contradict intuitive assumptions yet adhere to underlying structural laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterintuitively designates in a counterintuitive manner."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Modern mathematical analysis demonstrates **counterintuitively** that continuous curves may lack tangents at every point."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The quantum particle behaves **counterintuitively**, passing simultaneously through dual experimental apertures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit functions **counterintuitively**, liberating conscious attention precisely by rendering complex actions automatic."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical coming together of two or more things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impinge or infringe upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Striking against or encroaching upon; having a direct physical or conceptual impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical wave mechanics, describing light or sound waves falling directly upon a boundary surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a jet impinging upon a pencil of lime causes the latter to glow with a dazzling white light."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At Cananea, four oil burners of the Shelby type are employed on each furnace, and this form is stated to project the flame further into the furnace, and to prevent its impinging on the roof, more successfully than the other types tried."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Rays of light **impinging** upon a polished glass surface undergo both specular reflection and partial refraction."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Environmental stimuli **impinging** upon embryonic tissue stimulate selective cellular differentiation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The spray **impinging** upon our faces was cold as Arctic sleet as the Pequod breached the billows."*

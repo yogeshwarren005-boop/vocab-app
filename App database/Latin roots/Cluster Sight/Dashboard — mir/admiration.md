@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delighted approval and liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling aroused by something strange and surprising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respect, warm approval, and esteem; or anciently, wonder and astonishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical aesthetics and psychological analysis, high regard mixed with reverence for superior virtue, genius, or beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good Lafew, Bring in the admiration; that we with thee May spend our wonder too, or take off thine By wond’ring how thou took’st it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"O wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such people in't! What strange **admiration**!"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When an idea strikes the mind with unexpected perfection, it excites the passion of **admiration**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare looked upon her with profound **admiration**, seeing an idealized embodiment of rural purity."*

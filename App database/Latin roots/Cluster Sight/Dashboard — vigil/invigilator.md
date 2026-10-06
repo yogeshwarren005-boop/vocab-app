@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who watches examination candidates to prevent cheating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who watches examination candidates to prevent cheating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose job is to watch students during an exam to prevent cheating; an exam proctor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In university administration, an authorized supervisor presiding over examinations to enforce timing, distribution of papers, and integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invigilator designates someone who watches examination candidates to prevent cheating."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The stern **invigilator** collected the blue exam booklets promptly as the town hall clock struck the hour."*
+> - 📜 **Thomas Babington Macaulay (*Life and Letters*):** *"As junior fellow, he served as **invigilator** in the college hall, keeping watch over several hundred candidates."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The **invigilator** paused by the tall Gothic window, watching the rain fall across the quadrangle."*

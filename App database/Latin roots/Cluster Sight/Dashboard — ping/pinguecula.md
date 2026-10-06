@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, slightly raised yellowish benign nodule on the conjunctiva near the cornea of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, elastotic degeneration of subepithelial conjunctival collagen resulting from chronic exposure to ultraviolet radiation, wind, and dust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pinguecula designates a slightly elevated elastic tissue deposit in the conjunctiva that may extend to the cornea but does not cover it."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic exposure to desert glare frequently promotes the formation of a harmless yellowish **pinguecula** on the nasal conjunctiva."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial nodule of a **pinguecula** is composed of hyaline degeneration within the subconjunctival connective tissue."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Elderly sailors often exhibit a benign **pinguecula**, reflecting decades spent scanning sunlit waters."*

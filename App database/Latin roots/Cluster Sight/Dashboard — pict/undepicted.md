@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pictured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pictured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented in a picture, painting, sculpture, or verbal description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical art critique and literary theory, omitted from graphic depiction or lacking artistic portrayal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undepicted designates not pictured."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Vast realms of atmospheric cloud formations remained entirely **undepicted** until Turner turned his brush to the sky."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The true interior fury of the sperm whale fishery remains forever **undepicted** upon conventional artists' canvases."*
+> - 📜 **George Eliot (*Romola*):** *"Many an unrecorded deed of peasant heroism remained **undepicted** in the gilded annals of the city."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Four o'clocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four o'clocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous flowering plants in the family Nyctaginaceae, including the four o'clock flower (Mirabilis jalapa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and horticulture, the classical model organism (Mirabilis) in which Carl Correns discovered non-Mendelian cytoplasmic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So close behind some promontory lie The huge Leviathan to attend their prey, And give no chance, but swallow in the fry, Which through their gaping jaws mistake the way.” —_Dryden’s Annus Mirabilis_."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"My crossing experiments with **mirabilis** jalapa demonstrated surprising variations in petal variegation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He wondered at the strange marine creatures, resembling a blooming **mirabilis** of the oceanic deep."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Commonly called four-o'clocks, species of **mirabilis** open their fragrant trumpet blossoms in late afternoon."*

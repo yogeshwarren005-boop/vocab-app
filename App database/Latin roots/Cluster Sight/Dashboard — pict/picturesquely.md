@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a picturesque manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a picturesque manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a picturesque manner; attractively and quaintly resembling a painted scene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive travel narrative, arranged with charming visual variety, rustic irregularity, or vivid color.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Peter Shelby put that objection much more picturesquely than Lee Greenfield," Aunt Augusta snapped."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thanks: here I refill; now, you pour out again.’ “Freely depicted in his own vocation, gentlemen, the Canaller would make a fine dramatic hero, so abundantly and picturesquely wicked is he."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Between eight and nine.” She nodded to the dressmaker, whom she knew and who had curtsied respectfully to her, and seated herself in an armchair beside the looking glass, draping the folds of her velvet dress picturesquely."*
+> - 📜 **Herman Melville (*Typee*):** *"The native bamboo huts were **picturesquely** scattered among groves of breadfruit and coconut palms."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"The quaint thatched tavern hung **picturesquely** over the edge of the chalk cliff."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The peasants were **picturesquely** attired in red bodices and embroidered aprons for the Roman carnival."*

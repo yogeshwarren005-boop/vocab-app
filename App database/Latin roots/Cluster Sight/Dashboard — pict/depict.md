@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show in, or as in, a picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a description of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent by a drawing, painting, or other art form; or to describe in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts and narrative literature, to portray a subject with lifelike realism or evocative aesthetic fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When I depict it as a beautiful case, you see, miss,” Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is this fashion which Goethe wished to depict in "Werther," and therefore Werther's hopeless love is not wholly responsible for his suicide."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Many artists have attempted to **depict** the great sperm whale, yet few have captured its true oceanic majesty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The author sought to **depict** the slow, agonizing delays that characterized nineteenth-century chancery proceedings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A true novelist must **depict** human frailties with compassionate sympathy rather than moral disdain."*

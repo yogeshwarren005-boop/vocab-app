@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a watchful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a watchful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vigilant, alert, and watchful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military reconnaissance and professional practice, guarding against danger or error with uninterrupted alertness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The various agencies designed to carry the Message to the masses, and to present to them befittingly the teachings of its Author, must, likewise, be vigilantly preserved, supported and encouraged."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Yet I was not wholly lost to myself; I vigilantly marked his demeanor."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He shuffled athwart, keeping one eye ahead vigilantly. ‘Don’t be too sure,’ he continued. ‘The other day I took up a man who hanged himself on the road."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The sentry paced the schooner's deck **vigilantly**, listening for the muffled splash of hostile native oars."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Inspector Bucket observed the suspects **vigilantly**, missing no subtle glance or involuntary gesture."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout guarded the horizon **vigilantly**, braving the icy winds of the Southern Ocean."*

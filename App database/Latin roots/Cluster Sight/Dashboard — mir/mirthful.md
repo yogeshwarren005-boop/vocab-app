@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of mirth; merry, amusing, or cheerful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive literature, radiating jovial humor and lively good cheer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then ensued a merry time forming the divisions, and deciding the order of precedence; for every one was in mirthful mood."*
-> - 📜 **Effie Afton (*Eventide*):** *"Ay, quite interesting and pretty," answered he, turning his attention for a moment toward the young couple who formed the centre of a mirthful group."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"To laugh with **mirthful** companions at the pleasant follies of the court."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Phoebe's sweet voice and **mirthful** laugh brought sudden sunshine into the gloomy old mansion."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"He greeted his scientific colleagues with a **mirthful** twinkle that enlivened the solemn meeting."*

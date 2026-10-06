@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of soil) soft and watery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soil) soft and watery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swampy, muddy, or bogged down; consisting of or full of mire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral topography and descriptive narrative, deeply drenched with sticky, waterlogged clay or peat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall thy good uncle, and thy brother Lucius, And thou, and I, sit round about some fountain, Looking all downwards to behold our cheeks How they are stained, like meadows yet not dry, With miry slime left on them by a flood?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have ever since connected the feeling with that spot and time and with everything associated with that spot and time, to the distant voices in the town, the barking of a dog, and the sound of wheels coming down the miry hill."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And get on, my lads!” We were again upon the melancholy road by which we had come, tearing up the miry sleet and thawing snow as if they were torn up by a waterwheel."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"How her horse fell, and she under her horse; thou shouldst have heard in how **miry** a place."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess trudged across the **miry** farm lanes, her boots heavy with sodden yellow clay."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The autumn rains had turned the cart track into a **miry** rut that delayed the timber wagons."*

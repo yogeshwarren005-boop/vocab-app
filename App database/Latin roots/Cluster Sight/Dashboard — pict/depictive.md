@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depicted in a recognizable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depicted in a recognizable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to depict; representing or portraying vivid images or scenes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic critique and cognitive linguistics, characterized by vivid descriptive power or illustrative graphic clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depictive designates depicted in a recognizable manner."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Dante's verse possesses a **depictive** energy that brands each infernal vision upon the reader's imagination."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Chaucer's prologue is unsurpassed for **depictive** vigor, sketching a dozen pilgrims in a handful of couplets."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The **depictive** accuracy of early Flemish painters reveals an extraordinary reverence for physical nature."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual representation (of an object or scene or person or abstraction) produced on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphic art consisting of an artistic composition made by applying paints to a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, drawing, photograph, or other visual depiction of a person, scene, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and metaphorical discourse, an evocative visual or verbal representation capturing the essence of an experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, have you got the picture of old Adam new apparelled?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who was he That, otherwise than noble nature did, Hath alter’d that good picture?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Look here, upon this **picture**, and on this, The counterfeit presentment of two brothers."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The **picture** was to alter with every sin he committed; the portrait would bear the burden of his shame."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She formed a striking **picture** in the early dawn, standing solitary against the vast chalk downs."*

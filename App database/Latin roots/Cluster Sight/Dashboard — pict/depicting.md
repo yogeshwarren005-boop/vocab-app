@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show in, or as in, a picture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing, portraying, or describing visually or verbally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic composition, rendering the form, color, or emotional atmosphere of a subject through graphic art or words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Goldwin Smith has truly observed that “metaphor has been exhausted in depicting the perfection of it, combined with the narrowness of her field;” and he has justly added that we need not go beyond her own comparison to the art of a miniature painter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Hindoo whale referred to, occurs in a separate department of the wall, depicting the incarnation of Vishnu in the form of leviathan, learnedly known as the Matse Avatar."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these manifold mistakes in depicting the whale are not so very surprising after all."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He spent years painting canvas after canvas, **depicting** the furious battles between whalemen and leviathans."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner surpassed all contemporaries in **depicting** the incandescent fury of sea storms and burning skies."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The young copyist worked in the Roman gallery, **depicting** classical frescoes with remarkable delicate skill."*

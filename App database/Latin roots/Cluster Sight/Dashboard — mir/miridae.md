@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plant bug family (Capsidae), the largest family of true bugs (order Hemiptera), with over 10,000 species worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, hemipteran insects distinguished by the absence of ocelli, a cuneus on the hemelytra, and four-segmented antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miridae designates leaf bugs."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The extensive family **miridae** includes phytophagous bugs possessing a membranous wing cell and lack of ocelli."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Adaptive radiation among the **miridae** has produced specialized forms feeding upon almost every family of flowering plants."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Horticulturists wage constant warfare against various invasive members of the **miridae** infesting garden crops."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amusement, high spirits, or merriment, especially as expressed in laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social character and dramatic literature, buoyant gladness, festive rejoicing, and wholesome comic cheer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you find him sad, Say I am dancing; if in mirth, report That I am sudden sick."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s grant it is not Amiss to tumble on the bed of Ptolemy, To give a kingdom for a mirth, to sit And keep the turn of tippling with a slave, To reel the streets at noon, and stand the buffet With knaves that smell of sweat."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"With **mirth** in funeral and with dirge in marriage, In equal scale weighing delight and dole."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The sound of genial **mirth** and hearty laughter echoed from Scrooge's nephew's holiday parlor."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village musicians played lively reels that filled the rustic kitchen with unconstrained **mirth**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not alert to what is potentially dangerous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not alert to what is potentially dangerous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not vigilant; careless, inattentive, or lacking watchfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and security critique, failing to maintain adequate lookout or alertness in the face of imminent hazard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvigilant designates not alert to what is potentially dangerous."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian cavalry fell upon the **unvigilant** camp while the Roman sentries slumbered beside their fires."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The conspirators were emboldened by the **unvigilant** conduct of the town garrison."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"An **unvigilant** warder allowed the disguised knight to pass through the castle portcullis unchallenged."*

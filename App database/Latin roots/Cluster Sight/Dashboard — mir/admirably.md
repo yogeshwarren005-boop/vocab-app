@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an admirable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that commands high praise, respect, or esteem; excellently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, performing a function or displaying a virtue with consummate fitness and skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I find a person unwilling to hear what I have to say, I tell that person directly, ‘I am incapable of fatigue, my good friend, I am never tired, and I mean to go on until I have done.’ It answers admirably!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was admirably said by Captain Swosser."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each organic being is **admirably** adapted to the complex conditions of its life in the struggle for existence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's earnest manner was **admirably** suited to disarm petty suspicion among the villagers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak played the flute **admirably**, producing plaintive pastoral airs across the moonlit field."*

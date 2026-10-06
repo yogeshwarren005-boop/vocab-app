@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With admiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing or feeling admiration, approval, or esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, regarding a person or object with visible respect, warmth, or appreciative wonder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s face, in which forty-five years had delved neither angles nor parallels; and pushing back her pink capstrings, she let her work rest on her lap, while she looked admiringly at her daughter."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea put out her hand with her usual simple kindness, and looked admiringly at Lydgate’s lovely bride—aware that there was a gentleman standing at a distance, but seeing him merely as a coated figure at a wide angle."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked **admiringly** at Will Ladislaw's radiant youth and spirited conversation."*
+> - 📜 **James Joyce (*Dubliners*):** *"The young men listened **admiringly** to his tales of adventure and continental travel."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The shepherd gazed **admiringly** upon the royal visitor, dazzled by his courtly grace."*

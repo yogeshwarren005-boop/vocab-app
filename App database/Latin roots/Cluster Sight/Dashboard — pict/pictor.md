@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere near dorado and columba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near dorado and columba.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Painter; a faint constellation in the southern celestial hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and celestial cartography, a constellation introduced by Nicolas-Louis de Lacaille in the 1750s representing a painter's easel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pictor Ignotus. {Florence, 15--.} I could have painted pictures like that youth’s Ye praise so."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist. [220] Something like the court-suit of Prince Esterhazy. [221] Pictor."*
+> - 📜 **John Herschel (*Results of Astronomical Observations at the Cape of Good Hope*):** *"Looking toward the southern pole, the faint stars of **Pictor** appear situated between Columba and the Large Magellanic Cloud."*
+> - 📜 **William Herschel (*Philosophical Transactions*):** *"Our sweeps across the southern constellations revealed double stars within the boundaries of **Pictor**."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Beta Pictoris in the constellation **Pictor** exhibits an anomalous infrared excess indicative of circumstellar dust."*

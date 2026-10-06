@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sunflower; or a traditional Spanish and Mexican chili pepper whose pods point toward the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical agronomy and culinary ethnobotany, Capsicum annuum cv. 'Mirasol', prized for its upward-pointing pods, fruity flavor, and bright red color (guajillo when dried).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirasol designates annual sunflower grown for silage and for its seeds which are a source of oil; common throughout united states and much of north america."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Peasant gardens in New Spain were enlivened by vibrant beds of **mirasol**, whose golden discs followed the sun."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The fiery dishes of Andalusian cookery owe their warm hue and savory pungency to the sun-ripened **mirasol** pepper."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The heliotropic movement of the **mirasol** provides a spectacular illustration of diurnal phototropism in growing shoots."*

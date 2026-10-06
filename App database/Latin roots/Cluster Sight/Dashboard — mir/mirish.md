@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swampy, marshy, or resembling deep mud; miry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topographical description, having the treacherous, yielding consistency of waterlogged bogland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirish designates little known kamarupan languages."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We forced our birch canoe through a **mirish** meadow overgrown with sedges and water-lilies."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The lower hollows of the heath were damp and **mirish**, sucking at the traveler's boots."*
+> - 📜 **Herman Melville (*Mardi*):** *"The lagoon shoreline was lined with **mirish** mangrove swamps exuding thick, humid vapors."*

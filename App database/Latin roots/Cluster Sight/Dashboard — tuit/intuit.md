@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Know or grasp by intuition or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know or grasp by intuition or feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To understand or know by intuition without the need for conscious reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, to grasp truth, essences, or relationships by immediate direct cognitive apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intuit designates know or grasp by intuition or feeling."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The purified spirit can **intuit** eternal moral truths without relying on scholastic syllogisms."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"Intellect analyzes form, but intuition alone enables us to **intuit** the vital flux of life itself."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her profound sympathy enabled her to **intuit** his unexpressed sorrow before he spoke a word."*

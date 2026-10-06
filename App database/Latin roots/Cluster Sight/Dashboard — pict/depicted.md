@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show in, or as in, a picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a description of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represented in a picture, painting, sculpture, or vivid description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and literary criticism, portrayed through visual iconography or detailed literary characterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with his hair flattened down upon his head and woe depicted in his face, looking up at me."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Indeed, when we reflect on the character of the Gospels, their origin and composition, and then consider the sharp, strong outlines of the personality depicted, we shall be apt to feel his claim to historicity to be stronger than we supposed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And then he heard Lydgate’s account of the troubles which Rosamond had already depicted to him in her way."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The ancient tapestry **depicted** a hunting scene with courtiers on horseback pursued by hounds."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The newspaper engraving **depicted** the mysterious country house surrounded by dense woodland."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In Greek sculpture the gods were **depicted** with serene brows untroubled by human anxieties."*

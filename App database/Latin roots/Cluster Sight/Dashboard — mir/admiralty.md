@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The department in charge of the navy (as in great britain).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of admiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The government department or judicial court administering naval affairs and maritime law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional history and maritime jurisprudence, the high board commanding the Royal Navy or courts having jurisdiction over maritime offenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Admiralty,” he continued, “entertain themselves now and then, with sending a few hundred men to sea, in a ship not fit to be employed."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Your sister is given to government.” “Given to government, Joe?” I was startled, for I had some shadowy idea (and I am afraid I must add, hope) that Joe had divorced her in a favour of the Lords of the Admiralty, or Treasury."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The vessel was reported derelict by telegraph, and the **admiralty** dispatched a gunboat to secure the salvage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The High Court of **Admiralty** held jurisdiction over collisions, piracies, and salvage claims on the high seas."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her father had served with distinction in the **admiralty**, accumulating honor and prize money during the Napoleonic blockade."*

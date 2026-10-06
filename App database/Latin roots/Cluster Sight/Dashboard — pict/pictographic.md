@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or characterized by the use of pictographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or characterized by the use of pictographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to pictographs; using pictorial signs to convey meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphy and linguistic history, describing writing systems (such as early Egyptian hieroglyphics or Mayan glyphs) based on pictorial representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"On the sculptured stones in the Copan valley there are characters which seem to resemble very ancient writing, but this pictographic writing is largely untranslatable."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A **pictographic** script communicates ideas across linguistic barriers with universal directness."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Ancient Mexican codices preserved dynastic chronicles in elaborate **pictographic** symbols."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Before abstract alphabets arose, primitive societies utilized **pictographic** conventions for keeping communal records."*

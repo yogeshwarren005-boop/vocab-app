@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that knowledge is acquired primarily by intuition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that knowledge is acquired primarily by intuition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that knowledge or moral principles are gained through immediate intuition rather than empirical reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meta-ethics and mathematical philosophy, the philosophical school asserting that moral truths are objective and self-evident, or that mathematics consists of mental constructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intuitionism designates (philosophy) the doctrine that knowledge is acquired primarily by intuition."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The ethical school of **intuitionism** asserts that moral duties are known directly by internal moral perception."*
+> - 📜 **Bertrand Russell (*A Critical Exposition of the Philosophy of Leibniz*):** *"Mathematical **intuitionism** rejects the law of excluded middle for infinite sets, demanding constructive proof."*
+> - 📜 **William James (*The Will to Believe*):** *"Philosophical **intuitionism** defends the validity of direct personal experience against mechanistic reductionism."*

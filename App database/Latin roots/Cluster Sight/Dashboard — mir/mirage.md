@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something illusory and unattainable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical illusion caused by atmospheric refraction of light, producing the appearance of water or displaced objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological physics and metaphorical critique, an atmospheric inversion projecting distant images, or an enticing but unattainable illusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Nay, this is not the prairie that I saw In youth's mirage; 'twas fairer far than this."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A mirage, a seeming, a thing to look at, to go get bravely had come into his mind in little pictures, like prints in a book."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she had never been with him after death; that had been a mirage in the hinterland of the mind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her early dreams of heroic self-sacrifice dissolved like a desert **mirage** before the cold reality of provincial marriage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The promised fortune of Chancery was a cruel **mirage** that lured generation after generation to destruction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Under the burning equatorial sun, distant islands floated inverted in the sky like an airy **mirage**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to what common sense would suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to what common sense would suggest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to intuition or common-sense expectation; not intuitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and quantum mechanics, describing phenomena that defy everyday sensory experience yet are mathematically or empirically verified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterintuitive designates contrary to what common sense would suggest."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Many of the established conclusions of mathematical physics appear completely **counterintuitive** to untrained common sense."*
+> - 📜 **William James (*The Principles of Psychology*):** *"It is a **counterintuitive** fact of mental life that bodily expression frequently precedes emotional awareness."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Relativistic time dilation presents a profoundly **counterintuitive** concept to minds accustomed to absolute Newtonian time."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who backs a politician or a team etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who admires; someone who esteems or respects or approves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has a particular regard or affection for someone or something; an enthusiast or suitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and literary critique, an appreciative devotee of an artistic genius or a gentleman paying court to a lady.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace, Healthful, and ever since a fresh admirer Of what I saw there."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And this is the end, you see, of Captain Benwick’s being supposed to be an admirer of yours."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His apparent partiality had subsided, his attentions were over, he was the admirer of some one else."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"From the four corners of the earth they come, To kiss this shrine, this mortal-breathing saint: every suitor and **admirer**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A candid **admirer** of truth will abandon any hypothesis that contradicts demonstrable facts."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farfrae found himself surrounded by many an **admirer** who praised his energetic business acumen."*

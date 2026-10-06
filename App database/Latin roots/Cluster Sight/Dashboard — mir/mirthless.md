@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking mirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking mirth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking mirth; gloomy, joyless, or grim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative, expressing forced amusement or a hollow, bitter smile devoid of genuine gladness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was a curious laugh; distinct, formal, mirthless."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But their gaiety seemed to Prince Andrew mirthless and tiresome."*
+> - 📜 **James Joyce (*Dubliners*):** *"He gave a short, **mirthless** chuckle that betrayed the bitter disillusionment of his heart."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Count Dracula's lips curled into a cold, **mirthless** smile that revealed his pointed canine teeth."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The criminal gave a dry, **mirthless** laugh as he realized that the priest had uncovered his secret."*

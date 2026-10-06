@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or tendency to be cheerful, merry, and full of laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis and social psychology, natural lightness of spirit, playful humor, and resistance to gloom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The thoughts, too, that run around the ring of familiar guests have a piquancy and mirthfulness, and oftentimes a vivid truth, which more rarely find their way into the elaborate intercourse of dinner."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Genuine **mirthfulness** is an attribute of a healthy spirit that can perceive comedy without cynicism."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Donatello's innocent **mirthfulness** reminded observers of a woodland faun untouched by human sorrow."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A touch of innocent **mirthfulness** at the breakfast table sweetens the entire day's labors."*

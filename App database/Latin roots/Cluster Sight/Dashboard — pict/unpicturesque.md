@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without beauty or charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without beauty or charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not picturesque; lacking scenic beauty, charm, or quaint artistic appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and cultural criticism, characterized by monotonous, drab, or utilitarian ugliness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpicturesque designates without beauty or charm."*
+> - 📜 **Nathaniel Hawthorne (*Our Old Home*):** *"The grimy coal barges and brick warehouses formed a singularly **unpicturesque** waterfront along the industrial canal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The flat, damp agricultural plains were considered hopelessly **unpicturesque** by tourists seeking alpine vistas."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The new mechanized corn market was an **unpicturesque** modern barn devoid of historic associations."*

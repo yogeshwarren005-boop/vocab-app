@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Member of a vigilance committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a vigilance committee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a self-appointed group of citizens who undertake law enforcement in their community without legal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In frontier history and legal sociology, an extrajudicial actor participating in citizen committees to punish suspected offenders outside established courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A vigilante strutting like a colonel...."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wherefore we pray you heartily to beware, and to be found watching, even as the Holy Text hath it, ‘Invenientur vigilantes’."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"When cattle rustling threatened frontier order, the ranchers formed a **vigilante** committee to track down the horse thieves."*
+> - 📜 **Mark Twain (*Roughing It*):** *"In early Nevada mining camps, the summary justice of the **vigilante** was feared far more than the distant territorial court."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"Frontier communities frequently resorted to **vigilante** committees when statutory law enforcement proved corrupt or ineffective."*

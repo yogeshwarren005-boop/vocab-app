@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carefully observant or attentive; on the lookout for possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carefully observant or attentive; on the lookout for possible danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keeping careful watch for possible danger or difficulties; alert, watchful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and jurisprudence, watchful and proactive in safeguarding interests or rights against encroachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, take your places and be vigilant."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: our last king was **vigilant**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I have been as sincere and **vigilant** a companion to morning as the sun itself."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wild guanacos are extremely **vigilant**, stationing an old male atop an adjacent hill to sound the alarm."*

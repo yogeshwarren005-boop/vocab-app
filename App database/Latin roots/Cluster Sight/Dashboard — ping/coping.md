@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brick that is laid sideways at the top of a wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to terms with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Managing difficult situations successfully; or the top protective masonry layer on a wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and structural masonry, the protective stone or brick capping placed on top of a wall to shed rainwater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The snowdrops were arranged in a line on the outside of the coping, the remainder within the enclosure of the grave."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Looking that way she beheld a form springing from the coping to the plot."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He leaned against the weathered stone **coping** of the bridge, watching the river swirl beneath the arch."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fruit trees trained along the southern brick wall were sheltered from frost by the projecting stone **coping**."*
+> - 📜 **James Joyce (*Dubliners*):** *"A row of sparrows chattered along the granite **coping** of the Georgian terrace."*

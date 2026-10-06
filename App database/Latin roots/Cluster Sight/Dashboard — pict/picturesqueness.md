@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being strikingly expressive or vivid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visually vivid and pleasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of possessing quaint visual beauty, dramatic natural texture, and striking scenic charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century aesthetics (as formulated by William Gilpin), rugged variety, natural texture, and scenic irregularity pleasing to the artistic eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The natural aptitude of the French for seizing the picturesqueness of things seems to be peculiarly evinced in what paintings and engravings they have of their whaling scenes."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It would have increased the theatrical picturesqueness of the situation."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A thick canopy of trees hung over the very verge of the fall, leaving an arched aperture for the passage of the waters, which imparted a strange picturesqueness to the scene."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Modern London has lost its old architectural **picturesqueness**, sacrificing charm to commercial utility."*
+> - 📜 **Herman Melville (*Mardi*):** *"The **picturesqueness** of the coral atoll fascinated the mariners as the surf broke over emerald reefs."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The old wooden farmhouse possessed an unstudied **picturesqueness** that appealed to the artists among us."*

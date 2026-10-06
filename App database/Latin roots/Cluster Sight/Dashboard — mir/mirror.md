@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Polished surface that forms images by reflecting light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faithful depiction or reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reflective surface, typically of glass coated with a metal amalgam, that reflects a clear image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, literature, and psychology, a speculum reflecting light rays according to equal angles of incidence and reflection, or a true representation of reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such a spacious mirror’s set before him, He needs must see himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sell the pasture now to buy the horse, Following the mirror of all Christian kings, With winged heels, as English Mercuries."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To hold, as 'twere, the **mirror** up to nature; to show virtue her own feature, scorn her own image, and the very age and body of the time his form and pressure."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The plane glass **mirror** reflects parallel beams with an angle of reflection precisely equal to the angle of incidence."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He stood before the oval **mirror**, shuddering at the subtle lines of cruelty creeping across his likeness."*

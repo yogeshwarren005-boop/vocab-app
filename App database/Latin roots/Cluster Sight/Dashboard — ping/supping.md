@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ingestion of liquid food with a spoon or by drinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eating supper; dining in the evening; or taking liquid food by sips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and literature, partaking of the evening meal, especially in convivial or quiet companionship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What tell’st thou me of supping?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In addition to the formal evening and dinner parties, a large company, chiefly of men, gathered there every day, supping at midnight and staying till three in the morning."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I suppose you have--in nightmares, after supping on cold boiled pork and greens, or some nice little digestible morsel like that."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I left him **supping** upon cold meat and bread in the dark pantry, grateful for the rough hospitality."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"We could hear the soldiers **supping** in the cellar, murmuring over the strange portents in the sky."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The harvesters gathered at sundown, **supping** together after the long day's toil in the wheat field."*

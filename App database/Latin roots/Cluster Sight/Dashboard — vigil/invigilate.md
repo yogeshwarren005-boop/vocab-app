@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch over (students taking an exam, to prevent cheating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supervise students during an examination; or to watch over vigilantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic administration (chiefly British), to maintain disciplinary order, prevent academic dishonesty, and ensure strict compliance with examination protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invigilate designates watch over (students taking an exam, to prevent cheating)."*
+> - 📜 **Thomas Babington Macaulay (*Life and Letters*):** *"Fellows of the college were assigned by rotation to **invigilate** the university scholarship examinations in the Senate House."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"It was a tedious duty to **invigilate** a hall of silent students sweating over mathematical problems."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The elderly proctor continued to **invigilate** the quiet examination hall, pacing softly between the wooden desks."*

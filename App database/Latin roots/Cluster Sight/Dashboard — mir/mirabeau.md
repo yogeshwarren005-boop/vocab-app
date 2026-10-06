@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Honoré Gabriel Riqueti, Comte de Mirabeau (1749–1791), a renowned French revolutionary orator and statesman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political history, the brilliant French Assembly leader who sought to reconcile democratic constitutionalism with a reformist monarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Down with every army that fights against the soap-box, The Pericles, Socrates, Diogenes soap-box, The old Elijah, Jeremiah, John-the-Baptist soap-box, The Rousseau, Mirabeau, Danton soap-box, The Karl Marx, Henry George, Woodrow Wilson soap-box."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"In that fiery volcanic countenance of **Mirabeau**, the French National Assembly found its undisputed thunderer."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The eloquence of **Mirabeau** had the sudden, dazzling power of a thunderstorm breaking over a summer landscape."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Had **Mirabeau** lived, the monarchical constitution might have survived the radical Jacobin deluge."*

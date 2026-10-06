@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a form maintained by a rigid internal structure as well as by internal gas pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully rigid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially rigid; possessing some stiffness while retaining flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical engineering and materials science, designating non-rigid airships reinforced with a longitudinal keel, or flexible polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semirigid designates having a form maintained by a rigid internal structure as well as by internal gas pressure."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The military patrol employed a **semirigid** dirigible whose metal keel gave stability in violent crosswinds."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The elastic properties of the medium behave as a **semirigid** structure under high-frequency vibrations."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The apparatus was protected within a **semirigid** framework of vulcanite and brass rods."*

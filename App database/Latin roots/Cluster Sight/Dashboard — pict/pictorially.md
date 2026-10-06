@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pictorial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pictorial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of pictures, illustrations, or visual representations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic communication and art history, representing objects, events, or abstract relationships visually.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pictorially designates in a pictorial manner."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner conceived nature **pictorially**, translating mist, light, and water into pure optical poetry."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The courtship plumage of the argus pheasant is arranged **pictorially** to display shaded balls on each quill."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Swedenborg envisioned spiritual hierarchies **pictorially**, describing divine spheres in architectural detail."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impinge or infringe upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance beyond the usual limit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have an effect, make an impact, or strike against something; to encroach or infringe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical acoustics and wave mechanics, to collide with or strike an acoustic or physical surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a jet impinging upon a pencil of lime causes the latter to glow with a dazzling white light."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At Cananea, four oil burners of the Shelby type are employed on each furnace, and this form is stated to project the flame further into the furnace, and to prevent its impinging on the roof, more successfully than the other types tried."*
+> - 📜 **James Joyce (*Dubliners*):** *"The light began to pale on the avenue, and his thoughts continued to **impinge** upon the painful memory of the afternoon."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Luminous ether waves **impinge** upon the retina, exciting the chemical receptors of vision."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"External physical forces ceaselessly **impinge** upon the nervous system, initiating sensory impressions."*

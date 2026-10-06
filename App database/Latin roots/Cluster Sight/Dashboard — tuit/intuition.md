@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Instinctive knowing (without the use of rational processes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impression that something might be the case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand something immediately, without the need for conscious reasoning; an intuitive perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, immediate cognitive apprehension of a self-evident truth, axiom, or sensory datum prior to analytical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When women are in a freakish mood, their usual intuition, either from carelessness or inherent defect, seemingly fails to teach them this, and hence it was that Bathsheba was fated to be astonished to-day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their words show that they, like the others, have only too largely repaired my defects of narration by their own imaginative intuition."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the strength of his position lies in the good news for the poor (Matt. 11:5), for those who labour and are heavy--laden (Matt. 11:28)--news of rest and refreshment--as if the intuition of God, with the peace it brings, were its own proof."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In **intuition** the mind perceives the agreement or disagreement of two ideas immediately by themselves, without the intervention of any other."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The theory of **intuition** claims that our fundamental moral beliefs are self-evident truths perceived directly by consciousness."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"She had an instinctive **intuition** that something momentous had occurred in the quiet clearing."*

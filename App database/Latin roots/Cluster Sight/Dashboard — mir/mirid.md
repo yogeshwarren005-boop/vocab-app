@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of leaf bug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of leaf bug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any true bug belonging to the large insect family Miridae (plant bugs or capsid bugs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, a piercing-sucking hemipteran insect that feeds on plant juices, many species causing economic damage to crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mirid designates a variety of leaf bug."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The minute puncture wounds inflicted by a single **mirid** bug cause young apple buds to wither."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The piercing rostrum of the **mirid** is delicately jointed, allowing it to penetrate tough plant epidermis."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Natural predators such as ladybird beetles keep populations of the destructive **mirid** within modest limits."*

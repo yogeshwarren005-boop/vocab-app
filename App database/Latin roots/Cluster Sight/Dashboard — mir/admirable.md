@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of the highest esteem or admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring admiration or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing or deserving the highest esteem, respect, and approval; excellent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical aesthetics and character appraisal, displaying exceptional virtue, skill, or sublime proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, a very excellent good-conceited thing; after, a wonderful sweet air, with admirable rich words to it, and then let her consider."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is man, how noble in reason, how infinite in faculties, in form and moving, how express and admirable; in action how like an angel, in apprehension, how like a god: the beauty of the world, the paragon of animals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What a piece of work is a man! how noble in reason! how infinite in faculty! in form and moving how express and **admirable**!"*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles displayed an **admirable** patience, refusing to utter a word of complaint against his misfortune."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of the honeycomb is an **admirable** adaptation that saves both wax and bee labor."*

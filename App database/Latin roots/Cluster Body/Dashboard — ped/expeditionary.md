@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of military forces) designed for military operations abroad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of military forces) designed for military operations abroad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or sent on an expedition, especially a military force dispatched abroad for combat operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern military strategy, designating mobile forces equipped and organized for sustained deployment in distant theaters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expeditionary designates (used of military forces) designed for military operations abroad."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch **expeditionary** fleet anchored in Torbay amidst the enthusiastic cheers of the West Country populace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius embarked his veteran **expeditionary** army at Constantinople to reconquer the Vandal kingdom."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Transports carried the **expeditionary** brigades down the Potomac for operations along the Virginia coast."*

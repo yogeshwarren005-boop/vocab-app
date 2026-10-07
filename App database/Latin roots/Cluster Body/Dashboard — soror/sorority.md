@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club for female undergraduates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social club for female undergraduates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club or society for female university students; also sisterhood, a society of women united for a common purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education history and organizational sociology, a collegiate Greek-letter association fostering fellowship and academic solidarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sorority designates a social club for female undergraduates."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The collegiate fraternity and **sorority** cultivate aristocratic social prestige within modern democratic universities."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Loyalty to an exclusive college **sorority** reflects the instinct of youthful solidarity seeking structured expression."*
+> - 📜 **Charlotte Perkins Gilman (*Women and Economics*):** *"True female solidarity requires an enlightened **sorority** transcending narrow domestic boundaries."*

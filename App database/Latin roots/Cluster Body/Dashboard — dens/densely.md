@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stupid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concentrated manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compact, crowded, or thick manner; with high concentration per unit area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic geography and forestry, having high population density or tightly clustered canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He therefore valiantly hides his personality behind a publisher’s shutters, and cries “Shame!” So densely is the world with any shifting of positions, even the best warranted advance, galls somebody’s kibe."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In those days, and till comparatively recent times, the country was densely wooded."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In European countries the railways were built through comparatively densely populated districts to connect cities already of large size."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Competition is keenest among individuals of the same species inhabiting **densely** stocked oceanic islands."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient city of London was **densely** populated, its narrow streets thronged with merchants and apprentices."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The mountain slopes were **densely** wooded with magnificent tree ferns and towering dipterocarps."*

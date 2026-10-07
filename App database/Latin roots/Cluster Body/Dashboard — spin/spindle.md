@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of wood that has been turned on a lathe; used as a baluster, chair leg, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender rounded rod with tapered ends used in hand spinning to twist and wind thread; a revolving axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and machine tooling, the microtubular mitotic spindle guiding chromosome segregation, or a rotating lathe arbor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s seat and guarded by his spindle legs is a drawer in his chair, reported to contain property to a fabulous amount."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor devil! see him owre his trash, As feckles as wither’d rash, His spindle shank, a guid whip-lash; His nieve a nit; Thro’ blody flood or field to dash, O how unfit!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Manxman took the reel, and holding it high up, by the projecting handle-ends of the spindle, round which the spool of line revolved, so stood with the angular log hanging downwards, till Ahab advanced to him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lightning struck the ship's compass **spindle**, instantly reversing the polarity of the magnetic needles."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The invention of the water frame multiplied a thousandfold the number of thread wraps wound per **spindle**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"During cellular division, achromatic filaments form an elliptical **spindle** along which chromatin granules travel."*

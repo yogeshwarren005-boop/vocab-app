@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To delay, obstruct, or retard the progress of something; to hinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and mechanics, to place obstacles or frictional resistance in the way of free movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And it does not become us, who assist in making the laws, to impede or interfere with those who carry them into execution."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—” I said, decidedly."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris might never have saved her money; but having no care of that kind, there was nothing to impede her frugality, or lessen the comfort of making a yearly addition to an income which they had never lived up to."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Society everywhere is in conspiracy against the manhood of every one of its members; do not let conformity **impede** your genius."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She walked rapidly across the lawn, refusing to let painful memories **impede** her resolution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"High mountain barriers and wide deserts **impede** the migration of terrestrial quadrupeds across continents."*

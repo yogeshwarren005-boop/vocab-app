@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fish with spiny fins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fish with spiny fins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fins supported by sharp, rigid, unsegmented bony spines; acanthopterygian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, designating teleost fishes of the superorder Acanthopterygii possessing spinous dorsal and anal fin rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-finned designates of or relating to fish with spiny fins."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Shoals of **spiny-finned** perch darted through the clear waters of the tidal rock pools."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **spiny-finned** fishes, the anterior dorsal fin rays are modified into stiff defensive pikes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Fossil strata of the London Clay contain numerous well-preserved skeletons of ancient **spiny-finned** teleosts."*

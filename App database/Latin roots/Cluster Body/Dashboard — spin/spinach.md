@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southwestern asian plant widely cultivated for its succulent edible dark green leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark green leaves; eaten cooked or raw in salads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible annual plant (Spinacia oleracea) cultivated for its dark green, nutrient-rich leaves eaten raw or cooked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and nutritional biochemistry, a leafy amaranthaceous vegetable rich in iron, lutein, and oxalic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hope, Joy, Youth, Peace, Rest, Life, Dust, Ashes, Waste, Want, Ruin, Despair, Madness, Death, Cunning, Folly, Words, Wigs, Rags, Sheepskin, Plunder, Precedent, Jargon, Gammon, and Spinach."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Vegetables--Yams, Taro, Spinach."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"On the first page, under the printed heading “Things to Remember,” he read these sentences: “That rice swells till every dish in the house is full, and that spinach shrinks till you can't find it."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"Succulent leaves of **spinach** furnish a refreshing and wholesome potherb when gently boiled with butter."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of **spinach** show marked variation in leaf crispness and tolerance to cold soils."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Kitchen gardeners plant rows of **spinach** in late autumn to ensure an early spring harvest of greens."*

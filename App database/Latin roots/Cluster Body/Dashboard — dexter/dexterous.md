@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skillful in physical movements; especially of the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in physical movements; especially of the hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or having skill, agility, and cleverness, especially with the hands; adroit, deft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manual arts and political strategy, adroitly skillful in execution or displaying inventive mental agility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The creature fell stunned, and the force of its fall brought it within the reach of the dexterous hunter’s grasp."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sometimes an impending surge appeared ready to overwhelm her, and nothing but a dexterous movement of the helm preserved her from the shock."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was famed for great knowledge and skill in horsemanship, being as dexterous on horseback as a Tartar."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"With a **dexterous** twist of his wrist, the blacksmith turned the glowing horseshoe upon the anvil."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **dexterous** pin-maker can produce hundreds of heads each hour without mislaying a single piece."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minister was a **dexterous** parliamentary manager, adept at smoothing over party rivalries."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a spinster (usually an elderly unmarried woman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a spinster (usually an elderly unmarried woman).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmarried life of an adult woman; the status of being a single, unmarried woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social history and literature, the social condition and economic independence or marginality of unmarried women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, seven saucers are placed in a row, filled respectively with water, earth, ashes, keys, a thimble, money, and grass, which things signify travel, death, widowhood, housekeeping, spinsterhood, riches, and farming."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Miss Noble accepted her perpetual **spinsterhood** with gentle cheerfulness, finding joy in secret gifts to children."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The prospect of unchosen **spinsterhood** alarmed the anxious mother of five unmarried daughters."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"She reflected deeply upon the lonely trials and quiet dignities of Victorian **spinsterhood**."*

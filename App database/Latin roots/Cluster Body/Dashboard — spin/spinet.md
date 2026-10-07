@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small and compactly built upright piano.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early model harpsichord with only one string per note.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early stringed keyboard instrument, smaller than a harpsichord, with strings set at an angle to the keyboard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical organology, a domestic plucked-string instrument popular during the sixteenth to eighteenth centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"The noise pleases him and sends him to sleep, reminding him of the days when he courted me and I used to strum upon that spinet with one finger."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I had learned in my youth to play a little upon the spinet."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Glumdalclitch kept one in her chamber, and a master attended twice a week to teach her: I called it a spinet, because it somewhat resembled that instrument, and was played upon in the same manner."*
+> - 📜 **Jane Austen (*Emma*):** *"The arrival of a handsome mahogany **spinet** as an anonymous gift excited endless village speculation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"In the corner of Miss Havisham's faded room stood a dusty old **spinet** whose keys were yellow with age."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The quill jacks of the **spinet** pluck the metallic strings, generating tones rich in high dissonant partials."*

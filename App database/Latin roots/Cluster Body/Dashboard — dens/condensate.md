@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of condensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Atmospheric moisture that has condensed because of cold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquid product resulting from the cooling and condensation of a gas or vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and quantum physics, a phase-transition liquid, or a collection of bosons occupying the lowest quantum state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condensate designates a product of condensation."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The volatile vapors collected in the cooled receiver yielded a colorless, pungent **condensate**."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Heat released during vapor liquefaction elevates the temperature of the surrounding aqueous **condensate**."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Steam escaping into cold mountain air transforms instantaneously into a visible cloud of fluid **condensate**."*

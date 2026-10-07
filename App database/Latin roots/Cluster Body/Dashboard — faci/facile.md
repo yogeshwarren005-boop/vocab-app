@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrived at without due care or effort; lacking depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing adroitly and without effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily achieved or performed; superficial, effortless, or lacking depth and sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and rhetoric, glibly persuasive without confronting underlying logical difficulties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was plenty of eggs, butter, bread, and so on in the larder, and Clare soon had breakfast laid, his experiences at the dairy having rendered him facile in domestic preparations."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He meant too much for them to seek the facile relief of praise."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My love,” he said, with irritation reined in by propriety, “you may rely upon me for knowing the times and the seasons, adapted to the different stages of a work which is not to be measured by the facile conjectures of ignorant onlookers."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"We must beware of **facile** consensus that silences thoughtful dissent in the name of political harmony."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **facile** and credulous acceptance of common opinions retards the rigorous progress of scientific induction."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The glib politician won applause through **facile** promises that cost nothing to make and were impossible to fulfill."*

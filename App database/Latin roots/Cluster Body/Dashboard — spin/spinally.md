@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the spine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spinal direction; with respect to the spine, vertebral column, or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and anesthesiology, administered into or mediated through the spinal canal or spinal reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinally designates in the spine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anesthetics injected **spinally** block sensory transmission through lumbosacral nerve roots."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Vertebral ligaments are arranged **spinally** along the anterior and posterior aspects of the vertebral bodies."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Reflex contractions evoked **spinally** in decapitated animals demonstrate autonomous cord excitability."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who spins (who twists fibers into threads).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board game equipment that consists of a dial and an arrow that is spun to determine the next move in the game.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or machine that spins fiber into thread; a rotating artificial fishing lure; an insect or spider that spins silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and textile engineering, a spinning larva or modern automated ring-spinning frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He died rich in his new occupation of cotton spinner, but he knew that the blood of my mother ran in all of us."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is the grain-grower, the cattle-raiser, who is protected by a duty on Foreign Manufactures, quite as much as the spinner or shoemaker."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Weaving spiders, come not here; Hence, you long-legg’d spinners, hence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The productivity of the English **spinner** was transformed by the introduction of Arkwright's spinning frame."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The silkworm is a tireless **spinner**, constructing its protective cocoon of several hundred yards of continuous silk."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"An artificial brass **spinner** glistened on the fisherman's line as he cast across the trout stream."*

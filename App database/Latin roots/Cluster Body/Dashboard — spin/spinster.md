@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly unmarried woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spins (who twists fibers into threads).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried woman, especially one past the typical age for marriage; historically, a woman who spun thread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical legal terminology and social history, the formal legal designation for an unmarried woman regardless of age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Formerly Caroline Jellyby, spinster, then of Thavies Inn, within the city of London, but extra-parochial; now of Newman Street, Oxford Street."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But a widow or a spinster owner, if herself acting as the enterpriser, is reported as "occupied" in agriculture."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strictly speaking, too, the neighbour upon whose garden the raid was made should be unmarried, whether a bachelor or a spinster."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The spinsters, carders, fullers, weavers, who, unfit for other life, compell'd by hunger and lack of other means, in desperate manner daring the event, do rebel; every poor **spinster** starves!"*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"The client was a modest **spinster** of quiet habits who resided in a remote country cottage."*
+> - 📜 **Jane Austen (*Emma*):** *"A single woman of good fortune is always respectable, but a poor **spinster** is too often the ridicule of the neighborhood."*

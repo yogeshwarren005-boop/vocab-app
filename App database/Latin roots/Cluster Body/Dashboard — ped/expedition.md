@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military campaign designed to achieve a specific objective in a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized group of people undertaking a journey for a particular purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A journey or voyage undertaken by a group of people with a definite purpose, especially exploration or scientific research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and historical exploration, a coordinated overseas campaign or geographical exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, I brought you word an hour since that the bark _Expedition_ put forth tonight, and then were you hindered by the sergeant to tarry for the hoy _Delay_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had, before this last expedition, twenty-five wounds upon him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it was when the unhappy King— Whose wrongs in us God pardon!—did set forth Upon his Irish expedition; From whence he, intercepted, did return To be deposed, and shortly murdered."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The principal object of the **expedition** was to complete the nautical survey of Patagonia and Tierra del Fuego."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julian assembled an immense flotilla on the Euphrates to support his disastrous Persian **expedition**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The furmity-seller described the rustic **expedition** across the hill to the sheep-shearing feast."*

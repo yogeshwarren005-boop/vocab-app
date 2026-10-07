@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the gums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the gums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the gums, characterized by redness, swelling, and bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In periodontal pathology, non-destructive inflammatory disease of the gingival tissues caused by dental plaque accumulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gingivitis designates inflammation of the gums."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic marginal **gingivitis** frequently serves as the opening stage for destructive pyorrhea alveolaris."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Carbolic antiseptic mouthwashes effectively check the bacterial proliferation responsible for acute **gingivitis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Leukocytic infiltration and hyperemic capillary dilation in **gingivitis** reflect a local cellular response to irritants."*

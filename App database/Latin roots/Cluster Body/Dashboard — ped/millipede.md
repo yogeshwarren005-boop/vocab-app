@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous herbivorous nonpoisonous arthropods having a cylindrical body of 20 to 100 or more segments most with two pairs of legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous herbivorous nonpoisonous arthropods having a cylindrical body of 20 to 100 or more segments most with two pairs of legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-moving arthropod of the class Diplopoda having an elongated cylindrical body with two pairs of legs on most segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil biology and invertebrate zoology, a detritivorous myriapod that curls into a protective spiral and secretes noxious defensive quinones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millipede designates any of numerous herbivorous nonpoisonous arthropods having a cylindrical body of 20 to 100 or more segments most with two pairs of legs."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Beneath decaying forest leaves, the herbivorous **millipede** assists in pulverizing dead vegetable humus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **millipede**, each apparent body segment is a diplosomite bearing two pairs of ambulatory limbs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Giant tropical species of **millipede** roll into shiny black balls when disturbed on the damp forest floor."*

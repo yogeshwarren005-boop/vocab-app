@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impolite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impolite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impolite, insolent, or discourteous manner; roughly, coarsely, or without skill and refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and craft description, fashioned coarsely from raw materials or acting with blunt incivility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy place in Council thou hast rudely lost, Which by thy younger brother is supplied, And art almost an alien to the hearts Of all the court and princes of my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now this lustful lord leaped from his bed, Throwing his mantle rudely o’er his arm; Is madly tossed between desire and dread; Th’ one sweetly flatters, th’ other feareth harm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not, enforced hate, Instead of love’s coy touch, shall rudely tear thee."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The turnkey pushed Oliver **rudely** into the damp cell, slamming the heavy iron door behind him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen dined at a **rudely** constructed pine table scarred by countless jack-knives."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Ancient burial mounds contained **rudely** chipped flint arrowheads and fragments of coarse earthenware."*

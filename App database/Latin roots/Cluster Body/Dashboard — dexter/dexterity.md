@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adroitness in using the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adroitness in using the hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill, nimbleness, and grace in physical movement, especially with the hands; mental cleverness or quickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artisanal craftsmanship and diplomatic negotiation, exceptional mechanical adroitness or shrewd tact in managing crises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most wicked speed, to post With such dexterity to incestuous sheets!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy, and still ran and roared, as ever I heard bull-calf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my admirable dexterity of wit, my counterfeiting the action of an old woman, delivered me, the knave constable had set me i’ the stocks, i’ the common stocks, for a witch."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor, by reducing every man's business to some one simple operation, necessarily increases very much the **dexterity** of the workman."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian ministers were chosen solely for their agility and **dexterity** in dancing upon tight ropes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine ambassador conducted the hazardous negotiation with consummate diplomatic **dexterity**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal with two feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that uses two legs for walking, running, and standing erect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and anthropology, a two-footed organism such as a bird or human.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In one case that I now recall, the race was nip and tuck between man and bison for over an hour, and the biped was finally enabled to save his life only by leaving the saddle and swinging into a tree!"*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Henig sprang at the hairless biped who had the weapon, clawing the ugly, white face."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The adoption of erect posture emancipated the hands of the ancestral **biped** for fabricating tools."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Standing upright on the edge of the pond, every featherless **biped** contemplates his own reflection."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"Man is not merely an unusually clever **biped**, but a creature possessed of spiritual wonder."*

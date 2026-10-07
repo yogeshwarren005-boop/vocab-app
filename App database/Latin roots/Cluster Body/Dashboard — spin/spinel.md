@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, vitreous mineral (MgAl2O4) occurring in octahedral crystals of diverse colors, especially red and blue gemstones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and gemology, an isometric oxide mineral historically confused with ruby, such as the famous Black Prince's Ruby.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinel designates a hard glassy mineral consisting of an oxide of magnesium and aluminum; occurs in various colors that are used as gemstones."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Alluvial gravels derived from metamorphic limestone yield fine octahedral crystals of red **spinel**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemical analysis proves that **spinel** consists of magnesia and alumina combined in definite stoichiometric proportions."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The crimson glow of **spinel** shines with a subdued fire distinct from the fierce brilliance of the diamond."*

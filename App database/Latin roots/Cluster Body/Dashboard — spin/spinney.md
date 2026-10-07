@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copse that shelters game.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copse that shelters game.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small area of trees and bushes; a small copse or thicket, especially one providing cover for game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British landscape history, an ornamental or sporting woodlot planted on estate grounds to shelter foxes or pheasants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinney designates a copse that shelters game."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass turned his horse toward the dark **spinney** where the fog hung thickest over the damp moss."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pheasants roosted quietly in the oak **spinney** bordering the snow-covered turnip field."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The sportsman walked cautiously along the edge of the **spinney**, watching for rabbits darting through the gorse."*

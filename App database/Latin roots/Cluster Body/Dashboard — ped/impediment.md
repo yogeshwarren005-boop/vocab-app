@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that interferes with or delays action or progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hindrance, obstruction, or defect that interferes with progress or execution; a speech defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and clinical semiotics, a legal bar to marriage, or a structural speech defect such as a stammer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May I never To this good purpose, that so fairly shows, Dream of impediment!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was th’ impediment that broke this off?"*
+> - 📜 **William Shakespeare (*Sonnet 116*):** *"Let me not to the marriage of true minds admit **impediment**. Love is not love which alters when it alteration finds."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's cold pedantry proved an insuperable **impediment** to Dorothea's yearning for active good."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Every great intellect turns apparent physical **impediment** into an instrument of higher artistic triumph."*

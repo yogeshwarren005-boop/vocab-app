@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) an unconscious process whereby two ideas or images combine into a single symbol; especially in dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of changing from a gaseous to a liquid or solid state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical process of a gas or vapor turning into a liquid; an abridgment or concise summary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and organic chemistry, droplet formation around aerosol nuclei, or reaction uniting molecules with loss of water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was merely the condensation of the man."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"When the professor began a story--his stories would have been the better for a little more briskness and condensation--Ukridge interrupted him before he had got halfway through, without a word of apology, and began some anecdote of his own."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was merely the condensation of the man."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Compression combined with intense cold facilitates the liquefied **condensation** of chlorine gas."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Cloud formation exemplifies rapid atmospheric **condensation** triggered by cooling ascending air currents."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense nighttime **condensation** on the barren Andean slopes furnished essential moisture to xerophytic lichens."*

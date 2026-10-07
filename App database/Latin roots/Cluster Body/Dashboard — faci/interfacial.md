@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated at an interface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or situated at an interface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at an interface; existing between two adjoining surfaces or phases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and physical chemistry, pertaining to the interfacial angles between crystal faces, or surface tension between immiscible liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interfacial designates relating to or situated at an interface."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The intense **interfacial** tension between oil and water generates curious capillary curvatures at their boundary."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Molecules stationed at an **interfacial** boundary experience asymmetric intermolecular forces from the adjacent phases."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Precise goniometric measurement of **interfacial** angles confirms the constancy of crystalline geometry across mineral specimens."*

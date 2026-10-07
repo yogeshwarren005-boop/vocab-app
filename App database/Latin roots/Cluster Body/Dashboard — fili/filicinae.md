@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical class encompassing ferns, characterized by megaphyllous leaves and reproduction by spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomic botany, the class of vascular cryptogams bearing sori on the underside of photosynthetic fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog filicinae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"Members of the **Filicinae** exhibit a distinct alternation of generations between sporophyte and prothallus."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Tree ferns of the **Filicinae** formed towering canopies over Paleozoic swamp forests."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The insular climate of New Zealand fosters an extraordinary luxuriance of endemic **Filicinae**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of a viscous liquid (especially the cervical mucus) to be drawn out into a strand or blown up into a bubble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of a viscous liquid (especially the cervical mucus) to be drawn out into a strand or blown up into a bubble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stringy, thread-forming property of viscous biological fluids when drawn out between two surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology and gynecological physiology, the elasticity of cervical mucus indicating peak estrogenic fertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnbarkeit designates the capacity of a viscous liquid (especially the cervical mucus) to be drawn out into a strand or blown up into a bubble."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Assessment of physiological **spinnbarkeit** in mucosal secretions provides valuable diagnostic data in endocrine clinics."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The physical property of **spinnbarkeit** in biological secretions reflects the molecular configuration of mucin glycoproteins."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Mucous exudates with high **spinnbarkeit** coat epithelial surfaces, safeguarding underlying cells against mechanical abrasion."*

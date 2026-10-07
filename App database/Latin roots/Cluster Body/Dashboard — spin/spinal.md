@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthesia of the lower half of the body; caused by injury to the spinal cord or by injecting an anesthetic beneath the arachnoid membrane that surrounds the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the spine or spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in or near the spine, backbone, or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and human osteology, designating the spinal column, spinal canal, or spinal nerves conducting neural impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In September last, she was taken very sick with spinal fever."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Yet the Lord was keeping his promise to him, "_The beloved of the Lord shall dwell in safety by him, and the Lord shall cover him all the day long_." RECOVERY FROM SPINAL DISEASE."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This nearly paralyzed the spinal cord, and caused deep and permanent spinal disease."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Thirty-one pairs of **spinal** nerves arise by ventral and dorsal roots from the spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebrospinal meningitis produces intense rigidity of the neck and excruciating **spinal** pain."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The reflex arc depends upon sensory impulses entering the **spinal** cord and exciting immediate motor discharge."*

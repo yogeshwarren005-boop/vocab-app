@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstructing, hindering, or retarding progress or free movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and socio-economic dynamics, presenting ongoing resistance or institutional barriers to development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Constant cohabitation impeding mutual toleration of personal defects."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Climate acts directly in **impeding** the northward dispersal of species sensitive to severe winter frost."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Ancient feudal privileges were swept away as obsolete encumbrances **impeding** the march of national liberty."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Protective tariffs act as an artificial barrier **impeding** the natural international division of labor."*

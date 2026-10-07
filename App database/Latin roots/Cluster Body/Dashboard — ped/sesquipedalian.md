@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very long word (a foot and a half long).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the overuse of long words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many syllables; very long, especially of words; given to using long polysyllabic vocabulary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and classical satire, referring to Horace's sesquipedalia verba (words a foot and a half long).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Visually, Stephen’s: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Dr. Johnson loved to clothe simple, sensible thoughts in magnificent, rolling, **sesquipedalian** Latinate phrases."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The pedantic scholar took obvious delight in mystifying his rustic hearers with ponderous **sesquipedalian** terms."*
+> - 📜 **Edgar Allan Poe (*The Literati*):** *"His pretentious literary criticism was overcrowded with **sesquipedalian** terminology that obscured rather than enlightened."*

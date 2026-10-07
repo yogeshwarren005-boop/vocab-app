@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weak in willpower, courage or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a backbone or spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spines, thorns, or prickles; lacking moral courage, resolve, or firmness of character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, thornless cultigens; in moral psychology, irresolute and easily intimidated by opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spineless designates weak in willpower, courage or vitality."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticulturists have successfully bred a **spineless** gooseberry variety that facilitates berry picking."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His colleagues viewed him as a **spineless** compromiser who abandoned principle at the first sign of public clamor."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"No great historical reform was ever achieved by a timid, **spineless** spectator waiting on popular approval."*

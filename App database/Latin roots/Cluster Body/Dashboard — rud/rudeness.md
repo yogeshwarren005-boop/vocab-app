@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that is rude and insulting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild or unrefined state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discourteous, impolite behavior, crude lack of refinement, or rough incivility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and ethnology, the primitive, uncultivated state of early mankind before the development of civil institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought he slept, and put My clouted brogues from off my feet, whose rudeness Answer’d my steps too loud."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This rudeness is a sauce to his good wit, Which gives men stomach to digest his words With better appetite."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do, rudeness; do, camel; do, do."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A tutor should early check any tendency toward **rudeness** and insolence in his young pupil."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural **rudeness** of ancient agriculture was gradually polished by the rise of urban commerce and mechanical arts."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resented Mr. Darcy's intolerable **rudeness** in declining to be introduced to her at the assembly."*

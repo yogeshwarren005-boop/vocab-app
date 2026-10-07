@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support or foundation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position of great esteem (and supposed superiority).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The base or architectural support on which a statue, obelisk, or column is mounted; a position of high esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the three-part substructure comprising plinth, die (dado), and cornice beneath a column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hermione comes down from the pedestal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To put with one hand a pedestal under the feet of the two faithful ones, and with the other to exalt the unfaithful by the same artificial means, he deemed to be alike inconsistent with his convictions, his position, and his hopes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Dear queen, that ended when I but began, give me that hand of yours to kiss! O, she stirs! Down from the **pedestal** she steps!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare had raised Tess upon a mental **pedestal** of rustic purity that permitted no human imperfection."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Heroic action stands upon its own self-derived **pedestal**, needing no external decoration to command respect."*

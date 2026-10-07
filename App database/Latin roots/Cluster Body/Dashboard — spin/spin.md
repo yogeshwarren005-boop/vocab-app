@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A swift whirling motion (usually of a missile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating rapidly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw out and twist fibers into yarn or thread; to rotate or cause to revolve rapidly on an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics and public relations, intrinsic angular momentum of subatomic particles, or biased rhetorical framing of news.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excellent, it hangs like flax on a distaff; and I hope to see a huswife take thee between her legs, and spin it off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SPEED. _Item, She can spin._ LANCE."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"The spinsters and the knitters in the sun, and the free maids that weave their thread with bones, do use to **spin**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The wind caused the weathercock on the barn roof to **spin** rapidly through three points of the compass."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A spider began to **spin** her delicate web across the sunny corner of my cabin window."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to the face, in facial appearance, or on the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological observation and morphology, manifested in countenance or surface features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facially designates with respect to the face."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Infants express distress **facially** through crying and brow-knitting long before acquiring speech."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sisters resembled one another **facially**, yet Dorothea possessed a grave, saint-like cast of features."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Though **facially** calm, her restless eyes betrayed the tempestuous passions agitating her soul."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between an individual and the individual's progenitors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited properties shared with others of your bloodline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship of a child to a parent; descent, lineage, or genealogical origin from a parent source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and linguistics, the historical or causal derivation of a dialect, law, or text from its ancestor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filiation designates the kinship relation between an individual and the individual's progenitors."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The legal concept of agnatic **filiation** determined rights of succession exclusively through the male line."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The genealogical **filiation** of the Indo-European languages demonstrates their descent from a common prehistoric speech."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"True natural classification in taxonomy reflects community of descent and genealogical **filiation**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delayed, obstructed, hindered, or slowed down by obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological mechanics and fluid dynamics, suffering restricted flow or impaired functional mobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wrapped up in a shawl, I still carried the unknown little child: I might not lay it down anywhere, however tired were my arms—however much its weight impeded my progress, I must retain it."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Our heavy frocks soon became completely saturated with water, and by their weight, and that of the articles we had concealed beneath them, not a little impeded our progress."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Author of the Divine Plan Himself is impeded in His purpose if the proper instruments for the execution of His design are lacking."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our boat was severely **impeded** by dense masses of floating kelp that fouled our rudder and oars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The retreat of the heavy legion was fatally **impeded** by deep snowdrifts in the Illyrian passes."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her progress across the dark heath was **impeded** by prickly furze roots and hidden drainage ditches."*

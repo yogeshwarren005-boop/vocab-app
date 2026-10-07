@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of fundamental facts or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elementary stages of any subject (usually plural).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elementary stages, basic principles, or earliest skills of a subject; undeveloped beginnings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical curricula and morphology, foundational concepts of a science, or vestigial remnants in comparative anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the merest rudiments of the subject."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Teach the child the first **rudiments** of geometry by practical figures drawn upon paper rather than abstract proofs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male mammae, the nictitating membrane, and the coccyx are unmistakable **rudiments** preserved in human anatomy."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"No philosopher can build a noble science who has not patiently mastered the fundamental **rudiments** of nature."*

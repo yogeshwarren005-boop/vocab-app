@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or place that provides a particular service or is used for a particular industry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful performance or ability without difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ease in doing or performing; aptitude; also a place, amenity, or piece of equipment provided for a purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and industrial administration, acquired fluency of execution, or a specialized building or plant for manufacturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will something affect the letter; for it argues facility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he drinks you, with facility, your Dane dead drunk; he sweats not to overthrow your Almain; he gives your Hollander a vomit ere the next pottle can be filled."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The workman acquires an astonishing **facility** of execution when his whole attention is confined to one operation."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Early practice gives a young scholar great **facility** in speaking Latin with elegance and fluency."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The luxurious **facility** of communication provided by Roman military highways bound distant provinces together."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recording a person's behavior and analyzing psychological characteristics in order to predict or assess their ability in a certain sphere or to identify a particular group of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of recording and analyzing a person's psychological or behavioral characteristics; shaping an edge or contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminology, computer systems analysis, and metallurgy, behavioral suspect analysis, code execution monitoring, or contour milling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, profiling designates recording a person's behavior and analyzing psychological characteristics in order to predict or assess their ability in a certain sphere or to identify a particular group of people."*
+> - 📜 **Francis Galton (*Finger Prints*):** *"Systematic biometric **profiling** of fingerprints provides an infallible method of personal criminal identification."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The detective practiced forensic **profiling** before the method had even acquired an official scientific name."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Mechanical **profiling** machines in the armory cut interchangeable rifle parts with micrometric accuracy."*

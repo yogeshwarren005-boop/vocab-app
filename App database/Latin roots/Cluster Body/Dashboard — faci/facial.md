@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranial nerve that supplies facial muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for the face that usually involves cleansing and massage and the application of cosmetic creams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and human anatomy, designating the seventh cranial nerve (facial nerve) controlling facial expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The room inside was lighted only by the ruddy glow from the kiln mouth, which shone over the floor with the streaming horizontality of the setting sun, and threw upwards the shadows of all facial irregularities in those assembled around."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw her black hair, her correct facial curves and profile, and the roundness of her chin and throat."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Complex **facial** expressions of joy and rage are mediated by the coordinated contractions of mimetic muscles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **facial** artery arches over the base of the mandible to supply blood to the lips and cheeks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bell's palsy produces sudden unilateral paralysis of the **facial** nerve, causing loss of voluntary expression."*

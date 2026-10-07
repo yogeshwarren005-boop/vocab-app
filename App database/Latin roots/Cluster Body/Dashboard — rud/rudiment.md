@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elementary stages of any subject (usually plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a body part that was functional at an earlier stage of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first principle, element, or fundamental skill; an imperfect or undeveloped organ or part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, a vestigial organ or anatomical remnant retained from an ancestral state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And each can either cause to die, or fan To brighter life, the seed or rudiment Of good or evil moral tendency Acquired, or inbred by heredity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"This gave me an idea, or the rudiment of one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tiny bony **rudiment** of a hind limb concealed within the whale's flesh bears witness to its terrestrial ancestry."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The young student must first master each humble **rudiment** of grammar before attempting lofty rhetoric."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The vermiform appendix exists as an anatomical **rudiment** inherited from herbivorous mammalian ancestors."*

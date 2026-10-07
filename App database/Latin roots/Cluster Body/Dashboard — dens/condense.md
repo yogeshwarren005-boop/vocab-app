@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more concise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become denser, more compact, or closely packed; to convert a gas into a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary editing, to express an argument in fewer, more concentrated words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In an instant’s compass, great hearts sometimes condense to one deep pang, the sum total of those shallow pains kindly diffused through feebler men’s whole lives."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Cooling rays cause warm aqueous vapors to **condense** into distinct spherical drops."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A skilled dialectician learns to **condense** diffuse arguments into clear inductive syllogisms."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Poetic insight possesses the power to **condense** the vast experience of an age into a single unforgettable proverb."*

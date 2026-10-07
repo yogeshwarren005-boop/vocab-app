@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of or befitting a sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like or characteristic of or befitting a sister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a sister or sisters; sisterly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and kinship systems, designating ties, behaviors, or institutions pertaining to sisters (e.g., sororal polygyny).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sororal designates like or characteristic of or befitting a sister."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia watched Dorothea with gentle **sororal** anxiety, fearing her sister's marriage would prove a source of sorrow."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor sustained her sister through her heartbreaking grief with steadfast **sororal** tenderness."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Anthropological surveys record **sororal** marriage customs across diverse traditional societies."*

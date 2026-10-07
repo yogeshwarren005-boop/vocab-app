@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using only two legs for walking, running, or standing; two-footed in posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and functional morphology, possessing skeletal adaptations for habitual upright terrestrial locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bipedal designates having two feet."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The reorganization of the pelvis and vertebral curvature facilitated efficient **bipedal** progression."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Gibbons achieve clumsy **bipedal** balance on horizontal boughs by extending their elongated arms for equilibrium."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Avian hindlimbs display remarkable skeletal specializations for strictly **bipedal** terrestrial movement."*

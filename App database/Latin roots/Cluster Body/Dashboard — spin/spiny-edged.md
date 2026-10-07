@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a spiny border.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a spiny border.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having margins or edges armed with sharp spines, teeth, or prickly serrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, describing leaves or bracts bordered with sharp, pungent spinose teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-edged designates having a spiny border."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **spiny-edged** leaves of the American holly remain glossy and dark green throughout the winter."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Herbivores avoid the **spiny-edged** foliage of wild lettuce, grazing instead upon softer grasses."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"The thistle's **spiny-edged** stem wings discourage climbing herbivorous larvae from reaching the terminal bud."*

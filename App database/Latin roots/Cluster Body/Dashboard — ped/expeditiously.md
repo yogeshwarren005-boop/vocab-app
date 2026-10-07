@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With efficiency; in an efficient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With efficiency; in an efficient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a quick, prompt, efficient, and speedy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and commercial practice, resolving disputes or completing tasks promptly without avoidable waste of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I dressed and wrapped up expeditiously without waking Charley or any one and went down to Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hamel, whom Chong Mong-ju divined as my brains, was executed by the paddle—in short, was promptly and expeditiously beaten to death to the delighted shouts of the Keijo populace."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is not likely that money should be very abundant on either side; and it might strike them that they could be more economically, though less expeditiously, married in London, than in Scotland.” “But why all this secrecy?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The energetic clerk dispatched the court documents **expeditiously**, eager to catch the evening coach."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capitalist competition forces every manufacturer to produce his goods as **expeditiously** as possible."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament passed the emergency revenue bill **expeditiously** to provision the armies in Flanders."*

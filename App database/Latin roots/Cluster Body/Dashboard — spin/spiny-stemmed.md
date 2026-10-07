@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a spiny stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a spiny stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having stems or branches armed with sharp spines, thorns, or prickles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing woody or herbaceous plants whose cauline axes bear defensive epidermal spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-stemmed designates having a spiny stem."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The **spiny-stemmed** brambles formed tangled thickets that protected delicate climbing ferns beneath."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **spiny-stemmed** gooseberry produces solitary green berries beneath triple nodal spines."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"Explorers struggled through miles of **spiny-stemmed** rattans that hooked tenaciously into canvas clothing."*

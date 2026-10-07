@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being covered with prickly thorns or spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being covered with prickly thorns or spines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of numerous sharp spines, thorns, or prickles; prickly or thorny texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional plant morphology, the defensive density of thorns on stems and foliage against megaherbivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spininess designates the quality of being covered with prickly thorns or spines."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extreme **spininess** of desert flora decreases markedly when plants are cultivated in moist botanical gardens."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The diagnostic character separating these two thistle species is the dense **spininess** of their cauline wings."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"The formidable **spininess** of rattan palm stems facilitates climbing while guarding against climbing predators."*

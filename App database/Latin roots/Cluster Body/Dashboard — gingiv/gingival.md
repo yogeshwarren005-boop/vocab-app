@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the gums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the gums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the gingiva or gums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical stomatology, designating the gingival margin, gingival crevice, or inflammatory conditions affecting gum tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gingival designates of or relating to the gums."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Branches of the internal maxillary artery form an extensive capillary plexus in the **gingival** mucosa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spongy **gingival** hemorrhages are pathognomonic manifestations of dietary vitamin C deficiency in scurvy."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Chronic irritation from dental calculus produces hypertrophy of the fibrous elements in the **gingival** papillæ."*

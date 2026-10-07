@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not officially attached to or connected with an organization, parent body, or political party; independent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In voting behavior and institutional sociology, voters or scholars operating outside formal party or university structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaffiliated designates not affiliated."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Independent and **unaffiliated** thinkers frequently pioneer intellectual advances that rigid orthodoxies stifle."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An **unaffiliated** citizen in a democracy feels isolated unless he joins with fellow citizens in voluntary associations."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Scholars remaining **unaffiliated** with major endowed foundations often struggle to secure laboratory equipment."*

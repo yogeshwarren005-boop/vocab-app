@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the back covered with spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the back covered with spines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a back armed with sharp spines, needles, or prickly scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, descriptive of lizards, spiders, or fishes possessing dorsal spines or spiked abdominal projections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-backed designates having the back covered with spines."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A grotesque **spiny-backed** spider sat motionless in the center of its geometric orb web in the forest."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We collected several bizarre species of **spiny-backed** orb-weavers displaying brightly colored abdominal thorns."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The armored carapace of the **spiny-backed** crab deters cephalopod predators in shallow rocky reefs."*

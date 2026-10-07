@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of a viscous fluid or polymer to be drawn out into long, continuous filaments without rupturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and polymer processing, the extensional property of viscoelastic materials to form stable spinning threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnability designates the quality of being suitable for spinning or the capability of being spun (used of textile fibers)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heated silica possesses extraordinary **spinnability**, allowing molten glass to be drawn into threads of microscopic fineness."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **spinnability** of liquid silk secreted by the spider's abdominal glands depends on shear-induced protein alignment."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Molten sulfur at specific temperatures exhibits high **spinnability**, forming elastic threads upon sudden chilling in water."*

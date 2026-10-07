@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being prompt and efficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being prompt and efficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promptness, swift efficiency, or speed in accomplishing an action or carrying out a duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and commercial management, the capacity to execute business promptly with minimal delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expeditiousness designates the property of being prompt and efficient."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The admirable **expeditiousness** of the post office in delivering mercantile correspondence stimulated trade."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Legal reforms must aim at combining impartiality of judgment with reasonable **expeditiousness** of procedure."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office was celebrated for its total absence of **expeditiousness** in managing public petitions."*

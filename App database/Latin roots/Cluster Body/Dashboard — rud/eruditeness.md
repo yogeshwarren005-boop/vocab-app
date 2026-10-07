@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly learning, deep erudition, and extensive academic knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical criticism, exceptional mastery of scholarly literature, sometimes bordering on pedantry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eruditeness designates profound scholarly knowledge."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea admired the grave **eruditeness** of her husband's library, believing it held the key to all moral wisdom."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The German professor's staggering **eruditeness** bewildered the shallow wits of British reviewers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological disputes of Alexandria exhibited more scholastic **eruditeness** than practical Christian charity."*

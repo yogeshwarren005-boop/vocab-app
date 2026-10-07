@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by speed and efficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by speed and efficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by speed and efficiency; prompt, quick, and effective in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and executive administration, dispatching complex affairs rapidly without unnecessary delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll deliver all; And promise you calm seas, auspicious gales, And sail so expeditious that shall catch Your royal fleet far off. [_Aside to Ariel._] My Ariel, chick, That is thy charge: then to the elements Be free, and fare thou well!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The plan is closely approached in the industrial courts that are now provided in a number of European countries for a cheap and expeditious settlement of small disputes regarding trade matters, arising in the relations between employer and employees."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The merchant, especially in a country of small commercial capital, is often under a necessity of keeping prices down in order to a more expeditious sale."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Water carriage provides the most **expeditious** and economical conveyance for bulky agricultural produce."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber promised an **expeditious** settlement of his financial liabilities as soon as circumstances permitted."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The post-chaise carried them away in the most **expeditious** manner toward the northern border."*

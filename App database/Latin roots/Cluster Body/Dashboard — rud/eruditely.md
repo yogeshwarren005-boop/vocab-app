@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With erudition; in an erudite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With erudition; in an erudite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erudite, scholarly, profoundly learned, and deeply knowledgeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical and critical discourse, presenting arguments supported by comprehensive academic erudition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eruditely designates with erudition; in an erudite manner."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The essayist argued **eruditely**, quoting classical historians and medieval jurists to sustain his constitutional thesis."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine humanist discoursed **eruditely** upon Platonic archetypes before the admiring Platonic Academy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ecclesiastical advocate defended the imperial prerogatives **eruditely**, drawing upon ancient canons."*

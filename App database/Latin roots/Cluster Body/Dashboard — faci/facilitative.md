@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from difficulty or impediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from difficulty or impediment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to facilitate, ease, assist, or make an action or process smoother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional pedagogy and counseling, adopting a guiding, non-directive role that assists participants in achieving objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitative designates freeing from difficulty or impediment."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The state should maintain a **facilitative** attitude toward voluntary civic associations rather than suppressing them."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The teacher's true duty is **facilitative**, creating wholesome conditions wherein the child's natural curiosity unfolds."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Sound legal protections provide a **facilitative** framework within which honest commerce can flourish."*

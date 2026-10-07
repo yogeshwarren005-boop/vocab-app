@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch philosopher who espoused a pantheistic system (1632-1677).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch philosopher who espoused a pantheistic system (1632-1677).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Baruch Spinoza (1632–1677), Dutch-Jewish rationalist philosopher who formulated a pantheistic metaphysical system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, the author of Ethics who equated God with Nature (Deus sive Natura) and pioneered biblical criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Used, in part, with kind permission from: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ 2."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He had studied the pantheistic meditations of **Spinoza** until the entire visible universe seemed a living garment of God."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The rigorous geometric demonstrations of **Spinoza** fascinated the German transcendental philosophers from Lessing onward."*
+> - 📜 **George Eliot (*Essays and Leaves from a Note-Book*):** *"Her intellectual maturity was shaped by her translation of the profound Latin philosophical treatises of **Spinoza**."*

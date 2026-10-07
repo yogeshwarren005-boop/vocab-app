@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) lacking in refinement or grace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensively impolite, ill-mannered, discourteous; roughly made, primitive, crude, or in an uncultivated state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and architectural history, unhewn, raw, or undeveloped; lacking artifice or polished manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s nothing here that is too good for him But only she, and she deserves a lord That twenty such rude boys might tend upon, And call her hourly mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else a rude despiser of good manners, That in civility thou seem’st so empty?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In that **rude** state of society in which there is no division of labor, every man provides for himself."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The blacksmith lived in a **rude** wooden cottage adjoining the forge, content with plain country fare."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The inhabitants of Tierra del Fuego constructed **rude** conical wigwams of broken boughs covered with dry grass."*

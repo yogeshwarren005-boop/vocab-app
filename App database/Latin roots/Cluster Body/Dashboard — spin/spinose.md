@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having spines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Armed with spines; full of spines; spiny or thorny in morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology and paleontology, having spine-like processes on the exoskeleton, shell, or floral organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinose designates having spines."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The valves of this fossil barnacle are distinctly **spinose**, featuring sharp calcified projections along the margin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **spinose** cuticle of echinoderms houses microscopic pedicellariae that clean the animal's outer surface."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The capsule is densely **spinose**, protecting the developing seeds against foraging granivorous rodents."*

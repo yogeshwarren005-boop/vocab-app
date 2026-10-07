@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin gingiv within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of gingiv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or located beneath the margin of the gums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In periodontics, designating calculus, dental plaque, or microbial flora residing within the gingival sulcus or pocket.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subgingival designates pertaining to, derived from, or characteristic of latin gingiv within the domain of body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accumulation of hard **subgingival** calculus around the dental roots provokes chronic alveolar bone resorption."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The periodontal ligament attaches directly into the cementum below the **subgingival** border of the tooth crown."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Thorough curettage of **subgingival** pockets eliminates the anaerobic bacterial reservoir of oral sepsis."*

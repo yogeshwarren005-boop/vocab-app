@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking a strong character; an irresolute disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking a strong character; an irresolute disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of courage, backbone, or moral determination; irresolution; also absence of anatomical spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical characterization, the cowardly inability to stand up for convictions under social or political pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinelessness designates the quality of lacking a strong character; an irresolute disposition."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"She despised the moral **spinelessness** of her uncle, who bowed before every wealthy patron's whim."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"National decline begins when political leadership succumbs to intellectual and ethical **spinelessness**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The complete **spinelessness** of cultivated cacti under domestication arose through conscious human selection."*

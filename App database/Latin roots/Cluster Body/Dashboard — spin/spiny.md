@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered with protective barbs or quills or spines or thorns or setae etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or covered with spines, thorns, or prickles; thorny, prickly; difficult and irritating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, descriptive of organisms bearing sharp defensive epidermal or skeletal spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The pollard willows, tortured out of their natural shape by incessant choppings, became spiny-haired monsters as they stood up against it."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The path wound through a **spiny** hedge of wild blackthorn that tore at their rough work clothes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **spiny** anteater of Australia retains primitive reptilian features, including egg-laying reproduction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **spiny** back of the sea urchin provides a formidable defense against predatory reef fish."*

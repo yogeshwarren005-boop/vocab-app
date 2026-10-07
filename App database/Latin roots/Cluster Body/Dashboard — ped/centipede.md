@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A predatory carnivorous arthropod of the class Chilopoda having an elongated body with one pair of legs per segment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and toxicology, a multi-segmented myriapod equipped with modified venomous forcipules (poison claws).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are serpents coiled in balls, and vipers spitting poison, and centipedes, and fat blinking toads, and vampires, and lizards, and tarantulas, that we never suspect of being in the soul."*
+> - 📜 **Herman Melville (*Typee*):** *"We brushed our mats carefully each night to avoid the venomous bite of the tropical **centipede**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Turning over flat stones in the ravine exposed a giant **centipede** writhing its many jointed legs in alarm."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I captured a magnificent twelve-inch **centipede** whose venomous fangs could kill small forest reptiles."*

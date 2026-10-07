@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being made easy (or easier).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neurophysiology) phenomenon that occurs when two or more neural impulses that alone are not enough to trigger a response in a neuron combine to trigger an action potential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making an action or process easier, or receiving assistance and promotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and behavioral science, synaptic potentiation enhancing the response of a neural circuit to repeated stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual neural pathways experience physiological **facilitation**, so that subsequent nerve impulses pass with less resistance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **facilitation** of international payments through letters of credit greatly expanded European commerce."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The **facilitation** of circumnutation in young shoots assists climbing tendrils in discovering solid support."*

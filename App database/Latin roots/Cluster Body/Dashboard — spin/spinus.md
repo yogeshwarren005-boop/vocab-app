@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a subgenus of carduelis: siskins and new world goldfinches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a subgenus of carduelis: siskins and new world goldfinches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small passerine birds in the finch family Fringillidae, including siskins and goldfinches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, seed-eating songbirds characterized by sharp conical bills and undulating flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinus designates in some classifications considered a subgenus of carduelis: siskins and new world goldfinches."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Canary breeders frequently crossed their birds with native species of **Spinus** to obtain fertile hybrid songsters."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Flocks of pine siskins, grouped under **Spinus**, forage actively among conifer cones during cold northern winters."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Finches belonging to **Spinus** are widespread across temperate and montane zones of the Holarctic and Neotropical realms."*

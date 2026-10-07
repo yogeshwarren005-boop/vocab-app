@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining density or specific gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining density or specific gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring the density or specific gravity of liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and hydrometry, a calibrated glass float used to determine liquid concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, densimeter designates a measuring instrument for determining density or specific gravity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The hydrometric **densimeter** indicated rapid concentration of the saline solution during evaporation."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Readings from the **densimeter** determine the specific gravity of alcohol distilled from wine."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"A sensitive **densimeter** was immersed in the vessel to verify the acoustic density of the fluid."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spiny leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having spiny leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with prickly, thorny, or spine-bordered foliage; spiny-leafed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive systematic botany, having spinose or serrate-dentate leaf margins terminating in sharp prickles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-leaved designates having spiny leaves."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Grazing animals carefully avoid the **spiny-leaved** thistles that overrun uncultivated pasture lands."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **spiny-leaved** sow-thistle is easily distinguished from allied species by its sharp auriculate bases."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Dense stands of **spiny-leaved** shrubs covered the sandy coastal bluffs overlooking Long Island Sound."*

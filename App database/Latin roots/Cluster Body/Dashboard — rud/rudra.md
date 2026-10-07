@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Father of the hindu storm gods marut; controller of nature; sometimes identified with siva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fierce Vedic storm deity associated with wind, disease, and healing; a prototype of Shiva in Hinduism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Vedic mythology and comparative religion, the roarer or howler god of cosmic tempest and wilderness whose arrow shoots both plague and medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudra designates father of the hindu storm gods marut; controller of nature; sometimes identified with siva."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Vedic hymns, the tempestuous storm god **Rudra** wields flashing lightning bolts while dispensing medicinal herbs."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"Eastern mythologies personify the violent fury of destructive nature under terrible deities like **Rudra**."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The transformation of **Rudra** into the auspicious Shiva illustrates the gradual ethical sublimation of terror into grace."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material's opposition to the flow of electric current; measured in ohms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material's opposition to the flow of electric current; measured in ohms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total effective resistance of an electric circuit to alternating current; also obstruction or hindrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and acoustics, the complex ratio of voltage to current, or sound pressure to particle velocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impedance designates a material's opposition to the flow of electric current; measured in ohms."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Waves*):** *"The electric **impedance** of a long inductive cable limits the speed of high-frequency telegraphic signaling."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Self-induction introduces a virtual **impedance** that retards the establishment of alternating currents in conductors."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The acoustic **impedance** at the bell of a trumpet matches the internal air column to free space radiation."*

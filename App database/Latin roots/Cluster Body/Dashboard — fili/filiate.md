@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix the paternity of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix the paternity of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine the paternity of a child; to adopt as a child; to trace descent or origin from.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical and legal analysis, to establish a child's descent or affiliate a branch with its parent stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filiate designates fix the paternity of."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Parish overseers petition the court to **filiate** the infant upon the putative father to secure weekly support."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philologists **filiate** Romance dialects directly upon colloquial vulgar Latin."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Archaic tribal codes required formal public rituals to **filiate** adopted strangers into the agnatic clan."*

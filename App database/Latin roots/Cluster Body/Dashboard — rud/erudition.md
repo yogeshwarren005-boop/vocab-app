@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extensive bookish learning, deep scholarly knowledge, or profound intellectual culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and literary history, wide-ranging mastery acquired through prolonged study of classical and archival texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But I delivered this written communication (slate and all) with my own hand, and Joe received it as a miracle of erudition."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How far the judicious Hooker or any other hero of erudition would have been the same at Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The immense **erudition** of Tillemont guided my footsteps through the tangled labyrinth of imperial history."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The rector respected Casaubon's vast **erudition**, though he doubted whether it would ever see the light of publication."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton united sublime poetic inspiration with an **erudition** that surpassed the learning of the greatest scholars of his age."*

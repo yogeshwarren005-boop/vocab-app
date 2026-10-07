@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spinach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spinach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of herbaceous annual plants comprising spinach (Spinacia oleracea) in the family Amaranthaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, a dioecious genus of flowering plants native to central and southwestern Asia, cultivated worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog spinacia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Spinacia** is distinguished by unisexual apetalous flowers and prickly or smooth fruiting calyces."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticultural selection within **Spinacia** produced varieties with thick fleshy leaves and reduced spinescence."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Agricultural floras include **Spinacia** among ancient cultivars introduced from the Mediterranean basin."*

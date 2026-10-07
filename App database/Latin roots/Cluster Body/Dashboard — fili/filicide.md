@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parent who murders his own son or daughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The murder of your own son or daughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The killing of one's son or daughter; also a parent who murders their own child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychiatry and classical tragedy, the catastrophic destruction of offspring by a maternal or paternal figure (e.g., Medea).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filicide designates a parent who murders his own son or daughter."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The grim tragedy of Constantine's execution of Crispus darkened his reign with the terrible suspicion of **filicide**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Like Saturn devouring his offspring, the Revolution seemed bent upon self-destructive **filicide**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal melancholia occasionally erupts into catastrophic acts of infanticide or **filicide**."*

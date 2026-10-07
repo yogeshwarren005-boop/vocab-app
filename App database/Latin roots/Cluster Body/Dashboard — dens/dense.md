@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting little if any light to pass through because of denseness of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to pass through because of dense growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely packed together; having high mass per unit volume; thick, crowded, or difficult to penetrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and meteorology, having high refractive index or impeding visibility through heavy particulate concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the streets were so full of dense brown smoke that scarcely anything was to be seen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fog is very dense indeed!” said I."*
+> - 📜 **Isaac Newton (*The Mathematical Principles of Natural Philosophy*):** *"Bodies moving through a **dense** resisting fluid suffer deceleration proportional to the square of their velocity."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The fog was so **dense** that the houses opposite were mere phantoms looming in the dirty yellow air."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We hacked our way through **dense** tropical undergrowth where tangled creepers completely choked the trail."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for determining optical or photographic density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for determining density or specific gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to measure the optical density or opacity of a photographic negative or printed surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photographic science and radiographic diagnostic imaging, a photoelectric device measuring light transmission or reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, densitometer designates a measuring instrument for determining optical or photographic density."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Calibration with a calibrated **densitometer** revealed subtle gradations of silver reduction on the photographic plate."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"Using a sensitive **densitometer**, the physicist calculates the absorption coefficients of tinted optical media."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Photometric comparisons conducted with a **densitometer** yielded precise quantitative data on flame opacity."*

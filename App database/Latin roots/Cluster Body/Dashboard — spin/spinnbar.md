@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being spun into fibres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being spun into fibres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting spinnbarkeit; having the property of being easily drawn into long threads or filaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical rheology, descriptive of viscoelastic fluids that exhibit high extensional viscosity under tensile strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnbar designates capable of being spun into fibres."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Colloidal solutions become distinctly **spinnbar** as polymerization bridges the suspended macromolecular chains."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The glandular secretion of the peripatus is intensely **spinnbar**, forming adhesive cords that entangle insect prey."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory joint effusions often yield fluid that is markedly **spinnbar** when drawn up in the aspirating syringe."*

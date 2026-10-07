@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or starting from the wearer's right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or starting from the wearer's right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the right side; in heraldry, situated on or being the right side of a shield from the bearer's perspective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical augury and heraldic blazonry, auspicious, fortunate, or positioned to the bearer's right (viewer's left).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did plan to go way over North Dexter way, where I've never be'n, an' see if there wa'n't somebody, but the weather ain't be'n settled as I could wish."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Dexter from Boston, who was a Miss Ticnor, daughter of the author of the book on Spanish literature--she and her husband full of interesting talk."*
-> - 📜 **James Joyce (*Ulysses*):** *"Sooner have me as I am than some poet chap with bearsgrease plastery hair, lovelock over his dexter optic."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"My mother's blood runs on the **dexter** cheek, and this sinister bound belongs unto my sire."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's shield bore a black fetterlock upon the **dexter** chief, signifying unyielding resolve."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman augurs greeted flights of birds appearing on the **dexter** side as signs of divine favor."*

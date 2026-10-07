@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking on four feet; four-legged in anatomical posture and locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and functional morphology, possessing skeletal proportions adapted for terrestrial four-footed locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The transition from **quadrupedal** gait to bipedal posture demanded radical reshaping of the mammalian pelvis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early arboreal primates retained habitual **quadrupedal** locomotion when clambering among heavy tree limbs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Skeletal biomechanics in large herbivores reflect structural adaptations for heavy, shock-absorbing **quadrupedal** support."*

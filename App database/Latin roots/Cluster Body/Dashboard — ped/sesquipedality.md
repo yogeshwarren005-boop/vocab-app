@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using long words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using long words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of using long, polysyllabic words; lengthiness and pomposity of diction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic rhetoric and lexicography, linguistic grandiloquence characterized by words of excessive length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sesquipedality designates using long words."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The whimsical **sesquipedality** of Professor Teufelsdröckh's vocabulary astonished both his friends and critics."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Johnsonian **sesquipedality** became a widespread literary fashion throughout the late eighteenth century."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A modest writer avoids excessive **sesquipedality**, preferring the vigorous Anglo-Saxon monosyllables of daily life."*

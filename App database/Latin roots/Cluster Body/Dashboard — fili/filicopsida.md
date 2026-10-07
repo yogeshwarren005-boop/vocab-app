@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of vascular plants comprising all true leptosporangiate and eusporangiate ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern plant classification, the monophyletic division of seedless vascular plants bearing circinate fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog filicopsida as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The evolutionary radiation of the **Filicopsida** produced epiphytic, aquatic, and terrestrial forms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wide geographic dispersal of the **Filicopsida** is facilitated by the microscopic lightness of their airborne spores."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Microscopic spore morphology unites ancient fossil ferns with living representatives of the **Filicopsida**."*

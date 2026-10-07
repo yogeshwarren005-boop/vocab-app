@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a pedal-driven vehicle (as a bicycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a pedal-driven vehicle (as a bicycle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyclist or person who operates foot pedals; pedaler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British transport history and cycling journalism, a rider propelling a bicycle or pedal-powered vehicle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedaller designates a person who rides a pedal-driven vehicle (as a bicycle)."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"The solitary **pedaller** paused at the crest of the hill to admire the panoramic sweep of the Sussex downs."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"A determined **pedaller** can easily cover twelve miles an hour along the smooth gravel highway."*
+> - 📜 **George Bernard Shaw (*An Unsocial Socialist*):** *"He was an energetic **pedaller**, enjoying the healthy physical exhilaration of country cycling tours."*

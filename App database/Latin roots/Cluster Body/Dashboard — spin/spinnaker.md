@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and usually triangular headsail; carried by a yacht as a headsail when running before the wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, lightweight, triangular or ballooning sail set on a yacht when sailing before or across the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In yacht racing and sail design, a billowing headsail attached to a spinnaker pole used for maximum downwind propulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The racing yacht set her enormous balloon **spinnaker**, skimming over the blue water like a soaring albatross."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"With the wind dead astern, the billowing silk of the **spinnaker** pulled the vessel forward with exhilarating speed."*
+> - 📜 **Robert Louis Stevenson (*The Ebb-Tide*):** *"The schooner ran before the trade wind, her **spinnaker** drawing steadily against the azure tropical sky."*

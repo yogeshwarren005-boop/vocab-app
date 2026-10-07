@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin spin within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of spin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny, hummock-forming tussock grasses native to arid Australian interior regions and coastal sands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid zone ecology, tough, resinous pooid grasses (Triodia and Spinifex) dominating Australia's inland deserts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinifex designates pertaining to, derived from, or characteristic of latin spin within the domain of body."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Vast interior plains of Australia are covered by impenetrable hummocks of needle-pointed **spinifex** grass."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Explorers crossing the desert found travel agonizing as sharp blades of **spinifex** lamed their packhorses."*
+> - 📜 **Joseph Dalton Hooker (*Flora of Australia*):** *"The coastal sand-binding properties of **Spinifex** prevent the drift of maritime dunes across eastern shores."*

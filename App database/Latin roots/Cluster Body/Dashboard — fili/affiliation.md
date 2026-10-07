@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social or business relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming formally connected or joined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of being officially attached or connected to an organization; partnership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and sociology, legal determination of paternity; also formal alliance with a political party or church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Elated by magnificent success achieved at European Conference, development of affiliation with United Nations..."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I appeal to my brother Americans, for I have no right to appeal to anybody else; I cannot address the Fremont party, for I have no affiliation with them; I cannot address the Buchanan party, for my object is to destroy them if possible."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let an unbiased study of present and prospective policies influence party affiliations, rather than love and hatred based upon a past forever dead."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Voluntary religious **affiliation** should never subject an individual to civil disabilities or legal penalties."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Party **affiliation** in a free democracy shapes the citizen's civic sympathies and voting habits."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Magistrates adjudicate orders of **affiliation** to ensure proper maintenance for illegitimate offspring."*

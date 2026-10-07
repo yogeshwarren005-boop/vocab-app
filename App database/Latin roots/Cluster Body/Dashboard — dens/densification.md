@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increase in the density of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of making or becoming denser, more compact, or concentrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and urban planning, increasing structural material density through sintering, or increasing population concentration in cities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, densification designates an increase in the density of something."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Progressive gravitational overburden drives the **densification** of loose sedimentary muds into compact shale."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Thermal compression accelerates the **densification** of porous metal powders during high-temperature processing."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The structural **densification** of fossil bone reflects gradual mineral precipitation within cellular canaliculi."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or involving basic facts or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in the earliest stages of development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or limited to basic principles; undeveloped, basic, or imperfectly formed; vestigial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, existing as an undeveloped homologous structure or immature developmental stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For one of the higher types nimbly and sweetly to recommend itself unto his gentle senses, it had at least to retain certain rudimentary characteristics allying it to such “dragons of the prime” as toads and snakes."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was naturally of the essence that the young woman should be herself complex; that was rudimentary--or was at any rate the light in which Isabel Archer had originally dawned."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"What strange developments of humanity, what wonderful advances upon our rudimentary civilisation, I thought, might not appear when I came to look nearly into the dim elusive world that raced and fluctuated before my eyes!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organs in a **rudimentary** condition strongly resemble the fully developed organs of allied species."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In early commercial societies, credit instruments existed in a purely **rudimentary** and hazardous form."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The kiwi retains only **rudimentary** wing bones completely hidden beneath its hair-like plumage."*

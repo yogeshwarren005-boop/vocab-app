@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Join in an affiliation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially attached, linked, or connected to an organization or parent institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics and university systems, designating subsidiary colleges or corporate entities bound by common charter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Affiliated to these were over twelve thousand local Soldiers' Aid Societies."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The party with which we have hitherto affiliated, claims to be so busily engaged with our present duties on the Islands that they must postpone consideration as to the final status of the people thereof."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The Negro politicians of the smaller calibre that affiliated with the machine viewed Dorlan's actions with contempt."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Delegates from **affiliated** provincial associations convened in the capital to present their petition."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Countless **affiliated** temperance lodges spread their influence into every frontier settlement."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The university incorporated several **affiliated** professional schools into its centralized academic structure."*

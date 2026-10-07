@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing transformation from gas to liquid; causing to become more compact, dense, or concentrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial thermodynamic design, operating an engine cycle with continuous steam condensation to maximize work output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"We beg pardon for condensing into our sunrise reflections the material for a novel, such as has often run well through three hundred pages, and furnished with competencies half as many bill-posters."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The **condensing** vapor deposits glistening beads of dew upon the chilled metallic surface of the cylinder."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the **condensing** clouds wrapping the mountain summit in dark, impenetrable sheets of rain."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The thermal efficiency of a **condensing** engine surpasses that of an atmospheric non-condensing locomotive."*

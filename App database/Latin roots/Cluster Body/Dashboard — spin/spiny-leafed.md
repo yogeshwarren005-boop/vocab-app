@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spiny leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having spiny leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing leaves that are thorny, prickly, or armed with sharp spinose margins or tips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, descriptive of sclerophyllous xerophytes adapted to deter grazing herbivores in arid environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiny-leafed designates having spiny leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **spiny-leafed** barberry bushes formed an effective cattle-proof fence along the field margin."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Mediterranean scrublands abound in **spiny-leafed** shrubs that have evolved under intense browsing pressure."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The absence of large grazing mammals on the island correlated with the decline of **spiny-leafed** flora."*

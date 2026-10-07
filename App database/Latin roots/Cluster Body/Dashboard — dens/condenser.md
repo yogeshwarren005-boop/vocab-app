@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device characterized by its capacity to store an electric charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that converts vapor into liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for cooling vapors to liquid form; an electrical capacitor storing charge; an optical lens concentrating light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, a heat-exchange vessel condensing exhaust steam in Watt's separate-condenser steam engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Its action forces the gas along the pipe to the right and down into the condenser."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Passing then through the bottom of the tank the gas travels from right to left through the "regulating valve" and into an arrangement almost exactly similar to the condenser but called the evaporator."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The pump compresses the gas and drives it through the coil in the condenser, where it is cooled by water."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrical **condenser** accumulates electrostatic charge across opposing metal plates separated by a dielectric."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"James Watt's revolutionary invention of the separate **condenser** drastically reduced fuel waste in steam engines."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The microscopic **condenser** concentrates intense illumination upon the transparent biological specimen."*

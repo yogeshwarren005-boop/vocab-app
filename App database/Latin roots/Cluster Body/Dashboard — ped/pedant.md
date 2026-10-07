@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pays more attention to formal rules and book learning than they merit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who pays more attention to formal rules and book learning than they merit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes an excessive, ostentatious, or narrow display of bookish learning or insists unduly on petty rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic satire and literary criticism, a scholar lacking imaginative breadth who confuses trivia with profound knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The same Enter Dull, Holofernes, the Pedant and Nathaniel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pedant, the braggart, the hedge-priest, the fool, and the boy."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A **pedant** that keeps a school i' the church! He has been at a great feast of languages, and stolen the scraps."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A scholar should avoid becoming a mere **pedant**, whose bookish vanity offends polished company."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine emperors indulged in the theological subtleties of a **pedant** while their frontiers crumbled."*

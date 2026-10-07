@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make easier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be of use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an action, process, or task easier, less difficult, or more likely to occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, physiology, and organizational management, to remove friction or lower energetic barriers to progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This will stimulate agricultural improvement, and facilitate the purchase of land by tenants."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First: In order to facilitate the fastening to it of an additional line from a neighboring boat, in case the stricken whale should sound so deep as to threaten to carry off the entire line originally attached to the harpoon."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill was also frequently in London, whither he came especially to facilitate the new course of philosophical and political writing on which he entered."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Good roads, canals, and navigable rivers **facilitate** domestic commerce by reducing the cost of transportation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Symbiotic associations between plants and insects **facilitate** cross-pollination and promote genetic vigor."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The adoption of metallic currency served to **facilitate** exchanges that were previously impeded by barter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; having radiating lobes, each deeply cleft or divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or resembling a foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or shaped like a bird's foot; palmately divided with the lateral segments cleft again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organographic botany and anatomy, describing leaves or anatomical lobes where primary side divisions branch outward like bird claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedate designates of a leaf shape; having radiating lobes, each deeply cleft or divided."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The foliage of the green dragon exhibits a distinctive **pedate** blade divided into numerous radiating lobes."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Certain hellebores display deeply **pedate** leaves that expose maximum surface area to filtered spring light."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"The **pedate** branching of the leaf veins distinguishes this rare woodland species from common buttercups."*

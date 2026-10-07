@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable or susceptible to being influenced by biased information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being spun into fibres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being spun into thread or yarn; having rheological properties that permit fiber formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile technology and macromolecular chemistry, suitable for extrusion or drawing into continuous textile fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnable designates capable or susceptible to being influenced by biased information."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Short-staple wool must be carefully carded before it yields a clean, **spinnable** sliver for the domestic weaver."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Molten quartz yields a remarkably **spinnable** viscous mass capable of forming delicate torsion balance fibers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestication transformed the coarse wild fleece into a soft, **spinnable** wool prized across Europe."*

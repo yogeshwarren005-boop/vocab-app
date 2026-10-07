@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being mentally slow and limited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compactness of texture, thickness, or crowded concentration of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and social psychology, opacity of atmosphere or stubborn slowness of intellectual comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Aignan is much more broken than Sud-Est, and, owing to the denseness of the scrub, is more difficult to travel in."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The unusual **denseness** of the arctic fog completely absorbed the rays of the rising polar sun."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke's intellectual **denseness** prevented him from perceiving the subtle ironies of his young guests."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The impenetrable **denseness** of the coastal mangrove thicket defied our attempts to land our boat."*

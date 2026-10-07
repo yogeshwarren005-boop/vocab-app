@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing profound knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing profound knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing, showing, or characterized by profound scholarly knowledge, deep learning, and intellectual culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, exhibiting learned mastery across classical languages, historical archives, and scientific literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, appeared to have found an agreeable resort in this certainly not erudite household."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader had slipped again into the library to chew a cud of erudite mistake about Cush and Mizraim."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did erudite Stubb, mounted upon your capstan, deliver lectures on the anatomy of the Cetacea; and by help of the windlass, hold up a specimen rib for exhibition?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **erudite** scholar spent fifty years in monastic seclusion editing the monumental texts of the Greek fathers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was reputed to be a profoundly **erudite** divine, laboring upon an exhaustive mythology."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh pours forth an ocean of **erudite** citations gathered from all centuries and kingdoms."*

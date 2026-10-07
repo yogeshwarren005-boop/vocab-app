@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating thread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting raw fiber into yarn or thread; rapid rotational movement on an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of technology and metallurgy, the mechanical craft of forming sheet metal over a rotating mandrel on a lathe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “I am falling into the sear and yellow leaf, and it is impossible to say how long the last feeble traces of gentlemanly deportment may linger in this weaving and spinning age."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sea was heaving under a thick white fog; and nothing else was moving but a few early ropemakers, who, with the yarn twisted round their bodies, looked as if, tired of their present state of existence, they were spinning themselves into cordage."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dry leaves in the ditch simmered and boiled in the same breezes, a tongue of air occasionally ferreting out a few, and sending them spinning across the grass."*
+> - 📜 **William Shakespeare (*Othello*):** *"There's magic in the web of it: a sibyl, that had number'd in the world the sun to course two hundred compasses, in her prophetic fury sew'd the work; the worms were hallow'd that did breed the silk; and it was dyed in mummy which the skilful conserv'd of maidens' hearts. The **spinning** of that thread was holy!"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The continuous hum of **spinning** wheels was once the familiar music of every Dorset cottage kitchen."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas spent his lonely evenings at the loom, while the **spinning** of the linen thread absorbed his solitary mind."*

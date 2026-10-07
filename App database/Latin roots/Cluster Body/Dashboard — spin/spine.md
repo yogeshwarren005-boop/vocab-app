@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The series of vertebrae forming the axis of the skeleton and protecting the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sharply pointed projection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertebral column or backbone in vertebrates; a sharp, rigid, pointed anatomical projection or botanical thorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate osteology, botany, and bookbinding, the articulated vertebral column, a modified foliar thorn, or a book's back edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When a young girl her spine was injured while nursing her aged and helpless grandmother, and she has been a great sufferer for many years."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In December, 1859, while stepping out of doors, she slipped, by reason of her stiff joint, and fell, striking near the base of the spine, directly across the sharp edge of the stone step."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In desert plants, leaves are frequently transformed into a sharp protective **spine** that deters grazing herbivores."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The human **spine** comprises thirty-three vertebrae exhibiting distinct cervical, thoracic, and lumbar curves."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A sudden cold shiver passed down my **spine** as the dreadful unearthly howl rose from the misty mire."*

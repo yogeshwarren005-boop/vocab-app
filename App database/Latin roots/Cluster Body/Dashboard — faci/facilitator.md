@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes progress easier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes progress easier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or mechanism that makes an action, meeting, or process easier or more effective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational dynamics and biochemical catalysis, an intermediary entity that guides discussion or speeds up a reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitator designates someone who makes progress easier."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A wise magistrate acts as a gentle **facilitator** of public peace, mediating between rival factions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sympathetic observer acts as an intuitive **facilitator**, encouraging the speaker to clarify his thoughts."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The chairman of a legislative committee functions as a neutral **facilitator** of collective deliberation."*

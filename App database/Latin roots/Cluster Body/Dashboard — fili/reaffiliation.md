@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affiliation anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affiliation anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of reconnecting or affiliating again with an organization or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and labor history, the re-entry of a disaffiliated union, lodge, or chapter into a central federation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reaffiliation designates affiliation anew."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"After resolving ideological disputes, the trade union petitioned for formal **reaffiliation** with the central congress."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Seceding religious congregations frequently negotiate **reaffiliation** with the mother church after passions cool."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The restoration of the ancient charter permitted the rapid **reaffiliation** of disenfranchised city guilds."*

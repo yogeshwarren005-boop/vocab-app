@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a spine or thorn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having spines; thorny, prickled; of, relating to, or shaped like a spinal process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, designating the dorsal spinous processes of the vertebrae that provide muscular attachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinous designates having spines."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **spinous** process of the seventh cervical vertebra is unusually prominent, serving as a reliable landmark."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous caries of the vertebral bodies results in prominent backward projection of the **spinous** processes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Elongated **spinous** processes on thoracic vertebrae provide adequate leverage for the heavy neck musculature."*

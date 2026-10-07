@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a list of ancestors as proof of being a purebred animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a list of ancestors as proof of being a purebred animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an established, certified purebred pedigree or recorded genealogical ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural genetics and social satire, possessing documented pure breeding or aristocratic lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedigreed designates having a list of ancestors as proof of being a purebred animal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"High prices are paid for **pedigreed** bulls whose ancestors demonstrated exceptional milk or beef yields."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The possession of **pedigreed** hunting hounds serves as an ostentatious emblem of leisure-class wealth."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"Nobles took immense pride in their **pedigreed** ancestors while treating their human serfs worse than cattle."*

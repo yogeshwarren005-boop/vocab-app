@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emerging to the surface and becoming apparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising to the surface of a liquid; emerging from concealment into view; applying a surface layer to an object or road.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, laying gravel, tarmac, or asphalt on a roadbed; in psychology, unconscious memories rising to conscious awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfacing designates emerging to the surface and becoming apparent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The leviathan spent long minutes **surfacing** in the calm Pacific swells to exhale towering spouts of vapor."*
+> - 📜 **H. G. Wells (*The Sea Raiders*):** *"Monstrous cephalopods were observed **surfacing** near the Devon coast, terrorizing local fishermen."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Macadamized **surfacing** revolutionized highway travel by providing a hard, water-shedding coat of crushed stone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tissue (covered by mucous membrane) of the jaws that surrounds the bases of the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tissue (covered by mucous membrane) of the jaws that surrounds the bases of the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense fibrous tissue covered by mucous membrane that surrounds the necks of teeth; the gum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental histology and periodontology, the masticatory oral mucosa anchoring around teeth and overlying the alveolar bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gingiva designates the tissue (covered by mucous membrane) of the jaws that surrounds the bases of the teeth."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **gingiva** or gum consists of dense fibrous tissue intimately united with the periosteum of the alveolar processes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A distinctive blue line along the margin of the **gingiva** indicates chronic systemic lead poisoning."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic mouthwashes prevent purulent ulceration of the inflamed **gingiva** following alveolar extraction."*

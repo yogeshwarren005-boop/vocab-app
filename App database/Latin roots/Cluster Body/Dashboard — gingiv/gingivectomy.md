@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin gingiv within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of gingiv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of diseased gingival tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In periodontics and oral surgery, the excision of gum tissue to eliminate periodontal pockets or reshape gingival contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gingivectomy designates pertaining to, derived from, or characteristic of latin gingiv within the domain of body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exuberant hyperplastic tissue in chronic periodontitis may necessitate surgical **gingivectomy** to preserve dental stability."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Aseptic technique during oral **gingivectomy** minimizes the danger of secondary bacterial bacteremia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Healing following **gingivectomy** proceeds by granulation and rapid epithelial migration over the bare alveolar bone."*

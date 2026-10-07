@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The descendants of one individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent of a purebred animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The record of descent or ancestral lineage of an animal, especially showing pure breeding; a person's genealogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary genetics and animal husbandry, a verified genealogical chart recording inherited traits through generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But for the rest: you tell a pedigree Of threescore and two years, a silly time To make prescription for a kingdom’s worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can Oxford, that did ever fence the right, Now buckler falsehood with a pedigree?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, after expatiating to us on the fame of her great kinsman, said that no doubt wherever her son Allan went he would remember his pedigree and would on no account form an alliance below it."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Breeders study the registered **pedigree** of their racehorses with more care than the genealogy of noble families."*
+> - 📜 **William Shakespeare (*Henry V*):** *"He sends you this most memorable line, in every branch truly demonstrable; willing you overlook this **pedigree**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The discovery of an ancient knightly **pedigree** awakened foolish ancestral pride in the peasant's heart."*

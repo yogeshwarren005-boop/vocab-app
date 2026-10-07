@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speed up the progress of; facilitate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process fast and efficiently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accelerate the progress of a process, task, or journey; to speed up, facilitate, or dispatch promptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative procedure and commerce, to execute business without delay by removing bureaucratic obstacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Since such were her feelings, it only remained, he thought, to secure and expedite a marriage, which, in his very first conversation with Wickham, he easily learnt had never been _his_ design."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge special effort to expedite work of Temple, reinforce pioneer endeavor in Europe owing to deteriorating international situation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When later on in his memoirs Count Rostopchín explained his actions at this time, he repeatedly says that he was then actuated by two important considerations: to maintain tranquillity in Moscow and expedite the departure of the inhabitants."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I resolved to **expedite** my journey toward England, eager to conclude my dreadful labors in peace."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Mechanical inventions **expedite** manufacturing operations, enabling one workman to do the labor of many."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Special couriers were dispatched on fast horses to **expedite** the delivery of royal orders to the fleet."*

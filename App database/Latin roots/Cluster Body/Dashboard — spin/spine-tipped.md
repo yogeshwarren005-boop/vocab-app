@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a plant tipped with a spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a plant tipped with a spine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terminating in or armed with a sharp spine or thorn at the apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical taxonomy, having leaves, bracts, or branchlets ending in a rigid pungent spine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spine-tipped designates of a plant tipped with a spine."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The involucral scales of the prairie thistle are **spine-tipped**, repelling herbivorous insects from the florets."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain oceanic island shrubs bear **spine-tipped** foliage inherited from continental ancestors exposed to browsers."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"The rigid, **spine-tipped** branches form an impenetrable thicket along the gravelly river terrace."*

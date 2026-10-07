@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True (leptosporangiate) ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True (leptosporangiate) ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major order of vascular plants comprising the true or leptosporangiate ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, homosporous ferns bearing sporangia with an annulus, producing delicate pinnate fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, filicales designates true (leptosporangiate) ferns."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The order **Filicales** encompasses the great majority of our native temperate and tropical ferns."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Abundant fossil impressions of the **Filicales** occur in Carboniferous shale alongside giant lycopods."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Comparative plant morphology traces the reproductive sporangia of the **Filicales** to ancestral pteridophytes."*

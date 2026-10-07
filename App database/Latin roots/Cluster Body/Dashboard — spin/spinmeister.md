@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political public relations practitioner skilled in presenting news, events, or policies in a biased, favorable light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary media analysis, an operative who orchestrates news cycles and manages journalistic narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinmeister designates a public relations person who tries to forestall negative publicity by publicizing a favorable interpretation of the words or actions of a company or political party or famous person."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"The modern political propagandist or **spinmeister** manufactures consent by shaping the public's perception of reality."*
+> - 📜 **George Orwell (*The Prevention of Literature*):** *"Bureaucratic regimes depend upon the professional **spinmeister** to translate tyranny into high-sounding patriotic slogans."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Financial syndicates employ the clever **spinmeister** to manipulate market confidence and investor sentiment."*

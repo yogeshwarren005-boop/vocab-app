@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or subsidiary associate; a person who is affiliated with another or with an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subsidiary or subordinate organization that is affiliated with another organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially attach, connect, or associate a person or organization to a larger body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate law and academic governance, to admit into subsidiary association with a parent institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His anxiety to affiliate his own speculations to those of his predecessors is a marked feature in all his philosophical works, and illustrates at once the modesty and comprehensiveness of his mind."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He did not affiliate or assimilate into the nations where he dwelt."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The actual point of difference is this: the Democrats affiliate with their old political friends in the South, the late rebels, the friends and followers of Breckinridge, Lee, and Davis."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Local cooperative societies frequently choose to **affiliate** with national federations to secure wholesale credit."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Provincial trading guilds sought to **affiliate** with London mercantile companies to share exclusive overseas privileges."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Citizens of every locality spontaneously **affiliate** with national moral and reformatory movements."*

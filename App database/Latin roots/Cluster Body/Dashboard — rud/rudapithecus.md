@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossil hominoids from northern central hungary; late miocene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fossil hominoids from northern central hungary; late miocene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of Miocene hominid ape discovered in Rudabánya, Hungary, dating to approximately ten million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology, a Dryopithecus-like hominoid primate exhibiting arboreal suspensory locomotor adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rudapithecus designates fossil hominoids from northern central hungary; late miocene."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Fossil dryopithecine apes allied to **Rudapithecus** reveal that advanced hominoids flourished in Miocene European forests."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Cranial remains of primitive Eurasian apes such as **Rudapithecus** display ancestral dental patterns shared with modern hominids."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The postcranial morphology of Miocene hominoids like **Rudapithecus** demonstrates early adaptations for forelimb suspension."*

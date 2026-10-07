@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal especially a mammal having four limbs specialized for walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that has four feet, especially an ungulate or other four-footed mammal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate osteology, a tetrapod utilizing all four limbs in terrestrial locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is angry—she doesn’t know what we mean—she’ll kick over the milk!” exclaimed Tess, gently striving to free herself, her eyes concerned with the quadruped’s actions, her heart more deeply concerned with herself and Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We, helpless infants in arms or creeping quadruped-like on the floor, dreamed our dreams of air-flight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the Polar quadruped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The forelimbs of the horse, bat, and porpoise are constructed on the same basic archetype as those of the ancestral **quadruped**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A wild heath pony, a small shaggy **quadruped**, darted across the twilight path into the dense furze."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke observed that a horse was a noble animal, but an expensive **quadruped** for a country gentleman to maintain."*

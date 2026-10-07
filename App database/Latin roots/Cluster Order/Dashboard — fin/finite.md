@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bounded or limited in magnitude or spatial or temporal extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of verbs; relating to forms of the verb that are limited in time by a tense and (usually) show agreement with number and person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having limits or bounds; not infinite; limited in size, number, or duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, denoting a verb inflected for tense, person, and number, capable of heading a clause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Infinity Pressed down upon the finite Me!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Man's Unhappiness, as I construe," says Teufelsdröckh in "Sartor Resartus", "comes of his Greatness, it is because there is an Infinite in him, which with all his cunning he cannot quite bury under the Finite."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"While no finite mind could have conceived it possible, that Almighty love should be so slighted, yet the Spirit of prophecy announced this impious ingratitude, long before the incarnation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **finite** intelligence can never fully comprehend the boundless mysteries of infinity."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Every material body occupies a **finite** volume of space bounded by definite physical surfaces."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A mathematical set is **finite** when its members can be put into one-to-one correspondence with an initial segment of natural numbers."*

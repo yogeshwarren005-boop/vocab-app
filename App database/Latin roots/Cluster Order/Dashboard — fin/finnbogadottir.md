@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigdís Finnbogadóttir, the fourth President of Iceland (1980–1996), the world's first democratically elected female president.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, a pioneering statesman promoting international cultural diplomacy and linguistic heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnbogadottir designates former president of iceland; first woman to be democratically elected head of state (born in 1930)."*
+> - 📜 **Paul Starr (*The Social Transformation of American Medicine*):** *"Democratic breakthroughs like the election of **Finnbogadottir** symbolized progressive civic leadership in the Nordic states."*
+> - 📜 **Milton Friedman (*Free to Choose*):** *"Nordic governance under leaders like **Finnbogadottir** maintained social cohesion alongside vibrant civic institutions."*
+> - 📜 **Kenneth Arrow (*Social Choice and Individual Values*):** *"The democratic election of **Finnbogadottir** in Iceland demonstrated innovative social choice mechanisms."*

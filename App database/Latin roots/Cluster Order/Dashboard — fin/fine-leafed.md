@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fine leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having fine leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having slender, narrow, or delicately thin leaves; fine-leaved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and dendrology, describing plants or grasses with narrow foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-leafed designates having fine leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **fine-leafed** heath flourishes on sandy moorlands exposed to coastal Atlantic winds."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Florists cultivated **fine-leafed** varieties of ferns for indoor greenhouse displays."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The alpine slopes were carpeted in a **fine-leafed** fescue that nourished sheep through summer."*

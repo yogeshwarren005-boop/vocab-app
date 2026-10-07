@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finally be or do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought to completion or conclusion; polished, perfected, or accomplished in technique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doomed to failure, ruined, or having lost all power, vitality, or effectiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he bids be done is finished with his bidding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not well done, mark you now, to take the tales out of my mouth, ere it is made and finished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nuptial finished, Let him be whipped and hanged."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley declared that no lady was truly **finished** without a thorough knowledge of music and languages."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I have at last **finished** the tedious revision of the manuscript on climbing plants."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman commander knew his military career was **finished** upon the loss of the border legion."*

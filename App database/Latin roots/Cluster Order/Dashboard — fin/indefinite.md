@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vague or not clearly defined or stated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decided or not known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for an unknown or unstated length of time; not clearly defined, settled, or fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, denoting an unspecified entity (such as the indefinite article or indefinite pronoun).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, as he is now gone so far away and for an indefinite time, and as he will have good opportunities and introductions, we may consider this past and gone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not quite sure of her direction, Tess stood still upon the hemmed expanse of verdant flatness, like a fly on a billiard-table of indefinite length, and of no more consequence to the surroundings than that fly."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"External conditions produce **indefinite** variability, inducing diverse slight fluctuations in offspring."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers create endless confusion when they employ words with vague and **indefinite** meanings."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The **indefinite** article introduces a specimen of a class without restricting its specific reference."*

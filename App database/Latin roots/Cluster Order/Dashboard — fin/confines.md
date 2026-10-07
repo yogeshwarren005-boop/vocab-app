@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bounded scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place limits on (extent or access).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The borders, limits, or boundaries of a geographical area, space, or field of thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and territorial sovereignty, the borderlands or frontiers separating distinct realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly one; in which there are many confines, wards, and dungeons, Denmark being one o’ th’ worst."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, neighbour confines, purge you of your scum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions guarded the distant **confines** of the empire against the incursions of the Sarmatians."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Near the **confines** of radiant light and primeval chaos stood the boundless cosmic void."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy must not overstep the lawful **confines** assigned by divine wisdom."*

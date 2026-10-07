@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of finalizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of finalizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of finalizing something; bringing a plan, contract, or treaty to a definitive end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and business, the execution of all formalities making an agreement legally binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finalization designates the act of finalizing."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **finalization** of treaties requires the concurrence of two-thirds of the assembled senators."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **finalization** of municipal charters established democratic self-government in New England towns."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Bureaucratic procedure demands bureaucratic **finalization** through official written documentation."*

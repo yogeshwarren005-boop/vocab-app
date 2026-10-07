@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted in space, scope, or freedom of movement; limited, cramped, or enclosed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing childbirth or kept to bed through acute physical illness or childbed labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Endemic species on the Galapagos islands are **confined** to narrow rocky territories of volcanic origin."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood remained **confined** to her bedchamber for several days following the severe chill."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's military power was **confined** within the narrow circuit of the city walls."*

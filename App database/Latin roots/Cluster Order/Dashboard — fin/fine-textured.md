@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, fine-grained structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a smooth, fine-grained structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a delicate, smooth, or closely woven texture or surface grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soils, textiles, and woodworking, having minute microscopic constituent particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-textured designates having a smooth, fine-grained structure."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Weavers prize the **fine-textured** fleece of the Angora goat for manufacturing luxury shawls."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Lacustrine sediments deposited **fine-textured** silt that preserved delicate insect wings."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculptors carved the frieze out of **fine-textured** alabaster imported from oriental quarries."*

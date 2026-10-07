@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Time without end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time without end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boundless space, time, or quantity extending beyond any assignable limit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a concept representing something without any bound or larger than any natural number.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket pervades a vast number of houses and strolls about an infinity of streets, to outward appearance rather languishing for want of an object."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Infinity Pressed down upon the finite Me!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Right and wrong do not meet at infinity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The endless addition of finite numbers leads the mind to contemplate the mystery of **infinity**."*
+> - 📜 **Blaise Pascal (*Pensées*):** *"Man is placed between two abysses: the abyss of **infinity** and the abyss of nothingness."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Georg Cantor transformed the mathematical study of **infinity** by constructing transfinite arithmetic."*

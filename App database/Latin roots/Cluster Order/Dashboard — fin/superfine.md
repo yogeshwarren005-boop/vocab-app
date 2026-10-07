@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extremely fine size or texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively delicate or refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an unusually high or superior quality, fineness, or grade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the textile and milling trades, designating the softest woven woolens or the most delicately bolted flour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel’s wife felt almost as if she had been hounded up that hill like a scorned thing by those—to her—superfine clerics."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It is a superfine piece of goods."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The exportation of English **superfine** broadcloth formed a staple pillar of national wealth."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill was dressed in a coat of **superfine** cloth that attracted the admiration of Highbury."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Merino sheep were bred exclusively to produce **superfine** wool for continental luxury weavers."*

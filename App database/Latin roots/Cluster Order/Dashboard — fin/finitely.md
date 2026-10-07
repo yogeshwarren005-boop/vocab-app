@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With a finite limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With a finite limit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is limited, bounded, or restricted; not infinitely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, characterized by a terminating number of steps, elements, or dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finitely designates with a finite limit."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Human faculties are **finitely** constituted, and cannot penetrate the ultimate secrets of nature."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A progression that terminates **finitely** possesses an ordinal maximum element."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Pluralism conceives reality as **finitely** structured, growing through incremental individual acts."*

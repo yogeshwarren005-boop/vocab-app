@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving a new definition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a new definition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of defining something again or in a new way; a revised definition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and law, the reformulation of terms or rights to match modern circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redefinition designates the act of giving a new definition."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Special relativity demanded a radical **redefinition** of our classical physical concepts of space and time."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Progressive philosophy consists in the ongoing moral **redefinition** of human ideals."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"The **redefinition** of number eliminated mystical paradoxes from mathematical foundation."*

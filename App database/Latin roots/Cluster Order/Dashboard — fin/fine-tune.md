@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust finely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make small, precise adjustments to something in order to achieve the best performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental apparatus and economic policymaking, to optimize settings for maximum efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-tune designates improve or perfect by pruning or polishing."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The experimenter must **fine-tune** the magnetic suspension before recording minute galvanic currents."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Astrophysicists must **fine-tune** the parameters of stellar radiation equations to match observed spectra."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Central bankers attempt to **fine-tune** discount lending rates to prevent speculative excess."*

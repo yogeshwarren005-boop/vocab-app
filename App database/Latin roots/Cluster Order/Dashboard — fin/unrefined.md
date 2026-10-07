@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not refined or processed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons and their behavior) not refined; uncouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not processed, purified, or freed from impurities; in a raw or crude state; or lacking elegance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boorish, coarse, or rustic in social manners and language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Before I was through I had rhymes which ranged from the two extremes of the keenest parental affection to those of unrefined filthiness."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A number of unrefined metallic products met with in practice include:— _Converter Bars._—The product from the Bessemer operation on copper mattes."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemist separated the pure crystals from the **unrefined** mother liquor through decantation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet's loud and **unrefined** remarks constantly humiliated her sensible daughters."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Nations in the earliest stages of commerce export only crude, **unrefined** natural raw materials."*

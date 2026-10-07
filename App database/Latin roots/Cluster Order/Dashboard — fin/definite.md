@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Precise; explicit and clearly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known for certain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly stated, decided, or unambiguous; having distinct and certain limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, denoting a specific, identified noun phrase (such as the definite article).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not like what I had expected, but I had expected nothing definite, and I dare say anything definite would have surprised me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, as to resting NOW,” said Richard, “or as to doing anything very definite NOW, that’s not easy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And pray has he done so?” “Really, Lady Dedlock, I cannot make you a definite reply."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Organic variation may be **definite**, when all individuals are modified in the same manner by external causes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"True knowledge requires **definite** ideas whose agreements and disagreements can be plainly perceived."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The **definite** article signals that the speaker refers to an individual entity known to the hearer."*

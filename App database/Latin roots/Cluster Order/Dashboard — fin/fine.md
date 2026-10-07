@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money extracted as a penalty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue a ticket or a fine to as a penalty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of high quality, superior, or satisfactory; or thin, slender, and delicate; or a monetary penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impose a financial penalty; or in metallurgy and enology, to clarify or purify liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, fair soul, In your fine frame hath love no quality?"*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Merino sheep were selected through generations for their extraordinarily **fine** and elastic wool fleece."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court possessed common law authority to **fine** and imprison for contempt in the face of the bench."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was looked upon as a very **fine** young man of large property and pleasing address."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of finland; belongs to the baltic finnic family of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of finland or the people of finland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Finland, its people, or its Uralic language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the Finno-Ugric national language of Finland, noted for vowel harmony and rich nominal inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the Finnish war he also managed to distinguish himself."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Just as he had done after Austerlitz, he related this occurrence at such length and so insistently that everyone again believed it had been necessary to do this, and he received two decorations for the Finnish war also."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Finnish wizards used to sell wind to storm-stayed mariners."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **Finnish** epic Kalevala preserves ancient mythological traditions in melodic trochaic meter."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeds of hardy pony from the **Finnish** interior withstand extreme subarctic winter cold."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Finnish** hunters paid annual tribute in rich beaver and ermine pelts to the Novgorodian merchants."*

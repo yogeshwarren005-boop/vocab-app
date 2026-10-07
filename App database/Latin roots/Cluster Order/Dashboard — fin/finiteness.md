@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being finite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being finite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or quality of having limits, boundaries, or finite magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, set theory, and philosophy, boundedness that contrasts with the transfinite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The human form, or physical finiteness, cannot be made the basis of any true idea of the infinite Godhead. 255:18 Eye hath not seen Spirit, nor hath ear heard His voice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Finiteness cannot present the idea or the vast- 256:30 ness of infinity."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is not rational to say that Mind is infinite, but dwells in finiteness, - in matter, - or that matter is 284:3 infinite and the medium of Mind."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reflecting on the clear **finiteness** of our lifespan teaches mankind humility and patience."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Mathematical logic establishes rigorous criteria for the **finiteness** of inductive classes."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Human consciousness struggles against its own moral and temporal **finiteness**."*

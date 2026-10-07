@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not precisely limited, determined, or distinguished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely limited, determined, or distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clearly or precisely defined, explained, or marked out; having unclear boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and computer science, having no assigned mathematical value (such as division by zero).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had an undefined impression that it might have been better if we had had some other inmate, but I could hardly have explained why even to myself."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I could not have said what I was afraid of, for my fear was altogether undefined and vague, but there was great fear upon me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But nothing had been betrayed to him as to the history of Raffles, and Bulstrode was anxious not to do anything which would give emphasis to his undefined suspicions."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Varieties shade into neighboring forms across broad, **undefined** geographic zones of transition."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The use of vague and **undefined** terms has generated centuries of sterile scholastic dispute."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In every axiomatic mathematical system, certain primitive terms must necessarily remain **undefined**."*

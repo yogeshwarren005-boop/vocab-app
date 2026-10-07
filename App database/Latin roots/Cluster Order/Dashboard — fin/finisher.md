@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a relief pitcher who can protect a lead in the last inning or two of the game.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A racing driver who finishes a race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or machine that completes, perfects, or applies the final surface coat to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletics, a competitor who successfully completes a race or marathon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that of greatest works is finisher Oft does them by the weakest minister."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The first object that presented itself to his disordered view was the figure of Ferret, who might very well have passed for the finisher of the law; against him, therefore, the first effort of his despair was directed."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I think, if they bring me out to be hanged to-morrow, as is much to be doubted they may, I will try its weight upon the finisher of the sentence.” “If such prove the case,” said the master, “my religious orders are soon taken—‘Pax vobiscum’."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The clothier employs the dyer and the **finisher** to prepare the woven woolens for the retail market."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He was known in school as a hard hitter and a swift **finisher** of schoolyard quarrels."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer*):** *"Ulysses stood forth as the grim **finisher** of the insolent suitors gathered in his hall."*

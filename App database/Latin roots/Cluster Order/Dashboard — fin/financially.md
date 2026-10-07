@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From a financial point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a financial point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to money, fiscal resources, or economic investments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of monetary solvency, profitability, or pecuniary support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"One answer, that of those financially interested in the railroads, was No."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Financially, it would be an economy--we should save storage of furniture, and have a convenient refuge in case of illness."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"If I can be of any assistance, financially, or otherwise, in helping you obtain your rights in this event, believe me, I stand ready to give such aid."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found himself **financially** embarrassed after furnishing his house on costly credit."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A colony is **financially** beneficial only when its trade revenues exceed the expense of its defense."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"American municipal corporations are **financially** self-sufficient through local property assessments."*

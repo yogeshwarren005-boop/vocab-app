@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a new surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a new surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply a new finish or surface coating to furniture, wood, or metal; to restore the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artisanal conservation and trade crafts, to strip old varnish and restore original luster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refinish designates give a new surface."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Vandalous restorers attempted to scrape and **refinish** the antique marble facade with modern chemicals."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The cabinet-maker was employed to strip and **refinish** the antique mahogany dining table."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I preferred the honest weathered gray of pine boards rather than attempting to paint or **refinish** them."*

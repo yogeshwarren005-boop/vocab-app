@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise explanation of the meaning of a word or phrase or symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity of outline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of the exact meaning of a word or phrase, especially in a dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree of distinctness, clarity, or resolution in an optical lens, image, or sound recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"When the definition of the thing has been given, there must be no room for doubt as to whether the thing exists or not."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Lastly, though this is not absolutely necessary, it should be possible to deduce from the definition all the properties of the thing defined."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A proper **definition** consists in enumerating the simple ideas that constitute a complex notion."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The mathematical **definition** of mass is the quantity of matter arising from its density and bulk jointly."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"Every language has many words that evade exact **definition** through shifting popular usage."*

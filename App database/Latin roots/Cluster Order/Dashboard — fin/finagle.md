@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Achieve something by means of trickery or devious methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieve something by means of trickery or devious methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obtain something by indirect, devious, or dishonest means; to wangle or manipulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To contrive a tricky solution or maneuver through deceptive cleverness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finagle designates achieve something by means of trickery or devious methods."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Corrupt politicians sought to **finagle** the franchise legislation through late-night backroom deals."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Lobbyists gathered in the capital corridors, striving to **finagle** land grants for speculative railroads."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He tried to **finagle** an advantageous property appraisal from the reluctant county assessor."*

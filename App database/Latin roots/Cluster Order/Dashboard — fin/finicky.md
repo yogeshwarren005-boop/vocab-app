@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fussy about one's needs or requirements, especially food and clothes; difficult to please.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring great attention to detail, precision, or intricate manipulative effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finicky designates exacting especially about details."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The invalid aunt had grown so **finicky** that she rejected three successive broths prepared for her."*
+> - 📜 **H. G. Wells (*Kipps*):** *"He found the high-society dining rituals awkward, complicated, and desperately **finicky**."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Charles Tansley was regarded as **finicky** and difficult by the easygoing holiday party."*

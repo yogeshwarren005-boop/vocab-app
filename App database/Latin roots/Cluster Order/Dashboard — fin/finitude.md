@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being finite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being finite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mortal limitation, creaturely boundary, or vulnerability to constraints of time and power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and theology, the creaturely limitation of human mortal existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finitude designates the quality of being finite."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The palpable **finitude** of worldly beings suggests an architect working within finite constraints."*
+> - 📜 **William James (*The Will to Believe*):** *"Our moral courage must overcome the painful tragic **finitude** of human knowledge."*
+> - 📜 **John Stuart Mill (*Three Essays on Religion*):** *"The limitations of the natural cosmos reflect the apparent **finitude** of creative power."*

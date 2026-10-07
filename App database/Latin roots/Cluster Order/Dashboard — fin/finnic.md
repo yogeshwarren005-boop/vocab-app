@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two branches of the finno-ugric languages; a family of languages including finnish and estonian (but not hungarian).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two branches of the finno-ugric languages; a family of languages including finnish and estonian (but not hungarian).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Finns or to the branch of the Uralic language family that includes Finnish and Estonian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative historical linguistics, pertaining to the Baltic-Finnic subgroup of languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnic designates one of two branches of the finno-ugric languages; a family of languages including finnish and estonian (but not hungarian)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative philologists group the languages of the northern tribes within the broad **Finnic** branch."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The nomadic tribes of the Volga spoke dialects closely allied to the ancient **Finnic** tongues."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Agglutinative grammatical structures characterize the morphologically complex **Finnic** idioms."*

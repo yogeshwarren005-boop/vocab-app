@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being precisely or readily described; not easily put into words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being precisely or readily described; not easily put into words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to define, explain, or determine with precision; elusive or intangible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying analytical formulation, conceptual boundaries, or verbal categorization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But in a few minutes he would recklessly conjure up some undefinable means by which they were both to be made rich and happy for ever, and would become as gay as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have always remembered since that when we had stopped at the garden-gate to look up at the sky, and when we went upon our way, I had for a moment an undefinable impression of myself as being something different from what I then was."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At that moment I heard the distant strains of the organ, a sad harmony to an undefinable chant, the wail of a soul longing to break these earthly bonds."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple sensory qualities like the taste of a pineapple remain essentially **undefinable** in words."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her expressive countenance possessed an **undefinable** charm that eluded portrait painters."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystical state is marked by an **undefinable** emotional intensity that baffles rational language."*

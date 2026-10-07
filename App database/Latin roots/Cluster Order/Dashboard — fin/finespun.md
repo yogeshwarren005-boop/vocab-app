@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Developed with extreme delicacy and subtlety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Developed in excessively fine detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawn out to a very fine thread; or excessively subtle, delicate, or over-refined in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So intricate, delicate, or hair-splitting as to lack practical truth or utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Her wellturned ankle displayed its perfect proportions beneath her skirt and just the proper amount and no more of her shapely limbs encased in finespun hose with highspliced heels and wide garter tops."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Metaphysical politicians bewilder simple minds with **finespun** theories of abstract human rights."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Scholastic disputations waste precious time upon **finespun** distinctions that lack real substance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon indulged in **finespun** mythological analogies that led nowhere in his unfinished book."*

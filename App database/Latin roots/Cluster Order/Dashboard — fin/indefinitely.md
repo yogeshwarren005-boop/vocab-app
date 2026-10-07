@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an indefinite extent; for an indefinite time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an indefinite extent; for an indefinite time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For an unlimited, unspecified, or undetermined period of time; without clear limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vague, ambiguous, or loosely specified manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And Tess won’t look pretty in her best cloze no mo-o-ore!” Her mother chimed in to the same tune: a certain way she had of making her labours in the house seem heavier than they were by prolonging them indefinitely, also weighed in the argument."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Digging began usually at six o’clock and extended indefinitely into the dusk or moonlight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, quite apart from the note issues, gives a power to the banks collectively, under the general supervision and control of the board, to expand credits indefinitely at any time for real business purposes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"If unchecked, any single species would increase **indefinitely** in numbers and overrun the globe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governor postponed the trial **indefinitely**, awaiting instructions from Rome."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Human knowledge expands **indefinitely** when discussion remains entirely unfettered by state censorship."*

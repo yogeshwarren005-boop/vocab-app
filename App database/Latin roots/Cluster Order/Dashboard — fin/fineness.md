@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being very good indeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being very narrow or thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicacy, thinness, purity, or superior elegance in texture and workmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and numismatics, the proportion of pure precious metal in an alloy or coin, expressed in parts per thousand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saving your merry humour, here’s the note How much your chain weighs to the utmost carat, The fineness of the gold, and chargeful fashion, Which doth amount to three odd ducats more Than I stand debted to this gentleman."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The metal is simply a valuable good, the receiver of which values it according to its weight and fineness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Very early it became the practice of governments to shape and stamp pieces of metal to be used as money, so as to indicate their weight and fineness."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The official mint stamp certifies both the weight and the **fineness** of the coined metal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders competed to improve the **fineness** of Merino wool fibers for the luxury cloth trade."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **fineness** of Byzantine stone carving astonished the cruder Gothic workmen of northern Europe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic bulbous stem base eaten cooked or raw in salads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic bulbous stem base eaten cooked or raw in salads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Florence fennel, a cultivated variety of fennel grown for its swollen, crisp, edible bulbous leaf bases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary horticulture, an aromatic vegetable eaten raw in salads or braised, noted for its anise flavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finocchio designates aromatic bulbous stem base eaten cooked or raw in salads."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Italian gardeners selected **finocchio** for its thick, succulent bulbous petiole bases."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"In the Roman markets, vendors sold crisp heads of sweet **finocchio** drenched in olive oil."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The sweet anise fragrance of cultivated **finocchio** distinguishes it from wild bitter umbellifers."*

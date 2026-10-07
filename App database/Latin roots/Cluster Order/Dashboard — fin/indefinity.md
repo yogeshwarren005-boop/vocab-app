@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being vague and poorly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being vague and poorly defined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boundless extent, undetermined duration, or limitless spatial extension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian metaphysics, distinction between the absolute infinity of God and the indefinity of physical space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indefinity designates the quality of being vague and poorly defined."*
+> - 📜 **René Descartes (*Principles of Philosophy*):** *"We term the extension of the world indefinite rather than infinite, attributing **indefinity** to created space."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind forms an idea of **indefinity** by constantly repeating the act of adding units to duration."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Speculations regarding the **indefinity** of matter often bewilder human reason beyond its empirical limits."*

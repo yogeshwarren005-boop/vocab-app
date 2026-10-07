@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed with the infinitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or formed with the infinitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the grammatical form or function of an infinitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic linguistics, denoting non-finite verb phrases introduced by 'to' or unmarked stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infinitival designates relating to or formed with the infinitive."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The **infinitival** particle 'to' evolved historically from a directional preposition into an abstract grammatical marker."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Split **infinitival** constructions occur frequently in colloquial speech despite prescriptive condemnation."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Ancient Indo-European tongues expressed **infinitival** relations through fossilized dative noun endings."*

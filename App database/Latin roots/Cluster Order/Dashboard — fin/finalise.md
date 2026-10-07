@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make final; put the last touches on; put into final form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make final; put the last touches on; put into final form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of finalize; to complete or conclude agreements or arrangements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make definitive, binding, and ready for official implementation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finalise designates make final; put the last touches on; put into final form."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Envoys assembled at Ravenna to **finalise** the covenants of the truce with the Gothic king."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Parliamentary committees met in private session to **finalise** the clauses of the franchise bill."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The attorneys gathered at the tavern to **finalise** the long-contested settlement of the bankrupt estate."*

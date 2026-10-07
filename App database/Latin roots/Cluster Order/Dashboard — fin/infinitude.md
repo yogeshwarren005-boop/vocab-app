@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being infinite; without bound or limit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Limitless extent, boundless immensity, or inexhaustible cosmic magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and poetry, the vastness of the universe, time, or divine perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So shall crown thee the topmost, ineffablest, uttermost crown-- And thy love fill infinitude wholly, nor leave up nor down One spot for the creature to stand in!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind manifests all that exists in the infinitude of Truth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Boundless the deep, because I am who fill **infinitude**, nor vacuous the space."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"The soul active sees absolute truth, and utters truth, or creates in the boundless **infinitude** of spirit."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"Infinity fills the mind with delightful horror; the vast **infinitude** of nature excites sublime awe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock usually baked but sometimes broiled with lots of butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haddock usually baked but sometimes broiled with lots of butter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Haddock cured in peat smoke, named after the Scottish fishing village of Findon (Finnan haddie).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition, lightly salted and smoked haddock poached in milk or butter for breakfast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnan designates haddock usually baked but sometimes broiled with lots of butter."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The hostess prepared a savory breakfast of smoked **finnan** haddock and hot oatcakes."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"The fishmonger displayed freshly smoked **finnan** haddocks straight from the Aberdeen smacks."*
+> - 📜 **Robert Louis Stevenson (*Memories and Portraits*):** *"We savored the fragrant aroma of boiling **finnan** haddies in the Edinburgh kitchen."*

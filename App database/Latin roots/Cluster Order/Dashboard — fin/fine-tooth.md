@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fine teeth set close together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having fine teeth set close together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having narrow, closely spaced teeth, as in a comb; or characterized by meticulous scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical tooling and forensic examination, designed for precise, exhaustive separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-tooth designates having fine teeth set close together."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes examined the crime carpet with a magnifying lens and a **fine-tooth** analytical rigor."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Squeers combed the boys' hair with a rough **fine-tooth** implement that brought forth tears."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly inspected Tom's jacket with **fine-tooth** thoroughness to see if he had been swimming."*

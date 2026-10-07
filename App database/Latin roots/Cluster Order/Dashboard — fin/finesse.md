@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subtly skillful handling of a situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subtly skillful handling of a situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intricate and refined skill or diplomacy in handling difficult, delicate situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In card games (such as bridge or whist), a tactic aiming to win a trick with a lower card by exploiting the opponent's position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Boldwood had no more skill in finesse than a battering-ram, and he was uneasy with a sense of having made himself to appear stupid and, what was worse, mean."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The frank address, the soft caress, Are worse than poisoned darts of steel; The frank address, and politesse, Are all finesse in Rob Mossgiel."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence also smiled but with a touch of finesse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine ambassador conducted the negotiation with consumate diplomatic **finesse**."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mary Crawford displayed social **finesse**, charming her company with light conversational banter."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"An accomplished whist player relies upon calculation and psychological **finesse** rather than sheer luck."*

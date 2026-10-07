@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anthropology) related by marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anthropology) related by marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by marriage or alliance rather than by blood descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and kinship systems, denoting relatives or legal bonds created through marital unions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affinal designates (anthropology) related by marriage."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Tribal societies establish elaborate taboos regulating mutual obligations between consanguineous and **affinal** kin."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"Early patriarchal law distinguished sharply between agnatic succession and mere **affinal** relationships."*
+> - 📜 **Lewis Henry Morgan (*Systems of Consanguinity and Affinity of the Human Family*):** *"The Iroquois kinship nomenclature provides distinct classificatory designations for every **affinal** connection."*

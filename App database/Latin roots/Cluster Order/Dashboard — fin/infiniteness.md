@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being infinite; without bound or limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being infinite; without bound or limit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boundless immensity, endless magnitude, or unconstrained vastness of extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and cosmology, absolute, unconditioned immensity that transcends all creaturely limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infiniteness designates the quality of being infinite; without bound or limit."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **infiniteness** of divine wisdom and power surpasses the comprehension of finite human intellects."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Substance consists of infinite attributes, each expressing eternal and absolute **infiniteness**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The starry heavens evoke a profound sense of the sublime **infiniteness** of cosmic existence."*

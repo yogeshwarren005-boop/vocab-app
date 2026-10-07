@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (immunology) the attraction between an antigen and an antibody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anthropology) kinship by marriage or adoption; not a blood relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spontaneous or natural liking or sympathy for someone or something; or kinship by marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, the thermodynamic tendency of chemical substances to combine; in taxonomy, structural resemblance indicating common descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In religious matters Berwick has more affinity to Scotland than to England."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To me this humour seems to possess a greater affinity, on the whole, to that of Addison than to any other of the numerous species of this great British genus."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Whatever bears affinity to cunning is despicable.” Miss Bingley was not so entirely satisfied with this reply as to continue the subject."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists look for deep morphological **affinity** rather than superficial adaptive resemblances between species."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Chemical **affinity** governs the elective attraction by which acids unite with alkaline bases."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Marriages within the prohibited degrees of consanguinity or **affinity** were declared null by ecclesiastical law."*

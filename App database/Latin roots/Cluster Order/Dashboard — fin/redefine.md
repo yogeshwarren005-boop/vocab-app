@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a new or different definition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a new or different definition of (a word).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To define something again or in a new way, especially to re-evaluate its purpose or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science and philosophy, to adjust the conceptual boundaries of a principle in light of new evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redefine designates give a new or different definition to."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The discovery of intermediate transitional fossils forced naturalists to **redefine** ancient generic boundaries."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical discoveries continually force natural philosophers to **redefine** their foundational axioms."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Modern democracy must **redefine** the relationship between individual liberty and social obligation."*

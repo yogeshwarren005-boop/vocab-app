@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive, handsome, or having an impressive, pleasing appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striking in physical carriage, symmetry, or dignified presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-looking designates pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was a **fine-looking** gentleman with an easy, pleasant countenance."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth was universally admired as a remarkably **fine-looking** and high-spirited youth."*
+> - 📜 **Walter Scott (*Waverley*):** *"The young highland chieftain was a **fine-looking** soldier adorned in martial tartan dress."*

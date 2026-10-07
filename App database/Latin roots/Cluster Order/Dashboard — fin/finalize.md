@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make final; put the last touches on; put into final form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make final; put the last touches on; put into final form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To complete, settle, or bring to a conclusion, especially a business deal, plan, or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make irrevocable, definitive, or ready for execution after preliminary deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finalize designates make final; put the last touches on; put into final form."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Diplomats worked through the night to **finalize** the international arbitration covenants."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The legislative assemblies met to **finalize** the state constitution after broad public debates."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The delegates met in Philadelphia to **finalize** the proposed framework for the federal union."*

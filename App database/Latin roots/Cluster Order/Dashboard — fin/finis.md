@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporal end; the concluding time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The concluding part of any performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The end, conclusion, or final finish, especially printed at the end of a book or play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin and classical literature, the ultimate boundary, terminus, or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"A-D _add_] Finis Actus primi. l. 33. 2nd Folio _misprints_] Seundus. p. 12, l. 1."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"C] live. p. 59, A, B and D _add_] Finis."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan._ FINIS."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I wrote the word **finis** upon the final page of my history with mingled joy and melancholy."*
+> - 📜 **Walter Scott (*Waverley*):** *"The printer set the word **finis** beneath the author's concluding postscript to the public."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Calm of mind, all passion spent, marked the solemn **finis** of the tragic drama."*

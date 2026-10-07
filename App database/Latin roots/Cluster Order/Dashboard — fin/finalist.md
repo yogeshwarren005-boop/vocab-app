@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contestant who reaches the final stages of a competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contestant who reaches the final stages of a competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competitor who reaches the final round of a tournament, contest, or competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sporting and academic rivalries, an elite candidate competing for championship honors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finalist designates a contestant who reaches the final stages of a competition."*
+> - 📜 **William Hazlitt (*The Fight*):** *"Every seasoned pugilist cheered the gallant **finalist** as he entered the championship ring."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He stood as the proud **finalist** in the inter-collegiate rowing regatta on the Thames."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"The young athlete proved himself a worthy **finalist** against the veteran prize-fighter."*

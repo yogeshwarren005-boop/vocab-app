@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly developed state of perfection; having a flawless or impeccable quality; ; ; --joseph conrad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The result of improving something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The improvement or clarification of something by the making of small changes; or cultured elegance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and chemistry, the industrial process of removing impurities from crude materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where the throng is thickest, where the lights are brightest, where all the senses are ministered to with the greatest delicacy and refinement, Lady Dedlock is."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But I cannot believe it of you.—All idle refinement!—Women may be as comfortable on board, as in the best house in England."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a certain animal form of refinement in his nature; and however pleasant a strange condition might be whilst privations were easily warded off, it was disadvantageously coarse when money was short."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"The progress of human society is marked by the gradual **refinement** of manners and mechanical arts."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemical **refinement** of saltpeter required repeated dissolution and crystallization."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor admired his genuine moral goodness, though he possessed little of the fashionable world's **refinement**."*

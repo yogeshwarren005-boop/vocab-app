@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renew the financing of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renew the financing of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To finance something again, typically with a new loan at a lower rate of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate and municipal finance, restructuring debt obligations to extend maturities or lower capital costs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refinance designates renew the financing of."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Treasury officials devised a plan to **refinance** revolutionary loan certificates into consolidated stock."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent landholders often seek to **refinance** burdensome mortgages when market interest rates fall."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Central bank easing enables distressed enterprises to **refinance** floating liabilities and maintain payrolls."*

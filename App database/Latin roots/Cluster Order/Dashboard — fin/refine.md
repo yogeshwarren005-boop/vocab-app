@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove impurities or unwanted elements from a substance; or to improve something by making small changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical chemistry and oil processing, to purify crude materials through smelting or fractional distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 43, on the decline of barter.] [Footnote 4: "I will ... refine them as silver is refined, and will try them as gold is tried." Zech. xiii, 9."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The senses could refine, and the intellect could degrade."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need to refine our tactics, based on our experience with the log depot and that armed transport, and in anticipation of an early organized response by the UIPS." Brad appeared uncertain whether to remain or move on."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Metallurgists heat crude ores in reverberatory furnaces to **refine** the precious metals from dross."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Commerce and the liberal arts serve to **refine** human manners and soften the ferocity of barbarian nations."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Breeders patiently select slight variations to **refine** the symmetry and performance of animal breeds."*

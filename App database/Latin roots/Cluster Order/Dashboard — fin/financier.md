@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in large scale financial transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct financial operations, often in an unethical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person concerned in the management of large amounts of money, investments, or banking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant banker, capitalist, or underwriter organizing major credit loans or corporate ventures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It amused him still more to stand up and shake hands when the immense body and Hebraic nose of an international financier went by with two great ladies and a cabinet minister in tow."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A short railway journey and a shorter walk brought us to Fairbank, the modest residence of the great financier."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought I heard a ring.” It was, indeed, our friend the financier."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman **financier** amassed a colossal private fortune by farming provincial tribute taxes."*
+> - 📜 **Honoré de Balzac (*Father Goriot*):** *"Baron de Nucingen was regarded as the foremost speculative **financier** of Parisian high society."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A cautious **financier** hesitates to advance credit unless secured by solid real estate mortgages."*

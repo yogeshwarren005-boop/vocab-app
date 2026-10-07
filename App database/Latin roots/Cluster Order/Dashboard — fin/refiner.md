@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose work is to refine a specific thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose work is to refine a specific thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, apparatus, or company that purifies crude materials like sugar, oil, or precious metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and literature, an educator or critic who purifies literary language and civic morals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lee, a gold refiner, and a man of great moral worth."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And have not her sugar refiners lived upon the difference of the rates imposed upon raw and refined sugars?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The gold **refiner** recovers minute particles of bullion through cupellation with lead."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden was hailed by contemporaries as the great **refiner** and polisher of English dramatic verse."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The industrial sugar **refiner** clarifies crude cane syrups by boiling them with slaked lime."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of providing funds and capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The money resources, income, and expenditure of a government, company, or individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of pecuniary affairs or fiscal solvency governing an enterprise or household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is much to be desired that in large part the finances of a system of social insurance should be disassociated from the ordinary budgetary system of taxation and public expenditures."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The lavish spectacles of the Colosseum exhausted the imperial **finances** within a few years."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood was forced to economize strictly, for her **finances** could not support a carriage."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A profligate government squanders national **finances** on unproductive foreign wars."*

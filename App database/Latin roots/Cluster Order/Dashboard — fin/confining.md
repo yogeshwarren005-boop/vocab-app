@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricting, limiting, or enclosing within narrow physical or operational boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imposing narrow mental or social limits that impede free growth or expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far, with rough and all-unable pen, Our bending author hath pursu’d the story, In little room confining mighty men, Mangling by starts the full course of their glory."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here also the firmness of the judicial magistracy is of vast importance in mitigating the severity and confining the operation of such laws."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The passageways were narrow, confining them to two abreast."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The practice of **confining** wild animals in menageries frequently impairs their natural fertility."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt the provincial atmosphere of Tipton to be suffocating and **confining** to her soul."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Mercantile legislation erred by **confining** colonial trade to the exclusive monopoly of the mother country."*

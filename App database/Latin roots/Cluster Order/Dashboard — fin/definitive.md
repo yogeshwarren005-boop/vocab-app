@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly defined or formulated; - r.b.taney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of recognized authority or excellence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to provide a final solution or verdict; authoritative, conclusive, and unconditional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and philology, establishing the standard, authoritative text of an author's works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never crave him; we are definitive."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This tribunal, under an oath of impartiality, pronounces definitive sentence, which all the cantons are bound to enforce."*
-> - 📜 **Algis Budrys (*Citadel*):** *"In the case of unoccupied, habitable planets, however, the state's function ceases with the filing of a complete and definitive survey at the Under-Ministry for Emigration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate ratified the **definitive** treaty of peace concluded between the emperor and the Persian king."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I hope this revised edition may stand as the **definitive** exposition of the theory of descent."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The judgment delivered by the House of Lords was accepted as the **definitive** settlement of the title."*

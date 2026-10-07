@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of fine particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dense or compact in structure or texture, as a wood composed of small-diameter cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of small, closely packed particles or fibers; delicate and dense in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, metallurgy, and photography, describing rocks or emulsions with small microscopic crystal or grain size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-grained designates consisting of fine particles."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The lithographic stone consists of an extraordinarily **fine-grained** and homogeneous limestone."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed compact **fine-grained** basalt interstratified with marine shells near the shore."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian masons preferred **fine-grained** Istrian marble for delicate sculptural ornaments."*

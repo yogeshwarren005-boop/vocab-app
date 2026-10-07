@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to a fine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to a fine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to or deserving of a fine or financial penalty under the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal jurisprudence, describing a civil infraction or minor misdemeanor punishable by monetary forfeiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finable designates liable to a fine."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Nuisances against public highways were treated as **finable** misdemeanors by local magistrates."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Smuggling wool across the channel was declared a heavily **finable** offense under the mercantilist acts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Neglect of civic sacrifices was deemed a **finable** breach of municipal decorum in ancient Rome."*

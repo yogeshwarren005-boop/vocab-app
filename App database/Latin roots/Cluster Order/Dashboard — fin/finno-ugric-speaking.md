@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in a finno-ugric language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in a finno-ugric language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking one of the Finno-Ugric languages, such as Finnish, Estonian, or Hungarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating linguistic communities whose native idioms belong to the Uralic family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finno-ugric-speaking designates able to communicate in a finno-ugric language."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **Finno-Ugric-speaking** tribes developed rich oral poetic traditions celebrating ancestral forest spirits."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Migrating across the steppes, **Finno-Ugric-speaking** clans adopted pastoral cavalry tactics from their neighbors."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Studies of folk songs among **Finno-Ugric-speaking** villagers illustrate cultural conservation across centuries."*

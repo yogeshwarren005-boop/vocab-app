@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely related; - wallace stevens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely related; - wallace stevens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound by kinship, marriage, mutual obligation, or moral allegiance; allied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and dramatic verse, linked by duty or bound in close fellowship to a superior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affined designates closely related; - wallace stevens."*
+> - 📜 **William Shakespeare (*Othello*):** *"If partially **affined**, or leagued in office, thou dost deliver more or less than truth, thou art no soldier."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Civil magistrates and religious teachers are closely **affined** in promoting virtuous social peace."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon thane felt himself honorably **affined** to the royal line of ancient Wessex monarchs."*

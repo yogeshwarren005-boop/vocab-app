@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the essential quality of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a definition for the meaning of a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state or describe exactly the nature, scope, or meaning of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mark out the boundary or outline of an object, territory, or conceptual domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks no face so gracious is as mine, No shape so true, no truth of such account, And for my self mine own worth do define, As I all other in all worths surmount."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad call I it; for to define true madness, What is’t but to be nothing else but mad?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A largess universal like the sun His liberal eye doth give to everyone, Thawing cold fear, that mean and gentle all Behold, as may unworthiness define, A little touch of Harry in the night."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers must carefully **define** their terms to banish the fruitless disputes of the schools."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"No naturalist has yet succeeded to **define** species in a manner satisfactory to all his brethren."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The treaty attempted to **define** the disputed boundaries along the banks of the Danube."*

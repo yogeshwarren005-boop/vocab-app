@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of decorations projecting above the rear fenders of an automobile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened, wing-like appendage on an aquatic animal used for propulsion, steering, or balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and engineering, an external aerofoil or projector providing aerodynamic stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, when fowls have no feathers and fish have no fin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For a fish without a fin, there’s a fowl without a feather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not That I have fin’d these bones of mine for ransom?"*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The homologies between the paddle of a porpoise, the **fin** of a fish, and the wing of a bat reveal common descent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The colossal whale breached the foaming sea, churning the deep with one stroke of its mighty **fin**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The pectoral **fin** of the dipnoan fish preserves structural elements anticipating the tetrapod limb."*

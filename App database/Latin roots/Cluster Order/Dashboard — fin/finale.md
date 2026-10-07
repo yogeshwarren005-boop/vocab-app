@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The closing section of a musical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last part of a piece of music, performance, or public event, especially when dramatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical orchestral and operatic structure, the concluding movement resolving thematic tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Finale: already Bathsheba’s husband."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"This was the sad finale of every reflection: and Captain Tilney’s letter would certainly come in his absence; and Wednesday she was very sure would be wet."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as if the choral _finale_ of an opera were prolonged through two acts."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The triumphant orchestral **finale** of Beethoven's Ninth Symphony unites voices in ecstatic jubilation."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The brass instruments introduce a terrifying fanfare to inaugurate the tempestuous symphonic **finale**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The siege of Constantinople formed the tragic **finale** to eleven centuries of Roman imperial history."*

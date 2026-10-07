@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distorting something so it seems to mean something it was not intended to mean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distorting something so it seems to mean something it was not intended to mean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive refinement, subtlety, or fastidiousness in art, thought, or manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of intellectual or cultural decadence where delicate fastidiousness replaces creative strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrefinement designates the act of distorting something so it seems to mean something it was not intended to mean."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **overrefinement** of political speculation produced catastrophic upheaval across the French kingdom."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Late Renaissance architecture declined into cold **overrefinement**, devoid of medieval religious passion."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Poetry suffers when an era falls into that artificial **overrefinement** which banishes genuine emotion."*

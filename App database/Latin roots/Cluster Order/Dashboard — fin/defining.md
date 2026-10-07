@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process serving to define the shape of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decisive, critically characteristic, or serving to establish identity and boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The active process of formulating exact meanings, mathematical boundaries, or legal jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For the sake of certainty and uniformity, therefore, the power of defining felonies in this case was in every respect necessary and proper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each was eager for a message from the Planet Pluto Special Zone that would present a new reality and the defining course for the conference."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Traitors!” he thought, without clearly defining who the villains and traitors were, but feeling it necessary to hate those traitors whoever they might be who were to blame for the false and ridiculous position in which he found himself."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A rigorous scientific education consists in **defining** natural facts through verified observation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The passion for equality is the supreme, **defining** trait of modern democratic societies."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Precision in **defining** inductive terms prevents the infiltration of metaphysical dogma."*

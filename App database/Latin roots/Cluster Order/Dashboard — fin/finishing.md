@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of finishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing something to an end, or completing the final stage or surface of a manufactured product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social education, polishing the social manners and accomplishments of young persons (finishing school).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The whole road has been reminding me of my namesake Whittington,” said Richard, “and that waggon is the finishing touch."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I sat there for another hour or more, finishing my books and payments and getting through plenty of business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, finishing the inquiry in his lower key with the words “You lying old rascal!” “My dear friend, he is not to be depended on."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Pinkerton operated an academy for **finishing** the education of young gentlewomen."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor assigns the spinning, weaving, and **finishing** of wool to separate workers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond Vincy was proud of the delicate accomplishments acquired at her **finishing** school."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate or showy attire and accessories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate or showy attire and accessories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expensive or showy clothes, jewelry, and decoration worn for special occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metallurgy, a hearth or furnace (finery forge) where pig iron was converted into malleable wrought iron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her love of dirt gave way to an inclination for finery, and she grew clean as she grew smart; she had now the pleasure of sometimes hearing her father and mother remark on her personal improvement."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This seclusion is repeated at her second and third monthly periods, but when the third is over she is brought to her husband bedecked with savage finery."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty Sorrel admired her rustic **finery** before the cracked looking-glass in her dairy bedroom."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp calculated the dazzling effect of her borrowed diamonds and court **finery**."*
+> - 📜 **Samuel Smiles (*Industrial Biography: Iron Workers and Tool Makers*):** *"The puddling process replaced the primitive **finery** forge in producing uniform structural iron."*

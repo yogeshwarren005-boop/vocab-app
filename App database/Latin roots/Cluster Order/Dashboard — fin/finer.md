@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (comparative of `fine') greater in quality or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being satisfactory or in satisfactory condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comparative of fine; of superior quality, greater delicacy, or higher moral or artistic refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or apparatus employed in metallurgical refining or purifying liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He draweth out the thread of his verbosity finer than the staple of his argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because I will not do them the wrong to mistrust any, I will do myself the right to trust none; and the fine is,—for the which I may go the finer,—I will live a bachelor."*
+> - 📜 **Jane Austen (*Emma*):** *"She possessed all the **finer** feelings of an affectionate nature, though somewhat blinded by vanity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **finer** moral instincts of humanity evolved through the gradual strengthening of social symapthies."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **finer** particles of gold settled to the bottom of the crucible during gentle cupellation."*

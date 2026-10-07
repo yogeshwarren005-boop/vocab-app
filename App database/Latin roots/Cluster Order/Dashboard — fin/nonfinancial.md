@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not involving financial matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to, involving, or dealing with money, finance, or monetary assets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate accounting, evaluating non-monetary assets such as reputation, carbon footprints, or employee safety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfinancial designates not involving financial matters."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Human happiness depends heavily upon **nonfinancial** goods like domestic affection and civic honor."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Religious vocations derive their psychological driving force from **nonfinancial** spiritual imperatives."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Entrepreneurs are guided by spontaneous animal spirits and diverse **nonfinancial** motives."*

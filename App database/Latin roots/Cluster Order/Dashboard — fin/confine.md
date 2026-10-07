@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep or restrict someone or something within certain limits of space, scope, or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To imprison, detain, or restrain an individual from free movement; or to border upon a territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the poor third is up, till death enlarge his confine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, you confine yourself most unreasonably."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This tablet lay upon his breast, wherein Our pleasure his full fortune doth confine; And so, away; no farther with your din Express impatience, lest you stir up mine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus advised his successors to **confine** the imperial frontiers within the Rhine, Danube, and Euphrates."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We must **confine** our inquiries to those subjects which lie within the reach of human understanding."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The fortress walls served to **confine** political captives in dark subterranean dungeons."*

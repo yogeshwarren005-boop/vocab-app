@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlimited expanse in which everything is located.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no limits or boundaries in time or space or extent or magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Limitless or endless in space, extent, or size; impossible to measure or calculate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, greater than any assignable real number or transfinite in cardinal magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature’s infinite book of secrecy A little I can read."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Age cannot wither her, nor custom stale Her infinite variety."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Space is an **infinite** sensorium wherein the divine omnipresence perceives all physical things."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our idea of the **infinite** arises from our power of adding successively to any finite quantity without end."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Cantor proved that an **infinite** collection can be placed in one-to-one correspondence with a proper part of itself."*

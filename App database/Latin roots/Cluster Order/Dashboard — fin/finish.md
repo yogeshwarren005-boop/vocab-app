@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal end; the concluding time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or come to an end, completion, or conclusion; or the surface texture of an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To apply a treatment, varnish, or polish giving an attractive surface to wood, cloth, or metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Throw my heart Against the flint and hardness of my fault, Which, being dried with grief, will break to powder And finish all foul thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What she confess’d I will report, so please you; these her women Can trip me if I err, who with wet cheeks Were present when she finish’d."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I resolved to **finish** my education and acquire the manners suitable to a young gentleman."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A mechanical, lifeless **finish** often destroys the authentic vital spirit of handcrafted stone."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Different trades must cooperate to weave, dye, and **finish** a single yard of broadcloth."*

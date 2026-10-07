@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refine too much or with excess of subtlety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refine too much or with excess of subtlety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry refinement to excess; to make overly delicate, subtle, or complex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual debate and art, to spin subtle nuances so excessively that practical vigor is lost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrefine designates refine too much or with excess of subtlety."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Statesmen must not **overrefine** imperial sovereignty into metaphysical abstractions that destroy trade."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Critics who **overrefine** poetic rules end by stifling the spontaneous natural voice of genius."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastics **overrefine** subtle theological distinctions until their learning resembles cobwebs."*

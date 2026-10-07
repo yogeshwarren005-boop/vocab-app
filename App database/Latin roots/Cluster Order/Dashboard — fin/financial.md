@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving financial matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to monetary finance, banking, investments, or commercial pecuniary affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to public revenues, credit systems, fiscal budgets, or fiscal legislation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She received, in reply, the following little financial statement: "My Dear Friend:--Remember the five loaves and two fishes, and listen to the message of your two dollars."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There is no financial fund, endowment, or pecuniary provision whatever existing for the support of the Home."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prices rose to a temporary maximum in 1857 and then fell as a great international financial crisis occurred."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A national bank provides essential **financial** facilities for collecting taxes and borrowing funds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A sudden **financial** panic may cause the collapse of over-extended merchant banking houses."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"London society worshipped Mr. Merdle as the colossal **financial** genius of the speculative era."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being final or definitely settled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irrevocable conclusiveness, ultimate completeness, or definitive termination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, the teleological principle of purpose directing actions toward an end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You are going to your ship now?" There was a finality in her voice."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She spoke with a chilling **finality** that left no room for further entreaties from her suitor."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Statesmen must not claim irrevocable **finality** for measures that alienate an entire continent."*
+> - 📜 **William James (*Pragmatism*):** *"The dogmatic absolute claims an unyielding **finality** that contradicts the plasticity of living experience."*

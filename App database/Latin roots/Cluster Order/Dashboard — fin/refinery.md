@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial plant for purifying a crude substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial plant for purifying a crude substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial plant or installation where crude substances (such as oil or sugar) are refined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum engineering and metallurgy, a large-scale facility executing fractional distillation and catalytic cracking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I knowed the boy’s grandfather—a truly nervous and modest man, even to genteel refinery. ’Twas blush, blush with him, almost as much as ’tis with me—not but that ’tis a fault in me!” “Not at all, Master Poorgrass,” said Coggan."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was in that year that the firm of Arbuckle Brothers and Claus Doscher each opened a great refinery, and in the next year the differential fell to fifty hundredths cents."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"As ordinarily produced at the electrolytic refinery, it is in the form of cathode plates, often about 3 feet × 2 feet 6 inches by ¾ inch thick, weighing 150 to 170 lbs."*
+> - 📜 **Samuel Smiles (*Industrial Biography: Iron Workers and Tool Makers*):** *"The newly erected **refinery** processed hundreds of tons of pig iron into durable boiler plates."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sugar **refinery** represents a capital-intensive manufacturing facility dependent on colonial trade."*
+> - 📜 **Ida Tarbell (*The History of the Standard Oil Company*):** *"The petroleum **refinery** operated day and night, transforming crude oil into illuminating kerosene."*

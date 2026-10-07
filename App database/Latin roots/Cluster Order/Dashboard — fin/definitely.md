@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question and beyond doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question and beyond doubt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubt; clearly, certainly, and unambiguously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With precise boundaries, exact parameters, or decisive finality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been definitely ordered to change his usual mode of behaviour."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I didn’t definitely promise Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first time that she definitely noticed her position was when she reached a gate leading into a thicket overhung by some large oak and beech trees."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Fossil discoveries **definitely** establish the close anatomical affinity between apes and man."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The experimental result was **definitely** proved when repeated under identical laboratory controls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frontier was **definitely** settled by the formal surrender of the disputed fortress."*

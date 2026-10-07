@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to the desired final state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought to an end or conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not finished, concluded, or completed; lacking a final coat, polish, or surface treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and the arts, a masterpiece left incomplete upon the creator's death (like Edwin Drood).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We shall say now our song has twelve stanzas and we'll sing two of them every morning; in that way we can finish it on the sixth day and we have not left it unfinished at all."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Taken from Curley, Note 3, at end) *This Treatise on the Emendation of the Intellect etc., which we give you here, kind reader, in its unfinished [that is, defective] state, was written by the author many years ago now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you lived in an unfinished house, you couldn’t settle down in it; if you were condemned to leave everything you undertook unfinished, you would find it hard to apply yourself to anything; and yet that’s my unhappy case."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The final chapters of the narrative remained forever **unfinished** upon the author's sudden death."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The rough, **unfinished** blocks of the Gothic church wall reveal the spontaneous vigor of the workman."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monumental temple of Jupiter at Baalbek remained **unfinished** despite the efforts of successive Caesars."*

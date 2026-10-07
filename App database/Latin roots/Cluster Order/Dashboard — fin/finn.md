@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of finland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of finland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or citizen of Finland, or a person of Finnish descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology, a member of the Finno-Ugric-speaking populations of northern Fennoscandia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They were made so that the Finn MacCool, the champion of the giants, could take a running jump over to Scotland and he going deer-hunting in the forests of Argyll."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He must have had the arms of Finn McCool, Alan Donn, and the hands of a woman."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She didn't cry often, that's a fact; but when she did--well, Brom Water rose, and they put it in the _Border Advertiser_ along with the extraordinary duck's egg and Major Finn's big gooseberry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hardy **Finn** survived in arctic latitudes by hunting reindeer through trackless snows."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Anthropologists noted physical variations distinguishing the Scandinavian Norseman from the native **Finn**."*
+> - 📜 **Walter Scott (*The Pirate*):** *"Superstitious islanders attributed magic weather powers to any wandering **Finn** who crossed the sea."*

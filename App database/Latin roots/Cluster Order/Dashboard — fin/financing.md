@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of financing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain or provide money for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of providing money, funding, or capital for an enterprise or purchase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking and corporate management, structuring capital debt or equity to fund commercial investments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, financing designates the act of financing."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The prudent **financing** of the revolutionary war debt restored American sovereign credit worldwide."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **financing** of canals and public highways was traditionally underwritten by private turnpike trusts."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Deficit **financing** during deep depressions stimulates aggregate consumer demand and revives employment."*

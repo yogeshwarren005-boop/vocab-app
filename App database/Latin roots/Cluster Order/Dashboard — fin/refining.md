@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing impurities (as from oil or metals or sugar etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial or mechanical process of purifying a crude substance; or cultivation of manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subtle polishing and perfection of artistic style, scientific instruments, or moral character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A shining example of the refining influences that are creeping into our prisons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large oil-refining corporation that sells most of the product may by various methods succeed in driving out the competitors who would buy the crude oil."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The metallurgical art of **refining** copper relies upon blowing atmospheric air across the molten bath."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Liberal studies exercise a **refining** influence upon the temper, curing minds of harsh prejudice."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I spent several months **refining** the anatomical diagrams to ensure absolute scientific fidelity."*

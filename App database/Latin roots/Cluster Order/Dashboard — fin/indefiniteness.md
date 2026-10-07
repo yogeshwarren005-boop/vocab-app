@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being vague and poorly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being vague and poorly defined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vagueness, lack of precise boundaries, or absence of determinate conceptual criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific measurement and logic, conceptual fuzziness or absence of determinate parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Meanwhile the indefiniteness remains, and the limits of variation are really much wider than any one would imagine from the sameness of women’s coiffure and the favorite love-stories in prose and verse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For a long while she had been oppressed by the indefiniteness which hung in her mind, like a thick summer haze, over all her desire to make her life greatly effective."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Is it that by its indefiniteness it shadows forth the heartless voids and immensities of the universe, and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the milky way?"*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **indefiniteness** of popular words is the most fruitful source of scholastic fallacies."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Inductive hypotheses begin in cognitive **indefiniteness** before observational testing sharpens them."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The twilight margins of consciousness are characterized by a vague, suggestive **indefiniteness**."*

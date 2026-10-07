@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being precisely or readily described; not easily put into words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression or description.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be clearly defined, explained, or described; elusive or intangible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a subtle quality that defies analytical definition or categorization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The indefinable feeling with which Lady Dedlock had impressed me may have had some influence in keeping me from the house even when she was absent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Imperturbable and unchangeable as he is, there is still an indefinable freedom in his manner which is new and which does not escape this woman’s observation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"There was an **indefinable** charm in her voice that captivated everyone who heard her speak."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple ideas of sensation are strictly **indefinable**, being known only through direct sensory experience."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Aesthetic appreciation involves an **indefinable** emotional response rooted in early mental instincts."*

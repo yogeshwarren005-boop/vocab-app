@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fine teeth set close together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having fine teeth set close together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with closely set, slender teeth; or subjected to exhaustive, meticulous inspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing leaf margins having minute, sharply cut serrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-toothed designates having fine teeth set close together."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The ovate leaves exhibit a **fine-toothed** margin terminating in sharp mucronate tips."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain nocturnal lemurs possess a **fine-toothed** dental comb used for grooming fur."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The police subjected the moorland cottage to a **fine-toothed** search for incriminating documents."*

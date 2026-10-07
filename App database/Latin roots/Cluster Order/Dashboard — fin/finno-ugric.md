@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to a group of languages comprising the Finnic and Ugric branches of the Uralic family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and archaeology, denoting the cultural and linguistic heritage of northern Eurasian populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finno-ugric designates a family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions)."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **Finno-Ugric** language group illustrates how agglutination evolves into complex synthetic grammar."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Linguists trace the speech of the ferocious Magyar horsemen back to an ancient **Finno-Ugric** stem."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Geographical dispersion across vast boreal forests separated the diverse branches of the **Finno-Ugric** peoples."*

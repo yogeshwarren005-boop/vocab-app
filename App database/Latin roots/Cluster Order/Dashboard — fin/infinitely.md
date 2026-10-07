@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever without end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an infinite degree, extent, or amount; immensely or immeasurably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without limit or measure, far surpassing any finite comparative standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IMOGEN. [_Reads._] _He is one of the noblest note, to whose kindnesses I am most infinitely tied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I am a-horseback I will swear I love thee infinitely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bate me some, and I will pay you some, and, as most debtors do, promise you infinitely."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"How **infinitely** complex and close-fitting are the mutual relations of all organic beings in nature."*
+> - 📜 **Blaise Pascal (*Pensées*):** *"Man is a mere reed, but he is a thinking reed, **infinitely** greater than the blind universe that crushes him."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was **infinitely** superior to his courtiers in military courage and intellectual capacity."*

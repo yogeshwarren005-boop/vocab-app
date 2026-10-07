@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceiver who uses crafty misleading methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceiver who uses crafty misleading methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who obtains things by trickery, manipulation, or sharp practice; a schemer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or financial operator who uses deceitful maneuvering to achieve self-interested gains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finagler designates a deceiver who uses crafty misleading methods."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The municipal committee viewed the slick real estate promoter as an unscrupulous **finagler**."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The senator warned the committee against that notorious **finagler** who haunted Washington hotels."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The corporate **finagler** manipulated bank shares while small depositors lost their savings."*

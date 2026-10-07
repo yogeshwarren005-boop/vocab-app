@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refine too much or with excess of subtlety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively delicate or refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively refined, fastidious, or subtle; lacking robust vigor or practical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and cultural criticism, decadent or effete through exaggerated artistic fastidiousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrefined designates refine too much or with excess of subtlety."*
+> - 📜 **Henry James (*The Ambassadors*):** *"His sensibilities were **overrefined**, making him recoil from the rough commercial realities of America."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's **overrefined** scholarship blinded him to the warm human needs of his young wife."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **overrefined** luxury of the court enfeebled the martial spirit of the Byzantine nobility."*

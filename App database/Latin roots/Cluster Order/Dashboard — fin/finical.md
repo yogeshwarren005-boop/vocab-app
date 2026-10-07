@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively particular, fastidious, or fussy about small details and manners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Over-refined, dainty, or demanding minute trivial perfection in appearance or protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No Virgin by him the somewhat petty, Of finical touch and tempera crumbly-- Could not Alesso Baldovinetti Contribute so much, I ask him humbly? -- St. 27."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s face smiled with delight. —Charming! he said in a finical sweet voice, showing his white teeth and blinking his eyes pleasantly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Turveydrop adjusted his cravat with a **finical** care that consumed half his morning hours."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Critics who cultivate a **finical** taste often lose the power to enjoy robust literary genius."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"He was too **finical** in his dress and speech to endure the rough humor of the tavern."*

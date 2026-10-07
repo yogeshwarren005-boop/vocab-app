@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sew together very finely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sew together very finely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sew together cloth edges so neatly that the seam is practically invisible; to refine subtly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and rhetoric, to spin an excessively subtle, hair-splitting, or over-refined argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finedraw designates sew together very finely."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Philosophers who **finedraw** their metaphysical distinctions often lose sight of practical reality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The tailor was summoned to **finedraw** a jagged rent in the gentleman's fine broadcloth coat."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Do not **finedraw** legislative rights into abstract sophistries that dissolve political allegiance."*

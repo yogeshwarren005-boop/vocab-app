@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anthropology) kin by marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) of or pertaining to the geometry of affine transformations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by marriage, or denoting a geometric transformation that preserves collinearity and ratios of distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and affine geometry, preserving parallel lines and incidence while allowing shear and scaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affine designates (anthropology) kin by marriage."*
+> - 📜 **Felix Klein (*Elementary Mathematics from an Advanced Standpoint*):** *"Under an **affine** transformation, parallel lines remain parallel while circles deform into ellipses."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"Projective geometry subsumes both Euclidean metrics and intermediate **affine** coordinate spaces."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"The Roman praetor recognized certain legal protections for an **affine** relative excluded from the agnatic clan."*

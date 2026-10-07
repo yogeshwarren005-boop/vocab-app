@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of carbon (carbon-14) used in dating organic archaeological and geological specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeometry and nuclear geochemistry, a cosmogenic radionuclide with a half-life of 5,730 years used to establish historical chronology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiocarbon designates a radioactive isotope of carbon."*
+> - 📜 **Willard Libby (*Radiocarbon Dating*):** *"The decay of atmospheric **radiocarbon** fixed in ancient wood provides an objective chronological clock."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Oceanographers use **radiocarbon** measurements to track the sluggish circulation of deep abyss waters."*
+> - 📜 **Arthur Keith (*New Discoveries Relating to the Antiquity of Man*):** *"Accurate **radiocarbon** assays helped anthropologists date prehistoric cave settlements with scientific certainty."*

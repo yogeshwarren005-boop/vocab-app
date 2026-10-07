@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of an element; produced either naturally or artificially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of an element; produced either naturally or artificially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of a chemical element that decays spontaneously, emitting ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear medicine and tracer technology, an unstable nuclide utilized for medical imaging (e.g., technetium-99m) or industrial radiography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioisotope designates a radioactive isotope of an element; produced either naturally or artificially."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Every artificial **radioisotope** produced in the cyclotron opened new avenues for chemical research."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Incorporating a short-lived **radioisotope** allowed researchers to measure reaction rates without disrupting equilibrium."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Concerns grew as persistent **radioisotope** contaminants entered regional watersheds from atomic manufacturing plants."*

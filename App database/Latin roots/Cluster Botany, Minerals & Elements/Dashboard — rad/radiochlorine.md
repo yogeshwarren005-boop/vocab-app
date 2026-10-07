@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of chlorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of chlorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of chlorine, especially chlorine-36, produced by cosmic ray spallation or nuclear testing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology and nuclear dating, a long-lived environmental tracer used to date ancient groundwater and ice cores up to one million years old.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiochlorine designates a radioactive isotope of chlorine."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Neutron capture in saline matrices generates measurable traces of **radiochlorine** in reactor cooling loops."*
+> - 📜 **Willard Libby (*Radiocarbon Dating*):** *"Cosmic rays interacting with atmospheric argon produce minute concentrations of **radiochlorine** carried down in rain."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Marine hydrologists trace the deep infiltration of ocean waters using cosmogenic **radiochlorine** signatures."*

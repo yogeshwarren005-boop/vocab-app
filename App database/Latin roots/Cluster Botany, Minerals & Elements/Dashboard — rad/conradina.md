@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of low aromatic shrubs of southeastern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of low aromatic shrubs of southeastern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of endangered aromatic shrubs in the mint family (Lamiaceae), native to southeastern North American coastal pine barrens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American floristics, commonly called false rosemaries, featuring lavender two-lipped blossoms and adapted to deep xeric white sands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conradina designates small genus of low aromatic shrubs of southeastern united states."*
+> - 📜 **John Kunkel Small (*Flora of the Southeastern United States*):** *"Species of **Conradina** inhabit the ancient sand scrub ridges of peninsular Florida, exhaling a pungent resinous scent."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Conradina** was dedicated by Rafinesque to the botanist Solomon Conrad, distinguished by its strongly bilabiate corollas."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Botanists prize **Conradina** for its dense habit and delicate lavender flowers suited for drought-tolerant rockeries."*

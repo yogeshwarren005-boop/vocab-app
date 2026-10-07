@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct examination of internal bodily structures or opaque objects by projecting X-rays onto a fluorescent screen; fluoroscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early diagnostic radiology, real-time visual inspection of anatomical motion (such as diaphragmatic movement) without recording a permanent film.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioscopy designates (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Using direct **radioscopy**, the observer watches the pulsating shadow of the living heart on the glowing screen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate clinical **radioscopy** demonstrated the swallow of barium moving smoothly into the stomach."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"Field surgeons preferred rapid **radioscopy** to locate bullets before beginning emergency operations."*

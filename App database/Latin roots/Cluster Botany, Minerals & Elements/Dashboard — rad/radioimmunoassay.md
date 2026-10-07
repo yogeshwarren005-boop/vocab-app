@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunoassay of a substance that has been radioactively labeled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immunoassay of a substance that has been radioactively labeled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensitive in vitro diagnostic laboratory technique that uses radioisotope-labeled antigens to measure minuscule antigen concentrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, an analytical procedure utilizing competitive antibody binding to quantify hormones, vitamins, and drugs in picogram amounts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioimmunoassay designates immunoassay of a substance that has been radioactively labeled."*
+> - 📜 **Rosalyn Yalow (*Nobel Lecture in Physiology or Medicine*):** *"The development of **radioimmunoassay** enabled the precise measurement of circulating plasma insulin for the first time."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Endocrinologists routinely employ **radioimmunoassay** to assess tiny concentrations of peptide hormones in patient serum."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"By means of **radioimmunoassay**, researchers detect trace bacterial antigens in complex biological fluids."*

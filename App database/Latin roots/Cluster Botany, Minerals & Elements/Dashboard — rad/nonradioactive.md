@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not radioactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not radioactive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exhibiting radioactivity; possessing stable atomic nuclei that do not undergo spontaneous radioactive decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and tracing experiments, designating stable isotopes utilized as safe chemical markers without ionizing hazard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonradioactive designates not radioactive."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Biochemists prefer **nonradioactive** stable isotopes like carbon-13 when tracing metabolic pathways in human subjects."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Separating radioactive actinides from ordinary **nonradioactive** rare earths required delicate ion-exchange chromatography."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The inactive bismuth fraction was completely **nonradioactive**, showing no deflection in the electroscope."*

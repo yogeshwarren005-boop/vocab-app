@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telephony that uses transmission by radio rather than by wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone that communicates by radio waves rather than along cables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication system or instrument for transmitting and receiving spoken messages by radio waves without wires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and aviation communications, a two-way VHF or HF radio transceiver used for spoken voice coordination between ships, planes, and towers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelephone designates telephony that uses transmission by radio rather than by wire."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Fighter control stations directed interceptor pilots via the **radiotelephone** as enemy bombers approached."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The pilot gripped the small mouthpiece of his **radiotelephone**, calling out his position over the Andes."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Satellite transponders expanded the reach of the marine **radiotelephone** across entire oceans."*

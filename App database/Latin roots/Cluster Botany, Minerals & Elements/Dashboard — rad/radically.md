@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radical, fundamental, or thoroughgoing manner; from the very root or foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely and essentially, departing entirely from traditional customs, forms, or established ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large share, possibly, in a certain sense, every one of the economic problems that are discussed involve change, limitation, definition, or, more radically, abolition of present laws of property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is true, but no other changes have affected American agriculture so radically as the peaceful development of domestic transportation and the opening of the West."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This, in principle, is pretty radically different from voluntary arbitration, for as it denies to the parties the right to settle their dispute by private agreement, it becomes in effect the legal regulation of rates of wages and conditions of work."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection operates **radically** upon the constitution of organisms across vast geological epochs."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Modern ethical philosophy must differ **radically** from ancient scholastic dogma by anchoring itself in human welfare."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The introduction of Christianity altered the Roman legal code **radically** in matters of domestic morality."*

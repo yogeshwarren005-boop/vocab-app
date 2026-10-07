@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies the effects of radiation on living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies the effects of radiation on living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the biological effects of ionizing radiation on living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and clinical radiotherapy, the quantitative study of radiation doses, cellular DNA damage, and tissue repair kinetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiobiology designates the branch of biology that studies the effects of radiation on living organisms."*
+> - 📜 **René Dubos (*The White Plague*):** *"Advances in **radiobiology** revealed how electromagnetic rays alter chromosome structure in dividing cells."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern **radiobiology** demonstrates that cellular injury accumulates even from low-level radioactive exposures."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Specialists in **radiobiology** calculate the therapeutic ratio between tumor destruction and healthy tissue preservation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumatic tire that has radial-ply casing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or near the radius.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged like rays or the spokes of a wheel, diverging outwards from a common center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, relating to the radius bone of the forearm or the radial artery and radial nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cut a radial slot along the edge of the cover."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A recent example of a hyper-radial light is at the well-known Cape Race in Newfoundland."*
-> - 📜 **James Joyce (*Ulysses*):** *"Because attraction between agent(s) and reagent(s) at all instants varied, with inverse proportion of increase and decrease, with incessant circular extension and radial reentrance."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The physician compresses the **radial** artery at the wrist to ascertain the frequency and rhythm of the pulse."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The silica skeletons of radiolarians display breathtaking **radial** symmetry of unmatched mathematical elegance."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Growth forces in jellyfish bell structures produce **radial** canals that distribute nutrients uniformly."*

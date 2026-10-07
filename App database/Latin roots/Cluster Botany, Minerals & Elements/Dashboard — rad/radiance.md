@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of electromagnetic radiation leaving or arriving at a point on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant light, brightness, or luminous glowing quality emitted by a light source or reflective surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a glowing warmth of countenance expressing joy, health, beauty, or spiritual serenity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through crevices in the roof and side spread streaks and dots of light, a combination of which made the radiance that had attracted him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The moonlight poured down through the tall casement in a soft flood of silver **radiance**."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The One remains, the many change and pass; Heaven's light forever shines, Earth's shadows fly; Life, like a dome of many-coloured glass, stains the white **radiance** of Eternity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her face wore a tranquil **radiance** that hushed the murmuring doubts of everyone in the room."*

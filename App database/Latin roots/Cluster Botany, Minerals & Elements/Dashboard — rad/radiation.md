@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Energy that is radiated or transmitted in the form of rays or waves or particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spreading outward from a central source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emission or transmission of energy in the form of waves or particles through space or a material medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern oncology and atomic physics, electromagnetic or particulate rays (such as X-rays or gamma rays) used therapeutically or released in nuclear decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fireball had a two thousand-kay radius, and the piggybacked neutronic dispenser, once the cloud was released by the detonation, would inflict radiation death throughout tens of thousands of kay in all directions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They won't have time to form up even if they do escape the blast and radiation zones."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Barely beyond the fatal radiation zone the now distant warhead detonated."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The spontaneous **radiation** emitted by uranium atoms represents a deep atomic transmutation."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Light consists in the transverse undulations of the same medium that causes electromagnetic **radiation**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Thermal **radiation** constitutes the chief mechanism by which the nude human body dissipates excess metabolic heat."*

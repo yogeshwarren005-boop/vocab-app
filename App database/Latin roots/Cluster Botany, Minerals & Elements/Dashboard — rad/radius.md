@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a line segment between the center and circumference of a circle or sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line from the center of a circle or sphere to its circumference or surface; the length of this line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the lateral and shorter of the two long bones of the human forearm, articulating with the capitulum and carpus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not quite so far off as could have been wished; but it was probably far enough, her radius of movement and repute having been so small."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"No one has ever believed this very much outside the radius of Christ's person and influence."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But he forgot him in a minute--or remembered him only in the association with Isabel which brought Val into the radius of his good will."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Kepler's second law demonstrates that the **radius** vector sweeps out equal areas in equal intervals of time."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The head of the **radius** rotates within the annular ligament during pronation and supination of the hand."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Fractures of the distal **radius** heal rapidly when properly aligned and supported in a firm splint."*

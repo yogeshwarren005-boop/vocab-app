@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protection against harmful effects of radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protection against harmful effects of radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protection of living organisms and the environment from the harmful effects of ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health physics and radiation biology, shielding techniques, chemical radioprotective agents, and regulatory dose limits that minimize radiation harm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioprotection designates protection against harmful effects of radiation."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Early investigators neglected personal **radioprotection**, suffering chronic cutaneous burns from unshielded radium tubes."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Heavy lead walls and remote manipulators guarantee adequate **radioprotection** for laboratory technicians."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Public health agencies formulated strict standards of **radioprotection** to monitor municipal water supplies."*

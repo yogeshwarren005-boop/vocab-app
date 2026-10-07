@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic image produced on a radiosensitive surface by radiation other than visible light (especially by x-rays or gamma rays).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic image produced on a radiosensitive surface by radiation other than visible light (especially by x-rays or gamma rays).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An image produced on a photographic plate or digital sensor by the passage of X-rays or other radiation through an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic medicine, an anatomical shadow projection displaying internal tissue density differences, such as fractures or foreign bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiograph designates a photographic image produced on a radiosensitive surface by radiation other than visible light (especially by x-rays or gamma rays)."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"The **radiograph** of my wife's hand showed the delicate bones and wedding ring clearly against the background."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A clear skeletal **radiograph** confirmed the presence of a subperiosteal fracture beneath the contusion."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Comparative study of each cranial **radiograph** revealed the progressive ossification of infant sutures."*

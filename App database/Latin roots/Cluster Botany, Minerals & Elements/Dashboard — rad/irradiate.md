@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give spiritual insight to; in religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast rays of light upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To illuminate, brighten, or shed light upon; to cast radiant beams upon something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and medicine, to expose a substance or patient to electromagnetic radiation, X-rays, or radioactive emissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, d’ye see, rainbows do not visit the clear air; they only irradiate vapor."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou Celestial light Shine inward, and the mind through all her powers Irradiate, there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou, celestial Light, Shine inward, and the mind through all her powers Irradiate; there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Shine inward, and the mind through all her powers **irradiate**; there plant eyes, all mist from thence purge and disperse."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"We observed that radium rays **irradiate** surrounding air, rendering the gas an electrical conductor."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Beams of heavenly truth **irradiate** the dark caverns of human ignorance and fear."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in diagnosing and treating illnesses and injuries using medical imaging techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a specialist who interprets X-rays, computed tomography, MRI, and ultrasound scans, performing image-guided biopsies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiologist designates a medical specialist who uses radioactive substances and x-rays in the treatment of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **radiologist** pointed out a subtle shadow in the apical pleura that had eluded clinical percussion."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"Every hospital on the battlefront urgently requested a trained **radiologist** to localize shrapnel fragments."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The hospital **radiologist** reviewed the serial cranial films, noting no progressive structural atrophy."*

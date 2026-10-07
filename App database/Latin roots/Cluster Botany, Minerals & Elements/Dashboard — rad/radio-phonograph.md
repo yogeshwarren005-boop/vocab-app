@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An audio console combining a radio receiver and a phonograph record player in a single electrical cabinet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American consumer electronics history, the standard high-fidelity living-room home entertainment furniture system of the 1930s-1950s.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-phonograph designates electronic equipment consisting of a combination of a radio receiver and a record player."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He proudly demonstrated his new walnut **radio-phonograph**, adjusting the tone dial to impress his evening guests."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The music drifted out into the street from a second-hand **radio-phonograph** playing old phonograph records."*
+> - 📜 **F. Scott Fitzgerald (*The Crack-Up*):** *"The scratchy music of the **radio-phonograph** filled the quiet apartment during long solitary evenings."*

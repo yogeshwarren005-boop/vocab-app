@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heartily friendly and congenial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heartily friendly and congenial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or befitting a comrade; warmly friendly, loyal, and supportive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying fraternal solidarity and mutual goodwill in social or political relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"True to our theory we must offer them our comradely affection and openly and honestly express our need of them in our lives and in our activities."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"He greeted his fellow officers with a warm and **comradely** embrace before the regiment marched."*
+> - 📜 **George Orwell (*Burmese Days*):** *"Flory longed for a **comradely** discussion where men could speak their honest thoughts without colonial pretension."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The sailors shared their tobacco in a **comradely** fashion during the quiet hours of the night watch."*

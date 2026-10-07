@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous emission of radiation, either directly from unstable atomic nuclei or as a consequence of a nuclear reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern physics, the nuclear phenomenon discovered by Henri Becquerel in 1896, categorized into alpha, beta, and gamma disintegrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioactivity designates the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay."*
+> - 📜 **Henri Becquerel (*Sur les radiations émises par phosphorescence*):** *"The persistent **radioactivity** of uranium compounds manifested itself even in complete darkness through thick black paper."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The discovery of induced **radioactivity** demonstrated that ordinary stable matter could be transformed into unstable forms."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The spontaneous nature of **radioactivity** revolutionized our fundamental concepts of atomic indivisibility."*

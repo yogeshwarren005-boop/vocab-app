@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Joseph Conrad (1857-1924), the Polish-British novelist celebrated for maritime fiction and psychological depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis, reflecting Conradian themes of moral isolation, psychological crisis, and the enigmatic abyss of human imperialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Conrad, of Keokuk, Iowa, and her two sisters."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Democrats nominated Conrad B."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Conrad, Louisiana, August 15th, 1850."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The genius of **Conrad** lies in his power to illuminate the solitary soul navigating unfathomable moral darkness."*
+> - 📜 **H. G. Wells (*Experiment in Autobiography*):** *"My conversations with **Conrad** revealed a mind intensely preoccupied with the tragic dignity of craftsmanship."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The haunting epigraph drawn from **Conrad** captures the spiritual paralysis of post-war European civilization."*

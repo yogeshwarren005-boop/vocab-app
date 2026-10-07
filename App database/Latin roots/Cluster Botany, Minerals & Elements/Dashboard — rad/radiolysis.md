@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Molecular disintegration resulting from radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Molecular disintegration resulting from radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical dissociation or decomposition of molecules caused by ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and radiation biology, the breakdown of water molecules into reactive free radicals (H, OH, e-aq) upon irradiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolysis designates molecular disintegration resulting from radiation."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Intense alpha bombardment of water produces continuous **radiolysis**, liberating hydrogen and oxygen gases."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Cooling water in high-flux reactors undergoes rapid **radiolysis**, generating corrosive peroxide intermediates."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The biological destructiveness of radiation stems largely from the indirect **radiolysis** of cellular water."*

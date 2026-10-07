@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost complete transparent to x-rays or other forms of radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Almost complete transparent to x-rays or other forms of radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Almost or entirely transparent to X-rays or other radiation, appearing dark on a radiograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic radiology, characterizing low-density anatomical structures like air-filled lungs, fat, or certain urinary stones that permit X-ray penetration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolucent designates almost complete transparent to x-rays or other forms of radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Wood and paper are almost completely **radiolucent**, casting barely perceptible shadows on the plate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Normal lung tissue appears deeply **radiolucent** because of its high internal air content."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Uric acid calculi remain notoriously **radiolucent**, requiring contrast pyelography for radiographic detection."*

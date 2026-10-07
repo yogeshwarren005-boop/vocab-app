@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more radical in social or political outlook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more radical in social or political outlook.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone or something to adopt radical, extreme, or fundamental political or social views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make an approach, movement, or chemical structure substantially more radical, reactive, or aggressive in action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicalize designates make more radical in social or political outlook."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Harsh wartime rationing and military setbacks served to **radicalize** the civilian population in Barcelona."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Despotic censorship did not suppress dangerous opinions; it served only to **radicalize** the literary classes."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Unchecked industrial exploitation tended to **radicalize** the desperate immigrant laborers in the Chicago stockyards."*

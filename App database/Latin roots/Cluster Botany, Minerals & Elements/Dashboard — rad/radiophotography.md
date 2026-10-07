@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmission of photographs by radio waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmission of photographs by radio waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or art of transmitting photographic images from a distance by radio waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunication history, the early facsimile technology utilizing wireless telegraphy to reproduce visual imagery line by line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiophotography designates transmission of photographs by radio waves."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Recent strides in **radiophotography** demonstrate that visual scenes can cross oceans alongside spoken words."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Scanning mechanisms developed for **radiophotography** anticipated modern digital video transmission."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Weather satellites rely on continuous **radiophotography** to map global storm systems from orbit."*

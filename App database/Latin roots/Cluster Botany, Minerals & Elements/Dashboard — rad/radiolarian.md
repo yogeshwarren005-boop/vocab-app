@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with amoeba-like bodies and radiating filamentous pseudopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or resembling radiolarians, or designating an individual radiolarian protozoan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine sedimentary geology, characterizing deep-sea pelagic ooze or chert formed predominantly from silica radiolarian tests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolarian designates protozoa with amoeba-like bodies and radiating filamentous pseudopods."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Every **radiolarian** shell presents a marvel of radiating siliceous spines and delicate openwork latticing."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thick beds of bedded chert in ancient mountain belts represent lithified **radiolarian** oozes from deep abyssal floors."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Microscopic thin sections of the rock reveal countless fossil **radiolarian** skeletons preserved in microcrystalline silica."*

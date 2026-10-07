@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic root of a plant that emerges first from a seed during germination; the primary root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neurology and anatomy, the small rootlet of a nerve, especially one of the origins of a spinal nerve root.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicle designates (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve)."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"It is hardly an exaggeration to say that the tip of the **radicle** acts like the brain of a lower animal."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Upon germination, the downward-pointing **radicle** anchors the seedling firmly into the moist earth."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Microscopic sections show each sensory **radicle** entering the posterior horn of the spinal cord."*

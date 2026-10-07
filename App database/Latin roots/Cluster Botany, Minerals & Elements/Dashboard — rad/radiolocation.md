@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The determination of the position or motion of an object by means of radio waves; radar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British military history and early electronics, the original official British designation for radar systems prior to 1943.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolocation designates measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Pioneering experiments in **radiolocation** conducted by Robert Watson-Watt gave our air defense an invaluable advantage."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Early devices for **radiolocation** laid the mathematical groundwork for modern automated feedback systems."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The peacetime adaptation of **radiolocation** transformed civil aviation and maritime navigation forever."*

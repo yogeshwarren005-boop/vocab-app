@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radioactive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radioactive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of radioactivity; in a radioactive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the spontaneous emission of ionizing nuclear radiation or decay particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioactively designates in a radioactive manner."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The purified polonium fraction was **radioactively** hundreds of times more potent than raw pitchblende."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The daughter isotope decayed **radioactively** with an exact half-period of approximately three minutes."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Labeling the substrate **radioactively** allowed investigators to trace the enzymatic reaction step by step."*

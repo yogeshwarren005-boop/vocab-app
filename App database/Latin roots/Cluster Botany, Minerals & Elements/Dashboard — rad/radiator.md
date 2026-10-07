@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any object that radiates energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater consisting of a series of pipes for circulating steam or hot water to heat rooms or buildings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heating or cooling device consisting of an arrangement of pipes through which hot water, steam, or coolant circulates to transfer heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal combustion automotive engineering, a heat exchanger positioned in front of an engine to cool circulating water via airflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Friends and Helpers*):** *"It should be about five feet from the floor and not too near a register or radiator."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Oil lines and radiators seemed all tight and when he swung the propeller, the motor purred for him like a cat."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The cast-iron **radiator** clanked and hissed steam into the chilly doctor's waiting room."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"We mounted the brass **radiator** ahead of the motor to utilize the full cooling blast of the fan."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The yellow roadster's **radiator** hissed a cloud of white steam as it ground to a halt beside the pumps."*

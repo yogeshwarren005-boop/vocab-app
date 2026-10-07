@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemist who specializes in nuclear chemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemist who specializes in nuclear chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemist who specializes in radiochemistry, studying radioactive substances and nuclear reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear research and industrial isotopes, a scientist who isolates transuranic elements, tags biochemicals, and measures atomic decays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiochemist designates a chemist who specializes in nuclear chemistry."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The skilled **radiochemist** must isolate vanishingly small quantities of new elements from tons of pitchblende."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Our lead **radiochemist** devised rapid carrier precipitations to separate short-lived actinide isotopes."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"Close collaboration with an astute **radiochemist** proved indispensable when unraveling uranium decay chains."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium for communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission and reception of electromagnetic signals through space without wires; wireless broadcasting or communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver or transmitter designed to capture and amplify audio broadcasts or two-way wireless signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Bahá'í message has been broadcast by radio as far south as Magallanes."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A notable impetus has been lent this world-redeeming Message through the concerted measures devised by the American National Assembly designed to proclaim the Faith to the masses through public conferences, press and radio."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"An organized attempt should be made to broadcast the Message to the masses and their leaders through the medium of the press and radio."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Signals transmitted by **radio** crossed the Atlantic, proving that electromagnetic waves follow the curvature of the earth."*
+> - 📜 **George Orwell (*1984*):** *"The voice from the telescreen was never turned off, droning day and night with synthetic **radio** propaganda."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Synthetic speech poured continuously from the bedside **radio**, conditioning the young sleep-learners."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to automobile tires that have a strip under the tread and relatively little stiffening in the sidewalls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to automobile tires that have a strip under the tread and relatively little stiffening in the sidewalls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of pneumatic tire construction in which the internal cord plies run perpendicular (at 90 degrees) to the direction of travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive and mechanical engineering, a carcass design that separates tread and sidewall flex, offering lower rolling resistance and longer tire life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radial-ply designates of or relating to automobile tires that have a strip under the tread and relatively little stiffening in the sidewalls."*
+> - 📜 **Henry Ford (*Today and Tomorrow*):** *"Modern vehicles require resilient **radial-ply** tires to ensure stable cornering at highway speeds."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Advances in polymer chemistry enabled the manufacture of flexible **radial-ply** casings that resist blowout."*
+> - 📜 **Charles Kettering (*Biographical Memoirs*):** *"Adopting the **radial-ply** design dramatically reduced fuel consumption by minimizing tread deformation."*

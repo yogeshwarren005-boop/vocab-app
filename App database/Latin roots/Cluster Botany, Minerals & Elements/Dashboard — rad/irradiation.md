@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being exposed to radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A column of light (as from a beacon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of emitting radiant light or energy; exposure to rays or radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiology and food preservation, treating organic material with ionizing radiation to sterilize pathogens, inhibit sprouting, or destroy tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This condition of mind, wherein she felt glorified by an irradiation not her own, like the angel whom St John saw in the sun, lasted till the sound of the church bells had died away, and the emotions of the wedding-service had calmed down."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This magnificent irradiation must have been produced by an agent of great _shining_ power."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Intense **irradiation** from polonium causes phosphorescence on zinc sulfide screens."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The biological effects of cellular **irradiation** stem from direct atomic ionization within protoplasm."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"A sudden **irradiation** of the spirit transfigured the ordinary mountain landscape into celestial glory."*

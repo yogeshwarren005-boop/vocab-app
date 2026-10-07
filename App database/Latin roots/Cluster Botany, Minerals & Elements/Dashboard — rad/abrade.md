@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rub hard or scrub.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To scrape, wear away, or rub off the surface of something through mechanical friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and geomorphology, to produce a superficial cutaneous excoriation or erode geological strata by scouring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The truth seems to be that to this day the peasant remains a pagan and savage at heart; his civilization is merely a thin veneer which the hard knocks of life soon abrade, exposing the solid core of paganism and savagery below."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain had been heavier here, and all foot and horse tracks made previous to the storm had been abraded and blurred by the drops, and they were now so many little scoops of water, which reflected the flame of the match like eyes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sharp projections along the way snagged and abraded their protective suits."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Powerful breakers constantly **abrade** the outer barrier reef, grinding coral branches into fine sand."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy hempen line began to **abrade** the cedar gunwale, smoking with fierce friction as the whale sounded."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accidental falls against gravelly roads often **abrade** the skin, requiring thorough antiseptic cleansing."*

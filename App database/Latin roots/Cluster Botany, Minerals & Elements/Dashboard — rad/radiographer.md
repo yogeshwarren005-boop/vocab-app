@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes radiographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes radiographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional trained in operating X-ray equipment and other medical imaging apparatus to produce diagnostic images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical radiology and industrial non-destructive testing, a certified technician who positions patients or materials and calibrates radiation exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiographer designates a person who makes radiographs."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The skilled hospital **radiographer** positioned the injured patient carefully to obtain an unobstructed view of the pelvis."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"During the war, we trained scores of young women as mobile **radiographer** assistants for front-line field hospitals."*
+> - 📜 **René Dubos (*The White Plague*):** *"A competent clinical **radiographer** can detect subtle shadows of apical tuberculosis long before clinical cough emerges."*

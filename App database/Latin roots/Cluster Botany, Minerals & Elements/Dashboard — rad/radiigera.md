@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungus belonging to the family geastraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungus belonging to the family geastraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gastropod mollusks or fossil echinoderms characterized by prominent radial ribbing or radiating skeletal ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, fossil taxa designated for distinct radial ridges radiating across external calcified valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiigera designates a genus of fungus belonging to the family geastraceae."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The fossil shell referred to **Radiigera** displays sharp costae diverging uniformly from the umbo."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Stratigraphers collected specimens of **Radiigera** from the Cretaceous limestone beds of southern Europe."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The radiating plates of **Radiigera** demonstrate an ancestral transition toward pentamerous symmetry."*

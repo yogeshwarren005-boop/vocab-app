@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the radicle of a nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the radicle of a nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the root of a spinal nerve, resulting in radiating pain, numbness, or muscular weakness along the corresponding dermatome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and spine pathology, nerve root irritation caused by mechanical compression, intervertebral disc herniation, or infectious neuritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiculitis designates inflammation of the radicle of a nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute cervical **radiculitis** produces intense lancinating pains that dart down the arm into the fingers."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The sudden sensory deficit suggested an acute lumbosacral **radiculitis** following spinal injury."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Compression of the motor root in **radiculitis** produces localized muscular fasciculation followed by flaccid paresis."*

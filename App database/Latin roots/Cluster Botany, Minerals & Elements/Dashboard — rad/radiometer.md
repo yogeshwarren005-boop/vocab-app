@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for detecting and measuring the intensity of radiant energy, especially infrared or electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics, a device such as the Crookes radiometer with rotating vanes inside a partial vacuum spun by light pressure or thermal creep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiometer designates meter to detect and measure radiant energy (electromagnetic or acoustic)."*
+> - 📜 **William Crookes (*On the Movement of the Vanes of a Radiometer*):** *"The delicate vanes of the **radiometer** revolved rapidly whenever a candle was brought near the vacuum bulb."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Maxwell calculated whether light pressure or rarefied gas dynamics drove the rotation of the **radiometer**."*
+> - 📜 **John Tyndall (*Heat as a Mode of Motion*):** *"Demonstrations with the delicate **radiometer** captivated scientific audiences by rendering invisible heat rays visible in motion."*

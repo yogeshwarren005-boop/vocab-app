@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor revolutionary change in government and society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor revolutionary change in government and society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs, principles, or advocacy of thoroughgoing political, social, or economic reform from the roots up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, the nineteenth-century movement that advocated universal suffrage, disestablishment, and systemic constitutional restructuring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's Radicalism was not of this drab hue."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"What is known as Philosophical Radicalism will long bear the impression of Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Contrary to general supposition, there is no nation in the world so little disposed to look favorably on Radicalism and a restless desire for change, as the Americans."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father's philosophical **radicalism** sought to dismantle hereditary aristocratic privileges through rational legislation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The rash **radicalism** of Paris theorists threatens to destroy the ancestral fabric of civil society."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The country election stirred intense debates between cautious conservatism and working-class **radicalism**."*

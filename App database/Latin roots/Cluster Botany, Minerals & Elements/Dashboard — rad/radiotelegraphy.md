@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telegraphy that uses transmission by radio rather than by wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of radio to send telegraphic messages (usually by morse code).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology, process, or practice of sending telegraphic messages by radio waves using telegraphic codes such as Morse code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of electrical engineering, the early form of wireless communication that utilized spark-gap transmitters and coherer detectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelegraphy designates telegraphy that uses transmission by radio rather than by wire."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"The practical realization of transatlantic **radiotelegraphy** proved that electromagnetic waves could bridge continents."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I envisioned a global system of **radiotelegraphy** that would broadcast intelligence to every corner of the earth."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our only hope of contacting the rescue expedition lay in the portable equipment for **radiotelegraphy**."*

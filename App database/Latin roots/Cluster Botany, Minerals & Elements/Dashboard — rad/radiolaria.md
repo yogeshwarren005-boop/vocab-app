@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine protozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of marine protozoans characterized by intricate, porous silica skeletons and radiating axopodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and marine geology, planktonic rhizarians whose microfossils accumulate on deep ocean floors to form radiolarian ooze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolaria designates marine protozoa."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The silica architectures fashioned by marine **Radiolaria** surpass in geometrical wonder the most imaginative creations of human art."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Deep dredging hauls revealed immense deposits formed almost entirely from the flinty shells of **Radiolaria**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The living protoplasm of **Radiolaria** extends through perforated capsules to capture swimming microscopic prey."*

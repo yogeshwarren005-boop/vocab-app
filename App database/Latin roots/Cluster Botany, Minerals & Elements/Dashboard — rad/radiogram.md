@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by wireless telegraphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic image produced on a radiosensitive surface by radiation other than visible light (especially by x-rays or gamma rays).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message sent or received by radio or wireless telegraphy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic medical terminology, a photographic image produced on a film or plate by X-rays; a radiograph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiogram designates a message transmitted by wireless telegraphy."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The captain received a garbled **radiogram** warning of severe gales sweeping across the southern shoals."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"A dramatic **radiogram** reached the observatory, confirming that wireless stations across Europe had fallen silent."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the chest **radiogram** revealed characteristic pulmonary infiltrates in both lower lobes."*

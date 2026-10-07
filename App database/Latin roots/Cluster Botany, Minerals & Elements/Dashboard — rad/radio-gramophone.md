@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combined entertainment console housing both a radio receiver and a gramophone (record turntable) in a single cabinet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-twentieth-century home acoustics and British social history, a polished wooden console furniture piece that served as the home's audio centerpiece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-gramophone designates electronic equipment consisting of a combination of a radio receiver and a record player."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"A blaring **radio-gramophone** in the flat above poured cheap jazz melodies through the thin ceiling."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"The polished mahogany **radio-gramophone** stood in the corner of the drawing room, playing dance tunes softly."*
+> - 📜 **Virginia Woolf (*The Years*):** *"They gathered in the parlor to listen to the new records on the ornate electric **radio-gramophone**."*

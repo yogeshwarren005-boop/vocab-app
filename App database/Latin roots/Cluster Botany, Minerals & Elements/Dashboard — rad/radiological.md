@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to radiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to radiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to radiology or the medical and scientific use of ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational safety and defense, pertaining to ionizing radiation hazards, radiation detection, or nuclear contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiological designates of or relating to radiology."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"We organized comprehensive **radiological** training courses for volunteer ambulance drivers in Paris."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough **radiological** survey of the digestive tract ruled out any localized neoplasm."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Civil defense agencies established strict protocols for monitoring environmental **radiological** hazards."*

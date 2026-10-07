@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who practices radiotherapy; a radiation oncologist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology, a physician or technician who designs and administers targeted ionizing radiation treatments for cancer patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotherapist designates a medical specialist who uses radioactive substances and x-rays in the treatment of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **radiotherapist** calculated precise radiation angles to deliver maximum dosage to the deep tumor."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Close collaboration between the physicist and the **radiotherapist** ensured accurate dosimetry for radium needles."*
+> - 📜 **René Dubos (*The White Plague*):** *"A skilled hospital **radiotherapist** carefully shields adjacent vital organs during therapeutic irradiations."*

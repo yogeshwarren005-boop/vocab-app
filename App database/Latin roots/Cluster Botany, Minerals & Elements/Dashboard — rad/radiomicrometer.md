@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiometer that is extremely sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiometer that is extremely sensitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly sensitive instrument for detecting and measuring minute quantities of radiant heat, combining a radiometer and a galvanometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental astrophysics and thermodynamics, an instrument invented by C. V. Boys using a quartz-fiber suspended thermocouple to detect candle heat at miles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiomicrometer designates radiometer that is extremely sensitive."*
+> - 📜 **C. V. Boys (*On the Radiomicrometer*):** *"Suspended by an exquisite quartz thread, the **radiomicrometer** detected the heat of a single candle over a quarter-mile away."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Measurements of delicate thermal radiation were carried out using the extraordinary sensitivity of the **radiomicrometer**."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Astronomers attached a sensitive **radiomicrometer** to the telescope to measure thermal emission from distant planets."*

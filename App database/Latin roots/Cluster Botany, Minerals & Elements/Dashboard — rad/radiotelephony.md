@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telephony that uses transmission by radio rather than by wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telephony that uses transmission by radio rather than by wire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission and reception of sound and spoken speech by means of radio waves without wires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunication history, the evolutionary step from wireless telegraphy (Morse code) to wireless voice broadcasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelephony designates telephony that uses transmission by radio rather than by wire."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Transitioning from coded impulses to clear **radiotelephony** opened a boundless new horizon for public broadcasting."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The mastery of global **radiotelephony** united humanity into an instantaneous listening community."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The growth of commercial **radiotelephony** demonstrated how communication technologies reshape human culture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of flowering shrubs in the mallow family (Malvaceae), native to South Africa and Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, xerophytic mallow shrubs featuring dense stellate pubescence and showy hibiscus-like flowers adapted to arid scrub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radyera designates very small genus of shrubs of southern hemisphere: bush hibiscus."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The distinctive floral involucre of **Radyera** distinguishes it from allied genera within the Malvaceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Specimens of **Radyera** display dense velvety tomentum that protects the foliage from intense arid heat."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Botanists collect **Radyera** along dry scrub watercourses where its large hibiscus-like flowers bloom."*

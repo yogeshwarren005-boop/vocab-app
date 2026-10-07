@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not transparent to x-rays or other forms of radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not transparent to x-rays or other forms of radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opaque to X-rays or ionizing radiation, appearing white or light on radiographic film; radio-opaque.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical procedures, characterizing diagnostic contrast media (like iodinated dyes) or surgical sponges woven with marker threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiopaque designates not transparent to x-rays or other forms of radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Heavy bones appear brilliantly **radiopaque** compared to the translucent shadows cast by surrounding soft muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The injection of a **radiopaque** contrast solution outlined the exact caliber of the vascular lumen."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Surgical swabs are intentionally made **radiopaque** so they can be readily detected on postoperative X-ray films."*

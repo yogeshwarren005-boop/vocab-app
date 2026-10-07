@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wear away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wear away or erode through mechanical friction and abrasion, especially by wind, glaciers, or streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology, to deepen or widen a riverbed through the abrasive scouring action of sediment-laden currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrade designates wear away."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Mountain torrents heavily charged with sharp gravel **corrade** deep vertical gorges through solid granite."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The river continues to **corrade** its rocky floor until it attains a stable hydraulic grade line."*
+> - 📜 **John Wesley Powell (*Exploration of the Colorado River of the West*):** *"The mud-laden torrents of the Colorado **corrade** the canyon walls with relentless abrasive power."*

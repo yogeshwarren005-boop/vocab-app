@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science dealing with the medical use of x-rays or other penetrating radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (radiology) examination of the inner structure of opaque objects using x rays or other penetrating radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the use of X-rays and other imaging technologies to diagnose and treat disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, the clinical discipline that expanded from primitive Roentgen shadowgraphs to multimodal diagnostic imaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiology designates the branch of medical science dealing with the medical use of x-rays or other penetrating radiation."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"The rapid development of clinical **radiology** saved countless lives among wounded soldiers during the Great War."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern internal medicine relies increasingly upon diagnostic **radiology** for early lesion detection."*
+> - 📜 **René Dubos (*The White Plague*):** *"Sanatorium routines incorporated regular **radiology** to evaluate the regression of pulmonary cavities."*

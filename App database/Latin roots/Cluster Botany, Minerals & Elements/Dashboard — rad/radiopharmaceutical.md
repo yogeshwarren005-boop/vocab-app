@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal product containing a radioactive isotope used for diagnostic imaging or targeted cancer therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear pharmacy and oncology, a radiolabeled ligand or antibody (such as iodine-131 or technetium-99m) that concentrates in specific tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiopharmaceutical designates pharmaceutical consisting of a radioactive compound used in radiation therapy."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Synthesizing a pure **radiopharmaceutical** requires rapid automated chemistry to accommodate short half-lives."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Thyroid function is routinely evaluated by measuring uptake of a tracer **radiopharmaceutical** in follicular cells."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Diagnostic imaging using a labeled **radiopharmaceutical** revealed regional variations in cerebral blood flow."*

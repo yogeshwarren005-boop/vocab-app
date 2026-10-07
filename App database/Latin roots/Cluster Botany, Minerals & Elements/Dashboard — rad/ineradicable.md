@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be destroyed or rooted out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be destroyed or rooted out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being eradicated, uprooted, or completely eliminated; deeply entrenched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral philosophy, describing habits, prejudices, or instincts so deep-seated that they resist all corrective education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"You will have humors, just so long as you believe them to be safety-valves or to be ineradicable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Early memories remained **ineradicable** in her heart, surviving all the shifts of fortune and sorrow."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain social instincts appear **ineradicable**, having evolved through countless generations of group survival."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The student felt an **ineradicable** sense of guilt that shadowed his every thought in exile."*

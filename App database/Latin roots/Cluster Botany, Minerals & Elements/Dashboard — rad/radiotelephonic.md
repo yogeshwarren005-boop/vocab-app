@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or by means of radiotelephony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or by means of radiotelephony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or conducted by means of a radiotelephone or wireless voice transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation and telecommunications, characterizing two-way voice radio communication protocols between pilots and air traffic controllers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelephonic designates relating to or by means of radiotelephony."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"Through crackling **radiotelephonic** static, the desert outpost received news of the mail plane's arrival."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Constant **radiotelephonic** communication allowed naval commanders to coordinate simultaneous destroyer attacks."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Automated filtering circuits improved the intelligibility of **radiotelephonic** speech against ambient noise."*

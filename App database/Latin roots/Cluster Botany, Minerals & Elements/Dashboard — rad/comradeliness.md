@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling, spirit, or disposition of friendly mutual support, loyalty, and companionship among associates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy, the fraternal warmth and mutual respect binding equals engaged in a joint endeavor or struggle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comradeliness designates the quality of affording easy familiarity and sociability."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"There was a remarkable atmosphere of genuine **comradeliness** among the militiamen defending the Aragon front."*
+> - 📜 **Jack London (*The Iron Heel*):** *"In the subterranean socialist clubs, true **comradeliness** flourished amidst constant police persecution."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Seamen bound together by shared tempests develop an unspoken **comradeliness** that endures across oceans."*

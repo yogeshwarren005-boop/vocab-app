@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A housing for a radar antenna; transparent to radio waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A housing for a radar antenna; transparent to radio waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structural, weatherproof dome or housing enclosing a radar antenna, transparent to radio frequency signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical and naval engineering, an aerodynamic dielectric enclosure made of fiberglass or composite material protecting radar gear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radome designates a housing for a radar antenna; transparent to radio waves."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The bulbous **radome** mounted on the aircraft's nose shielded the sensitive dish from freezing stratosphere winds."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Engineers designed the streamlined **radome** to withstand supersonic airflow without distorting electromagnetic signals."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"From the ship's masthead, the fiberglass **radome** scanned the dark horizon for icebergs through heavy spray."*

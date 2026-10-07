@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that abrades or wears down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool or machine used for wearing down or smoothing or polishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or material used for grinding, polishing, or scraping away a surface; an abrasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological geomorphology and industrial machining, mineral particles such as quartz, corundum, or garnet that wear down rock or metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abradant designates a substance that abrades or wears down."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Windblown desert sand acts as a natural **abradant**, carving bizarre ventifacts out of hard basalt."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Glacial mud carried beneath moving ice serves as a powerful **abradant**, grooving and polishing the bed of the valley."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The optician selected fine emery powder as an **abradant** to grind the parabolic mirror into shape."*

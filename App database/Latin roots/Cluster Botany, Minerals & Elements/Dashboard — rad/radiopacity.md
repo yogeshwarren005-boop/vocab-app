@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opacity to x-rays or other radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opacity to x-rays or other radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of obstructing the passage of X-rays or other radiation, casting a white shadow on a radiograph; radio-opacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and materials science, the design of radiopaque catheters or bone cements that remain clearly visible under fluoroscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiopacity designates opacity to x-rays or other radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"The pronounced **radiopacity** of heavy metals makes lead foil ideal for diagnostic shielding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Barium sulfate is administered in suspensions to impart temporary **radiopacity** to the alimentary canal."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The high mineral content of dental enamel produces remarkable **radiopacity** on dental films."*

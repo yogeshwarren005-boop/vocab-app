@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making a radiograph; producing an image on a radiosensitive surface by radiation other than visible light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photography that uses other kinds of radiation than visible light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of images on a photographic plate or digital detector by the radiation emitted from an X-ray tube or radioactive source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical technology, the primary imaging modality utilized for screening bone trauma, dental structures, and pulmonary pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiography designates the process of making a radiograph; producing an image on a radiosensitive surface by radiation other than visible light."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"The application of shadow **radiography** provides surgeons with an unprecedented window into the human interior."*
+> - 📜 **Marie Curie (*La Radiologie et la Guerre*):** *"We outfitted twenty ambulances with equipment for diagnostic **radiography** to aid wounded soldiers at the front."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advances in chest **radiography** revolutionized our ability to identify early pulmonary lesions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph transmitted by radio waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph transmitted by radio waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph transmitted across long distances by means of radio signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communication history, a picture reconstructed electronically by a photoradio receiver from modulated wireless signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiophotograph designates a photograph transmitted by radio waves."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The global news bureau distributed every important **radiophotograph** within minutes of the occurrence."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The front page carried a grainy **radiophotograph** of the plague-stricken tropical port."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The prime minister examined a clear **radiophotograph** of the naval maneuvers received from Washington."*

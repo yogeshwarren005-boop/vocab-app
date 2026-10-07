@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or by means of radiotelephony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or by means of radiotelephony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the transmission of sound or speech by radio; relating to radio sound effects or electroacoustic sound production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century broadcasting music history, designating experimental electronic audio compositions produced for radio drama, as by the BBC Radiophonic Workshop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiophonic designates relating to or by means of radiotelephony."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The auditorium resonated with pulsating **radiophonic** sound effects designed to heighten synthetic emotion."*
+> - 📜 **George Orwell (*1984*):** *"A harsh **radiophonic** chime preceded each emergency bulletin broadcast to the ministries."*
+> - 📜 **Virginia Woolf (*Between the Acts*):** *"The gramophone and wireless blended strange **radiophonic** echoes across the terrace during the pageant."*

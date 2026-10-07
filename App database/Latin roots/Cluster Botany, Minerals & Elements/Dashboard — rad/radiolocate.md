@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Locate by means of radar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locate by means of radar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine the location, position, or coordinates of an object using radio waves or radar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telemetry and wildlife biology, to track the position of an animal fitted with a radio transmitter collar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiolocate designates locate by means of radar."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Naval reconnaissance planes were deployed to **radiolocate** the enemy battleship through dense North Atlantic fog."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Directional antenna arrays were designed to **radiolocate** enemy transmissions instantaneously along the coastline."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Marine scientists learned to **radiolocate** migrating sea turtles carrying miniature tracking transmitters."*

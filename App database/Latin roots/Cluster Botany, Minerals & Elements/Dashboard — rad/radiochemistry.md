@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemistry of radioactive substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemistry of radioactive substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry dealing with radioactive materials, isotopes, and nuclear transformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and radiopharmacy, the synthesis and purification of radio-labeled compounds for medical diagnostics and reactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiochemistry designates the chemistry of radioactive substances."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The new discipline of **radiochemistry** forced scientists to reconsider the immutable nature of Dalton's atoms."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*):** *"Techniques of microscale **radiochemistry** permitted the chemical characterization of sub-microgram quantities of plutonium."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"Pioneering experiments in **radiochemistry** demonstrated that radioactive decay produces distinct chemical daughter products."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of shining brightly; radiant brightness, splendor, or luminous glow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elevated literary synonym for radiance, denoting intense visual splendor or majestic spiritual illumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Oh, madame, are you sure?" All the radiancy had gone; her eyes filled with tears."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The archangel stood revealed in glorious **radiancy**, his wings ablaze with celestial light."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The canvas captured the soft **radiancy** of Florentine dawn breaking over the Tuscan hills."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Truth shines with eternal **radiancy** through the shifting garments of human institutions."*

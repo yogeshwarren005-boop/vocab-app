@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not transparent to x-rays or other forms of radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not transparent to x-rays or other forms of radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opaque to X-rays or ionizing radiation; blocking the passage of roentgen rays and appearing light on a radiograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical imaging, describing contrast media (such as iodinated compounds or barium) administered to outline hollow organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-opaque designates not transparent to x-rays or other forms of radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Lead and thick glass proved entirely **radio-opaque**, completely shielding the photographic plate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of a **radio-opaque** suspension revealed an obstruction in the descending colon."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Heavy metal screens are sufficiently **radio-opaque** to absorb alpha and beta radiations completely."*

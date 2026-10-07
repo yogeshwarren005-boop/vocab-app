@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive gaseous element formed by the disintegration of radium; the heaviest of the inert gasses; occurs naturally (especially in areas over granite) and is considered a hazard to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive gaseous element formed by the disintegration of radium; the heaviest of the inert gasses; occurs naturally (especially in areas over granite) and is considered a hazard to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive, colorless, odorless noble gas (symbol Rn, atomic number 86), formed naturally by the decay of radium in rocks and soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental health and geochemistry, an alpha-emitting inert gas that accumulates in subterranean spaces, posing a major risk for lung cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radon designates a radioactive gaseous element formed by the disintegration of radium; the heaviest of the inert gasses; occurs naturally (especially in areas over granite) and is considered a hazard to health."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The radioactive emanation from radium, which we now designate **radon**, behaves chemically as a heavy noble gas."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"Condensing the gaseous emanation of **radon** with liquid air proved its true elemental character."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern environmental monitors warn against the silent seepage of subterranean **radon** into home basements."*

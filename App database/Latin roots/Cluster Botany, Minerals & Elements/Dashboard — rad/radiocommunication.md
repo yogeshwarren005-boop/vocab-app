@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium for communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium for communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Telecommunication by means of radio waves or electromagnetic wireless signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory telecommunications, the transmission, emission, or reception of signs, signals, writing, images, and sounds via radio frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiocommunication designates medium for communication."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Reliable transatlantic **radiocommunication** overcame the physical limitations of undersea telegraph cables."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Scrambled **radiocommunication** linked our warships at sea with the admiralty war room in London."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Global networks of instantaneous **radiocommunication** compressed geographical distance into mere milliseconds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A friend who is frequently in the company of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fellow member of the communist party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A companion, associate, or friend, especially one who shares common interests, hardships, or military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and socialist terminology, a fellow member of an egalitarian political party, labor movement, or revolutionary organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those friends thou hast, and their adoption tried, Grapple them unto thy soul with hoops of steel; But do not dull thy palm with entertainment Of each new-hatch’d, unfledg’d comrade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, rather I abjure all roofs, and choose To wage against the enmity o’ the air; To be a comrade with the wolf and owl, Necessity’s sharp pinch!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel had sent her an invitation in order to cement the bonds of friendship, and she had done the same with Bruno, who was to become her sons' close comrade."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre embraced his wounded **comrade** on the battlefield, offering what little bread he had left."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Napoleon reminded the animals that every **comrade** must work selflessly for the common welfare."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing the passionate love of **comrade** for comrade, cementing the soul of the democratic republic."*

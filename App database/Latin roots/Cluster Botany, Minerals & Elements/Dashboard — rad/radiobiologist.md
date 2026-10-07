@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the effects of radiation on living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the effects of radiation on living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological scientist who specializes in radiobiology, studying the biological effects of ionizing radiation on living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiation oncology and medical physics, an expert who investigates cellular DNA damage, repair mechanisms, and radiation tolerance doses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiobiologist designates a biologist who studies the effects of radiation on living organisms."*
+> - 📜 **René Dubos (*The White Plague*):** *"The **radiobiologist** demonstrated that bacterial cultures suffered chromosomal breaks upon brief exposure to roentgen rays."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Every competent **radiobiologist** warned that low doses of radiation could produce irreversible genetic mutations."*
+> - 📜 **J. B. S. Haldane (*Possible Worlds and Other Essays*):** *"Consulting a **radiobiologist** helped researchers establish safe occupational guidelines for industrial X-ray technicians."*

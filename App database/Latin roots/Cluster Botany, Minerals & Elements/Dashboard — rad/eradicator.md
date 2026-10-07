@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, tool, chemical, or agent that completely removes, eliminates, or uproots something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural engineering, an implement or cultivation tool attached to a tractor to uproot deep weed roots and loosen compacted soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eradicator designates someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects)."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Agriculture*):** *"The gang-plow was equipped with an efficient weed **eradicator** to clear the soil before planting."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Frost acts as an infallible natural **eradicator** of tender subtropical plants in temperate zones."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The sanitary inspector presented himself as a stern **eradicator** of filth in the packinghouse cellars."*

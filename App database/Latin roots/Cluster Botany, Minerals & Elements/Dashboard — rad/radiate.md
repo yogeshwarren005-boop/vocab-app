@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Send out rays or waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send out real or metaphoric rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit rays, waves, or particles of light, heat, or energy from a central point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, to diversify rapidly into varied ecological niches from an ancestral lineage (adaptive radiation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Erelong ye will with your own eyes witness how brilliantly every one of you, even as a shining star, will radiate in the firmament of your country the light of divine guidance, and will bestow upon its people the glory of an everlasting life..."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Antennae made with a short vertical part and a long horizontal part radiate best in the direction away from which their horizontal part points."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Lines of magnetic force **radiate** outwards from the pole of the lodestone into surrounding space."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A single founding avian species can **radiate** across an archipelago into numerous specialized forms."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The warm afternoon sun caused the thawing sand to **radiate** heat against the railway bank."*

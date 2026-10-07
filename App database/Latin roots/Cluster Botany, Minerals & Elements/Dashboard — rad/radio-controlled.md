@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated and guided by radio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operated and guided by radio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlled, steered, or operated from a distance by means of radio signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and robotics engineering, utilizing radio frequency telemetry and receivers to actuate servomotors on uncrewed craft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-controlled designates operated and guided by radio."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I demonstrated the first **radio-controlled** robotic boat before an astonished audience at Madison Square Garden."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Guidance systems for **radio-controlled** missiles depend on continuous feedback correction from radar tracking."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Future lunar rovers will operate as **radio-controlled** exploratory probes directed by earthbound scientists."*

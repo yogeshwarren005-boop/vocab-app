@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitive to radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitive to radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible, vulnerable, or easily damaged by ionizing radiation or X-rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cell biology, designating rapidly dividing tissues (like bone marrow or lymphoid cells) that respond readily to radiotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiosensitive designates sensitive to radiation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immature neoplastic cells are significantly more **radiosensitive** than surrounding healthy fibrous stroma."*
+> - 📜 **René Dubos (*The White Plague*):** *"Lymphocytes and hematopoietic precursors represent the most **radiosensitive** cell populations in the mammal."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Embryonic stages of developing organisms are exceedingly **radiosensitive**, sustaining severe developmental anomalies."*

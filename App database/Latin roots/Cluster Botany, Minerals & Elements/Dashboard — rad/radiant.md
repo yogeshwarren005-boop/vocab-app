@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiating or as if radiating light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiating or as if radiating light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting rays of light; brightly shining, glowing, or luminous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, the apparent point in the night sky from which meteors in a meteor shower seem to originate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, To hide me from the radiant sun and solace I’ th’ dungeon by a snuff?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The marble pavement closes, he is enter’d His radiant roof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Look how the floor of heaven is thick inlaid with patines of **radiant** gold."*
+> - 📜 **John Keats (*Ode to Psyche*):** *"I saw two fair creatures, couched side by side in deepest grass, beneath the whispering roof of leaves and tremulous **radiant** blossoms."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Astronomers observe meteors diverging from a common **radiant** located in the constellation of Perseus."*

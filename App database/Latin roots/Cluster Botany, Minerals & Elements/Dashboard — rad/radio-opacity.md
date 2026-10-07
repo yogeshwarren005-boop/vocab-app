@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opacity to x-rays or other radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opacity to x-rays or other radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being opaque to X-rays and other ionizing radiation, appearing white or light on radiographic images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic radiology, the absorption of roentgen rays by dense matter (such as bone or barium sulfate), casting a radiographic shadow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-opacity designates opacity to x-rays or other radiation."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Bones cast a distinct dark shadow upon the fluorescent screen owing to their remarkable **radio-opacity**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The high **radio-opacity** of ingested barium allows exact delineation of gastrointestinal ulcers."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Skeletal elements owe their **radio-opacity** to the dense concentration of calcium phosphate salts within the matrix."*

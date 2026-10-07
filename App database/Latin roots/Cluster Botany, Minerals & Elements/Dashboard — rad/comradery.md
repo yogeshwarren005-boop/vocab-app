@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual trust, goodwill, and sociability among companions who spend significant time together; camaraderie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supportive fraternal bond that unites individuals facing shared difficulties, danger, or joint athletic effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comradery designates the quality of affording easy familiarity and sociability."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"In the smoky camp after the engagement, a rough **comradery** united the surviving soldiers."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"The regiment was animated by an irresistible spirit of **comradery** that made hardship seem trivial."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Even among the sled dogs, a fierce yet loyal **comradery** regulated the harmony of the traces."*

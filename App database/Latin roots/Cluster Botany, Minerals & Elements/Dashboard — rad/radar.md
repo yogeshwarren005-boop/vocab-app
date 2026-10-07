@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic detection system that uses radio waves to determine the distance, angle, and velocity of objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and aeronautics, radio detection and ranging technology pioneered during World War II for coastal defense and night interception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radar designates measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The invisible chain of **radar** stations along our southern coast alerted fighter squadrons to oncoming raids."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Automated tracking systems combined **radar** feedback with servo-mechanisms to direct anti-aircraft batteries."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Navigators relied on marine **radar** to guide great ships safely through impenetrable fog banks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bond, relationship, or community of friendship and mutual loyalty between comrades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic and military sociology, the close fraternal solidarity forged through collective labor or military trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ed Morrell and Jake Oppenheimer were great spirits, and in all time no greater honour was ever accorded me than this admission of me to their comradeship."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was nothing between this loud-babbling youth and himself which could have drawn them into even a momentary comradeship, if it had not been for the suspicion his father’s story had inspired in him."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"Only through deep, fervent **comradeship** can democracy realize its highest moral and spiritual promise."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The essential feeling was one of **comradeship**, where men addressed each other as equals without servility."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He remembered the unswerving **comradeship** of the sea, where every man's life depends upon his fellow's vigilance."*

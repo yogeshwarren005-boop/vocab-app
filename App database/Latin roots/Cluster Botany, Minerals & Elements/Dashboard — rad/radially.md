@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a radial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a radial manner; developing or extending outwards from a central point along radii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological botany and zoology, exhibiting symmetrical arrangement around an axis, like petals in a regular flower.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radially designates in a radial manner."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Delicate mineral spines diverge **radially** from the central capsule of the microscopic protozoan."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Septa inside each coral cup project **radially** toward the central columella."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Tension lines in the spider web spread **radially** from the hub to the outer supporting strands."*

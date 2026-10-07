@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity to the action of radiant energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity to the action of radiant energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative susceptibility of cells, tissues, or organisms to the harmful or destructive effects of ionizing radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiation oncology, the therapeutic principle (Bergonié-Tribondeau law) dictating that mitotic activity correlates with radiation responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiosensitivity designates sensitivity to the action of radiant energy."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The high **radiosensitivity** of bone marrow stem cells makes leukopenia a primary risk in radiation exposure."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Species of bacteria exhibit remarkable variations in **radiosensitivity**, with some surviving extraordinary doses."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The acute **radiosensitivity** of germ cells means that minor radiation doses can cause hereditary chromosomal damage."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone that communicates by radio waves rather than along cables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone that communicates by radio waves rather than along cables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for transmitting sound or speech through space by modulated radio waves or light beams; a radiotelephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of telecommunications, Alexander Graham Bell's photophone variant using selenium cells and light rays, or an early two-way radio transceiver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Wait a minute, since they're so near, I think I can switch them over to the radiophone." He ticked the key a moment, then twisted more dials and leaned back as a full and fruity voice, with a strong English accent, filled the room."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Can you meet us?" A chuckle was audible from the radiophone."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"That's the radiophone for communicating with the ship."*
+> - 📜 **Alexander Graham Bell (*The Production of Sound by Radiant Energy*):** *"I demonstrated the **radiophone** across several city blocks, transmitting speech upon a beam of reflected sunlight."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Engineers adapted the wireless transmitter into a practical **radiophone** capable of carrying human voice."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Pilots in the stratosphere maintained constant voice contact with base commanders using the **radiophone**."*

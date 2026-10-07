@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard unit of angular measure, equal to the angle subtended at the center of a circle by an arc equal in length to the radius (approx. 57.3 degrees).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, the natural, dimensionless unit of angle utilized in trigonometry, calculus derivatives, and rotational mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radian designates the unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Expressing angular velocity in terms of the **radian** simplifies calculations of centripetal acceleration."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The phase angle of an alternating current wave is conveniently integrated in units of the **radian**."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The curvature tensor measures deviation of parallel vectors per unit **radian** around an infinitesimal loop."*

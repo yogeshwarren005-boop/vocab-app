@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by radiography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or produced by radiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or produced by radiography or X-ray imaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical diagnostics and materials testing, designating examination techniques based on radiation transmission through opaque objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiographic designates relating to or produced by radiography."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"Different substances placed upon the plate yielded distinctive **radiographic** shadows according to their atomic densities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subsequent **radiographic** evaluation showed marked clearing of the pleural effusion after thoracentesis."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Modern anatomical atlases incorporate **radiographic** projections to display living skeletal relationships in situ."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or caused by radioactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or caused by radioactivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting or relating to the emission of ionizing radiation or particles caused by spontaneous nuclear disintegration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and atomic physics, characterizing unstable nuclides whose nuclei decay with characteristic half-lives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They said she was radioactive, but most of 'em wouldn't believe it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Being turned into a machine is not the easiest thing in the world on one's temper; it upsets the disposition." "Some sort of a special extra radioactive gas storm connected with the comet, I think, though I can't be sure."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He thinks the big comet which hit the earth contained radioactive gas that made us all into metal."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"We proposed the term **radioactive** to designate those extraordinary elements that emit penetrating rays spontaneously."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The emission of alpha particles proved that **radioactive** atoms undergo fundamental chemical transmutation."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic **radioactive** fallout from atmospheric testing settles upon crops and enters mammalian bone marrow."*

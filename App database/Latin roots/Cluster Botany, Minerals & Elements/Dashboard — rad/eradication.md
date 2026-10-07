@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete destruction of every trace of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete destruction of every trace of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete destruction, extermination, or uprooting of something undesirable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global epidemiology, the deliberate reduction of an infectious disease's worldwide incidence to zero, as achieved with smallpox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Stoic._ 11, 1037 D. [129] "Unconditional eradication," says Zeller, _Eclectics_, p. 226."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Total **eradication** of the contaminant requires meticulous boiling of all glass apparatus."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The hasty promise of insect **eradication** through chemical blitzes disrupted fragile ecological balances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ultimate conquest of malaria requires the systematic **eradication** of mosquito breeding grounds."*

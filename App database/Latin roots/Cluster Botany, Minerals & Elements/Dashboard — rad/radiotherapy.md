@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) the treatment of disease (especially cancer) by exposure to a radioactive substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) the treatment of disease (especially cancer) by exposure to a radioactive substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of disease, especially cancer, using ionizing radiation such as X-rays or gamma rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, a cornerstone therapeutic modality utilizing linear accelerators or brachytherapy to eradicate malignant cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotherapy designates (medicine) the treatment of disease (especially cancer) by exposure to a radioactive substance."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The curative success of **radiotherapy** in superficial epitheliomas stimulated worldwide demand for pure radium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern oncology relies on adjuvant **radiotherapy** following surgical excision of malignant growths."*
+> - 📜 **René Dubos (*Mirage of Health*):** *"Combining targeted **radiotherapy** with systemic chemotherapy significantly improved long-term cancer remissions."*

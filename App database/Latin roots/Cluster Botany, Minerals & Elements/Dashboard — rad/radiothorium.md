@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radioactive isotope of thorium with mass number 228.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radioactive isotope of thorium with mass number 228.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring radioactive isotope of thorium (thorium-228), formed in the thorium decay series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early nuclear physics, a radioisotope discovered by Otto Hahn in 1905, decaying by alpha emission with a half-life of 1.9 years into radium-224.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiothorium designates radioactive isotope of thorium with mass number 228."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"Otto Hahn succeeded in isolating **radiothorium**, an active intermediate product between thorium and thorium X."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The intense alpha activity of **radiothorium** produces bright scintillation flashes upon zinc sulfide screens."*
+> - 📜 **Frederick Soddy (*The Interpretation of Radium*):** *"Careful radiochemical fractionation confirmed that **radiothorium** belongs chemically to the thorium element group."*

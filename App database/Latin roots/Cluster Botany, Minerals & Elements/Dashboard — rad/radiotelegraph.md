@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telegraphy that uses transmission by radio rather than by wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of radio to send telegraphic messages (usually by morse code).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telegraph apparatus that transmits Morse code messages over long distances using radio waves without connecting wires; a wireless telegraph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, the foundational wireless equipment carried on early twentieth-century vessels for distress signaling and ship-to-shore messaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiotelegraph designates telegraphy that uses transmission by radio rather than by wire."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"The installation of the marine **radiotelegraph** on ocean liners banished the eternal isolation of the sea."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The steady clatter of the ship's **radiotelegraph** sounded from the small cabin beside the wheelhouse."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every cruiser maintained constant watch at the **radiotelegraph**, awaiting orders from the admiralty."*

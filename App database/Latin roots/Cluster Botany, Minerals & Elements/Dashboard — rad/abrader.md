@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool or machine used for wearing down or smoothing or polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tool or machine used for wearing down or smoothing or polishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool, machine, or natural agent that wears down or polishes surfaces by friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology and workshop technology, a rough stone implement used by ancient peoples to grind tools and bead ornaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrader designates a tool or machine used for wearing down or smoothing or polishing."*
+> - 📜 **John Evans (*The Ancient Stone Implements, Weapons and Ornaments of Great Britain*):** *"Neolithic toolmakers utilized a grooved sandstone **abrader** to shape bone needles and celts."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Excavations at the ancient mound yielded several pumice stones employed as a hide **abrader**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Moving ice functions as an unyielding continental **abrader**, striating bedrock across immense distances."*

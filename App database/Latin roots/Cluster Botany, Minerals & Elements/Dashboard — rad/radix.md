@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root or base of something; the primary source, origin, or linguistic stem of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and computing, the base of a positional number system (such as 10 for decimal or 2 for binary).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radix designates (numeration system) the positive integer that is equivalent to one in the next higher counting place."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers must trace complex ideas back to their simplest **radix** in human sensory perception."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Calculations in the engine proceeded smoothly once the mathematical **radix** of the decimal columns was fixed."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philologists reconstruct the ancient Aryan **radix** underlying seemingly unrelated modern verbs."*

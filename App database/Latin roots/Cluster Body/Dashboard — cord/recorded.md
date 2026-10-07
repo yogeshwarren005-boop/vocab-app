@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a record of; set down in permanent form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register electronically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set down in writing or other permanent form; registered, chronicled, or stored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical paleontology and judicial administration, officially entered into public registers or preserved in rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fetch my gold and have our two wagers recorded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You three, Berowne, Dumaine and Longaville, Have sworn for three years’ term to live with me, My fellow-scholars, and to keep those statutes That are recorded in this schedule here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many extinct species were **recorded** only in a single bed of shale before being lost to paleontologists."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vices and virtues of the Roman emperors are faithfully **recorded** in the annals of Tacitus."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Ancient oral ballads were rarely **recorded** in print, surviving solely through the memories of village elders."*

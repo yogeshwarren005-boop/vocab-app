@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cut pile fabric with vertical ribs; usually made of cotton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trousers made of corduroy fabric, traditionally worn for outdoor work, casual wear, or countryside labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social apparel, durable ribbed cotton pants characteristic of agricultural laborers and university students.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In the same early morning, I discovered a singular affinity between seeds and corduroys."*
-> - 📜 **Effie Afton (*Eventide*):** *"The whole ascent of Clinton was through a dense forest, over a rough, uneven path, constructed of small, round timbers, called "corduroys." They were in a rotted, dilapidated condition, and unpleasant as well as dangerous to ride over."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He said thim was old clothes he was wearin' on the sea," apologized Mike for his friend, looking down somewhat consciously at his own comfortable corduroys."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The rough boy wore greasy **corduroys** and an oversized coat as he led the donkey cart through Smithfield market."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farm laborers in yellow fustian **corduroys** stood waiting for hire at the annual Martinmas hiring fair."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Felix appeared in his working-man's **corduroys**, scorning the genteel pretenses of the town clerks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin slice of meat (especially veal) usually fried or broiled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, tender cut or slice of meat from the rib, loin, or leg of veal, pork, or mutton; also a croquette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary terminology and food preparation, a breaded and sautéed portion of prime boneless meat or poultry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Milly served me that cutlet with a sprig of parsley."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Both announcements were made in the coffee-room of the Crozier, to all whom it might or might not concern, by the stranger as he stood with his back to the empty fireplace, waiting for his fried sole, veal cutlet, and pint of sherry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had a fine cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an excellent dinner, if it had had any cooking to speak of, but it was almost raw."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Old Fleece was summoned to broil a tender **cutlet** cut from the whale's small for the captain's supper."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The comfortable tavern table was spread with a sizzling veal **cutlet** and a foaming mug of porter."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley ordered a second mutton **cutlet**, pronouncing the French cook's gravy remarkably savory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spermatic cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the spermatic cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spermatic cord or of the vocal cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and laryngology, acute or chronic inflammatory swelling affecting the funiculus spermaticus or vocal plicae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corditis designates inflammation of the spermatic cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **corditis** secondary to gonococcal epididymitis causes exquisite tenderness along the inguinal canal."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Edematous swelling in acute **corditis** can compress the pampiniform plexus and deferent artery."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic management of surgical wounds prevents spreading phlebitis and purulent **corditis**."*

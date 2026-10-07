@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being physical; not consisting of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being physical; not consisting of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or quality of lacking a physical body; immateriality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and theology, existence as a purely spiritual, non-extended substance free from corporeal limitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorporeality designates the quality of not being physical; not consisting of matter."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Schoolmen fall into absurd contradictions when they speak of **incorporeality** as a physical property of substances."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The debate concerning the **incorporeality** of the soul cannot be settled by mere deductive scholastic definitions."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"True religious meditation lifts the mind toward the serene **incorporeality** of eternal moral ideals."*

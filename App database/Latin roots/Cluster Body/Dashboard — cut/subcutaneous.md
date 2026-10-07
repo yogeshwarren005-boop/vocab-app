@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located below the epidermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or located below the epidermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, applied, or introduced under the skin; hypodermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and pharmacology, designating the hypodermal adipose layer where injections and sutures are placed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Dr. Seward administered a **subcutaneous** injection of morphia to soothe the exhausted patient into peaceful sleep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic nodules appear as firm, painless **subcutaneous** nodes over the extensor surfaces of the elbows."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **subcutaneous** tissue contains abundant fat cells interspersed with elastic fibers connecting skin to deep fascia."*

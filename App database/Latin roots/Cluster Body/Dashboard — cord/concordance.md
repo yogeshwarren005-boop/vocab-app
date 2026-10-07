@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement of opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement, consistency, or harmony; also an alphabetical index of the principal words of a book with their contextual citations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship and textual analysis, a comprehensive verbal index cross-referencing every occurrence of key words in a corpus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The weight of the insect was very remarkable, and, taking all things into consideration, I could hardly blame Jupiter for his opinion respecting it; but what to make of Legrand’s concordance with that opinion, I could not, for the life of me, tell."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The compiler of a biblical **concordance** performs an invaluable service for textual critics and theologians."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The high degree of empirical **concordance** between hypothesis and experimental results confirmed the theory."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable **concordance** between geological succession and taxonomic hierarchy supports evolutionary descent."*

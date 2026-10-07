@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concurrence of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting rights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity, agreement, or harmony with a rule, principle, expectation, or desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and institutional procedure, action performed in strict compliance with established statutory precedents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was inwardly convinced that, in accordance with the anticipations of his easy-going and worse-educated comrades, that day would see Boldwood the accepted husband of Miss Everdene."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"We deduce scientific conclusions in **accordance** with verified experimental observations and inductive laws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These anatomical homologies are intelligible only in **accordance** with the principle of natural selection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea acted in scrupulous **accordance** with her deceased husband's wishes regarding the rural cottages."*

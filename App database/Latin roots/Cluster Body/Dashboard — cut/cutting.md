@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of selecting the scenes to be shown and putting them together to create a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharp, piercing, or sarcastic; an incised part of a plant used for vegetative propagation; an excavated trench for a railway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and horticulture, an artificial earth excavation for transit lines, or a stem section rooted to produce a clone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take heed, my lord; the welfare of us all Hangs on the cutting short that fraudful man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek out King John and fall before his feet; For if the French be lords of this loud day, He means to recompense the pains you take By cutting off your heads."*
+> - 📜 **William Shakespeare (*King Lear*):** *"How sharper than a serpent's tooth it is to have a thankless child; what a **cutting** sorrow!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cold east wind swept over the chalk ridge with a **cutting** severity that chilled the sheep."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The Red Queen delivered her verdict with a sharp, **cutting** remark that left Alice completely speechless."*

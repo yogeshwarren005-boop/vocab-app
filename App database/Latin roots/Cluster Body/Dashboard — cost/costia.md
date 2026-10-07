@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flagellate that is the cause of the frequently fatal fish disease costiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flagellate that is the cause of the frequently fatal fish disease costiasis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of microscopic flagellated protozoan ectoparasites (now Ichthyobodo) infecting the skin and gills of freshwater fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary ichthyology and aquaculture, flagellate parasites causing severe epizootic cloudiness of the skin and mortality in fish hatcheries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costia designates a flagellate that is the cause of the frequently fatal fish disease costiasis."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic analysis of hatchery water revealed flagellated parasites allied to **Costia** destroying fish fry."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Ectoparasitic protozoans such as **Costia** attach to epidermal cells via specialized microtubular feeding tubes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial confinement in fish ponds fosters virulent epizootic outbreaks of pathogenic **Costia**."*

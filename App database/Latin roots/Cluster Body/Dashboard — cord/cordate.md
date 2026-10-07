@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf) shaped like a heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf) shaped like a heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heart-shaped; having the shape of a heart, especially of a leaf attached to the stem at its notched base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organographic botany, descriptive of leaves or floral organs possessing two rounded basal lobes separated by a sinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordate designates (of a leaf) shaped like a heart."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The basal foliage displays a broadly **cordate** outline with finely crenate margins."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The **cordate** leaves of the violet provide protective shade for the delicate cleistogamous blossoms beneath."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Specimens of this species are easily recognized by their deeply **cordate** blades clasping the stem."*

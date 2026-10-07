@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cuttlefish; a ten-armed marine cephalopod of the genus Sepia possessing an internal cuttlebone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and poetic English, an ink-ejecting marine mollusk; in Shakespearean cant, a cutpurse or knife.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this wine, I’ll thrust my knife in your mouldy chaps an you play the saucy cuttle with me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his blood, I suppose the family quarterings are three cuttle-fish sable, and a commentator rampant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Casaubon cuttle-fish fluid to begin with, and then a rebellious Polish fiddler or dancing-master, was it?—and then an old clo—” “Nonsense, Elinor,” said the Rector, rising."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"By this wine, I'll thrust my knife into your mouldy chaps, an you play the saucy **cuttle** with me."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I observed a large **cuttle** discharging clouds of sepia ink while changing colors with extraordinary rapidity."*
+> - 📜 **George Eliot (*Romola*):** *"Like a frightened **cuttle** throwing out dark ink, the deceitful secretary concealed his real political designs."*

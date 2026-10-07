@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a material body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a material body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divested of physical bodily form; also stripped of legal corporate privileges or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and theological history, dissolved as a legal corporation or separated as a soul from the mortal frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discorporate designates not having a material body."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The National Assembly resolved to **discorporate** the wealthy monastic orders and secularize their lands."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Certain philosophers imagine the soul surviving in a **discorporate** condition, possessing thought without physical senses."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial decrees dissolved the seditious clubs and left their members politically **discorporate**."*

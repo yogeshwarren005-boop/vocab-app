@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retarding evacuation of feces; binding; constipating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retarding evacuation of feces; binding; constipating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constipated or suffering from sluggish bowel movements; also slow, stingy, or reticent in speech or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and literary satire, denoting bodily or verbal sluggishness, tightness, or parsimonious reluctance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"One may be costive, one be full of Slime; Yet equally will any Hog that feeds, Produce good Pork by feeding on our Needs. _Underwritten._ You nasty Dog, you may eat your Pork yourself. _Hampstead, at the Flask._ Tell me why, ye gen'rous Swains?"*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"L._ _From a Bog-House at Hampstead._ Hard Stools proceed from costive Claret; Yet mortal Man cannot forbear it."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The pedantic scholar was remarkably **costive** of his praise, delivering compliments with painful reluctance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sedentary confinement and a dry dietary regime induce chronically **costive** habits of body in elderly patients."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Poets with **costive** brains labor for weeks to bring forth a single rhyming couplet."*

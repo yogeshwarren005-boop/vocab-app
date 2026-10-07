@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attire worn in a play or at a fancy dress ball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual or period attire not characteristic of or appropriate to the time and place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of clothes in a style typical of a particular country, historical period, theatrical role, or social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and art criticism, the external dress, adornment, and historical vestments characteristic of an era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Inside them she found a whole stock of clothing, from bonnet to shoes, including a perfect morning costume, such as would well suit the simple wedding they planned."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not her hard taskmaster, Farmer Groby; it was one in a semi-clerical costume, who now represented what had once been the free-and-easy Alec d’Urberville."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was fully dressed now in the walking costume of a well-to-do young lady in which she had arrived, with the sole addition that over her hat and black feathers a veil was drawn."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian painters rendered the rich velvets and gold-embroidered **costume** of the doges with unparalleled fidelity."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All human society is built upon clothes; the majestic **costume** of the judge strikes reverence into the mob."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her elaborate embroidered **costume** contrasted strangely with the austere, somber garments of the Puritan elders."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement or harmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in harmony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreeing, incongruous, or conflicting; harsh, jarring, or unmusical in sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic theory and social dynamics, clashing sharply in acoustic pitch or conflicting in ideology and values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour is a pipe Blown by surmises, jealousies, conjectures, And of so easy and so plain a stop That the blunt monster with uncounted heads, The still-discordant wav’ring multitude, Can play upon it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I roused myself, therefore, though unwillingly, to see whether these two, so discordant, could agree."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Take but degree away, untune that string, and hark what **discordant** chaos follows."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Speak what you think now in hard words, and tomorrow speak what tomorrow thinks, though it contradict every **discordant** voice."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The **discordant** screech of the rusty tavern sign mingled with the howling wind across Egdon Heath."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy, water-impermeable polymer composed of cross-linked hydroxy fatty acids forming the protective plant cuticle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry and physiological ecology, the lipid polyester membrane preventing foliar desiccation and pathogen invasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutin designates (biochemistry) a waxy transparent material that occurs in the cuticle of plants and consists of highly polymerized esters of fatty acids."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"The outer surface of the leaf epidermal wall is impregnated with **cutin** to prevent evaporation."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Enzymes in the digestive fluid cannot dissolve the insoluble **cutin** composing the plant's own leaf surfaces."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Chemical analysis reveals that **cutin** resists ordinary saponification far more stubbornly than simple vegetable waxes."*

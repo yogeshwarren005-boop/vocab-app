@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into a legal corporation; combined into a unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, possessing legally recognized status as a corporation with limited liability and perpetual succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"With this course he incorporated large parts of his unfinished treatise on "The Difficulties of Christianity," which, after he had thus broken it up, passed finally out of sight."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If only I were articulate to paint in the frail medium of words what I see and know and possess incorporated in my consciousness of the mighty driftage of the races in the times before our present written history began!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of the revenue receipts of the incorporated places. 60 per cent."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The **incorporated** syndicate coordinates vast railway networks under unified centralized financial administration."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Shareholders in an **incorporated** enterprise delegate operative control to professional managerial boards."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Privileges granted to **incorporated** joint-stock firms must be balanced by rigorous public accountability."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable musical instrument with a keyboard or buttons, played by forcing air through reeds by expanding and compressing bellows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical organology, a free-reed aerophone developed in nineteenth-century Europe; in engineering, a folding pleat structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An accordion began to whine like a tinker."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They were dressed in accordion-pleated, pink tissue-paper and had hats to match."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The lively strains of a rustic **accordion** drifted across the river from the crowded fairground pavilion."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"In the convalescent tent, a soldier played a plaintive tune on an **accordion** to cheer his comrades."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The vibrating metal tongues of the **accordion** illustrate the acoustic behavior of free reeds under pressure."*

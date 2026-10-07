@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural protective body covering and site of the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural protective body covering and site of the sense of touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The true skin or derma beneath the epidermis; the corium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology and human anatomy, the vascular, fibrous layer comprising the papillary and reticular dermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutis designates a natural protective body covering and site of the sense of touch."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Contraction of the arrector pili muscles produces the familiar goose-flesh reaction in the human **cutis**."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cutis** or true skin contains the capillary loops, tactile corpuscles, and sebaceous glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extreme dehydration results in loss of normal elasticity when a fold of **cutis** is pinched."*

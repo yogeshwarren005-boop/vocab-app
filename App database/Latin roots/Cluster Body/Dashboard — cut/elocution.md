@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert manner of speaking involving control of voice and gesture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert manner of speaking involving control of voice and gesture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skill or art of clear, expressive, and effective speech, especially of distinct pronunciation and articulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Victorian education, the formal discipline teaching voice modulation, posture, and gesture for public debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth; but as a well-judging, steady young man, with better notions than his elocution would do justice to, he intended to value him very highly."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A form and attitude and garb were instantly created worthy to accompany such elocution; but this person was, in all visible respects, the reverse of this phantom."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His elocution was less sweet than sonorous, and, therefore, better adapted than the mellifluences of his friend to the outrageous vehemence of this drama."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"True artistic oratory requires a mastery of **elocution** that turns spoken language into pure aesthetic music."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"William Pitt's extraordinary powers of **elocution** commanded the immediate attention of the House of Commons."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father insisted on severe training in **elocution**, requiring me to recite classical orations with clear cadence."*

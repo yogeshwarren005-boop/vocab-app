@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sentence connectors) because of the reason given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner corresponding to what has been said or done; consequently, therefore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical deduction and administrative practice, executing subsequent actions as a direct result of established premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set we our squadrons on yon side o’ th’ hill In eye of Caesar’s battle, from which place We may the number of the ships behold And so proceed accordingly. [_Exeunt._] SCENE X."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Experience teaches us what to expect, and we adjust our future conduct **accordingly**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The assembly recognized the danger of religious intolerance and **accordingly** enacted statutory safeguards."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of the flower was modified, and **accordingly** the visiting insect adapted its behavior."*

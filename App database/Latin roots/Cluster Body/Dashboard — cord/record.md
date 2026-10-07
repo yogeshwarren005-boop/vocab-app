@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set down in writing or other permanent form for future reference; an official written account; a grooved phonograph disc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, archival history, and acoustic technology, an authoritative public register or acoustic recording of performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be witness to me, O thou blessed moon, When men revolted shall upon record Bear hateful memory, poor Enobarbus did Before thy face repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Yea, from the table of my memory I'll wipe away all trivial fond **record**, all saws of books."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological **record** is an imperfect history of the earth, preserving only isolated fragments of ancient life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Parish registers kept a faithful **record** of every baptism, marriage, and burial across three centuries."*

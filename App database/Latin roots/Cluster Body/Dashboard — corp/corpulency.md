@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than average fatness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than average fatness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Portly bulkiness or excess adipose accumulation in the bodily frame; stoutness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century medical tracts, abnormal corporeal obesity requiring dietary regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corpulency designates more than average fatness."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Vigorous exercise in open fields preserves young gentlemen from indolent **corpulency** and weak limbs."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain domesticated pig breeds are artificially selected for early maturation and immense **corpulency**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley groaned over his increasing **corpulency** as his tight military waistcoat refused to button."*

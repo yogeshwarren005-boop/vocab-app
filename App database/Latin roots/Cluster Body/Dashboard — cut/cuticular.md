@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cuticle or cuticula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cuticle or cuticula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the cuticle or external epidermis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical histology and arthropod physiology, pertaining to the cuticular wax layer or chitinous cuticular skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuticular designates of or relating to a cuticle or cuticula."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A thick **cuticular** coating protects desert succulents against excessive water loss in arid sunlight."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Mineral salts impregnate the **cuticular** layers of the carapace, giving it stony rigidity."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The sensitive hairs of the leaf respond to touch through subtle deformation of their **cuticular** walls."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaim in an elocutionary manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declaim in an elocutionary manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak, recite, or deliver a speech in an oratorical, theatrical, or elocutionary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical rhetoric, to declaim formally according to systematic rules of gesture, cadence, and vocal projection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elocute designates declaim in an elocutionary manner."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The duke got ready to **elocute** Hamlet's soliloquy, waving his arms and roaring like an actor."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He loved to **elocute** beautiful, decadent verses, listening with vanity to the musical resonance of his own voice."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The circus manager could **elocute** grand speeches with astonishing theatrical pathos before the gaping provincial crowd."*

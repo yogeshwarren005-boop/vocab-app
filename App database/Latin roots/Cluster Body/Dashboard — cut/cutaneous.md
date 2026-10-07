@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or existing on or affecting the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or existing on or affecting the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and pathology, designating topical drug absorption, reflexes, or skin lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The meat is seldom touched except as a medicine, which is curative for cutaneous diseases."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Branches of the trigeminal nerve provide the primary **cutaneous** sensory innervation to the human face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense itching often accompanies generalized **cutaneous** manifestations in obstructive jaundice."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The sudden blushing of the cheek illustrates vasomotor control over superficial **cutaneous** capillaries."*

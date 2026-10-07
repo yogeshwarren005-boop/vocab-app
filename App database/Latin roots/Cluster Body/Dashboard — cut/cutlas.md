@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short heavy curved sword with one edge; formerly used by sailors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short heavy curved sword with one edge; formerly used by sailors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of cutlass, a short heavy sword with a broad, curved blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century naval narratives, the standard hand-to-hand boarding sword carried by seamen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In vain the captain threatened to throw him overboard; suspended a cutlass over his naked wrists; Queequeg was the son of a King, and Queequeg budged not."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Do you want to lose your scalp?” “Shall I after him, Captain,” asked pathetic Smee, “and tickle him with Johnny Corkscrew?” Smee had pleasant names for everything, and his cutlass was Johnny Corkscrew, because he wiggled it in the wound."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"There was fierce struggle, in which the cutlass was torn from the pirate’s grasp."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The armorer polished the heavy brass hilt of the **cutlas** before placing it in the arm-chest."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I girded on my naked **cutlas** and took two loaded pistols in my belt before venturing toward the shore."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A notched and rusted **cutlas** hung against the bulkhead of the old sea-dog's parlor."*

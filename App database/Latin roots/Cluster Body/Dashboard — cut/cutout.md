@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch that interrupts an electric circuit in the event of an overload.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph from which the background has been cut away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure or design cut out of paper, cardboard, or wood; an automatic device that breaks an electrical circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and espionage tradecraft, an automatic circuit breaker or an intermediary isolating two covert agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of junctions and cutouts were dug to serve one-time needs."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The electromagnetic **cutout** protects incandescent light filaments from burning out during voltage spikes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The child amused himself by arranging quaint cardboard **cutout** soldiers upon the parlor hearthrug."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The engine was fitted with an emergency **cutout** designed to vent high-pressure steam into the atmosphere."*

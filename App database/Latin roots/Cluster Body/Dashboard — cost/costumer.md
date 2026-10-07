@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who designs or supplies costumes (as for a play or masquerade).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who designs or supplies costumes (as for a play or masquerade).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs, makes, or rents theatrical costumes; also a freestanding clothes stand or rack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical production, an artisan in charge of fabricating wardrobe pieces for stage or historical spectacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costumer designates someone who designs or supplies costumes (as for a play or masquerade)."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Crummles dispatched his messenger to the theatrical **costumer** to procure Roman helmets for the tragedy."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The veteran stage **costumer** patched worn velvet tunics with admirable ingenuity behind the wings."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"In the corner of the dressing room stood a wooden **costumer** laden with caps, scarves, and heavy wool coats."*

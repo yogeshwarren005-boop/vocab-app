@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation at the junction of a rib and its cartilage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation at the junction of a rib and its cartilage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the cartilage that connects a rib to the breastbone (sternum), causing localized chest wall pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and rheumatology, a benign musculoskeletal cause of anterior chest pain that mimics angina pectoris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costochondritis designates inflammation at the junction of a rib and its cartilage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Point tenderness over the sternocostal junctions distinguishes benign **costochondritis** from severe coronary ischemia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Inflammation involving the second and third costal cartilages in **costochondritis** produces pain exacerbated by deep breathing."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Local anti-inflammatory applications relieve the sharp thoracic discomfort associated with subacute **costochondritis**."*

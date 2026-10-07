@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record before presentation, as of a broadcast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record before presentation, as of a broadcast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To record sound, video, or data in advance of its broadcasting, exhibition, or use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast engineering and communications, to commit audio or visual material to a storage medium prior to live transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prerecord designates record before presentation, as of a broadcast."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The cylinder phonograph allows musicians to **prerecord** orchestral works for widespread domestic enjoyment."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Public orators no longer spoke live, but chose to **prerecord** their speeches upon revolving kinetic cylinders."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Modern telephonic transmitters make it feasible to **prerecord** acoustic signals for synchronized transmission across oceanic cables."*

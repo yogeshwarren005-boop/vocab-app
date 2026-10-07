@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of the profits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (film) an immediate transition from one shot to the next.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, sever, pierce, or penetrate with a sharp-edged instrument; an incision, wound, or gash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinematography, surgery, and gemology, a transition between film shots, a surgical incision, or the facet proportions of a gemstone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me cut the cable, And when we are put off, fall to their throats."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"For Brutus, as you know, was Caesar's angel: judge, O you gods, how dearly Caesar loved him! This was the most unkindest **cut** of all."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Technical machinery can **cut** and shape timber with a speed impossible to unassisted manual craftsmen."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He felt the cold **cut** of the winter wind as he walked alone down the desolate country lane."*

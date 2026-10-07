@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Costing nothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Costing nothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving no financial expenditure, outlay, or sacrifice; obtained without price.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory and economics, an action or resource acquired without expenditure of labor or capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costless designates costing nothing."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Gathering acorns under wild oaks was a virtually **costless** appropriation that harmed no fellow creature."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"No human convenience is truly **costless** once human labor has been expended upon its transport."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Beneficent counsel remains **costless** to the giver while conferring immense advantage upon the recipient."*

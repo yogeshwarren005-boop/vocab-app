@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the accordion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the accordion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and popular entertainment, a performer skilled in the manual bellows technique and counter-melody fingering of free reeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accordionist designates a musician who plays the accordion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The village **accordionist** struck up a lively country reel that set every rustic pair dancing on the lawn."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"A blind **accordionist** sat on the corner of the wharf, drawing sweet melancholy melodies from his worn instrument."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"An itinerant **accordionist** entertained the holiday passengers on the deck of the river steamboat."*

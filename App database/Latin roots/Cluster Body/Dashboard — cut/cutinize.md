@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into cutin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cutin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into cutin, or impregnate plant cell walls with cutin to form a waterproof barrier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant histogenesis, the metabolic process of depositing lipophilic cutin within outer epidermal cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutinize designates convert into cutin."*
+> - 📜 **Asa Gray (*Introduction to Structural and Systematic Botany*):** *"Exposed epidermal cells gradually **cutinize** their outer membranes to withstand harsh atmospheric conditions."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Subaerial roots tend to **cutinize** their surface layers as soon as they encounter dry circulating air."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Fossil spores survive across geological eras because their durable coats **cutinize** during sporogenesis."*

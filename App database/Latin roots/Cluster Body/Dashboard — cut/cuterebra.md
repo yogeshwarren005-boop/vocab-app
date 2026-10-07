@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cuterebridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cuterebridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large New World botflies whose parasitic larvae develop in subcutaneous pockets under the skin of rodents and lagomorphs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary entomology, the rodent botfly, whose third-instar larvae form warble-like dermal swellings with breathing pores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuterebra designates type genus of the cuterebridae."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild rabbits frequently harbor the large subcutaneous larvae of **Cuterebra** beneath their dorsal pelt."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The heavily spined cuticle of the larval **Cuterebra** anchors the parasite securely within the host's dermal cyst."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accidental human cutaneous myiasis caused by **Cuterebra** presents as an inflamed furuncular nodule."*

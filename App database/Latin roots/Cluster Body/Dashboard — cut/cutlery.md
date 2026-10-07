@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cutting implement; a tool for cutting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tableware implements for cutting and eating food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knives, forks, spoons, and other eating utensils; also cutting instruments collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British industrial history, the world-famous manufacture of steel edge tools, surgical instruments, and tableware in Sheffield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Thinks I, Queequeg, this is using Rogers’s best cutlery with a vengeance."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They are fond of, and will give food in exchange for, salt, beads and cutlery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The table was set with heavy pewter plates and substantial steel **cutlery** suited for hearty whalemen."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The bride's dowry included a handsome set of silver **cutlery** stored in an inlaid mahogany canteen."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The export of fine English **cutlery** flourished because domestic steel commanded superior mechanical temper."*

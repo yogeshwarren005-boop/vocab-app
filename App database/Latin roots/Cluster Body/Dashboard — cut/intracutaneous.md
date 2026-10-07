@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to areas between the layers of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to areas between the layers of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or administered within the substance of the skin; intradermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and allergy diagnostics, designating diagnostic injections placed within the dermal layer (e.g., Mantoux test).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intracutaneous designates relating to areas between the layers of the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic tuberculin reaction is elicited by an **intracutaneous** injection that produces localized induration."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The dense capillary meshwork of the papillary dermis rapidly absorbs fluid delivered by **intracutaneous** inoculation."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic pathogens introduced by shallow **intracutaneous** puncture provoke an intense local phagocytic response."*

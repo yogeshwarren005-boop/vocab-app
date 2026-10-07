@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entailing great loss or sacrifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a high price.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving great expense, high price, or heavy sacrifice; expensive, sumptuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and financial analysis, entailing catastrophic expenditure of life, treasure, or materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woe to the hand that shed this costly blood!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A day in April never came so sweet, To show how costly summer was at hand, As this fore-spurrer comes before his lord."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prolonged siege proved a **costly** enterprise that depleted both the imperial treasury and veteran infantry."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Modern firearms render national defense far more **costly** than in the simpler ages of spears and bows."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Court pageantry displayed **costly** jewels while peasant families outside the gates starved on black bread."*

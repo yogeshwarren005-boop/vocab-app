@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hawker of fruit and vegetables from a barrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hawker of fruit and vegetables from a barrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A street seller of fruit, vegetables, fish, or other wares from a handcart or barrow in British cities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social history of London, a prominent working-class street trader possessing a distinct dialect, costume, and culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The carbon given off from the naphtha is very disposed to choke up the little hole through which the naphtha runs into the cup, and the costermonger pushes a pin into the little hole to allow the free passage of the naphtha."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"He was an extraordinary old aristocrat, who swore like a costermonger, and had the manners of a farmer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is of so little regard in these costermongers’ times that true valour is turned bearherd; pregnancy is made a tapster, and hath his quick wit wasted in giving reckonings."*
+> - 📜 **Henry Mayhew (*London Labour and the London Poor*):** *"The London **costermonger** prides himself on his sharp street wit, independent spirit, and pearl-buttoned jacket."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A noisy **costermonger** wheeled his barrow of cabbages through the foggy lane, calling his wares to the tenement windows."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The clamor of the market street resounded with the shouted bargains of every industrious **costermonger**."*

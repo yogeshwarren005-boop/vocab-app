@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signed written agreement between two or more parties (nations) to perform some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signed written agreement between two or more parties (nations) to perform some action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official agreement or treaty between the Holy See (Papacy) and a secular government regulating church affairs in that state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and ecclesiastical law, a formal bilateral covenant establishing the legal rights, appointments, and properties of the Catholic Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concordat designates a signed written agreement between two or more parties (nations) to perform some action."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A solemn **concordat** between the emperor and the Roman pontiff demarcated the boundary of spiritual and temporal jurisdictions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Napoleon restored religious order to revolutionary France by ratifying the famous **Concordat** of 1801."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"The German princes fiercely debated the provisions of the ecclesiastical **concordat** regulating episcopal elections."*

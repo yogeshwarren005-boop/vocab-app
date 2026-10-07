@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer body wall of an insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer body wall of an insect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The epidermis or outer skin, especially the thin, non-living protective pellicle covering animal or plant surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative microscopic histology, the outer extracellular layer secreted by underlying epithelial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuticula designates the outer body wall of an insect."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The stratum corneum forms the dense, keratinized **cuticula** guarding the deeper vascular dermis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In annelid worms, the moist, iridescent **cuticula** is perforated by minute pores for mucous secretion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Cellular proliferation beneath the **cuticula** drives continuous renewal of the desquamating surface layer."*

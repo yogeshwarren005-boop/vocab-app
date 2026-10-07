@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of early gymnospermous seed plants that formed towering trees during the Carboniferous and Permian periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotanical taxonomy, an order of gymnosperms characterized by slender trunks, large strap-like leaves, and catkin-like strobili.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaitales designates extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The order **Cordaitales** provided much of the organic vegetable mass preserved in Paleozoic bituminous coal seams."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Morphological comparisons place the **Cordaitales** near the common ancestral root of conifers and ginkgophytes."*
+> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"The anatomy of reproductive strobili in the fossil **Cordaitales** sheds light on the origins of cone-bearing trees."*

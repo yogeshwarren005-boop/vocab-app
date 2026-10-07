@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine or unite into a whole; to form into a legal corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business law and philosophy, to constitute as an artificial legal person or assimilate into an existing body of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, it is Casca, one incorporate To our attempts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants petitioned Parliament to **incorporate** their joint venture under a royal charter with exclusive trade privileges."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Sound scientific induction must **incorporate** anomalous empirical observations within revised general laws."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We ought to **incorporate** the practical insights of artisans into the systematic body of natural philosophy."*

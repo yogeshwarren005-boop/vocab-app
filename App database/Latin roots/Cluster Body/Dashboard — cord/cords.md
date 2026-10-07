@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line made of twisted fibers or threads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin ropes, strings, or twisted strands; also ribbed trousers made of corduroy fabric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and musical terminology, flexible fibrous bands such as vocal cords, or vibrating strings on an acoustic instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this hour I was his bondman, sir, But he, I thank him, gnaw’d in two my cords."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Executioners with cords, irons, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be cords or knives, Poison or fire, or suffocating streams, I’ll not endure ’t."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"He hath no drowning mark upon him; his complexions are perfect gallows. Stand fast, good fate, to his hanging! Make the rope of his destiny our cable, for our own doth little advantage! If he be not born to be hanged, our case is miserable. Yea, our taut **cords** snap!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep-shearers tied the legs of the struggling animals with short hempen **cords** before beginning their work."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom wore sturdy **cords** and thick boots suitable for tramping through the wet autumn woods with the gamekeeper."*

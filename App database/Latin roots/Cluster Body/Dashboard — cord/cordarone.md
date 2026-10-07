@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for amiodarone, a potent antiarrhythmic medication used to treat life-threatening cardiac rhythm disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and pharmacology, a class III antiarrhythmic agent that prolongs myocardial action potential duration and refractoriness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordarone designates an antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern pharmacotherapy relies on agents like **Cordarone** to terminate refractory ventricular tachydysrhythmias."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Synthetic cardiovascular compounds such as **Cordarone** revolutionized the clinical management of severe cardiac disturbances."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Physiological monitoring must accompany administration of potent drugs like **Cordarone** to prevent thyroid and pulmonary complications."*

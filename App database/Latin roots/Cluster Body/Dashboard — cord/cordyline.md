@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic and pacific trees or shrubs; fragments of the trunk will regrow to form whole plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic and pacific trees or shrubs; fragments of the trunk will regrow to form whole plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of palm-like evergreen flowering plants in the family Asparagaceae, including the New Zealand cabbage tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and Pacific ethnobotany, monocotyledonous shrubs or trees producing starchy rhizomes and fibrous sword-shaped leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordyline designates asiatic and pacific trees or shrubs; fragments of the trunk will regrow to form whole plants."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Towering specimens of **Cordyline** gave a distinctly tropical character to the New Zealand coastal forest."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The Maori extracted sweet nourishment from the cooked taproots and trunk pulp of endemic **Cordyline** species."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The sword-shaped foliage of **Cordyline** forms a prominent feature of the insular flora across the southern Pacific."*

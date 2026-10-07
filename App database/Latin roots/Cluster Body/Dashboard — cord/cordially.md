@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hearty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hearty manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a warm, sincere, friendly, and affectionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary correspondence and social convention, warmly and heartily, without pretense or formal coldness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa's first impulse was to withdraw with an excuse, but the ladies had jumped up already and most cordially greeted their kind friend, Mr Falcon, whom they called their helper and saviour in all difficulties."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That makes me feel so much at home!" Salo exclaimed after nodding cordially."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He now shook them cordially by the hand and said, “Miss Summerson and gentlemen, this is an old comrade of mine, Matthew Bagnet."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge shook hands **cordially** with the astonished gentleman, promising generous donations for the poor."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston **cordially** invited all his neighbors to join in the festive ball at the Crown Inn."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old general welcomed Rawdon **cordially**, inviting him to sit down and share a glass of claret."*

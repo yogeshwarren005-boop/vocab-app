@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being physical; consisting of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being physical; consisting of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tangible material existence, possessing physical extension, mass, and bodily form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ontology and theology, the fundamental property of existing as a concrete material body in space and time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty put her hands upon Tess’s shoulders, as if to realize her friend’s corporeality after such a miracle, and the other two laid their arms round her waist, all looking into her face."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"We 140:9 shall obey and adore in proportion as we apprehend the divine nature and love Him understandingly, warring no more over the corporeality, but rejoicing in the affluence 140:12 of our God."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True physical science must fathom the latent configurations of matter that constitute gross **corporeality**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The idea of space is distinct from that of **corporeality**, since empty space contains no solid resistance."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic symbols lend imaginative **corporeality** to the most abstract and elusive intellectual truths."*

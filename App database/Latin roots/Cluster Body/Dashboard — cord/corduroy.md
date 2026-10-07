@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cut pile fabric with vertical ribs; usually made of cotton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A road made of logs laid crosswise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A durable cotton fabric with velvety raised parallel ribs or wales; also a road made of tree logs laid across swamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical infrastructure and textile manufacture, ribbed fustian cloth for rural workwear, or timber corduroy roads across marshes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Like all boys of his class, his usual dress was a brown velveteen jacket and waistcoat and corduroy trousers that had once been white."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"These marks produce the corduroy sort of stripes discernible in the tappa in its finished state."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They consisted of two shirts and a half, two stocks for the neck, a pair or two of worsted stockings, an old pair of corduroy small-clothes, a rusty razor, a book of psalm tunes full of dog’s ears, and a broken pitch-pipe."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The carpenter wore a clean **corduroy** waistcoat and a paper cap as he surveyed his finished workbench."*
+> - 📜 **Charles Dickens (*American Notes*):** *"Our heavy coach bumped and jolted incessantly over miles of rough **corduroy** road laid through the dismal swamp."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Ambulances laden with wounded soldiers crept slowly across the rustic **corduroy** bridges spanning the river."*

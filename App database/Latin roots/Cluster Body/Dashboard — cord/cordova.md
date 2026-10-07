@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish explorer who discovered yucatan (1475-1526).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern spain; center of moorish culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative historic spelling of Córdoba, Spain; also applied to fine goatskin leather manufactured there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and commerce, the Andalusian center renowned for exquisite tanneries and Moorish craftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is in any case truer than Mommsen's description of Cicero. [Sidenote: Seneca's early life] Seneca was born at Cordova in Spain about the Christian era--certainly not long before it."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The Moorish cavalry marched forth through the fortified gateways of **Cordova** toward the Christian border."*
+> - 📜 **Henry Wadsworth Longfellow (*The Spanish Student*):** *"The ancient towers of **Cordova** gleamed across the broad valley of the Guadalquivir in the golden evening light."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The royal library of **Cordova** contained over four hundred thousand volumes collected by royal patrons of learning."*

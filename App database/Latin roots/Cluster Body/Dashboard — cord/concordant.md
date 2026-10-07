@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In keeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the same opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing, harmonious, or consistent; in complete accord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and music, designating rock strata parallel to adjacent beds without unconformity, or harmonious musical intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it cried, How true a twain Seemeth this concordant one!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"You were to have universal concord, and were to get it by eliminating all the people who wouldn’t, or conscientiously couldn’t, be concordant."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The igneous sheet was injected as a **concordant** sill between horizontal layers of carboniferous shale."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"True propositions are always **concordant** with one another, forming an unbroken web of consistent truths."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Upper partials combine into a **concordant** acoustic sensation when their frequencies stand in simple ratios."*

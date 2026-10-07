@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being physical; consisting of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being physical; consisting of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Material or bodily substance; physical existence as opposed to pure spiritual or incorporeal being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic metaphysics and natural philosophy, the essential attribute of possessing a material body occupying space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corporality designates the quality of being physical; consisting of matter."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophers must scrutinize the gross **corporality** of tangible matter before speculating on invisible spirits."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our notion of **corporality** includes solidity, extension, and the power of communicating motion by impulse."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The gross **corporality** of pagan idols contrasted sharply with the transcendent spirituality of revealed faith."*

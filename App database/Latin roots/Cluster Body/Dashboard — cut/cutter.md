@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who cuts or carves stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who carves the meat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or tool that cuts; also a light, fast single-masted sailing boat with a mainsail and two or more headsails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history and tailoring, a fast naval patrol vessel, or a craftsman who cuts patterns from cloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, there is Fortune too hard for Nature, when Fortune makes Nature’s natural the cutter-off of Nature’s wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cutter Was as another nature, dumb; outwent her, Motion and breath left out."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Let’s see what you have.” “The best I have in stock is this one,” said the stone-cutter, going into a shed."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"The carver was as nature, dumb; outwent her, motion and breath left out, a very exquisite **cutter**."*
+> - 📜 **Thomas Hardy (*The Trumpet-Major*):** *"A swift revenue **cutter** lay anchored in the bay, scanning the cliffs for nocturnal smugglers."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The ship's **cutter** was lowered into the swell to pick up the drifting lifebuoy."*

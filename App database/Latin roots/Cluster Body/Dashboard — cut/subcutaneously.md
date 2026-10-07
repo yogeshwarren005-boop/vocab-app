@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Below the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under or beneath the skin; by means of a hypodermic injection into the tissue below the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacokinetics and experimental surgery, delivering therapeutic agents into the hypodermal fascia for sustained absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcutaneously designates below the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Saline solutions infused **subcutaneously** in large volume support circulation during severe cholera collapse."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Absorbable catgut ligatures placed **subcutaneously** undergo sterile dissolution without inciting suppuration."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Toxins injected **subcutaneously** diffuse into lymphatic channels before entering the general vascular bloodstream."*

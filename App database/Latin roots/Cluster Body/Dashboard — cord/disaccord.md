@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different from one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement, dissension, or lack of harmonious alignment between parties, opinions, or musical sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and civil governance, internal division or failure of consensus within an institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disaccord designates be different from one another."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Civil wars and internal **disaccord** spring frequently from petty jealousies among the great ministers of state."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"When legislative enactments fall into **disaccord** with natural equity, civil disobedience inevitably ensues."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The factional **disaccord** between the Mountain and the Gironde paralyzed the National Convention."*

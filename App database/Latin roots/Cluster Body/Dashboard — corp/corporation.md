@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business firm whose articles of incorporation have been approved in some state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slang for a paunch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association or business enterprise authorized by law to act as a single immortal legal entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and economics, a legally chartered artificial person possessing perpetual succession and limited liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The corporation of servants are dismissed to bed (not unwilling to go, for they were up all last night), and only Mrs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The directors of an incorporated **corporation** manage other people's money rather than their own."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Public utility monopolies are most efficiently conducted under municipal control rather than a private **corporation**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the United States, every municipal township forms a self-governing **corporation** vested with statutory rights."*

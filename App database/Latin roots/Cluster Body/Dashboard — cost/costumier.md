@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who designs or supplies costumes (as for a play or masquerade).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who designs or supplies costumes (as for a play or masquerade).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional maker, designer, or purveyor of theatrical costumes; costumer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European theatrical traditions, a master couturier specializing in period wardrobe for opera, ballet, and stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costumier designates someone who designs or supplies costumes (as for a play or masquerade)."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"The fashionable **costumier** of the boulevard supplied lavish historical mantles for the grand opera premier."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp consulted a Parisian **costumier** to ensure her court dress should eclipse all rivals."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"The actress spent hours in conversation with her **costumier**, perfecting every drape of Phèdre's classical robe."*

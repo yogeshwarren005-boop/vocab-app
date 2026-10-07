@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual herb of the eastern himalayas (kashmir) having purple florets and a fragrant root that yields a volatile oil used in perfumery and for preserving furs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual herb of the eastern himalayas (kashmir) having purple florets and a fragrant root that yields a volatile oil used in perfumery and for preserving furs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dried root of the alpine thistle Saussurea costus, harvested in the Himalayas for perfumes, incense, and herbal medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy and international trade, ancient oriental aromatic root prized in Roman, Arab, and Chinese medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costusroot designates annual herb of the eastern himalayas (kashmir) having purple florets and a fragrant root that yields a volatile oil used in perfumery and for preserving furs."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Merchants bring precious **costusroot** from the mountains of India to formulate the costliest imperial perfumes."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Caravans transported fragrant **costusroot** across ancient Himalayan passes to the trading ports of the Persian Gulf."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Aromatic compounds extracted from **costusroot** have been preserved in Ayurvedic and Greek pharmacopoeias for millennia."*

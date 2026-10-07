@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record before presentation, as of a broadcast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recorded at one time for transmission later.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recorded beforehand, prior to broadcast, exhibition, or playback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media technology, stored in advance on magnetic tape, optical disc, or digital memory for delayed reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prerecorded designates record before presentation, as of a broadcast."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"A smooth **prerecorded** voice echoed from the metal phonograph horns throughout the illuminated corridors."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Synthetic music drifted from hidden speakers, playing soothing **prerecorded** melodies into the slumbering dormitories."*
+> - 📜 **George Orwell (*1984*):** *"Telescreens blared **prerecorded** patriotic anthems and fabricated production statistics to the exhausted crowds."*

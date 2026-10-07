@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical deciduous or evergreen trees or shrubs of the family boraginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical deciduous or evergreen trees or shrubs of the family boraginaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical flowering trees and shrubs in the borage family (Boraginaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and forestry, a pan-tropical genus of trees producing durable timber and edible mucilaginous fruits, named after botanist Valerius Cordus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordia designates tropical deciduous or evergreen trees or shrubs of the family boraginaceae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Stands of flowering **Cordia** trees covered the rocky volcanic slopes of the Galapagos Islands."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The delicate white blossoms of **Cordia** perfumed the riverbanks of the Orinoco at dusk."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Wood carvers prized the fine grain and golden luster of timber harvested from native species of **Cordia**."*

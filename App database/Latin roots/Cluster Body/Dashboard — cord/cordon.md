@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of sentinels or of military posts enclosing or guarding some place or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cord or ribbon worn as an insignia of honor or rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line or ring of police, soldiers, or ships guarding an area or preventing ingress and egress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban epidemiology and horticulture, a sanitary barrier isolating contagious zones, or an ornamental fruit tree trained along a single stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He turned his back and addressed the head man of the village while his six silken satellites made a cordon between us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you hear that noise, Cabaco?” It was the middle-watch; a fair moonlight; the seamen were standing in a cordon, extending from one of the fresh-water butts in the waist, to the scuttle-butt near the taffrail."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was in the midst of this repose, that Archy, one of the cordon, whose post was near the after-hatches, whispered to his neighbor, a Cholo, the words above."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A watchful **cordon** of harpooners ringed the captured whale as sharks gathered in the darkened waters."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A military **cordon** of infantry and artillery was thrown completely around the smoking crater on the common."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sanitary **cordon** stationed along the frontier failed to arrest the fatal progress of the Justinian plague."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world botflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world botflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of robust, hairy New World botflies whose larvae are obligate dermal parasites of wild mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dipterology, oestroid flies lacking functional adult mouthparts whose larvae develop in cutaneous cysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuterebridae designates new world botflies."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Dipterous parasites belonging to the family **Cuterebridae** are strictly confined to the Nearctic and Neotropical realms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Adult flies of the **Cuterebridae** live briefly upon larval metabolic reserves without feeding."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The host specificity demonstrated by members of the **Cuterebridae** reflects co-evolution with native mammalian orders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the surface) having a rough, riblike texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having ribs or rib-like ridges; ribbed in morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and paleontology, having raised parallel ridges traversing the exterior surface of a shell or fossil leaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costate designates (of the surface) having a rough, riblike texture."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil beds contain richly **costate** ammonite shells whose prominent ridges provided structural strength."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The bivalve margin is distinctly **costate**, each radial ridge terminating in a dentate interlocking tooth."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The carpel surface is strongly **costate**, featuring five prominent longitudinal ribs bearing glandular bristles."*

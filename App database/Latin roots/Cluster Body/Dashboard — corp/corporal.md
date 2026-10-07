@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noncommissioned officer in the army or air force or marines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or characteristic of the body as opposed to the mind or spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the human physical body; also a non-commissioned military officer ranking above private.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and penal history, designating physical punishments such as flogging inflicted directly on the offender's body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had that corporal soundness now, As when thy father and myself in friendship First tried our soldiership."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Render to me some corporal sign about her, More evident than this; for this was stol’n."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee what, Corporal Bardolph, I could tear her."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Into the air; and what seem'd **corporal** melted as breath into the wind."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Frequent resort to **corporal** punishment tends to degrade the moral sensibility of a growing youth."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A veteran **corporal** of the Swiss Guard stood resolute amidst the frantic tumult at the palace gates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for making records.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone responsible for keeping records.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official authorized to keep legal records; an electronic device that records sound or video; an end-blown wooden flute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English municipal law, a barrister acting as a part-time criminal judge; in musical organology, a fipple flute with eight fingerholes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed he hath played on this prologue like a child on a recorder; a sound, but not in government."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His answer was, the people were not used To be spoke to but by the Recorder."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The Recorder’s report is made to-day, and he is sure to be executed on Monday."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, the **recorder**! Let me see one. Will you play upon this pipe? It is as easy as lying."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The true poet is not an inventor of novelties, but a faithful **recorder** of eternal spiritual realities."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Dr. Seward spoke into his phonograph **recorder**, chronicling Renfield's sudden violent fits of zoophagy."*

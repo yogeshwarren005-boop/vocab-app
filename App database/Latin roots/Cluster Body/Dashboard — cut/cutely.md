@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an attractive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an attractive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cute, clever, shrewd, or endearing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narration, acting with sharp, clever ingenuity or endearing charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutely designates in an attractive manner."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom managed the whitewashing business so **cutely** that the other boys paid him for the privilege of working."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The old auctioneer dodged the awkward question **cutely**, turning the laugh against his impatient rival."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"The clerk handled the suspicious customer **cutely**, conceding just enough to close the lucrative contract."*

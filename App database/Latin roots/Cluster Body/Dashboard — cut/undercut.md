@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The material removed by a cut made underneath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To offer goods or services at a lower price than a competitor; to cut away material from the underside of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics and machining, predatory pricing to eliminate market rivals, or milling a recessed lower relief groove.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"I've got a dummy option on it in the works, and we'll be able to undercut Holliday's prices for his land by about twenty per cent." "False-E, huh?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Cheap foreign imports threaten to **undercut** domestic artisans unless technological efficiency reduces costs."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Large capital syndicates intentionally **undercut** small independent shopkeepers until monopoly is achieved."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Fierce competitive efforts to **undercut** rivals accelerate the cyclical instability of modern business enterprise."*

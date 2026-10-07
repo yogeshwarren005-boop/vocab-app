@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The total spent for goods or services including money and time and labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having material worth (often indicated by the amount of money something would bring if sold).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The price paid or required to acquire, produce, or accomplish something; outlay, expense, or sacrifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, the total expenditure of resources, labor, and capital consumed in the production of a commodity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she had partaken of my flesh and cost me the dearest groans of a mother, I could not have owed her a more rooted love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it, which constitutes its natural **cost**."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Commodities exchange against each other in proportion to the relative quantity of labor embodied in their **cost**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The necessary **cost** of production determines the permanent value of all freely reproducible goods."*

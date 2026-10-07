@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cost within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cost in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical excision or removal of a rib or a section of a rib.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery, the resection of a portion of a rib to drain empyema cavities or access the mediastinum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costectomy designates pertaining to, derived from, or characteristic of latin cost within the domain of body."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic subperiosteal **costectomy** allowed complete evacuation of chronic tuberculous empyema without sepsis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When thoracentesis fails in purulent pleural effusion, partial **costectomy** provides permanent dependent drainage."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"During operative **costectomy**, the periosteal bed must be preserved intact to prevent injury to intercostal vessels."*

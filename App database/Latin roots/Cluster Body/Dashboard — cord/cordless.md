@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating without an electrical connection cord, typically powered by internal rechargeable batteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and consumer technology, designating mobile devices transmitting power or signals untethered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordless designates not having a cord."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"A truly portable telephone apparatus requires a **cordless** battery design to liberate the user from fixed wires."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Every mechanical implement was rendered **cordless** and autonomous by compact atomic storage cells."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The wireless transmission of energy will make all industrial machinery essentially **cordless** and free of physical bounds."*

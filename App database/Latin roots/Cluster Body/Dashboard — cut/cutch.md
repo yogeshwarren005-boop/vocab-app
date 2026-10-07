@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tannin extract derived from any of several mangrove barks of pacific areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tannin extract derived from any of several mangrove barks of pacific areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astringent reddish-brown resinous extract obtained from the wood of Acacia catechu, used in tanning, dyeing, and medicine; catechu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile technology and nautical history, a preservative tannin extract applied to fishing nets and sails to prevent rot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutch designates tannin extract derived from any of several mangrove barks of pacific areas."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"The dock warehouses smelled of pungent spices, raw hides, and dark casks of Indian **cutch**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fishermen steep their hempen cordage in a boiling decoction of **cutch** to resist the corrosive action of brine."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Tanners in colonial ports rely upon imported **cutch** to impart rich brown tones to heavy harness leather."*

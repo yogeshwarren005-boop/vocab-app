@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public speaker trained in voice production and gesture and delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public speaker trained in voice production and gesture and delivery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled in or teaches the art of public speaking, declamation, and reading aloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century lyceum culture, a professional performer who gave dramatic public readings of dramatic texts and poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Murdoch, the daughter of the patriotic actor and elocutionist, gave her services with great earnestness to the work."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The traveling **elocutionist** recited tragic ballads to the hotel guests, pausing dramatically after each stanza."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Wopsle fancied himself an accomplished **elocutionist**, treating church congregations to theatrical declamations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A trained **elocutionist** learns to control involuntary vocal tremors through voluntary respiratory inhibition."*

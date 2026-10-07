@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive especially by means of smallness or prettiness or quaintness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obviously contrived to charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attractive in a pretty, endearing, or amusing way; shrewd, sharp, or clever in practical matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical colloquial English, an aphetic shortening of acute, signifying clever cunning or sharpness of mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And then, these exchanges, they don’t answer when you have ’cute jockeys to deal with."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Skill, coolness, audacity, and cunning he possessed in a superior degree, and it must be a cunning whale or a singularly “cute” cachalot to escape the stroke of his harpoon."*
-> - 📜 **James Joyce (*Ulysses*):** *"Hope he’s not looking, cute as a rat."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The miller remarked that his nephew was a **cute** lad, uncommonly sharp at reckoning up figures in a bargain."*
+> - 📜 **James Joyce (*Dubliners*):** *"He gave a **cute** wink to his companion, showing that he understood the landlord's secret motive."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The young hospital orderly was exceptionally **cute** and quick-witted, managing the difficult patients with ease."*

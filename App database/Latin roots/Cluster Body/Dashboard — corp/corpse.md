@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead body of a human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dead body of a human being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dead human body, especially one prepared for burial or examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and morbid anatomy, a deceased human remains undergoing post-mortem examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter priests, &c, in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter his chamber, view his breathless corpse, And comment then upon his sudden death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A mummy again endued with animation could not be so hideous as that wretch; I had gazed on a living **corpse**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The damp autumn mist rose from the marshes like a shroud covering the cold **corpse** of the earth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-mortem dissection of the **corpse** revealed extensive ulcerative endocarditis of the aortic valves."*

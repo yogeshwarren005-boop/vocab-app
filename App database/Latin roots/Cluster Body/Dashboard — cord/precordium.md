@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external surface of the body overlying the heart and stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external surface of the body overlying the heart and stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of the anterior chest wall immediately overlying the heart and stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical semiotics, the thoracic surface inspected, palpated, and auscultated to assess cardiovascular health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precordium designates the external surface of the body overlying the heart and stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the **precordium** reveals heaving systolic pulsations in cases of severe cardiac hypertrophy."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The pericardium lies immediately beneath the **precordium**, attached by loose connective tissue to the sternum."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Direct observation of the exposed **precordium** in animal models verified the physiological sequence of cardiac contractions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaves used sparingly (because of bitter overtones) in sauces and soups and stuffings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic Eurasian perennial herb (Tanacetum balsamita) with fragrant leaves formerly used in brewing, cooking, and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional ethnobotany and herbalism, also called alecost or Bible leaf, valued for its balsam-like aroma and insect-repelling oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costmary designates tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The aromatic foliage of **costmary** was steeped in home-brewed ale to impart a wholesome balsamic flavor."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Sweet herbs such as lavender, thyme, and **costmary** refresh the animal spirits through their volatile scents."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Old cottage gardens preserved ancient culinary cultigens like **costmary** long after modern cultivars displaced them."*

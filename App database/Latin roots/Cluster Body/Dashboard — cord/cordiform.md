@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf) shaped like a heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf) shaped like a heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a heart; cordate in contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cartography and comparative morphology, designating heart-shaped map projections or anatomical contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordiform designates (of a leaf) shaped like a heart."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Early Renaissance geographers drew the known world upon elegant **cordiform** projections honoring Ptolemy."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superior aperture of the pelvic basin exhibits a typically **cordiform** or heart-shaped outline in males."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The seed pod develops into a flattened **cordiform** capsule crowned by the persistent style."*

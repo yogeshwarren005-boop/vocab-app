@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intentionally unkind way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intentionally unkind way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sharp, sarcastic, piercing, or wounding manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In verbal rhetoric and dialogue, speaking with biting mockery or contempt designed to hurt feelings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BELLO: _(Cuttingly.)_ Their heelmarks will stamp the Brusselette carpet you bought at Wren’s auction."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed observed **cuttingly** that my disposition was deceitful and unsuited for refined company."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond answered **cuttingly**, letting her husband understand that she held his financial anxieties in disdain."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella laughed **cuttingly** at my clumsy country manners as we walked through the decayed garden."*

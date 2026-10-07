@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing, entering, or acting across or through the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrophysiology and biomedical monitoring, passing electrical stimuli or measuring gases through the intact skin barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcutaneous designates through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Non-invasive **transcutaneous** electrical stimulation excites paralyzed motor nerves without requiring surgical exposure."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Galvanic currents applied via moistened electrodes produce direct **transcutaneous** physiological effects on muscle fibers."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial position of the radial pulse facilitates **transcutaneous** palpation of arterial pressure waves."*

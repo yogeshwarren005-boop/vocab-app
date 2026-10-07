@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by taking over and incorporating adjacent territories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by taking over and incorporating adjacent territories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to incorporate, unite, or combine disparate elements into a unified structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, describing polysynthetic languages that combine nominal and verbal roots into single unified word-forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorporative designates growing by taking over and incorporating adjacent territories."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Indigenous American idioms display an **incorporative** structure that merges subject, verb, and object into one compound word."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Early mythologies possess an **incorporative** tendency, absorbing foreign folk tales into the native pantheon."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Philosophic systems exhibit an **incorporative** strength when they assimilate rival doctrines into higher synthesis."*

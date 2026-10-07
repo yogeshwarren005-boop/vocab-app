@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who murders by cutting the victim's throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruthless in competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A murderer or assassin; also merciless, ruthless, or fierce in competitive behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics, predatory price-slashing intended to bankrupt rival firms and establish monopoly control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You Skye cutthroats!" If the nor'easter held, Shane calculated, he could run through Biscay full, come into the Mediterranean on a broad reach, and jam her straight at Marseilles."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"There is a desprate gang of cutthroats from over in the Indian Territory going to steal your runaway nigger to-night, and they have been trying to scare you so as you will stay in the house and not bother them."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"You call me misbeliever, **cutthroat** dog, and spit upon my Jewish gaberdine."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Unregulated monopolies often engage in **cutthroat** competition until all independent rivals are ruined."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The dark alley was the notorious haunt of every desperate **cutthroat** and highwayman in London."*

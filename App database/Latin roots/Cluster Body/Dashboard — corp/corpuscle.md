@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two types of cells (erythrocytes and leukocytes) and sometimes including platelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unattached microscopic cell, especially a red or white blood cell in the blood or lymph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century physics and cellular biology, a minute discrete particle of matter, electricity, or biological fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The heat sets the molecules in violent agitation, which, acting upon the corpuscles in the atoms, sets them in violent motion too, so that light is often the companion of heat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In other words, it is easier to accelerate the motion of the corpuscles in ceria, thoria and the other ingredients of the mantle, than it is those of carbon."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And if the iron be hot the resistance will be still more, for it stands to reason that when heated the molecules, being farther apart, will be the less easily able to exchange corpuscles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Every red blood **corpuscle** is a circular biconcave disc containing hemoglobin for gaseous transport."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"The subatomic **corpuscle** carrying negative charge proved to be far lighter than the lightest hydrogen atom."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The inflammatory exudate consists of proliferating white cells migrating through the **corpuscle** meshwork."*

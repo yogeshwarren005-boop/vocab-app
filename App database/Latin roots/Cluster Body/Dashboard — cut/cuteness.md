@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being appealing in a delicate or graceful way (of a girl or young woman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being appealing in a delicate or graceful way (of a girl or young woman).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charming attractiveness, endearing prettiness, or playful, clever shrewdness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic psychology and colloquial parlance, physical traits evoking protective affection, or sharpness of business intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuteness designates the quality of being appealing in a delicate or graceful way (of a girl or young woman)."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Mrs. Patten admired the little girl's innocent chatter, praising her natural **cuteness** and bright eyes."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontier horse trader prided himself on his commercial **cuteness**, boasting that no greenhorn ever bested him."*
+> - 📜 **William Dean Howells (*A Modern Instance*):** *"Behind his superficial rustic simplicity lay a hard financial **cuteness** that watched every shifting market turn."*

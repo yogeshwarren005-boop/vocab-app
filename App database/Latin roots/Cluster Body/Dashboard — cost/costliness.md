@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something with a great price or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something with a great price or value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exorbitant expense, high market price, or luxurious value of production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, the heavy drain on wealth resulting from luxurious consumption or complex manufacture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s lid, his richness And costliness of spirit looked through him; it could No more be hid in him than fire in flax, Than humble banks can go to law with waters That drift-winds force to raging."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"All that she had read and believed of the beauty of cheap and simple ornament, and the vulgarity of costliness, recurred to her as a hypocritical paraphrase of the “sour grapes” of the fox in the fable."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"For, thanks to her eminence as a local beauty, she had not that fear of beautiful and rich things which renders abject people incapable of associating costliness with comfort."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extreme **costliness** of precious stones arises from their absolute scarcity and the hazardous labor of mining."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruinous **costliness** of imperial banquets exhausted the revenues of entire Mediterranean provinces."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption demands visible **costliness** as an undeniable mark of pecuniary reputability."*

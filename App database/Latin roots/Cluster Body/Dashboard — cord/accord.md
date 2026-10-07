@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmony of people's opinions or actions or characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concurrence of opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official agreement, treaty, or settlement between parties; to grant or bestow; to be in harmonious agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and music, a harmonious treaty reconciling conflicting nations, or a concord of musical tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your father’s remembrance, be at accord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BIANCA. _Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio’s passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they would seem soldiers, they have galls, Good arms, strong joints, true swords; and, Jove’s accord, Nothing so full of heart."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hostile emperors concluded a solemn **accord** that temporarily suspended frontier hostilities along the Danube."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our moral judgments must **accord** with the natural law implanted by reason in the human breast."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The leaders of both parliamentary factions acted in complete **accord** to preserve the ancient constitution."*

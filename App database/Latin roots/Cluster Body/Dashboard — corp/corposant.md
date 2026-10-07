@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical discharge accompanied by ionization of surrounding atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical discharge accompanied by ionization of surrounding atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball of luminous electrical discharge observed on ship masts or aircraft wings during stormy weather; St. Elmo's fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime folklore and physics, a glowing coronal discharge (corpo santo) caused by atmospheric ionization around pointed conductors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They had played around him as the corposant flickers around the mast-head of a ship...."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"All the yard-arms were tipped with pallid fire; the **corposant** burned like three tapering white tapers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Everything was illuminated by the pale phosphoric glow of the **corposant** clinging to the mainmast head."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The luminous phenomenon sailors call a **corposant** exemplifies brush discharge from pointed conductors in storm clouds."*

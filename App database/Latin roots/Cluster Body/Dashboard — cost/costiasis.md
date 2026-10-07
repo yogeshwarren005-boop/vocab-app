@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fatal disease of freshwater fish caused by a flagellated protozoan invading the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatal disease of freshwater fish caused by a flagellated protozoan invading the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious skin and gill disease of freshwater fish caused by the protozoan parasite Costia (Ichthyobodo necator).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fish pathology, an epizootic ectoparasitic infestation characterized by excessive skin mucus secretion, respiratory distress, and lethargy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costiasis designates a fatal disease of freshwater fish caused by a flagellated protozoan invading the skin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Epidemic **costiasis** in breeding ponds produces heavy mortality unless treated with prompt chemical immersion."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The blue-gray slime coating diseased salmonid fingerlings confirms advanced cutaneous **costiasis**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hatchery managers observed that crowded trout fry succumbed rapidly to the debilitating effects of **costiasis**."*

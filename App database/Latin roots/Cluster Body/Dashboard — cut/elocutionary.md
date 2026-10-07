@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to elocution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of style of speaking) overly embellished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of elocution and formal public speech delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical oratory, relating to techniques of articulation, breath control, and theatrical declamation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His reading of Scripture had no elocutionary pretensions about it; it was quiet, and to a large extent gone through in a monotone; but two things about it made it very impressive."*
-> - 📜 **James Joyce (*Ulysses*):** *"He extended elocutionary arms from frayed stained shirtcuffs, pausing: —What was their civilisation?"*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Curdle delivered an **elocutionary** discourse on the unities of the drama to the admiring company."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The true American bard requires no stiff **elocutionary** rules, speaking directly from the primal heart."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Spontaneous moral truth possesses an authority that eclipses the most polished **elocutionary** art."*

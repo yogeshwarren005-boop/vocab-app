@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy to cut or chew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy to cut or chew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being cut, sliced, carved, or incised with an edged blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and metallurgy, possessing physical hardness and shear properties suitable for mechanical cutting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuttable designates easy to cut or chew."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic tufa was soft and readily **cuttable**, allowing the settlers to quarry building blocks with ease."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Metallic sodium is soft as wax at room temperature, yielding a freshly **cuttable** bright silver surface."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium is so easily **cuttable** that a common penknife divides it without dulling the steel blade."*

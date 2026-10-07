@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to corpuscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to corpuscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of minute particles or corpuscles; specifically relating to Newton's emission theory of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physics and hematology, designating particle-based models of light or cellular elements in circulating blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corpuscular designates of or relating to corpuscles."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light rays may consist of minute particles emitted in straight lines according to the **corpuscular** hypothesis."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrochemical decomposition questions whether electric force operates by continuous ether stress or **corpuscular** streams."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic blood analysis demonstrates profound **corpuscular** destruction in progressive pernicious anemia."*

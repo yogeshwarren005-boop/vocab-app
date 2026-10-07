@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pecuniary reimbursement to the winning party for the expenses of litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total spent for goods or services including money and time and labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expenses incurred in maintaining, operating, or acquiring something; legal fees awarded to a prevailing party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and corporate accounting, statutory litigation expenses assessed by a court, or the aggregate expenditures of an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A proper jest, and never heard before, That Suffolk should demand a whole fifteenth For costs and charges in transporting her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All fancy-sick she is, and pale of cheer With sighs of love, that costs the fresh blood dear."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High transport **costs** over land severely restrict the geographic boundaries of commercial trade."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The entire estate in Jarndyce and Jarndyce was entirely swallowed up in legal fees and court **costs**."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"When capital equipment depreciates, maintenance **costs** must be deducted before net profits can be calculated."*

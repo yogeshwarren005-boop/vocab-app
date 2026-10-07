@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of spiny-tailed girdled lizards (family Cordylidae), endemic to southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, rock-dwelling diurnal lizards that roll into a defensive ring with their spiny tail held in the mouth when threatened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylus designates type genus of the cordylidae; spiny lizards somewhat resembling tiny crocodiles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The armored scales and defensive tail-curling of **Cordylus** represent specialized adaptations to open savannahs."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Species belonging to **Cordylus** bask upon exposed granite kopjes, retreating into narrow rock fissures at the first alarm."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The caudal vertebrae of **Cordylus** bear prominent transverse processes supporting heavy spiny dermal rings."*

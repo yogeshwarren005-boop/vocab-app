@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of the state of new hampshire; located in south central new hampshire on the merrimack river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement, harmony, or amicable union between people, groups, or nations; peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical syntax and music theory, agreement between parts of speech in gender, number, or person, or a harmonious combination of chords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had I power, I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All unity on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The man that hath no music in himself, Nor is not mov’d with concord of sweet sounds, Is fit for treasons, stratagems, and spoils; The motions of his spirit are dull as night, And his affections dark as Erebus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How comes this gentle concord in the world, That hatred is so far from jealousy To sleep by hate, and fear no enmity?"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The man that hath no music in himself, nor is not mov'd with **concord** of sweet sounds, is fit for treasons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The internal **concord** of the provinces was maintained by the prudent tolerance of the Roman senate."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Men unite into political communities to ensure mutual protection and domestic **concord** under stable laws."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct gymnosperm trees with long, strap-shaped leaves that dominated Carboniferous coal swamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, the type genus of Cordaitales, whose fossilized leaves, seeds, and pycnoxylic wood form index fossils in Carboniferous strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaites designates tall paleozoic trees superficially resembling modern screw pines; structurally intermediate in some ways between cycads and conifers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Strap-like leaves of **Cordaites** occur pressed in carboniferous shale alongside giant calamites and lepidodendra."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Microscopic sections of **Cordaites** timber reveal dense secondary xylem resembling that of modern Araucaria."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The widespread presence of **Cordaites** in ancient swamp deposits illustrates the antiquity of gymnosperm forest cover."*

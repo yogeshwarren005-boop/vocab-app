@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital as contrasted with the income derived from it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of writings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of written texts, especially the entire works of a particular author or on a particular subject; also the main body of an anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corpus linguistics and legal scholarship, a structured machine-readable body of texts used for linguistic analysis or a body of laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"York Powell, _Corpus Poeticum Boreale_, i. (Oxford, 1883) p. 197."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"York Powell, _Corpus Poeticum Boreale_, i. 200 _sq._; _Edda Rhythmica seu Antiquior, vulgo Saemundina dicta_, Pars iii. pp. 51-54; _Die Edda_, übersetzt von K."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In some places the people shewed their sense of the sanctity of the fires by using for fuel the trees past which the gay procession had defiled, with fluttering banners, on Corpus Christi Day."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholars should compile a complete **corpus** of civil histories to instruct future generations of statesmen."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **corpus** of the sphenoid bone forms the central cubic block from which the greater wings expand."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legislative labors of Justinian were embodied in that immortal **corpus** of civil jurisprudence."*

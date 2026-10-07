@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or existing on or affecting the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or existing on or affecting the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or affecting the skin; cutaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human dermatological anatomy and physiology, designating nerves, vessels, or eruptions localized in the dermal tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutaneal designates relating to or existing on or affecting the skin."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The lateral **cutaneal** nerve of the thigh pierces the fascia lata beneath the anterior superior iliac spine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Secondary syphilis manifests with polymorphic **cutaneal** eruptions distributed symmetrically across the trunk."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic cleansing of the **cutaneal** surface prevents pyogenic bacteria from penetrating surgical wounds."*

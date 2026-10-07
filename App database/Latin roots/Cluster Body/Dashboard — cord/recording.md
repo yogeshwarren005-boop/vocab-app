@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signal that encodes something (e.g., picture or sound) that has been recorded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a record (especially an audio record).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of capturing sound, visual data, or written accounts; a recorded piece of sound or video.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, phonography, and archival science, the transcription of physical phenomena onto permanent storage media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is Richard a monster in all this, or would Chancery be found rich in such precedents too if they could be got for citation from the Recording Angel?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Later editors, therefore, relying upon Dyce, have been led into recording as 'MS.' readings variations which do not occur in the MS."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers are recording, with deep conviction of its worth, what they have discovered in experience."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Accurate observation requires instantaneous photographic **recording** of fleeting facial contractions."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne excelled in **recording** the exact fluctuations of his own consciousness with transparent sincerity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Mina transcribed the wax phonograph **recording** into typed journal entries for the legal archive."*

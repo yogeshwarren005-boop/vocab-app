@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of dialogue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of dialogue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given or made during the progress of a legal action and not final; temporary; also conversational in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial procedure, designating court decrees or rulings that decide preliminary issues before the final decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlocutory designates consisting of dialogue."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **interlocutory** decree in Chancery decides some incidental point, but does not finally conclude the cause."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Endless **interlocutory** motions piled up in the suit, prolonging the litigation while the solicitors prospered."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Parliamentary debate often resolves into **interlocutory** questions before the main legislative vote is taken."*

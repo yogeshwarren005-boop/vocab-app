@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discordant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a discordant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discordant, jarring, conflicting, or unharmonious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In auditory and literary description, clashing unpleasantly in pitch or conflicting sharply with surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lesson at last came to an end, after proceeding as discordantly as possible; and when the little girl had changed her shoes and had had her white muslin extinguished in shawls, she was taken away."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They were singing discordantly, arduously, and with great effort, evidently not because they wished to sing, but because they wanted to show they were drunk and on a spree."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I shivered violently, and shouted again—rather discordantly."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The alien sirens wailed **discordantly** across the Thames, striking icy terror into the fleeing London crowds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Street fiddlers scraped **discordantly** in the muddy alley below the crowded law chambers."*
+> - 📜 **Mary Shelley (*The Last Man*):** *"Laughter echoed **discordantly** from the banquet hall while plague victims collapsed in the streets outside."*

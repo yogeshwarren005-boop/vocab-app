@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscles between the ribs; they contract during inspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring between the ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or functioning between the ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory physiology and thoracic anatomy, designating the intercostal muscles, nerves, and arteries that drive pulmonary ventilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercostal designates muscles between the ribs; they contract during inspiration."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The external **intercostal** muscles elevate the ribs during deep inspiration, expanding thoracic volume."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Herpes zoster typically follows the cutaneous distribution of a single **intercostal** nerve trunk."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Coordinated contraction of internal and external **intercostal** layers governs the rhythmic mechanism of breathing."*

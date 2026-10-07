@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without material form or substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without material form or substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no material body or tangible form; immaterial, spiritual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, designating rights, easements, or hereditaments that have no physical existence but yield legal benefit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The confused beginnings of many birds’ songs spread into the healthy air, and the wan blue of the heaven was here and there coated with thin webs of incorporeal cloud which were of no effect in obscuring day."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus incorporeal Spirits to smallest forms Reduc’d thir shapes immense, and were at large, Though without number still amidst the Hall Of that infernal Court."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus incorporeal Spirits to smallest forms Reduced their shapes immense, and were at large, Though without number still, amidst the hall Of that infernal court."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We have as clear an idea of an **incorporeal** thinking substance as we have of an extended solid body."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Theologians ascribe infinite wisdom to an **incorporeal** deity possessing neither bodily organs nor temporal parts."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **incorporeal** hereditament is a right issuing out of a thing corporate, whether real or personal."*

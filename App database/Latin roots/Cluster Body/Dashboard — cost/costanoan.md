@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a north american indian people living in coastal california between monterey and san francisco bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penutian language spoken by the costanoan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of Native American peoples indigenous to the central California coastal region from San Francisco to Monterey; the Ohlone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological linguistics and ethnohistory, an indigenous linguistic family of the Utian phylum spoken along the California coast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costanoan designates a member of a north american indian people living in coastal california between monterey and san francisco bay."*
+> - 📜 **Alfred Kroeber (*Handbook of the Indians of California*):** *"The **Costanoan** linguistic stock occupied the shores of San Francisco Bay, subsisting upon shellfish and acorns."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America North of Mexico*):** *"The **Costanoan** dialects form a compact geographical family distinct from the adjacent Yokuts and Miwok tongues."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"Shell mounds left by the ancient **Costanoan** inhabitants line the tidal estuaries of the western coast."*

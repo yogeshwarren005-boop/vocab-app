@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not trimmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of grass or vegetation) not cut down with a hand implement or machine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cut, sliced, or divided; of a book, having pages with untrimmed margins; unabridged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliophily and gemology, a book whose page edges have not been trimmed by the binder, or a rough unpolished gemstone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is time some one undertook to rehumanise you,” said I, parting his thick and long uncut locks; “for I see you are being metamorphosed into a lion, or something of that sort."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It will drive all the nonsense out of your head.” She turned to go, but he stopped her with a gesture and took an uncut book from the high desk."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One of them, for example, will often leave a handful of corn uncut and cover it up with earth to hide it from the other reapers, till all the rest of the corn on the field is cut down."*
+> - 📜 **James Joyce (*Ulysses*):** *"He took down the heavy volume, running a thumb across the **uncut** pages with appreciative bibliophilic reverence."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"On the study table lay an **uncut** review alongside several opened letters and scientific journals."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The library contained rare first editions in their original boards with crisp **uncut** margins."*

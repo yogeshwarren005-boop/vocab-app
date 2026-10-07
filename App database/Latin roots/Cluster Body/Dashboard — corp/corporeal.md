@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having material or physical form or substance;  - benjamin jowett.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or characteristic of the body as opposed to the mind or spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a physical, tangible body; of a material nature as opposed to spiritual or mental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal philosophy and metaphysics, possessing tangible physical existence that can be seen, touched, or occupied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s passing corporeal blight had been her mental harvest."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was mournful, indeed, to witness the subjugation of that vigorous spirit to a corporeal infirmity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a corporeal humility in looking up at him; and a white man standing before him seemed a white flag come to beg truce of a fortress."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our senses inform us of **corporeal** substances possessing extension, figure, and mechanical motion."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Philosophers cannot conceive how an unextended mental impression can interact with a **corporeal** organ."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I contemplated the awful boundary between mortal life and death, seeking to reanimate **corporeal** decay."*

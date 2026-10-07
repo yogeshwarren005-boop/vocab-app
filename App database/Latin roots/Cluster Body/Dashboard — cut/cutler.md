@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in cutlery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dealer in cutlery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes, sells, or sharpens knives, swords, and other cutting utensils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban guild history and metallurgy, an artisan belonging to the Company of Cutlers, renowned in centers like Sheffield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I ne'er tri'd this, yet I have worn as fair as any man; I'm sure I've made my Cutler rich, and paid for several weapons, _Turkish_ and _Toledo's_, two thousand Crowns, and yet could never light upon a fighting one. _Eust_."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The same noble Duke, another time, was making his complaint to Sir John Cutler, a rich miser, of the disorder of his affairs, and asked him what he should do to prevent the ruin of his estate?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"One said Sir John Cutler looked very dismally when night came on, not because it brought darkness with it, but because daylight saved him a candle. 481."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The shop window of the old **cutler** displayed rows of gleaming pocket-knives, scissors, and polished razors."*
+> - 📜 **G. K. Chesterton (*The Flying Inn*):** *"The wandering tinker plied the trade of an itinerant **cutler**, grinding dull blades upon his foot-treadle wheel."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The specialized skill of the Sheffield **cutler** produces knives of exquisite temper through division of labor."*

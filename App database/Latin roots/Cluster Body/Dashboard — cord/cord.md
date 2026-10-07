@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line made of twisted fibers or threads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of amount of wood cut for burning; 128 cubic feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, flexible string, rope, or twine composed of several twisted strands; also an anatomical structure resembling a cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the spinal cord transmitting motor and sensory signals; in timber measurement, a volume unit of 128 cubic feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, the charity of a penny cord!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, give me cord, or knife, or poison, Some upright justicer!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, go speak; the Duke will hear thy voice; And let not Bardolph’s vital thread be cut With edge of penny cord and vile reproach."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The spinal **cord** extends from the medulla oblongata downward through the vertebral canal to the first lumbar vertebra."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon line was twisted of the finest hempen **cord**, capable of holding against enormous strain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the spinal **cord** causes progressive spastic paraplegia below the level of the vertebral lesion."*

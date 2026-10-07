@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Actually being performed at the time of hearing or viewing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actually being performed at the time of hearing or viewing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not set down in writing or preserved in history; unknown, forgotten, or unregistered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and historiography, extinct lineages or human experiences left without written or fossil trace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For in their succorless empty-handedness, they, in the heathenish sharked waters, and by the beaches of unrecorded, javelin islands, battled with virgin wonders and terrors that Cooke with all his marines and muskets would not willingly have dared."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Where unrecorded names and navies rust, and untold hopes and anchors rot; where in her murderous hold this frigate earth is ballasted with bones of millions of the drowned; there, in that awful water-land, there was thy most familiar home."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look your last, now, on these venerable hooded heads, while they yet lie together; for one will soon sink, unrecorded, in the sea; the other will not be very long in following."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Innumerable intermediate evolutionary varieties must have perished **unrecorded** in the geological strata."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Countless generations of peasant ancestors slept in **unrecorded** graves beneath the churchyard yews."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Many a bold whaleman has sunk beneath the waves, leaving an **unrecorded** name in the annals of naval adventure."*

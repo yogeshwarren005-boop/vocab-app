@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to a corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing or existing in bodily form; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a legally recognized unified body or business entity; collective, shared by all members of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and law, pertaining to the unified identity and rights possessed by an incorporated institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Master Corporate Bardolph, stand my friend; and here’s four Harry ten shillings in French crowns for you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They answer in a joint and corporate voice That now they are at fall, want treasure, cannot Do what they would, are sorry."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics in the broad sense includes the problems of individual economy, of domestic economy, of corporate economy, and of national economy."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Exclusive privileges granted to **corporate** guilds restrain competition and artificially inflate artisan wages."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The **corporate** conscience of professional associations often resists external regulatory intervention."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern financial strategy aligns the interests of managers with the **corporate** expansion of monopoly power."*

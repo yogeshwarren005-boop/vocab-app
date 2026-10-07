@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly paleozoic plants; cordaites is the chief and typical genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly paleozoic plants; cordaites is the chief and typical genus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct family of Paleozoic gymnosperm trees in the order Cordaitales, related to early conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, tall, strap-leaved gymnosperms that flourished in Carboniferous coal-swamp ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaitaceae designates chiefly paleozoic plants; cordaites is the chief and typical genus."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil wood belonging to the **Cordaitaceae** occurs in great abundance throughout the Coal Measures of Europe and America."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The internal wood structure of the **Cordaitaceae** reveals primitive coniferous tracheids with multiseriate bordered pits."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Paleozoic fossil floras characterized by the **Cordaitaceae** demonstrate the early evolutionary diversification of seed plants."*

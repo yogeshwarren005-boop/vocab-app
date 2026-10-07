@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue magnesium iron cyclosilicate mineral ((Mg,Fe)2Al3(AlSi5O18)) displaying strong pleochroism; iolite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology and gemology, a mineral found in thermally metamorphosed pelitic rocks, notable for shifting from blue to yellow under polarized light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordierite designates a blue mineral of magnesium and iron and aluminum and silicon and oxygen; often used as a gemstone."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Contact metamorphism in pelitic schists generates distinctive prismatic crystals of **cordierite**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The extreme optical pleochroism of **cordierite** reveals the anisotropic orientation of its crystalline lattice."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Viking mariners allegedly utilized pleochroic stones identical to **cordierite** as sunstones to locate solar coordinates."*

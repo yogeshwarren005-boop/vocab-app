@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of agreement or harmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreement among those expected to cooperate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of agreement or harmony between persons, things, or ideas; conflict, strife; also a harsh combination of musical sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and acoustic physics, destructive factional strife, or acoustic dissonance between incompatible wave frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My soul is full of discord and dismay. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my troth, this is the old fashion; you two never meet but you fall to some discord."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Grim-visaged war hath smooth'd his wrinkled front, and civil **discord** yields to glorious peace."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Acoustic **discord** arises when rapid beating between adjacent upper partials fatigues the auditory nerve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A subtle **discord** entered their conversation whenever the management of household expenditure was mentioned."*

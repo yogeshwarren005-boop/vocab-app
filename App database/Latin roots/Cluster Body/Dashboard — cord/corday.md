@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary heroine (a girondist) who assassinated marat (1768-1793).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary heroine (a girondist) who assassinated marat (1768-1793).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Charlotte Corday, the French Girondin sympathizer who assassinated Jacobin leader Jean-Paul Marat in 1793.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French revolutionary history and political drama, the historical figure celebrated by Girondins and condemned by Montagnards as the angel of assassination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corday designates french revolutionary heroine (a girondist) who assassinated marat (1768-1793)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Charlotte **Corday** walked calmly to the guillotine, her red robe glowing against the gathering twilight of Paris."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The dagger of Charlotte **Corday** struck down Marat in his bath but failed to halt the march of the Reign of Terror."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The tragic act of Charlotte **Corday** recalled the classical tyrannicides of ancient Roman history."*

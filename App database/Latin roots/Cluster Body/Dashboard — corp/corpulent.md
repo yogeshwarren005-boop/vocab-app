@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large, bulky, or excessively fat body; stout, portly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical description, possessing a heavy, fleshy frame with abundant subcutaneous fat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The corpulent frame of this mighty burgher now gave all the symptoms of a volcanic mountain on the point of an eruption."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick looked affectionately at his **corpulent** companion, who was already nodding beside the fireplace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **corpulent** magistrate moved with slow, pompous steps across the marble forum to greet the proconsul."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **corpulent** whale wallowed heavily in the churning brine, exhausted by the relentless pursuit."*

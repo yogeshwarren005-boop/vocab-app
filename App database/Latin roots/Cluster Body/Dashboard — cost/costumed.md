@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress in a costume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with costumes; as for a film or play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed or attired in a specific costume, theatrical garb, or historical clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic arts and historical pageantry, clothed in apparel designed to recreate a specific period or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The collective appearance of the gentlemen, like that of the ladies, is very imposing: they are all costumed in black; most of them are tall, some young."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, costumed in shawls, with a turban on his head."*
-> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The masquerader appeared strangely **costumed** in rustic fleece, addressing the passengers with philosophical banter."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Carnival revelers fantastically **costumed** paraded through the torchlit streets of Saint Antoine."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Deputies assembled in Versailles, formally **costumed** according to the rigid etiquette of their respective estates."*

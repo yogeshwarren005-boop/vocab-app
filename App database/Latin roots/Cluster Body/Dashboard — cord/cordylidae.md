@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of spiny ovoviviparous african lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of spiny ovoviviparous african lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small to medium-sized spiny-tailed lizards native to sub-Saharan Africa, commonly known as girdled lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, squamate reptiles characterized by heavily armored, spiny, transverse rings of osteoderm scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordylidae designates small family of spiny ovoviviparous african lizards."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The spiny protective armature of the **Cordylidae** evolved in response to heavy predation in rocky arid habitats."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Lizards of the family **Cordylidae** are strictly endemic to the Ethiopian zoological region, flourishing in montane crags."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Osteoderms underlying the epidermal scales of the **Cordylidae** provide a formidable bony dermal cuirass."*

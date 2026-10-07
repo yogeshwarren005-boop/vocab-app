@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cost within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cost in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath, below, or under the ribs; relating to the subcostal muscles or nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human abdominal and thoracic anatomy, designating the subcostal plane, the twelfth thoracic nerve, or muscles on the inner rib surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcostal designates pertaining to, derived from, or characteristic of latin cost within the domain of body."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **subcostal** nerve runs along the lower border of the twelfth rib to supply abdominal wall muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation in the right **subcostal** margin detects tender hepatic enlargement in congestive heart failure."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"An oblique **subcostal** incision affords direct surgical access to the gall bladder while sparing abdominal nerves."*

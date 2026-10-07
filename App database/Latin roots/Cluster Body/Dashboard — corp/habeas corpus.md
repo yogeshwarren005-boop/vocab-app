@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin corp within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of corp in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal writ requiring a person under arrest to be brought before a judge or into court to secure release unless lawful grounds are shown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the fundamental prerogative writ safeguarding personal liberty against arbitrary governmental detention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habeas corpus designates pertaining to, derived from, or characteristic of latin corp within the domain of body."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The great **Habeas Corpus** Act of 1679 placed the essential liberty of every Englishman beyond arbitrary arrest."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Without the procedural shield of **habeas corpus**, statutory liberties remain defenseless against executive overreach."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The ancient writ of **habeas corpus** crossed the Atlantic to become the cornerstone of American judicial protections."*

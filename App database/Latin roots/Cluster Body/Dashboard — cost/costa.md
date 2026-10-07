@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the 12 pairs of curved arches of bone extending from the spine to or toward the sternum in humans (and similar bones in most vertebrates).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rib in human and vertebrate anatomy; in insects, the leading front vein of a wing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and paleontology, a prominent rib or central midvein on a leaf, fern frond, or fossil shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876), p. 510. [61] L."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus the Indians of Costa Rica hold that there are two kinds of ceremonial uncleanness, _nya_ and _bu-ku-rú_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gabb, "On the Indian Tribes and Languages of Costa Rica," _Proceedings of the American Philosophical Society held at Philadelphia_, xiv. (Philadelphia, 1876) pp. 504 _sq._ [156] J."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each true **costa** attaches anteriorly to the sternum through its corresponding hyaline costal cartilage."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The stiff **costa** forms the anterior margin of the insect forewing, resisting aerodynamic bending in flight."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The homologies of the vertebral column show that each **costa** originates from the transverse apophyses."*

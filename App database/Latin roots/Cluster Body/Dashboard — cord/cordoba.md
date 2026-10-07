@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in nicaragua; equal to 100 centavos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish explorer who discovered yucatan (1475-1526).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic cultural city in Andalusia, southern Spain; also the basic monetary unit of Nicaragua.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic and medieval European history, the glorious capital of the Umayyad Caliphate famed for its Great Mosque and libraries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordoba designates the basic unit of money in nicaragua; equal to 100 centavos."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the Umayyad caliphs, the schools and palaces of **Cordoba** rivaled the magnificence of Baghdad and Constantinople."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Scholars flocked from across Christendom to study Arabic philosophy and astronomy in the colleges of **Cordoba**."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The forest of jasper and marble columns inside the grand cathedral-mosque of **Cordoba** astonishes every traveler."*

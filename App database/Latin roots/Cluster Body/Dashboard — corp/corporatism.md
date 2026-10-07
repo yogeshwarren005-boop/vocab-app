@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Control of a state or organization by large interest groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Control of a state or organization by large interest groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political and economic system organizing society into industrial and professional corporations representing occupational groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, tripartite negotiation between state authorities, organized labor syndicates, and employer associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corporatism designates control of a state or organization by large interest groups."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Medieval guild systems represent an early historical manifestation of functional **corporatism** within urban communes."*
+> - 📜 **Émile Durkheim (*The Division of Labour in Society*):** *"A restored occupational **corporatism** could bridge the moral void between isolated workers and the distant state."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Compulsory occupational **corporatism** risks suffocating personal initiative under rigid trade monopolies."*

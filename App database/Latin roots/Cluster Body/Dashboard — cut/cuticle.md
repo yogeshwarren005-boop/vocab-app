@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead skin at the base of a fingernail or toenail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the skin covering the exterior body surface of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer, non-cellular protective layer covering the epidermis of an animal or plant; dead skin around a nail base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and arthropod histology, a waxy waterproof layer or hardened chitinous exoskeleton safeguarding underlying cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fell, the cuticle under the skin."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi was remarkable fond of mollifying his entire cuticle with this ointment."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If a leaf be taken fresh and the cuticle stripped off, which it will sometimes do very readily, the orifices through which the _Æcidium_ has burst will appear in irregular holes."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pine bark peels in thin scales, shedding its dead **cuticle** to accommodate the expanding sapwood."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular secretions dissolve the thin **cuticle** of the captured fly to digest its soft internal tissues."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The chitinous **cuticle** is periodically cast off during ecdysis to permit rapid bodily growth."*

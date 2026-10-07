@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of corporatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to corporatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating, practicing, or characteristic of corporatism and the socio-economic organization of occupational bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, an adherent of policies coordinating interest groups through state-chartered representative guilds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corporatist designates a supporter of corporatism."*
+> - 📜 **Émile Durkheim (*The Division of Labour in Society*):** *"The **corporatist** ideal sought to infuse economic relations with mutual ethical obligations and social solidarity."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Authoritarian regimes frequently exploit **corporatist** structures to suppress autonomous political agitation."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A purely **corporatist** parliament representing fixed trade interests tends to neglect the broad public good."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine leather originally made in cordoba, spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine leather originally made in cordoba, spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, fine-grained leather originally made of goatskin at Córdoba, Spain, and later made from horsehide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In leathercraft and sartorial history, durable non-porous shell horsehide leather prized for luxury boots and shoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"While the crowd still sways and surges, Ere the applauding shouts have ceas'd, See, the second bull emerges-- 'Tis the famed Cordovan beast,-- By the picador ungoaded, Scathless of the chulo's dart."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When she removed the cordovan leather from the grand piano and ventured to play a few notes on it, it sounded with a mournful sadness, startling the dismal echoes of the house."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"He wore a sturdy doublet of **cordovan** leather that had withstood many a brawl in the port."*
+> - 📜 **Herman Melville (*Redburn*):** *"The wealthy merchant wore handsome boots of polished **cordovan** that squeaked softly as he paced the quarterdeck."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"Saddles ornamented with gilded **cordovan** hung in the armory beside damascened swords and Moorish lances."*

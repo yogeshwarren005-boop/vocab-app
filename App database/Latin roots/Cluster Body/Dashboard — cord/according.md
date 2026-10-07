@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to have.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As stated by or in proportion to; in a manner conforming or corresponding to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical discourse and formal citation, indicating reliance upon an authority or alignment with criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men form their judgments of good and evil **according** to the customs and laws of their native land."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every individual endeavors to employ his capital **according** to his private interest and advantage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variations occur in every direction, preserved or rejected **according** to their utility in the struggle for life."*

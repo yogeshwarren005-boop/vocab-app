@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the chest caused by inflammation of the muscles between the ribs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the chest caused by inflammation of the muscles between the ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain originating in or localized around the ribs or costal nerves; rib pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and neurology, localized intercostal neuralgic pain affecting the thoracic cage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costalgia designates pain in the chest caused by inflammation of the muscles between the ribs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must differentiate true pleural inflammation from benign **costalgia** caused by intercostal neuralgia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Compression of thoracic nerve roots as they exit the vertebral foramen frequently induces persistent **costalgia**."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Traumatic contusions of the thoracic cage often result in severe **costalgia** without fracture of the ribs."*

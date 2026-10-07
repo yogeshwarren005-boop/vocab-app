@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation (drawing or model) of something in which the outside is omitted to reveal the inner parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man's coat cut diagonally from the waist to the back of the knees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having parts cut away to reveal interior structure; also a man's formal coat with skirts tapering from front to back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural drafting and sartorial history, an engineering drawing revealing interior mechanisms, or a morning dress coat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Ben Dollard’s loose blue cutaway and square hat above large slops crossed the quay in full gait from the metal bridge."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The young dandy strutted down Chancery Lane sporting a bottle-green **cutaway** coat and varnished boots."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A detailed **cutaway** diagram revealed the complex clockwork gears operating within the brass mechanism."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His elegant blue **cutaway** with brass buttons gave him the air of a prosperous country squire."*

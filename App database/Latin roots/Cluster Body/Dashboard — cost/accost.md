@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak to someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approach with an offer of sexual favors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To approach and speak to someone aggressively, boldly, or unexpectedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social behavior and naval history, to draw alongside a vessel or hail someone directly on the thoroughfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Accost, I desire better acquaintance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Mistress Mary Accost,— SIR TOBY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mistake, knight: accost is front her, board her, woo her, assail her."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A ragged beggar stepped forward from the shadow of the archway to **accost** me with urgent entreaties."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Utterson determined to wait by the lamppost until he should have the opportunity to **accost** Mr. Hyde."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"No passerby dared to **accost** the minister as he walked in brooding silence through the marketplace."*

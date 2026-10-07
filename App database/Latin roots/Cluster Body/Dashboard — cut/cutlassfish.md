@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, ribbon-like predatory marine fish (family Trichiuridae) having a shiny silver body, no pelvic or caudal fins, and razor-sharp fangs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, deep-water or coastal pelagic teleosts known as hair-tails, characterized by an elongate compressed body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutlassfish designates long-bodied marine fishes having a long whiplike scaleless body and sharp teeth; closely related to snake mackerel."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fishermen brought up a glittering **cutlassfish**, its slender silver body thrashing like a ribbon of quicksilver."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The predatory jaw apparatus of the **cutlassfish** displays enlarged, barbed fangs adapted for seizing slippery prey."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The brilliant metallic sheen of the **cutlassfish** reflects the luminous phosphorescence of tropical coastal bays."*

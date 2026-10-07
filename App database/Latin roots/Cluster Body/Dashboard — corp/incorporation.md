@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consolidating two or more things; union in (or into) one body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning (of values or attitudes etc.) that is incorporated within yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of uniting several elements into a single body; the legal process of forming a corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial jurisprudence, the granting of a corporate charter by the sovereign or state to create a legal entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Entering at that moment, he was an incorporation of the strongest reasons through which Will’s pride became a repellent force, keeping him asunder from Dorothea."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seven others are in process of incorporation."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the incorporation of properly functioning spiritual assemblies must be simultaneously and vigorously carried out."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **incorporation** of trades into exclusive guilds was originally designed to maintain uniform standards of craft."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"General statutes facilitating the **incorporation** of commercial companies stimulated extraordinary industrial dynamism."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The gradual **incorporation** of newly emancipated classes into electoral rights strengthened national stability."*

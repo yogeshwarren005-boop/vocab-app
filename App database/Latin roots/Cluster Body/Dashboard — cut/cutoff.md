@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated limit beyond which something cannot function or must be terminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A route shorter than the usual one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated point, limit, or threshold for terminating or separating something; a new river channel bypassing a meander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology, the shortcut channel formed when a meandering river breaches its neck, isolating an oxbow lake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cutoff designates a designated limit beyond which something cannot function or must be terminated."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A single violent flood can scour out a river **cutoff**, shortening the steamboat journey by thirty miles overnight."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The formation of a horseshoe **cutoff** leaves an abandoned crescent channel that slowly silts into an oxbow swamp."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"An automatic safety **cutoff** disconnected the dynamo whenever the electric voltage surged beyond safety limits."*

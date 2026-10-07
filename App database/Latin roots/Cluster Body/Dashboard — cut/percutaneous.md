@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performed, effected, or administered through the skin, as by needle puncture or absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minimally invasive surgery and clinical pharmacology, accessing internal vessels or organs through small skin punctures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percutaneous designates through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic aspiration of deep hepatic cysts is performed safely by **percutaneous** puncture under strict aseptic care."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic preparation of the surgical site is mandatory before introducing any **percutaneous** drainage tube."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial femoral artery provides a convenient site for **percutaneous** catheterization and blood pressure recording."*

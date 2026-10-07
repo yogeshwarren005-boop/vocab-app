@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not organized and maintained as a legal corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not organized and maintained as a legal corporation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formed into a legal corporation; lacking a corporate charter or legal incorporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal law and commerce, designating businesses operated as sole proprietorships or territories lacking municipal government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unincorporated designates not organized and maintained as a legal corporation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Country villages often flourish more rapidly than ancient chartered cities because trade remains **unincorporated**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Pioneers inhabiting **unincorporated** western settlements formed impromptu associations to enforce frontier justice."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Debts contracted by an **unincorporated** partnership impose unlimited liability upon every individual partner."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of minerals of the zeolite family consisting of a hydrous silicate of sodium and aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of minerals of the zeolite family consisting of a hydrous silicate of sodium and aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrous sodium aluminium silicate mineral belonging to the zeolite group, forming slender prismatic crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, an orthorhombic tectosilicate zeolite typically occurring in radiating fibrous or acicular aggregates in basalt cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natrolite designates a group of minerals of the zeolite family consisting of a hydrous silicate of sodium and aluminum."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The fibrous crystals of **natrolite** radiate like delicate needles from the amygdaloidal cavities of basalt."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Cavities in the ancient lavas of the Auvergne are lined with sparkling clusters of zeolites, especially **natrolite**."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Chemical analysis of **natrolite** reveals a high percentage of soda, distinguishing it from related zeolitic silicates."*

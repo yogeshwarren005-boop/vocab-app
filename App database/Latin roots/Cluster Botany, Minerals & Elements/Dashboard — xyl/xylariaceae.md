@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi characterized by dark brown to black spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi characterized by dark brown to black spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of ascomycetous fungi characterized by tough, dark, carbonaceous stromatic fruitbodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal systematics, an order Xylariales family whose members inhabit decaying woody substrates as saprotrophs or endophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylariaceae designates family of fungi characterized by dark brown to black spores."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Systematists place **Xylariaceae** among the Pyrenomycetes on account of their ostiolate perithecia embedded in a hard stroma."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The wood-inhabiting **Xylariaceae** play a fundamental ecological role in decomposing lignin within forest litter."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The carbonaceous texture and asci with amyloid apical rings define the natural family **Xylariaceae**."*

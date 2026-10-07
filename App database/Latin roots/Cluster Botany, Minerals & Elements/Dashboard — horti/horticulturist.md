@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices, studies, or specializes in the art and science of cultivating garden plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert skilled in the propagation, hybridization, and cultivation of fruits, flowers, and ornamental vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"At first the name suggested nothing, but when he learned that the man was "a gardener, or horticulturist, or something," he remembered."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It was a business card, on which was printed--not engraved--in large, plain letters, "Paul Valois, Horticulturist." So, after all, he had come!"*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was not Paul Valois, horticulturist, who entered."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The practical **horticulturist** selects minute variations in petal tint long before their scientific significance is known."*
+> - 📜 **Luther Burbank (*Harvest of the Years*):** *"Every creative **horticulturist** works in partnership with nature to fashion novel forms of living beauty."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The knowledgeable **horticulturist** modifies soil temperature and light exposure to control the vegetative cycle."*

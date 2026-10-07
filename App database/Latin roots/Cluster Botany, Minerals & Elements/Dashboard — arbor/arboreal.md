@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or formed by trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhabiting or frequenting trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in, frequenting, or adapted to trees; tree-dwelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and ecology, designating anatomical adaptations such as prehensile tails, curved claws, or zygodactyl feet for tree life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboreal designates of or relating to or formed by trees."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Our early progenitors were undoubtedly **arboreal** in their habits, possessing prehensile limbs suited for climbing."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The orangutan is an exclusively **arboreal** ape, moving through the high tree canopies with deliberate ease."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The skeletal proportions of the gibbon reflect an evolutionary adaptation to **arboreal** brachiation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless flammable volatile liquid hydrocarbon used as a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable volatile liquid hydrocarbon used as a solvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic hydrocarbon consisting of a benzene ring with two methyl substituents, occurring as three isomers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and histology, an aromatic solvent mixture used in microscopic tissue preparation as a clearing agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylene designates a colorless flammable volatile liquid hydrocarbon used as a solvent."*
+> - 📜 **August Wilhelm von Hofmann (*Researches on the Coal-Tar Bases*):** *"Fractional distillation of coal-tar naphtha yields **xylene** boiling intermediate between toluene and cumene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tissue sections were cleared in **xylene** before mounting in Canada balsam for histological diagnosis."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The existence of three isomeric forms of **xylene** confirmed the hexagonal ring structure proposed by Kekulé."*

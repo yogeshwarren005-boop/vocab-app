@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin natr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of natr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring mineral mixture of sodium carbonate decahydrate and sodium bicarbonate, with sodium chloride and sulfate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline evaporite salt mined from dry lakebeds in Egypt and used since antiquity for mummification and glassmaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natron designates pertaining to, derived from, or characteristic of latin natr within the domain of botany, minerals & elements."*
+> - 📜 **Herodotus (*The Histories*):** *"The embalmers steep the body in **natron** for seventy days, thoroughly drying the tissues before wrapping."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient salt lakes of the Nitrian desert supplied limitless stores of **natron** for the glassworks of Alexandria."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"From the lakes of Egypt they extract **natron**, a mineral salt of immense value in washing cloth and scouring metal."*

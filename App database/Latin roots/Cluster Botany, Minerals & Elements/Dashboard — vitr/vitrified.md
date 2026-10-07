@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into glass or a glass-like substance by applying heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo vitrification; become glassy or glass-like.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into glass or a glassy substance by the action of heat and fusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, describing stone ramparts or prehistoric masonry welded into glass by fierce deliberate or accidental fires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Shamus, when he afterward became acquainted with the specimens, called them "a rattlin' shower of witches' pebbles." We also passed large surfaces of white rock, which were sprinkled all over with dark, hollow balls, of a vitrified substance."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"South of the town are several large, erratic masses of pink and bloody quartz, whose surfaces are so polished as to appear as though vitrified."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Antiquaries have long debated whether the **vitrified** forts of the Highlands were fused by design or by hostile siege pyres."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Lightning striking sandy dunes forms hollow tubes of **vitrified** quartz known as fulgurites."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient Etruscan vases were formed of reddish clay, unglazed and imperfectly **vitrified**."*

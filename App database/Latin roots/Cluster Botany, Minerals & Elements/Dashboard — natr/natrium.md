@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin natr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of natr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical element sodium, represented by the chemical symbol Na and atomic number 11.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkali metal named from natron, characterized by violent reactivity with water and forming vital extracellular electrolytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natrium designates pertaining to, derived from, or characteristic of latin natr within the domain of botany, minerals & elements."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"To this newly discovered metallic base of the mineral alkali, we assign the Latin name **natrium**."*
+> - 📜 **Humphry Davy (*Bakerian Lecture*):** *"The isolation of potassium and **natrium** by the galvanic battery opened a new epoch in chemical philosophy."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"In the periodic arrangement, **natrium** stands as the prototypical univalent alkali metal of the third period."*

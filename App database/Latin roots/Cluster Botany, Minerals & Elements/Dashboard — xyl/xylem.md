@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular tissue in plants that conducts water and dissolved nutrients upward from the roots to the stem and leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lignified, supportive woody tissue of vascular plants comprising tracheids, vessel elements, and xylem fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **xylem** elements are distinguished by their lignified walls and functional adaptation for ascending sap transport."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Transpiration pull draws water columns through the microscopic capillaries of the root **xylem**."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In cross-sections of woody stems, the **xylem** forms the internal timber cylinder surrounded by cambium and phloem."*

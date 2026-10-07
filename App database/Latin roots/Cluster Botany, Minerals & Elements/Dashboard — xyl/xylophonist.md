@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who plays a xylophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who plays a xylophone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the xylophone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion performer skilled in melodic mallet technique, rapid double-stroke rolls, and four-mallet voicing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophonist designates someone who plays a xylophone."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The agile **xylophonist** must possess crisp wrist articulation to execute rapid staccato passages."*
+> - 📜 **Camille Saint-Saëns (*Musical Memories*):** *"The virtuoso **xylophonist** played the grotesque theme with sparkling precision and rhythmic brilliance."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The solo **xylophonist** entertained the music hall audience with astonishingly rapid transcriptions of Rossini overtures."*

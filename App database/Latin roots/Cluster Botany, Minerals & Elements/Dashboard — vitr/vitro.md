@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vitr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vitr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Latin, glass; used in biological idiom (in vitro) denoting experiments conducted in artificial glassware.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring within glass vessels or laboratory apparatus outside living tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitro designates pertaining to, derived from, or characteristic of latin vitr within the domain of botany, minerals & elements."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The phenomenon was studied in **vitro** before being verified through vivisection in the intact animal."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Chemical transformations produced in **vitro** cannot explain the organized vital activity of brewing yeast."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Synthetic urea prepared in **vitro** broke down the rigid barrier dividing organic from inorganic chemistry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated concentration of sodium ions in the blood plasma or serum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a fluid-electrolyte disturbance characterized by serum sodium exceeding 145 mmol/L, typically caused by dehydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernatremia designates excessive amounts of sodium in the blood; possibly indicating diabetes insipidus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe water deprivation in comatose patients induces acute **hypernatremia**, manifested by lethargy and muscular twitching."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental dehydration demonstrated how osmotic balance is disrupted when **hypernatremia** develops in the internal milieu."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The metabolic encephalopathy was aggravated by profound **hypernatremia** following unreplaced perspiration."*

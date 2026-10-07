@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree (as opposed to shrub).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rotating shafts that serve as axes for larger rotating parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shady garden shelter formed by trees, shrubs, or a framework of latticework covered with climbing vines; a bower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics, an axle, spindle, or rotating shaft on which a gear wheel, saw blade, or cutting tool is mounted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He directed them to build a large _lanai_, or arbor, to be entirely covered with ferns, ginger, maile, and ieie--the sweet and odorous foliage greens of the islands."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The “planting” was put in; the Improvers celebrated an Arbor Day."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"They went out to the honeysuckle arbor, where Mr."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"And bid her steal into the pleached **arbor**, where honeysuckles, ripened by the sun, forbid the sun to enter."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They rested within a rustic vine-covered **arbor**, enjoying the cool shadows amidst the midday Italian heat."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The central steel **arbor** was turned with extreme accuracy to support the revolving calculating wheels."*

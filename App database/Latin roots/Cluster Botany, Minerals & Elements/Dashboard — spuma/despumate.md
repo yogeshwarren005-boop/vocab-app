@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin spuma within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of spuma in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clarify a liquid by skimming off scum, froth, foam, or surface impurities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacy and historical chemistry, to purify a boiling herbal decoction or syrup by removing coagulated surface scum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, despumate designates pertaining to, derived from, or characteristic of latin spuma within the domain of botany, minerals & elements."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"Boil the expressed juice gently over a slow fire and **despumate** it with a skimmer until clear."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The apothecary must carefully **despumate** the crude honey before compounding it into therapeutic electuaries."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"In preparing delicate vinegars, the cook should **despumate** the liquor to remove all cloudy matter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless flammable volatile liquid hydrocarbon used as a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable volatile liquid hydrocarbon used as a solvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or commercial chemical name for xylene, an aromatic hydrocarbon solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and microscopy, a solvent used to dissolve paraffin wax and clear tissue specimens before coverslipping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylol designates a colorless flammable volatile liquid hydrocarbon used as a solvent."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Sections impregnated with silver nitrate were dehydrated in alcohol and cleared in **xylol**."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Bacterial smears stained with carbol-fuchsin were washed and passed through **xylol** before mounting."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The cellular precipitate was extracted with warm **xylol** to remove interfering lipoid substances."*

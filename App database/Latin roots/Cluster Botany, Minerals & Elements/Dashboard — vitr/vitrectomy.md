@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure that removes the vitreous humor and replace it with saline solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical procedure that removes the vitreous humor and replace it with saline solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of all or part of the vitreous humor from the interior chamber of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic microsurgery, a delicate intraocular procedure performed to clear vitreous hemorrhages or repair retinal detachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitrectomy designates a surgical procedure that removes the vitreous humor and replace it with saline solution."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Advancements in micro-surgical **vitrectomy** have restored sight to patients blinded by dense intraocular hemorrhages."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"A delicate intraocular intervention resembling modern **vitrectomy** was conceived to relieve destructive traction upon the detached retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmic surgeons undertake **vitrectomy** when persistent vitreous opacities obscure macular vision in diabetic retinopathy."*

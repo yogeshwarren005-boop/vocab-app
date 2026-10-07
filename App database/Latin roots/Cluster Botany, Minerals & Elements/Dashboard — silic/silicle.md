@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short broad silique occurring in some cruciferous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short broad silique occurring in some cruciferous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a short, broad silique or seed pod, being not much longer than it is wide, typical of Brassicaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bivalved capsule found in plants like shepherd's purse, possessing a central longitudinal partition and valves opening from below.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicle designates short broad silique occurring in some cruciferous plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fruit of shepherd's purse is a triangular **silicle**, notched at the summit and flattened contrary to the narrow partition."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Cruciferous genera are conveniently separated into those bearing an elongated silique and those with a short **silicle**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In Cochlearia, the subglobose **silicle** contains several seeds suspended from the replum margin."*

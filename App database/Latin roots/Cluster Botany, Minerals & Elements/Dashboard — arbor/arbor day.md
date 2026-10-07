@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin arbor within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of arbor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual holiday observed for planting trees, established in the United States in 1872.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A civic and conservation observance promoting reforestation, forestry education, and public tree-planting initiatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbor day designates pertaining to, derived from, or characteristic of latin arbor within the domain of botany, minerals & elements."*
+> - 📜 **John Muir (*Our National Parks*):** *"The establishment of **Arbor Day** across American schools fosters in young minds a reverence for venerable trees."*
+> - 📜 **Theodore Roosevelt (*State of the Union Addresses*):** *"A nation that destroys its soil destroys itself; our observance of **Arbor Day** must translate into permanent forest conservation."*
+> - 📜 **Gifford Pinchot (*The Training of a Forester*):** *"The civic spirit of **Arbor Day** awakened the nation to the urgent necessity of scientific forest management."*

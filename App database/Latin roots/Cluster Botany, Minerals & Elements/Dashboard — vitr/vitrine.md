@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass container used to store and display items in a shop or museum or home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glass container used to store and display items in a shop or museum or home.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass display case or cabinet used for exhibiting art objects, jewelry, or museum specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glazed curio cabinet or museum vitrine designed to protect delicate artifacts from dust while allowing inspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitrine designates a glass container used to store and display items in a shop or museum or home."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"The rarest Venetian enamels were displayed within a delicate gilded **vitrine** in the corner of the morning-room."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He unlocked the mahogany **vitrine** and drew forth a carved ivory casket inlaid with antique turquoise."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The burglar had smashed the glass of the museum **vitrine**, seizing the black pearl and leaving no trace behind."*

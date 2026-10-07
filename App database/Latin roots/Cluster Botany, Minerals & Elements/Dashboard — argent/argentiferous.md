@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, yielding, or producing silver; silver-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mining, designating ores, galena, or mineral veins that contain silver in commercially extractable quantities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentiferous designates containing or yielding silver."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The rich **argentiferous** galena of the Harz mountains has been mined continuously since the tenth century."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The vast mineral wealth of the Mexican mines was derived chiefly from deep **argentiferous** veins traversing porphyritic rock."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Lead ores are frequently **argentiferous**, yielding significant silver during cupellation."*

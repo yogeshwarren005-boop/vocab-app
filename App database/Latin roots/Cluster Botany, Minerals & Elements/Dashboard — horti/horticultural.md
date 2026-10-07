@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cultivation of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cultivation of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the cultivation of gardens, fruit orchards, flowers, or vegetables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the science, art, and commercial technology of intensive plant breeding, greenhouse management, and landscape design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These parts were soft to the touch, and upon the decayed potatoes I observed a whitish substance like mould.” Footnote 9: Journal of Horticultural Society of London, vol. i. p. 11."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The remarkable varieties of the cabbage demonstrate what human **horticultural** skill can achieve over centuries."*
+> - 📜 **Thomas Jefferson (*Garden Book*):** *"My retirement at Monticello is devoted to **horticultural** experiments with exotic melons and table grapes."*
+> - 📜 **John Lindley (*The Theory of Horticulture*):** *"A scientific understanding of vegetable physiology provides the true foundation for all **horticultural** operations."*

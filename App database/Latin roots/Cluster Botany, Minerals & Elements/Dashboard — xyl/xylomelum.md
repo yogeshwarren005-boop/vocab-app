@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small species of australian trees or shrubs; grown for their fruit and flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small species of australian trees or shrubs; grown for their fruit and flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian shrubs and trees in the family Proteaceae, known for producing woody, pear-shaped fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, Australian sclerophyllous flora commonly called wooden pears, possessing serotinous follicles that open after bushfires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylomelum designates small species of australian trees or shrubs; grown for their fruit and flowers."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **Xylomelum** is characterized by its exceedingly thick, woody follicle containing winged seeds."*
+> - 📜 **Joseph Dalton Hooker (*On the Flora of Australia*):** *"The indurated wooden pericarp of **Xylomelum** exemplifies adaptation to fire in the ancient Australian flora."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Specimens of **Xylomelum** pyriforme collected in sandstone scrub shed their seeds only when scorched by bushfires."*

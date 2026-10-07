@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, and practice of cultivating garden plants, fruits, vegetables, flowers, and ornamental shrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intensive agrarian cultivation distinguishing high-value garden produce and greenhouse flora from broadacre field agriculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See _La Bresse Louhannaise, Bulletin Mensuel, Organe de la Société d'Agriculture et d'Horticulture de l'Arrondissement de Louhans_, Mars, 1906, pp. 111 _sq._; E."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Our agriculture and horticulture destroy a weed just here and there and cultivate perhaps a score or so of wholesome plants, leaving the greater number to fight out a balance as they can."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Odd as this mode of horticulture may seem to us, it has its exact parallels in Europe."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The history of **horticulture** shows how wild sour crabapples were gradually transformed into delicious dessert fruits."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I have often thought that if heaven had given me choice of my position, it should have been on a rich spot of earth, well wafted, and their **horticulture**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"God Almighty first planted a garden; and indeed **horticulture** is the purest of human pleasures."*

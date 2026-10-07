@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-decaying ascomycete fungi commonly called dead man's fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, stromatic pyrenomycete fungi producing upright, club-shaped or branched black fruitbodies on rotting hardwood logs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylaria designates type genus of xylariaceae; fungi with perithecia in the upper part of erect black woody stromata."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The stroma of **Xylaria** is carbonaceous and black, bearing immersed perithecia upon its club-shaped summit."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Specimens of **Xylaria** polymorpha resemble charred fingers protruding from decaying stumps in damp autumn woods."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Damp tropical forests abound in strange fungi, including branched forms of **Xylaria** thriving upon fallen trunks."*

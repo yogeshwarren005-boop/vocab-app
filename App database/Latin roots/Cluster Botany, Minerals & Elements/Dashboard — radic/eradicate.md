@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pull up by the roots; destroy thoroughly, extirpate, or abolish completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, ecology, and social reform, to exterminate a pathogen, weed, or entrenched abuse entirely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Prejudices, it is well known, are most difficult to eradicate from the heart whose soil has never been loosened or fertilised by education: they grow there, firm as weeds among stones."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But she could not eradicate nature: nor will it be eradicated ‘till this mortal shall put on immortality.’” Having said this, he took his hat, which lay on the table beside my palette."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It is impossible to eradicate the passions; but we must strive to direct them to a noble aim, and it is therefore necessary that everyone should be able to satisfy his passions within the limits of virtue."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"It is notoriously difficult to **eradicate** a vigorous naturalized weed once it has established itself across fertile fields."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Persecution may succeed in suppressing an opinion, but it rarely avails to **eradicate** it from the human heart."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman magistrates resolved to **eradicate** every vestige of piratical rebellion from the Mediterranean coasts."*

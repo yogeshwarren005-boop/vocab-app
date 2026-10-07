@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin radic within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of radic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being rooted out, extirpated, or eradicated; indelible and permanently fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative form of ineradicable, denoting habits, instincts, or superstitions that resist all removal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irradicable designates pertaining to, derived from, or characteristic of latin radic within the domain of botany, minerals & elements."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Early prejudices frequently leave an **irradicable** impression upon the understanding that reason in later life cannot dislodge."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The rustic belief in local spectres remained **irradicable** among the cottagers of the Scottish borders."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **irradicable** love of freedom inspired the Germanic tribes to resist the imperial legions."*

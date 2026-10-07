@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pulver within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pulver in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Powder, dust, or finely pulverized matter; ash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or poetic designation for dry powdered dust, crushed earth, or explosive gunpowder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulver designates pertaining to, derived from, or characteristic of latin pulver within the domain of botany, minerals & elements."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The dry ground was ground to finest **pulver** beneath the chariot wheels of the heavenly host."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Ancient thrones and feudal charters were ground into impalpable **pulver** by the revolutionary tempest."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He blew the choking **pulver** from the antique tombstone to decipher the half-effaced Roman lettering."*

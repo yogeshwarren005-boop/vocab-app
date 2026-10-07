@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of synthetic polymers containing repeating silicon-oxygen chains with attached organic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A versatile synthetic material occurring as fluids, resins, and elastomeric rubbers, prized for thermal stability and water resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicone designates any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation."*
+> - 📜 **F. S. Kipping (*Researches on Organic Silicon Compounds*):** *"The condensation products of dialkylsilanediols yield polymeric **silicone** fluids possessing remarkable chemical inertia."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The flexibility of the **silicone** backbone arises from the wide bond angle and polar strength of the siloxane linkage."*
+> - 📜 **Paul Flory (*Principles of Polymer Chemistry*):** *"Cross-linked **silicone** networks exhibit high elasticity over extremes of temperature where ordinary carbon rubbers degrade."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or formed by trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or formed by trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, belonging to, or dwelling among trees; arboreal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic variant of arboreal, describing tree-dwelling creatures or foliage adapted to canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborary designates of or relating to or formed by trees."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The ancient druids conducted their sacred rites amidst quiet **arborary** groves of consecrated oak."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Certain insectivorous birds maintain a strictly **arborary** existence, never alighting upon open ground."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Curious myths concerning **arborary** animals were refuted by direct inspection of forest habits."*

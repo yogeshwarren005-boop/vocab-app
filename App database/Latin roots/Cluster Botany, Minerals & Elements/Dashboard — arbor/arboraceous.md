@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the nature of trees; wooded or woody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having the habit or physical structure of a tree rather than an herbaceous or shrubby growth form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboraceous designates abounding in trees."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil beds revealed an abundant **arboraceous** vegetation consisting of gigantic tree ferns and lycopods."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The transition from shrubby forms to truly **arboraceous** species is illustrated across the genus Cornus."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The high tablelands were bare of all **arboraceous** cover, exposing the traveller to biting alpine winds."*

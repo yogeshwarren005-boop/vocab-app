@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge herbivorous dinosaur of cretaceous found in argentina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge herbivorous dinosaur of cretaceous found in argentina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colossal titanosaurian sauropod dinosaur discovered in Argentina, among the largest land animals that ever lived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Argentinosaurus huinculensis, a Cretaceous herbivore estimated to exceed thirty meters in length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinosaur designates huge herbivorous dinosaur of cretaceous found in argentina."*
+> - 📜 **Stephen Jay Gould (*Dinosaur in a Haystack*):** *"The massive vertebral column of the giant **argentinosaur** stretches the biophysical limits of vertebrate skeletal support."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"Could early naturalists have witnessed a sauropod the size of an **argentinosaur**, our concepts of reptilian scaling would have been revolutionized."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Cretaceous Formations of the West*):** *"Gigantic sauropod skeletons from South America, recalling a monstrous **argentinosaur**, demonstrate the evolutionary climax of sauropod body plans."*

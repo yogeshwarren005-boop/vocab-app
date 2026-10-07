@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vitr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vitr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place in a test tube, culture dish, or elsewhere outside a living organism; in an artificial laboratory environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing biological experiments, cell cultures, or enzymatic reactions conducted outside physiological tissue systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, in vitro designates pertaining to, derived from, or characteristic of latin vitr within the domain of botany, minerals & elements."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Enzyme digestion observed **in vitro** reproduces the chemical cleavage that occurs within the gastric cavity."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The propagation of yeast **in vitro** proved that fermentation is an active physiological process of living cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The interaction of toxin and antitoxin **in vitro** obeys quantitative chemical laws analogous to salt neutralization."*

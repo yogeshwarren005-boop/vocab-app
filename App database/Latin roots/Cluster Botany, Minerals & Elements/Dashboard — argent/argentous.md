@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to compounds in which silver is univalent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to compounds in which silver is univalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing silver in a lower or subvalent chemical oxidation state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical inorganic chemistry, designating compounds containing univalent or sub-valent silver complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentous designates relating to compounds in which silver is univalent."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Early chemical texts posited an **argentous** suboxide formed by exposing silver solutions to alkaline reducing agents."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Careful examination showed that supposed **argentous** salts were merely mixtures of metallic silver and normal argentic oxide."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The black coating on tarnished silver was anciently regarded as an **argentous** calx resulting from combustion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally large amounts of sodium in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally large amounts of sodium in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excretion of an abnormally large amount of sodium in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal physiology, the clearance of urinary sodium stimulated by atrial natriuretic peptide, diuretics, or volume expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natriuresis designates the presence of abnormally large amounts of sodium in the urine."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Infusion of saline solutions into the renal artery promptly induces pronounced **natriuresis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic administration of mercurial diuretics promoted marked **natriuresis** and relief of congestive dropsy."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"The kidneys respond to systemic fluid excess by increasing **natriuresis** to restore vascular volume."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or corrosive in tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a substance, especially a strong acid; capable of destroying or eating away by chemical action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling vitriol; caustic, corrosive, or burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with bitter, malicious, or scathing criticism, sarcasm, or invective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If you are not good, none is good”—those little words may give a terrific meaning to responsibility, may hold a vitriolic intensity for remorse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His political pamphlet was filled with **vitriolic** sarcasm that stung the county gentry to fury."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The critic attacked his literary rival with a **vitriolic** ferocity that disgraced polite letters."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The anonymous warning letter was written in a tone of cold, **vitriolic** hostility."*

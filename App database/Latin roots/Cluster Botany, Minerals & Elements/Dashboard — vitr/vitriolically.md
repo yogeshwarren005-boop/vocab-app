@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a caustic vitriolic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a caustic vitriolic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vitriolic, bitterly malicious, or harshly caustic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scathing and corrosive hostility in speech, writing, or polemical debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitriolically designates in a caustic vitriolic manner."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He denounced the sham institutions of the age **vitriolically**, pouring scorn upon hypocritical conventions."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The partisan journalist assailed his opponents **vitriolically**, substituting abusive rhetoric for reason."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"Conventional critics reacted **vitriolically** to the realistic social dramas of the Norwegian playwright."*

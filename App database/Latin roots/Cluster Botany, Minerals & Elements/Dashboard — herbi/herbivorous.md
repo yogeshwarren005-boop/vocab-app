@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding only on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding only on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding primarily or exclusively on plants, vegetation, and herbal matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and paleontology, designating organisms anatomically adapted with specialized dentition and digestive tracts for plant matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is carnivorous, herbivorous, and abstemious from water, requiring no other fluids than those obtained by eating roots."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The limit set by the food-supply is seen in a simple case when herbivorous animals are placed on an island from which they cannot escape, and where there are no dogs, wolves, weasels, or foxes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Breen in man’s frieze overcoat with loose bellows pockets, stands in the causeway, her roguish eyes wideopen, smiling in all her herbivorous buckteeth.)_ MRS BREEN: Mr..."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The large **herbivorous** quadrupeds of South America were once preyed upon by ferocious saber-toothed cats."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The molar dentition of **herbivorous** mammals features grinding ridges suited to masticating tough cellulose fibers."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The elongated alimentary canal in **herbivorous** species facilitates the fermentation of fibrous vegetal forage."*

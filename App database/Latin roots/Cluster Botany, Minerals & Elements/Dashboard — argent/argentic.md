@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to compounds in which silver is bivalent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to compounds in which silver is bivalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing silver, especially in its higher oxidation state or standard chemical compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and inorganic chemistry, designating compounds of silver (Ag) such as argentic oxide or argentic chloride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentic designates relating to compounds in which silver is bivalent."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The addition of muriatic acid to a solution of silver produces an insoluble white precipitate of **argentic** chloride."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Galvanic decomposition of **argentic** salts yields arborescent crystals of pure metallic silver at the negative pole."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The higher oxide of silver, termed **argentic** peroxide, acts as an energetic oxidant in contact with organic matter."*

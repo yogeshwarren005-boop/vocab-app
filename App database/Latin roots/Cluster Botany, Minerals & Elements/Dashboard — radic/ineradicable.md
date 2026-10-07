@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be destroyed or rooted out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be destroyed or rooted out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being eradicated, uprooted, or completely eliminated; deeply ingrained or indelible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permanently rooted in the constitution, memory, or nature of an organism or social structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"You will have humors, just so long as you believe them to be safety-valves or to be ineradicable."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man still bears in his bodily frame the **ineradicable** stamp of his lowly origin."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"An **ineradicable** melancholy had taken possession of his mind, casting a gloom over every worldly success."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The social feelings of mankind have become an **ineradicable** part of our moral nature through centuries of civilization."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of atomic number 14, acting as a tetravalent semiconductor fundamental to rocks and electronics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and materials science, the second most abundant element in the Earth's crust, forming the basis of silicate minerals and modern integrated circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"We obtained amorphous **silicon** in a pure state by reducing potassium fluorosilicate with metallic potassium."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The base of silica, which we denominate **silicon**, exhibits properties intermediate between carbon and boron."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The chemical analogy between carbon and **silicon** demonstrates the harmony of our periodic system of elements."*

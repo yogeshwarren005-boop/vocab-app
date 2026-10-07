@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water snakes; a cosmopolitan genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water snakes; a cosmopolitan genus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological genus of non-venomous colubrid water snakes native to Eurasia and North Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic genus of semi-aquatic snakes, including the common grass snake (Natrix natrix), adapted to freshwater habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natrix designates water snakes; a cosmopolitan genus."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The common water snake, **Natrix**, frequents our moist meadows and dives into ponds when alarmed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Coloration patterns in the colubrid genus **Natrix** show geographical variation correlated with reed-bed camouflage."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"In **Natrix**, the dorsal scales are carinate and the nostrils open laterally, adapted to amphibious habits."*

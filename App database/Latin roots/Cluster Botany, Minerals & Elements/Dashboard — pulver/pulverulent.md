@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pulver within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pulver in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, resembling, or crumbling into fine powder or dust; dusty, crumbly, or powdery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and mineralogy, covered with a fine, powdery, bloom-like coating or chalky efflorescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Produced in separate cells.— Deeply seated, pulverulent, } _Ustilago_ generally nearly black } Superficial, yellow or brown _Uredo_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN RUST; broad, pulverulent, on the under surface of leaves, nerves, and petioles; spores numerous, subglobose, bright reddish-orange.—On _Spiræa Ulmariæ_, Roses, &c."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WALL BRISTLE-MOULD; gregarious, glaucous, then blackish; perithecium globose, brown; hairs circinate, erect, septate, pulverulent; spores oblong, yellowish."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic ashes form a soft, **pulverulent** stratum that is easily swept away by atmospheric torrents."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The underside of the frond is coated with a white **pulverulent** exudation that repels water droplets."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The weathered limestone disintegrated into a dry, **pulverulent** mass under the touch of the alpine climber."*

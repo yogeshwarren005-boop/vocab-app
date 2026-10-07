@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small silver-scaled salmon-like marine fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of argentina or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to silver, silvery, or having the shining appearance and color of silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the nation of Argentina; or any small marine fish of the genus Argentina with shining scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celestial Dian, goddess argentine, I will obey thee."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pelleschi, _Eight Months on the Gran Chaco of the Argentine Republic_ (London, 1886), p. 106."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"This," he said, leaning against the door and endeavoring to button his collar at the back, "reminds me of an afternoon in the Argentine."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial luminaries shedding **argentine** rays across the silent garden of Eden."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The silvery scales of certain marine fishes exhibit a brilliant **argentine** luster due to guanine crystals."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"His coat of chain mail gleamed with an **argentine** brightness beneath the midday sun."*

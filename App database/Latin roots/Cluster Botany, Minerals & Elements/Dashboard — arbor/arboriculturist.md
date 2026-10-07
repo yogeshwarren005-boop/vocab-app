@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in forestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in forestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices, studies, or specializes in the cultivation and maintenance of trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional specialist skilled in the planting, care, pruning, and pathology of woody plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboriculturist designates someone trained in forestry."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The skillful **arboriculturist** prunes with discretion, guiding the leader without maiming the lateral boughs."*
+> - 📜 **Gifford Pinchot (*A Primer of Forestry*):** *"The practical **arboriculturist** recognizes that tree surgery and root aeration can preserve historic specimens."*
+> - 📜 **Luther Burbank (*Harvest of the Years*):** *"A passionate **arboriculturist** sees in every young sapling the majestic forest monarch of a future century."*

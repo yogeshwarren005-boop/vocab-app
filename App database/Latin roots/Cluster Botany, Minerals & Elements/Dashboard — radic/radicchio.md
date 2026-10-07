@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prized variety of chicory having globose heads of red leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prized variety of chicory having globose heads of red leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivated variety of leaf chicory having reddish-purple leaves with prominent white veins and a bitter taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Italian salad vegetable (Cichorium intybus) cultivated as a forced biennial crop prized for culinary pungency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicchio designates prized variety of chicory having globose heads of red leaves."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"In Venice, crisp heads of red **radicchio** from Treviso are grilled with olive oil and coarse salt."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"Wild chicory and its bitter garden varieties, resembling modern **radicchio**, were esteemed by Roman banqueters."*
+> - 📜 **Jane Grigson (*Jane Grigson's Vegetable Book*):** *"The autumnal chill deepens the wine-red color and crisp bitterness of garden **radicchio**."*

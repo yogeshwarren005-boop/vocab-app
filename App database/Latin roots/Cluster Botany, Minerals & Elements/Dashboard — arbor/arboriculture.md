@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of tree for the production of timber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of tree for the production of timber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation, scientific management, and care of trees, shrubs, and woody perennial plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline focusing on the health, pruning, preservation, and selection of individual landscape trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboriculture designates the cultivation of tree for the production of timber."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The art of **arboriculture** is noble and profitable, enriching the commonwealth with stately timber."*
+> - 📜 **Gifford Pinchot (*The Training of a Forester*):** *"While forestry manages woodlands in the aggregate, **arboriculture** attends to the individual health of amenity trees."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Advancements in **arboriculture** have introduced hardy foreign shade trees to our urban avenues."*

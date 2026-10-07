@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or formed by trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or formed by trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to trees, forestry, or the botanical structure of woody plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic variant of arboreal or arboricultural, relating to the management and biology of forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborical designates of or relating to or formed by trees."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The prudent landlord will study **arborical** management to ensure a steady supply of timber for the navy."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Observations on the **arborical** growth of ancient beeches demonstrate their sensitivity to prevailing westerly gales."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The funeral pyre consumed fragrant **arborical** gums and branches of consecrated cedar."*

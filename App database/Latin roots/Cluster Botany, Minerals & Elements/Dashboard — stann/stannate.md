@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin stann within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of stann in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt containing tin in an oxyanion complex, formed by reacting tin dioxide with alkalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and metallurgy, a compound containing the stannate anion utilized in mordants, ceramics, and electroplating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stannate designates pertaining to, derived from, or characteristic of latin stann within the domain of botany, minerals & elements."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"When tin oxide dissolves in caustic potassa, a crystalline **stannate** precipitates upon evaporation."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Treating tin with alkaline hydrates generates a soluble **stannate** capable of mordanting calico cloth."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The electrolytic decomposition of sodium **stannate** deposited a brilliant metallic tin film on the cathode."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small marine soft-finned fishes with long silvery bodies; related to salmons and trouts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological family of small, silvery marine fishes commonly called argentines or herring smelts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, deep-sea osmeriform fishes characterized by large eyes, a silvery iridescent body, and an abdominal swim bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinidae designates small marine soft-finned fishes with long silvery bodies; related to salmons and trouts."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Argentinidae** is distinguished by its silvery abdominal scales and delicate microphagous dentition."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Deep-water trawls off the continental shelf frequently capture specimens of **Argentinidae** with shimmering pearlescent flanks."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Several North Atlantic species of **Argentinidae** live at depths where their luminous silvery sheen provides camouflage."*

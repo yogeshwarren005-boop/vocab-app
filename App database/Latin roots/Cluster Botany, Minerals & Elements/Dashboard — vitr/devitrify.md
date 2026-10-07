@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become crystalline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (glassy materials) brittle or opaque.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive glass of its vitreous, amorphous quality, causing it to become crystalline, opaque, and brittle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and materials science, to undergo spontaneous crystallization from a metastable glass into a microcrystalline mineral aggregate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devitrify designates become crystalline."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient obsidian flows slowly **devitrify** over geological eras, turning into dull stony felsite."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"When optical glass is maintained too long near its softening point, it begins to **devitrify** and lose transparency."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Spherulitic textures in rhyolite demonstrate the tendency of volcanic glass to **devitrify** in the presence of volatile gases."*

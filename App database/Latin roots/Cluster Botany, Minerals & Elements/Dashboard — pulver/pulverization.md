@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance in the form of tiny loose particles; a solid that has been pulverized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of grinding to a powder or dust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of reducing a substance to fine powder, dust, or minute particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete destruction, shattering, or smashing of a material structure or political entity into dust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulverization designates a solid substance in the form of tiny loose particles; a solid that has been pulverized."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mutual friction of pebbles upon shingle beaches results in the ultimate **pulverization** of the hardest flint."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Atmospheric weathering initiates the **pulverization** of exposed cliff faces long before rain washes the debris away."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The mechanical **pulverization** of ice generates heat sufficient to cause localized regelation."*

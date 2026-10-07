@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or formed by trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or formed by trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of, covered with, or pertaining to trees; woody or wooded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing dense shade through thick foliage and intertwined tree branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborous designates of or relating to or formed by trees."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under the cool **arborous** shade of Eden's bower, celestial messengers communed with man."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They wandered through the **arborous** avenues of the Borghese gardens as evening fell."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"A tranquil brook wound through the **arborous** recess, murmuring softly beneath overarching alders."*

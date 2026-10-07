@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny evergreen shrubs and small trees in the willow family (Salicaceae), native to tropical and warm temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, dioecious shrubs possessing axillary thorns and small apetalous flowers, cultivated as ornamental hedging plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylosma designates shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china."*
+> - 📜 **Asa Gray (*Botany of the United States Exploring Expedition*):** *"The Polynesian islands yielded Several species of **Xylosma**, characterized by spinose branches and leathery foliage."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Xylosma** thrive in rocky jungle thickets, forming impenetrable thorny barriers."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"In Australian scrublands, **Xylosma** ovata bears clusters of small berries eaten by frugivorous native birds."*

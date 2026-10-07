@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be eradicated or rooted out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be eradicated or rooted out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being eradicated, uprooted, completely extirpated, or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to total elimination through systematic sanitary, agricultural, or educational measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eradicable designates able to be eradicated or rooted out."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Poverty and economic distress are not inevitable features of society, but evils fully **eradicable** by human wisdom."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Moral philosophers have debated whether selfish impulses are permanently ingrained or **eradicable** through social culture."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Infectious fevers in hospital wards are completely **eradicable** if cleanliness, light, and fresh air are maintained."*

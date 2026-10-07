@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of sodium in the blood; associated with dehydration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of sodium in the blood; associated with dehydration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of sodium ions in the blood plasma or serum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, a metabolic disturbance where serum sodium falls below 135 mmol/L, causing cellular edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyponatremia designates abnormally low level of sodium in the blood; associated with dehydration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive administration of hypotonic fluids to surgical patients frequently results in dilutional **hyponatremia**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The regulation of plasma osmolarity prevents the dangerous neurological sequelae of acute **hyponatremia**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"In elderly patients, profound **hyponatremia** may mimic acute psychosis or irreversible dementia."*

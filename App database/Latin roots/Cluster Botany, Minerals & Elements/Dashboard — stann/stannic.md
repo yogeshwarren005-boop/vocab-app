@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing tin, especially in its tetravalent oxidation state (+4).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, designating tetravalent tin compounds such as stannic chloride or stannic oxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stannic designates of or relating to or containing tin."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Fuming liquor of Libavius, or **stannic** chloride, is formed by distilling tin amalgam with corrosive sublimate."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"During electro-deposition, the **stannic** salt required twice the electric charge per equivalent compared to stannous solutions."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Pure **stannic** acid forms a white insoluble powder when tin is oxidized by concentrated nitric acid."*

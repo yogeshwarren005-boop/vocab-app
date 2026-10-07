@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become powder or dust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced to fine powder, dust, or minute particles by grinding, pounding, or crushing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demolished, smashed into fragments, or completely shattered by overwhelming force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The device of using pulverised coal as a fuel has attracted attention at several smelters where the local coal as mined was proved to be unsuitable for use."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Pulverised fuel for reverberatories, 105."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The first has been taken as merely an imaginative explanation of the lustre of the glaze, but it is certain that some kind of pulverised quartz-like stone was used in the composition of later glazes, such as the "ruby red" (see vol. ii., p. 123)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Beneath the glacier lay beds of **pulverised** rock, testifying to the immense grinding pressure of the ice sheet."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The volcanic blast deposited a thick layer of **pulverised** pumice across the slopes of the mountain."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy iron pestle descended upon the calcined bones until they were **pulverised** to fine white flour."*

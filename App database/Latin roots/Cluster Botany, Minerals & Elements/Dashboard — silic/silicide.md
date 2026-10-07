@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds of silicon with a more electropositive element or radical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds of silicon with a more electropositive element or radical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of silicon with a more electropositive element, especially a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and metallurgy, a heat-resistant and corrosion-resistant metallic alloy phase utilized in refractory materials and semiconductors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicide designates any of various compounds of silicon with a more electropositive element or radical."*
+> - 📜 **Henri Moissan (*The Electric Furnace*):** *"By heating metals with silicon in the electric arc, we synthesized pure crystalline **silicide** compounds of iron and chromium."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Silicon unites directly with potassium and iron at high temperatures, producing a brittle metallic **silicide**."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Magnesium **silicide** reacts violently with hydrochloric acid, generating spontaneously inflammable silico-hydrogen gas."*

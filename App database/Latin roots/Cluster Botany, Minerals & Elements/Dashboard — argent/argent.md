@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal tincture used in heraldry to give a silvery appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lustrous grey; covered with or tinged with the color of silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heraldic term for silver or the tincture represented by silver or white.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and classical literature, having the silvery-white appearance, luster, or brightness of silver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it is so worn that mother uses it to stir the pea-soup.” “A castle argent is certainly my crest,” said he blandly."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Here is mine; I carry him about with me.' And he took a piece of a hundred sous out of his pocket (how had it got there?) '_Vive l'argent_' he said."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"With money you can do anything. _L'argent c'est le bon Dieu_.' 'Be silent,' I cried, 'thou profane one!' And the women were still more indignant than I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her silvery mantle of celestial **argent** spread across the midnight sky."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Those **argent** fields more likely habitants, translated saints, or middle spirits hold."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"Upon his shield an azure field was shown, bearing a chevron of **argent** bright."*

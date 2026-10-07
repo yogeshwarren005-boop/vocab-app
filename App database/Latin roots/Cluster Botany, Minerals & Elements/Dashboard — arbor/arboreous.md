@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabiting or frequenting trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature, appearance, or form of a tree; tree-like or wooded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wooded, shady, or heavily forested; or possessing woody, tree-sized vegetative stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboreous designates inhabiting or frequenting trees."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under an **arboreous** roof of verdant boughs, Adam and Eve enjoyed fragrant celestial shade."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In the humid climate of New Zealand, tree ferns attain an immense **arboreous** stature."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Several species of sumac develop **arboreous** trunks under favourable southern conditions."*

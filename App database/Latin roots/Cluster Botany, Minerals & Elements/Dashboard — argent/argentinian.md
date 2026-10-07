@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of argentina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of argentina or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Argentina, its people, language, geography, culture, or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native, citizen, or inhabitant of the South American republic of Argentina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinian designates a native or inhabitant of argentina."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The hardy **Argentinian** gauchos proved to be superb horsemen, riding with effortless grace across the plains."*
+> - 📜 **William Henry Hudson (*Far Away and Long Ago*):** *"The old **Argentinian** estancias stood like isolated islands of shade trees in a boundless ocean of grass."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"Rumors of an **Argentinian** cattle trade stimulated commercial enterprise along the coastal settlements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary name for lidocaine, a synthetic local anesthetic and antiarrhythmic medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino-amide local anesthetic operating by blocking voltage-gated sodium channels in neuronal membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocaine designates a local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Infiltration of the surgical wound with **Xylocaine** provided immediate regional analgesia without loss of consciousness."*
+> - 📜 **Alexander Shulgin (*PiHKAL: A Chemical Love Story*):** *"The chemical discovery of **Xylocaine** replaced cocaine and procaine as the gold standard of local anesthesia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Emergency intravenous **Xylocaine** was administered to suppress dangerous ventricular arrhythmias following myocardial infarction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch out like trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch out like trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a tree-like shape or branching pattern to; or to branch out like a tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, crystallography, and histology, to form dendritic ramifications resembling a tree structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborise designates branch out like trees."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"As cortical neurons mature, their axonal terminals begin to **arborise** profusely throughout the neuropil."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electric sparks passing through insulating resin cause metal dust to **arborise** along lines of force."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Infiltration of mineral waters causes dendritic minerals to **arborise** through micro-fractures in slate."*

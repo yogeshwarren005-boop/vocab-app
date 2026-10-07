@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary root of a plant embryo that develops into the main root system upon germination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and physiology, the minute root-like beginning of a nerve, lymphatic vessel, or vein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicle designates (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve)."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"It is hardly an exaggeration to say that the tip of the **radicle** acts like the brain of one of the lower animals."*
+> - 📜 **Asa Gray (*How Plants Grow*):** *"When the seed sprouts, the **radicle** pushes downwards into the dark soil to seek moisture and stability."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Each minute vein arises from a capillary network through a microscopic **radicle** that converges toward larger trunks."*

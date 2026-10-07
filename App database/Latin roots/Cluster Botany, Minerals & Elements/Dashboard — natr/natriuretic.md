@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to natriuresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to natriuresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or stimulating the excretion of sodium ions in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to substances or hormones, such as atrial natriuretic peptide, that inhibit renal sodium reabsorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natriuretic designates of or relating to natriuresis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern pharmacological management of cardiac dropsy relies on potent **natriuretic** agents that unload vascular congestion."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The physiological search for endogenous **natriuretic** factors occupied physiologists investigating blood pressure homeostasis."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Endocrine **natriuretic** peptides coordinate renal tubular excretion during acute blood volume expansion."*

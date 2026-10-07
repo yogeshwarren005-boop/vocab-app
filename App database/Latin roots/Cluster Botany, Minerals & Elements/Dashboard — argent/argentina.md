@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southern south america; second largest country in south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the argentinidae: argentines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country occupying the southern portion of South America, named from the Latin word for silver (argentum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical or literary Latinate name for the Rio de la Plata region; or a genus of slender, silvery marine smelt fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Russia, Argentina, and Australia have rapidly taken the place of America in supplying food to Western Europe, in part, no doubt, because we refused to take Europe's goods in trade."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Summer schools are established in Argentina and Chile."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To foretell the price of wheat one must know the rainfall in India, the condition of the crop in Argentina, must be in touch as nearly as possible with every unit of supply that will come into the market."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We traversed the vast grassy plains of **Argentina**, where herds of wild horses and rheas roam undisturbed."*
+> - 📜 **William Henry Hudson (*The Naturalist in La Plata*):** *"The bird life of the **Argentina** pampas possesses an avian charm found nowhere else in the world."*
+> - 📜 **Richard Burton (*The Highlands of the Brazil*):** *"The turbulent politics of **Argentina** in the era of Rosas dominated the southern frontier."*

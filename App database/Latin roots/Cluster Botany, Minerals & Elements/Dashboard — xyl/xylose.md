@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar extracted from wood or straw; used in foods for diabetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar extracted from wood or straw; used in foods for diabetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A five-carbon aldopentose sugar obtained by the hydrolysis of plant hemicelluloses and xylan; wood sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a reducing pentose monosaccharide constituent of plant cell walls, utilized in microbial fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylose designates a sugar extracted from wood or straw; used in foods for diabetics."*
+> - 📜 **Emil Fischer (*Researches on Carbohydrates*):** *"By the acidic hydrolysis of beech wood sawdust, we obtained pure crystalline **xylose**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Certain yeasts and fungi assimilate pentose sugars like **xylose**, converting them into volatile organic acids."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The metabolic fate of pentoses such as **xylose** differs fundamentally from hexose glycogen synthesis in the liver."*

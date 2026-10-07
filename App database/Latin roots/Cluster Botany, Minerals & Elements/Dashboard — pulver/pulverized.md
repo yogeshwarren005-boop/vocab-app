@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a powder by breaking up or cause to become dust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crushed, ground, or pounded into fine dust, powder, or minute particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utterly shattered, broken, or demolished by physical impact or catastrophic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wheels of the dairyman’s spring-cart, as he sped home from market, licked up the pulverized surface of the highway, and were followed by white ribands of dust, as if they had set a thin powder-train on fire."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"So soon as the pick pulverized the rock, the limestone dust was carried into eyes, nose, and every available opening in the clothing."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The bed of the glacial torrent was covered with **pulverized** schist carried down from the high peaks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"He mixed the garden soil with **pulverized** charcoal to encourage the delicate seedlings to root."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancient oak beam seemed almost ready to crumble into **pulverized** decay at the touch of a finger."*

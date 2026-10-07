@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin stann within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of stann in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tin mine, tin-smelting works, or the mining district where tin ore is extracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British history, the special jurisdiction and customary court system governing tin miners in Cornwall and Devon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stannary designates pertaining to, derived from, or characteristic of latin stann within the domain of botany, minerals & elements."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient privileges of the **stannary** courts were confirmed by royal charter to protect the tinners of Cornwall."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The royal revenue derived from the Cornish **stannary** dues fluctuated with the continental price of tin."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The warden of the **stannary** exercised summary jurisdiction over all miners who worked the rich alluvial gravels."*

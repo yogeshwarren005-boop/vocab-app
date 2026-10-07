@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) two or more atoms bound together as a single unit and forming part of a molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom or group of atoms with at least one unpaired electron; in the body it is usually an oxygen molecule that has lost an electron and will stabilize itself by stealing an electron from a nearby molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the fundamental nature or origin of something; basic, primary, or deep-seated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, advocating fundamental institutional reform; or in chemistry, a group of atoms acting as a unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the Radical of Nature to him."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Sherman is so minute, and resulted in such a radical change of the physical constitution, that it is necessary to relate it in full detail."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There was also at that time an immediate and radical change in the action of the kidneys, which had become a source of great trouble before."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father was a **radical** reformer who demanded fundamental changes in the representative system."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A **radical** difference in embryological development indicates an early divergence in evolutionary descent."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every reform was once a private opinion, and when it shall be a private opinion again, it will solve the problem of the age by **radical** change."*

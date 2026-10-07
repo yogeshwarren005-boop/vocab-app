@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpenter bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpenter bees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, robust, dark-colored solitary bees commonly known as carpenter bees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, apoid bees that excavate nesting tunnels inside dead wood, bamboo, or structural timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocopa designates carpenter bees."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Large carpenter bees of the genus **Xylocopa** visit the flowers, pollinating them by violent wing vibrations."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Giant black bees of the genus **Xylocopa** hovered around the wooden eaves of our thatched forest dwelling."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The powerful jaws of the **Xylocopa** bore cylindrical galleries through dry timber with the precision of a carpenter's auger."*

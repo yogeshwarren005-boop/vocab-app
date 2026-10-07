@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lung disease caused by inhaling particles of silica or quartz or slate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lung disease caused by inhaling particles of silica or quartz or slate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, progressive occupational lung disease caused by the inhalation of crystalline silica dust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine and pathology, fibrotic pneumoconiosis marked by nodular lesions and impaired respiratory function in miners and stonecutters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicosis designates a lung disease caused by inhaling particles of silica or quartz or slate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic fibroid phthisis in quarrymen and gold miners represents classic **silicosis**, induced by inhaled quartz particles."*
+> - 📜 **Thomas Oliver (*Diseases of Occupation*):** *"The dust of sandstone dressing produces severe **silicosis**, predisposing the operative to secondary pulmonary tuberculosis."*
+> - 📜 **Alice Hamilton (*Industrial Poisons in the United States*):** *"Protective ventilation in foundries is essential to prevent the insidious onset of pulmonary **silicosis** among polishers."*

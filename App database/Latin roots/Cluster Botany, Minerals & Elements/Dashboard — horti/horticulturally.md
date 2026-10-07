@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of horticulture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of horticulture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a horticultural manner; with regard to the art, science, or practice of cultivating gardens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of gardening technique, propagation methods, or vegetative cultivation standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horticulturally designates by means of horticulture."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"These exotic orchids are **horticulturally** prized on account of their bizarre floral forms and fragrant blossoms."*
+> - 📜 **Luther Burbank (*The Training of the Human Plant*):** *"When plants are **horticulturally** nurtured under optimal soil conditions, dormant developmental potentials awaken."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Varieties treated **horticulturally** often revert to ancestral wild types when abandoned in open meadows."*

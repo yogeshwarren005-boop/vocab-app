@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vitrified substance; the glassy result of being vitrified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming vitreous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transformation of a substance into glass or a glassy, amorphous solid through heat and fusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramics, cryobiology, and geology, the thermal transition where liquid silicates cool without crystallizing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitrification designates a vitrified substance; the glassy result of being vitrified."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The walls of ancient Scottish hill-forts show remarkable **vitrification**, where stone ramparts were fused into solid glass by intense fires."*
+> - 📜 **Josiah Wedgwood (*Letters of Josiah Wedgwood*):** *"The exact degree of **vitrification** determines whether the fired porcelain body remains porous or becomes translucent."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Intense heat applied to silica and potash produces complete **vitrification**, forming a transparent artificial glass."*

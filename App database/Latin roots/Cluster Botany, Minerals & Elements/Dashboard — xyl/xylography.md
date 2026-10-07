@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin xyl within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of xyl in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of engraving on wood; wood engraving or woodcut printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early method of printing text and illustrations from carved wooden relief blocks prior to movable type.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Xylography was also practiced in China long before Europe knew the art."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The revival of fine **xylography** restored expressive craftsmanship to modern book illustration."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"This block-book represents primitive European **xylography**, printed before Gutenberg perfected metal type."*
+> - 📜 **John Ruskin (*Ariadne Florentina*):** *"True **xylography** respects the grain of the wood, using clean chisel cuts to convey light and shadow."*

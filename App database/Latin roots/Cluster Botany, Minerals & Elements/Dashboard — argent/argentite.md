@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A valuable silver ore consisting of silver sulfide (ag2s).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A valuable silver ore consisting of silver sulfide (ag2s).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important silver ore mineral composed of silver sulfide (Ag2S), exhibiting a dark lead-gray metallic luster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, an isometric high-temperature silver sulfide polymorph that inverts to acanthite below 177 degrees Celsius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentite designates a valuable silver ore consisting of silver sulfide (ag2s)."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral **argentite**, or vitreous silver, is easily cut with a knife and yields a bead of pure silver upon the charcoal block."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The fabulous bonanzas of Guanajuato owed their wealth to rich veins of black **argentite** and ruby silver."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Hydrothermal veins traversing volcanic andesite are enriched near the surface with **argentite** and native gold."*

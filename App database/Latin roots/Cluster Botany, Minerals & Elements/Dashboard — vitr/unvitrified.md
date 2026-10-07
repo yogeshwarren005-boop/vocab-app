@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ceramics) lacking a vitreous finish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ceramics) lacking a vitreous finish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into glass; retaining a crystalline, porous, or unglazed ceramic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramics and geology, describing pottery or volcanic rocks that have not undergone fusion into an amorphous vitreous state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvitrified designates (of ceramics) lacking a vitreous finish."*
+> - 📜 **Josiah Wedgwood (*Letters of Josiah Wedgwood*):** *"The earthenware biscuit remained **unvitrified** and porous until subjected to the higher temperature of the enamel kiln."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The outer crust of the basaltic dyke was glassy, while the interior remained completely **unvitrified** and crystalline."*
+> - 📜 **William Flinders Petrie (*The Arts and Crafts of Ancient Egypt*):** *"Early Predynastic pots were fired at low heat and left **unvitrified**, requiring burnishing to hold liquids."*

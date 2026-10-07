@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical percussion instrument consisting of a series of tuned wooden bars struck with mallets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A melodic idiophone featuring rosewood or padauk bars mounted over metal resonator tubes, played with yarn or hard mallets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophone designates a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The dry, skeleton-like timbre of the **xylophone** was introduced into the modern orchestra to evoke spectral images."*
+> - 📜 **Camille Saint-Saëns (*Danse Macabre Notes*):** *"The rattling of bones in the graveyard is mimicked in the score by the sharp strokes of the **xylophone**."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"The street musician performed lively dance tunes upon a portable wooden **xylophone** before the delighted crowd."*

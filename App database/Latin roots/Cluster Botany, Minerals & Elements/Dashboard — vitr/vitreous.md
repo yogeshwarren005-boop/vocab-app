@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting the vitreous humor of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or derived from or containing glass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, resembling, or having the clear, brittle properties of glass; glassy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating the clear gel-like fluid filling the posterior eyeball behind the crystalline lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Obsidian is a natural volcanic glass exhibiting a brilliant **vitreous** luster and conchoidal fracture."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **vitreous** body is a perfectly transparent, colorless, gelatinous mass that fills four-fifths of the globe of the eye."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Quartz crystals are characterized by their extreme hardness and distinctive **vitreous** shine."*

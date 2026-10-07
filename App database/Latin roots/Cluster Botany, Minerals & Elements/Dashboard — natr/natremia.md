@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin natr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of natr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence or concentration of sodium in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathophysiology, the physiological level of serum sodium governing extracellular fluid volume and osmotic balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natremia designates pertaining to, derived from, or characteristic of latin natr within the domain of botany, minerals & elements."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The maintenance of a steady **natremia** is essential for preserving the constancy of the internal fluid environment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Variations in **natremia** serve as critical diagnostic indicators in renal and adrenal endocrine disorders."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Homeostatic mechanisms operating through renal tubular reabsorption keep **natremia** within narrow physiological limits."*

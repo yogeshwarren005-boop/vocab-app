@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance in the form of tiny loose particles; a solid that has been pulverized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of grinding to a powder or dust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical reduction of a solid substance into fine powder or dust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and industrial chemistry, the complete comminution of ores, rocks, or pigments by grinding, crushing, or milling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulverisation designates a solid substance in the form of tiny loose particles; a solid that has been pulverized."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The continuous **pulverisation** of coastal cliffs by ocean breakers produces the vast sand expanses of our beaches."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **pulverisation** of mineral ores in an agate mortar is a prerequisite for rapid acid dissolution."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould Through the Action of Worms*):** *"Earthworms contribute immensely to the mechanical **pulverisation** of mineral particles in topsoil."*

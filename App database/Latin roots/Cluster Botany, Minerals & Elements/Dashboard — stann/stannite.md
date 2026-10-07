@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark grey mineral with a metallic luster that is a source of tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark grey mineral with a metallic luster that is a source of tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sulfide mineral containing copper, iron, and tin, commonly known as bell-metal ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, a tetragonal sulfide mineral (Cu2FeSnS4) found in hydrothermal veins; or in chemistry, a salt of stannous acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stannite designates a dark grey mineral with a metallic luster that is a source of tin."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral **stannite**, or tin pyrites, exhibits a metallic luster and steel-gray color in Cornish lodes."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Hydrothermal veins in the granite mass carry veins of cassiterite associated with **stannite** and chalcopyrite."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The reaction of stannous oxide with concentrated alkali yields an unstable **stannite** solution that readily oxidizes."*

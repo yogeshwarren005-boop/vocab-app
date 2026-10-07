@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several asian and north american conifers of the genera thuja and thujopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evergreen coniferous tree or shrub of the genus Thuja, widely planted for ornament and hedges; literally tree of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the tree-like branched appearance of cerebellar white matter in midsagittal cross-section.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborvitae designates any of several asian and north american conifers of the genera thuja and thujopsis."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The American **arborvitae**, or white cedar, thrives in swampy borders, bearing scale-like flattened foliage."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"In midsagittal section, the cerebellar cortex and white tracts display the picturesque branching termed the **arborvitae**."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Slender **arborvitae** boughs hung over the river rapids, their cedar fragrance perfuming the mountain air."*

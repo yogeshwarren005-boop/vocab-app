@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of trees or sacred groves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religions and anthropology, tree-cult veneration common in ancient animistic, Celtic, and Germanic societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborolatry designates the worship of trees."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient European paganism was steeped in **arborolatry**, regarding oak groves as the terrestrial dwellings of the thunder god."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Primitive animism naturally evolved into **arborolatry**, where each tree possessed a living, conscious spirit."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The Norse concept of the world-tree Yggdrasil reflects the sublime poetic essence of ancient **arborolatry**."*

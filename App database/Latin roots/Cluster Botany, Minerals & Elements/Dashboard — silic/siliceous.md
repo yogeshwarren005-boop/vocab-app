@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling silica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling silica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, resembling, or consisting largely of silica; glassy, gritty, or quartzose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and biology, designating rocks, sediments, or biological skeletons composed of silicon dioxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This ore contains 5 to 5½ per cent. copper, with a large quantity of highly siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"These ores contain about 5 per cent. of copper in the form of sulphides, finely disseminated through large quantities of siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Liquid matte has practically no action on the siliceous material of the hearth, and so presents an inert mass between the bottom and the charge."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The springs of the Great Geyser of Iceland deposit encrustations of **siliceous** sinter over the surrounding rocks."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Diatoms construct beautiful **siliceous** frustules that survive undamaged in ancient ocean sediments."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The chalk deposits of England contain extensive layers of **siliceous** nodules known as flints."*

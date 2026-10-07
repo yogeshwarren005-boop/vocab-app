@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester derived from silicic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester derived from silicic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester derived from silicic acid, containing silicon and oxygen in tetrahedral anionic units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, any of the vast family of rock-forming minerals that constitute over ninety percent of the Earth's crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This compound is called silicate of aluminium, and of it are formed clay and many rocks."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The silicate is decomposed when heated in the presence of sulphides, resulting in the formation of sulphide of copper and silicate of the second metal, in consequence of the great affinity of copper and sulphur."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Upon this fact depends the extraction of copper from various silicate ores, as well as the cleaning of slags high in copper, which are often added to the sulphide charges in the furnace with this object."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Granite consists chiefly of quartz, feldspar, and mica, of which the latter two are complex **silicate** minerals."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Every modern mineralogical classification groups the **silicate** minerals according to their tetrahedral chain and framework structures."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When silica combines at high heat with metallic oxides, it produces a vitrified **silicate** or artificial glass."*

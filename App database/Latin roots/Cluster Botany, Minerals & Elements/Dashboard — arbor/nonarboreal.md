@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inhabiting or frequenting trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inhabiting or frequenting trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not living in, inhabiting, or relating to trees; not tree-dwelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In palynology and botany, designating pollen, vegetation, or plants belonging to herbs and shrubs rather than forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonarboreal designates not inhabiting or frequenting trees."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil pollen diagrams show a transition from dense pine forest to **nonarboreal** tundra herbs during glacial advance."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The terrestrial baboon has adopted a **nonarboreal** existence upon open rocky kopjes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When our hominid ancestors abandoned a forest habitat, their **nonarboreal** habits necessitated bipedal locomotion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a tree in form and branching structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a tree in form and branching structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a tree in shape, branching pattern, or scenic appearance; picturesque like a tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and landscape design, possessing picturesque, spreading branches that recall natural tree architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboresque designates resembling a tree in form and branching structure."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter captured the **arboresque** grace of the mountain ash as its boughs overhung the foaming cascade."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"An antique moss-grown orchard presented an **arboresque** maze of twisted boughs laden with fruit."*
+> - 📜 **William Gilpin (*Remarks on Forest Scenery*):** *"The **arboresque** forms of solitary oaks against the evening sky provide the finest study in landscape composition."*

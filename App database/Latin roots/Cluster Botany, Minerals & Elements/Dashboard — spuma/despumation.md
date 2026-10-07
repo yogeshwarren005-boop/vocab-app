@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin spuma within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of spuma in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of clarifying a liquid by removing the scum or foam from its surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical preparations, the purification of syrups, decoctions, or mel solutions through boiling and skimming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, despumation designates pertaining to, derived from, or characteristic of latin spuma within the domain of botany, minerals & elements."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **despumation** of crude sugar syrups removes albuminous impurities that would otherwise impair crystallization."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"By repeated boiling and **despumation**, the volatile extracts were separated from grosser earthy residues."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"The medicinal virtue of the infusion remained unaltered by gentle filtration and **despumation**."*

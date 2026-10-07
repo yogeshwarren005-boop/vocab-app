@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in treating damaged trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in treating damaged trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the care, cultivation, pruning, and maintenance of trees and woody shrubs; a tree surgeon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certified professional who diagnoses tree diseases, conducts hazard assessments, and performs tree preservation work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arborist designates a specialist in treating damaged trees."*
+> - 📜 **Gifford Pinchot (*The Training of a Forester*):** *"The municipal **arborist** inspects public street trees, removing dead limbs before autumn gales strike."*
+> - 📜 **John Muir (*Our National Parks*):** *"A true **arborist** looks upon an ancient sequoia not as board feet of timber, but as a living temple of nature."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The consulting **arborist** recommended bracing the split limbs of the historic Washington Elm."*

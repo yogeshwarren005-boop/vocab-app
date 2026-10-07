@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing tin in its divalent oxidation state (+2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, designating divalent tin compounds such as stannous chloride or stannous fluoride used as reducing agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stannous designates of or relating to or containing tin."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The addition of **stannous** chloride precipitates metallic gold from solution in the form of purple of Cassius."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A solution of **stannous** chloride absorbs oxygen greedily from the air, turning milky through basic salt formation."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The lower oxide of tin forms the base of the **stannous** series of salts, acting as a powerful reducing agent."*

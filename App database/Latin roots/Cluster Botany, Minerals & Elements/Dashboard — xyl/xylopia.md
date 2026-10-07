@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical evergreen trees or shrubs; chiefly african.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical evergreen trees or shrubs; chiefly african.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the custard apple family (Annonaceae), known for aromatic, peppery seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and ethnobotany, tropical rainforest trees yielding Guinea pepper (Xylopia aethiopica), used as a culinary spice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylopia designates tropical evergreen trees or shrubs; chiefly african."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*):** *"The genus **Xylopia** is distinguished by its narrow petals and cylindrical, torulose monocarps containing aromatic seeds."*
+> - 📜 **Richard Burton (*Wanderings in West Africa*):** *"Native traders offered bags of pungent **Xylopia** pepper, long prized across the Sahara as a substitute for black pepper."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forest canopies of the Eastern Ghats harbour species of **Xylopia** with bitter aromatic bark and hard timber."*

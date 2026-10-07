@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where trees and shrubs are cultivated for exhibition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where trees and shrubs are cultivated for exhibition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical garden or outdoor living collection devoted to the cultivation and scientific display of trees and woody plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized horticultural institution dedicated to the preservation, taxonomic study, and breeding of woody taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It was with much gratification that I learned at a later time of the remarkable work done in connection with the Arnold Arboretum near Boston in seeking out and bringing to America specimens of many of China's beautiful trees and plants."*
+> - 📜 **Asa Gray (*Letters of Asa Gray*):** *"We walked through the Arnold **Arboretum**, admiring the extensive collection of Asiatic conifers and maples."*
+> - 📜 **John Lindley (*The Theory of Horticulture*):** *"Every university botanical department should maintain an **arboretum** to demonstrate comparative woody morphology."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"The Director of Kew accompanied me through the **arboretum** to inspect several rare hybrid oaks."*

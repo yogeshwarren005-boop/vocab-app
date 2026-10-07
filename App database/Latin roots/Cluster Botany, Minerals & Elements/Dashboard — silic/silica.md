@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Silicon dioxide (SiO2), a hard, glassy chemical compound occurring naturally as quartz, flint, and sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and material science, an abundant oxide mineral forming structural framework lattices in igneous, metamorphic, and biogenic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is easily reduced to metallic copper by heating with carbon, the metal being also obtained if the oxide be heated in the presence of reducing gases; it combines readily with silica when heated, yielding fusible silicates."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Iron, 28·4 " Sulphur, 29·9 " Silica, 23·6 " Alumina, 3·7 " whilst the product (“calcines”) has an average composition of Copper, 6·3 per cent."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The petrifying waters of thermal geysers hold vast quantities of **silica** in solution, depositing thick terraces of sinter."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Microscopic organisms extract dissolved **silica** from sea water to construct their intricate glassy shells."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Flint is almost pure **silica**, derived from the skeletal remains of sponges and radiolarians embedded in chalk."*

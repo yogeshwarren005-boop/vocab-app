@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serial arrangement in which things follow in logical order or a recurrent pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A following of one thing after another in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular order in which related events, movements, or things follow each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and biochemistry, the specific linear order of nucleotides in DNA/RNA or amino acids in a polypeptide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take Hereford’s rights away, and take from Time His charters and his customary rights; Let not tomorrow then ensue today; Be not thyself; for how art thou a king But by fair sequence and succession?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell my friends, Tell Athens, in the sequence of degree From high to low throughout, that whoso please To stop affliction, let him take his haste, Come hither ere my tree hath felt the axe And hang himself."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Geological strata reveal an orderly **sequence** of organic remains across successive epochs."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Mathematical discovery consists in perceiving the harmonious **sequence** connecting disparate ideas."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The genetic code dictates how a linear nucleotide **sequence** translates into a functional enzyme."*

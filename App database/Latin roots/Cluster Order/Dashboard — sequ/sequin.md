@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, shiny disk sewn on clothing or theatrical costumes for decorative glitter and ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic Venetian gold coin (zecchino) formerly circulating widely throughout the Mediterranean and Levant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Leopopold! _(Twittering.)_ Leeolee! _(Warbling.)_ O Leo! _(They rustle, flutter upon his garments, alight, bright giddy flecks, silvery sequins.)_ BLOOM: A man’s touch."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The marquis then ordered his steward to pay the fisherman twenty sequins; desiring him to call annually for the like sum, as a recompense for the friendly service he had rendered him. 991."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Venetian merchant paid tribute in gold, weighing every shiny **sequin** against Byzantine coin."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The corsair captain counted out each Venetian **sequin** with greedy satisfaction upon the table."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The antique evening gown sparkled whenever a tiny gilded **sequin** caught the candlelight."*

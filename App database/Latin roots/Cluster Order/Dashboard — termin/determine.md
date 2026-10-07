@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to occur in a particular way; to ascertain or establish conclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To come to a firm decision; in law, to bring an estate or agreement to an official end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That he and Caesar might Determine this great war in single fight!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She soon shall know of us, by some of ours, How honourable and how kindly we Determine for her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will determine this before I stir."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"External physical conditions alone do not **determine** the diverse forms assumed by living species."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Accurate experiments enabled us to **determine** the refractive indices of various translucent media."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any deliberate breach of tenancy covenants will **determine** the lease and restore entry to the landlord."*

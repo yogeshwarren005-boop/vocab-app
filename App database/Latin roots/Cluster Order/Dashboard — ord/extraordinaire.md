@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinary in a particular capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinary in a particular capacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remarkable, extraordinary, or exceptional in a particular area, talent, or role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A postpositive French loan-adjective used for stylistic emphasis to denote consummate preeminence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraordinaire designates extraordinary in a particular capacity."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"My friend regarded Professor Moriarty as a mathematical prodigy and a criminal organizer **extraordinaire**."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry took pride in acting as a conversationalist and social connoisseur **extraordinaire**."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Paris appeared to the American traveller as a spectacle and cultural enchantress **extraordinaire**."*

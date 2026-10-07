@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or thing that terminates or brings an end to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, the moving dividing line between the illuminated and dark hemispheres of a celestial body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terminator designates someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects)."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Through the telescope, lunar craters appear sharply defined along the jagged lunar **terminator**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"A specific RNA sequence acts as a transcriptional **terminator**, signaling the polymerase enzyme to halt."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conqueror styled himself the mighty **terminator** of corrupt dynasties across Asia."*

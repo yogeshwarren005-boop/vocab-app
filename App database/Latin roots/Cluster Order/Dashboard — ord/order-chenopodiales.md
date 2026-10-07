@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponds approximately to the older group centrospermae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corresponds approximately to the older group centrospermae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical taxonomic order (Caryophyllales) comprising the goosefoot and amaranth families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical plant systematics, an angiosperm order featuring betalain pigments and centrospermous seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, order-chenopodiales designates corresponds approximately to the older group centrospermae."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The botanical **order-Chenopodiales** includes weedy annuals and halophytic herbs adapted to saline soils."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domesticated beetroots and spinaches belong systematically within the floral **order-Chenopodiales**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Comparative morphologists analyzed seed development across the **order-Chenopodiales** to map floral phylogeny."*

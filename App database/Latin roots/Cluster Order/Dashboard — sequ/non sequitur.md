@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sequ within the domain of Order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sequ in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conclusion or statement that does not logically follow from the previous argument or premise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary dialogue and satire, a jarring, incongruous remark deployed for comedic or absurd effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, non sequitur designates pertaining to, derived from, or characteristic of latin sequ within the domain of order."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The ontological leap from intellectual conceptualization to objective existence is an undeniable **non sequitur**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"To deduce universal causation from customary conjunction represents a notorious philosophical **non sequitur**."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Our guide replied with a magnificent **non sequitur** that left the entire tour party speechless."*

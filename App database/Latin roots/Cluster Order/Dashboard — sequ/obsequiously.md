@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obsequious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obsequious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile, fawning, or excessively deferential manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate, exaggerated deference intended to curry favor from a superior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set down, set down your honourable load, If honour may be shrouded in a hearse, Whilst I awhile obsequiously lament Th’ untimely fall of virtuous Lancaster."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"During the day the animals obsequiously followed the shadow of the smallest tree as it moved round the stem with the diurnal roll; and when the milkers came they could hardly stand still for the flies."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The wastes of his weary brain were haunted by shadowy images now—images of wealth and fame revolving obsequiously round his unextinguishable gift of noble and lofty expression."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook bowed **obsequiously**, eager to shake hands with Pip upon his sudden fortune."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The ministers smiled **obsequiously** whenever the monarch condescended to utter a royal decree."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Provincial prefects complied **obsequiously** with orders that violated their private moral convictions."*

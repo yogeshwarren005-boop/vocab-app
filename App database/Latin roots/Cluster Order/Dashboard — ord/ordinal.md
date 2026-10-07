@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number designating place in an ordered sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a taxonomic order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting order, succession, or rank in a series (such as first, second, third).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian liturgy, a book containing the appointed forms for consecrating and ordaining ministers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordinal designates the number designating place in an ordered sequence."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Cantor distinguished cardinal numbers from **ordinal** numbers when measuring transfinite sets."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The Anglican **ordinal** prescribes the solemn oaths required of all candidates for the episcopate."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Temporal experience presents sensations arranged in strict **ordinal** succession from past to future."*

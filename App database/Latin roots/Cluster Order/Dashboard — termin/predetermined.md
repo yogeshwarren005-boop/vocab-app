@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be biased.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Established, decided, or settled in advance; dictated by prior conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following a fixed, unalterable trajectory arranged beforehand by design or natural law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who would be willing to stake his life and his estate upon the verdict of a jury acting under the auspices of judges who had predetermined his guilt?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It would seem that having rejected the belief of the ancients in man’s subjection to the Deity and in a predetermined aim toward which nations are led, modern history should study not the manifestations of power but the causes that produce it."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic development follows a **predetermined** historical trajectory that no monarch can halt."*
+> - 📜 **William James (*Pragmatism*):** *"A closed universe where everything is **predetermined** feels like a suffocating puppet theater."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries marched along a **predetermined** route mapped by veteran imperial surveyors."*

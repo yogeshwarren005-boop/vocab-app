@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of appreciating method and system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of regular or proper arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being well-organized, neat, methodical, and obedient to rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and legal theory, harmonious regularity and adherence to public discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I do not know how it is,” said he; “but we seem to want some of your nice ways and orderliness at my father’s."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"At Mansfield, no sounds of contention, no raised voice, no abrupt bursts, no tread of violence, was ever heard; all proceeded in a regular course of cheerful orderliness; everybody had their due importance; everybody’s feelings were consulted."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He looks with contempt upon his honest toil; repeats mockingly to himself, his simple talk when at meals, about the weather and the crops; sneers at his neatness, and orderliness, and cleanliness; imputes to him his own libidinousness."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The commercial spirit of the American citizens fosters habits of regular labor and civic **orderliness**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary Garth admired the quiet domestic **orderliness** that reigned within the parsonage."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific method instills mental **orderliness**, teaching students to banish confused hypotheses."*

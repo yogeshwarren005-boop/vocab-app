@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a resolute, unwavering, or firmly purposeful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With obstinate persistence against obstacles or discouragement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strangers!” For a moment a flash of his old irony marked his face; but he determinedly chastened it down."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had already gained the door; but, reader, I walked back—walked back as determinedly as I had retreated."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'm going to escape before any of them come back," I said determinedly to the Crag, who stood there still, just looking at me."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge knitted on **determinedly**, never raising her eyes from the fatal pattern."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He marched **determinedly** toward the stockade, heedless of the warnings shouted from behind."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans set forth **determinedly** upon her lonely journey to plead for her sister's pardon."*

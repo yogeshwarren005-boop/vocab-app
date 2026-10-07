@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete annihilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exterminating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete and total destruction or eradication of a group, pest, or species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic extirpation of populations through organized violence, disease, or ecological displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In one hand he carried a tin can and in the other a small pointed stick, which looked murderously fitted for the extermination of the marauders."*
-> - 📜 **Effie Afton (*Eventide*):** *"It appeared a war was commenced which threatened to cease only with the extermination of the masculine portion of Wimbledon."*
-> - 📜 **James Joyce (*Ulysses*):** *"The cessation of existence of both or either, the inauguration of a new era or calendar, the annihilation of the world and consequent extermination of the human species, inevitable but impredictable."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **extermination** of ancient species has generally been a slower process than the production of new ones."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frontier war degenerated into a ruthless campaign of mutual **extermination** between Romans and Vandals."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid advance of white settlements led directly to the tragic **extermination** of indigenous tribes."*

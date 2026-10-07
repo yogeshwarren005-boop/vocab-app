@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in time or order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time or order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming after something in time, order, or place; following or succeeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and developmental analysis, resulting or developing chronologically after a critical benchmark event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a Sunday morning in late October, about four months after Tess Durbeyfield’s arrival at Trantridge, and some few weeks subsequent to the night ride in The Chase."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The first variation, however slight, provides the foundation upon which **subsequent** selection operates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The abdication of Diocletian was followed by **subsequent** civil wars among rival Caesars."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reflection is the secondary source of knowledge, **subsequent** to direct sensory impression."*

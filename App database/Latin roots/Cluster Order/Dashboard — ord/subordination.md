@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subordinate to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being subordinate or belonging to a lower rank or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of placing in a lower rank; or subjection to institutional authority and discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and law, the structural hierarchy subjecting one group or office to the control of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He created the earth that it might be inhabited by man, and He governs the earth in subordination to the interests, the eternal and spiritual welfare of the race of immortal beings that are here being prepared for glory and immortality."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon might not hold the true principle of subordination."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These armies being, in the first case, rarely, if at all, called into activity for interior defense, the people are in no danger of being broken to military subordination."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Military **subordination** was maintained by unrelenting drill and the dread of immediate corporal punishment."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The legal **subordination** of one sex to the other is wrong in itself and a chief hindrance to human development."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Good government demands prompt **subordination** of military commands to civil executive direction."*

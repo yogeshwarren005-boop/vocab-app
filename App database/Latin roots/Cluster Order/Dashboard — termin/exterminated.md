@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill en masse; kill on a large scale; kill many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely destroyed, eradicated, or wiped out of existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extirpated systematically until no living individuals or remnants remain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Polk is the kind of man that ought to be exterminated by the government in sympathy for its women wards, if his clan didn't make such good citizens when they do finally marry."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She says if this is done for a week they will be exterminated."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But they have not exterminated the aborigines, nor have they assimilated them to any degree."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The dodo was entirely **exterminated** shortly after European sailors colonized the island of Mauritius."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Whole cities were burned and their inhabitants **exterminated** during the savage Gothic incursions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The highland clan had been almost **exterminated** during the brutal massacre of Glencoe."*

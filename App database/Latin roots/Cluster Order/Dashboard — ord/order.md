@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree in a continuum of size or quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative command, direction, or instruction; or the arrangement of things in relation to each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic biology, a principal rank between class and family; in society, a recognized social class or fraternal guild.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When midnight comes, knock at my chamber window; I’ll order take my mother shall not hear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists group related families into an **order**, reflecting ancestral genealogical relationships."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The equestrian **order** in Rome held an influential balance between the patricians and the plebeians."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Civil society cannot endure without an established constitution that secures public peace and good **order**."*

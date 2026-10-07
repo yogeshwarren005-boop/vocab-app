@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who places an order to buy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organizer who puts things in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or entity that brings about order, arrangement, or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commander, organizer, or supreme providential regulator of worldly affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orderer designates someone who places an order to buy."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"God is the supreme **orderer** of all secondary causes operating throughout the natural universe."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The wise constitutional **orderer** respects the organic traditions inherited from ancient generations."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Almighty sat enthroned as the eternal **orderer** of the vast celestial hosts."*

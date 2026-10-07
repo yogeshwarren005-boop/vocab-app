@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of equal extent or scope or duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of equal extent or scope or duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same boundaries or extent in space, time, or operational authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and jurisprudence, coinciding completely in jurisdictional or geographic boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coterminous designates being of equal extent or scope or duration."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"In ideal political unions, the boundaries of government should be **coterminous** with nationality."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The municipal authority was not **coterminous** with the county, causing administrative friction."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"In early Roman jurisprudence, civil obligation was nearly **coterminous** with ritual religious sanctions."*

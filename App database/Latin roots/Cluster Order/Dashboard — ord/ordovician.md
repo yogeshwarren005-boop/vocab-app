@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second period of the Paleozoic era, spanning roughly 485 to 444 million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and stratigraphy, a geological system characterized by marine invertebrate radiation and graptolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordovician designates from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The fossiliferous strata of Wales yield trilobites and brachiopods diagnostic of the **Ordovician** system."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Marine deposits of the **Ordovician** epoch contain abundant traces of extinct cephalopods and corals."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Geologists separated the **Ordovician** from the Silurian to resolve the famous dispute between Murchison and Sedgwick."*

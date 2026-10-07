@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being predictable with great confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being predictable with great confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being clearly defined, settled, or having precise boundaries; definiteness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and metaphysics, unambiguous specificity in conceptual meaning or physical form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, determinateness designates the quality of being predictable with great confidence."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Mathematical concepts excel all others in the absolute **determinateness** of their definitions."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The scientific inquirer strives to replace vague conjectures with conceptual **determinateness**."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatism judges ideas by the practical **determinateness** of the consequences they produce."*

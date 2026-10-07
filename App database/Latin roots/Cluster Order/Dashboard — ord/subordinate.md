@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more specific than a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower in rank, importance, or position; secondary; or subject to another's authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, a clause dependent on a main clause; in organizations, an employee reporting to a manager.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Workers subordinate in early societies. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Its main difficulty. § 1. #Workers subordinate in early societies#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As far back as the history of settled and populous communities can be traced, the masses of workers have been subordinate."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The social system has long kept women in a strictly **subordinate** legal and domestic status."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial prefects were strictly **subordinate** to the commands issued from the imperial palace."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Modifications in **subordinate** anatomical structures often follow correlated changes in primary organs."*

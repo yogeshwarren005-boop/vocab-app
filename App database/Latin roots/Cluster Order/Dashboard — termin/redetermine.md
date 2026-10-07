@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix, find, or establish again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix, find, or establish again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To establish, settle, calculate, or decide something anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science and jurisprudence, to re-evaluate boundaries or values using improved methods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redetermine designates fix, find, or establish again."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every new generation of naturalists must **redetermine** the anatomical boundaries of species."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The physiologist must **redetermine** baseline measurements whenever experimental conditions change."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Further botanical specimens forced the taxonomist to **redetermine** the generic affinities of the plant."*

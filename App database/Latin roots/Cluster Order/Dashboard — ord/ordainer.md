@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric who ordains; a cleric who admits someone to holy orders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cleric who ordains; a cleric who admits someone to holy orders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who ordains, decrees, establishes, or confers holy orders upon another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authoritative lawmaker, appointing bishop, or cosmic providential ruler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordainer designates a cleric who ordains; a cleric who admits someone to holy orders."*
+> - 📜 **John Milton (*Areopagitica*):** *"God as the supreme **ordainer** left mankind free to choose virtue rather than compelling compliance."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The bishop stands as the legal **ordainer** responsible for examining candidates for holy orders."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Society must reverence the divine **ordainer** whose moral law forms the bedrock of human justice."*

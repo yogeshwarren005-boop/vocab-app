@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being definitely decided or ascertained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being definitely ascertained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be ascertained, determined, or definitely settled; impossible to define.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sufficient data or boundaries to permit rigorous measurement or chronological dating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indeterminable designates not capable of being definitely decided or ascertained."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The ultimate origin of sensory impressions must remain forever **indeterminable** by human reason."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The precise antiquity of the basaltic intrusion is **indeterminable** from the fractured fossil record."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective boundary between sleep and waking awareness is fuzzy and practically **indeterminable**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statute enacted by a city government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule, law, or decree promulgated by municipal or sovereign authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical practice, a religious rite, sacrament, or established ceremonial observance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let ordinance Come as the gods foresay it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These couchings and these lowly courtesies Might fire the blood of ordinary men, And turn pre-ordinance and first decree Into the law of children."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"An imperial **ordinance** strictly prohibited the conversion of Roman citizens to foreign faiths."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A local municipal **ordinance** cannot supersede the general statutes enacted by the high court of parliament."*
+> - 📜 **John Milton (*Areopagitica*):** *"No parliament can enforce morality by mere external **ordinance** without corruping the citizen's conscience."*

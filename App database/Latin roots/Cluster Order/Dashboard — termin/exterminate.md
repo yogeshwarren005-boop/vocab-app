@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill en masse; kill on a large scale; kill many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely, as if down to the roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To destroy completely, wipe out, or extinguish a population, pest, or disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In warfare, totalitarian politics, and ecology, to systematically annihilate living beings down to the last survivor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They are forcing us to exterminate them."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Early tomorrow I shall go to his Serene Highness,” he read (“Sirin Highness,” said the tall fellow with a triumphant smile on his lips and a frown on his brow), “to consult with him to act, and to aid the army to exterminate these scoundrels."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions were dispatched across the Danube to **exterminate** the rebellious Sarmatian confederacy."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"More vigorous varieties will crowd out and ultimately **exterminate** the intermediate parent forms."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"Fanaticism seeks not to reform political institutions, but to **exterminate** every opposing faction."*

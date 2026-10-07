@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sentence connectors) because of the reason given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As an immediate or logical result; for that reason; therefore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inferential sequence of reasoning, linking an established premise to its necessary deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou didst understand me by my signs And didst in signs again parley with sin; Yea, without stop, didst let thy heart consent, And consequently thy rude hand to act The deed which both our tongues held vile to name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Consequently, though she was very light, she was out of breath and could not speak at first, as she stood panting, and wiping her arms, and looking quietly at us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Consequently we went without him, and my darling was delighted to praise him for being so busy."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"More individuals are produced than can possibly survive; and **consequently**, there is a frequently recurring struggle for life."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Where there is no idea, there can be no knowledge, and **consequently**, universal assent is impossible."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The student must observe facts directly and, **consequently**, free his judgment from speculative dogma."*

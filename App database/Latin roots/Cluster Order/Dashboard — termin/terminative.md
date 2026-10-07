@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming to an end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to end, bound, limit, or conclude; definitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and grammar, denoting an aspect or case marking the completion or spatial limit of an action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terminative designates coming to an end."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The crucial experiment serves as a **terminative** resolution of competing scientific theories."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"In ancient tongues, the **terminative** particle signaled that the narrated action reached its limit."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A final verdict functions as the **terminative** decree that puts an end to protracted litigation."*

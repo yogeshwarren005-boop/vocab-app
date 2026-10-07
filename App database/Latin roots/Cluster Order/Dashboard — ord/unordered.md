@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in order hierarchically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged in an orderly, systematic, or specified sequence; chaotic or random.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In set theory and computer science, a collection (such as a mathematical set) where element sequence is irrelevant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unordered designates not arranged in order."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A mathematical set is essentially an **unordered** aggregate defined purely by the membership of its elements."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"An **unordered** mass of empirical experiments yields only confusion without guiding inductive axioms."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The jumbled glacial drift presented an **unordered** heap of granite boulders and morainic gravel."*

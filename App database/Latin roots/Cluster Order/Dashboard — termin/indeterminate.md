@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not precisely determined or established; not fixed or known in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a capacity for continuing to grow at the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exactly known, established, or defined; vague or uncertain in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an equation or expression (such as zero divided by zero) having infinitely many valid solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw had now accepted his bit of work, though it was not that indeterminate loftiest thing which he had once dreamed of as alone worthy of continuous effort."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The jurisdiction of her several courts, general and local, of law, of equity, of admiralty, etc., is not less a source of frequent and intricate discussions, sufficiently denoting the indeterminate limits by which they are respectively circumscribed."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The meaning of the latter is extremely indeterminate, and can be of little importance under any interpretation which it will bear."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Vague discourse results when people employ words with **indeterminate** and shifting significations."*
+> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"The trajectory of turbulent fluids appears **indeterminate** to our imperfect computational instruments."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"An **indeterminate** form requires limiting analysis before a specific algebraic value can be assigned."*

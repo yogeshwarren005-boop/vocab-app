@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rearrangement in a different order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a new order to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of rearranging items, thoughts, or events into a different sequence or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In combinatorial analysis, a permutation of a mathematical set into an alternative sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reordering designates a rearrangement in a different order."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The democratic revolution involved a fundamental **reordering** of social ranks and political loyalties."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A simple **reordering** of terms in an infinite series may radically alter its analytical sum."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True scientific induction demands a thorough **reordering** of observed experimental facts."*

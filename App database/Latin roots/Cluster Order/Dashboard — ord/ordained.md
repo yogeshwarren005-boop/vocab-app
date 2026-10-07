@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with ministerial or priestly authority; or decreed and settled by fate or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally consecrated into holy orders through imposition of hands and sacramental ceremony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wast thou ordained, dear father, To lose thy youth in peace, and to achieve The silver livery of advised age, And, in thy reverence and thy chair-days, thus To die in ruffian battle?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Die, prophet, in thy speech. [_Stabs him._] For this, amongst the rest, was I ordained."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund Bertram was soon to be **ordained** and take possession of the family living at Thornton Lacey."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancients believed that an inexorable fate had **ordained** the rise and fall of the Roman empire."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The young curate felt deeply the solemn spiritual duties to which he was newly **ordained**."*

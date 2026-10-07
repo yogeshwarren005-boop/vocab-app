@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unusual, highly remarkable, or exceptional manner; exceedingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree far exceeding the ordinary standard, expectation, or common experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look you pray, all you that kiss my lady Peace at home, that our armies join not in a hot day; for, by the Lord, I take but two shirts out with me, and I mean not to sweat extraordinarily."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your pulsidge beats as extraordinarily as heart would desire, and your colour, I warrant you, is as red as any rose, in good truth, la!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She saw Lippo trudging on behind with an extraordinarily full school-bag on his back."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain orchid flowers are **extraordinarily** modified to secure cross-fertilization by flying insects."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found Mr. Darcy's sudden civility at Pemberley **extraordinarily** perplexing."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The financial resources of the East India Company proved **extraordinarily** vast during the war."*

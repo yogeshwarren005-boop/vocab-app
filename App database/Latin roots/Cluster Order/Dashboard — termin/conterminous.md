@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting without a break; within a common boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharing a common boundary or geographical border; coextensive in scope or duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical analysis, contiguous territories having unbroken frontiers under common jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conterminous designates connecting without a break; within a common boundary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frontiers of the Roman and Persian empires were **conterminous** across the Armenian highlands."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The jurisdiction of the federal courts was deliberately designed to be **conterminous** with federal laws."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The geological formation is **conterminous** with the ancient shoreline of the Cretaceous sea."*

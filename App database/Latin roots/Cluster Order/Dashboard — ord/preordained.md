@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreordain or determine beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreordain or determine beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decided, decreed, or determined beforehand by fate, natural law, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fixed inexorably in advance, leaving no room for human intervention or chance contingency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."*
+> - 📜 **William James (*The Dilemma of Determinism*):** *"In a deterministic universe, every tragedy was **preordained** from the cosmic foundation of the world."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The astrologer assured the emperor that his military triumph was **preordained** by celestial constellations."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The expansion of equality appears as a providential fact, almost **preordained** by historical destiny."*

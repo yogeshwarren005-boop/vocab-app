@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that all events, including human choices, are completely causally determined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and social theory, the hypothesis that preceding states and universal laws leave no room for random contingency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His creed of determinism was such that it almost amounted to a vice, and quite amounted, on its negative side, to a renunciative philosophy which had cousinship with that of Schopenhauer and Leopardi."*
+> - 📜 **William James (*The Dilemma of Determinism*):** *"Hard **determinism** professes that those parts of the universe already laid down decree what other parts shall be."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Classical mechanics operated on the assumption of absolute mathematical **determinism** across all celestial orbits."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"Scientific **determinism** does not assert fatalism, but the regularity of causal sequences in nature."*

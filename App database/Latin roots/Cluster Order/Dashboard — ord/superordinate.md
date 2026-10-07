@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of greater rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more generic than a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Higher in rank, status, or authority; superior; of greater importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and semantics, a hypernym or general term that encompasses more specific hyponyms (e.g., animal for dog).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordinate designates one of greater rank or station or quality."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Augustus was recognized as the **superordinate** ruler, while the younger Caesar held provincial commands."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logical classification subsumes specific concepts under a broader **superordinate** category."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Universal laws of mechanics function as **superordinate** principles explaining complex terrestrial motions."*

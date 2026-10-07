@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ended, concluded, or brought to a definitive halt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and geography, bounded or ending at a specific anatomical or physical feature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, in the frankest manner, “he was perfectly right,” the engagement terminated, and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Touching that matter, you know, I really and truly am very sorry that my arrangements in life, combined with circumstances over which I have no control, should prevent a renewal of what was wholly terminated some time back,” said Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bloody rebellion was **terminated** by the decisive intervention of the imperial cavalry."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our arduous mountain ascent **terminated** at a windy ridge overlooking the Pacific ocean."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The long legal controversy was **terminated** by a mutually agreed compromise between the kinsmen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secondary importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secondary importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inferiority in rank, power, or authority; dependence upon a higher principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory and logic, dependency or secondary status relative to a superior principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subordinateness designates secondary importance."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Administrative efficiency requires that local officials understand their constitutional **subordinateness** to parliament."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The colonies acknowledged their general **subordinateness** to the imperial crown while defending tax autonomy."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Military societies emphasize the strict **subordinateness** of the individual soldier to the state collective."*

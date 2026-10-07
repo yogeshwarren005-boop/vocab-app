@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judge of a probate court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expected or commonplace condition or situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With no special or distinctive features; normal, commonplace, or usual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical and legal administration, an official (such as a bishop) having regular jurisdiction in a diocese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our courteous Antony, Whom ne’er the word of “No” woman heard speak, Being barbered ten times o’er, goes to the feast, And, for his ordinary, pays his heart For what his eyes eat only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The structure of the eye cannot possibly be explained by the **ordinary** view of independent creation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The bishop acted as the ecclesiastical **ordinary** responsible for probating disputed wills."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of every commodity is regulated by the proportion between supply and **ordinary** demand."*

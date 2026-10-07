@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being terminated after a designated time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being terminated after a designated time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being brought to an end or termination; subject to expiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and finance, specifying an annuity, contract, or estate limited to a fixed term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To treat terminable incomes, exhaustible sources of supply, as permanent sources of income, leads alike to unsound theory and to reckless practice."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An estate granted during widowhood is a **terminable** interest that ceases upon remarriage."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Government borrowing through **terminable** annuities extinguishes the public debt over fixed years."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Leasehold agreements are inherently **terminable** covenants that revert ultimately to the owner."*

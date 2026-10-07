@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set apart from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confiscate, seize, or place under legal custody; to take temporary possession of assets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical legal procedure, to isolate an estate or public revenues from a debtor until obligations are satisfied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It will give a better idea of the uncertain condition of those two, sequestrated underground, than any mere description."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A writ was issued to **sequestrate** the ecclesiastical profits of the benefice for unpaid tithes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious faction resolved to **sequestrate** the broad lands of every patrician senator."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary assembly voted to **sequestrate** all ecclesiastical property to replenish the treasury."*

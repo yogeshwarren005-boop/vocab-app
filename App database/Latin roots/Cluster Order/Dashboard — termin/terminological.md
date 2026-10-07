@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning terminology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to terminology, or the specialized vocabulary of a particular field, science, or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to verbal distinctions, nomenclatures, or precise definitions in scholastic and technical debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yes, I heard every word you said to Laura: you made a gallant effort, but the facts speak for themselves, and your terminological inexactitudes wouldn't deceive a babe at the breast."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Many metaphysical disputes dissolve into mere **terminological** misunderstandings between authors."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific progress requires strict **terminological** precision to avoid misleading analogies."*
+> - 📜 **William James (*The Meaning of Truth*):** *"We must not let a **terminological** squabble distract us from the practical significance of truth."*

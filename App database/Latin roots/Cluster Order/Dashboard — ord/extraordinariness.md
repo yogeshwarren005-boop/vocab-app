@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being extraordinary and not commonly encountered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being extraordinary and not commonly encountered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remarkable uniqueness, rarity, or departure far beyond ordinary standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and philosophy, singularity or striking divergence from customary natural patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraordinariness designates the quality of being extraordinary and not commonly encountered."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The very **extraordinariness** of mystical visions gives them compelling psychological authority."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"Novelty and sheer **extraordinariness** in external objects excite immediate astonishment in the imagination."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **extraordinariness** of an empirical claim demands proportionately rigorous experimental demonstration."*

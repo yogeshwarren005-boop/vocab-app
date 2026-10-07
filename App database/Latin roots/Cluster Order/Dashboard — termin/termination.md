@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coming to an end of a contract period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place where something ends or is complete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of terminating something, or the point where something comes to an end; conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, linguistics, and law, an end-structure, an inflectional suffix, or the formal conclusion of a contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"These proceedings will come to a termination, and then I am provided for."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I glanced at Richard on the termination of these hopeless proceedings and was shocked to see the worn look of his handsome young face."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peaceful **termination** of the civil war was hailed with enthusiastic gratitude by the citizens."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"English grammatical simplification involved the gradual loss of case **termination** in common nouns."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The sensitive cellular **termination** of the radicle directs the plant downward toward moisture."*

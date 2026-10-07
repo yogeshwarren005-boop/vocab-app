@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where something ends or is complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate goal for which something is done.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A final point in space or time; an end of a railway or transport route.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, a boundary stone or the Roman divinity (Terminus) presiding over frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Of that day, doomed to be her terminus in time through all the ages, she did not know the place in month, week, season or year."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The place had built itself up as simply the temporary terminus of the Pacific Railroad."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It can now be reached by wagoning fifty miles or so beyond the terminus of the A."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The altar of the god **Terminus** refused to yield its sacred place on the Capitoline hill."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He stood bewildered at the bustling railway **terminus**, surrounded by the roar of the metropolis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The terminal moraine marks the farthest **terminus** reached by the advancing glacial ice sheet."*

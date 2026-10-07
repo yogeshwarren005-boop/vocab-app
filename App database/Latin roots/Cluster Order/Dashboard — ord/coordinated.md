@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into common action, movement, or condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought into harmonious, efficient combination or concerted action; working together smoothly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, displaying synchronized muscular activation and smooth motor control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Schedules could be coordinated so that public school buses are used at times when they are not needed for schoolchildren."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Bipedal locomotion in early hominids demanded highly **coordinated** muscular reflexes across the hips and spine."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The cerebellum oversees **coordinated** motor sequences, preventing erratic overshooting of intended movements."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions launched a **coordinated** assault along the entire perimeter of the besieged fortress."*

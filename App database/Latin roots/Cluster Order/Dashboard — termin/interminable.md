@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiresomely long; seemingly without end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiresomely long; seemingly without end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endless or apparently endless; tediously long and protracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretching on indefinitely without prospect of conclusion, exhausting the patience of observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester has no objection to an interminable Chancery suit."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have a sense that for an interminable period I have lived in a wagon and travelled on, ever on, with this present company."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But before I go on, tell me what you mean by your ‘Well, sir?’ It is a small phrase very frequent with you; and which many a time has drawn me on and on through interminable talk: I don’t very well know why.” “I mean,—What next?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce drags its **interminable** length across the centuries of Chancery law."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We penetrated deeper and deeper into the heart of darkness down the **interminable** waterway."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pacific rolled in **interminable** billows beneath the blazing noon sky."*

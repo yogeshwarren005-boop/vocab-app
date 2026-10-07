@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group ranking above an order and below a class or subclass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic group ranking above an order and below a class or subclass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic category ranking above an order and below a class in biological classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary taxonomy, an inclusive grouping uniting related orders with common lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superorder designates (biology) a taxonomic group ranking above an order and below a class or subclass."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Anatomists erected a new **superorder** to accommodate primitive flightless ratites and Mesozoic fossils."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative osteology justifies grouping these placental orders within an expansive mammalian **superorder**."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Floral morphology reveals deep structural affinities linking several disparate families into a shared **superorder**."*

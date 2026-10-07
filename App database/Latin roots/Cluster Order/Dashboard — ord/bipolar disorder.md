@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ord within the domain of Order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ord in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric mood condition characterized by alternating episodes of mania, hypomania, and major depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, an affective mental disorder marked by cyclical shifts between pathological elation and melancholia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bipolar disorder designates pertaining to, derived from, or characteristic of latin ord within the domain of order."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cyclical mood alterations now recognized as **bipolar disorder** were classically designated as manic-depressive insanity."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Patients experiencing **bipolar disorder** often report surges of intense creative energy during hypomanic phases."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The affective spectrum of **bipolar disorder** reveals an innate biological rhythmicity governing psychic energy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submissive to authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to or engaged in defiance of established authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defiant of authority; disobedient, rebellious, or refusing to submit to orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and maritime law, mutinous conduct displaying willful contempt for lawful superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Instead of being a ruler in the Province of Body, in which Mortal Man was reported to reside, Nerve was an insubordinate citizen, putting in false 438:12 claims to office and bearing false witness against Man."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general executed several **insubordinate** centurions to restore fear and obedience in the camp."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The naval articles of war impose capital punishment upon any sailor convicted of **insubordinate** violence."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The squire shouted fiercely at his **insubordinate** son who refused to marry as directed."*

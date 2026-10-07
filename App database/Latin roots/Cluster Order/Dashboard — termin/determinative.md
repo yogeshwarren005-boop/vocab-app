@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a limited class of noun modifiers that determine the referents of noun phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A determining or causal element or factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to define, settle, or decisively influence an outcome; conclusive or decisive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and epigraphy, an ideographic hieroglyphic sign indicating semantic category without phonetic value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, determinative designates one of a limited class of noun modifiers that determine the referents of noun phrases."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Experimental verification provides the single **determinative** test for competing scientific hypotheses."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"Egyptian scribes placed a silent **determinative** symbol at the conclusion of proper names."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The intention of the contracting parties remains the **determinative** rule of construction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking worth or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not following logically as a consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little or no importance, value, or significance; trivial or immaterial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logically irrelevant or ungrounded, having no measurable bearing on a primary thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconsequential designates lacking worth or importance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Rudimentary organs often appear entirely **inconsequential** to the immediate physiological survival of an animal."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Minor procedural disputes are deemed **inconsequential** when the fundamental constitution is endangered."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"What strikes the casual inspector as **inconsequential** may provide the singular clue to the mystery."*

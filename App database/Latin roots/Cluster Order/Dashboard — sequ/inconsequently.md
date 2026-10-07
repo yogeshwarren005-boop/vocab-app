@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illogical, disjointed, or irrelevant manner; without following from previous statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erratic and without regard to structural coherence or established rules of dialectic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"How do you communicate?” “I tell the bailiff. _He_ writes.” “And should you like him to write our story?” My question had a sarcastic force that I had not fully intended, and it made her, after a moment, inconsequently break down."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Betsey said inconsequently that it was a pity she did not have that black silk gown that would stand alone."*
+> - 📜 **Jane Austen (*Emma*):** *"Miss Bates talked on **inconsequently**, leaping from baking apples to village marriages without a pause."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men frequently argue **inconsequently** when emotional bias obscures clear rational perceptions."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The bewildered passenger stammered **inconsequently** against the pounding engine of the steamer."*

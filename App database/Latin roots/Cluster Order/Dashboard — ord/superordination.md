@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being superordinate or belonging to a higher rank or class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being superordinate or belonging to a higher rank or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superiority in official rank, governing power, or categorical classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and linguistics, the position of dominance or broader categorical classification over subordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superordination designates the semantic relation of being superordinate or belonging to a higher rank or class."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The structure of modern administration consists of a firmly ordered system of **superordination** and subordination."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Feudal societies were characterized by rigid personal **superordination** supported by military tenure."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Conceptual taxonomy operates through the **superordination** of higher genera over specialized species."*

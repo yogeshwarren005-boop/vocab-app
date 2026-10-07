@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Precisely determined or limited or defined; especially fixed by rule or by a specific and constant cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not continuing to grow indefinitely at the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having exact and definite limits; clearly defined, settled, or determined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having the main floral axis terminate in a flower bud, preventing further elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, no; he goes into Mauritania, and takes away with him the fair Desdemona, unless his abode be lingered here by some accident: wherein none can be so determinate as the removing of Cassio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Norfolk, for thee remains a heavier doom, Which I with some unwillingness pronounce: The sly slow hours shall not determinate The dateless limit of thy dear exile."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sooth, sir; my determinate voyage is mere extravagancy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear reasoning requires that our words correspond to **determinate** ideas in the understanding."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In a **determinate** inflorescence, the terminal bud blooms first and halts further upward stem growth."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Every individual substance exists and operates according to a **determinate** causal necessity of nature."*

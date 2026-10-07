@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determining again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determining again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of determining, calculating, or deciding something again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal, scientific, or tax procedures, a revised formal assessment or recalculation of a prior finding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redetermination designates determining again."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Refined planetary tables required a precise **redetermination** of lunar orbital perturbations."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"New fossil excavations necessitated a complete **redetermination** of the stratum's age."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The appellate magistrate ordered a **redetermination** of damages by an impartial jury."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being vague and poorly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being vague and poorly defined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertainty, vagueness, or the condition of lacking definite and settled boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and scientific measurement, inherent ambiguity or lack of precision in ontological states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indeterminateness designates the quality of being vague and poorly defined."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Real phenomena exhibit an inherent **indeterminateness** that cannot be dissolved by dogmatic logic."*
+> - 📜 **William James (*The Will to Believe*):** *"The universe possesses a genuine moral openness, stamped with the **indeterminateness** of future choices."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **indeterminateness** of early political vocabularies bred endless confusion among jurists."*

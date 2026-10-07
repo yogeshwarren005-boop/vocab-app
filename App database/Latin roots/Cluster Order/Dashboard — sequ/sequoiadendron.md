@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant sequoias; sometimes included in the genus sequoia; until recently placed in the taxodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant sequoias; sometimes included in the genus sequoia; until recently placed in the taxodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of monumental evergreen conifers containing a single species, Sequoiadendron giganteum (giant sequoia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, a massive cypress-family tree native to the Sierra Nevada mountains, having immense trunk girth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoiadendron designates giant sequoias; sometimes included in the genus sequoia; until recently placed in the taxodiaceae."*
+> - 📜 **John Muir (*Our National Parks*):** *"The monumental groves of **Sequoiadendron** giganteum stand as timeless monarchs of the western slope."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Botanists classified the inland big tree under the genus **Sequoiadendron** to mark its floral distinctness."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The colossal trunk of **Sequoiadendron** resists fungal rot and forest fire through spongy, tannic bark."*

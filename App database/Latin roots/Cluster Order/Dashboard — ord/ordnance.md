@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large but transportable armament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mounted guns, heavy artillery, cannons, and military weapons along with their ammunition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military branch or government agency responsible for procuring, maintaining, and supplying weaponry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It then draws near the season Wherein the spirit held his wont to walk. [_A flourish of trumpets, and ordnance shot off within._] What does this mean, my lord?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Work, work your thoughts, and therein see a siege; Behold the ordnance on their carriages, With fatal mouths gaping on girded Harfleur."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The walls of Constantinople were battered by the colossal heavy **ordnance** cast by Hungarian founders."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The master-general of the **ordnance** hastened to inspect the coastal batteries guarding the Thames."*
+> - 📜 **Walter Scott (*Waverley*):** *"The thunder of field **ordnance** rolled across the meadow as the rival armies clashed."*

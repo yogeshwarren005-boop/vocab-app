@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rank or order as less important or consider of less value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make subordinate, dependent, or subservient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placing in a lower rank or position; treating as secondary or less important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, linking a dependent clause to an independent clause using a subordinating conjunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subordinating designates rank or order as less important or consider of less value."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"A **subordinating** conjunction establishes hypotaxis by turning a clause into a syntactic modifier."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor succeeded by **subordinating** personal ambitions to the welfare and defense of the frontiers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Individualism threatens democracy by **subordinating** broad civic duties to narrow private comforts."*

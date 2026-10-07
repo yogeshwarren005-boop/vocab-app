@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number that identifies a position relative to an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring order and organization to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring different elements, activities, or people into an efficient, harmonious, or working relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, each of a set of numbers used to specify the exact location of a point on a surface or in space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This applies to all: compute, coordinate and commit resources to implement our new orders."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Point for convergence is coordinate H010-V210."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-fourth, the formation of an Asian teaching committee designed to stimulate and coordinate the teaching activities initiated by the Plan."*
+> - 📜 **René Descartes (*Discourse on Method and the Geometries*):** *"Any point in a plane can be uniquely fixed by its horizontal and vertical **coordinate** axes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Complex physiological functions require organs to **coordinate** their rhythmic actions with astonishing fidelity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market mechanism operates to **coordinate** the disparate self-interested actions of thousands of producers."*

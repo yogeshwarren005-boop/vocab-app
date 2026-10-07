@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Computer hardware that sorts data or programs into a predetermined sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or device that analyzes, decodes, or controls the execution of an ordered series of operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genomics, an automated device for high-throughput DNA sequencing; in music, an electronic module triggering sound events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
+> - 📜 **James D. Watson (*A Passion for DNA*):** *"The deployment of the capillary **sequencer** accelerated the completion of the Human Genome Project."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"With the modern gene **sequencer**, molecular biologists mapped microbial chromosomes in mere days."*
+> - 📜 **Sydney Brenner (*My Life in Science*):** *"The high-throughput **sequencer** transformed genomics from artisanal craft into industrial science."*

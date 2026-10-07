@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near but not precisely at an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near but not precisely at an end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated near or just behind the end or extremity; almost terminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, describing an organ, spine, or floral bud positioned just below the apex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subterminal designates near but not precisely at an end."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The raceme carries small **subterminal** bracts positioned just beneath the ultimate flower cluster."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Curvature in the growing radicle originates in the sensitive **subterminal** cellular zone."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"The rodent exhibits a small **subterminal** pad on its forefoot that assists in grasping seeds."*

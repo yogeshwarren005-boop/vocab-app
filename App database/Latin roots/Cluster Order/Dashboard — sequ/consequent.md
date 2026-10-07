@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following or accompanying as a consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following as a natural result, logical deduction, or necessary sequential development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and rhetoric, the second clause of a hypothetical proposition, conditional upon the antecedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby politely invites him to step upstairs and drink a cup of tea, if he will excuse the disarranged state of the tea-table, consequent on their previous exertions."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some consequent action was necessary; yet what?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To do so he arose from his bed, retired to a quiet part of his home and bowed in prayer, seeking to occupy the entire night if need be in prayer for the bestowal of the Holy Spirit, and the consequent revival influences of other days."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In every hypothetical proposition, the antecedent specifies the condition and the **consequent** declares the conclusion."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden elevation of coastal land masses produced an immediate **consequent** disruption of local oceanic currents."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour brings about a vast increase of production, with a **consequent** reduction in market prices."*

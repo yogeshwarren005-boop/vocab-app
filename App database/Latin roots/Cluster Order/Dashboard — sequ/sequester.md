@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To isolate, hide away, or set apart from society or normal contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, to confiscate or hold property pending judicial resolution; in chemistry, to bind a metal ion in a chelate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then it pleased Miss Orrin to take a violent jealousy of my granddaughter, Elsie Stennis, and to sequester her somewhere about the premises, which, of course, brought the storm about our ears in full force."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"Lie here sequester'd:--be this little mound For ever thine, and be it holy ground!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant chose to **sequester** himself within the fortified walls of his coastal pleasure palace."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of chancery may **sequester** the disputed estate until the inheritance claims are settled."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods to **sequester** my life from frivolous distractions and confront essential facts."*

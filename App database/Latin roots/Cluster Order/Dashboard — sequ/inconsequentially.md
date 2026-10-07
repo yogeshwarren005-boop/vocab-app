@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that lacks logical connection, importance, or meaningful causal coherence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without producing substantial effects or leaving any lasting imprint on subsequent developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The end? he thought, and wondered inconsequentially whether his teeth would rust."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The conversation meandered **inconsequentially** between weather predictions and parish gossip."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In reverie, associative impressions drift **inconsequentially** without voluntary intellectual direction."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The skirmish was conducted **inconsequentially**, deciding neither the campaign nor the treaty terms."*

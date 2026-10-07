@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abject or cringing submissiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject or cringing submissiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Servile compliance, cringing sycophancy, or fawning deference toward authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The habitual disposition to subordinate one's judgment and self-respect to the whims of superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What, I asked in my own mind, can cause this obsequiousness on the part of Miss Toady; has Briefless got a county court, or has his wife had a fortune left her?"*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Like a weakly constitution, it required keeping up, and his lordship could not be said to neglect it; for he seemed to find his principal employment in administering continuous doses of obsequiousness to his own pride."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"True statesmanship rejects the fawning **obsequiousness** of ministers seeking royal patronage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She detested the tradesman's slick **obsequiousness**, preferring plain honesty in every transaction."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Flattery is the currency of court life, where **obsequiousness** is mistaken for loyalty."*

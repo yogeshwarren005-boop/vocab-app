@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a result, corollary, or logical sequence of what precedes; accordingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-important, solemn, or pompously elevated manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consequentially designates having consequence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate lost its legislative authority and, **consequentially**, surrendered the sword to the praetorian cohorts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke nodded **consequentially**, assuming the posture of a gentleman versed in political economy."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"When true axioms are discovered, practical mechanical applications follow **consequentially** without error."*

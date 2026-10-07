@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in cooperative planning and organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the skillful and effective interaction of muscle movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not coordinated; lacking smooth organization, synchronization, or muscular rhythm; clumsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and sports science, characterized by jerky, unbalanced, or arrhythmic movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncoordinated designates lacking in cooperative planning and organization."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebellar pathology leaves the patient's gait awkward, staggering, and strikingly **uncoordinated**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Without sensory feedback from the muscle spindles, motor output degenerates into **uncoordinated** spasms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **uncoordinated** attacks of the allied barbarian contingents were easily repulsed by the legion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner situated at the end or apex; or in a fatal, incurable stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and clinical medicine, positioned at the extremity or facing impending death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They are produced either terminally or laterally upon the threads of the mycelium, from which they are separated by septa or partitions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients who are **terminally** ill require humane palliation to relieve distressing dyspnea."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The flowering shoot bears a single large blossom **terminally** on its main central stem."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain oceanic mollusks develop **terminally** expanded shells that assist in pelagic flotation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to an end or halt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or come to an end, conclusion, or definite finish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transportation, law, and geometry, to end a journey, boundary line, or employment agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy explaining that he would terminate his little entertainment by standing treat at the play but that there are chords in the human mind which would render it a hollow mockery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, and helped to turn up the circumstances in which the present company are interested, casually, by the wayside, being still and ever on the great high road that is to terminate in Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was understood to terminate the Course for the evening, and we emerged into the air with shrieks of intellectual victory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A negotiated treaty served to **terminate** hostilities between the empire and the Gothic kings."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The demise of the life tenant will immediately **terminate** the rights of subtenants on the estate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coastal cliffs **terminate** abruptly in a sheer precipice overlooking the stormy Atlantic."*

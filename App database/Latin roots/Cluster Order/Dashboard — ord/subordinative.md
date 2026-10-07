@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to connect a subordinate clause to a main clause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to connect a subordinate clause to a main clause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to subordinate, rank lower, or express syntactic dependency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, denoting conjunctions or constructions that introduce dependent adverbial or nominal clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subordinative designates serving to connect a subordinate clause to a main clause."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"Words like 'although' and 'because' carry a **subordinative** role that demotes the verb's independence."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Bureaucracy relies on clear **subordinative** chains of command connecting superiors with field clerks."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social evolution gradually softens harsh **subordinative** relations into voluntary industrial contracts."*

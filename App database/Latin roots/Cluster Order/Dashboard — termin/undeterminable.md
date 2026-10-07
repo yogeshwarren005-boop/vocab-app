@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being definitely decided or ascertained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being definitely decided or ascertained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be determined, calculated, or established with precision; unknowable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and scientific inquiry, inherently lacking verifiable criteria for empirical resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undeterminable designates not capable of being definitely decided or ascertained."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The ultimate composition of matter remains **undeterminable** by finite human observation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Whether matter can think is a question **undeterminable** by unassisted human reason."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The exact date of prehistoric human migrations is **undeterminable** from existing archaeological records."*

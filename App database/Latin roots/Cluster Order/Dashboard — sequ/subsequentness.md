@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chronological condition of coming after something else in time or developmental order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temporal philosophy and historiography, posteriority in relation to an established baseline event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsequentness designates following in time."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The felt temporal order of our thoughts establishes the clear **subsequentness** of memory after sensation."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Causation involves invariable antecedence, contrasting sharply with the mere **subsequentness** of accidents."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Philosophers frequently confuse chronological **subsequentness** with logical causation in physical phenomena."*

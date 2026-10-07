@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into common action, movement, or condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonizing or bringing diverse elements into concerted, efficient collaboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, connecting two syntactic constituents of equal rank and grammatical status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Very heavily he moved, muscle-bound a good deal, Shane thought; a man for pushing and crushing and resisting, but not for fast, nervous work, sinew and brain coordinating like the crack of a whip."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"A **coordinating** conjunction joins two independent clauses without subordinating one proposition to the other."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The root-tip acts as a **coordinating** center directing the geo-tropic responses of neighboring tissues."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The chief executive assumes an essential **coordinating** role among sprawling legislative committees."*

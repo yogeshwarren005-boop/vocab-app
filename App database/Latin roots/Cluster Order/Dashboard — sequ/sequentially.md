@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a consecutive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a consecutive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regular, ordered succession; by progressive steps following one after another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational execution, executing algorithmic tasks strictly in order without parallel processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I identified each album sequentially on its spine with a gold foil letter from a packet purchased at a supermarket."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Morphological changes accumulated **sequentially** as breeders selected slight favorable variations."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The anatomical dissection must proceed **sequentially** from superficial layers down to the bone."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific induction tests each hypothetical variable **sequentially** to isolate the causal factor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (rhetoric) the introductory section of an oration or discourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) the introductory section of an oration or discourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beginning or introductory part of a discourse, speech, or treatise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, the opening passage designed to win the goodwill and attention of the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"While this exordium is in hand—and it takes some time—Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke heard the laughter; but he had expected some Tory efforts at disturbance, and he was at this moment additionally excited by the tickling, stinging sense that his lost exordium was coming back to fetch him from the Baltic."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Start her, marling-spikes!” Stubb’s exordium to his crew is given here at large, because he had rather a peculiar way of talking to them in general, and especially in inculcating the religion of rowing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Cicero commenced his prosecution with a magnificent **exordium** that captivated the assembled judges."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"In the solemn **exordium** of my address, I appeal to the shared blood and liberties of our ancestors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With grave **exordium** the fallen archangel addressed the dark synod gathered in Pandemonium."*

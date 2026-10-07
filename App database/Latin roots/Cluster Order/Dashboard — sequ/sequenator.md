@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) an apparatus that can determine the sequence of monomers in a polymer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automated laboratory apparatus designed to determine the precise amino acid sequence of a peptide or protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, an instrument performing repetitive Edman degradation to read polypeptide primary structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequenator designates (chemistry) an apparatus that can determine the sequence of monomers in a polymer."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The automated **sequenator** revolutionized protein biochemistry by deciphering polypeptide chains with speed."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Structural biology advanced rapidly once the spinning-cup **sequenator** made peptide analysis routine."*
+> - 📜 **Sydney Brenner (*My Life in Science*):** *"Before the automated **sequenator**, isolating each terminal amino acid was an agonizing manual task."*

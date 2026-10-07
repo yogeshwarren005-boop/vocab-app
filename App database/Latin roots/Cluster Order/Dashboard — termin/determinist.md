@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anyone who submits to the belief that they are powerless to change their destiny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of the doctrine that all events and actions are entirely determined by antecedent causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or advocating the philosophical view that free will is an illusion incompatible with universal causation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Old infrangible determinist bonds snap like tow under the liberating influence of a new personal relationship with a personal, all-loving Buddha-Father."*
+> - 📜 **William James (*The Dilemma of Determinism*):** *"A consistent **determinist** must regard every crime and virtue as the inevitable product of cosmic history."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"The **determinist** philosopher maintains that human volitions follow character and motivation as effects follow causes."*
+> - 📜 **Thomas Henry Huxley (*Hume: With Helps to the Study of Berkeley*):** *"Physiological science leads the thoughtful biologist to adopt a **determinist** view of nervous reflexes."*

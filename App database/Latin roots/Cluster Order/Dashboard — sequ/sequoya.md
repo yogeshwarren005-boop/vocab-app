@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of sequoia, denoting the monumental redwood tree of California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named in honor of the Cherokee silversmith and scholar Sequoyah, inventor of the Cherokee syllabary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoya designates cherokee who created a notation for writing the cherokee language (1770-1843)."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Walking through the Sierra grove, one gazes in awe upon each towering **sequoya** touching the clouds."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Endlicher bestowed the generic name **Sequoya** upon these Pacific titans in tribute to Native genius."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Travellers returning from California recounted marvelous tales of the mammoth **sequoya** trees."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a coterminous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a coterminous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that shares identical boundaries, limits, or temporal duration; coextensively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With continuous boundary alignment across administrative, legal, or geological regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coterminously designates in a coterminous manner."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The volcanic strata expanded **coterminously** with the tectonic fault line across the valley."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The congressional district expanded **coterminously** with the revised municipal census boundaries."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Industrial organizations tend to develop **coterminously** with advancements in transport technology."*

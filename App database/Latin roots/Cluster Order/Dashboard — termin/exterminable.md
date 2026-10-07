@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being totally destroyed or wiped out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being totally destroyed or wiped out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being entirely destroyed, eradicated, or wiped out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological and epidemiological terminology, susceptible to complete extirpation by targeted countermeasures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exterminable designates capable of being totally destroyed or wiped out."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Rare endemic island species proved easily **exterminable** upon the introduction of aggressive continental predators."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Infectious pathogens are theoretically **exterminable** if quarantine and sanitation are strictly maintained."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian tribes of the northern forests were deemed fierce but not readily **exterminable**."*

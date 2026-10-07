@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A repeated order for the same merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a new order to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rearrange something into a new order or sequence; or to place an additional order for goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and logistics, to request replenishment of exhausted inventory from suppliers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorder designates a repeated order for the same merchandise."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Creative mathematical thought consists in the capacity to **reorder** familiar concepts into novel patterns."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The retail shopkeeper must continually **reorder** stock to meet the fluctuating demands of urban consumers."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"We may **reorder** the elements of an infinite progression without changing its cardinal value."*

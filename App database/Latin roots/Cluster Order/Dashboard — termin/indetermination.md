@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being vague and poorly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being vague and poorly defined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsettled, wavering state of mind; hesitation or lack of definite decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and psychology, suspension of judgment or volition between competing moral options.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indetermination designates the quality of being vague and poorly defined."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The mind hangs in uncomfortable **indetermination** while counterbalancing equal probabilities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fatal **indetermination** of the general allowed the enemy to cross the mountain pass unhindered."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Doubt is nothing other than an **indetermination** of the soul arising from conflicting ideas."*

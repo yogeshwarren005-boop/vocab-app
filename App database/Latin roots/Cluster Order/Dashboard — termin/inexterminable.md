@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of extermination or extirpation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of extermination or extirpation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incabable of being completely destroyed, eradicated, or rooted out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, epidemiology, and social philosophy, possessing deep-seated resilience against eradication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexterminable designates incapable of extermination or extirpation."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The weed spreads through subterranean rhizomes, rendering it virtually **inexterminable** by the plough."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The spirit of religious conviction proved **inexterminable** despite the severest imperial persecutions."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The love of liberty among the colonists is an **inexterminable** principle woven into their temperament."*

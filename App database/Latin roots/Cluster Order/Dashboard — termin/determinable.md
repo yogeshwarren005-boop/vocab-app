@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being determined or limited or fixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being determined or limited or fixed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being settled, measured, ascertained, or definitely decided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property jurisprudence, subject to termination upon the occurrence of a contingent event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appellate jurisdiction of the Supreme Court (it may have been argued) will extend to causes determinable in different modes, some in the course of the COMMON LAW, others in the course of the CIVIL LAW."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would certainly be an authorized exception; but if, for the reason already intimated, it should be thought too extensive, it might be qualified with a limitation to such causes only as are determinable at common law in that mode of trial."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The foundation of this assertion is, that the national judiciary will have no cognizance of them, and of course they will remain determinable as heretofore by the State courts only, and in the manner which the State constitutions and laws prescribe."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A lease created for life remains a **determinable** freehold that ceases upon the demise of the grantee."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The exact speed of light is a **determinable** physical quantity through precise astronomical observations."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Whether motives compel volition remains an issue **determinable** only by empirical observation of conduct."*

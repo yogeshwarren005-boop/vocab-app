@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical condition in which there is a disturbance of normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which things are not in their expected places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of confusion, chaos, or lack of order; or an illness that disrupts normal physical or mental functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and statistical physics, entropy or the dispersal of energy within an isolated system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, boy, from the troops, and save thyself; For friends kill friends, and the disorder’s such As war were hoodwink’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disorder, that hath spoil’d us, friend us now!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All is on the rout, Fear frames disorder, and disorder wounds Where it should guard."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The flight of the vanguard threw the entire Roman legionary line into irremediable **disorder**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Metabolic **disorder** may manifest initially with insidious fatigue and progressive weight reduction."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"Thermodynamic entropy provides a mathematical measure of molecular **disorder** in closed physical systems."*

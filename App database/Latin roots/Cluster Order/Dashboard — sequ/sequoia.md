@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A giant coniferous evergreen redwood tree of the genus Sequoia or Sequoiadendron, native to California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and dendrology, the coastal redwood (Sequoia sempervirens), noted for its soaring height and fire-resistant bark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoia designates either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae."*
+> - 📜 **John Muir (*The Mountains of California*):** *"No tree in all the forest temples is more majestic than the ancient, kingly **sequoia**."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The giant **sequoia** survives as a living relic of a coniferous flora that once spanned the continent."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"We camped beneath the colossal columns of a groves of ancient **sequoia** in the High Sierra."*

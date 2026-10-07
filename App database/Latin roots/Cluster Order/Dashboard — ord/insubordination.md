@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defiance of authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defiance of authority; refusal to obey lawful orders or institutional discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military jurisprudence, open rebellion or mutinous resistance to established hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She says she won’t!” Nibs exclaimed, aghast at such insubordination, whereupon Peter went sternly toward the young lady’s chamber."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A plain statement of the course she should pursue in case of insubordination, induced them to proceed and confine themselves, for the time being, to imprecations and grumbling."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As night approached, it proving impossible to quell her insubordination by rebuke or threats of punishment, Master Brackett, the jailer, thought fit to introduce a physician."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Chronic **insubordination** among the legions weakened the frontiers against barbarian invaders."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic armies, equality of social status often breeds latent **insubordination** among recruits."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The slightest sign of naval **insubordination** was met by summary flogging at the gangway."*

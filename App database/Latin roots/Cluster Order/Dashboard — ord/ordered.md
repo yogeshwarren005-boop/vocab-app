@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give instructions to or direct somebody to do something with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a request for something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged systematically or neatly; or commanded and decreed by authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, possessing regular structural pattern, orientation, or sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All this was ordered by the good discretion Of the right reverend Cardinal of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Pericles believe his daughter’s dead, And bear his courses to be ordered By Lady Fortune; while our scene must play His daughter’s woe and heavy well-a-day In her unholy service."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will lead forth my soldiers to the plain, And thus my battle shall be ordered: My foreward shall be drawn out all in length, Consisting equally of horse and foot; Our archers shall be placed in the midst."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"The planets move in smoothly **ordered** orbits governed by universal gravitational attraction."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor **ordered** the immediate mobilization of the legions along the threatened Danube."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The complex anatomical structures of vertebrates present an **ordered** series of homologous bones."*

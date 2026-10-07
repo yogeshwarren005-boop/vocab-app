@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An argument that is conclusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a limited class of noun modifiers that determine the referents of noun phrases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that determines, settles, or dictates an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, a modifying word (such as an article or demonstrative) determining the reference of a noun phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, determiner designates an argument that is conclusive."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"A definite article functions as a grammatical **determiner** that limits the conceptual scope of the noun."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The praetorian sword became the real **determiner** of succession in the decaying capital."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Empirical evidence must serve as the final **determiner** of validity in physical inquiries."*

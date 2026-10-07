@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond normal limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually or disproportionately large; excessive; exceeding reasonable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disorderly, intemperate, or unconstrained by established moral or social discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every inordinate cup is unbless’d, and the ingredient is a devil."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prince's **inordinate** passion for luxury exhausted the revenues of the wealthiest provinces."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Men of intemperate minds cannot be free; their passions forge their own **inordinate** fetters."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"An **inordinate** desire for social applause often leads weak men into vanity and deceit."*

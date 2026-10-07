@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be biased.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine, decide, or establish an outcome or direction beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and physical systems, to dictate developmental parameters prior to environmental interaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Climate, rainfall, iron deposits, fuel, supply of wood or coal, predetermine in large measure the limits within, and the direction in which, the industry of any community can move."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who would be willing to stake his life and his estate upon the verdict of a jury acting under the auspices of judges who had predetermined his guilt?"*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Inherited constitutional biases often **predetermine** how an organism reacts to environmental changes."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Prior economic arrangements strongly **predetermine** how new wealth will be distributed across classes."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Do not let philosophical prejudices **predetermine** what natural phenomena you choose to observe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that follows something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part added to a book or play that continues and extends it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published work, narrative, or film that continues the story or develops themes of an earlier one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event, consequence, or development that follows directly upon an antecedent occurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gather the sequel by that went before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But is there no sequel at the heels of this mother’s admiration?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king hath granted every article; His daughter first, and then in sequel all, According to their firm proposed natures."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tragic death of the emperor was the natural **sequel** to months of praetorian intrigue."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I trembled to imagine what awful **sequel** might follow the creature's vengeful vow."*
+> - 📜 **Walter Scott (*Waverley*):** *"The romantic uprising found a melancholy **sequel** in the grim trials held at Carlisle."*

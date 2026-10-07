@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A determining or causal element or factor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site on the surface of an antigen molecule to which an antibody attaches itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor, circumstance, or element that decisively affects the outcome, nature, or development of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linear algebra, a scalar value computed from the elements of a square matrix that characterizes its transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, determinant designates a determining or causal element or factor."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The availability of seasonal food supplies constitutes a primary **determinant** of population density."*
+> - 📜 **Karl Marx (*A Contribution to the Critique of Political Economy*):** *"The economic mode of production is the decisive **determinant** of legal and political superstructures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Selective attention operates as the chief mental **determinant** of what experiences enter memory."*

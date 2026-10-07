@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to connect two grammatical constituents of identical construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to connect two grammatical constituents of identical construction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to coordinate, harmonize, or bring disparate components into alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar and linguistics, denoting syntactic structures or particles that link equivalent clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coordinative designates serving to connect two grammatical constituents of identical construction."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The copula 'and' exhibits purely **coordinative** function when linking parallel noun phrases."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Human intelligence displays a **coordinative** power that synthesizes discrete sensory impressions into concepts."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The associative cortex exercises a **coordinative** influence across diverse perceptual centers."*

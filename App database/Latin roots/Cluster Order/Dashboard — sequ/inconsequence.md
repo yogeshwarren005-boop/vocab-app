@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no important effects or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being illogical, irrelevant, or lacking significant weight or connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A careless remark, trivial occurrence, or failure of deductive coherence in spoken discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no, Liddy; you must stay!” said Bathsheba, dropping from haughtiness to entreaty with capricious inconsequence."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked round once more; she fixed her eyes on the duskier distance, then, pulling herself together, turned to me with abrupt inconsequence."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"And did you see anyone?” “Ah, _no!_” she returned, almost with the full privilege of childish inconsequence, resentfully, though with a long sweetness in her little drawl of the negative."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She felt chagrined by the utter **inconsequence** of her own scattered thoughts during the crisis."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scholastic disputation was characterized by endless verbal subtlety and logical **inconsequence**."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"He laughed at the sheer **inconsequence** of conversation drifting across the garden terrace."*

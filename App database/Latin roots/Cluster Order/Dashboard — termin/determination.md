@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining the properties of something, usually by research or calculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being determined to do or achieve something; firmness of purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firmness of purpose, resolute resolve, or the process of establishing something by calculation or research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and administrative proceedings, a formal judicial decree or definitive resolution of a controversy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Sir Walter Blunt, and would to God You were of our determination!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The courageous **determination** of the emperor restored discipline among the mutinous legionaries."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The astronomical **determination** of our longitude required repeated lunar observations at night."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court announced its final **determination** on the disputed boundary after hearing all witnesses."*

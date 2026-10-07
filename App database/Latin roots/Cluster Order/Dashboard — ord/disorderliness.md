@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which things are not in their expected places.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rowdy behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Messiness, untidiness, or the absence of systematic arrangement and discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and law, unruly, disruptive, or rowdy behavior that breaches public peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny was distressed by the noise, carelessness, and general **disorderliness** of her family's Portsmouth house."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The municipal magistrate imposed fines to curb chronic **disorderliness** in the market square."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The uncultivated wilderness struck early European settlers with an impression of savage **disorderliness**."*

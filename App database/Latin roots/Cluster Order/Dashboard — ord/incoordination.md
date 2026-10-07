@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of coordination of movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of coordination of movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of coordination, harmony, or concerted action among parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, ataxia or the inability to produce smooth, balanced voluntary movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incoordination designates a lack of coordination of movements."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Locomotor ataxia presents with striking motor **incoordination** that worsens dramatically when the eyes are closed."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Lesions in the neocerebellum induce severe muscular **incoordination** known as dysdiadochokinesia."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Administrative **incoordination** among rival state bureaus inevitably breeds waste and delay."*

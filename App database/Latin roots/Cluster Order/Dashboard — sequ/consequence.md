@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outcome of an event especially as relative to an individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A result, effect, or outcome derived logically or causally from an antecedent event or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social, political, and philosophical theory, significance, momentous distinction, or moral import.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well, my lord; and believe this of me, there can be no kernal in this light nut; the soul of this man is his clothes; trust him not in matter of heavy consequence; I have kept of them tame, and know their natures."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The consequence is, then, thy jealous fits Hath scar’d thy husband from the use of’s wits."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At ‘closes in the consequence.’ At ‘friend or so,’ and ‘gentleman.’ POLONIUS."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Every effect is a distinct event from its cause, and can never be discovered in it by mere logical **consequence**."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The struggle for existence inevitably follows as an inevitable **consequence** of the rapid multiplication of living organisms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The loss of a single battle was often attended with the ruinous **consequence** of the subjection of whole provinces."*

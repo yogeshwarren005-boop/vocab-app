@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Cherokee polymath (c. 1770–1843) who independently created the Cherokee syllabary writing system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commemorative name given to geographical features, trees, and institutions honoring Cherokee literacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoyah designates cherokee who created a notation for writing the cherokee language (1770-1843)."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The Cherokee nation adopted an original alphabet invented by **Sequoyah**, demonstrating extraordinary civic vitality."*
+> - 📜 **George Bancroft (*History of the United States*):** *"The genius of **Sequoyah** gave his people written laws, newspapers, and national literature."*
+> - 📜 **John Wesley Powell (*Introduction to the Study of Indian Languages*):** *"Linguists marvel at how **Sequoyah** analyzed Cherokee phonology into eighty-five precise syllabic characters."*

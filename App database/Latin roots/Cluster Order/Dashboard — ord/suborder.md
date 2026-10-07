@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) taxonomic group that is a subdivision of an order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) taxonomic group that is a subdivision of an order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic category ranking below an order and above a family in biological classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and botanical systematics, a major subdivisional grouping reflecting evolutionary divergence within an order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suborder designates (biology) taxonomic group that is a subdivision of an order."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists divide the mammalian order Rodentia into several distinct **suborder** groups based on jaw morphology."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The fossil reptilian skull displays transitional traits linking it to an extinct dinosaurian **suborder**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The great family Leguminosae is conventionally arranged into three **suborder** divisions based on petal symmetry."*

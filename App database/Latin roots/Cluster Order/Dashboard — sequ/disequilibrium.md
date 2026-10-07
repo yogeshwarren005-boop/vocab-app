@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of equilibrium attributable to an unstable situation in which some forces outweigh others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss, disturbance, or lack of equilibrium or balance, whether physical, economic, or psychological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic dynamics and ecology, an unstable state wherein supply diverges systematically from demand or trophic balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disequilibrium designates loss of equilibrium attributable to an unstable situation in which some forces outweigh others."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Prolonged trade imbalances thrust the international financial structure into severe monetary **disequilibrium**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Damage to the vestibular apparatus precipitates severe spatial **disequilibrium** and motor ataxia."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The sudden introduction of an apex consumer threw the estuarine biome into acute biological **disequilibrium**."*

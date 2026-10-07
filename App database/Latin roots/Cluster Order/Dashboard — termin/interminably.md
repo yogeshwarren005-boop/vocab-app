@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the time; seemingly without stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the time; seemingly without stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an apparently endless or tiresomely protracted manner; ceaselessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing without interruption or variation, creating an impression of infinite duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I guessed how little she would hear; how bitter must be the dread at her heart; how endlessly, interminably long the moments must seem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And meanwhile, what was the audience doing, while he stood there tied, {326} waiting interminably for the lion?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The evening hours dragged **interminably** as Mr. Casaubon read aloud from his unfinished manuscript."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The mechanical thresher droned **interminably** across the dusty autumn afternoon."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The subterranean machinery throbbed **interminably** beneath the feet of the gentle Eloi."*

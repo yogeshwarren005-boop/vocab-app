@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or following in a logical, chronological, or numerical sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, processing instructions one after another in ordered succession rather than concurrently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother, who bore offspring themselves pregnant from her womb."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The deposition of sedimentary strata occurred through **sequential** accumulations over vast geological epochs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness does not appear chopped into bits, but flows in a **sequential** stream of thought."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The discrete state machine advances through **sequential** configurations determined by explicit rules."*

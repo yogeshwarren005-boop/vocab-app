@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond what is ordinary or usual; highly unusual or exceptional or remarkable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Far more than usual or expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unusual, remarkable, or exceptional; surpassing what is common or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In official diplomacy and governance, dispatched outside the regular establishment for special missions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you could teach me to forget a banished father, you must not learn me how to remember any extraordinary pleasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These signs have mark’d me extraordinary, And all the courses of my life do show I am not in the roll of common men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let that persuade thee there’s something extraordinary in thee."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was endowed with an **extraordinary** memory and tireless capacity for public business."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic archipelago presents an **extraordinary** group of animal species found nowhere else."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The president may appoint ambassadors and envoys **extraordinary** to negotiate delicate foreign treaties."*

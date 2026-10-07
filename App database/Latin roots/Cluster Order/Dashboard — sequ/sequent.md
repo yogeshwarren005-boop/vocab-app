@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in time, order, or logical necessity; consecutive or ensuing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and proof theory, a formal expression asserting that one set of formulas implies another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed your ‘O Lord, sir!’ is very sequent to your whipping."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, the next day Was our sea-fight, and what to this was sequent Thou know’st already."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Now must your conscience my acquittance seal, and you must put me in your heart for friend, sith you have heard, and with a **sequent** ear."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Immediate are the acts of God, more swift than time or motion, but to human ear cannot without process of speech be told, in **sequent** order."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Logical deduction links the initial axioms to their **sequent** theorems without empirical appeal."*

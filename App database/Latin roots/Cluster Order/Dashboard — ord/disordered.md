@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring disorder to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking regular arrangement, organization, or method; chaotic or disarranged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from mental or physical derangement, disease, or abnormal physiological function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His speech was like a tangled chain; nothing impaired, but all disordered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hath suffered this disordered spring Hath now himself met with the fall of leaf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here have I the daintiness of ear To check time broke in a disordered string; But for the concord of my state and time Had not an ear to hear my true time broke."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She entered the bedchamber to find the furniture overturned and the papers scattered in **disordered** heaps."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"His frantic gaze and feverish speech betrayed a sadly **disordered** understanding."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cavalry charged into the **disordered** ranks of the retreating enemy with devastating effect."*

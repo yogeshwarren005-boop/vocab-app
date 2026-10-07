@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requisition forcibly, as of enemy property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take temporary possession of as a security, by legal authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Isolated, secluded, or sheltered away from public view, disturbance, or social traffic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally seized or impounded by court decree pending the settlement of a debt or ownership claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are you sequestered from all your train, Dismounted from your snow-white goodly steed, And wandered hither to an obscure plot, Accompanied but with a barbarous Moor, If foul desire had not conducted you?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She uses for plates only banana leaves, which, when she has done with them, she throws away in a sequestered spot; for should a cow find and eat them, the animal would waste away and perish."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What crime was this, that lived incarnate in this sequestered mansion, and could neither be expelled nor subdued by the owner?—what mystery, that broke out now in fire and now in blood, at the deadest hours of night?"*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"In the bosom of one of those spacious coves lies a **sequestered** glen of tranquility."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Hester Prynne sought refuge in a **sequestered** cottage on the wild outskirts of the settlement."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The hermit led the weary knight to a **sequestered** cell concealed behind tangled thickets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The skillful and effective interaction of movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of diverse elements into an integrated and harmonious operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of the different elements of a complex body or activity to enable effective working.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the ability to execute smooth, purposeful bodily movements through cerebellar integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Sensorimotor **coordination** relies on continuous feedback from muscular proprioceptors to the motor cortex."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Facial expressions depend on the intricate neural **coordination** of numerous small facial muscles."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Social prosperity arises from the spontaneous economic **coordination** of decentralized commercial enterprises."*

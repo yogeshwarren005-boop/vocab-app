@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that follows something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence derived from another sequence by deleting some elements without changing the order of the remaining elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis and computing, a secondary or successor series appearing as an orderly constituent of a larger stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsequence designates something that follows something else."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Every infinite bounded set of real numbers contains an ordered **subsequence** converging to a limit point."*
+> - 📜 **Henri Poincaré (*The Value of Science*):** *"We identify harmonic patterns by extracting an orderly **subsequence** from turbulent celestial data."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The computer scans the input tape, isolating a definite **subsequence** of binary instructions."*

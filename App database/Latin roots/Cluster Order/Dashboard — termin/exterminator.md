@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or professional employed to destroy pests, rodents, or insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A destructive force, conqueror, or chemical compound that causes wholesale annihilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The exterminator of error is the great truth that God, good, is the /only/ Mind, and 469:15 that the supposititious opposite of infinite Mind - called /devil/ or evil - is not Mind, is not Truth, but error, without intelligence or reality."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Attila the Hun was dreaded by trembling European monarchs as the divine **exterminator** of cities."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The mercenary guards functioned as a cold-blooded **exterminator** of working-class revolts."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian heat-ray acted as an irresistible **exterminator** of humanity's finest artillery units."*

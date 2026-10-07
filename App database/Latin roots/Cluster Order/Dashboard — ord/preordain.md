@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreordain or determine beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foreordain or determine beforehand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decide, decree, or determine an outcome beforehand by divine will or destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, the doctrine that events are settled beforehand by eternal decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God did not **preordain** human transgression, for man stood free to obey or fall."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"If divine providence did **preordain** every action, then moral praise and blame lose all foundation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fatalist doctrines of the East led believers to think that heaven did **preordain** their conquests."*

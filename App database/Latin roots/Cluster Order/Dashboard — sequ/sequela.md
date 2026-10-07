@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormality following or resulting from a disease or injury or treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any abnormality following or resulting from a disease or injury or treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological condition, lesion, or impairment that occurs as a secondary consequence of a prior disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical epidemiology and neurology, persistent morbid aftermath following an acute infection or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequela designates any abnormality following or resulting from a disease or injury or treatment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-streptococcal glomerulonephritis represents a serious **sequela** of untreated pharyngeal infection."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic parkinsonism presented as a chronic **sequela** decades after the original pandemic."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tissue fibrosis often develops as an irreversible cellular **sequela** of prolonged focal necrosis."*

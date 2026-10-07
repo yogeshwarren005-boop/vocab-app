@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the vertical axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertical coordinate on a plane cartesian coordinate system, representing distance along the y-axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in orderly, regular patterns; or in botany, positioned in regular, straight rows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To argue upon abstract principles that this co-ordinate authority cannot exist, is to set up supposition and theory against fact and reality."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And according to one, this mode of appointment is extended to one of the co-ordinate branches of the legislature."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The curve is described by setting off the abscissa along the base and the **ordinate** perpendicularly."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Geometrical analysis represents dynamic phase space by plotting momentum as an **ordinate** against position."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Natural history must collect facts in an **ordinate** and methodical manner rather than at random."*

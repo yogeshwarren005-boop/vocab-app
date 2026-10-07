@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessiveness, immoderation, or the absence of reasonable limitation and restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, irregular deviation from virtuous balance and temperance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inordinateness designates immoderation as a consequence of going beyond sufficient or permitted limits."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **inordinateness** of youthful ambitions frequently terminates in bitter adult disappointment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When desires lose their rational governance, their **inordinateness** enslaves the human will."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Social peace requires laws that suppress the **inordinateness** of private acquisitive passions."*

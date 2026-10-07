@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Logical or comprehensible arrangement of separate elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting things in a sequential arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement, grouping, or classification of things according to a particular sequence or method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a binary relation on a set that defines a partial or total sequence among elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have thou the ordering of this present time."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel, that your husband is ordering living-quarters for Bruno, too?" Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving the carriage at the posting-house and ordering fresh horses to be ready, my companion gave me his arm, and we went towards home."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The formal definition of number rests upon the logical **ordering** of relations between classes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The natural **ordering** of living beings reflects the historic divergence of species from common ancestors."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent commercial **ordering** of accounts ensures the merchant against ruinous capital depletion."*

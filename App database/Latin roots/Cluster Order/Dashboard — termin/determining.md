@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or influence; give direction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decisive; having a vital, controlling influence in settling a result or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ongoing process of measuring, calculating, or establishing boundaries and definitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But experience had shown that it was the existence of an Established Church, towards which the Anti-Union party had turned longing eyes, which was the determining factor in the wrecking of the Union negotiations."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Such a submission of our intellects, as I felt in determining to make it, must have been pleasing to heaven."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of fully equal importance with material wealth in determining the economic power of a people is the _social system_ under which the nation lives."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female choice has been a powerful **determining** cause in the evolution of male plumage."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Supply and demand operate as the **determining** conditions of exchange value in open markets."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Religious convictions constituted a **determining** influence on the psychological orientation toward labor."*

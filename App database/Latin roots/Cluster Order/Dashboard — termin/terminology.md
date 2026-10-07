@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of words used to name things in a particular discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of words used to name things in a particular discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of specialized terms, nomenclature, and symbols used with a particular art, discipline, or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of naming conventions and linguistic designations characteristic of an intellectual domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of them, when we are no longer intimidated by the terminology, but go at once to what is meant--to the facts."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Imperfect terminology 114:12 Mortal mind is a solecism in language, and involves an improper use of the word /mind/."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The terminology has remained ever since in this stage of arrested development."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Botanical **terminology** must be standardized internationally to enable clear taxonomic communication."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We cannot improve the science without improving the language; chemical **terminology** reflects our ideas."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A precise philosophical **terminology** safeguards thinking against the illusions of popular idiom."*

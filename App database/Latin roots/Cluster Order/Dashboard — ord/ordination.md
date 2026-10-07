@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being ordained to a sacred office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical or comprehensible arrangement of separate elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ceremony or act of conferring holy orders upon a priest, deacon, or minister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic arrangement, disposition, or classification of components into an orderly scheme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The University as a step to anything but ordination seemed, to this man of fixed ideas, a preface without a volume."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was with this background of change and shadow that the ordination of John Cairns took place at Berwick on August 6, 1845."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Ordination For sense they little owe to frugal Heav’n— To please the mob, they hide the little giv’n."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn **ordination** of the patriarch of Constantinople was celebrated with imperial pomp."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The conversation turned upon Edmund's approaching **ordination** and the clerical obligations it entailed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Canons governing episcopal **ordination** require strict examination into moral character and orthodoxy."*

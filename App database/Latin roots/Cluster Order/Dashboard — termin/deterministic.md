@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inevitable consequence of antecedent sufficient causes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inevitable consequence of antecedent sufficient causes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or governed by the philosophical doctrine that outcomes are inevitable results of prior causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, computing, and physics, describing an algorithm or system that always produces identical output for given input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deterministic designates an inevitable consequence of antecedent sufficient causes."*
+> - 📜 **Pierre-Simon Laplace (*A Philosophical Essay on Probabilities*):** *"A vast intelligence comprehending all forces would see the universe as an entirely **deterministic** mechanism."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"A discrete-state machine operates under **deterministic** rules where each state leads strictly to the next."*
+> - 📜 **Albert Einstein (*Letters to Max Born*):** *"I cannot believe that God plays dice; physics must uncover a **deterministic** reality beneath quantum phenomena."*

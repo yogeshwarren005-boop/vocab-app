@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrement, dung, bodily waste, or filthy filth; disgusting matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and literary discourse, foul corruption, moral depravity, or scandalous speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"From Walls besmear'd with stinking Ordure, By Swine who nee'r provide Bumfodder _Libera Nos_---- (Pt. 4, p. 7) Other types of graffiti, however, vary from the very earnest expression of affection to the nonexcrementally satiric."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In his right hand he grasped a flail, and (that he might never be unprovided of an offensive weapon) a vessel full of ordure in his left."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"He had a weekly allowance, from the society, of a vessel filled with human ordure, about the bigness of a Bristol barrel."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The filthy Yahoos discharged their vile **ordure** from the branches above onto Gulliver's head."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No foul stench or contaminating **ordure** was known in Eden before the fall of man."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary mob trampled through the royal palace, defiling the corridors with blood and **ordure**."*

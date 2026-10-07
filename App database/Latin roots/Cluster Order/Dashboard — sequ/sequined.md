@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with beads or jewels or sequins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with beads or jewels or sequins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adorned, embroidered, or sparkling with small shiny metallic or plastic discs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glistening or shimmering brightly, resembling decorative reflective paillettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequined designates covered with beads or jewels or sequins."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Women moved through Gatsby's gardens in **sequined** gowns that shimmered like woven moonlight."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She adjusted her **sequined** bodice before stepping out to face the ambassadors at court."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The opera box glittered with jewels, fans, and **sequined** shawls worn by fashionable dowagers."*

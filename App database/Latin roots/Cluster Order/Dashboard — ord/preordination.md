@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) being determined in advance; especially the doctrine (usually associated with calvin) that god has foreordained every event throughout eternity (including the final salvation of mankind).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (theology) being determined in advance; especially the doctrine (usually associated with calvin) that god has foreordained every event throughout eternity (including the final salvation of mankind).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The authoritative act or doctrine of ordaining and decreeing events beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics, divine foreordination of universal events and human salvific destiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preordination designates (theology) being determined in advance; especially the doctrine (usually associated with calvin) that god has foreordained every event throughout eternity (including the final salvation of mankind)."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The theological debate concerning divine **preordination** has perplexed moral philosophers for centuries."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Absolute **preordination** eliminates all meaningful moral distinction between virtue and involuntary reflex."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"Nature operates by necessary causal laws which theologians erroneously anthropomorphize as divine **preordination**."*

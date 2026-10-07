@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secondary consequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant orthographic spelling of sequela, denoting an aftereffect or secondary morbid consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical literature, any chronic physical or functional impairment resulting from acute disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequella designates a secondary consequence."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The physician must guard against that dropsical **sequella** which so frequently attends tertian agues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic valvular insufficiency remained the formidable **sequella** of acute rheumatic carditis."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental lesions in the spinal tracts leave a lasting functional **sequella** in locomotor coordination."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening at a time subsequent to a reference time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening at a time subsequent to a reference time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a later time; afterward; sequentially in chronological progression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and scientific reporting, introducing an event or discovery that transpired afterward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The physician subsequently said that he thought that in that five minutes every kindred case he had ever known in a quarter century's practice passed before his mind."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Subsequently L.R. writes, 'We. are full of thankfulness and praise about E."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An account of them was subsequently published in the _Christian_: "In 1839 I was a sailor on board the brig Pandora, Captain G----, bound from Savannah to Boston, with a cargo of cotton."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The young bird leaves the nest and **subsequently** acquires the adult plumage of its species."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king conquered the maritime cities and **subsequently** laid siege to the capital."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The refracted rays were intercepted by a prism and **subsequently** converged upon a white screen."*

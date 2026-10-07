@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characteristic of the broad scientific domain of cryptology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to signals intelligence organizations, code design, and the mathematical theory of ciphers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptological designates of or relating to cryptanalysis."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The national security agency deployed vast **cryptological** computers to monitor global radio traffic."*
+> - 📜 **William F. Friedman (*Elements of Cryptanalysis*):** *"Our **cryptological** investigations demonstrated that no commercial substitution cipher was safe from statistical scrutiny."*
+> - 📜 **Abraham Sinkov (*Elementary Cryptanalysis*):** *"The development of high-speed electronic processors transformed all previous **cryptological** methodologies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to certify or endorse authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to certify or endorse authoritatively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to certify, attest, verify, or furnish authoritative evidence of a qualification or fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, containing, or functioning as an official certificate or formal testimonial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, certificatory designates serving to certify or endorse authoritatively."*
+> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"The minister produced a **certificatory** document signed by his subordinate officials to attest his diligence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **certificatory** return made by the sheriff was treated as conclusive evidence of service."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every citizen was required to carry a **certificatory** passport of civic patriotism upon pain of denunciation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of converting data or information into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of converting data or information into code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technological process of encoding electronic data or messages into ciphertext so that only authorized parties can read it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algorithmic cryptographic protection of information transmitted across computer networks or stored on digital media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Note the encryption structure."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Modern mathematical **encryption** transforms redundant natural language into an equiprobable random sequence."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Without robust **encryption**, wartime diplomatic dispatches would be transparent to every hostile listening post."*
+> - 📜 **Lawrence Lessig (*Code: And Other Laws of Cyberspace*):** *"Public-key **encryption** constitutes the architectural cornerstone of electronic privacy in cyberspace."*

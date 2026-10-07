@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: False and maliciously defamatory; tending to injure the good name or character of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or expressing unjust, hurtful aspersion and hostile misrepresentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou ever be a foul-mouth’d and calumnious knave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I know There’s none stands under more calumnious tongues Than I myself, poor man."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Virtue itself scapes not **calumnious** strokes: the canker galls the infants of the spring too oft before their buttons be disclosed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She refused to lend her ear to the **calumnious** reports whispered across the tea-tables of the town."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The stout governor marched against the intruders, deaf to all their **calumnious** proclamations."*

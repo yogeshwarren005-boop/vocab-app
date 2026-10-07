@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of blattodea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of blattodea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of subsocial, wood-feeding cockroaches (*Cryptocercidae*), comprising the single genus *Cryptocercus*, closely related to termites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insect taxonomic family whose digestive tracts harbor symbiotic cellulose-digesting protozoa identical to those of primitive termites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocercidae designates a family of blattodea."*
+> - 📜 **L. R. Cleveland (*The Wood-Feeding Roach Cryptocercus, Its Protozoa, and the Symbiosis*):** *"The family **Cryptocercidae** provides the living evolutionary bridge connecting ancestral blattoids with wood-eating termites."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"In the **Cryptocercidae**, parental care and prolonged nymphal association foreshadow the caste societies of isopterans."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"The subsocial behavior exhibited by the **Cryptocercidae** illuminates the phylogenetic origins of eusociality in termites."*

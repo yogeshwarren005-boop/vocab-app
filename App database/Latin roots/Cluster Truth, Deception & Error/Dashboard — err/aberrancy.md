@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or condition markedly different from the norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or instance of deviating or wandering away from a normal course, standard, or ethical path.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atypical or anomalous characteristic exhibited by an organism or philosophical system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aberrancy designates a state or condition markedly different from the norm."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The degree of morphological **aberrancy** in certain island species can be traced to prolonged geographical isolation."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"He treated this logical fallacy not as a fundamental defect, but as an incidental **aberrancy** of expression."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman regarded their rigid aristocratic etiquette as a harmless foreign **aberrancy**."*

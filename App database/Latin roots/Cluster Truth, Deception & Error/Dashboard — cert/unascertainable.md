@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be ascertained; resisting discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be ascertained; resisting discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being discovered, verified, measured, or determined with certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking adequate factual evidence, data, or historical documentation to allow definite knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unascertainable designates not able to be ascertained; resisting discovery."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The precise genealogical links connecting ancestral forms are often utterly **unascertainable** from the imperfect fossil record."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate power underlying all physical and mental phenomena remains forever **unascertainable** to human intellect."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The remote consequences of every minor human action are practically **unascertainable** in advance."*

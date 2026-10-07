@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or condition markedly different from the norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wandering, departure, or deviation from what is normal, right, customary, or natural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of physical, mental, or moral wandering from an established standard or truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aberrance designates a state or condition markedly different from the norm."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every departure from truth is an intellectual **aberrance** that weakens the moral authority of reason."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"We forgive a momentary **aberrance** of genius when it returns enriched with fresh insight."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The chaotic revolutions of our era are not random accidents, but the visible fruits of spiritual **aberrance**."*

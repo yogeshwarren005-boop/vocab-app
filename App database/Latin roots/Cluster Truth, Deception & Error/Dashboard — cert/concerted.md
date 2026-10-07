@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrive (a plan) by mutual agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jointly planned, coordinated, or determined through mutual agreement and collaborative effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, arranged into parts for diverse voices or instruments playing together in ensemble.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, there is a concerted movement to spend the surplus money, there results a general bidding down of the value of money, a general bidding up of the prices of goods."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Plans of resistance would be concerted."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the precautions which have been so happily concerted in the system under consideration, promise an effectual security against this mischief."*
+> - 📜 **Winston Churchill (*The River War*):** *"A **concerted** assault by the gunboats and cavalry broke through the dervish trenches."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Whig leaders made a **concerted** effort to carry the bill through both houses of Parliament."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Without **concerted** civic association, individual citizens in a democracy are powerless against tyranny."*

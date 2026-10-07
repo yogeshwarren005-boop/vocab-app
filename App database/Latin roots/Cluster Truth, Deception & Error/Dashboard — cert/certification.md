@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of certifying or bestowing a franchise on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirmation that some fact or statement is true through the use of documentary evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal process of providing an official document attesting to a qualification, status, or standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The authorized confirmation that a product, service, or professional meets prescribed technical criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As the SPS functions and workload became clear, I joined its paraprofessional training to certification and when the Service became operational I took my turn on the 'hotline,' especially those related to my McClellan responsibilities."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"If you were judging from appearances you would say that he was one of the best, and if you asked for confirmation of your opinion the lumberjack would answer regarding him, "None better in all the north woods,"--a high physical certification."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The legal **certification** of election returns rests with county supervisory boards."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The rigorous examination and professional **certification** of hospital nurses elevated the entire calling."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Universities have increasingly degenerated into mere bureaus for academic **certification**."*

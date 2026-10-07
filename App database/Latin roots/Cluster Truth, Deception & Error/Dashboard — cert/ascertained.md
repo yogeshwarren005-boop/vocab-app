@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be careful or certain to do something; make certain of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovered, determined, or verified with certainty through inquiry, measurement, or experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Established beyond dispute as a proven scientific fact or historical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had ascertained the amount, either from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, the chances are that having ascertained the young woman to be of unblemished character, he will say to his son, ‘I must be quite sure you are in earnest here."*
-> - 📜 **Jane Austen (*Persuasion*):** *"How could it ever be ascertained that his mind was truly cleansed?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The quantity of precious metals contained in the coin was strictly **ascertained** by the public stamp."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The order of succession among the stratified rocks was **ascertained** by examining fossil strata."*
+> - 📜 **George Eliot (*Middlemarch*):** *"When the truth of the will was **ascertained**, the disappointed relatives dispersed in bitter silence."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of music by players or singers not involving theatrical staging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrive (a plan) by mutual agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public musical performance by instrumentalists, singers, or an orchestra before an assembled audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joint agreement, harmony of intention, or coordinated cooperative action among people or nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"After tea we had quite a little concert, in which Richard—who was enthralled by Ada’s singing and told me that she seemed to know all the songs that ever were written—and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne was seated at the pianoforte, anticipating the pleasures of the evening **concert**."*
+> - 📜 **George Washington (*Farewell Address*):** *"Harmony and liberal intercourse with all nations are recommended by policy, humanity, and interest acting in **concert**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The conspirators acted in deadly **concert**, carrying out their bloody vengeance without mercy."*

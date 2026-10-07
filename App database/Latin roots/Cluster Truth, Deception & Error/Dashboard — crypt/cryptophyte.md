@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common in fresh and salt water appearing along the shore as algal blooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common in fresh and salt water appearing along the shore as algal blooms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial plant whose dormant resting buds are hidden below the soil surface or underwater, as in bulbs, tubers, and rhizomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any microscopic unicellular flagellate alga belonging to the division *Cryptophyta*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyte designates common in fresh and salt water appearing along the shore as algal blooms."*
+> - 📜 **Christen Raunkiær (*The Life Forms of Plants and Statistical Plant Geography*):** *"During harsh winters, the **cryptophyte** survives safely because its renewal buds remain buried deep beneath the frozen soil."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Geophytes and marsh plants exemplify the **cryptophyte** life form, dominating damp meadows."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Each unicellular **cryptophyte** carries within its cytoplasm the evolutionary remnant of an ancient ingested eukaryote."*

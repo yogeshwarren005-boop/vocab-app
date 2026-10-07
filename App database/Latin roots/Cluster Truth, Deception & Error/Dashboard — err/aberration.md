@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in one's mental state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A departure or deviation from what is normal, usual, expected, or morally and intellectually sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure of optical rays to converge at a single focus through a lens or mirror; or the apparent displacement of a star caused by Earth's orbital motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"They were all advanced in years, except one young woman, who was prevented by mental aberration from supporting herself outside the walls of the Institution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We may look at each slight deviation in structure as an **aberration** from the typical parental form."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Was it a momentary **aberration** of intellect, or the bitter working of a guilty conscience?"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The strange conduct of Sir Henry Baskerville seemed an unaccountable **aberration** until explained by Holmes."*

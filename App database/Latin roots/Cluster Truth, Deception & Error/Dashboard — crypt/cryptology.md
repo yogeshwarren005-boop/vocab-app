@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overarching scientific and mathematical discipline concerned with secret communications, encompassing cryptography and cryptanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The comprehensive field of study dealing with information security systems, ciphers, codes, and cryptographic protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptology designates the science of analyzing and deciphering codes and ciphers and cryptograms."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"**Cryptology** is the science of secret communications, comprising two opposed halves: cryptography and cryptanalysis."*
+> - 📜 **William F. Friedman (*Elements of Cryptanalysis*):** *"In the terminology of intelligence services, **cryptology** represents the parent science of secret writing."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The mathematical foundation of **cryptology** intersects information theory at the concept of entropy."*

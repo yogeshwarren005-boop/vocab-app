@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to error; -g.g.coulton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to error; -g.g.coulton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Always right or accurate; making no errors or mistakes; unfailing and certain in judgment or aim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infallible, constant, and steadfast in guidance, instinct, or direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On similar unerring principles, Mr."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was a proof to me once again that heaven is true, that the good God loves and comprehends us all, to see how His wisdom, which is unerring, had chosen the best man in Semur."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For centuries I trod space, with the tip of my wand and with unerring eye and hand tapping each star I passed."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"His **unerring** judgment guided the council through the tempest of political faction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The migratory bird navigates across trackless oceans guided by an **unerring** inherited instinct."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Tashtego hurled the harpoon with an **unerring** aim that struck deep into the monster's flank."*

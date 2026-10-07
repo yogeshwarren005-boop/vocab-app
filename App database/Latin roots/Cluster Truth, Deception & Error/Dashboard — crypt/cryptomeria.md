@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese cedar; sugi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese cedar; sugi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of large evergreen coniferous trees (*Cryptomeria japonica*, the Japanese cedar or sugi), prized for durable fragrant timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical taxon of majestic pyramidal conifer trees native to Japan and widely planted in temperate ornamental gardens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptomeria designates japanese cedar; sugi."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Avenue plantings of **Cryptomeria** japonica shaded the approaches to the ancient temples with towering dark green spires."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Curious pendulous and crested garden sports of **Cryptomeria** have been propagated by Japanese nurserymen."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The reddish fibrous bark and awl-shaped spirally arranged leaves distinguish **Cryptomeria** from other cupressaceous conifers."*

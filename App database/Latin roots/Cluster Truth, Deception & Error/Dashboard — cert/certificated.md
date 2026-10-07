@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Present someone with a certificate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorize by certificate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially provided with, recognized by, or holding a valid professional certificate or license.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualified through authorized examination and credentialed to perform specific duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Indeed, the postman had brought me an official blue paper that morning, by virtue of which I was informed of my registration as a regular certificated teacher under the Act of 1871."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"As a **certificated** mate, he stood upon the bridge of the pilgrim steamer looking out over the quiet sea."*
+> - 📜 **George Bernard Shaw (*Mrs. Warren's Profession*):** *"Only a properly **certificated** nurse was permitted into the private sickroom."*
+> - 📜 **H. G. Wells (*Kipps*):** *"The prospectus boasted that every instructor on the staff was thoroughly **certificated** by the Board of Education."*

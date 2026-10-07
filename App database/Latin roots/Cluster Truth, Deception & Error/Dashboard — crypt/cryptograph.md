@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret method of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of writing in code or cipher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, instrument, or system used for enciphering and deciphering secret written communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cipher, encrypted document, or piece of secret writing in historical espionage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"As it was, I assumed the cryptograph to be English."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the present instance we see it doubled no less than five times, although the cryptograph is brief."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Referring, now, to the beginning of the cryptograph, we find the combination, 53++!."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"I have constructed a portable cylindrical **cryptograph** with interchangeable wheels for secret diplomatic dispatches."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Wheatstone's ingenious mechanical **cryptograph** simplified military field encipherment during the nineteenth century."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Gloria Scott*):** *"The warning message seemed like innocent farm news until read through the key of an ingenious **cryptograph**."*

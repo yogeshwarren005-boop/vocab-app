@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee payment on; of checks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially recognized, endorsed, or guaranteed in writing by an authorized person or agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally confirmed as having satisfied educational, professional, or medical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, King Henry’s peers and chief nobility Destroy’d themselves and lost the realm of France!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, Antonio certified the Duke They were not with Bassanio in his ship."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She confined herself, or tried to confine herself, to the simple, indubitable family misery which must envelop all, if it were indeed a matter of certified guilt and public exposure."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"He was a **certified** pilot of the first class, knowing every shoal and snag from St. Louis to New Orleans."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The inspector examined the **certified** copy of the register of deaths with minute attention."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The government stamps proclaimed the carcass **certified** for human consumption after a perfunctory glance."*

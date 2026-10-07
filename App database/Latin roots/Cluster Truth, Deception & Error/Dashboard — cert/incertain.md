@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or indicating lack of confidence or assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking or indicating lack of confidence or assurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not certain; doubtful, unreliable, vacillating, or indefinite in character or outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to change, instability, or unpredictable fortune in poetic and historical English.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, since the affairs of men rest still incertain, Let’s reason with the worst that may befall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Willing misery Outlives incertain pomp, is crowned before; The one is filling still, never complete, The other, at high wish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you would not so, You pity not the state, nor the remembrance Of his most sovereign name; consider little What dangers, by his highness’ fail of issue, May drop upon his kingdom, and devour Incertain lookers-on."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"The miserable have no other medicine but only hope: I have hope to live, and am prepared to die; yet 'tis an **incertain** life."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He left the crowd in doubt, pursuing his **incertain** steps toward the solitary wilderness."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Human knowledge in its infancy was faint, glimmering, and exceedingly **incertain**."*

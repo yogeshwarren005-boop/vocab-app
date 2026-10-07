@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum in the kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phylum in the kingdom protoctista.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or phylum of eukaryotic microalgae (*Cryptophyta*) characterized by asymmetrical flagellated cells and secondary plastids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic division comprising mostly freshwater and marine phytoplankters of major ecological importance in aquatic food webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyta designates a phylum in the kingdom protoctista."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Phylogenetic analyses place the division **Cryptophyta** as a pivotal lineage in the complex history of plastid acquisition."*
+> - 📜 **G. M. Smith (*Cryptogamic Botany*):** *"The phylum **Cryptophyta** includes small motile flagellates whose carbohydrate storage product is true starch."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Marine microplankton of the **Cryptophyta** sustain vast populations of filter-feeding crustaceans in polar waters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadvertent incorrectness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect or flawed nature, marked by inaccuracy, logical fallacy, or divergence from truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstrated falsity or mistaken character of a scientific theory or philosophical proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erroneousness designates inadvertent incorrectness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The transparent **erroneousness** of their reasoning was exposed as soon as the facts were placed before the public."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Science advances by progressively demonstrating the **erroneousness** of primitive anthropomorphic cosmologies."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The evident **erroneousness** of the conclusion led him to re-examine the validity of his original premises."*

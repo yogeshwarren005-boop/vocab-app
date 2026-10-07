@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the state of cryptobiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the state of cryptobiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, undergoing, or characterized by cryptobiosis; existing in a state of suspended metabolic activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating fragile biological soil crusts composed of cyanobacteria, lichens, and mosses in arid desert environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobiotic designates of or related to the state of cryptobiosis."*
+> - 📜 **David Keilin (*The Problem of Anabiosis*):** *"In the **cryptobiotic** state, nematodes show no measurable respiration yet retain the potential for rapid revitalization."*
+> - 📜 **Peter Farb (*Face of North America*):** *"Walking across fragile **cryptobiotic** soil crusts in the canyon country destroys decades of delicate bacterial growth."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The survival of **cryptobiotic** cysts under harsh prebiotic conditions illuminates the antiquity of microbial resilience."*

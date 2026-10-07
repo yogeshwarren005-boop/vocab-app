@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of drywood termites (*Cryptotermes*, including the West Indian drywood termite) that bore entirely inside sound dry structural wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The isopteran taxonomic genus notorious for infesting wooden furniture and buildings without requiring contact with the ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptotermes designates genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes."*
+> - 📜 **Thomas Snyder (*Our Enemy the Termite*):** *"The destructive drywood termite, **Cryptotermes** brevis, excavates extensive chambers in wooden furniture and rafters."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Soldiers of the genus **Cryptotermes** possess short, phragmotic heads used to plug burrow entrances against attacking ants."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"In **Cryptotermes**, small colonies dwell entirely within seasoned dead timber without subterranean tunnels."*

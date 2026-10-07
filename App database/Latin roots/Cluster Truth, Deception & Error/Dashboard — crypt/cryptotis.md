@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Least shrews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Least shrews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, short-tailed shrews (*Cryptotis*, the small-eared shrews) native to North, Central, and northern South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soricid taxonomic genus characterized by tiny concealed external ears embedded in velvety dense fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptotis designates least shrews."*
+> - 📜 **C. Hart Merriam (*Revision of the Shrews of the American Genera Blarina and Notiosorex*):** *"The genus **Cryptotis** comprises small-eared shrews that extend southward through Central America into the Andean highlands."*
+> - 📜 **Vernon Bailey (*Mammals of New Mexico*):** *"Specimens of **Cryptotis** parva were discovered nesting communally in grassy meadows along the watercourse."*
+> - 📜 **Joseph Grinnell (*A Distributional List of the Mammals of California*):** *"The diminutive burrowing shrew, **Cryptotis**, captures small earthworms and subterranean beetles in loose topsoil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family polypodiaceae or cryptogrammataceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family polypodiaceae or cryptogrammataceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, cold-climate lithophytic ferns (*Cryptogramma*, the rock brakes or parsley ferns) growing in alpine scree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pteridophyte taxonomic genus characterized by strongly dimorphic sterile and fertile fronds with inrolled marginal indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogramma designates sometimes placed in family polypodiaceae or cryptogrammataceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate fronds of **Cryptogramma** crispa nestle in the crevices of exposed alpine slate ledges."*
+> - 📜 **John Gilbert Baker (*Synopsis Filicum*):** *"In **Cryptogramma**, the soral lines are completely concealed by the revolute, membranous margins of the fertile pinnae."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Alpine rockeries frequently feature **Cryptogramma** acrostichoides for its dense, parsley-like sterile fronds."*

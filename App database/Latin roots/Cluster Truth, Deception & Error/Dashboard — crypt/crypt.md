@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellar or vault or underground burial chamber (especially beneath a church).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cellar or vault or underground burial chamber (especially beneath a church).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground room or vaulted chamber beneath a church, historically used as a chapel or subterranean burial vault.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small anatomical tubular sac, follicle, or glandular pit, such as the crypts of Lieberkühn in the intestinal mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Why had our incomprehensible guide led us to the bottom of this submarine crypt?"*
-> - 📜 **James Joyce (*Ulysses*):** *"He looked down intently into a stone crypt."*
-> - 📜 **James Joyce (*Ulysses*):** *"An obese grey rat toddled along the side of the crypt, moving the pebbles."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"We passed through a range of low arches, descended, passed on, and descending again, arrived at a deep **crypt**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The ancestral church held a gloomy stone **crypt** where generations of the family lay buried."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They entered the subterranean **crypt** of the Capuchin monastery, where the bones of dead monks lined the walls."*

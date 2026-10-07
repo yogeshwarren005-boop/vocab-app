@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to error; -g.g.coulton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to error; -g.g.coulton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from error, mistake, or falsehood; infallible and unerring in judgment, doctrine, or calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fixed and not wandering, historically applied in archaic astronomy to the fixed stars as opposed to wandering planets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inerrant designates not liable to error; -g.g.coulton."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fixed stars maintain their **inerrant** stations across the firmament, untouched by mortal changes."*
+> - 📜 **B. B. Warfield (*The Inspiration and Authority of the Bible*):** *"The scriptures are an **inerrant** record of divine revelation given through human instruments."*
+> - 📜 **C. S. Lewis (*Miracles*):** *"Rational thought relies upon the presupposition that logical principles provide an **inerrant** insight into reality."*

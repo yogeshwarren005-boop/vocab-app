@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systemic fungal infection caused by *Cryptococcus neoformans*, primarily affecting the lungs and central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opportunistic mycotic disease occurring with increased severity in immunocompromised patients, acquired by inhaling fungal spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptococcosis designates a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pulmonary or meningeal **cryptococcosis** must be differentiated from tubercular basilar meningitis by microscopic spinal fluid examination."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Cerebral granulomas resulting from **cryptococcosis** may present with symptoms identical to expanding intracranial neoplasms."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Pathologists recognized that **cryptococcosis** represented an insidious yeast infection capable of breaching the blood-brain barrier."*

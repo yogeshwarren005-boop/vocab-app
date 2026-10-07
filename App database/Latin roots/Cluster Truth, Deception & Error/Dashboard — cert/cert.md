@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute certainty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absolute certainty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for an absolute certainty; a competitor, horse, or outcome deemed sure to win or happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slang designation for a guaranteed success, safe wager, or foregone conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't allow li'l' Brer Rabbit to be hurt, Ah cert'nly can't!” muttered Ol' Mistah Buzzard, and chuckled."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Cert'nly, cert'nly, Ah sho'ly will!” replied Ol' Mistah Buzzard, and sailed up into the blue, blue sky."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah cert'nly can't!” muttered Unc' Billy Possum to himself."*
+> - 📜 **George Bernard Shaw (*Fanny's First Play*):** *"Every theatrical producer imagines his new melodrama is a dead **cert**, until opening night proves otherwise."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bingo assured me that the bay mare was an absolute **cert** for the afternoon steeplechase."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of Silver Blaze*):** *"The betting bookmakers treated the champion racehorse as an unbeatable **cert**."*

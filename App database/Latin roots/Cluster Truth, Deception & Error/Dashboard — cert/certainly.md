@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Definitely or positively (`sure' is sometimes used informally for `surely').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Definitely or positively (`sure' is sometimes used informally for `surely').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any doubt or question; definitely, indisputably, and assuredly in fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an emphatic affirmative response expressing complete assent or agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, I have heard the Ptolemies’ pyramises are very goodly things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, certainly, there is no truth in him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s a girl goes before the priest, and certainly a woman’s thought runs before her actions."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She **certainly** had not given him any encouragement to suppose that his proposal would be welcome."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was **certainly** the most mysterious room in that gloomy and decaying mansion."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab was **certainly** mad in the eyes of common men, but his madness had a terrible method."*

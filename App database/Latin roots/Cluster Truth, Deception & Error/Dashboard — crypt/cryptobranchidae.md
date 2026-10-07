@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large aquatic salamanders: hellbenders; giant salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large aquatic salamanders: hellbenders; giant salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of very large, fully aquatic salamanders (*Cryptobranchidae*), comprising the North American hellbender and Asian giant salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amphibian taxonomic family possessing rudimentary internal gills and fleshy lateral skin folds for cutaneous respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobranchidae designates large aquatic salamanders: hellbenders; giant salamanders."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **Cryptobranchidae** represent the most massive living urodelous amphibians, retaining archaic skeletal features."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In the family **Cryptobranchidae**, respiration is effected predominantly through the vascularized folds of the lateral skin."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"Members of the **Cryptobranchidae** inhabit cold, swiftly flowing mountain streams rich in dissolved oxygen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) exemption from error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) exemption from error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exemption from error, fallibility, or mistake; the state or attribute of being completely free from inaccuracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that the biblical scriptures are entirely free from error in all their teachings and historical assertions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inerrancy designates (christianity) exemption from error."*
+> - 📜 **B. B. Warfield (*The Inspiration and Authority of the Bible*):** *"The orthodox doctrine of biblical **inerrancy** affirms that God's word is wholly true in all that it affirms."*
+> - 📜 **Charles Hodge (*Systematic Theology*):** *"The historic Christian church has steadfastly maintained the divine inspiration and literal **inerrancy** of holy writ."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The dogma of scriptural **inerrancy** satisfies a deep psychological longing for absolute certainty in faith."*

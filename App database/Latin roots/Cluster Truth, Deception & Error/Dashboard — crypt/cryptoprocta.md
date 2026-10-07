@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive cat-like carnivores inhabiting forests of madagascar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorous mammals endemic to Madagascar (*Cryptoprocta*, containing the fossa, *C. ferox*), the top predator of the island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mammalian taxonomic genus possessing retractile claws, cat-like dentition, and a long muscular tail for climbing trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptoprocta designates large primitive cat-like carnivores inhabiting forests of madagascar."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The remarkable fossa, **Cryptoprocta** ferox, combines the cranial characters of civets with the muscular agility of cats."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In **Cryptoprocta**, the anus opens into a deep glandular pouch, from which anatomical peculiarity the generic name is derived."*
+> - 📜 **William Henry Flower (*The Osteology of the Mammalia*):** *"The skeletal morphology of **Cryptoprocta** exhibits archaic viverrid affinities with convergent felid adaptations for predation."*

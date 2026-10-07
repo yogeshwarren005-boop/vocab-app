@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no fixed course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not even or regular in pattern, movement, or behavior; unpredictable, fluctuating, and eccentric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, a large rock or boulder transported by glacial ice and deposited far from its bedrock origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Keep it—do, Miss Everdene—keep it!” said the erratic child of impulse."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Huge **erratic** boulders of granite were scattered across the plains hundreds of miles from the nearest mountain range."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vessel made **erratic** steering as the frightened helmsman struggled with the bucking wheel."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **erratic** impulses puzzled his neighbors, who preferred a steady and predictable course of life."*

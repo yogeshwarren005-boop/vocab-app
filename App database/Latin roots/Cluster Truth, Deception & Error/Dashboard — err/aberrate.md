@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverge from the expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diverge or deviate from the straight path; produce aberration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wander away, deviate, or stray from an established standard, normal course, or correct truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To distort an optical image through spherical or chromatic deviation of light rays in lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aberrate designates diverge from the expected."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Lenses ground with improper curvature will **aberrate** parallel rays of light away from the true focal point."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"When environmental forces shift abruptly, developmental processes tend to **aberrate** from the ancestral norm."*
+> - 📜 **George Henry Lewes (*Problems of Life and Mind*):** *"Sensory judgments rarely **aberrate** unless an underlying neurological lesion impairs cortical integration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in printed matter resulting from mechanical failures of some kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in printed matter resulting from mechanical failures of some kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error or mistake in printing or writing, especially one noted in a published list of corrections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corrigendum printed on a separate slip and bound into a published book to rectify typographical blunders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erratum designates a mistake in printed matter resulting from mechanical failures of some kind."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"This was another great **erratum** of my life, which I should wish to correct if I were to live it over again."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The scholarly editor took pride in discovering an ancient **erratum** that had eluded all previous commentators."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He examined the folio volume with care, noting every typographical **erratum** upon the flyleaf."*

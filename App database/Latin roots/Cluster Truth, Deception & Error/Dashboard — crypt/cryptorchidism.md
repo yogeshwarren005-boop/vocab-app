@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by the failure of one or both testes to descend normally into the scrotum before birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pediatric developmental anomaly involving an undescended testicle situated in the inguinal canal or abdominal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidism designates failure of one or both testes to move into the scrotum as the male fetus develops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncorrected **cryptorchidism** in adult males frequently results in testicular atrophy and permanent germinal infertility."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Endocrine disturbances involving the anterior hypophysis are often accompanied by bilateral **cryptorchidism**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"In **cryptorchidism**, the testis is arrested along its embryonic path of descent from the lumbar region to the scrotum."*

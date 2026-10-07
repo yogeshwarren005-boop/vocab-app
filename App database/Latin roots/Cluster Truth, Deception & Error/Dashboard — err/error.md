@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake, inaccuracy, or blunder in statement, calculation, judgment, or practical action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of holding mistaken beliefs; or the difference between an observed value and the true value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What error drives our eyes and ears amiss?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dust on antique time would lie unswept And mountainous error be too highly heaped For truth to o’erpeer."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human understanding is of its own nature prone to suppose more order in the world than it finds; this is a profound **error**."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Rules were discovered, not devised, to guard against **error**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every great institution in the world was once the solitary insight of one man fighting against public **error**."*

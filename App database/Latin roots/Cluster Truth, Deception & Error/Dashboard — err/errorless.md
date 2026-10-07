@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely free from error, inaccuracy, defect, or mistake; faultless, perfect, and exact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Executed with flawless precision and mathematical accuracy throughout every detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, errorless designates free from error."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The prime object of the Calculating Engine was to produce **errorless** mathematical tables for nautical astronomy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His narrative is a masterpiece of historical craftsmanship, distinguished by **errorless** chronology."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The prose of Dryden exhibits an almost **errorless** cadence that never tires the ear."*

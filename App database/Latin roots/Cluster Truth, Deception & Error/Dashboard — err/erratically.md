@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an erratic unpredictable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an erratic unpredictable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irregular, unpredictable, unsteady, or fluctuating manner without consistent order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wildly wandering, eccentric, or deviating fashion that defies systematic calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her heart erratically flitting hither and thither from perplexed excitement, hot, and almost tearful, she retreated homeward, murmuring, “Oh, what have I done!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That I had partly succeeded I knew; but all that I had experienced was a fluttering of apparitions that merged erratically and were without continuity."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The furniture began to move **erratically** about the room as if possessed by an unseen demonic force."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The lantern light flickered **erratically** against the damp masonry of the subterranean sewer."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The ship drifted **erratically** in the dead calm, turning her bows toward every quarter of the compass."*

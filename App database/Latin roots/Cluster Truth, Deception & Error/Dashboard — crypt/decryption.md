@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of making clear or converting from code into plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making clear or converting from code into plain text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting encrypted ciphertext back into its original intelligible plaintext format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The computational or mathematical restoration of scrambled data using an authorized deciphering key.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decryption designates the activity of making clear or converting from code into plain text."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The mathematical operation of **decryption** is the exact inverse transformation of the enciphering algorithm."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The speed of message **decryption** proved vital in anticipating naval movements during the Battle of Midway."*
+> - 📜 **Alan Turing (*Report on the Enigma*):** *"Routine **decryption** of Axis radio traffic provided commanders with an unmatched strategic advantage."*

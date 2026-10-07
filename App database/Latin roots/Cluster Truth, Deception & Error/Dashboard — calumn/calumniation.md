@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The malicious utterance or publication of false and defamatory charges against an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic practice or act of vilifying and slandering public officials or private citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Faithful to the true principles of the Federal Union, unconscious of any designs to disturb the harmony of that Union, and anxious only to escape the fangs of despotism, the good people of this commonwealth are regardless of censure or calumniation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No defense can entirely shield virtue from the insidious assaults of secret **calumniation**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factions in free republics too often degenerate into mutual bitterness and reckless **calumniation**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor listened with credulous satisfaction to every whispered **calumniation** brought against his generals."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsure of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsure of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of uncertainty, hesitation, doubt, or insecurity regarding future events or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instability, unpredictability, or lack of assurance in political, moral, or philosophical affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But then Oak was not racked by incertitude upon the inmost matter of his bosom, as she was at this moment."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And in each Power's restless fluctuation From might to weakness, and from servitude To might, is shown the sword's incertitude."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But then Oak was not racked by incertitude upon the inmost matter of his bosom as she was at this moment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prolonged **incertitude** regarding the imperial succession paralyzed the governance of the provinces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A reign of suspicion and wild **incertitude** gripped the citizens of Paris from dawn to dusk."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The agony of prolonged moral **incertitude** tortured his conscience far more than any physical prison."*

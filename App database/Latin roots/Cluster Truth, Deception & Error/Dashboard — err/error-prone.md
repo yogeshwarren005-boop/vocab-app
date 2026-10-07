@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of making an error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of making an error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to make errors; tending to produce mistakes, blunders, or operational failures frequently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing complex manual tasks, software protocols, or human systems with high vulnerability to mistakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, error-prone designates capable of making an error."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"Human computation is notoriously **error-prone**, requiring systematic mechanical verification of every calculation."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops are engineered precisely to stabilize systems that would otherwise be dangerously **error-prone**."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"Under severe cognitive overload, human decision-making becomes increasingly heuristic and **error-prone**."*

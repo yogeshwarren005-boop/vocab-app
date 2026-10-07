@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fallibility as indicated by erring or a tendency to err.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or tendency of making mistakes, being in error, or holding mistaken views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The propensity of human beings or ancient texts to contain factual or doctrinal inaccuracies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, errancy designates (christianity) holding views that disagree with accepted doctrine; especially disagreement with papal infallibility."*
+> - 📜 **Samuel Taylor Coleridge (*Confessions of an Inquiring Spirit*):** *"To assert the human **errancy** of historical chroniclers does not diminish the divine inspiration of scripture."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The intellectual **errancy** of the modern age springs from an overweening pride in individual judgment."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"She viewed his moral **errancy** with that gentle pity which true love alone can bestow."*

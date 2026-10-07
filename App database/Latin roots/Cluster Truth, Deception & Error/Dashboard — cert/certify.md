@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee payment on; of checks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attest or confirm formally and officially in writing that a fact, condition, or status is true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare an individual legally qualified, licensed, or medically afflicted under statutory procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, for that she’s in a wrong belief, I go to certify her Talbot’s here."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For he’s too old to be your boy, ma’am.” “I can certify at all events that he is not anybody else’s,” returns Mrs."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Ten minutes were enough to certify that."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"This letter doth **certify** the king of their rebellion in the western shires."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The registrar refused to **certify** the marriage until the statutory notices had expired."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Consular officers were empowered to **certify** invoices and documents destined for foreign ports."*

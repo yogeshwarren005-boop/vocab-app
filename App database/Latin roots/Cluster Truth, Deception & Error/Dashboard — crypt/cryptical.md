@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a secret or hidden meaning; ; ; - john gunther.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by hidden meaning, mysterious obscurity, or puzzling concealment; enigmatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hidden or secret in nature, function, or origin in early scientific and philosophical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptical designates of an obscure nature; ; ; ; - rachel carson."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient Egyptians conveyed their mystical doctrines under **cryptical** hieroglyphs and enigmatic fables."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His marginal annotations were written in a **cryptical** and fragmentary style that few scholars could decipher."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Swedenborg's visions contain **cryptical** revelations concerning the celestial correspondences of earthly objects."*

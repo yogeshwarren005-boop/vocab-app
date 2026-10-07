@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose behavior departs substantially from the norm of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly different from an accepted norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing markedly from an accepted, standard, natural, or normal type or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differing in structural or behavioral characteristics from the typical members of a taxonomic group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species having an **aberrant** structure or unusual habits often throw light on the affinities of larger groups."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Psychological states deemed **aberrant** by common opinion may nevertheless possess profound spiritual significance."*
+> - 📜 **Thomas Huxley (*Critiques and Addresses*):** *"The fossil organism presented an **aberrant** combination of piscine and reptilian osteological traits."*

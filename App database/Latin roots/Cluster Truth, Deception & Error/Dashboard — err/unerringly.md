@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without making errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without making errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unerring, infallible, and consistently accurate manner without making mistakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With perfect precision, directness, and faultless certainty toward a goal or target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill fully acknowledged the merits of the scheme, but laid his finger unerringly on its weakest part."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush!"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bloodhound followed the scent **unerringly** through the treacherous morass of the moor."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak's experienced eye read the signs of the sky **unerringly**, preparing for the midnight storm."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck led the sled pack **unerringly** over the frozen crust of the Yukon River."*

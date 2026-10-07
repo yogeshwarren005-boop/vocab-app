@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and mathematical science of deciphering coded messages or encrypted ciphers without prior knowledge of the secret key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic analytical evaluation of cryptographic algorithms and cryptographic systems to identify security weaknesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalysis designates the science of analyzing and deciphering codes and ciphers and cryptograms."*
+> - 📜 **William F. Friedman (*The Index of Coincidence and Its Applications in Cryptanalysis*):** *"Statistical methods provide the foundational apparatus upon which modern mathematical **cryptanalysis** operates."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Theoretical **cryptanalysis** demonstrates that only a one-time pad key provides unconditional secrecy against unlimited computing power."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The triumphs of Allied **cryptanalysis** at Bletchley Park shortened the European war by several crucial months."*

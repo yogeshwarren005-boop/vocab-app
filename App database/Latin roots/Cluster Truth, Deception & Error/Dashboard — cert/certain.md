@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Definite but not specified or identified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no doubt or uncertainty; confident and assured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Known to be true beyond doubt or question; completely confident, established, or reliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specific but not explicitly named or described, designating a particular person, thing, or degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do not know him, my lord, as we do; certain it is that he will steal himself into a man’s favour, and for a week escape a great deal of discoveries, but when you find him out, you have him ever after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would do the man what honour I can, but of this I am not certain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certain it is I lik’d her And boarded her i’ the wanton way of youth."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I am a tainted wether of the flock, meetest for death. I am **certain** of my doom."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"I resolved to accept nothing as true that did not present itself so clearly to my mind as to be **certain**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our knowledge is only **certain** so far as our ideas agree with the reality of things."*

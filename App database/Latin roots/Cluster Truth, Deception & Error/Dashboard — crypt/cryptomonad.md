@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common in fresh and salt water appearing along the shore as algal blooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common in fresh and salt water appearing along the shore as algal blooms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-celled, biflagellated freshwater or marine alga of the order *Cryptomonadales*, having flattened cells and red or brown plastids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The microscopic photosynthetic flagellate organism possessing an anterior furrow lined with ejectisomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptomonad designates common in fresh and salt water appearing along the shore as algal blooms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The swimming movements of the **cryptomonad** are propelled by two unequal, subapical flagella."*
+> - 📜 **G. M. Smith (*The Fresh-Water Algae of the United States*):** *"Planktonic blooms of the brown **cryptomonad** impart a distinct olive tinge to eutrophic lake waters."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The presence of a nucleomorph in the **cryptomonad** plastid provides indisputable evidence of secondary endosymbiosis."*

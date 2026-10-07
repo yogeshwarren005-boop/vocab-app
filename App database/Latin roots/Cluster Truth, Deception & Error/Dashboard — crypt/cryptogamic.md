@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cryptogam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cryptogam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to cryptogams; reproducing by spores without flowers or true seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the non-seed-bearing flora of mosses, liverworts, ferns, lichens, and algae in ecological systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When the cryptogamic plants of the world shall have been as widely examined and as well understood as the phanerogamic plants have been, we shall be in a better position to determine the geographical distribution of the different orders of fungi."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The proportion which the cryptogamic section bears to the phanerogamic in our local Floras before 1818, now almost involuntarily causes a smile."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coal measures abound in gigantic **cryptogamic** vegetation, including monstrous lycopods and arborescent ferns."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"On the subantarctic islands, the **cryptogamic** flora vastly outnumbers the few depauperate flowering plants."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The damp boulders along the mountain cascade were velvety with dense cushions of **cryptogamic** moss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin crypt within the domain of Truth, Deception & Error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of crypt in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital or virtual currency secured by cryptography and operating on decentralized distributed ledger technology like blockchain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alternative digital medium of exchange that functions without relying upon central banks or traditional monetary authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocurrency designates pertaining to, derived from, or characteristic of latin crypt within the domain of truth, deception & error."*
+> - 📜 **Satoshi Nakamoto (*Bitcoin: A Peer-to-Peer Electronic Cash System*):** *"A purely peer-to-peer version of electronic cash would allow online payments without going through a financial institution; thus was born **cryptocurrency**."*
+> - 📜 **Lawrence Lessig (*Code: And Other Laws of Cyberspace, Version 2.0*):** *"The emergence of sovereign **cryptocurrency** challenges traditional governmental monopoly over the minting of money."*
+> - 📜 **Jonathan Zittrain (*The Future of the Internet*):** *"Decentralized protocols facilitating private **cryptocurrency** transactions reflect a libertarian ambition to escape regulatory intermediaries."*

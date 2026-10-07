@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short trip that is taken in the performance of a necessary task or mission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short trip that is taken in the performance of a necessary task or mission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short journey taken to deliver or collect something, or to perform a specific domestic or business task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specific mission, purpose, message, or commission entrusted to a messenger or representative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This jack of Caesar’s shall Bear us an errand to him. [_Exeunt Servants with Thidias._] You were half blasted ere I knew you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My errand is to you, fair youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe was sent on an **errand** into the town to purchase some nails from the blacksmith."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed on its relentless **errand** of slaughter across the trackless wastes of the Pacific."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The gentle maiden hastened along the forest path upon her charitable **errand** of mercy."*

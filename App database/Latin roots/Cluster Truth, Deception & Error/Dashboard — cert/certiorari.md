@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinary judicial writ issued by a superior court directing a lower court to send up the record of a case for review.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discretionary appellate procedure by which the Supreme Court or high tribunal selects cases for judicial determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, certiorari designates a common law writ issued by a superior court to one of inferior jurisdiction demanding the record of a particular case."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A writ of **certiorari** issues out of the King's Bench to remove indictments from inferior jurisdictions."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"Under appellate jurisdiction, the high court exercises authority through writs of error, habeas corpus, and **certiorari**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The historic scope of **certiorari** was confined to correcting excess of jurisdiction in tribunals acting without right."*

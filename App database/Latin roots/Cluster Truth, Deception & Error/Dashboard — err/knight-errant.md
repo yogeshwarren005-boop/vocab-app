@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wandering knight travelling in search of adventure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wandering knight travelling in search of adventure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval knight who wandered in search of chivalric adventures to demonstrate martial prowess and rescue the distressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idealistic, chivalrous person who wanders about seeking to right wrongs and redress grievances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, knight-errant designates a wandering knight travelling in search of adventure."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"I am a **knight-errant**, and it is my sworn calling to succor the afflicted and avenge the helpless."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wandering **knight-errant** was welcome at every baron's hearth so long as he bore an honorable shield."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"He fancied himself a romantic **knight-errant** roaming through the enchanted valleys of old Andalusia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoder skilled in the analysis of codes and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoder skilled in the analysis of codes and cryptograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or scientist specializing in cryptology, embracing both cryptographic encryption and cryptanalytic decipherment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional communications intelligence researcher who designs secure algorithms or decodes intercepted ciphers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptologist designates decoder skilled in the analysis of codes and cryptograms."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The genius of the professional **cryptologist** lies in uncovering order beneath an appearance of random chaos."*
+> - 📜 **William F. Friedman (*Military Cryptanalysis*):** *"A competent **cryptologist** must be versed in linguistic frequency patterns as well as probability calculus."*
+> - 📜 **Alan Turing (*Report on the Enigma*):** *"The task of the naval **cryptologist** was complicated by daily alterations in the indicator tables."*

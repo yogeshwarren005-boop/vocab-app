@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsteady manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of certainty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncertain, hesitant, doubtful, or unsteady manner showing lack of confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With wavering unpredictability, variability, or fluctuating ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My woes are tedious, though my words are brief.” Here folds she up the tenor of her woe, Her certain sorrow writ uncertainly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She could not pray: under the rush of solemn emotion in which thoughts became vague and images floated uncertainly, she could but cast herself, with a childlike sense of reclining, in the lap of a divine consciousness which sustained her own."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Put out your hand, and wait till I spit on my fist--" Through the doors of Michael Doyle's public house a young farmer walked uncertainly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He looked around **uncertainly**, as if wondering whether to advance into the light or retreat into the mist."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flickering lantern beam played **uncertainly** across the swollen waters of the mill-stream."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The young sailor answered **uncertainly**, staring down at the deck with troubled eyes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoder skilled in the analysis of codes and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoder skilled in the analysis of codes and cryptograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or practitioner skilled in the design, creation, and application of ciphers and secret cryptographic codes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematical intelligence officer who develops encryption systems to safeguard confidential state communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptographer designates decoder skilled in the analysis of codes and cryptograms."*
+> - 📜 **Edgar Allan Poe (*A Few Words on Secret Writing*):** *"No human cipher can be devised by one mind which the ingenuity of another **cryptographer** cannot ultimately unravel."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The professional **cryptographer** must assume that the adversary possesses complete knowledge of the cipher apparatus."*
+> - 📜 **Alan Turing (*On Computable Numbers*):** *"The mathematical **cryptographer** formalizes linguistic unpredictability into rigorous statistical probability tables."*

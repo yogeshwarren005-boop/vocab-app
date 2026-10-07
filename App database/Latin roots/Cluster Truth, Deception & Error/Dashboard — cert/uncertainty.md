@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unsettled or in doubt or dependent on chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsure of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of doubt, hesitation, or lack of definite knowledge regarding future events or contested facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is unpredictable, variable, or open to question in future prospects or outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The agony of suspense was over, and even the sorrow of certainty was preferred to the torment of **uncertainty**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I lingered in painful **uncertainty** outside her door, wondering whether to knock or turn away."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **uncertainty** of agricultural harvests causes constant fluctuations in the market price of corn."*

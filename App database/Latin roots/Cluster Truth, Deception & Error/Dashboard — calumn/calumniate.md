@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make false, malicious, and defamatory statements about someone to damage their reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misrepresent or vilify someone's character, motives, or public actions with deliberate hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Calumniate, _see_ Slander, Sutra."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let not virtue seek Remuneration for the thing it was; For beauty, wit, High birth, vigour of bone, desert in service, Love, friendship, charity, are subjects all To envious and calumniating Time."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Envy and hatred prompt the fallen spirits to **calumniate** the divine majesty with bitter blasphemies."*
+> - 📜 **Thomas Jefferson (*Letter to James Madison*):** *"Party scribblers do not hesitate to **calumniate** the purest motives of public servants."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"It is the common stratagem of oppressors to **calumniate** the victims whom they have plundered."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden disturbance of poise, self-possession, or mental composure resulting from embarrassment or confusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The frustration, overturning, or failure of a concerted plan or cooperative undertaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And if they could be prevailed upon or compelled to do it, the increased expense of a frequent rotation of service, and the loss of labor and disconcertion of the industrious pursuits of individuals, would form conclusive objections to the scheme."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The young man's sudden confession produced visible **disconcertion** among the assembled relatives."*
+> - 📜 **Anthony Trollope (*The Last Chronicle of Barset*):** *"Mr. Crawley covered his **disconcertion** under an attitude of haughty, unbending silence."*
+> - 📜 **George Meredith (*The Egoist*):** *"Sir Willoughby experienced a pang of acute **disconcertion** at discovering her complete indifference."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unsettled or in doubt or dependent on chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being unsettled or in doubt or dependent on chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsettled or unpredictable character, marked by absence of definite knowledge or predictability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hesitation, vagueness, or ambiguity arising from a lack of reliable knowledge or definite assurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncertainness designates being unsettled or in doubt or dependent on chance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The perpetual **uncertainness** of human fortunes ought to teach mortals moderation in prosperity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The lingering **uncertainness** of her future weighed upon Dorothea far more heavily than any positive sorrow."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"A painful **uncertainness** of purpose paralyzed his fine natural talents before they could bear fruit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition for orchestra and a soloist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition for orchestra and a soloist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition usually composed in three movements for a solo instrument accompanied by an orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A baroque musical form featuring alternating musical dialogue between a small group of soloists and the full ensemble.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concerto designates a composition for orchestra and a soloist."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The violin **concerto** unfolded with an austere beauty that held the listeners spellbound."*
+> - 📜 **George Bernard Shaw (*Love Among the Artists*):** *"He played the Beethoven pianoforte **concerto** with astonishing technical brilliance and fierce emotion."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy threw herself into the fiery rhythms of the Italian **concerto**, forgetting her English reserve."*

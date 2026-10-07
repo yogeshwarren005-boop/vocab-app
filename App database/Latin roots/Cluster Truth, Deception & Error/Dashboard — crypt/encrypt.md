@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert ordinary language into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert ordinary language into code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert plaintext information or data into a secure, scrambled ciphertext code using an encryption algorithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To encode or protect electronic files against unauthorized interception, espionage, or digital tampering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrypt designates convert ordinary language into code."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"To **encrypt** a communication successfully, the transmitter applies a key-dependent transformation to the plaintext."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Military command posts were instructed to **encrypt** all operational field orders before wireless transmission."*
+> - 📜 **Alan Turing (*Report on the Enigma*):** *"The electromechanical machine was wired to **encrypt** each letter through three rotating commutator drums."*

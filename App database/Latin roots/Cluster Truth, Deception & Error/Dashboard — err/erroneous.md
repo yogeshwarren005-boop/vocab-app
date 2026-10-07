@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characterized by error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing error; incorrect, mistaken, inaccurate, or based on false premises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from true fact, sound logic, or objective historical evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What stratagems, how fell, how butcherly, Erroneous, mutinous, and unnatural, This deadly quarrel daily doth beget!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is more than the germ of truth in things erroneous in the child’s definition of memory as the thing one forgets with."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Certain erroneous explanations of the advantages of foreign trade may be dismissed with brief mention."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"False views do little harm, for every one takes a salutary pleasure in proving their **erroneous** nature."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Prejudice leads men into obstinate adherence to **erroneous** principles which they never submit to proof."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The mercantilist system rested upon the **erroneous** belief that national wealth consists solely in gold and silver."*

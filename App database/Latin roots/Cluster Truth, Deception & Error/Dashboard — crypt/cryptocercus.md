@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cockroaches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cockroaches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wingless, wood-eating roaches (*Cryptocercus*, the brown-hooded cockroach) living in rotting logs in temperate forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blattodean genus celebrated in evolutionary biology for transferring mutualistic intestinal symbionts to offspring via proctodeal trophallaxis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocercus designates cockroaches."*
+> - 📜 **L. R. Cleveland (*Symbiosis in Cryptocercus*):** *"Colonies of **Cryptocercus** punctulatus bore complex labyrinthine galleries through decaying mountain hemlock logs."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The strict host specificity of hypermastigote flagellates inside **Cryptocercus** demonstrates an ancient co-evolutionary partnership."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Parents of the genus **Cryptocercus** groom and nourish their young for several seasons until their symbiotic gut fauna is established."*

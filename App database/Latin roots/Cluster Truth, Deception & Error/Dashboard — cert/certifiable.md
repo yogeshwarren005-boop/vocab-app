@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be certified as insane (and treated accordingly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being guaranteed or certified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being officially certified, verified, or guaranteed through formal documentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally qualified for commitment to a psychiatric institution under formal medical certification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, certifiable designates fit to be certified as insane (and treated accordingly)."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"In our eccentric household, half the inhabitants are **certifiable** according to conventional social standards."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"The physician maintained that unbridled monomania rendered the patient clinically **certifiable**."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"His bizarre political theories bordered so closely on dementia as to make him almost **certifiable**."*

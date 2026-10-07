@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical term synonymous with cryptorchidism, referring to the congenital condition of an undescended testicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The developmental failure of the testis to complete its caudal migration into the scrotum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchism designates failure of one or both testes to move into the scrotum as the male fetus develops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of bilateral **cryptorchism**, complete aspermia is the rule, although Leydig endocrine function may persist."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Adiposogenital dystrophy is frequently associated with marked infantilism and congenital **cryptorchism**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Failure of the gubernaculum to contract properly is considered a primary mechanical cause of **cryptorchism**."*

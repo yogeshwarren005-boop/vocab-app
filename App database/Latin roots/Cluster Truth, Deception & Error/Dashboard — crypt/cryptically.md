@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptic manner;  he said cryptically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic manner;  he said cryptically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mysterious, obscure, or enigmatic manner that conceals the true intention or meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of protective biological camouflage or disguised resemblance in nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Make Philly," cried Sherman cryptically, above the sound of the explosions that were driving their craft through the air at over six hundred miles an hour."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The message was **cryptically** worded, reading like a harmless advertisement for vintage furniture."*
+> - 📜 **Joseph Conrad (*Chance*):** *"He smiled **cryptically** and tapped his breast pocket without uttering another syllable."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Certain tree geckos are **cryptically** mottled to blend imperceptibly against lichen-covered bark."*

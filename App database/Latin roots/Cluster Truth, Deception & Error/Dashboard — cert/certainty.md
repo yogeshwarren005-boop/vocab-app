@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being certain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is certain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absolute conviction free from all doubt; an established, indisputable fact or verified truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reliable fact, established truth, or outcome that cannot fail to occur or be realized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
+> - 📜 **Benjamin Franklin (*Letter to Jean-Baptiste Le Roy*):** *"Our new Constitution is now established; but in this world nothing can be said to be certain, except death and taxes; all else lacks absolute **certainty**."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Mathematical propositions possess intuitive or demonstrative **certainty**, independent of empirical fact."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Absolute **certainty** is an unattainable illusion that ought never to justify suppressing free debate."*

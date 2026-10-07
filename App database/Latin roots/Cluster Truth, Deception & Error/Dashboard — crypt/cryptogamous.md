@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cryptogam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cryptogam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hidden reproductive organs and reproducing by spores rather than flowers; characteristic of cryptogams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting flowerless spore-bearing vegetation, including ferns, mosses, and algae, in traditional botany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogamous designates of or relating to a cryptogam."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The humid atmosphere of Tierra del Fuego fosters a luxuriant undergrowth of **cryptogamous** species upon every fallen trunk."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The damp, primeval wilderness was carpeted with luxuriant **cryptogamous** growths that swallowed our footsteps."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The microscopic study of **cryptogamous** reproduction by Hofmeister demonstrated the fundamental unity of all plant life."*

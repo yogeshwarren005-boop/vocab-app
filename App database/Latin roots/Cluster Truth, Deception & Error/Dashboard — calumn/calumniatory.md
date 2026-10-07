@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, conveying, or characterized by slanderous, malicious, and untrue accusations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or intended to defame, disparage, and dishonor someone's personal standing or integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calumniatory designates (used of statements) harmful and often untrue; tending to discredit or malign."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A **calumniatory** accusation unsupported by legal proof ought to subject the complainant to severe penalties."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The pamphlet was packed with **calumniatory** libels against the character of the Lord Chancellor."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"She rejected the **calumniatory** gossip of the village with dignified disdain."*

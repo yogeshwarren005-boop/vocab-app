@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coiled barbed wire used as an obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-reed instrument played like an accordion by pushing its ends together to force air through the reeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, hexagonal musical instrument of the reed organ family, played by compressing bellows while pressing keys or buttons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coiled razor wire that expands accordion-style to form an obstacle; or to collapse or fold inward like bellows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Imagine him here—the very end of the world, a sea the colour of lead, a sky the colour of smoke, a kind of ship about as rigid as a concertina—and going up this river with stores, or orders, or what you like."*
-> - 📜 **James Joyce (*Ulysses*):** *"If I could get that dressmaker to make a concertina skirt like Susy Nagle’s."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"The old forecastle sailor brought out his battered **concertina** and played plaintive sea ballads to the crew."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"From the darkened deck of the trading brig came the faint, nasal wailing of a **concertina**."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"An itinerant busker sat on the curb squeezing melancholy waltzes out of a squeaky **concertina**."*

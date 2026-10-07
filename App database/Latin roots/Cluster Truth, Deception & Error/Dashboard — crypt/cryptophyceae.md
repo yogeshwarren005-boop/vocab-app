@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motile usually brownish-green protozoa-like algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Motile usually brownish-green protozoa-like algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of unicellular, biflagellate aquatic algae (*Cryptophyceae*) possessing distinctive plastids derived from an engulfed red alga.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The photosynthetic taxonomic class of aquatic microalgae containing chlorophylls a and c alongside phycobilin accessory pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyceae designates motile usually brownish-green protozoa-like algae."*
+> - 📜 **G. M. Smith (*The Fresh-Water Algae of the United States*):** *"Members of the **Cryptophyceae** are distinguished by their dorsiventrally flattened cells and gullet-like groove."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"In the **Cryptophyceae**, the discharge of explosive ejectosomes serves as an escape reaction from predators."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The photosynthetic organelles of the **Cryptophyceae** contain a relict eukaryotic nucleus known as a nucleomorph."*

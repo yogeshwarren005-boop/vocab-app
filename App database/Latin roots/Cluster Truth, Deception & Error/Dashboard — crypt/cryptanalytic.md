@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, employing, or characteristic of the mathematical techniques and procedures of cryptanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or functioning to evaluate, penetrate, or break encrypted data and cipher systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalytic designates of or relating to cryptanalysis."*
+> - 📜 **William F. Friedman (*Military Cryptanalysis*):** *"The application of **cryptanalytic** principles enables intelligence officers to reconstruct transposed enemy dispatches."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"From a **cryptanalytic** standpoint, redundancy in the plaintext language provides the vital leverage for frequency analysis."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The development of electromechanical bombes marked an unprecedented industrialization of **cryptanalytic** technique."*

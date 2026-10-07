@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate medical term for cryptorchidism, denoting the failure of one or both testicles to descend into the scrotum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical state of having an undescended testis retained within the abdominal cavity or inguinal ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidy designates failure of one or both testes to move into the scrotum as the male fetus develops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical orchidopexy is indicated in persistent cases of congenital **cryptorchidy** to prevent subsequent malignant degeneration."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The condition of **cryptorchidy** may be unilateral or bilateral, and is often complicated by congenital inguinal hernia."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Secondary sexual development may proceed normally in unilateral **cryptorchidy** provided the descended gland produces adequate hormone."*

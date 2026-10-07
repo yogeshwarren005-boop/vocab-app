@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be no longer approved or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be no longer approved or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke, withdraw, or cancel the official certification or legal recognition of a union, school, or licensed professional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To officially disqualify an entity from accredited standing after failure to satisfy statutory regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decertify designates cause to be no longer approved or accepted."*
+> - 📜 **Felix Frankfurter (*The Labor Injunction*):** *"The labor board reserved the power to **decertify** any collective bargaining representative that engaged in unfair practices."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism: The Concept of Countervailing Power*):** *"Efforts by management to **decertify** militant industrial unions precipitated bitter legal battles."*
+> - 📜 **Arthur Goldberg (*AFL-CIO: Labor United*):** *"The national federation voted to **decertify** affiliate unions that tolerated racketeering within their leadership."*

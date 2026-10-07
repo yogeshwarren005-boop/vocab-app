@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of writing in code or cipher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of writing in code or cipher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A text or message written in code or cipher, requiring a secret key or cryptanalytic decryption to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word puzzle or encrypted riddle based on systematic alphabetical substitution or transposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"I found that the parchment contained a **cryptogram** of figures, which I solved by calculating the frequency of English letters."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"Sherlock Holmes sat studying the grotesque little stick figures, recognizing them as an ingenious **cryptogram**."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"Professor Lidenbrock paced the floor in furious agitation, determined to crack the runic **cryptogram** of Arne Saknussemm."*

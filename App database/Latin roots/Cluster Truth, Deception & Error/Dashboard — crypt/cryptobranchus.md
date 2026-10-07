@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cryptobranchidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cryptobranchidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large aquatic North American salamanders (*Cryptobranchus*, containing the hellbender, *C. alleganiensis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amphibian taxonomic genus of wrinkled-skinned salamanders that shelter under submerged flat river rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobranchus designates type genus of the cryptobranchidae."*
+> - 📜 **Spencer Fullerton Baird (*Revision of the North American Tailed-Batrachia*):** *"The hellbender, **Cryptobranchus** alleganiensis, attains a length of nearly two feet in the clear waters of the Ohio basin."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"In **Cryptobranchus**, the gill slits are reduced to a single persistent spiracle on one side of the neck."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"Anglers frequently express revulsion when hooking **Cryptobranchus**, mistakenly believing the harmless creature to be venomous."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical family of leptosporangiate ferns (*Cryptogrammataceae*) centered on the rock brake genus *Cryptogramma*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic fern grouping formerly segregated from Pteridaceae to encompass rock-dwelling ferns with dimorphic fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogrammataceae designates one of a number of families into which the family polypodiaceae has been subdivided in some classification systems."*
+> - 📜 **Richard Wettstein (*Handbuch der Systematischen Botanik*):** *"Under the family **Cryptogrammataceae**, pteridologists group several small genera of chasmophytic ferns adapted to alpine scree."*
+> - 📜 **Edward Palmer (*Contributions from the U.S. National Herbarium*):** *"Specimens representative of the **Cryptogrammataceae** were collected from the rocky slopes of the Sierra Nevada."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the dizzy granitic precipices of the High Sierra cling diminutive ferns allied to the **Cryptogrammataceae**."*

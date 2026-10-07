@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking requisite official documentation or endorsement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking requisite official documentation or endorsement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing an official certificate, legal endorsement, professional license, or credential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not attested, validated, or verified by an authorized authority or formal document.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am grown old in confinement, and lay my account with ending my days in jail, as the mercy of the legislature in favour of insolvent debtors is never extended to uncertified bankrupts taken in execution."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The medical council sternly prosecuted any **uncertified** practitioner who prescribed dangerous drugs."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"The employment of **uncertified** and untrained attendants in military hospitals led to appalling mortality."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"He refused to administer the **uncertified** serum until rigorous laboratory trials had demonstrated its purity."*

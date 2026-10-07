@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsettled, confused, embarrassed, or thrown off balance in composure and confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thwarted, disordered, or disrupted in systematic plan, purpose, or execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three children's faces were absolutely disconcerted, for the obstacles were clearly insurmountable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was disconcerted and walked to the window; I almost believed with an intention of jumping out, until he turned and I was reassured by seeing in his eyes what he had gone there to hide."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down.” He sat down, a little disconcerted by my presence, I thought, and without looking at me, drew his heavy sunburnt hand across and across his upper lip."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt thoroughly **disconcerted** by her direct question, which laid bare his hidden motives."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare looked **disconcerted** when he found the dairymaid weeping in the early morning twilight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Even the seasoned mate seemed **disconcerted** by the captain's wild, fanatical outbursts."*

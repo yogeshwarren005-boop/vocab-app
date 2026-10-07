@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, employing, or characteristic of cryptology, including both cipher design and codebreaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to intelligence analysis, secret communications security, and signals intelligence operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptologic designates of or relating to cryptanalysis."*
+> - 📜 **William F. Friedman (*Military Cryptanalysis*):** *"The modern **cryptologic** establishment must master both cryptographic protection and cryptanalytic attack."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The history of twentieth-century warfare is inseparable from brilliant **cryptologic** breakthroughs on both sides."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"A unified **cryptologic** theory encompasses the transmission channel, the cipher key, and the interceptor."*

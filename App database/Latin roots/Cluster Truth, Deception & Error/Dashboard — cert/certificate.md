@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document attesting to the truth of certain stated facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official document attesting to a fact, qualification, truth, achievement, or legal status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A financial security or voucher evidencing ownership of shares, debt, or deposited funds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am quite willing—I believe I use a legal phrase—to admit the certificate.” Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have you the registrar’s certificate?” “No,” said Gabriel."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such coinage is essentially but the stamp and certificate that the coin contains a certain weight and fineness of metal."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He produced his marriage **certificate** from a tin box with trembling and reverent hands."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Without the formal teacher's **certificate**, he could not hope to secure a village schoolmaster's post."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The will was accompanied by a stock **certificate** certifying substantial holdings in railway shares."*

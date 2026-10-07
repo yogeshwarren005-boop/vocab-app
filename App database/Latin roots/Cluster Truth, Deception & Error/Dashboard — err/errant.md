@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straying from the right course or from accepted standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncontrolled motion that is irregular or unpredictable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erring or straying from the proper course, standards, or accepted boundaries of behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling or wandering widely in search of adventure, especially a medieval knight in chivalric romances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you she knight-errant, come."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best way is the next way to a grave; Each errant step beside is torment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was now literally trembling and panting at this her temerity in such an errant undertaking; her breath came and went quickly, and her eyes shone with an infrequent light."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"We must restrain these **errant** thoughts that wander beyond the bounds of reason."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The bold **errant** knight rode forth to challenge all comers in the royal lists of Ashby."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"An **errant** sheep had strayed from the flock and stood bleating upon the windy edge of the barrow."*

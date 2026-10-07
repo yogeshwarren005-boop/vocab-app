@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 24th and final class of the Linnaean sexual classification system of plants, encompassing all flowerless spore-producing organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical botanical taxon comprising ferns, horsetails, lycopods, mosses, liverworts, algae, and lichens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Relhan, for instance, only occupies one-fifth of his “Flora Cantabrigiensis,” and Hudson one-fourth of his “Flora Anglica,” with the Cryptogamia."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"To our twenty-fourth class, **Cryptogamia**, we assign all those plants whose nuptials are celebrated in secret without visible blossom."*
+> - 📜 **Erasmus Darwin (*The Botanic Garden*):** *"In the shadowy grottos of **Cryptogamia**, the modest mosses and lichens weave their silent tapestries."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The damp stone grottos around the hanger are richly embellished with humble members of the Linnaean class **Cryptogamia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ascertained or found out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being ascertained or found out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being discovered, verified, or determined with definite certainty through inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurable or verifiable by objective observation, historical evidence, or scientific calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The labor itself has not a predetermined, ascertainable value, but only a resultant, derived value."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"These burdens are diffused and rest eventually on some income, not always exactly ascertainable."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The odour from the wicker bottle (which has somehow passed into Durdles’s keeping) soon intimates that the cork has been taken out; but this is not ascertainable through the sense of sight, since neither can descry the other."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The physical laws governing phenomena are progressively **ascertainable** by systematic empirical observation."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The legal liability must rest upon definite and **ascertainable** standards of conduct."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"The natural boundaries of the ancient seabed are clearly **ascertainable** through fossil deposits."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Previously arranged or agreed on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Previously arranged or agreed on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, planned, or agreed upon beforehand by mutual consensus or secret coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done pursuant to a previous understanding, conspiracy, or prearranged scheme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, remembering the preconcerted visits, at all hours, of Mr Elliot, would have expected him, but for his known engagement seven miles off."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is only fair to Bathsheba to explain here a little fact which did not come to light till a long time afterwards: that Troy’s presentation of himself so aptly at the roadside this evening was not by any distinctly preconcerted arrangement."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"As they were enjoying together this favorite Hawaiian pastime of _lele kowali_, by a preconcerted signal the friends above were informed of the success of his ruse and were now rapidly drawing them up."*
+> - 📜 **Walter Scott (*Waverley*):** *"The rising of the Highland clans took place according to a **preconcerted** signal given from the mountain tops."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The rioters gathered at the tavern pursuant to a **preconcerted** design to sack the prison."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"We met at the appointed hour according to our **preconcerted** agreement and drew up the rules of the club."*

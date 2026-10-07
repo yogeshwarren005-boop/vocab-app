@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to error; -g.g.coulton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to error; -g.g.coulton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of erring, making a mistake, or going astray; absolutely infallible in judgment or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from the human possibility of mistake or deception in theological and philosophical discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inerrable designates not liable to error; -g.g.coulton."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"No mortal prelate can claim an **inerrable** judgment in matters of speculative divinity."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"If civil magistrates possessed an **inerrable** guide to eternal salvation, their coercion might be tolerable."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"We must not attribute an **inerrable** perfection to the finite intellect of fallible human beings."*

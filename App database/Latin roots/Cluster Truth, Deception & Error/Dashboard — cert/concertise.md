@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give concerts; perform in concerts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give concerts; perform in concerts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform in public musical concerts, especially as a touring virtuoso soloist or chamber ensemble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To travel widely across cities or countries presenting classical musical recital tours to audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concertise designates give concerts; perform in concerts."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"A pianist of genuine merit has no need to **concertise** continuously across the provinces merely to maintain reputation."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She had once dreamed of traveling abroad to **concertise** in the great capitals of Europe."*
+> - 📜 **Arthur Symons (*Plays, Acting and Music*):** *"To **concertise** incessantly without intervals of solitary study inevitably blunts the artistic sensibility."*

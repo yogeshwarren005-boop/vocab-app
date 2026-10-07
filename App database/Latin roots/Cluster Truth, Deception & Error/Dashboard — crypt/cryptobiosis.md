@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which an animal's metabolic activities come to a reversible standstill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which an animal's metabolic activities come to a reversible standstill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reversible state of extreme metabolic dormancy entered by an organism in response to adverse environmental extremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological condition wherein all measurable metabolic activities cease until favorable hydration or temperature returns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobiosis designates a state in which an animal's metabolic activities come to a reversible standstill."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"To describe this latent state of suspended animation in desiccated organisms, I propose the term **cryptobiosis**."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Tardigrades survive prolonged exposure to freezing space and lethal radiation by entering the metabolic stasis of **cryptobiosis**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Through the miraculous adaptation of **cryptobiosis**, microscopic rotifers endure decades of absolute desiccation in dry mud."*

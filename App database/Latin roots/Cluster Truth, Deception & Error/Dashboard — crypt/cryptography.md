@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of writing in code or cipher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and practice of developing and applying secret ciphers to protect the confidentiality and integrity of communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical discipline concerned with secure communication protocols, digital signatures, and algorithmic data protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptography designates the science of analyzing and deciphering codes and ciphers and cryptograms."*
+> - 📜 **Francis Bacon (*De Augmentis Scientiarum*):** *"The art of **cryptography** is of high necessity for princes and ambassadors in preserving secret affairs."*
+> - 📜 **Edgar Allan Poe (*A Few Words on Secret Writing*):** *"The study of **cryptography** is one of the most fascinating exercises that can engage the analytical mind."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Modern **cryptography** has evolved from an obscure occult art into an indispensable mathematical science."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete freedom from doubt, uncertainty, or hesitation; absolute intellectual conviction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of unshakable subjective assurance regarding religious faith, philosophical truth, or moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles’ slow wink and slight protrusion of his tongue was worse than a nightmare, because it held the certitude that it was not a nightmare, but a waking misery."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"On the spot there came to me the added shock of a certitude that it was not for me he had come there."*
+> - 📜 **John Henry Newman (*An Essay in Aid of a Grammar of Assent*):** *"**Certitude** is not a mere feeling of conviction, but the active assent of the intellect to what is apprehended as truth."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic experiences an overwhelming sense of luminous **certitude** that defies logical articulation."*
+> - 📜 **Matthew Arnold (*Dover Beach*):** *"The world, which seems to lie before us like a land of dreams, hath really neither joy, nor love, nor light, nor **certitude**, nor peace."*

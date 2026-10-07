@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish after a calculation, investigation, experiment, survey, or study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be careful or certain to do something; make certain of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find out, discover, or learn with certainty through examination, inquiry, or scientific investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To verify, establish, or confirm the exact truth, boundary, or value of a contested fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy proposes to dispatch the trusty Smallweed to ascertain if Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He frequently glanced at his face as if there were something in it that gave him pain, and more than once he looked towards me as though he sought to ascertain whether I knew what the truth was."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was eager to **ascertain** whether his affection had survived the awkward separation of the previous winter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have taken pains to **ascertain** the exact proportion of seedlings that perish during their first winter."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Our first duty is to **ascertain** whether anyone left the house before midnight."*

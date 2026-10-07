@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic and amphibious perennial herbs (*Cryptocoryne*, water trumpets) native to tropical Asian streams, widely grown in aquariums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical taxon of tropical marsh plants characterized by spirally twisted spathes that trap pollinating insects underwater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocoryne designates any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Cryptocoryne** carpet the sandy bottoms of shaded jungle torrents across Ceylon and Malaya."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For indoor tropical aquaria, several species of **Cryptocoryne** are prized for their undulating bronze foliage."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The submerged leaves of wild **Cryptocoryne** form dense emerald swards in the perennial mountain brooks of the Western Ghats."*

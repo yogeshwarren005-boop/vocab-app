@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being eight more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being eight more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus eight; 48.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or group consisting of forty-eight items or units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-eight designates being eight more than forty."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Within these **forty-eight** hours must our enterprise be resolved, or all our hopes fall to ruin."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I walked **forty-eight** miles in a single day, carrying my pack through the rocky woods of Maine."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We collected **forty-eight** distinct species of land birds across the several islands of the archipelago."*

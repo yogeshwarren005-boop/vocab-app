@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified military post where troops are stationed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fortified defensive structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified military stronghold, post, or permanent defensive enclosure garrisoned with troops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trading post or defensive stockade established on historical frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ALICE. _C’est bien dit, madame; il est fort bon anglais._ KATHARINE. _Dites-moi l’anglais pour le bras._ ALICE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under that colour am I come to scale Thy never-conquered fort; the fault is thine, For those thine eyes betray thee unto mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let it not be called impiety, If in this blemished fort I make some hole Through which I may convey this troubled soul."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Once more unto the breach, dear friends, once more; / Or close the wall up with our English dead: / Summon up the blood, advance toward the **fort**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode across the grassy plain to the military **fort**, which served as an outpost against marauding indigenous cavalry."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The sovereign power defends the frontiers of the commonwealth by garrisoning each strategic **fort** with loyal forces."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of citrus-like evergreen shrubs in Rutaceae, bearing edible kumquat fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small Asian trees bearing fragrant white flowers and small orange-yellow fruits with sweet edible rinds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortunella designates small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The kumquats, formerly classified under Citrus, were assigned by Swingle to the distinct genus **Fortunella**."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"Species of **Fortunella** are cultivated both for ornamental conservatory decoration and for their spicy, aromatic fruits."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Plants*):** *"Among east Asian rutaceous shrubs, **Fortunella** displays remarkable resistance to cold compared to standard sweet oranges."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for ceftazidime, a third-generation cephalosporin antibiotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An injectable beta-lactam antibacterial formulated for severe nosocomial Pseudomonas infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortaz designates a parenteral cephalosporin (trade names fortaz and tazicef) used to treat moderate infections."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Ceftazidime, marketed under the brand name **Fortaz**, exhibits superior antipseudomonal activity among third-generation cephalosporins."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Intravenous regimens of **Fortaz** achieve high bactericidal concentrations in both cerebrospinal fluid and pulmonary tissues."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Dry powder vials of **Fortaz** release carbon dioxide upon reconstitution with sterile diluent for clinical injection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by a virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by a virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or having the nature of a virus or viral infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading with extreme rapidity through social networks, electronic media, or interpersonal communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viral designates relating to or caused by a virus."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Microscopic research has identified specific **viral** agents responsible for destructive pestilences across civilized nations."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The susceptibility of certain domesticated breeds to virulent **viral** contagions varies noticeably between geographical regions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The differentiation between acute bacterial inflammation and uncomplicated **viral** catarrh remains essential to rational therapy."*

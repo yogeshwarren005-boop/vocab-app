@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-one in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-one in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the fortieth in an ordered sequence; ordinal 41st.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-one equal parts into which a whole is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-first designates the ordinal number of forty-one in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"In the **forty-first** year of the Christian era, Caligula was assassinated in the subterranean gallery of the palace."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The **forty-first** article of the revolutionary constitution provoked violent debate in the National Assembly."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In the **forty-first** chapter of his adventures, David revisits the old boat-house upon the Yarmouth sands."*

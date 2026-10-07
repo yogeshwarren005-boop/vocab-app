@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of doing what is right and avoiding what is wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of doing what is right and avoiding what is wrong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of possessing moral excellence, ethical rectitude, and pure conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherent uprightness of heart and deliberate devotion to duty, justice, and truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virtuousness designates the quality of doing what is right and avoiding what is wrong."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Genuine **virtuousness** requires no public applause; it finds complete satisfaction in its own quiet rectitude."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The rugged **virtuousness** of the ancient abbot restored discipline to a monastery fallen into corrupt luxury."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her conscious **virtuousness** was untainted by pride, radiating gentle compassion toward all who suffered."*

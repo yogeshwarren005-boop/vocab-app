@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-three in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-three in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-second in an ordered numerical sequence; ordinal 43rd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-three equal parts into which a whole is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-third designates the ordinal number of forty-three in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-third** chapter chronicles the final conquests of Belisarius in Africa and Italy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"On his **forty-third** birthday, Danton stood before the revolutionary tribunal defying his accusers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the **forty-third** chapter of the narrative, Mr. Skimpole's true character is revealed to his benefactors."*

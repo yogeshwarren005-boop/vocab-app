@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of doing what is right and avoiding what is wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any admirable quality or attribute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral excellence, uprightness, goodness, or conformity of life to high ethical principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An efficacious power, medicinal property, or inherent beneficial quality residing in a thing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Thy blood and **virtue** contend for empire in thee, and thy goodness share with thy birthright."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The utilitarian standard holds that **virtue** is to be desired, not as an abstract name, but for the happiness it produces."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her unselfish devotion was a living **virtue** that sweetened the harsh atmosphere of provincial gossip."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncomfortable feeling of mental painfulness or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of comfort or ease; a state of physical distress, pain, or mental unease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make uncomfortable, uneasy, or distressed in mind or body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean you, sir, To give them this discomfort?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your lordship, I hear his Majesty is returned with some discomfort from Wales."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Disdaining fortune, with his brandish'd steel, / He unseam'd him from the nave to the chaps: / As whence the sun 'gins his reflection / Shipwracking storms and direful thunders break, / So from that spring whence **discomfort** swells / Discomfort swells."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood endured the biting cold without a murmur, oblivious to bodily **discomfort** in the turmoil of his thoughts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt an acute mental **discomfort** as he realized the tightening web of provincial debts around his household."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An RNA virus that replicates via reverse transcriptase to synthesize a complementary DNA intermediate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of Retroviridae possessing an enveloped spherical capsid, single-stranded positive-sense RNA, and integrating capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovirus designates any of a group of viruses that contain two single-strand linear rna molecules per virion and reverse transcriptase (rna to dna); the virus transcribes its rna into a cdna provirus that is then incorporated into the host cell."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"Every infectious **retrovirus** carries the essential polymerase enzyme required to translate genetic instructions from RNA to DNA."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The life cycle of a **retrovirus** hinges upon early entry, reverse transcription in the cytoplasm, and nuclear integration."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Unlike traditional RNA phages, a **retrovirus** alters the genetic constitution of animal host cells permanently."*

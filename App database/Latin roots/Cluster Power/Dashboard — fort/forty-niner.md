@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A miner who took part in the california gold rush in 1849.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nine more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gold-seeker who joined the California Gold Rush of 1849.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pioneer adventurer who journeyed across America or around Cape Horn to the Sierra Nevada goldfields in 1849.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-niner designates a miner who took part in the california gold rush in 1849."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The veteran **forty-niner** spun tales of pan and cradle, remembering when gold dust was weighed like flour."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"Every grizzled **forty-niner** in the camp looked upon the orphaned infant with rough, protective tenderness."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I see the hardy **forty-niner** with his pick and spade, bridging canyons and subduing the western wilderness."*

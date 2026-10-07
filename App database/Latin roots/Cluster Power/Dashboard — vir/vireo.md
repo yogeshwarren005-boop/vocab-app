@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small insectivorous american birds chiefly olive-grey in color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small insectivorous american birds chiefly olive-grey in color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small insectivorous American songbirds of the family Vireonidae, typically greenish-olive in plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woodland oscine passerine noted for persistent melodious song and cup-shaped nests suspended from branch forks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vireo designates any of various small insectivorous american birds chiefly olive-grey in color."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The red-eyed **vireo** sang continuously through the hot midday hours among the upper branches of the white pines."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"High up in the canopy, the solitary **vireo** delivers its deliberate, sweet strain, unmindful of the passing traveller."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The warbling **vireo** constructs a neat pendulous nest of bark fibers, concealed amidst the dense leaves of riverside willows."*

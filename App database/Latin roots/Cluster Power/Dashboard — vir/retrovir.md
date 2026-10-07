@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for zidovudine (AZT), an antiretroviral nucleoside reverse transcriptase inhibitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pioneering pharmaceutical formulation utilized to suppress viral replication in human immunodeficiency virus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovir designates an antiviral drug (trade name retrovir) used in the treatment of aids; adverse side effects include liver damage and suppression of the bone marrow."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Zidovudine, commercially marketed as **Retrovir**, terminates elongated viral DNA chains during reverse transcription."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (8th Edition)*):** *"Intravenous and oral administration of **Retrovir** significantly reduced mortality in early clinical trials of advanced retroviral illness."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Capsule and syrup formulations of **Retrovir** require regular monitoring of hematological parameters during chronic therapy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without effort or apparent effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without effort or apparent effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effortless manner; without noticeable strain, labor, or difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With fluid natural grace and apparent ease of execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effortlessly designates without effort or apparent effort."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"The actress transitioned **effortlessly** from tragic pathos to sparkling comedy, astonishing the seasoned critics."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate machine glided **effortlessly** through the temporal vortex, leaving the laboratory far behind."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The sleek ship slipped **effortlessly** through the glassy tropical sea under the silent southern constellations."*

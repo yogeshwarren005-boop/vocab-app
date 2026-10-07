@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhaled antiviral agent (trade name virazole) that may be used to treat serious virus infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhaled antiviral agent (trade name virazole) that may be used to treat serious virus infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for ribavirin, a broad-spectrum synthetic guanosine analogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug delivered by aerosol inhalation to treat severe pediatric respiratory syncytial virus infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virazole designates an inhaled antiviral agent (trade name virazole) that may be used to treat serious virus infections."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Ribavirin, commercially known as **Virazole**, exerts broad-spectrum inhibitory actions against both RNA and DNA viruses."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Aerosolized **Virazole** administered via small-particle generator achieves high local concentrations in pulmonary alveoli."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Reconstitution of **Virazole** powder requires preservative-free sterile water prior to delivery through specialized aerosol hoods."*

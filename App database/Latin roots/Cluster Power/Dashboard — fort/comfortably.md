@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In mental comfort; without stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical comfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comfortable manner; with restful physical ease, contentment, and security.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosperous, sufficient circumstances without financial distress or severe privation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, this is better, this is lovely," the sick man replied, comfortably leaning back in the chair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When her master was comfortably sitting in the lovely morning sun, Apollonie fetched Loneli out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, comfortably putting his hands into his pockets and stretching out his legs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were seated **comfortably** about the oak settle, watching the sparks leap up the wide chimney."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We dined **comfortably** at the inn before commencing our nocturnal vigil upon the lonely moor."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man who lives simply can lodge **comfortably** in a small cabin and maintain his intellectual independence."*

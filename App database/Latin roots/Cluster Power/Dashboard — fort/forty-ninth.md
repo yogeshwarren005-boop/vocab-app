@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-nine in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-nine in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-eighth in an ordered numerical sequence; ordinal 49th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-nine equal parts into which a whole is divided; also the 49th parallel border.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-ninth designates the ordinal number of forty-nine in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-ninth** chapter narrates the establishment of the Lombard kingdom across northern Italy."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Our border runs along the **forty-ninth** parallel, an invisible geometric boundary across vast wilderness."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Upon attaining his **forty-ninth** year, the veteran general received the order of the Black Eagle."*

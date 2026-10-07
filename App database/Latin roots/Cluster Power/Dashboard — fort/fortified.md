@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make strong or stronger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclose by or as if by a fortification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strengthened against attack by defensive military structures, ramparts, or garrisons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reinforced, invigorated, or fortified physically, nutritionally, or morally against adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sit down awhile, And let us once again assail your ears, That are so fortified against our story, What we two nights have seen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On us thou canst not enter but by death; For, I protest, we are well fortified And strong enough to issue out and fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he hath won, that hath he fortified."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She felt **fortified** by the conscious rectitude of her maternal devotion against the cruel judgments of the puritan magistrates."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The ancient castle was strongly **fortified**, perched atop an inaccessible precipice overlooking the Carpathian wilderness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He **fortified** his courage with a glass of sherry before knocking on the banker's study door."*

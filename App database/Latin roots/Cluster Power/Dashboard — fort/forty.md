@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and four.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than thirty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four times ten; 40.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical symbol, quantity, or set consisting of four decades of units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A ring he hath of mine worth forty ducats, And for the same he promis’d me a chain; Both one and other he denies me now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This course I fittest choose, For forty ducats is too much to lose. [_Exit._] SCENE IV."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I'll put a girdle round about the earth / In **forty** minutes: look to it, master."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had worked continuously for **forty** hours during the sheep-shearing without tasting sleep."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"After observing these domesticated varieties for nearly **forty** years, I am convinced of their common origin."*

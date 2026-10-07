@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-eight in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-eight in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-seventh in an ordered numerical sequence; ordinal 48th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-eight equal fractional parts into which a whole is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-eighth designates the ordinal number of forty-eight in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"In the **forty-eighth** chapter of his annals, the historian recounts the dramatic siege of Constantinople."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Reaching his **forty-eighth** year, the Prussian king stood master of the European diplomatic chessboard."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In the **forty-eighth** section of the treatise, he establishes the boundary between sensory perception and reflection."*

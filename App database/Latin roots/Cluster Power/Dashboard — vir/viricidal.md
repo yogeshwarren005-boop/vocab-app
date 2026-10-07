@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to destroy viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to destroy viruses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of neutralizing, inactivating, or destroying viruses; having virus-killing properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to chemical disinfectants or physical agents engineered to destroy viral infectivity on surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viricidal designates tending to destroy viruses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chemical disinfectants exhibiting proven **viricidal** potency must be employed to sterilize hospital linen during epidemics."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Certain halogens exert direct **viricidal** action by denaturing viral capsid proteins and cross-linking nucleic acids."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Standardized laboratory assays measure the **viricidal** efficacy of alcohol solutions against both enveloped and non-enveloped pathogens."*

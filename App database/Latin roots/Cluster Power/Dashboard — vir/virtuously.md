@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chaste and virtuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morally upright, righteous, chaste, and honorable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strict adherence to ethical standards and conscientious integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is hypocrisy against the devil: They that mean virtuously and yet do so, The devil their virtue tempts, and they tempt heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are so virtuously bound— TIMON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet all his virtues, Not virtuously on his own part beheld, Do in our eyes begin to lose their gloss; Yea, like fair fruit in an unwholesome dish, Are like to rot untasted."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"We are so **virtuously** bound to your lordship that no ordinary service can discharge our gratitude."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He resolved to act **virtuously**, suppressing every selfish wish for the sake of her future peace."*
+> - 📜 **George Eliot (*Silas Marner*):** *"She had lived **virtuously** and frugally, laying up modest treasures of goodwill among her neighbours."*

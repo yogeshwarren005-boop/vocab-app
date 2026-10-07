@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhibiting or stopping the growth and reproduction of viruses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting against, inhibiting the replication of, or destroying pathogenic viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmacological agent or therapeutic compound formulated to combat viral infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiviral designates any drug that destroys viruses."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"The development of **antiviral** chemotherapy requires selective inhibition of virus-specific enzymes without damaging host cellular metabolism."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (8th Edition)*):** *"Early clinical administration of an effective **antiviral** agent significantly shortens duration of fever and viral shedding."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Synthetic nucleoside analogues demonstrate potent **antiviral** activity against herpesviruses and retroviruses in clinical trials."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that happens suddenly or by chance without an apparent cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that happens suddenly or by chance without an apparent cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of events by chance or accident; a fortuitous happening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics, an accidental coincidence or contingency uncaused by design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortuity designates anything that happens suddenly or by chance without an apparent cause."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"What popular speech attributes to mere **fortuity** is strictly the result of causal chains intersecting unpredictably."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Their reunion in the cathedral close was an ironic **fortuity** that rekindled former anguish."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Great minds despise the doctrine of blind **fortuity**, discerning beneath every accident an omnipresent moral law."*

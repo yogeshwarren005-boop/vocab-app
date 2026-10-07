@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being two more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being two more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus two; 42.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-two items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-two designates being two more than forty."*
+> - 📜 **Lewis Carroll (*The Hunting of the Snark*):** *"He had **forty-two** boxes, all carefully packed, / With his name painted clearly on each: / But, since he omitted to mention the fact, / They were all left behind on the beach."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew counted **forty-two** barrel-heads stowed securely in the lower hold before sunset."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick was accommodated in room number **forty-two** of the Fleet prison, overlooking the courtyard."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without comfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without comfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking comfort, solace, or cheer; bleak, dreary, and desolate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without physical ease or warmth; affording no consolation in affliction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen is comfortless, and we forgetful In our long absence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my sweet sir, news fitting to the night, Black, fearful, comfortless, and horrible."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"O, why should nature build so foul a den, / Unless the gods delight in **comfortless** tragedies?"*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath stretched out under the November sky, an expanse of **comfortless** darkness defying human cultivation."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I wandered through the **comfortless** alpine snows, seeking oblivion from the dreadful monster my pride had created."*

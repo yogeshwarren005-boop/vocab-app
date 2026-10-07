@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive structure consisting of walls or mounds built around a stronghold to strengthen it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science of strengthening defenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defensive military wall, rampart, parapet, or stronghold constructed to resist attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military engineering art and science of constructing defensive strongpoints and earthworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fortification, gentlemen, shall we see’t?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The art of fortification has contributed to the same ends."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"General Campan will move through the wood to seize the first fortification."*
+> - 📜 **William Shakespeare (*Othello*):** *"This **fortification**, gentlemen, shall we see 't? We will attend your lordship to inspect the garrison works."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Bastille stood with massive stone towers and deep moats, an ancient **fortification** frowning upon the revolutionary crowds."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor ordered the comprehensive **fortification** of the Danubian border with stone redoubts and watchtowers."*

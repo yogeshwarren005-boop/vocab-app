@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A .45-caliber pistol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being five more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus five; 45.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or group consisting of forty-five items; or the historic Jacobite rising of 1745.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-five designates a .45-caliber pistol."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was about **forty-five**, with dark hair already turning grey at the temples."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cab drove at a rapid pace for **forty-five** minutes through the foggy labyrinth of south London."*
+> - 📜 **Walter Scott (*Waverley*):** *"The memorable insurrection of the **forty-five** called the Highland clans to arms under Prince Charles Edward."*

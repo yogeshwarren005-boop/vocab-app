@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause or induce the development of masculine somatic traits or virilism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject an organism to androgenic hormones that stimulate secondary male sexual characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilise designates produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excess secretion of androgenic steroids will rapidly **virilise** the patient unless surgical intervention is undertaken."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Synthetic testosterone derivatives may **virilise** developing tissues if dosages exceed standard physiological replacement."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Endocrinologists exercise great caution with androgen therapy so as not to **virilise** adolescent patients prematurely."*

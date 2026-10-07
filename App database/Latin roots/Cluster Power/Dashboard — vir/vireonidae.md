@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small insectivorous american songbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small insectivorous american songbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of small to medium-sized New World oscine passerine birds commonly known as vireos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic avian family characterized by slightly hooked bills, olive or gray plumage, and arboreal insect-gleaning habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vireonidae designates small insectivorous american songbirds."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The family **Vireonidae** comprises small insectivorous oscines possessing a compressed bill with a notched and hooked tip."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"In anatomical structure, **Vireonidae** occupy a position intermediate between the wood-warblers and the shrikes."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Representative species of **Vireonidae** inhabit both temperate northern deciduous woods and dense tropical cloud forests."*

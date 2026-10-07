@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-five in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-five in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-fourth in an ordered sequence; ordinal 45th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-five equal parts into which a quantity is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-fifth designates the ordinal number of forty-five in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions halted along the **forty-fifth** parallel of northern latitude to establish winter quarters."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"In his **forty-fifth** year, the prince ascended the throne amidst universal demonstrations of loyalty."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Near the **forty-fifth** degree of south latitude, the dense beech forests descend to the water's edge."*

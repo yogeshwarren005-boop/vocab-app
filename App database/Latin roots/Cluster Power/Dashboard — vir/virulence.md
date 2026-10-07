@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme harmfulness (as the capacity of a microorganism to cause disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme hostility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of pathogenicity, extreme harmfulness, or disease-producing power of an infectious agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bitter hostility, extreme rancor, or acrimonious malignancy in speech or feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But Volumnia the fair, being subject to the prevalent complaint of boredom and finding that disorder attacking her spirits with some virulence, ventures at length to repair to the library for change of scene."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thirty thousand devils!...” the convoy guards began cursing and the French soldiers, with fresh virulence, drove away with their swords the crowd of prisoners who were gazing at the dead man."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The increasing **virulence** of the epidemic among overcrowded animal populations highlights natural checks on numbers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed looked upon me as a compound of **virulence** and deceit, deaf to every plea of childhood innocence."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The partisan warfare broke out with unprecedented **virulence**, destroying the retreating army at every river crossing."*

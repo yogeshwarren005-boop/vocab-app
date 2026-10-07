@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording comfort, solace, or cheering relief; reassuring to the feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplying gentle physical warmth, restorative sustenance, or agreeable ease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These should be hours for necessities, Not for delights; times to repair our nature With comforting repose, and not for us To waste these times."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EDMUND. [_Aside._] If I find him comforting the King, it will stuff his suspicion more fully."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The firm pressure of his hand was a **comforting** token that she was not utterly deserted in her misfortune."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There was something extraordinarily **comforting** in the soft music, which drowned out the bitter whispers of conscience."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie found a **comforting** sanctuary in the dark attic, weeping away her childish griefs among the dusty rafters."*

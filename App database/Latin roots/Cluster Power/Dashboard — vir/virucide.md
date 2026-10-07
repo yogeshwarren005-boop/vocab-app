@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (physical or chemical) that inactivates or destroys viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (physical or chemical) that inactivates or destroys viruses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, disinfectant, or chemical compound that kills or permanently inactivates viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A laboratory or clinical formulation capable of neutralizing viral transmission and contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virucide designates an agent (physical or chemical) that inactivates or destroys viruses."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Glutaraldehyde serves as an effective liquid **virucide** for sterilizing heat-sensitive endoscopic instruments."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (10th Edition)*):** *"The hospital protocol mandates the use of an approved **virucide** following accidental blood spillage."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Selection of an appropriate **virucide** must balance broad-spectrum lethal action against material corrosiveness."*

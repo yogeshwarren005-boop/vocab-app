@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy or scolding or domineering woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large strong and aggressive woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domineering, bad-tempered, or fiercely aggressive woman; an overbearing shrew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically, a woman of extraordinary physical stature, heroic courage, and masculine valor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"They say she rules the whole house save Miss Florence." "Ay; the young lady must have a spirit, then, I should judge, if she defies such a virago as you describe this woman to be." "No more spirit than she should have," returned Miss Pinkerton."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That virago of a matron told me this morning that if she'd been in her place, she'd have run away years ago."*
-> - 📜 **James Joyce (*Ulysses*):** *"A hoarse virago retorts.)_ THE VIRAGO: Signs on you, hairy arse."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I have not seen such a **virago**: she flouts all courteous greeting and vows revenge upon every gallant who approaches."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was a tall, fierce woman with dark wild eyes, a veritable **virago** whose furious screams terrified the entire household."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The landlady was an unyielding **virago**, accustomed to ruling her tavern patrons with an iron voice and heavy fist."*

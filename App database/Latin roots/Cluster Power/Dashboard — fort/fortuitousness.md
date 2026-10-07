@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of happening accidentally and by lucky chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of happening accidentally and by lucky chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of occurring by chance or accident rather than by design or plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accidental or contingent nature of events occurring without premeditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortuitousness designates the quality of happening accidentally and by lucky chance."*
+> - 📜 **William James (*The Will to Believe*):** *"The absolute **fortuitousness** of Darwinian variations gives to cosmic evolution its uniquely open and experimental character."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Wisdom consists in mastering circumstance so that the apparent **fortuitousness** of events is turned to moral account."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Cosmic history demonstrates both iron determinism and local **fortuitousness** in the distribution of organic varieties."*

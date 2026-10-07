@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a virulent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a virulent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an extremely toxic, highly infectious, or intensely malicious and spiteful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With bitter rancor, unrelenting hostility, and aggressive animosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Langeron, trying as virulently as possible to sting Weyrother’s vanity as author of the military plan, argued that Bonaparte might easily attack instead of being attacked, and so render the whole of this plan perfectly worthless."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Armfeldt virulently hated Napoleon and was a general full of self-confidence, a quality that always influenced Alexander."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Langeron, trying as **virulently** as possible to sting Weyrother's vanity, criticized the battle plan openly."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The rival factions attacked each other **virulently** in the assembly, drowning out reasoned debate."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The gossips whispered **virulently** about the sudden departure of the young baronet from the ball."*

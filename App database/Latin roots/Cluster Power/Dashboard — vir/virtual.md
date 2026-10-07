@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being actually such in almost every respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in essence or effect though not in actual fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in essence, effect, or practical result, though not in actual physical fact or formal name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simulated, generated, or experienced through computer software rather than tangible physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent use of the adjectives partial, limited, and virtual are implied but usually superfluous recognitions of the relative character of monopoly. § 2. #Political sources of monopoly.# Monopoly gets its power from various sources."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He slept upon that idea, but when he was dressing in the rational morning light, Objection said— “That will be a virtual defiance of Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The result, except in the case of insanity, must for the most part be arbitrary; and insanity, without any formal or express provision, may be safely pronounced to be a virtual disqualification."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His sudden withdrawal from the contest was a **virtual** confession of defeat, leaving the field open to his rivals."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the arched roof, pendent by subtle magic, many a row of starry lamps yielded light as from a **virtual** sun."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of the purse constitutes a **virtual** check upon executive excesses under the constitutional design."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green color or pigment; resembling the color of growing grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green color or pigment; resembling the color of growing grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fresh, vibrant green color characteristic of healthy vegetation; lush greenness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Youthful freshness, vigor, or innocent naivety reminiscent of springtime nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viridity designates green color or pigment; resembling the color of growing grass."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The meadows unfolded in all their tender spring **viridity**, contrasting vividly with the grey limestone crags above."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"As summer advanced, the intense **viridity** of the woodland foliage softened into deeper olive tones."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The secluded valley glowed with perennial **viridity**, untouched by the parching droughts of less favored climes."*

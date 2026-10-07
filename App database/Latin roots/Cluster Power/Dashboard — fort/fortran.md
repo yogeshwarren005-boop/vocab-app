@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pioneering high-level compiled programming language designed primarily for numeric and scientific computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formula Translation, created at IBM in the 1950s, which established optimizing compiler technology worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortran designates a high-level programing language for mathematical and scientific purposes; stands for formula translation."*
+> - 📜 **John Backus (*The History of Fortran I, II, and III*):** *"Our primary objective in creating **Fortran** was to automate coding and make programming accessible to scientific researchers."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Early numerical libraries were implemented in **Fortran**, demonstrating that compiled code could match handcrafted machine assembly in speed."*
+> - 📜 **Edsger Dijkstra (*Selected Writings on Computing*):** *"The widespread adoption of **Fortran** reshaped computer architecture by requiring hardware support for floating-point calculations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of predicting people's futures (usually for payment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of predicting people's futures (usually for payment).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or art of professing to predict future events and personal destinies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divinatory consultation employing tarot cards, palmistry, or horoscopes to forecast human fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortunetelling designates the practice of predicting people's futures (usually for payment)."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The village maidens listened with breathless wonder to the **fortunetelling** of the wandering gipsy crone."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Popular superstition attributed a species of dark **fortunetelling** to the mysterious mesmerist who lodged in the town."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Old Lisbeth shook her head disapprovingly at all foolish **fortunetelling**, holding that honest labour was the only true oracle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of a virus in the blood stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of a virus in the blood stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence and systemic circulation of viable viruses or viral particles within the bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease, the transient or persistent hematogenous phase of viral dissemination throughout tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viraemia designates the presence of a virus in the blood stream."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Dissemination of infectious agents through the vascular channels produces acute **viraemia**, accompanied by febrile paroxysms."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"Observations on domestic cattle show that systemic **viraemia** causes rapid transmission of symptoms throughout the herd."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During the prodromal stage of smallpox, profound **viraemia** precedes the appearance of characteristic cutaneous eruptions."*

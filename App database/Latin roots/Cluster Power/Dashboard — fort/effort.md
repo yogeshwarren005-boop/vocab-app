@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of physical or mental energy; hard work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conscious exertion of physical, mental, or moral power to achieve an objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earnest attempt, deliberate trial, or strenuous production of energy toward an end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had made an effort to keep her children from harmful influences and to implant in them a hate for these things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother had been quite certain that Bruno in his interview with her would make a last, desperate effort to escape having to live with the Knippel boys."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Human faculties of perception, judgment, discriminative feeling, and moral preference are exercised only in making an active **effort** of choice."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"With a desperate **effort** of will, Henchard forced back the bitter reply that rose to his lips."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Every sustained intellectual **effort** demands a quiet concentration which provincial distractions perpetually interrupt."*

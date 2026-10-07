@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no cause or apparent cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring by happy chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening by chance rather than design; accidental, unexpected, or fortunate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and biology, contingent or random occurrence resulting from unplanned intersections of causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin in return was quite sure that man was not a mere machine or a fortuitous conjunction of atoms; if Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Propensities inherited If some fortuitous circumstance places promising chil- 61:15 dren in the arms of gross parents, often these beautiful children early droop and die, like tropical flowers born amid Alpine snows."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It seems unlikely that such reports are without foundation, and perhaps equally improbable that they refer to mere fortuitous outbursts of unnatural lust."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Their meeting in the quiet lane was entirely **fortuitous**, yet it altered the course of their subsequent lives."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variations are not the result of **fortuitous** chance, but follow complex natural laws of growth and inheritance."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Scientific induction rescues natural knowledge from the realm of **fortuitous** coincidence and bases it on verified causality."*

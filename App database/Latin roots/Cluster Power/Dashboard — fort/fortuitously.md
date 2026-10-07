@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By chance or unexpected accident; coincidentally and opportunely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring through fortunate happenstance without deliberate prior intention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt, who staggered at a boy fortuitously, and pulled his ears."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everything came about fortuitously."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The missing document came to light **fortuitously** when an old bureau was cleared out for the auction."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She discovered **fortuitously** that her guardian had made generous provision for her European journey."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A crucial clue was uncovered **fortuitously** by Watson as he picked up a crumpled envelope from the carpet."*

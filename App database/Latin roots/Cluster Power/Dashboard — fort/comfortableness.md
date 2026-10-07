@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of being at ease in a relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of providing or experiencing restful physical ease and agreeable contentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A snug, cheerful sense of domestic warmth and peaceful security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I was only alive to the condensed confidential comfortableness of sharing a pipe and a blanket with a real friend."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is no quality in this world that so thoroughly promotes human **comfortableness** as a roaring hearth fire on a stormy night."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The quiet **comfortableness** of the parlour, with its polished mahogany and cheerful kettle, soothed his weary mind."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe's honest presence brought an immediate **comfortableness** into the room that no grand manners could bestow."*

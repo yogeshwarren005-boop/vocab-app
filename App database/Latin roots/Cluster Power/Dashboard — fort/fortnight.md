@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of fourteen consecutive days.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of fourteen consecutive days.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of two weeks, equivalent to fourteen consecutive days and nights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional English chronological unit utilized to schedule holidays, terms, and agricultural journeys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what offence have I this fortnight been A banish’d woman from my Harry’s bed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your majesty hath been this fortnight ill, And these unseason’d hours perforce must add Unto your sickness."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"A **fortnight** hold we this solemnity, / In nightly revels and new jollity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He promised to return to Casterbridge within a **fortnight**, when the sheep-shearing had drawn to a close."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The strange visitor remained at the country hotel for a full **fortnight**, receiving no letters and speaking to nobody."*

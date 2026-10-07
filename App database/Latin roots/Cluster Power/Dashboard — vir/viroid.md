@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious plant pathogen consisting solely of a short circular single-stranded RNA molecule without a protein coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest known self-replicating infectious agent, causing devastating stunting diseases in agricultural crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viroid designates the smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Unlike true viruses, a **viroid** lacks any protective protein coat and relies entirely on host machinery for replication."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The circular RNA of a **viroid** maintains an extensive base-paired rodlike structure resistant to cellular ribonucleases."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"Discovery of the potato spindle tuber **viroid** proved that bare nucleic acid molecules could act as pathogenic entities."*

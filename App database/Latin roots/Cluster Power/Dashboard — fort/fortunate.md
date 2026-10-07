@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unexpected good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supremely favored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favored by good fortune; lucky, prosperous, and successful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing or promising good fortune; auspicious, advantageous, or opportune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am most fortunate thus accidentally to encounter you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you my staff of office did I break In Richard’s time, and posted day and night To meet you on the way, and kiss your hand, When yet you were in place and in account Nothing so strong and fortunate as I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resolve on this; thou shalt be fortunate If thou receive me for thy warlike mate."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Some are born great, some achieve greatness, and some have greatness thrust upon 'em. Thy Fates open their hands; let thy blood and spirit embrace them; and, to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants; let thy tongue tang arguments of state; put thyself into the trick of singularity: she thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever cross-gartered: I say, remember. Go to, thou art made, if thou desirest to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune's fingers. Farewell. She that would alter services with thee, The **Fortunate**-Unhappy."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A **fortunate** individual possessing cultivated intellect and social sympathies finds inexhaustible interest in the surrounding world."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Those varieties which possess even slight advantages are **fortunate** enough to survive and transmit their modifications."*

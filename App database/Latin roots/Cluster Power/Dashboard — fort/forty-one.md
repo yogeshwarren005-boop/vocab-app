@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being one more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus one; 41.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-one items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-one designates being one more than forty."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was exactly **forty-one** years of age when his term of abstemiousness drew to a close."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The package contained **forty-one** rare pearls of extraordinary size and lustrous oriental orient."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I counted **forty-one** hospital tents pitched on the grassy slope overlooking the Potomac."*

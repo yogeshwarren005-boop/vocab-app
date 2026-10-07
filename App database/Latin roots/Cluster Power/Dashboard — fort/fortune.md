@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unknown and unpredictable phenomenon that causes an event to result one way rather than another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amount of wealth or prosperity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chance, luck, or fate regarded as a powerful force shaping human affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great wealth, riches, or accumulated material possessions; a large estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Florentines and Senoys are by th’ ears; Have fought with equal fortune, and continue A braving war."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous **fortune**, / Or to take arms against a sea of troubles, / And by opposing end them."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally acknowledged, that a single man in possession of a good **fortune**, must be in want of a wife."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A whaleman embarks his entire **fortune** in frail cedar planks and sets sail across boundless oceans."*

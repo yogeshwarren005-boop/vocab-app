@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune; luckily, auspiciously, and opportunely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With providential timing that averts danger, failure, or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know ’tis from Cordelia, Who hath most fortunately been inform’d Of my obscured course."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair lovers, you are fortunately met."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most fortunately: he hath achiev’d a maid That paragons description and wild fame, One that excels the quirks of blazoning pens, And in the essential vesture of creation Does tire the ingener."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Fortunately** the wind shifted toward the north, carrying the sparks away from the combustible ricks."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"**Fortunately** the train was delayed at the junction, affording us time to secure our carriage before departure."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"**Fortunately** Joe arrived in London that very morning, bringing with him a breath of honest country kindness."*

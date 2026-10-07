@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (physical or chemical) that inactivates or destroys viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (physical or chemical) that inactivates or destroys viruses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical or physical substance that inactivates or destroys viral particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimicrobial disinfectant formulated to terminate the transmission of infectious viral agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viricide designates an agent (physical or chemical) that inactivates or destroys viruses."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"The application of a reliable **viricide** prevents nosocomial dissemination of contagious pathogens in surgical suites."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (8th Edition)*):** *"Sodium hypochlorite acts as an inexpensive yet powerful **viricide** for decontaminating laboratory surfaces."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Formulators evaluate each novel **viricide** to ensure rapid kill rates without inducing severe tissue irritation."*

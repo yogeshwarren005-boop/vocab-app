@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to destroy viruses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to destroy viruses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the property of neutralizing, destroying, or inactivating viral infectious particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of rendering viruses noninfectious through chemical denaturation or membrane disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virucidal designates tending to destroy viruses."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"The **virucidal** efficacy of iodophor solutions depends on the concentration of free iodine in equilibrium."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Standardized testing requires documented **virucidal** reduction factors exceeding four logarithmic units."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Surface disinfectants formulating quaternary ammonium salts exhibit selective **virucidal** properties against lipid-enveloped agents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring little effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring little effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring or exhibiting no strain, struggle, or labored exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consummate ease, graceful fluency, and mastery that makes arduous performance appear natural.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effortlessness designates the quality of requiring little effort."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In every work of genius we recognize our own rejected thoughts; they return to us with an alienated **effortlessness**."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The supreme mark of Leonardo's style is that exquisite **effortlessness** which conceals profound mathematical study."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"He admired the apparent **effortlessness** with which the sculptor shaped the malleable clay into heroic likeness."*

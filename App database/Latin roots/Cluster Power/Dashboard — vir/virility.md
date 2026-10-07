@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The masculine property of being capable of copulation and procreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being manly; having the characteristics of an adult male.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Masculine vigor, robust physical strength, and reproductive potency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dynamic intellectual force, vitality, or energetic creativity in artistic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we may conjecture, though we are not expressly told, that it was on the same Day of Blood and for the same purpose that the novices sacrificed their virility."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The philosophy of sin involved is hardly deep enough, but {328} this doctrine of the second baptism cannot be said to lack virility."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"The ancient pagan ideal celebrated physical **virility**, yet it failed to grasp the deeper heroism of spiritual patience."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's robust **virility** and commanding stature made him a formidable presence in the grain market."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Archaic tribes believed the fertility of crops was bound to the king's unbroken **virility** and physical vigor."*

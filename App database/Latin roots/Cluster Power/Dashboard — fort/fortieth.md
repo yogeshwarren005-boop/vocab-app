@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 40 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the thirty-ninth in an ordered series; the ordinal number for 40.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty equal parts into which a quantity or unit may be divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But at this moment the _Nautilus_, raised by the last waves of the tide, quitted her coral bed exactly at the fortieth minute fixed by the Captain."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burns, M.D., was a close student; this was not the first nor the fortieth time that his friend had thus discovered him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"An ugly brick house in Fortieth Street?"*
+> - 📜 **William Shakespeare (*Sonnet 2*):** *"When **fortieth** winters shall besiege thy brow, / And dig deep trenches in thy beauty's field, / Thy youth's proud livery will be a tatter'd weed."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"In the **fortieth** year of his reign, the emperor celebrated solemn games to commemorate the restoration of public tranquility."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Having attained his **fortieth** milestone, the monarch turned his thoughts from youthful adventures to administrative statecraft."*

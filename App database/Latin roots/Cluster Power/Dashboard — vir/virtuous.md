@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally excellent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sexual virginity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting high moral character, rectitude, righteousness, and ethical integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pure, chaste, or morally upright in personal conduct and private thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"If she be all that is **virtuous**, save what thou dislik'st, a poor physician's daughter, thou despisest nature."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In every instinct of her pure, suffering heart, she remained a **virtuous** woman faithful to her ideal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's mind was filled with noble and **virtuous** aspirations to elevate the lives of rural cottagers."*

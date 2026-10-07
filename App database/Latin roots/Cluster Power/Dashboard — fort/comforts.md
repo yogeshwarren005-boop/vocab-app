@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being relaxed and feeling no pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that provide physical ease, domestic enjoyment, and relief from hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consolations or sources of solace that lighten affliction and sorrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that comforts my wife is the cherisher of my flesh and blood; he that cherishes my flesh and blood loves my flesh and blood; he that loves my flesh and blood is my friend; ergo, he that kisses my wife is my friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How mightily sometimes we make us comforts of our losses!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All strange and terrible events are welcome, But comforts we despise."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"How mightily sometimes we make us **comforts** of our losses!"*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The civilized man has built a coach, but has lost the use of his feet; he has gained many **comforts**, but lost his native fortitude."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She willingly resigned the luxuries and material **comforts** of wealth to pursue her vision of social reform."*

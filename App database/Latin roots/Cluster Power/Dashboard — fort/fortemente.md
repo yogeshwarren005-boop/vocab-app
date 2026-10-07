@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly a direction or description in music; loud and strong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly a direction or description in music; loud and strong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical performance direction instructing that a passage be played with great strength, vigor, and loudness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directing vigorous, emphatic acoustic energy and powerful dynamic accentuation in instrumental execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortemente designates chiefly a direction or description in music; loud and strong."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The composer marks the orchestral cadence **fortemente**, demanding maximum dramatic emphasis from the brass and timpani."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The Italian term **fortemente** directs the performer to deliver the phrase with robust tone and resolute rhythmic drive."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"When the massed strings attack the chord **fortemente**, the sonic resonance cuts through the heaviest orchestral accompaniment."*

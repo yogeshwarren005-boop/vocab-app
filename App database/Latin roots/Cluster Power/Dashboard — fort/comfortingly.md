@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comforting or consoling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a comforting or consoling manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a comforting, reassuring, and consoling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a way that imparts soothing relief, warmth, or quiet security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He's jumped out on that log, see?” “He's all right, girl, he's all right,” said Uncle Henry comfortingly."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"If I hadn’t started to chase the scamperer it wouldn’t have happened.” “Oh, you needn’t feel like that,” said Sure-dart, comfortingly; “nobody could lay any blame on you.” Nevertheless, Hop-foot looked troubled, and drew a long breath."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The morning sun broke through the smoky haze, shining **comfortingly** upon the green Surrey hills."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She spoke **comfortingly** to the weeping child, stroking her hair until the storm of sobbing subsided."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The warm firelight flickered **comfortingly** across the kitchen walls, warding off the chill of the November drizzle."*

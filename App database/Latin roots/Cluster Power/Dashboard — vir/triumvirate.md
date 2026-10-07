@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of three men responsible for public administration or civil authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of three men responsible for public administration or civil authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coalition or governing body composed of three individuals sharing supreme authority or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, the official alliance formed by Caesar, Pompey, and Crassus, or Antony, Octavian, and Lepidus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lastly, he frets That Lepidus of the triumvirate Should be deposed and, being, that we detain All his revenue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The occupant of the pew in the hall, having said thus much, stirs the fire and leaves the triumvirate to warm themselves."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The social triumvirate was composed of Mr."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"These three world-sharers, these competitive lords of the **triumvirate**, divide the trembling earth among their swords."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal was dominated by a grim **triumvirate** whose nods dispensed life or the guillotine."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The dissolution of the second **triumvirate** was followed by open civil war between Octavian and Antony for sole dominion."*

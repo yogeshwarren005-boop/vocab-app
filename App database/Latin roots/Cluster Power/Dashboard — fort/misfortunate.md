@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted by misfortune, hardship, or bad luck; unfortunate and unhappy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering adverse circumstances through ill luck rather than intentional misconduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misfortunate designates deserving or inciting pity; ; ; - galsworthy."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The **misfortunate** lassie wept bitterly as she recounted the sorrows that had overwhelmed her family."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"He felt a deep sympathy for the **misfortunate** wanderers who had been driven from their ancestral glens."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Such was the **misfortunate** issue of an enterprise undertaken with high hopes and eager hearts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified defensive structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fortified defensive structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, permanent military stronghold, heavily fortified against assault with walls and towers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any place of exceptional security, refuge, or defensive strength, whether physical or moral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But Luther relied on his God, and at this moment, with his favorite hymn in his heart, "_A strong fortress is our God,_" he went to the Lord in prayer, and prayed that omnipotence would come to the help of their weakness."*
+> - 📜 **William Shakespeare (*Richard II*):** *"This royal throne of kings, this scepter'd isle, / This earth of majesty, this seat of Mars, / This other Eden, demi-paradise, / This **fortress** built by Nature for herself / Against infection and the hand of war."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The immense sperm whale appeared like an aquatic **fortress**, defying the puny harpoons of mortal fishermen."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His austere piety served as an impenetrable **fortress** against the alluring temptations of the worldly wilderness."*

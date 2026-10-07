@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-two in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-two in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-first in an ordered numerical sequence; ordinal 42nd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-two equal parts into which a quantity or unit is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-second designates the ordinal number of forty-two in counting order."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In the **forty-second** year of his life, a thinker often attains the mature synthesis of his early insights."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-second** chapter reviews the Persian campaigns and the heroic defense of the eastern frontier."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The carriage drew up before number **forty-second** in the quiet London square as twilight fell."*

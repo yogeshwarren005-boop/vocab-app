@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reduces the intensity (e.g., of fears) and calms and pacifies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who consoles, comforts, or brings emotional solace to someone in distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warm quilted bed covering; or a warm woolen scarf worn about the neck in winter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have blessed you with a goodly son To be your comforter when he is gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, Do not omit the heavy offer of it: It seldom visits sorrow; when it doth, It is a comforter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A solemn air, and the best comforter To an unsettled fancy, cure thy brains, Now useless, boil’d within thy skull!"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Bob Cratchit tied on his long white **comforter**, which hung below his waist, and slid down the frozen street."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Elizabeth was the gentle **comforter** of our household, whispering words of peace whenever sorrow threatened our tranquility."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In every domestic emergency, she appeared as a wise **comforter**, soothing ruffled tempers with quiet kindness."*

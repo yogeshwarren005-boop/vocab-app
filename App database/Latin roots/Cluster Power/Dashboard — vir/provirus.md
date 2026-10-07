@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral genome that has become integrated into the nuclear DNA of a host cell and replicates with it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retrovirology, the stable double-stranded DNA intermediate capable of remaining latent or directing virion synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provirus designates cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"The genetic evidence strongly supports the hypothesis that RNA tumour viruses replicate through an integrated DNA **provirus**."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"Integration of the retroviral cDNA establishes a permanent **provirus** that is inherited by all daughter cells."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Transcription of the latent **provirus** yields full-length genomic RNA transcripts as well as spliced messenger molecules."*

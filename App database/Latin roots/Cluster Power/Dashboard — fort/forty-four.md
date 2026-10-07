@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being four more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being four more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus four; 44.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-four items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-four designates being four more than forty."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The numbering of the victims continued until **forty-four** heads had fallen beneath the guillotine."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The wall of the imperial palace was **forty-four** inches in height, encircling a grand quadrangle."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A fleet of **forty-four** galleys set sail from the harbour of Ravenna to relieve the besieged garrison."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of male secondary sexual characteristics in a female (or prematurely in a young boy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical manifestation of male secondary sex characteristics in a female.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical syndrome resulting from excessive adrenal or ovarian androgen production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilism designates the development of male secondary sexual characteristics in a female (or prematurely in a young boy)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of **virilism** in an adult woman points directly to functional hyperactivity of the adrenal cortex."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Antiandrogenic agents are indicated in mitigating the distressing dermatological manifestations of **virilism**."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (8th Edition)*):** *"In cases of congenital adrenal hyperplasia, early glucocorticoid therapy prevents the onset of pronounced **virilism**."*

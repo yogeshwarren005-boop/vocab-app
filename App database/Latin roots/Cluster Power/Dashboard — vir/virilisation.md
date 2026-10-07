@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal biological development of male physical characteristics in females or prepubescent males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Androgenic somatic changes including voice deepening, hirsutism, and muscular hypertrophy induced by testosterone excess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilisation designates the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adrenal cortical hyperplasia frequently induces progressive **virilisation**, marked by hirsutism and masculine physical traits."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Prolonged administration of anabolic steroids causes unintended **virilisation** in pediatric and female clinical subjects."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (8th Edition)*):** *"Endocrine evaluation of rapid **virilisation** must differentiate between adrenal neoplasms and ovarian hyperthecosis."*

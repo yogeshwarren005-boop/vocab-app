@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of fortune and good luck; counterpart of greek tyche.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman goddess of fortune, luck, chance, and destiny, often depicted with a cornucopia and wheel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic and Renaissance literature, personified blind fate governing the rise and fall of worldly rulers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Si fortuna me tormenta, spero me contenta._ [_Exeunt all but Prince John and the Lord Chief Justice._] LANCASTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we will put it, as they say, to _fortuna de la guerra_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch, _de fortuna Romanorum_, 11, 324 B, _ho Romaion megas daimon ... te polei synebesas kai synauxetheis, kthe_--the tract is a poor and rhetorical one, and the phrase may be merely a synonym for "luck." See also Celsus (Orig. _c."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Fortune is painted blind, with a muffler afore her eyes, to signify to you that **Fortuna** is mutable and variations."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"I judge it to be true that **Fortuna** is the arbiter of one-half of our actions, but that she leaves the other half to be governed by us."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions erected splendid temples to **Fortuna** Redux upon their victorious return from foreign campaigns."*

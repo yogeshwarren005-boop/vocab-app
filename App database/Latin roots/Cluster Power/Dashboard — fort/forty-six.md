@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being six more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being six more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus six; 46.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-six items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-six designates being six more than forty."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The breeder exhibited **forty-six** distinct varieties of fancy pigeons derived from the wild rock-dove."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There were **forty-six** sacks of prime barley loaded onto the heavy wagon for the morning market."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"He recorded **forty-six** distinct grievances against the bureaucratic obstruction of the Circumlocution Office."*

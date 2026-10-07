@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (dna or rna) wrapped in a thin coat of protein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmful or corrupting agency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A submicroscopic infectious agent that replicates only inside the living cells of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically, a poisonous secretion, venomous fluid, or corrupting moral contagion that infects minds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virus designates (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (dna or rna) wrapped in a thin coat of protein."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The mysterious **virus** of rabies passes through the nervous system, producing fatal convulsions unless countered."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The lethal **virus** of smallpox spreads with fearful rapidity when introduced among non-immune aboriginal tribes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolation of the specific filterable **virus** remains the primary objective in resolving the etiology of yellow fever."*

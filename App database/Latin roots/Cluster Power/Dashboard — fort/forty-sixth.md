@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-six in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-six in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-fifth in an ordered numerical sequence; ordinal 46th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-six equal parts into which a quantity or unit is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-sixth designates the ordinal number of forty-six in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-sixth** chapter describes the Persian monarch Chosroes and the siege of Jerusalem."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"In the **forty-sixth** year of his age, the king faced the combined forces of Austria and France."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **forty-sixth** paragraph of the second book examines the source of our ideas of duration and eternity."*

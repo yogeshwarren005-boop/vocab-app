@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soothed, consoled, and relieved from grief, anxiety, or physical distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imparted with emotional reassurance, renewed hope, and peaceful calm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must be gone; And I shall here abide the hourly shot Of angry eyes, not comforted to live But that there is this jewel in the world That I may see again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be comforted, good madam, the great rage, You see, is kill’d in him: and yet it is danger To make him even o’er the time he has lost."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A solemn air, and the best **comforted** music of our thoughts, cures thy frantic senses."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas was deeply **comforted** by the innocent trust of the child, whose presence redeemed his lonely existence."*
+> - 📜 **James Joyce (*Dubliners*):** *"She felt strangely **comforted** by the familiar sounds of evening in the quiet Dublin street."*

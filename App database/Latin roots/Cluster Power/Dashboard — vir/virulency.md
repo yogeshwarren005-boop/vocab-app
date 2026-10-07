@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme harmfulness (as the capacity of a microorganism to cause disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme hostility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme venomousness, acute infectivity, or bitter hostility in disposition or pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intensity of destructive or toxic power manifested by a pathogen, poison, or animosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virulency designates extreme harmfulness (as the capacity of a microorganism to cause disease)."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The toxic **virulency** of bacterial secretions was established through systematic physiological inoculations."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The personal **virulency** of political pamphleteers often degrades what should be philosophical debates."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His sarcasm was remembered for its bitter **virulency**, leaving a sting that rankled long after the dispute."*

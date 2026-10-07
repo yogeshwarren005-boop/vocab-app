@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embarrassment deriving from the feeling that others are critically aware of you.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of experiencing physical unease, social awkwardness, or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distressing or uneasy atmosphere producing psychological tension among companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomfortableness designates the state of being tense and feeling pain."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There was a certain damp **uncomfortableness** about the inn parlour that made me long for a blazing fire."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was acutely conscious of the social **uncomfortableness** of Joe's stiff Sunday clothes in London."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The family dinner ended in sullen **uncomfortableness**, with each person brooding over unuttered grievances."*

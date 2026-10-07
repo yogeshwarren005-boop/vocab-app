@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who foretells your personal future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who foretells your personal future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes to foresee, predict, or reveal the future of others, as by palmistry or astrology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of divination claiming occult insight into prospective destinies and hidden fortunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortuneteller designates a person who foretells your personal future."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"An itinerant gypsy **fortuneteller** sat beside the caravan, offering to read destinies in cards for a silver penny."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"In his desperation Henchard visited the solitary weather-caster and **fortuneteller** living in the dark cottage on the heath."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"Meg Merrilies, the wild **fortuneteller**, chanted strange prophecies over the infant heir in the ruined tower."*

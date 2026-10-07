@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In physical discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical discomfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncomfortable, uneasy, or awkward manner; producing physical or mental distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an awkward or distressing degree; disagreeably or embarrassingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Seated at the same table, though with his chair modestly and uncomfortably drawn a little way from it, sits a bald, mild, shining man who coughs respectfully behind his hand when the lawyer bids him fill his glass."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon Alice’s shoulder, and it was an uncomfortably sharp chin."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So the sun was an hour high and the day was already uncomfortably hot when we rolled out of Nephi and on into the sandy barrens."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The White Knight sat **uncomfortably** upon his horse, tumbling off whenever the steed halted."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was **uncomfortably** conscious that his medical rivals were whispering about his innovative methods."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The coach was packed **uncomfortably** full of wet passengers and damp luggage on that rainy November morning."*

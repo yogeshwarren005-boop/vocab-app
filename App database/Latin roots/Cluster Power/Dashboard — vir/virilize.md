@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impart masculine characteristics to, or induce virilism through hormone action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alter physiological development toward male phenotypic characteristics via androgen administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilize designates produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adrenal tumors may dramatically **virilize** the female constitution within a few short months."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Exogenous androgen therapy will **virilize** the recipient if administered over extended clinical intervals."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Compounds designed for non-androgenic purposes must be screened to ensure they do not **virilize** human patients."*

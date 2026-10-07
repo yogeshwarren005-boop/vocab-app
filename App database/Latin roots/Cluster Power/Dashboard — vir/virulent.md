@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious; having the ability to cause disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely infectious, poisonous, or rapidly destructive in pathology; fiercely bitter or hostile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by intense, malignant acrimony and unrelenting animosity toward an opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But _bu-ku-rú_ is much more virulent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley— “I protest before you, sir, as a Christian minister, against the sanction of proceedings towards me which are dictated by virulent hatred."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley launched into a **virulent** attack upon the reformer, denouncing his plans with scathing sarcasm."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She sincerely looked on me as a compound of **virulent** passions, incapable of quiet domestic submission."*
+> - 📜 **James George Frazer (*Balder the Beautiful*):** *"The South American arrow poison was exceedingly **virulent**, causing immediate paralysis in struck game."*

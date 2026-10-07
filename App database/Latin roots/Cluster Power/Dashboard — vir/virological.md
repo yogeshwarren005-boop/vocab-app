@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of virology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of virology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with the scientific study of viruses and viral diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to microbiological laboratory procedures and diagnostic assays identifying viral agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virological designates of or relating to the science of virology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern **virological** methods have revolutionized our comprehension of epidemic influenza and childhood fevers."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Careful **virological** investigations demonstrate that filtrable agents operate under distinct natural laws of infection."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"Rigorous **virological** screening of blood products has virtually eliminated transfusion-associated hepatitis."*

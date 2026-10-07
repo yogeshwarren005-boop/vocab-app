@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being nine more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nine more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus nine; 49.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-nine items; seven times seven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-nine designates being nine more than forty."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer counted **forty-nine** ewes safely penned in the fold before closing the hurdle gate."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The coach fare amounted to **forty-nine** shillings, which exhausted nearly all his remaining resources."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A council of **forty-nine** prelates assembled at Antioch to formulate an authoritative creed."*

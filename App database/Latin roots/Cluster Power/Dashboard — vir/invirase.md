@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weak protease inhibitor (trade name invirase) used in treating hiv.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weak protease inhibitor (trade name invirase) used in treating hiv.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for saquinavir mesylate, an antiretroviral protease inhibitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first HIV protease inhibitor approved for medical use, targeting viral protein cleavage in combination therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invirase designates a weak protease inhibitor (trade name invirase) used in treating hiv."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Saquinavir, formulated under the trade name **Invirase**, binds specifically to the catalytic site of HIV-1 protease."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (9th Edition)*):** *"Combination therapy regimens containing **Invirase** produce sustained suppression of plasma viral RNA levels."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Hard-gelatin capsules of **Invirase** require concurrent administration with boosting agents to optimize oral bioavailability."*

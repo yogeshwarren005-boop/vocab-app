@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every two weeks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every two weeks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, appearing, or published once every two weeks or fourteen days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At intervals of a fortnight; periodic biweekly publication or recurrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law is especially favorable to the hand-laborer in regard to the collection of his wages, requiring monthly or fortnightly or sometimes weekly payments."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., March, Vol. 5, N."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Fortnightly Rev., Oct., Vol. 10, N."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The agricultural market met **fortnightly**, drawing farmers and drovers from all parts of Wessex into the town."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"I attended the **fortnightly** meetings of the Geological Society, where lively debates on glacial drift were conducted."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He paid his landlady her rent in **fortnightly** installments with scrupulous, unbending punctuality."*

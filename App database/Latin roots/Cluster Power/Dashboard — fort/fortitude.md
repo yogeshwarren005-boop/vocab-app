@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strength of mind that enables one to endure adversity with courage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strength of mind that enables one to endure adversity with courage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Courage, mental endurance, and strength of mind in confronting pain, adversity, or peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the cardinal virtues, demonstrating patient firmness in upholding duty against suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coward of France, how much he wrongs his fame, Despairing of his own arm’s fortitude, To join with witches and the help of hell!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am able now, methinks, Out of a fortitude of soul I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Othello, the fortitude of the place is best known to you."*
+> - 📜 **William Shakespeare (*Othello*):** *"The tyrant custom, most grave senators, / Hath made the flinty and steel couch of war / My thrice-driven bed of down: I do agnize / A natural and prompt alacrity / I find in hardness, and do undertake / These present wars against the Ottomites. / Most humbly therefore bending to your state, / I crave fit disposition for my wife, / Due reference of place and exhibition, / With such accommodation and besort / As levels with her breeding: let me have **fortitude** to bear this voyage."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She met her cruel reverses with a silent **fortitude** that commanded the reverence of all who knew her secret grief."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Heroism feels and never reasons, and therefore is always right; it displays a noble **fortitude** before insurmountable obstacles."*

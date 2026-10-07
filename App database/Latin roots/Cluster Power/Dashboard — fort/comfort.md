@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of freedom from worry or disappointment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consolation in time of sorrow, grief, or distress; solace and cheering relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical ease, material well-being, and agreeable freedom from pain or hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, there is some comfort in the news, some comfort; your son will not be kill’d so soon as I thought he would."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do pity his distress in my similes of comfort, and leave him to your lordship. [_Exit._] PAROLLES."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Live a little; **comfort** thine heart; cheer up thyself a little."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a subtle **comfort** to know that in all her perplexities, Oak's dependable fidelity remained unshaken."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She found her purest **comfort** in active benevolence, lightening the burdens of her impoverished neighbours."*

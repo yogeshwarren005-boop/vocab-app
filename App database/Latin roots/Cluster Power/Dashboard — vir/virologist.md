@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in virology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in virology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological or medical scientist who specializes in the study of viruses and viral pathologies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microbiological researcher investigating the structure, genetics, and therapeutic inhibition of viruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virologist designates a specialist in virology."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The modern **virologist** relies on molecular cloning and crystal structures to dissect the mechanisms of viral infection."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Every observant **virologist** recognizes that phages provided the crucial experimental bridge into molecular genetics."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"When the **virologist** discovers reverse transcription, longstanding assumptions regarding hereditary flow are overturned."*

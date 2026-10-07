@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) loud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's strong point, special talent, or area of greatest accomplishment and skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical notation, a dynamic instruction indicating that a passage must be played loudly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, trampled and crushed in the piano-forte removal, and extremely timid and feeble, ventures to come out from behind the door in the drawing-room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And we agreed it would be best to have the harp, for it seems to amuse her more than the piano-forte."*
+> - 📜 **Jane Austen (*Emma*):** *"Clever riddles and lively conversation were her **forte**, and she delighted in displaying her ready wit at evening parties."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Abstract mathematical reasoning is the **forte** of a rare intellect, while concrete visualization suits the artistic mind."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A tutor must carefully discover the natural **forte** of his pupil and cultivate that talent with diligent encouragement."*

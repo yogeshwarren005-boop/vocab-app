@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By bad luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By bad luck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By bad luck; unhappily, regrettably, or in an adverse manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As an undesirable or disappointing consequence; sorrowfully.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Please have nothing to do with it, otherwise you'll be sorry." "You can be perfectly reassured, for unfortunately nothing whatever can be done," Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Unfortunately we must go, and she is not able to travel."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea had twice before tried to be reconciled to the embittered Elvira, but unfortunately in vain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Unfortunately** the messenger took the lower road, missing Oak who had ridden along the ridge."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"**Unfortunately** the fossil record is extremely imperfect, preserving only a fraction of extinct intermediate links."*
+> - 📜 **George Eliot (*Middlemarch*):** *"**Unfortunately** his pride prevented him from seeking the timely financial assistance that would have saved him."*

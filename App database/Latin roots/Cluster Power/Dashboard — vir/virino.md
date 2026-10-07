@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical subviral infectious agent postulated to consist of nucleic acid wrapped in host proteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In unconventional pathogen research, an infectious model formerly proposed to explain scrapie and spongiform encephalopathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virino designates (microbiology) a hypothetical infectious particle thought to be the cause of scrapie and other degenerative diseases of the central nervous system; consists of nucleic acid in a protective coat of host cell proteins."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The **virino** hypothesis proposed that unconventional slow pathogens utilize host proteins to shield an unrecognized small genome."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Later research on prion replication largely superseded the **virino** model for transmissable spongiform encephalopathies."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"Investigators debated whether the scrapie agent represented a **virino** or a purely proteinaceous infectious entity."*

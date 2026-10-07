@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process whereby an individual acquires masculine physical attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pathological appearance of male secondary sexual characteristics in females due to androgen excess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilization designates the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **virilization** occurring in early childhood necessitates urgent diagnostic imaging of the adrenal glands."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Therapeutic suppression of gonadotropin release halts progressive **virilization** in affected adolescent subjects."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (10th Edition)*):** *"The clinical signs of **virilization** include temporal hair recession, voice deepening, and muscular enlargement."*

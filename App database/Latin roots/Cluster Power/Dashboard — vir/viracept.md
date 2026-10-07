@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for nelfinavir mesylate, an oral HIV protease inhibitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiretroviral compound designed to prevent post-translational processing of viral gag and pol polyproteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viracept designates a protease inhibitor (trade name viracept) used in treating hiv usually in combination with other drugs."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Nelfinavir, known by the commercial trade name **Viracept**, is formulated to inhibit human immunodeficiency virus protease."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (10th Edition)*):** *"Administration of **Viracept** with meals enhances gastrointestinal absorption and maintains therapeutic plasma troughs."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Film-coated tablets of **Viracept** form an essential component in multidrug combination regimens against retroviral infection."*

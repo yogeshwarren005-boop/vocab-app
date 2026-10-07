@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make strong or stronger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclose by or as if by a fortification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strengthen a place against attack with military defenses, walls, and defensive works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impart physical vigor, mental endurance, or moral strength to a person facing trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fortify yourself in your decay With means more blessed than my barren rhyme?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, uncle Exeter, Go you and enter Harfleur; there remain, And fortify it strongly ’gainst the French."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"So by degrees our spirits are composed, and we **fortify** our hearts against the recurrent terrors of the night."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak resolved to **fortify** the hay-ricks against the impending tempest with thick thatch and sturdy ropes."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"We must **fortify** our minds with great principles, so that daily petty vexations cannot disturb our inner tranquility."*

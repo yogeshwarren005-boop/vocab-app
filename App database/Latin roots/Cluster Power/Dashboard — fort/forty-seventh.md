@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-seven in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-seven in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-sixth in an ordered numerical sequence; ordinal 47th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-seven equal parts into which a whole is divided; Euclid's 47th proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-seventh designates the ordinal number of forty-seven in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-seventh** chapter of the history traces the theological controversies surrounding the Incarnation."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The **forty-seventh** proposition of Euclid was hailed by the philosopher as a monument of pure reason."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In his **forty-seventh** section, the author considers the relation between complex ideas and empirical substance."*

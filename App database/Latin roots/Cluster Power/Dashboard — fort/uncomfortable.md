@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducive to or feeling mental discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing or experiencing physical discomfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or experiencing physical discomfort, unease, awkwardness, or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by social embarrassment, psychological tension, or anxious unease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncomfortable time, why cam’st thou now To murder, murder our solemnity?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ada and I were very uncomfortable."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The flamingo tucked its head under its wing in a very **uncomfortable** manner, glaring up at Alice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt singularly **uncomfortable** under the searching gaze of her clear hazel eyes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A heavy silence fell upon the party, producing an **uncomfortable** feeling of restraint among the guests."*

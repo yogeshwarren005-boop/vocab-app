@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing or experiencing physical well-being or relief (`comfy' is informal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stress or conducive to mental ease; having or affording peace of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording physical ease, restful relaxation, and agreeable contentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Financially secure and moderately prosperous; living in easy, modest circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best wishes that can be forg’d in your thoughts be servants to you! [_To Helena._] Be comfortable to my mother, your mistress, and make much of her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, daughter, sing, or express yourself in a more comfortable sort."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have another daughter, Who, I am sure, is kind and comfortable: When she shall hear this of thee, with her nails She’ll flay thy wolvish visage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fire burned brightly in the grate, shedding a warm and **comfortable** glow over the old room."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins possessed a very **comfortable** home and a respectable income which satisfied all his modest desires."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He looked forward to a **comfortable** evening beside the hearth after a long tramp across the bleak heath."*

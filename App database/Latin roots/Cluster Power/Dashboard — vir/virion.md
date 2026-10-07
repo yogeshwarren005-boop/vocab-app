@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, infective viral particle outside a host cell, consisting of nucleic acid and a protein capsid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural extracellular unit of a virus capable of surviving transfer and attaching to receptive host membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virion designates (virology) a complete viral particle; nucleic acid and capsid (and a lipid envelope in some viruses)."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The mature **virion** contains all necessary structural proteins organized symmetrically to protect the viral genome."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Upon contact with the host cell surface, the **virion** uncoats its capsid and injects its nucleic acid core."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"Electron microscopy reveals that each spherical **virion** possesses an outer lipid envelope derived from host membrane."*

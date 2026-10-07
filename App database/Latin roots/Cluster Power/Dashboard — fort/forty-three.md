@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being three more than forty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being three more than forty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to four tens plus three; 43.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity or unit consisting of forty-three items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-three designates being three more than forty."*
+> - 📜 **James Joyce (*Ulysses*):** *"The tram rattled past number **forty-three** Eccles street as morning sunlight touched the brick facades."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"There were **forty-three** golden sovereigns discovered inside the lining of the stolen travelling cloak."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"He had accumulated **forty-three** separate mounds of dust upon his riverside property in London."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-four in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-four in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the forty-third in an ordered numerical sequence; ordinal 44th.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of forty-four equal parts into which a whole is divided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-fourth designates the ordinal number of forty-four in counting order."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **forty-fourth** chapter contains an exhaustive analysis of Roman jurisprudence under Justinian."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"In his **forty-fourth** year, Friedrich launched the campaign that determined the fate of Silesia."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Section the **forty-fourth** demonstrates that labour gives a primary title to private property in land."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by energy and vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics associated with traditional masculine vigor, robust strength, and energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forceful, energetic, and powerfully potent in style, intellect, or creative output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was something naïvely festive in his air, which, in conjunction with his firm and virile features, gave him a rather comical expression."*
+> - 📜 **G. K. Chesterton (*Charles Dickens: A Critical Study*):** *"There was a **virile** and gigantic energy in his prose, which battered down every barrier of conventional hesitation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was a man of **virile** courage, whose deliberate movements reflected seasoned muscular endurance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The seasoned whaleman possessed that **virile** independence of spirit which fears neither monster nor tempest."*

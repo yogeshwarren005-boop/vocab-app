@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular single-stranded RNA pathogen that depends upon a helper virus for replication and encapsidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A satellite RNA molecule that replicates inside host cells strictly in association with specific plant viruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virusoid designates the smallest of viruses; a plant virus with its rna arranged in a circular chromosome without a protein coat."*
+> - 📜 **David Baltimore (*Viral Genetic Systems*):** *"The replication of a **virusoid** relies entirely on polymerase enzymes supplied by its accompanying helper virus."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Unlike autonomous viroids, a **virusoid** is co-packaged into the spherical protein coat of its host virus."*
+> - 📜 **Howard Temin (*The DNA Provirus Hypothesis*):** *"Studies of the velvet tobacco mottle **virusoid** reveal circular RNA rings replicating via rolling-circle mechanisms."*

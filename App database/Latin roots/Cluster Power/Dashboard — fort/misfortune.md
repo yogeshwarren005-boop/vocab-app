@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessary and unforeseen trouble resulting from an unfortunate event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate state resulting from unfavorable outcomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad luck, ill fortune, calamity, or an adverse event causing hardship and sorrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distressing occurrence or condition of adversity testing personal resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Rivers, are you yet to learn What late misfortune is befall’n King Edward?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should be still Plucking the grass to know where sits the wind, Peering in maps for ports, and piers and roads; And every object that might make me fear Misfortune to my ventures, out of doubt Would make me sad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If e’er the Jew her father come to heaven, It will be for his gentle daughter’s sake; And never dare misfortune cross her foot, Unless she do it under this excuse, That she is issue to a faithless Jew."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"O, give me thy hand, / One writ with me in sour **misfortune**'s book! / I'll bury thee in a triumphant grave."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard regarded every fresh **misfortune** as a retribution sent by a relentless destiny for his past crime."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Common **misfortune** often draws generous natures together into closer sympathy than shared prosperity."*

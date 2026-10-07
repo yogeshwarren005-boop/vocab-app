@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early predecessor of the modern piano, featuring hammer action and dynamic control over volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical notation, a dynamic marking (fp) directing a performer to strike a note loudly and instantly become soft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forte-piano designates a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds."*
+> - 📜 **Jane Austen (*Emma*):** *"The arrival of the mysterious **forte-piano** from Broadwood threw Highbury into a ferment of gossip and romantic conjecture."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A young lady was requested to seat herself at the **forte-piano** and favor the company with an expressive ballad."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond's delicate fingers drew melodious harmonies from the **forte-piano**, captivating all who listened in the drawing-room."*

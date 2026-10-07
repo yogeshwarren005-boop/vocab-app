@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) loud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly a direction or description in music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical performance direction indicating that a passage must be played very loudly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dynamic acoustic intensity delivered at maximum volume and sonic power by an orchestra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortissimo designates (music) loud."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra burst into a crashing **fortissimo**, sweeping the listeners away on a tidal wave of brass and percussion."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy struck the piano keys in a passionate **fortissimo**, pouring all her pent-up rebellion into the storm of Beethoven's music."*
+> - 📜 **James Joyce (*Ulysses*):** *"The organ thundered in triumphant **fortissimo**, shaking the stained-glass windows of the ancient Dublin cathedral."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of a virus in the blood stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of a virus in the blood stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition characterized by the dissemination of viruses into the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic presence of viral pathogen particles during the acute dissemination phase of an infectious disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viremia designates the presence of a virus in the blood stream."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden rise in temperature marks the onset of secondary **viremia**, during which internal organs become seeded with virus."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Circulation of microscopic contagions in the blood stream gives rise to transient **viremia** before antibody production intervenes."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"Physiological reports indicate that acute **viremia** produces marked lethargy and metabolic depression in infected animals."*

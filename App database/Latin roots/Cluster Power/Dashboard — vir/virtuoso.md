@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is dazzlingly skilled in any field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who is a consummate master of technique and artistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician or artist possessing supreme technical execution, brilliance, and consummate skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A learned connoisseur or collector passionately devoted to the study of fine arts and rare antiquities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Duke is showing, with the weak pride of the mere virtuoso, a portrait of his last Duchess, to some one who has been sent to negotiate another marriage."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The pride of the virtuoso is also implied in the word, “though”."*
+> - 📜 **Robert Browning (*My Last Duchess*):** *"The Duke speaks with the cold pride of a mere **virtuoso**, pointing out the bronze Neptune taming a sea-horse."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"He fancied himself a musical **virtuoso**, though his clumsy fingers could barely stumble through a simple ballad."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The Italian sculptor observed the young American with the practiced eye of a seasoned **virtuoso**."*

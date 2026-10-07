@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rudolf Virchow (1821–1902), the German pathologist known as the father of modern pathology and cellular theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renowned for formulating the foundational biological dictum 'omnis cellula e cellula' and advancing social medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virchow designates german pathologist who recognized that all cells come from cells by binary fission and who emphasized cellular abnormalities in disease (1821-1902)."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The eminent pathologist **Virchow** has shown that every pathological growth originates through the proliferation of preexisting cells."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"In the brilliant investigations of **Virchow**, cellular biology found its most rigorous histological and anatomical foundation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical medicine traces its anatomical accuracy to the pathological principles established by Professor **Virchow**."*

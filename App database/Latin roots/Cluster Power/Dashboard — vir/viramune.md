@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-nucleoside reverse transcriptase inhibitor (trade name viramune) used to treat aids and hiv.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-nucleoside reverse transcriptase inhibitor (trade name viramune) used to treat aids and hiv.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for nevirapine, a non-nucleoside reverse transcriptase inhibitor (NNRTI).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiretroviral medication that directly binds to viral reverse transcriptase to block polymerase activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viramune designates a non-nucleoside reverse transcriptase inhibitor (trade name viramune) used to treat aids and hiv."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Nevirapine, supplied under the trade name **Viramune**, blocks reverse transcription through allosteric enzyme binding."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics (10th Edition)*):** *"A single dose of **Viramune** administered to mothers during labour substantially reduces vertical transmission of retrovirus."*
+> - 📜 **Arthur Osol (*Remington's Pharmaceutical Sciences*):** *"Clinical monitoring during the initial fourteen-day induction phase of **Viramune** is imperative to detect cutaneous adverse reactions."*

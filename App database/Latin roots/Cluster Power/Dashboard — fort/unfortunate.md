@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suffers misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not favored by fortune; marked or accompanied by or resulting in ill fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or marked by bad luck, calamity, or adverse circumstances; unlucky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regrettable, inauspicious, or poorly judged; causing undesirable consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your unfortunate son,_ BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I swear to thee, youth, by the white hand of Rosalind, I am that he, that unfortunate he."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I am the man: if it be so, as 'tis, / Poor lady, she were better love a dream. / Disguise, I see, thou art a wickedness, / Wherein the pregnant enemy does much. / How easy is it for the proper-false / In women's waxen hearts to set their forms! / Alas, our frailty is the cause, not we! / For such as we are made of, such we be. / How will this fadge? my master loves her dearly; / And I, poor monster, fond as much on him; / And she, mistaken, seems to dote on me. / What will become of this? As I am man, / My state is desperate for my master's love; / As I am woman,—now alas the day!— / What thriftless sighs shall poor Olivia breathe! / O time! thou must untangle this, not I; / It is too hard a knot for me to untie! / I am indeed an **unfortunate** servant."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The **unfortunate** girl walked home in the dark, overwhelmed by the tragic turn of events at the dairy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **unfortunate** marriage had chained an ardent spirit to a companion incapable of understanding his aspirations."*

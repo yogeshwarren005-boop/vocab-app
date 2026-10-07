@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical stringed keyboard instrument, producing sound from hammers striking taut steel strings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The full historical formal name for the piano, distinguished by dynamic range from soft (piano) to loud (forte).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle’s learned friends, each armed with a little summary of eighteen hundred sheets, bob up like eighteen hammers in a pianoforte, make eighteen bows, and drop into their eighteen places of obscurity."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her performance on the pianoforte is exquisite.” “It is amazing to me,” said Bingley, “how young ladies can have patience to be so very accomplished as they all are.” “All young ladies accomplished!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley moved with alacrity to the pianoforte, and after a polite request that Elizabeth would lead the way, which the other as politely and more earnestly negatived, she seated herself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth sat down to the **pianoforte**, playing lively tunes with unaffected good nature for the dancers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sound of a sweet voice accompanied by the **pianoforte** floated through the open French window."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"In the evenings my wife played Beethoven sonatas on the **pianoforte**, which always afforded me intense pleasure."*

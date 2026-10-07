@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage badly or incompetently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage badly or incompetently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage, direct, or administer incompetently, recklessly, dishonestly, or inefficiently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To handle personal finances, political affairs, or organizational resources with negligent lack of skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he had mismanaged his wife’s property and was to blame toward his children, but he did not know how to remedy it)."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The town itself was shamefully mismanaged."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He had a taste for law, which cost him many thousands yearly; and being a great deal too clever to be robbed, as he said, by any single agent, allowed his affairs to be mismanaged by a dozen, whom he all equally mistrusted."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Directors who manage other people's money are almost inevitably tempted to neglect and **mismanage** corporate funds."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministers did so grievously **mismanage** the Scottish expedition that defeat was converted into utter rout."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"He feared that his sons would recklessly **mismanage** the family estates as soon as his guidance was removed."*

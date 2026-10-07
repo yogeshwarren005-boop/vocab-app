@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of labor but not much capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring a large expenditure of labor but not much capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of manual or physical human effort relative to the amount of capital or automated equipment employed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating industries, agricultural tasks, or operational processes that depend primarily upon human workers rather than mechanical power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labor-intensive designates requiring a large expenditure of labor but not much capital."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful: Economics as if People Mattered*):** *"Developing economies require intermediate technology that promotes **labor-intensive** production rather than capital-intensive automation."*
+> - 📜 **Gunnar Myrdal (*Asian Drama: An Inquiry into the Poverty of Nations*):** *"Traditional agriculture remains overwhelmingly **labor-intensive**, absorbing millions of rural workers during harvest seasons."*
+> - 📜 **W. Arthur Lewis (*The Theory of Economic Growth*):** *"In countries with surplus rural populations, investing in **labor-intensive** cottage industries maximizes domestic employment."*

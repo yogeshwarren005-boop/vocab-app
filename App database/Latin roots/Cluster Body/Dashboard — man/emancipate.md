@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from slavery or servitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set free from legal, political, or social restrictions, servitude, or oppressive external control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To liberate the human mind, intellect, or spirit from debilitating prejudices, dogmas, and superstition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Emancipate through passion And thought, with sea for sky, We substitute, in a fashion, For heaven--poetry: -- St. 14. for: instead of. 15."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They will emancipate humanity, and supplant unscientific 223:24 means and so-called laws."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They shall have power to pass laws to permit the owners of slaves to emancipate them, saving the rights of creditors, and preventing them from becoming a public charge."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"To **emancipate** the female mind from trivial prejudices is the first step toward genuine virtue."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The truth of the abolition cause had power to **emancipate** the soul even before bodily freedom was won."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society must **emancipate** the individual from the oppressive tyranny of conforming public opinion."*

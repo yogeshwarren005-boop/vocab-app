@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of working jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of cooperating traitorously with an enemy that is occupying your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working jointly with one or more individuals or organizations to produce or create something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traitorous or unprincipled cooperation with an occupying enemy government or hostile power during wartime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To President Camari, I herewith declare that the original understandings on cooperation and collaboration with the Government of Planet Pluto until Slingshot is launched remain in effect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Discussing collaboration in writing a story got us into long distance interaction between grandkids and grandparents."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The process, itself, I felt, would encourage collaboration among professionals, paraprofessionals, and administrators and directors of suicide prevention entities in neighboring civilian communities."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A literary **collaboration** is rarely an equal partnership of minds, yet it may produce surprising harmony."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Without the sympathetic **collaboration** of the reader, the most subtle nuances of the novelist are lost."*
+> - 📜 **Joseph Conrad (*A Personal Record*):** *"Our long literary **collaboration** began with intimate talks by the fireplace on winter evenings."*

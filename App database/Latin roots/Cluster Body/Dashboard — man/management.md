@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of managing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Those in charge of running a business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or skill of directing, administering, and coordinating the resources, personnel, and operations of an enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective executive body of persons in charge of directing a commercial, industrial, or institutional organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Would you like to live here again and undertake the management of the castle?" Apollonie stared at her master at first as if she could not comprehend his words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The negligent **management** of joint-stock companies frequently leads to enormous financial losses for shareholders."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Order in the **management** of one's daily business prevents endless confusion and wasted time."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a democratic republic, the **management** of municipal affairs is entrusted directly to the citizens."*

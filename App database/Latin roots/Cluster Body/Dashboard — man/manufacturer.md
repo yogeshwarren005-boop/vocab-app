@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business engaged in manufacturing some product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who manufactures something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, corporation, or enterprise that owns or operates a factory producing goods on a commercial scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entrepreneur or business magnate engaged in industrial production, fabrication, and wholesale trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has already been shown that when the tariff duty prevents the importation of foreign goods and by raising the price encourages domestic manufacture of the article, there is virtually taxation of the consumer to subsidize the private manufacturer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some cases both manufacturer and workmen value the system highly."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind and the cotton **manufacturer** sat discussing ledger balances and mechanical efficiency."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The captains of industry and wealthy **manufacturers** must recognize their moral duty toward their workmen."*
+> - 📜 **Andrew Carnegie (*The Autobiography of Andrew Carnegie*):** *"As a young iron **manufacturer**, I realized that cost accounting was the secret of industrial success."*

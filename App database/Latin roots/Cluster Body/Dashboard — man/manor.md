@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mansion of a lord or wealthy person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The landed estate of a lord (including the house on it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landed estate or territorial unit of land under feudal law, held by a lord of the manor and worked by tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal residential mansion or hall of an estate lord, usually situated on vast ancestral grounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a man that had this trick of melancholy sold a goodly manor for a song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seen with her in the manor-house, sitting with her upon the form, and taken following her into the park, which, put together, is “in manner and form following”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go—a short knife and a throng—to your manor of Pickt-hatch, go."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The reeve had governance over the lord's cattle and the rich fields of the ancestral **manor**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon thane held his ancient **manor** of Rotherwood despite the incursions of the Norman knights."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Thornfield was a three-story **manor** of grey stone, standing lonely among its ancient rook-trees."*

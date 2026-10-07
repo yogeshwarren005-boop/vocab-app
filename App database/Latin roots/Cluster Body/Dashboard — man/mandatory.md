@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of a mandate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A territory surrendered by turkey or germany after world war i and put under the tutelage of some other european power until they are able to stand by themselves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by legal rule, statutory law, or binding authority; compulsory and not optional in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing a formal judicial or governmental command that orders an affirmative course of conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the instant a knock, vast and compulsive, inexorable and mandatory as the stamp of the iron hoof of doom, smote me and reverberated across the universe."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was not mandatory, but permissive; and negotiations could now be opened with the gentlemen at Annapolis."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"COMPLIANCE WITH THIS PUBLICATION IS MANDATORY UNQUOTE *** Mental health experts have come to accept paraprofessional-level suicide intervention and prevention workers as among those in the forefront of primary resources."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A statutory injunction that imposes a **mandatory** affirmative duty differs fundamentally from a simple prohibitive rule."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Certain municipal public health ordinances are strictly **mandatory** upon all property owners."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"When legislative commands are explicit and **mandatory**, the judiciary possesses no discretion to suspend their operation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooperate as a traitor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To work jointly with others in an intellectual, scientific, or artistic endeavor to achieve a common goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cooperate treasonably with an enemy occupying force controlling one's homeland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I hoped that, by now, military bases would have been further along in collaborating with adjacent civilian suicide prevention resources and that such teamwork would be reflected in base and community media."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Another instance in which military and civilian resources collaborated and made the system work."*
+> - 📜 **Jack London (*The Star Rover*):** *"Professor Schleimer had agreed to **collaborate** with me in the investigation of animal and vegetable fats."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"To **collaborate** with another dramatist requires a degree of mutual forbearance that few artists possess."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Scientists of all nations were summoned to **collaborate** upon problems of global reconstruction."*

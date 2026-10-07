@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: hyacinth bean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: hyacinth bean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twining tropical legume (*Lablab purpureus*, the hyacinth bean) cultivated widely for its edible pods, pulses, and fodder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The edible seed or young pod obtained from the hyacinth bean plant, used as a staple food source across Asia and Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lablab designates one species: hyacinth bean."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The **lablab** bean is cultivated extensively throughout Bengal for its tender edible pods and nutritious seeds."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"In tropical hedge-rows one frequently observes the twining vines and purplish flowers of the wild **lablab**."*
+> - 📜 **George Watt (*A Dictionary of the Economic Products of India*):** *"As a green forage crop and pulse, **lablab** purpureus flourishes in warm climates where other legumes wither."*

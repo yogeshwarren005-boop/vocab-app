@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the british labour party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the british labour party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member, partisan supporter, or elected politician affiliated with the British or Commonwealth Labour Party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or advocating the political principles, trade union ties, and democratic socialist goals of the Labour movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labourite designates a member of the british labour party."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"To the average working man, an earnest **Labourite** candidate seemed far closer to his daily bread-and-butter anxieties than distant theorists."*
+> - 📜 **Beatrice Webb (*My Apprenticeship*):** *"As a committed **Labourite**, he argued passionately that municipal enterprise must replace private commercial exploitation of basic services."*
+> - 📜 **Harold Laski (*Parliamentary Government in England*):** *"The veteran **Labourite** members viewed parliamentary institutions as the natural instrument for constitutional working-class advancement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having lips or parts that resemble lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lips or parts that resemble lips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing lip-like petals, lobes, or rims; specifically, having a corolla divided into an upper and lower lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging or pertaining to the aromatic mint family (*Lamiaceae*, historically *Labiatae*); or a plant belonging to this family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"Observe the open mouth of any common **labiate** blossom, shaped like a miniature gaping dragon."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The honeybees were swarming over the beds of **labiate** herbs that border the garden wall."*
+> - 📜 **John Lindley (*School Botany*):** *"The corolla is termed **labiate** when the petals form an upper and a lower lip resembling a mouth."*

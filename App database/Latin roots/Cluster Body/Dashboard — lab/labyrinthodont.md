@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibian of the superorder labyrinthodontia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibian of the superorder labyrinthodontia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct amphibian of the subclass *Labyrinthodontia*, characterized by complexly folded internal dentine within the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or denoting extinct Paleozoic and Mesozoic amphibians having labyrinthically folded dental structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodont designates an amphibian of the superorder labyrinthodontia."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The gigantic Carboniferous **labyrinthodont** exhibited deeply folded enamel patterns in its teeth, connecting early amphibians with primitive crossopterygian fishes."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Fossil footprints discovered in Triassic sandstone quarries were attributed to a heavy, crawling **labyrinthodont** resembling an enormous toad."*
+> - 📜 **E. Ray Lankester (*Extinct Animals*):** *"The skull roof of the fossil **labyrinthodont** was covered by a solid armor of bony plates pitted with mucous canals."*

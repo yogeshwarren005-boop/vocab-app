@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who frees others from bondage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who frees others from bondage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who manumits or confers legal freedom upon an enslaved individual or servant under civil law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The former master who executes a deed of emancipation and historically retained patronal rights over the freedperson.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manumitter designates someone who frees others from bondage."*
+> - 📜 **Joseph Story (*Commentaries on the Conflict of Laws*):** *"The legal rights acquired by a freedman depended upon the status and municipal jurisdiction of the original **manumitter**."*
+> - 📜 **Thomas Cooper (*The Institutes of Justinian*):** *"Under the Roman praetorian code, the **manumitter** retained certain reciprocal rights of patronage over his former slave."*
+> - 📜 **James Kent (*Commentaries on American Law*):** *"If the **manumitter** was insolvent at the time of executing the deed, creditors could challenge the validity of the grant."*

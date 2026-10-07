@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by effort to the point of exhaustion; especially physical effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a vast amount of physical or mental effort, painstaking perseverance, and arduous sustained exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by devoted industry, diligence, and unflagging application to heavy scholarly or manual duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They dance in the academy, and at this time of year we do figures at five every morning.” “Why, what a laborious life!” I exclaimed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the former, his desire to go to the sources and to take nothing at second-hand led him to make a renewed and laborious study of the Fathers, who were already, to a far greater extent than with most theologians, his familiar friends."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She had no mind for **laborious** effort towards such petty social advancement as could alone be effected by a family so heavily handicapped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **laborious** breathing necessary in high regions would, we have some reason to believe, increase the size of the chest."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The task, notwithstanding the assistance of my amanuensis, has been a somewhat **laborious** one."*

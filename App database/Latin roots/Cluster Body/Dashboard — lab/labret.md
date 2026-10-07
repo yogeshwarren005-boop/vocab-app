@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lab within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lab in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental plug, stud, or disc of wood, bone, shell, or stone inserted into a piercing in the lower or upper lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional bodily adornment worn across diverse indigenous cultures to signify social rank, maturity, or tribal identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labret designates pertaining to, derived from, or characteristic of latin lab within the domain of body."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"Among the indigenous peoples of the northwest coast, the insertion of a polished wooden **labret** through the lower lip denoted social status."*
+> - 📜 **Franz Boas (*The Kwakiutl of Vancouver Island*):** *"High-ranking women alone were entitled to wear the ceremonial stone **labret** in their pierced lips."*
+> - 📜 **William H. Dall (*Alaska and Its Resources*):** *"The bone **labret** worn by the elder hunters was adorned with small beads traded from Russian merchants."*

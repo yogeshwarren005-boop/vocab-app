@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being managed or controlled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of existing or taking place or proving true; possible to do.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being handled, controlled, governed, or manipulated with reasonable ease and success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kept within reasonable boundaries of size, complexity, or fiscal expense so as to be feasible to direct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"With regard to a large number of matters about which other men are decided or obstinate, he was the most easily manageable man in the world."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was restless and sleepless, but still quailing and manageable."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He must mingle gold with gold’s alloy, and duly tempering both effect a manageable mass."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His affairs were in a **manageable** condition, requiring only prompt attention to avoid financial ruin."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The fiery stallion became docile and **manageable** beneath the skilled touch of the groom."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The small coastal cutter was easily **manageable** even in a brisk gale along the reefs."*

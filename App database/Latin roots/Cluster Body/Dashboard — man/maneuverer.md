@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in maneuvering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in maneuvering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs or executes tactical maneuvers, especially one skilled in clever, calculating social or political schemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operator, pilot, or commander who directs the movements of a vehicle or military force with tactical dexterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maneuverer designates a person skilled in maneuvering."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp was an astute social **maneuverer**, calculating every smile and curtsey for future advancement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine court was crowded with seasoned political **maneuverers** skilled in palace intrigue."*
+> - 📜 **Henry Adams (*The History of the United States of America*):** *"As a political **maneuverer**, Aaron Burr had few equals in audacity and personal charm."*

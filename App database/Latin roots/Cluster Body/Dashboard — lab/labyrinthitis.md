@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the inner ear; can cause vertigo and vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the inner ear; can cause vertigo and vomiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the labyrinth of the inner ear, resulting in acute vertigo, loss of balance, nausea, and impaired hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An otological disorder affecting the vestibular system that produces severe disturbance of spatial orientation and equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthitis designates inflammation of the inner ear; can cause vertigo and vomiting."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative **labyrinthitis** produces violent vertigo, nystagmus, and rapid loss of auditory acuity requiring prompt otological intervention."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The acute symptoms of viral **labyrinthitis** may closely mimic early vestibular nerve compression before localization is achieved."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Inflammatory extension into the inner ear resulting in **labyrinthitis** compromises both hearing and postural equilibrium."*

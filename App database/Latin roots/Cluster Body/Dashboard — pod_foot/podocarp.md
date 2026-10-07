@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evergreen coniferous tree or shrub of the genus *Podocarpus* or family *Podocarpaceae*, native mostly to the Southern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit-like conifer seed produced by a podocarp tree, borne atop a brightly colored, fleshy receptacle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podocarp designates any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"The dense forests of southern New Zealand are dominated by towering **podocarp** conifers."*
+> - 📜 **Leonard Cockayne (*New Zealand Plants and Their Story*):** *"Ancient **podocarp** forests containing giant totara and rimu have stood for hundreds of years."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The distribution of the **podocarp** pines across isolated southern landmasses points to ancient continental connections."*

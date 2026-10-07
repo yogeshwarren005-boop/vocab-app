@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief description given for purposes of identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of a company that produces musical recordings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slip of paper, cloth, or plastic attached to an article to indicate its contents, maker, ownership, or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descriptive or classifying moniker applied to a person, group, ideology, or artistic movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I wak’d, I found This label on my bosom; whose containing Is so from sense in hardness that I can Make no collection of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God join’d my heart and Romeo’s, thou our hands; And ere this hand, by thee to Romeo’s seal’d, Shall be the label to another deed, Or my true heart with treacherous revolt Turn to another, this shall slay them both."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"There was no label this time with the words “DRINK ME,” but nevertheless she uncorked it and put it to her lips."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"When I waked, I found this **label** on my bosom; whose containing is so from sense in hardness that I can make no collection of it."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"There was no **label** this time with the words 'DRINK ME', but nevertheless she uncorked it and put it to her lips."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"On the inside of the cover was a paper **label**, with the initials of the manufacturer."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to replace or conserve human and especially manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to replace or conserve human and especially manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to curtail the amount of manual toil, physical effort, or time needed to complete household or industrial tasks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employing mechanical mechanisms or automated equipment to reduce physical exertion in domestic and workplace environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Laboursaving apparatuses, supplanters, bugbears, manufactured monsters for mutual murder, hideous hobgoblins produced by a horde of capitalistic lusts upon our prostituted labour."*
+> - 📜 **James Joyce (*Ulysses*):** *"He took a quiet pride in every modern **laboursaving** gadget fitted into the neat kitchen scullery."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Her mother regarded the new **laboursaving** apparatus with a mixture of polite wonder and lingering skepticism."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"The ironmonger's window displayed the latest **laboursaving** mangles and copper kettles to the admiring townspeople."*

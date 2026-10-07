@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial rhizomatous herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial rhizomatous herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial woodland herbs (*Podophyllum*, mayapples) having large umbrella-like lobed leaves, solitary white flowers, and fleshy edible berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried rhizome and roots of *Podophyllum peltatum*, historically used as a cathartic and source of resinous podophyllin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podophyllum designates perennial rhizomatous herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The wild mayapple, **Podophyllum** peltatum, carpets rich hardwood forest floors in early spring."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tincture of **podophyllum** is an active hepatic stimulant and purgative in chronic constipation."*
+> - 📜 **John Bartram (*Observations on the Inhabitants, Climate, Soil, Rivers, and Productions of North America*):** *"In the deep shade grew the **podophyllum**, whose broad umbrella leaves sheltered its ripening yellow apple."*

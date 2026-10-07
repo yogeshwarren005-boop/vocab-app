@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who delivers the mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who delivers the mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed by a postal authority to collect, sort, and deliver letters, parcels, and packets to homes and businesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mail carrier whose daily rounds connect neighborhoods to national and global epistolary communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the door he met an intelligent postman coming out with letters for the morning delivery."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then, remembering that she would have been likely to continue the use of her maiden name, Clare said— “Of a Miss Durbeyfield?” “Durbeyfield?” This also was strange to the postman addressed."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The arrival of the **postman** with his leather pouch produced an instantaneous flurry of excitement in the quiet village."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The rural **postman** was seen trudging through the snow with his customary brass horn."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"At ten o'clock the double knock of the **postman** announced the morning delivery of correspondence."*

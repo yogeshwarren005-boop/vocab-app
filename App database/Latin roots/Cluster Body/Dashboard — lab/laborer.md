@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works with their hands; someone engaged in manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works with their hands; someone engaged in manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs manual work or physical toil for hourly or daily wages, especially in construction or agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any individual who expends diligent, unremitting effort in service of a craft, profession, or social endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Familiar with the various organizations of the benevolent societies, and only too happy to have an agency in supplying the wants of a laborer in Christ's vineyard, he soon started the money on its appointed errand."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To many individuals it is a matter of indifference whether they pay tuition or taxes, but the wealthy bachelor sometimes grumbles when forced to help in educating the day-laborer's family."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wage payment is a form of credit to the laborer whose labor is applied to producing the goods for customers distant in time and in place."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She knelt suddenly down on a brick floor by the side of a sick **laborer** and prayed fervidly as if she thought herself living in the time of the Apostles."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"For myself I found that the occupation of a day-**laborer** was the most independent of any, especially as it required only thirty or forty days in a year to support one."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Ah little recks the **laborer**, how near his work is holding him to God, the loving Laborer through space and time."*

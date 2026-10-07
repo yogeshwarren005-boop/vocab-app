@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complex system of paths or tunnels in which it is easy to get lost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex system of interconnecting cavities; concerned with hearing and equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate combination of paths or passages in which it is difficult to find one's way or reach the exit; a complex maze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intricate internal anatomical structure, especially the complex sensory cavities and semicircular canals of the vertebrate inner ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Suffolk, stay; Thou mayst not wander in that labyrinth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, lost in the labyrinth of thy fury?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A labyrinth of grandeur, less the property of an old family of human beings and their ghostly likenesses than of an old family of echoings and thunderings which start out of their hundred graves at every sound and go resounding through the building."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Suffolk, stay; thou mayst not wander in that **labyrinth**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba's companion was living in a delightful **labyrinth** of hazel copse not far beyond Yalbury."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We rattled through an endless **labyrinth** of gas-lit streets until we emerged into Farrington Street."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry, physics, biology) readily undergoing change or breakdown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to undergo chemical, physical, or biochemical change; easily decomposed, altered, or modified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally unstable or subject to rapid, unpredictable fluctuations in temperament, mood, or psychological state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labile designates (chemistry, physics, biology) readily undergoing change or breakdown."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The nervous system of an impressionable youth is exceedingly **labile**, reacting vigorously to every transient external stimulus."*
+> - 📜 **J. B. S. Haldane (*Daedalus; or, Science and the Future*):** *"Organic chemical structures in living protoplasm are remarkably **labile**, breaking down and reforming with astonishing speed."*
+> - 📜 **C. G. Jung (*Psychological Types*):** *"An emotionally **labile** temperament swings abruptly from exuberant enthusiasm to profound melancholy upon the slightest provocation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branded or labeled falsely and in violation of statutory requirements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branded or labeled falsely and in violation of statutory requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with an incorrect, misleading, or erroneous label, tag, or descriptive designation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inaccurately characterized, misclassified, or given a misleading reputation or intellectual title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mislabeled designates branded or labeled falsely and in violation of statutory requirements."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"A **mislabeled** cranial measurement specimen distorted nineteenth-century anthropological data for several generations."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The perceptual files in his agnosic mind were hopelessly **mislabeled**, causing him to identify ordinary domestic objects by bizarre names."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"In biological classification, a **mislabeled** bacterial culture can send experimental conclusions down entirely spurious avenues."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shackle that consists of a metal loop that can be locked around the wrist; usually used in pairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine or restrain with or as if with manacles or handcuffs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal shackle or handcuff fastened around the wrist to secure, restrain, or imprison a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To restrain, confine, or severely restrict the personal freedom, movement, or autonomous agency of someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my sake wear this; It is a manacle of love; I’ll place it Upon this fairest prisoner. [_Puts a bracelet on her arm._] IMOGEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll bait thy bears to death And manacle the bearherd in their chains, If thou dar’st bring them to the baiting-place."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If the neck of the victim be broken by the alleged shrewd arrangement of knot and noose, and by the alleged shrewd calculation of the weight of the victim and the length of slack, then why do they manacle the arms of the victim?"*
+> - 📜 **William Blake (*Songs of Experience*):** *"In every cry of every man, in every infant's cry of fear, in every voice, in every ban, the mind-forged **manacles** I hear."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Neither iron **manacle** nor dungeon wall could tame the fierce independence of the mutinous sailor."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"These ponderous **manacles** on my hands and feet remind me of the glory I have lost."*

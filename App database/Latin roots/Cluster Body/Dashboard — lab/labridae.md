@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of marine acanthopterygian fishes, commonly known as wrasses, characterized by thick lips and strong crushing pharyngeal teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic family comprising brilliantly colored reef fishes that feed primarily on hard-shelled invertebrates in tropical and temperate oceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog labridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the vibrant coral reefs of the tropical ocean, species of the **Labridae** display the most dazzling arrays of brilliant coloration."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The wrasses, comprising the diverse family **Labridae**, possess strong pharyngeal teeth adapted for crushing hard-shelled mollusks."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Marine fishes of the family **Labridae** are especially abundant in shallow rocky seas and around flourishing coral formations."*

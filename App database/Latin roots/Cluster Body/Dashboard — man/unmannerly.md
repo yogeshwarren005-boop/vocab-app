@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially incorrect in behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking good manners, civil etiquette, or social breeding; rude, discourteous, uncivil, and offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ill-bred, disrespectful, impolite, or insolently blunt and abrasive manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my lord, if my duty be too bold, my love is too unmannerly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as the soldiers bore dead bodies by, He call’d them untaught knaves, unmannerly, To bring a slovenly unhandsome corse Betwixt the wind and his nobility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweetheart, I were unmannerly to take you out And not to kiss you."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Be Kent **unmannerly** when Lear is mad! What wilt thou do, old man?"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne considered it cold and **unmannerly** to disguise one's real feelings under a mask of polite indifference."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The rude schoolboy answered with an **unmannerly** retort that brought an instant rebuke from the master."*

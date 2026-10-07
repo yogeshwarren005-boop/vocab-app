@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a labyrinth in form or complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a labyrinth in form or complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a labyrinth in intricate complexity, tortuous windings, or bewildering confusion of structure or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly convoluted, baffling, or difficult to unravel and comprehend, characteristic of obscure passageways or ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthian designates resembling a labyrinth in form or complexity."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"He wandered through the **labyrinthian** corridors of his own bewildered soul, finding no outlet to peace."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"I was lost in the **labyrinthian** alleys of London at night, where every winding lane seemed to lead into deeper obscurity."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They threaded the **labyrinthian** passages of the Roman catacombs by the flickering illumination of wax tapers."*

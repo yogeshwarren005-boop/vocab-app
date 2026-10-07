@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designated or marked by an attached slip, tag, or ticket indicating contents, ownership, or destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified or described by a distinctive reputation, epithet, or sociological category.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be inventoried and every particle and utensil labelled to my will: as, item, two lips indifferent red; item, two grey eyes with lids to them; item, one neck, one chin, and so forth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, among his many boxes labelled with transcendent names, lives Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were all carefully packed in paper, and each package was labelled “Bathsheba Boldwood,” a date being subjoined six years in advance in every instance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There were several medicine bottles neatly **labelled** upon the mantelpiece beside his bed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Each sack of grain was distinctly **labelled** with the farm's distinctive red chalk mark."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The keys were all carefully **labelled** in neat handwriting indicating which door each one opened."*

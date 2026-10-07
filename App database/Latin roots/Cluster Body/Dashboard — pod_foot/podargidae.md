@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogmouths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogmouths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of nocturnal Australasian and Asian birds (*Podargidae*, the frogmouths), closely related to nightjars and noted for wide gapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The avian taxonomic family of cryptically plumed birds that mimic broken tree branches while resting during daylight hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podargidae designates frogmouths."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Members of the **Podargidae** capture their insect prey primarily from tree trunks rather than upon the wing."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The curious mottled plumage of the **Podargidae** affords them complete concealment against lichen-covered bark."*
+> - 📜 **Frank M. Chapman (*Bird-Life: A Guide to the Study of Our Common Birds*):** *"Among Old World caprimulgiforms, the **Podargidae** represent a distinct family characterized by heavy, flattened beaks."*

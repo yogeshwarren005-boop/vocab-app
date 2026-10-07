@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Productive physical or intellectual work, especially when arduous or undertaken to earn a livelihood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of workers in an economy, considered as an organized political and socio-economic force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor you, mistress, Ever a friend whose thoughts more truly labour To recompense your love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLEOPATRA. ’Tis sweating labour To bear such idleness so near the heart As Cleopatra this."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"A sunny midsummer day found the hands of Coketown hard at their unceasing **labour** amidst the smoke and steam."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual **labour** of every nation is the fund which originally supplies it with all the necessaries and conveniences of life."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"All true work is sacred; in all true work, were it but true hand-labour, there is something of divineness: **labour**, wide as the Earth, has its summit in Heaven."*

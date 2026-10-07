@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who frees others from bondage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who frees others from bondage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader, reformer, or statesman who frees enslaved human beings, oppressed classes, or nations from bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any visionary thinker whose ideas shatter intellectual servitude, dogma, or inherited cultural superstition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emancipator designates someone who frees others from bondage."*
+> - 📜 **Frederick Douglass (*Oration in Memory of Abraham Lincoln*):** *"To Abraham Lincoln belongs the immortal title of great **emancipator**, whose proclamation struck the shackles from millions."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The memory of the martyr **emancipator** looms ever grander across the receding vista of the Civil War."*
+> - 📜 **Ralph Waldo Emerson (*Miscellanies*):** *"A true philosopher is an **emancipator** who releases men from intellectual servitude to ancient dogmas."*

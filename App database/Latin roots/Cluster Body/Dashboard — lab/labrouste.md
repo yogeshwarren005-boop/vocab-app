@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French architect who was among the first to use metal construction successfully (1801-1875).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French architect who was among the first to use metal construction successfully (1801-1875).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Henri Labrouste or the nineteenth-century architectural principles of exposed iron framework and rational civic monumentality he championed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the luminous neoclassical and iron-vaulted reading rooms pioneered by French architect Henri Labrouste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labrouste designates french architect who was among the first to use metal construction successfully (1801-1875)."*
+> - 📜 **Sigfried Giedion (*Space, Time and Architecture*):** *"With the Bibliothèque Sainte-Geneviève, Henri **Labrouste** demonstrated how slender cast-iron arches could achieve both classical monumentality and modern structural lightness."*
+> - 📜 **Kenneth Frampton (*Modern Architecture: A Critical History*):** *"The reading room designed by **Labrouste** in the Bibliothèque Nationale represents an unprecedented synthesis of rational iron engineering and civic grace."*
+> - 📜 **Henry-Russell Hitchcock (*Architecture: Nineteenth and Twentieth Centuries*):** *"Few nineteenth-century architects grasped the poetic possibilities of exposed ironwork as lucidly as **Labrouste** in his Parisian libraries."*

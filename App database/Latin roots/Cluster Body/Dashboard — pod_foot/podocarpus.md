@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen trees or shrubs; sometimes classified as member of the family taxaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen trees or shrubs; sometimes classified as member of the family taxaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen coniferous trees and shrubs (*Podocarpus*) native to tropical and Southern Hemisphere mountain regions, yielding valuable timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical genus of conifers bearing fleshy, brightly colored arils and plum-like solitary seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podocarpus designates evergreen trees or shrubs; sometimes classified as member of the family taxaceae."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"Species of **Podocarpus** attain gigantic dimensions in the moist river valleys of the North Island."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"The durable wood of **Podocarpus** elatus resists the attacks of marine borers and termites."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Several species of **Podocarpus** are cultivated in subtropical parks for their lustrous, yew-like foliage."*

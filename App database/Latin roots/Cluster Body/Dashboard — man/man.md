@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult person who is male (as opposed to a woman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves in the armed forces; a member of a military force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult male human being; or the human species collectively, regarded as distinct from animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To furnish a ship, fort, machine, or enterprise with a necessary crew or operating human workforce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How called you the man you speak of, madam?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What a piece of work is a **man**! how noble in reason! how infinite in faculty!"*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Know then thyself, presume not God to scan; the proper study of mankind is **man**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every **man** is the builder of a temple, called his body, to the god he worships after his style."*

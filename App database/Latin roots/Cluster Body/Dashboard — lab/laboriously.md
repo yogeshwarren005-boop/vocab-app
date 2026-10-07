@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a laborious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a laborious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characterized by great physical exertion, painstaking diligence, or arduous and slow perseverance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With tedious, heavy effort and observable weariness or technical difficulty over an extended duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had the mobile face frequent in those whose sight has decayed by stages, has been laboriously striven after, and reluctantly let go, rather than the stagnant mien apparent in persons long sightless or born blind."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"They were not long able, however, to enjoy the repose of the eminence they had so laboriously gained."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Take almost any Frenchman, except the late M. de Maupassant, and watch him laboriously piling up strokes in the hope of giving a complete impression."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She had the mobile face frequent in those whose sight has been **laboriously** striven after, and reluctantly let go."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"There are not many men who will **laboriously** examine internal and important organs, and compare them in many specimens of the same species."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We must **laboriously** seek the meaning of each word and line, conjecturing a larger sense than common use permits."*

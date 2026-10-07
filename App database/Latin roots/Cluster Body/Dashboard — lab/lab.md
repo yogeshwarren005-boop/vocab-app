@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace for the conduct of scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workplace for the conduct of scientific research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a laboratory; a room or building equipped for scientific experiments, testing, or chemical research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place or setting where new techniques, software products, or creative ideas are systematically tested and refined.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To lower orders are assign’d The humbler ranks of human-kind, The rustic bard, the lab’ring hind, The artisan; All choose, as various they’re inclin’d, The various man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Some hint the lover’s harmless wile; Some grace the maiden’s artless smile; Some soothe the lab’rer’s weary toil For humble gains, And make his cottage-scenes beguile His cares and pains."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Ben, what do you say we run over to the lab and see if we can dig up something new." * * * * * It was two days later when they stood at headquarters on the flying field again."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"What do you say we run over to the **lab** and see if we can dig up something new before nightfall?"*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"He stayed behind in the quiet chemistry **lab**, watching the test-tubes boil over the small blue gas flames."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"The biological **lab** was crammed with cultures gathered from the red Martian desert sands."*

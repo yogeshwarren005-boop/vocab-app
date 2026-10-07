@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assists in a plot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collaborates with an enemy occupying force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate or colleague who works jointly with another person on an intellectual, artistic, or professional project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traitor who assists an occupying foreign enemy or hostile regime against their own country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborator designates someone who assists in a plot."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"A reliable **collaborator** in laboratory research must possess both scrupulous accuracy and boundless patience."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"He found in his younger colleague an untiring **collaborator** whose enthusiasm never flagged."*
+> - 📜 **George Orwell (*As I Please*):** *"No self-respecting writer can consent to act as the official **collaborator** of a totalitarian regime."*

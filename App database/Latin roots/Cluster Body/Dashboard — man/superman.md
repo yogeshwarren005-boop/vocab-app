@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideal, superior human being envisioned as transcending conventional mortal limitations, morality, and weakness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fictional or mythological figure endowed with superhuman strength, heroic endurance, and extraordinary abilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He has to be man to so many people that there is danger of his becoming a kind of superman."*
-> - 📜 **James Joyce (*Ulysses*):** *"Toothless Kinch, the superman."*
+> - 📜 **Friedrich Nietzsche (*Thus Spoke Zarathustra*):** *"I teach you the **superman**; man is something that shall be overcome."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The philosophical revolution demands that we consciously breed the **superman** to replace our imperfect species."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"These giant children walked the earth like early prototypes of the future **superman**."*

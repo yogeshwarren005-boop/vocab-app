@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grebes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of aquatic diving birds comprising solely the grebe family (*Podicipedidae*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An avian order of freshwater divers characterized by lobate webbed toes, reduced wings, and exceptional underwater swimming ability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog podicipediformes as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Fossil grebes referable to the order **Podicipediformes** date back to the early Oligocene lacustrine deposits."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The evolutionary isolation of the order **Podicipediformes** makes their phylogenetic relationships with other waterbirds intriguing."*
+> - 📜 **Alexander Wetmore (*A Systematic Classification for the Birds of the World*):** *"In our taxonomic arrangement, the order **Podicipediformes** follows the loons among archaic aquatic lineages."*

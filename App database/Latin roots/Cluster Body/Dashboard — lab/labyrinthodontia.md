@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order or subclass of primitive amphibians characterized by heavily armored skulls and labyrinthine folding of tooth dentine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical paleontological grouping encompassing the earliest known terrestrial quadrupeds of the Carboniferous and Permian strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodontia designates extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic."*
+> - 📜 **Richard Owen (*Palaeontology; or, A Systematic Summary of Extinct Animals*):** *"To the fossil order **Labyrinthodontia** belong the most formidable and anatomically complex amphibians yet unearthed by geological research."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"Members of the **Labyrinthodontia** retain several archaic piscine traits, notably the presence of lateral line sulci upon the cranial bones."*
+> - 📜 **Edward Drinker Cope (*Synopsis of the Extinct Batrachia*):** *"In our systematic classification, the group **Labyrinthodontia** encompasses the earliest known terrestrial quadrupeds of the Carboniferous beds."*

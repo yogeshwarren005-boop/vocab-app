@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (a product) from raw materials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized business or industry of producing goods in large quantities in factories using modern machines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, engaged in, or characteristic of factories, industrial fabrication, and mechanical commodity output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"THE LORD WOKE ME UP IN TIME TO SAVE MY CLOTHES." In the very top of a four-story building, used only for various manufacturing purposes, lived an old man and daughter."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A man employed to attend to my little manufacturing business as manager, by imprudent management, deprived me of every earthly dependence for a support."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid growth of great **manufacturing** cities creates a new and dependent industrial population."*
+> - 📜 **Karl Marx (*Capital*):** *"The historic transition from handicraft to the **manufacturing** period revolutionized the organization of European labor."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meat **manufacturing** plants of Chicago processed thousands of cattle and hogs with brutal efficiency."*

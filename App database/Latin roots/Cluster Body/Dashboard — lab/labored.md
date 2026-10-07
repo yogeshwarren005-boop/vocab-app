@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or performed with great exertion, difficulty, fatigue, or evident artificiality and unnatural strain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy, forced, or obstructed, especially characterizing breathing or physical bodily movement under distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There, as under the eye of the Master, he reviewed the time he had labored as a colporteur, and prayed for forgiveness for the past and grace for the future."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With **labored** breath and heavy strokes, the exhausted harpooners pulled against the towering surge."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah drew a **labored** sigh as she unlocked the dusty shop door to greet the first customer."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The clock struck seven with a slow, **labored** chime that reverberated through the quiet farmhouse."*

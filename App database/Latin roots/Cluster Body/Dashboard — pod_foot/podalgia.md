@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foot pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foot pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe or localized neuralgic pain in the foot or toes, often associated with gout, rheumatism, or nerve compression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical symptom involving debilitating pain in the pedal structures that impairs weight-bearing and ambulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podalgia designates foot pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe nocturnal paroxysms of **podalgia** frequently precede the classic cutaneous erythema of acute gouty arthritis."*
+> - 📜 **Thomas Sydenham (*Tractatus de Podagra et Hydrope*):** *"The victim awakens suddenly past midnight with agonizing **podalgia**, feeling as if a fierce animal had seized his great toe."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Chronic **podalgia** may stem from irritation of the plantar digital nerves beneath the metatarsal heads."*

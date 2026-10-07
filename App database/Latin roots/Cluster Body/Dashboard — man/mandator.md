@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who issues a mandate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who issues a mandate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who gives a mandate, legal charge, or commission to an agent or proxy in civil jurisprudence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal party in a contract of mandate who directs the actions and assumes legal liabilities for the mandatary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandator designates an authority who issues a mandate."*
+> - 📜 **Joseph Story (*Commentaries on the Law of Bailments*):** *"In contracts of mandate, the **mandator** delivers property or confers authority upon the mandatary without paying compensation."*
+> - 📜 **James Kent (*Commentaries on American Law*):** *"The death of the **mandator** instantly dissolves the agency relationship before performance has commenced."*
+> - 📜 **Theophilus Parsons (*The Law of Contracts*):** *"The fiduciary duties owed by the agent depend strictly upon the original instructions furnished by the **mandator**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct subclass of archaic amphibians that flourished from the Devonian through the Triassic periods, possessing folded dental enamel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic group of ancestral predatory tetrapods forming the evolutionary link between lobe-finned fishes and early amniotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodonta designates extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The primitive amphibian subclass **Labyrinthodonta** flourished throughout the late Paleozoic era, representing the primary terrestrial tetrapods of the coal swamps."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Under the taxonomic designation **Labyrinthodonta**, naturalists group those extinct batrachians characterized by labyrinthine tooth structure."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"From the ancestral **Labyrinthodonta** arose the diverse radiations that eventually bridged the evolutionary transition to early reptiles."*

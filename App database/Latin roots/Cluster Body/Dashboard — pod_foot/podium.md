@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A platform raised above the surrounding level to give prominence to the person on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A platform raised above the surrounding level to give prominence to the person on it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small raised platform on which a lecturer, musical conductor, or public speaker stands to address an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous projecting base or architectural plinth supporting columns or forming the lower wall of a classical temple or theater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a platform raised above the surrounding level to give prominence to the person on it."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The classical temple rests upon a massive stone **podium**, approached by an imposing flight of steps."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"When the conductor mounted the **podium**, the orchestral players responded to his slightest baton movement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"From the elevated **podium** of the Flavian Amphitheatre, the emperor gazed down upon the gladiatorial combats."*

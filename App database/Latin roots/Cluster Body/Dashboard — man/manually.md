@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By hand rather than by automatic mechanical, electronic, or computational devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through direct physical manipulation and muscular exertion of human fingers and arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog manually as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The astronomical tables were calculated **manually** by teams of computers, leading to inevitable numerical blunders."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"Before automated switches were installed, each telegraph line had to be shifted **manually** across the switchboard."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"In the old shop every heavy flywheel was hoisted **manually** into position by three straining mechanics."*

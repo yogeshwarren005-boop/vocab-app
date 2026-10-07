@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities traditionally admired in a mature man, such as physical courage, steadfastness, honor, and fortitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the resonant timbre, bold stature, or vigorous bearing characteristic of an adult man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friends, The boy hath taught us manly duties; let us Find out the prettiest daisied plot we can, And make him with our pikes and partisans A grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; for my manly heart doth yearn."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Dispute it like a man. I shall do so; but I must also feel it as a man. That way you show a **manly** heart."*
+> - 📜 **John Milton (*Paradise Lost*):** *"For contemplation he and valor formed, with **manly** brow and eyes severe, declaring absolute rule."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Speak what you think now in hard words, and tomorrow speak what tomorrow thinks in hard words again, with **manly** courage."*

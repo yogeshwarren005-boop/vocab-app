@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves the lips and teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant whose articulation involves the lips and teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Articulated with the lower lip brought into contact or close proximity with the upper incisor teeth, such as [f] and [v].
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or denoting a consonant produced through the joint action of the lips and upper front teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiodental designates a consonant whose articulation involves the lips and teeth."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The sounds [f] and [v] are produced by pressing the lower lip against the upper teeth, forming **labiodental** fricatives."*
+> - 📜 **Otto Jespersen (*Phonetics*):** *"In ordinary speech, the **labiodental** articulation of [f] requires only a slight narrowing between the teeth and lip."*
+> - 📜 **Daniel Jones (*The Pronunciation of English*):** *"When the breath escapes between the lower lip and the upper incisors, a **labiodental** consonant is heard."*

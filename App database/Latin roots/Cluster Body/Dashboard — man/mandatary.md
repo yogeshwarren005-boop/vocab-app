@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of a mandate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of a mandate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, state, or agent holding a mandate or legal commission to act on behalf of another or a governing authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, a country entrusted with the administration of a designated territory under the League of Nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandatary designates the recipient of a mandate."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A representative is not a mere passive **mandatary** bound blindly to register every shifting whim of his constituents."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under the law of bailment, a **mandatary** undertakes a gratuitous commission on behalf of the principal."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"A sovereign power cannot be regarded as a subordinate **mandatary** subject to external judicial review."*

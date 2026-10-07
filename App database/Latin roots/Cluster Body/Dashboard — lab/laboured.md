@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or produced with obvious effort, difficulty, unnatural strain, or excessive artificial contrivance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy, slow, and gasping, particularly descriptive of respiration or heart action in sickness or extreme fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill it follows, after you have laboured so hard, you should talk so idly!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother's purpose herein, and have by underhand means **laboured** to dissuade him from it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As they **laboured** amid the thickening shades the lamp-lights grew larger, each appearing to send a flaming sword deep down into the waves."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He was just settling himself to begin when the clock struck six, whereupon he **laboured** to get up from his chair."*

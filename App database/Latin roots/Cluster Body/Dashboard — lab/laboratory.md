@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace for the conduct of scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room, building, or establishment equipped for scientific experiments, research, clinical analysis, or chemical manufacture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any place, workshop, or collaborative setting providing the opportunity for experimentation, trial, and technical innovation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, not lightly was I stirred when I slew Professor Haskell in the laboratory at the University of California."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"At Cambridge he had spent a great deal of his time working in the **laboratory**, and had taken a good class in the Natural Science Tripos."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Old Roger Chillingworth arranged his study and **laboratory**, provided with a distilling apparatus and the means of compounding drugs."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"With his hands deep in his pockets, he walked slowly out of the room down the long passage to his **laboratory**."*

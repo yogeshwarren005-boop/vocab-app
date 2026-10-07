@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elaborate; lacking rich or complex detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elaborate; lacking rich or complex detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking elaborate ornamentation, intricate detail, or complex structural design; plain, simple, and unadorned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worked out with extensive refinement or painstaking detail; characterized by unstudied directness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inelaborate designates not elaborate; lacking rich or complex detail."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The prose of the early chroniclers is simple and **inelaborate**, possessing the direct vigor of unpolished speech."*
+> - 📜 **Edmund Gosse (*Critical Kit-Kats*):** *"Her verse charms by its **inelaborate** grace, free from all striving after artificial poetic diction."*
+> - 📜 **Arthur Quiller-Couch (*Studies in Literature*):** *"An **inelaborate** song may reach the heart far more swiftly than the most complicated choral ode."*

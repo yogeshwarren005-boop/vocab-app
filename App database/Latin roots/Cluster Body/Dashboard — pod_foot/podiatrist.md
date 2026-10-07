@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in care for the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in care for the feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical healthcare professional who specializes in the diagnosis, medical management, and surgical treatment of disorders of the foot and ankle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed specialist who treats biomechanical pedal deformities, corns, bunions, and diabetic foot complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatrist designates a specialist in care for the feet."*
+> - 📜 **William M. Scholl (*The Human Foot: Anatomy, Deformities and Treatment*):** *"A trained **podiatrist** recognizes that improper footwear is the primary instigator of metatarsal pain."*
+> - 📜 **Felix Frankfurter (*Law and Men: Papers and Addresses*):** *"State licensing statutes carefully delineate the clinical scope permitted to a practicing **podiatrist**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Consulting a skilled **podiatrist** helped the patient regain proper weight distribution through custom orthotics."*

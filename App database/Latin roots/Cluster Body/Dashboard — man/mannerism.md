@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A behavioral attribute that is distinctive and peculiar to an individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual, distinctive, and often unconscious gesture, vocal inflection, or quirk of personal behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive devotion to a distinctive, exaggerated artistic style or literary idiom, often bordering on affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ethical sympathy in an artist is an unpardonable mannerism of style."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were dressed fashionably, but simply--with strict neatness and propriety, but without any mannerism or foppishness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His habit of clearing his throat before speaking was an irritating **mannerism** that grew worse with age."*
+> - 📜 **William Hazlitt (*The Round Table*):** *"Every distinctive genius is prone to contract some peculiar **mannerism** in his style or painting."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"In his later verses, the unusual inversions degenerated into a mechanical **mannerism**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaging in hard manual toil or physical industry to sustain life and earn economic wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the social working class of wage-earners who perform manual industrial or agrarian tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My brain, more busy than the labouring spider Weaves tedious snares to trap mine enemies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are our brains beguiled, which **labouring** for invention bear amiss the second burthen of a former child!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Dearest, dearest, I am wavering even now between the two opposites of recklessly renouncing you, and **labouring** humbly for you again."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Beside his **labouring** team, that swerved not from the track, the sturdy swain diminished to a boy."*

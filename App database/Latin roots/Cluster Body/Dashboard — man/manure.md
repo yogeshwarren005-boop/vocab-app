@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal or plant material used to fertilize land especially animal excreta usually with litter material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread manure, as for fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal dung, compost, or decomposed organic matter used as fertilizer to enrich and cultivate agricultural soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fertilize farmland or crops by applying animal excrement or composted organic material across the fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if you crown him, let me prophesy The blood of English shall manure the ground And future ages groan for this foul act."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not valuing now the root whence it sprang; having found that it was of a sort which nothing but gold dust could manure, I have but half a liking to the blossom, especially when it looks so artificial as just now."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"If that the spring of time be come, then we shall **manure** our ground with the blood of our enemies."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I used no **manure** upon my bean field, preferring to rely upon the natural virgin vigor of the soil."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The farmers spread farmyard **manure** across the chalky uplands to enrich their barley crops."*

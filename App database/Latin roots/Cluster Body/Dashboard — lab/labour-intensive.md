@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of labor but not much capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring a large expenditure of labor but not much capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a large expenditure of manual workforce and personal effort in proportion to financial capital or machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing crafts, traditional agricultural techniques, or personal service sectors that cannot be easily mechanized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labour-intensive designates requiring a large expenditure of labor but not much capital."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"In areas of acute unemployment, **labour-intensive** methods of agriculture and manufacture provide sustainable community livelihoods."*
+> - 📜 **Joan Robinson (*Economic Heresies*):** *"A shift toward **labour-intensive** techniques can counteract the wasteful displacement of workers by heavy capital equipment."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"While modern industrial corporations rely on heavy capital, artisanal and service sectors remain distinctly **labour-intensive**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowering shrubs or trees having bright yellow flowers; all parts of the plant are poisonous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small deciduous tree (*Laburnum anagyroides*) of the pea family, bearing pendulous racemes of bright yellow flowers and poisonous seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fine-grained, hard, dark greenish-brown timber obtained from the golden chain tree, formerly prized in cabinetmaking and wood-turning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The laburnum will be as yellow next June as it is now."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The shadows are cool by the water side Where the willows grow by the pond, And the yellow laburnum's drooping pride Sheds a golden gleam beyond."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The **laburnum** will be as yellow next June as it is now, but our youth will never come back to us."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The shadows are cool by the water side, and the yellow **laburnum**'s drooping pride sheds a golden gleam beyond."*
+> - 📜 **Alfred Tennyson (*In Memoriam A.H.H.*):** *"Up that long walk of lime and **laburnum**, we paced together in the golden decline of the summer afternoon."*

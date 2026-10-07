@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be successful; achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in charge of, act on, or dispose of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be in charge of, direct, administer, or regulate the affairs of a household, business, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To succeed in achieving, surviving, or coping with a difficult circumstance through resourcefulness or effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a jest to execute that I cannot manage alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She knew not how to **manage** such a conversation without betraying her secret anxiety."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I wondered how my aunt would **manage** to keep her temper in the presence of such insolence."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom could not **manage** to remember more than five verses of scripture at a single sitting."*

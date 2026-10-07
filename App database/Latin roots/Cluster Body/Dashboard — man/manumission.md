@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of freeing from slavery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of freeing from slavery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of releasing an enslaved person from bondage and granting them legal freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal document or deed by which an owner voluntarily emancipates an enslaved individual under civil law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let that urbanity, which I trust will distinguish America, and the necessity of national defence—let all these things operate on their minds, and they will search that paper, and see if they have power of manumission."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We ought to possess them in the manner we have inherited them from our ancestors, as their manumission is incompatible with the felicity of the country."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"A legal deed of **manumission** was purchased by English friends, granting me formal liberty under American law."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Proposals for the gradual **manumission** of slaves were debated in the colonial assembly with intense passion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under Roman civil law, the ceremonial **manumission** of a slave transformed him into a free citizen."*

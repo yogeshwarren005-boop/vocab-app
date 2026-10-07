@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a label or tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a label or tag.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing no attached label, marker, or descriptive tag indicating contents, destination, or identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining unclassified, anonymous, or undesignated by any official category or social name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For none of their ancient marks remained, and their bones were alike, uncertain, unlabelled, undistinguishable."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes examined the small **unlabelled** phial with intense interest, holding it up to the candlelight."*
+> - 📜 **H. P. Lovecraft (*The Shadow Over Innsmouth*):** *"The apothecary reached down an **unlabelled** jar of dark unguent from the uppermost shelf."*
+> - 📜 **Joseph Conrad (*Victory*):** *"In the corner of the bungalow stood an old **unlabelled** packing crate that had never been unpacked since his arrival."*

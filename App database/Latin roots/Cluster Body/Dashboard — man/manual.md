@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small handbook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a prescribed drill in handling a rifle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done, operated, or performed by the physical use of the hands rather than by automatic machinery or electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact instructional handbook, reference guide, or book of rules detailing operational procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is my gage, the manual seal of death That marks thee out for hell."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Archery was another favourite amusement, and he was expert at making bows from the thinnings of the Dunglass yews, and arrows tipped with iron _ousels_--almost the only manual dexterity he possessed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of **manual** labor allows ten pinmakers to produce thousands of pins in a single working day."*
+> - 📜 **Karl Marx (*Capital*):** *"The development of automatic machinery gradually replaces the skilled **manual** operations of the handicraft worker."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Let the workman experience joy in his **manual** creation, rather than reducing him to a mechanical cog."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting or originating in the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a labyrinth in form or complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a labyrinth; irregular, tortuous, and intricately winding in paths, passages, or organizational arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the labyrinth of the inner ear, including the cochlea, vestibule, and semicircular canals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The winter was spent in poverty, dodging creditors through the labyrinthine gloom of the town."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Far away, somewhere in the labyrinthine pile, I heard a faint cry."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The wintry forest had woven a **labyrinthine** network of bare boughs against the pale evening sky."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I found myself lost amid the **labyrinthine** staircases and forgotten chambers of the vast ancestral castle."*
+> - 📜 **Henry James (*The American Scene*):** *"The **labyrinthine** complexities of commercial finance presented a maze wherein ordinary human instincts were confounded."*

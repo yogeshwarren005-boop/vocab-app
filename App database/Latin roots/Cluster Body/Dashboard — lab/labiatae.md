@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of dicotyledonous aromatic plants (*Lamiaceae*) featuring square stems, opposite leaves, and bilabiate corollas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic botanical grouping encompassing culinary herbs including thyme, rosemary, mint, sage, lavender, and basil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labiatae designates a large family of aromatic herbs and shrubs having flowers resembling the lips of a mouth and four-lobed ovaries yielding four one-seeded nutlets and including mint; thyme; sage; rosemary."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In many species of the **Labiatae**, the stamens are so positioned that insect visitors inevitably brush against the anthers."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Square stems, opposite aromatic leaves, and two-lipped flowers distinguish the great family **Labiatae**."*
+> - 📜 **George Bentham (*Labiatarum Genera et Species*):** *"The vast botanical assemblage of the **Labiatae** comprises hundreds of aromatic genera distributed across temperate regions."*

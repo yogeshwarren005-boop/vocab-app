@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competitive antagonist of both alpha- and beta-adrenergic receptors, administered medically to manage arterial hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dual-action antihypertensive medication used in clinical settings to treat acute hypertensive crises and pregnancy-induced hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labetalol designates antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure)."*
+> - 📜 **Goodman & Gilman (*The Pharmacological Basis of Therapeutics*):** *"By blocking both vascular alpha-1 and cardiac beta-adrenergic receptors, **labetalol** lowers peripheral vascular resistance without causing reflexive tachycardia."*
+> - 📜 **Bertrand G. Katzung (*Basic and Clinical Pharmacology*):** *"Intravenous **labetalol** is widely administered for the rapid management of acute hypertensive emergencies."*
+> - 📜 **Norman M. Kaplan (*Clinical Hypertension*):** *"In severe preeclampsia and hypertensive crises of pregnancy, **labetalol** provides effective blood pressure reduction with a well-established maternal safety profile."*

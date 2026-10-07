@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grebes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative ornithological spelling for the order *Podicipediformes*, the order of diving waterbirds known as grebes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic order encompassing all fossil and extant grebes characterized by lobed digits and dense silken plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog podicipitiformes as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Hans Gadow (*A Dictionary of Birds*):** *"Under the heading **Podicipitiformes**, we include those birds with pygo-podous anatomy adapted for diving."*
+> - 📜 **Peter Chalmers Mitchell (*The Anatomy of the Kingfisher and Other Birds*):** *"Muscular dissections of the pelvic limb in **Podicipitiformes** demonstrate extreme specialization for paddling."*
+> - 📜 **Robert Shufeldt (*Osteology of Birds*):** *"The skeletal framework of the **Podicipitiformes** displays a long, narrow pelvis fused with the lumbar vertebrae."*

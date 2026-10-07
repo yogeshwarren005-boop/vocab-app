@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order podicipitiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order podicipitiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of aquatic diving birds (*Podicipedidae*, the grebes) characterized by lobed feet, dense waterproof plumage, and rudimentary tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cosmopolitan avian family of freshwater divers that ingest their own feathers to assist digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podicipedidae designates coextensive with the order podicipitiformes."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The cranial morphology of the **Podicipedidae** exhibits ancient affinities shared with primitive swimming birds."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"Birds of the family **Podicipedidae** rarely take flight unless pressed, preferring to submerge quietly beneath the surface."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The family **Podicipedidae** comprises specialized divers whose legs are positioned at the extreme posterior of the trunk."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring extended effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring extended effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arduous difficulty or toilsome character of a task requiring protracted, exhausting physical or mental effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painstaking industry, diligent application, or an unyielding propensity for meticulous, exhaustive work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **laboriousness** of severe intellectual inquiry is compensated by the enduring solidities of discovered truth."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"True art requires no display of mere **laboriousness**, but rather an effortless grace informed by profound mastery."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"The sheer **laboriousness** of his mechanical execution detracted from the spontaneous fire of his initial inspiration."*

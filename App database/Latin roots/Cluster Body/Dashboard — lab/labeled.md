@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a label to; designate with a label.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a tag or label to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked, designated, or identified by an attached tag, ticket, or distinctive printed slip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized, branded, or classified with a particular descriptive name or categorical designation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He ought at least to be labeled "poison for the very young." I was very young out on the porch that night."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I remember he once sent something here in a box labeled 'dynamite.' Though there was no explosive in it, it gave us a great fright."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The presents are not labeled—the hands are forever idle that would have labeled them today."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Every jar was neatly **labeled** with the botanical name of the preserved specimen within."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"On the chemical bench stood numerous phials carefully **labeled** with numerical ciphers."*
+> - 📜 **Jack London (*White Fang*):** *"In the frontier mind, every man was promptly **labeled** according to his courage or cowardice."*

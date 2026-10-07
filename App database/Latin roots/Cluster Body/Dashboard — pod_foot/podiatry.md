@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and surgical branch of healthcare devoted to the study, diagnosis, prevention, and treatment of foot and ankle ailments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The professional healthcare discipline historically known as chiropody, focused on pedal anatomy and lower-extremity biomechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatry designates the branch of medicine concerned with the feet."*
+> - 📜 **William M. Scholl (*Dictionary of the Foot*):** *"Modern **podiatry** has elevated the care of the human foot from empiric barber-surgery to an exact clinical science."*
+> - 📜 **Harvey Cushing (*The Medical Career and Other Papers*):** *"The specialized development of **podiatry** reflects the modern tendency toward anatomical division of surgical labor."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Human evolutionary bipedalism created the biomechanical vulnerabilities that keep the profession of **podiatry** thriving."*

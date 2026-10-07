@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world jerboas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world jerboas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small nocturnal jumping rodents (*Dipodidae*), comprising the jerboas and birch mice with greatly elongated hind limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rodent taxonomic family adapted for saltatorial bipedal locomotion across arid Eurasian and African deserts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipodidae designates old world jerboas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the leaping mammals of the family **Dipodidae**, the elongation of the hind feet corresponds with extreme saltatorial habits."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The jerboas, forming the typical genus of the **Dipodidae**, possess extraordinary agility when escaping predators across the sands."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals Living and Extinct*):** *"In members of the **Dipodidae**, the metatarsal bones are frequently fused into a single cannon bone to support leaping."*

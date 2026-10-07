@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of podicipedidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of podicipedidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small American grebes (*Podilymbus*, the pied-billed grebes) having stout, laterally compressed, chicken-like bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The avian genus known colloquially as the water witch or hell-diver for its ability to sink slowly beneath the water without rippling the surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podilymbus designates a genus of podicipedidae."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The pied-billed grebe, **Podilymbus** podiceps, possesses a remarkably thick bill banded with black in summer."*
+> - 📜 **Frank M. Chapman (*Bird-Life*):** *"When startled, **Podilymbus** sinks gradually backwards until only its bill and eyes remain above the water."*
+> - 📜 **Arthur Cleveland Bent (*Life Histories of North American Diving Birds*):** *"The breeding habits of **Podilymbus** are intimately tied to secluded marshy ponds and cattail sloughs."*

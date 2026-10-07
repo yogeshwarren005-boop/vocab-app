@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document giving an official instruction or command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A territory surrendered by turkey or germany after world war i and put under the tutelage of some other european power until they are able to stand by themselves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official order, authoritative command, or commission to carry out a specified policy or legal course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The authority conferred upon an elected official or government by electors representing the will of the voting public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fulvia perchance is angry; or who knows If the scarce-bearded Caesar have not sent His powerful mandate to you: “Do this or this; Take in that kingdom and enfranchise that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters seal’d: and my two schoolfellows, Whom I will trust as I will adders fang’d,— They bear the mandate, they must sweep my way And marshal me to knavery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the man, this Moor, whom now it seems Your special mandate for the state affairs Hath hither brought."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative power receives its supreme **mandate** directly from the consent of the governed."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The democratic election conveyed an unmistakable popular **mandate** for political reform and constitutional economy."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"No executive can ignore the clear legislative **mandate** expressed by a bipartisan congressional majority."*

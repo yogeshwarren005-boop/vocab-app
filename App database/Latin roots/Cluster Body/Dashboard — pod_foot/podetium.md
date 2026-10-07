@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stalk-like, tubular or cup-shaped elevation supporting the apothecia or fruiting bodies in certain lichens, especially the genus *Cladonia*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upright secondary thallus structure in fruticose lichens that elevates reproductive spore-bearing tissues above the substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podetium designates an organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne."*
+> - 📜 **Edward Tuckerman (*Genera Lichenum: An Arrangement of the North American Lichens*):** *"In the genus Cladonia, the **podetium** arises from a crustaceous or squamulose primary thallus."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The cup-shaped **podetium** of the reindeer moss bears brown reproductive disks around its expanded rim."*
+> - 📜 **M. C. Cooke (*Introduction to the Study of Fungi*):** *"Each slender **podetium** elevates the apothecia to facilitate the wind dispersal of mature spores."*

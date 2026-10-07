@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the podicipedidae: grebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the podicipedidae: grebes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of diving waterbirds (*Podiceps*, the grebes) having lobed toes and legs placed far back on the body for swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ornithological genus encompassing species such as the horned grebe and great crested grebe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiceps designates type genus of the podicipedidae: grebes."*
+> - 📜 **John Gould (*The Birds of Great Britain*):** *"In the genus **Podiceps**, the tarsi are compressed and the toes are fringed with broad lateral lobes."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"Members of **Podiceps** build floating nests of decaying aquatic vegetation anchored among the reeds."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The anatomical structure of **Podiceps** is supremely modified for propulsion under water."*

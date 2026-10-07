@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce with rounded lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce with rounded lips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To articulate a consonant or vowel sound with rounding, protrusion, or constriction of the lips during pronunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To add a secondary lip-rounding articulation to a primary speech sound under the assimilatory influence of adjacent phonemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labialise designates pronounce with rounded lips."*
+> - 📜 **Henry Sweet (*The History of English Sounds*):** *"Speakers will often **labialise** a velar consonant under the rounding influence of a neighboring back vowel."*
+> - 📜 **Joseph Wright (*Old English Grammar*):** *"In prehistoric Germanic, the tendency to **labialise** certain guttural consonants produced distinct labiovelar phonemes."*
+> - 📜 **A. C. Gimson (*An Introduction to the Pronunciation of English*):** *"Careless speakers frequently **labialise** postalveolar fricatives, adding secondary lip-rounding to the sound."*

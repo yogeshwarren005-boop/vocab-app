@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the podargidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the podargidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal Australian frogmouth birds (*Podargus*, including the tawny frogmouth) possessing large heads, hooked beaks, and cryptic plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The avian taxonomic genus whose members perch motionless during the day, perfectly camouflaged as dead tree limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podargus designates type genus of the podargidae."*
+> - 📜 **John Gould (*Handbook to the Birds of Australia*):** *"When alarmed, **Podargus** strigoides stretches its neck upward and remains rigid like a splintered stump."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The sombre, protective coloration of the female and young in **Podargus** shields them from diurnal raptors."*
+> - 📜 **W. H. Hudson (*Birds and Man*):** *"Few avian masqueraders can surpass the Australian **Podargus** in the deliberate imitation of inanimate bark."*

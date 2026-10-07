@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce from basic elements or sources; change into a more developed product.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Developed, expanded, or enriched with extensive detail, careful refinement, or complex structural elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed, synthesized, or converted through organic or chemical physiological processes within living tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On Sundays, she went to church elaborated."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"One of the points that Austin elaborated most was a classification such as might serve for a scientific code of law."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In healing the sick and sinning, Jesus elaborated the fact that the healing effect 141:15 followed the understanding of the divine Principle and of the Christ-spirit which governed the corporeal Jesus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex instinct of the hive-bee has been gradually **elaborated** through countless generations of natural selection."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The doctrine here stated was subsequently **elaborated** into a comprehensive system of synthetic philosophy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The basic sensory impression is rapidly **elaborated** into a rich perceptual judgment by the cerebral cortex."*

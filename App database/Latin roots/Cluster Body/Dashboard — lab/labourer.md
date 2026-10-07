@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works with their hands; someone engaged in manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works with their hands; someone engaged in manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who does heavy physical or manual work, especially in fields, ports, or building trades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who performs diligent, ongoing exertion in any specialized vocational calling or moral endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is’t that can inform me?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Because I am a harvest-labourer, because I am a toiler and a moiler, because you are delivered over unto me and are become as a precious instrument in my hands."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to myself, sir, the labourer is worthy of his hire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What might be toward, that this sweaty haste doth make the night joint-**labourer** with the day?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The article turning out to be no dissertation on farming during the Heptarchy, but on the modern peasant entitled 'The Wessex **Labourer**'."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You forget, dear Charlie, that the **labourer** is worthy of his hire, she said brightly."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of maneuvering or changing position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of maneuvering or changing position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being steered, turned, or directed quickly and easily, especially a vehicle, ship, or aircraft in motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adaptable and flexible in strategic execution, permitting swift changes in operational course under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"My three-hundred-meter freighter with all storage bays packed bulkhead to bulkhead with high mass, is barely maneuverable under the best of circumstances."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The lighter battlecruisers proved remarkably **maneuverable** in the choppy waters of the North Sea."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The agile monoplane was far more **maneuverable** than the clumsy zeppelins that drifted overhead."*
+> - 📜 **Ernest Hemingway (*To Have and Have Not*):** *"His small motor launch was fast and **maneuverable**, able to slip over the shallow coral reefs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves movement of the lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the lips of the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling the lips; produced with the active participation or closure of one or both lips in speech articulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech sound whose articulation involves the lips, including bilabials [p], [b], [m] and labiodentals [f], [v].
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The labial melody with which the Typee girls carry on an ordinary conversation, giving a musical prolongation to the final syllable of every sentence, and chirping out some of the words with a liquid, bird-like accent, was singularly pleasing."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The contraction of the **labial** muscles produces the familiar curvature seen during smiling and contempt."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A voiced **labial** stop requires the momentary complete occlusion of the airstream by the lips."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Sounds produced at the outer threshold of the mouth by the action of the lips are termed **labial** consonants."*

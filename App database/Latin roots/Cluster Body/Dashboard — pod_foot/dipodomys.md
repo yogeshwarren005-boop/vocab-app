@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kangaroo rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kangaroo rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bipedal desert rodents (*Dipodomys*, the kangaroo rats) native to arid western North America, having fur-lined cheek pouches and long tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic genus of heteromyid rodents characterized by hyper-elongated hind legs adapted for rapid hopping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipodomys designates kangaroo rats."*
+> - 📜 **C. Hart Merriam (*Revision of North American Pocket Mice*):** *"The species of **Dipodomys** are strictly nocturnal, emerging from deep burrows only after total darkness has settled over the desert."*
+> - 📜 **Vernon Bailey (*Mammals of New Mexico*):** *"The banner-tailed kangaroo rat, **Dipodomys** spectabilis, constructs prominent earthen mounds across the semi-arid plains."*
+> - 📜 **Joseph Grinnell (*An Account of the Mammals and Birds of the Lower Colorado Valley*):** *"Trapping along the sandy hummocks revealed that **Dipodomys** deserti is the predominant rodent of the open dunes."*

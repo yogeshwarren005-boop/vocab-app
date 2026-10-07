@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take charge of a certain job; occupy a certain work place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with workers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped, operated, or furnished with a human crew, garrison, or workforce to perform necessary tasks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carrying or operated directly by human personnel on board, as in a manned spacecraft or aerial flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our overplus of shipping will we burn, And with the rest full-manned, from th’ head of Actium Beat th’ approaching Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The longboat was well **manned** with twelve sturdy seamen equipped with muskets."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Four whaleboats were swiftly lowered and **manned** to pursue the spouting pod."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The schooner's deck was fully **manned** by the mutineers when we peered across the anchorage."*

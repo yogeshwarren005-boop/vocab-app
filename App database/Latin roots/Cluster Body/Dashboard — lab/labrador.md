@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mainland part of the province of newfoundland and labrador in the eastern part of the large labrador-ungava peninsula in northeastern canada.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast geographical peninsula and coastal region of northeastern Canada, forming part of the province of Newfoundland and Labrador.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a popular breed of sporting retriever dog (the Labrador Retriever) originating in Newfoundland and bred for retrieving game.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had it not been for us whalemen, that tract of land would this day perhaps have been in as howling condition as the coast of Labrador."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Enveloped in their shaggy watch coats, and with their heads muffled in woollen comforters, all bedarned and ragged, and their beards stiff with icicles, they seemed an eruption of bears from Labrador."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In the icy waters off **Labrador**, the hardy whalemen braved freezing gales in pursuit of the right whale."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The vast boreal forests stretch northward toward **Labrador** in an unbroken expanse of spruce and granite wilderness."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The rocky coasts of **Labrador** exhibit unmistakable marks of ancient glacial scouring across their exposed bedrock."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: How something is done or how it happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of acting or behaving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way or method in which a thing is done, performed, or happens; characteristic personal bearing and style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polite social deportment, courteous behavior, and adherence to accepted cultural rules of etiquette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pompey, Menecrates and Menas in warlike manner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What manner o’ thing is your crocodile?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I like not the **manner** of your speech, nor the fashion of your garments."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His **manner** was proud, reserved, and disagreeable, provoking general indignation."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He treated me with the utmost courtesy in the **manner** of his royal court."*

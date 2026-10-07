@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military training exercise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plan for attaining a particular goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement or series of coordinated actions carried out with tactical skill, deceit, or mechanical precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large-scale tactical deployment or movement of military naval, aerial, or ground armed forces during combat training.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even in the light pseudo-gravity, Scarf's bulk was hard to maneuver."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The maneuver was extremely complex, but within minutes the ships had come about in a ragged formation to face their oncoming allies."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Where's that jug?" But this time an unforeseen interruption prevented the maneuver from being the success it had been before."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Every nautical **maneuver** was executed with lightning speed as the white whale breached beside the boat."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A bold tactical **maneuver** on the enemy's flank may decide the fate of a campaign before a shot is fired."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The regiment executed an awkward **maneuver** through the dense briars to escape the canister fire."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The result of improving something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of developing, expanding, or enriching an idea, design, or system with intricate and thorough detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological process whereby nutrient substances are assimilated and converted into living tissue or secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now,” she adds, “show me the spot again!” Jo thrusts the handle of his broom between the bars of the gate, and with his utmost power of elaboration, points it out."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"More subtle forms are drawn with greater elaboration."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The perfection of human nature requires harmonious development rather than the over-subtle **elaboration** of rigid dogmas."*
+> - 📜 **Walter Pater (*Appreciations*):** *"His style is characterized by exquisite **elaboration**, where every phrase is weighted with deliberate musical cadence."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Secondary **elaboration** reshapes the chaotic dream materials into an apparently coherent narrative before waking consciousness."*

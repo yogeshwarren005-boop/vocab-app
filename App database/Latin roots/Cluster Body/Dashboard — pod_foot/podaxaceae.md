@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of gastromycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of gastromycete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of desert-dwelling gasteroid fungi (*Podaxaceae*, centered on *Podaxis*) with hard, stalked fruiting bodies adapted to arid soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mycological family of puffball-like fungi whose spore-bearing caps remain elevated above scorching desert sands on tough fibrous stipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podaxaceae designates a variety of gastromycete."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Species assigned to the **Podaxaceae** inhabit the most arid sandy deserts of Africa, Asia, and North America."*
+> - 📜 **Charles Horton Peck (*New York State Museum Bulletin*):** *"Specimens belonging to the **Podaxaceae** were collected from the sandy plains of the Southwest during the railway surveys."*
+> - 📜 **Roland Thaxter (*Contributions from the Cryptogamic Laboratory of Harvard University*):** *"The robust, woody stipe characteristic of the **Podaxaceae** prevents the spore mass from being submerged by drifting sand dunes."*

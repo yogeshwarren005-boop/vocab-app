@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a label or tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a label or tag.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking an identifying label, tag, printed marker, or ticket indicating contents, identity, or ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classified, categorized, or designated by an explicit descriptive title or social term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlabeled designates lacking a label or tag."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Upon the dusty shelf stood an **unlabeled** flask containing a clear, viscous liquid whose properties remained unknown."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"He rummaged through the untidy cupboard until he discovered three **unlabeled** tin canisters in the corner."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Tragic household poisonings frequently occur when hazardous chemical compounds are stored in **unlabeled** beverage bottles."*

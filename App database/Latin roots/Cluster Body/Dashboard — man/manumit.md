@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from slavery or servitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from slavery or servitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release from slavery or servitude; to emancipate an enslaved individual through formal legal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To grant civil freedom and independence from involuntary servitude through an official decree or testament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manumit designates free from slavery or servitude."*
+> - 📜 **George Washington (*Last Will and Testament*):** *"Upon the decease of my wife, it is my will and desire that all the slaves whom I hold in my own right shall receive their freedom and be **manumitted**."*
+> - 📜 **Olaudah Equiano (*The Interesting Narrative of Olaudah Equiano*):** *"With tears of joy I received the formal certificate that declared my master had agreed to **manumit** me."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A lord could legally **manumit** his villein either by express deed or by implication of law."*

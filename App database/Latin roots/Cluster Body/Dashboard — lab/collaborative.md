@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplished by collaboration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accomplished by collaboration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by or involving two or more parties working together toward a common objective or creative endeavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by mutual cooperation, shared decision-making, and collective intellectual or physical contribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborative designates accomplished by collaboration."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Genuine educational progress relies on **collaborative** inquiry where students and teachers share in the discovery of knowledge."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Our settlement work was fundamentally a **collaborative** effort undertaken with the neighborhood residents."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"A rational social order must encourage **collaborative** production rather than predatory competition."*

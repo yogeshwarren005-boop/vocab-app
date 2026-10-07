@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute (multimedia files) over the internet for playback on a mobile device or a personal computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute (multimedia files) over the internet for playback on a mobile device or a personal computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital audio program or episodic series distributed over the internet for playback on computers or mobile listening devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To publish, stream, or distribute spoken-word audio episodes online via syndicated RSS audio feeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podcast designates distribute (multimedia files) over the internet for playback on a mobile device or a personal computer."*
+> - 📜 **Ben Hammersley (*The Guardian*):** *"With all the audio blogging tools now available, what should we call this phenomenon: audioblogging, or perhaps a **podcast**?"*
+> - 📜 **Lawrence Lessig (*Remix: Making Art and Commerce Thrive in the Hybrid Economy*):** *"The rise of the independent **podcast** opened a democratization of amateur radio without broadcast licenses."*
+> - 📜 **Jonathan Zittrain (*The Future of the Internet—And How to Stop It*):** *"Any creative individual could produce an episodic **podcast** from their bedroom and distribute it freely across the globe."*

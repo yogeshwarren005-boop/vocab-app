@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two lips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a floral calyx or corolla divided into two distinct lip-shaped parts, as characteristic of flowers in the mint and snapdragon families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into two unequal, projecting lip-like lobes or structural segments in botanical and anatomical descriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilabiate designates having two lips."*
+> - 📜 **Asa Gray (*Gray's School and Field Book of Botany*):** *"When the limb of a corolla is divided into two unequal portions, an upper and a lower, it is said to be **bilabiate** or two-lipped."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The flowers of the mint family are typically **bilabiate**, having an erect upper lip and an open lower lip."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The tubular corolla terminates in a strongly **bilabiate** margin adapted for bee pollination."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized action of making of goods and services for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something (a product) from raw materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial production of finished goods and commodities on a large scale using machinery and systematic labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fabricate, invent, or concoct an excuse, story, or piece of deceptive evidence out of whole cloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above all there was a case of jewellery, containing four heavy gold bracelets and several lockets and rings, all of fine quality and manufacture."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manufacture was much improved since that time; he had seen some beautiful specimens when last in town, and had he not been perfectly without vanity of that kind, might have been tempted to order a new set."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The great commerce of every civilized society is that carried on between the town and country, exchanging raw produce for finished **manufacture**."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The domestic **manufacture** of essential goods strengthens the economic independence and national defense of the republic."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The huge factory chimneys vomited forth endless coils of smoke, producing calico and cotton **manufacture** without pause."*

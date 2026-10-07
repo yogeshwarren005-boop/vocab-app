@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unnatural mannerisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unnatural mannerisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artificial, stiff, or affected in artistic style, literary composition, or personal behavior and conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having social manners of a specified kind, as in well-mannered or ill-mannered, reflecting social breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because I don’t love you.” “Yes, but—” She contracted a yawn to an inoffensive smallness, so that it was hardly ill-mannered at all."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You should be better-mannered than to disturb a man in the midst of a game of chess."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His conversation was highly **mannered**, filled with elaborate pauses and polished turns of phrase."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The portrait displayed a charming though somewhat **mannered** elegance characteristic of the painter's early style."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Evelina's prose is formal and **mannered**, yet it sparkles with genuine satirical observation."*

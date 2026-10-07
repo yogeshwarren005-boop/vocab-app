@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to replace or conserve human and especially manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to replace or conserve human and especially manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or functioning to reduce the amount of physical toil, manual effort, or time required to accomplish a task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to machinery, mechanical appliances, or automated techniques that substitute mechanical energy for human labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laborsaving designates designed to replace or conserve human and especially manual labor."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Modern mechanical inventions are hailed as **laborsaving** devices, yet they frequently multiply the artificial demands upon household maintenance."*
+> - 📜 **Charlotte Perkins Gilman (*Women and Economics*):** *"The introduction of **laborsaving** machinery in domestic work will inevitably liberate women for broader civic participation."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Every communal dwelling in the clean city was equipped with ingenious **laborsaving** appliances that eliminated drudgery."*

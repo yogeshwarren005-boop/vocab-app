@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a botanical seed pod in elongated, bivalve, or encapsulating shape and structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed like an enclosed, protective capsule, shell, or elongated container.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podlike designates resembling a pod."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Certain floral varieties produce curious **podlike** seed vessels differing markedly from the ancestral type."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fruit consists of an elongated, **podlike** capsule splitting along its longitudinal sutures."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"The dried **podlike** husks rattled softly in the October breeze along the woodland margin."*

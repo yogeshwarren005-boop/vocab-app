@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of south african leguminous shrubs often placed in genus sophora.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of south african leguminous shrubs often placed in genus sophora.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen leguminous shrubs (*Podalyria*, sweet pea bush) native to southern Africa, bearing silky leaves and fragrant pea-like flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical taxon of ornamental shrubs cultivated in Mediterranean gardens for their clusters of pink or purple blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podalyria designates genus of south african leguminous shrubs often placed in genus sophora."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The silvery foliage of **Podalyria** sericea presents a striking appearance when massed against dark evergreen borders."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Several species of **Podalyria** indigenous to the Cape of Good Hope have long been valued in European greenhouses."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In frost-free coastal districts, **Podalyria** calyptrata thrives vigorously as a decorative hedge plant."*

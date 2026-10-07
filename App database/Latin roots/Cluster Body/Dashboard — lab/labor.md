@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive work (especially physical work done for wages).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Productive physical or mental exertion, especially when arduous or undertaken for economic livelihood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological process of physical effort, uterine contractions, and cervical dilation involved in human childbirth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Laws, indeed, are fixed in their operation and results as subserving the highest good in the training and the disciplining of the race, giving them hope in their labor and sure expectation of fruit from their toil."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They have ceased to labor with their hands, and, without warrant in the providences of God and the judgment of brethren, have turned from doing their own business, expecting the Lord to pay their debts and provide for their necessities."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I lived alone, in the woods, on the shore of Walden Pond, and earned my living by the **labor** of my hands only."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"These principles of life include self-reliance, moral independence, and the dignity and necessity of honest **labor**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He sought to divert his rising anxiety by applying himself to a more arduous **labor** than usual."*

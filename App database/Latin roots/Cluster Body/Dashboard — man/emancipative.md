@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to set free.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to set free.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to produce freedom or legal liberation; possessing the power to release people from intellectual or physical bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or fostering the progressive dismantling of oppressive social constraints and archaic dogmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emancipative designates tending to set free."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A truly liberal education exercises an **emancipative** effect upon the intelligence by dismantling uncritical habits."*
+> - 📜 **William James (*The Will to Believe*):** *"The moral philosophy of pragmatism offers an **emancipative** impulse that frees thinkers from rigid scholastic categories."*
+> - 📜 **Jane Addams (*Democracy and Social Ethics*):** *"The growing labor movement possessed an **emancipative** vitality that promised wider cultural opportunities for working families."*

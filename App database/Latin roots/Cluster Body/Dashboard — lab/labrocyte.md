@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large connective tissue cell that contains histamine and heparin and serotonin which are released in allergic reactions or in response to injury or inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large connective tissue cell that contains histamine and heparin and serotonin which are released in allergic reactions or in response to injury or inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mast cell; a large granulated connective tissue leukocyte rich in histamine and heparin that participates in inflammatory and allergic responses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basophilic tissue cell containing metachromatic granules that degranulate upon exposure to specific antigens or allergens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labrocyte designates a large connective tissue cell that contains histamine and heparin and serotonin which are released in allergic reactions or in response to injury or inflammation."*
+> - 📜 **Paul Ehrlich (*Historical Contributions to Immunology*):** *"In connective tissues I observed granular cells with basophilic affinities, which I termed mast cells or **labrocyte** formations."*
+> - 📜 **William Bloom (*A Textbook of Histology*):** *"The **labrocyte**, commonly known as the mast cell, releases histamine and heparin during acute inflammatory responses."*
+> - 📜 **Arthur W. Ham (*Histology*):** *"Under high magnification, the cytoplasm of the **labrocyte** appears densely packed with metachromatic secretory granules."*

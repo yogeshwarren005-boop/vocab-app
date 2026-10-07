@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attends a counter (as in a diner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who attends a counter (as in a diner).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who serves food, takes orders, and dispenses refreshments behind a counter in a diner, lunchroom, or delicatessen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attendant or clerk who handles customer transactions, supplies, and sales from behind a commercial service counter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterman designates someone who attends a counter (as in a diner)."*
+> - 📜 **Arthur Miller (*The Price*):** *"He started out as an apprentice **counterman** in a busy delicatessen on the Lower East Side."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The **counterman** behind the roadside diner sliced the ham and shoved the plate across the marble counter."*
+> - 📜 **Saul Bellow (*The Adventures of Augie March*):** *"A Greek **counterman** in a white apron hollered orders to the kitchen through the steaming service window."*

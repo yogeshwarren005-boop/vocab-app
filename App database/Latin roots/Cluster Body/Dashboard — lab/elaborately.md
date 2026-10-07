@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With elaboration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With elaboration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intricately designed, meticulously detailed, or painstakingly finished and ornate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With profound complexity, thoroughness, or exhaustive preparation and intellectual refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In English the story is told at length by Professor (Sir) John Rhys, _Celtic Heathendom_ (London and Edinburgh, 1888), pp. 529 _sqq._ It is elaborately discussed by Professor F."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Its second rising displayed a more elaborately prepared scene than the last."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"With listless fingers he turned over the pages of an **elaborately** illustrated edition that he had found in the library."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The backs of the chairs were **elaborately** carved with wreaths of oaken flowers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"It is an error to speak of any language as having been **elaborately** and methodically formed by deliberate invention."*

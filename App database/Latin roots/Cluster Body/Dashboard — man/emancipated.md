@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from slavery or servitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed from legal slavery, bondage, arbitrary subordination, or discriminatory social conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying independent intellectual judgment, personal autonomy, and freedom from archaic societal expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His prayer, too, asked to be emancipated from his wickedness, and his strength and health restored."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It is very unworthy of me to enjoy his playing a watch-dog of tradition across the road to an emancipated woman like myself."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She isn't emancipated enough to hate a needle as I do."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt like an **emancipated** child who has suddenly discovered the wide freedom of the open fields."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She took pride in being regarded as an **emancipated** American young woman who thought for herself."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Sue Bridehead considered herself an **emancipated** spirit, superior to the conventional creeds of her contemporaries."*

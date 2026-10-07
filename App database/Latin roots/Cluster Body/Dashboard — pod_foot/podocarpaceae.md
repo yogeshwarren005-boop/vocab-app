@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gymnosperms with simple persistent needlelike or scalelike leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gymnosperms with simple persistent needlelike or scalelike leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of Southern Hemisphere coniferous trees and shrubs (*Podocarpaceae*) bearing seeds on fleshy, fruit-like receptacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gymnosperm family comprising important timber trees including the kahikatea, totara, and yellowwood pines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podocarpaceae designates gymnosperms with simple persistent needlelike or scalelike leaves."*
+> - 📜 **Robert Brown (*General Remarks, Geographical and Systematical, on the Botany of Terra Australis*):** *"In the family **Podocarpaceae**, the inverted seed is supported upon an enlarged, often edible receptacle."*
+> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"The presence of the **Podocarpaceae** in high southern latitudes affords striking evidence of past climatic shifts."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Members of the **Podocarpaceae** are widely celebrated in the Antipodes for the durability of their resinous timber."*

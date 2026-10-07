@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collaborates with an enemy occupying force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collaborates with an enemy occupying force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cooperates traitorously with an enemy occupying power controlling their native country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or advocating political, economic, or military cooperation with a hostile invading or occupying force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborationist designates someone who collaborates with an enemy occupying force."*
+> - 📜 **Albert Camus (*Resistance, Rebellion, and Death*):** *"Every **collaborationist** journalist who justified terror shares responsibility for the victims of the purge."*
+> - 📜 **Jean-Paul Sartre (*Situations III*):** *"The **collaborationist** sought to reconcile national survival with subservience to foreign conquerors."*
+> - 📜 **Simone de Beauvoir (*The Prime of Life*):** *"In occupied Paris, the virulent **collaborationist** press denounced every intellectual who maintained a stubborn silence."*

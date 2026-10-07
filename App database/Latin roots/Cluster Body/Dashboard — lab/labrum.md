@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lab within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lab in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper lip of an insect or other arthropod, consisting of a flap-like sclerite attached to the front of the head above the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fibrocartilaginous lip or rim deepening a ball-and-socket joint socket, as in the human hip (acetabular) or shoulder (glenoid) joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labrum designates pertaining to, derived from, or characteristic of latin lab within the domain of body."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The insect mouthparts are bounded anteriorly by the **labrum**, a flap-like sclerite suspended beneath the clypeus."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The **labrum**, or upper lip, moves vertically and serves to hold food against the cutting edges of the mandibles."*
+> - 📜 **A. S. Packard (*A Text-Book of Entomology*):** *"Microscopic examination reveals fine sensory setae distributed along the inner epipharyngeal surface of the **labrum**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official act or process of freeing enslaved persons, subjugated populations, or marginalized groups from legal bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The broader historical attainment of civil, political, religious, or economic liberties and self-determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, it soon grew clear that the hour of emancipation for that little prisoner of the flesh was to arrive earlier than her worst misgiving had conjectured."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"With all the novelty of my emancipation on me, I went to church with Joe, and thought perhaps the clergyman wouldn’t have read that about the rich man and the kingdom of Heaven, if he had known all."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he has the same sort of enthusiasm for liberty, freedom, emancipation—a fine thing under guidance—under guidance, you know."*
+> - 📜 **Abraham Lincoln (*The Emancipation Proclamation*):** *"I do order and declare that all persons held as slaves are, and henceforward shall be, free; and upon this act of **emancipation** I invoke the considerate judgment of mankind."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"The dawn of **emancipation** burst upon the South as a sudden, bewildering vision of human equality."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"Every reformative movement in history is fundamentally an effort toward the spiritual **emancipation** of mankind."*

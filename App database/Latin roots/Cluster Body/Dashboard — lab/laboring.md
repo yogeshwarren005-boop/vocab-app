@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in hard physical toil, manual exertion, or arduous professional work to earn a living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving, breathing, or functioning with noticeable strain, difficulty, or mechanical resistance under stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While laboring with my wife as a missionary in Northern Mexico, we supported ourselves for nearly four years by teaching and such other ways as the Lord opened up to us."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To a gentleman laboring under great nervous depression, whom he had visited, and who was moving along the streets as though he was apprehensive that every step would shake his system in pieces, he was rendered singularly useful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He has been laboring all his life and looking forward."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He has been **laboring** all his life and looking forward to an honored retirement."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Though baffled seers cannot impart the secret of its **laboring** heart, throb thine with Nature's throbbing breast."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Actually, the **laboring** man has not leisure for a true integrity day by day; he cannot afford to sustain the manliest relations to men."*

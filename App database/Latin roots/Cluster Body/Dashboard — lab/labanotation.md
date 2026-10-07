@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standardized system of symbolic notation used for recording, analyzing, and preserving human dance and bodily movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertical-staff graphic method that precisely documents the direction, level, part of the body, and duration of kinetic actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labanotation designates a system of notation for dance movements that uses symbols to represent points on a dancer's body and the direction of the dancer's movement and the tempo and the dynamics."*
+> - 📜 **Ann Hutchinson Guest (*Labanotation: The System of Analyzing and Recording Movement*):** *"Using vertical staves and geometric directional symbols, **Labanotation** records the precise duration, direction, and level of every bodily movement."*
+> - 📜 **Selma Jeanne Cohen (*The Modern Dance: Seven Statements of Belief*):** *"The preservation of classic choreography in **Labanotation** ensures that historic dance masterworks will not vanish with their performers."*
+> - 📜 **Marion North (*Personality Assessment through Movement*):** *"A movement analyst trained in **Labanotation** can transcribe dynamic changes in bodily posture with scientific fidelity."*

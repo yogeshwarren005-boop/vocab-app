@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially correct in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially correct in behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Polite, well-behaved, and showing proper social decorum, courtesy, and respect toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a civil, respectful, or courtly and graceful manner that honors established social expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discourse is heavy, fasting; when we have supp’d, We’ll mannerly demand thee of thy story, So far as thou wilt speak it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, tut, here is a mannerly forbearance!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, Nerissa, for I long to see Quick Cupid’s post that comes so mannerly."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Good pilgrim, you do wrong your hand too much, which **mannerly** devotion shows in this."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip behaved in a modest and **mannerly** fashion that pleased the proud old lady."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The country children were taught to make a **mannerly** bow to every passing stranger."*

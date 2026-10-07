@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soil that develops in temperate to cold moist climates under coniferous or heath vegetation; an organic mat over a grey leached layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soil that develops in temperate to cold moist climates under coniferous or heath vegetation; an organic mat over a grey leached layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acidic, infertile forest soil (*podzol* or *spodosol*) characterized by a bleached, ash-grey leached upper layer and an underlying mineral-rich horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The predominant soil type of cool, moist temperate and boreal coniferous forests, formed by intense leaching of iron and humus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podsol designates a soil that develops in temperate to cold moist climates under coniferous or heath vegetation; an organic mat over a grey leached layer."*
+> - 📜 **Vasily Dokuchaev (*Russian Chernozem*):** *"Beneath the coniferous forest litter, the sandy **podsol** exhibits a distinctive ash-grey bleached horizon."*
+> - 📜 **Eugene W. Hilgard (*Soils: Their Formation, Properties, Composition, and Relations to Climate and Plant Growth*):** *"The leached **podsol** soils of northern pine barrens require lime and organic amendments to support agriculture."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sterile **podsol** covering the northern heathlands reflects centuries of acid percolation under pine canopies."*

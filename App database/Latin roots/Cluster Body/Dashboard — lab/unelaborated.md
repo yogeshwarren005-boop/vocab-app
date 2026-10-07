@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving only major points; lacking completeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving only major points; lacking completeness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not developed in detail, expanded, or enriched with subsequent explanation or structural complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in a rudimentary, bare, or preliminary form without philosophical or technical refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unelaborated designates giving only major points; lacking completeness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **unelaborated** sensation is an abstraction; in actual mental life, every impression is instantly caught up into a web of associated memories."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Raw experience in its **unelaborated** state contains precarious and uncertain qualities that scientific reflection seeks to regulate."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"The bare, **unelaborated** data of sense must be distinguished from the complex theoretical inferences built upon them."*

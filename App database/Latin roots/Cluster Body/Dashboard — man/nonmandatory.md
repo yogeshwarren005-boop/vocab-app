@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required by rule or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not required by rule or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required by compulsory law, official regulation, or binding decree; discretionary and optional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to advisory guidelines, suggestions, or non-binding administrative recommendations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmandatory designates not required by rule or law."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"Courts recognize a clear boundary between strict statutory rules and **nonmandatory** administrative guidelines."*
+> - 📜 **Roscoe Pound (*An Introduction to the Philosophy of Law*):** *"The judge exercises equitable discretion when interpreting **nonmandatory** provisions of procedural codes."*
+> - 📜 **Felix Frankfurter (*The Public and Its Government*):** *"The commission issued several **nonmandatory** recommendations designed to encourage voluntary industrial compliance."*

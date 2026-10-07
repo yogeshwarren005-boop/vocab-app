@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by covalence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by covalence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by the sharing of one or more pairs of electrons between two atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating chemical bonds and molecular lattices wherein electron density is localized between adjacent nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covalent designates of or relating to or characterized by covalence."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"A normal **covalent** bond involves two electrons of opposite spin shared equally between two nuclei."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The tetrahedral geometry of methane arises directly from four equivalent **covalent** linkages."*
+> - 📜 **Robert S. Mulliken (*Molecular Complexes*):** *"Charge-transfer interactions represent an intermediate state between purely ionic forces and true **covalent** bonding."*

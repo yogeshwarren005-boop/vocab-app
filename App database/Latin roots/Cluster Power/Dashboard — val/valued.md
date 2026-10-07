@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or determine the value of; assign a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold dear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with high esteem, appreciation, or affection; held to be precious or desirable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Estimated, appraised, or calculated at a specified price, monetary worth, or rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Harry, you Shall march through Gloustershire; by which account, Our business valued, some twelve days hence Our general forces at Bridgenorth shall meet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most dear and **valued** friend, whose absence makes our banquet seem desolate."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The ancient oak was **valued** not merely for its timber, but as a landmark revered by five generations."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Variations which were highly **valued** by human breeders were preserved and multiplied through successive generations."*

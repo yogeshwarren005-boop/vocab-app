@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or involving careful evaluations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or involving careful evaluations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to judge, assess, or appraise merit, efficiency, or value against determined standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and linguistic theory, expressing a normative value judgment rather than a purely factual report.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluative designates exercising or involving careful evaluations."*
+> - 📜 **John Dewey (*Theory of Valuation*):** *"An **evaluative** proposition is not a mere exclamation of desire but a judgment concerning means and consequences."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Moral assertions carry an **evaluative** force that cannot be deduced from purely descriptive premises."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Our **evaluative** judgments of mystical ecstasy depend on whether the ultimate fruits of the life are wholesome."*

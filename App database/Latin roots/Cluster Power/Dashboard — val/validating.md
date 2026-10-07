@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare or make legally valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prove valid; show or confirm the validity of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving legal force, official sanction, or binding efficacy to an act, instrument, or covenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corroborating, substantiating, or proving the accuracy and soundness of an empirical hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validating designates declare or make legally valid."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The affixing of the royal seal was the ancient method of **validating** charters and royal grants."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scientist was engaged in **validating** his general law by subjecting it to severe experimental trials."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Cross-tabulation of statistical data provided the primary means of **validating** ancestral inheritance curves."*

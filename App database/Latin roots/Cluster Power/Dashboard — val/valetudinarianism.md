@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic habit or neurotic disposition of worrying obsessively over personal health and bodily infirmities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypochondriacal preoccupation with dietary rules, draughts, medicines, and microscopic symptoms of sickness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valetudinarianism designates the state of being weak in health or body (especially from old age)."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing more effectually disqualifies a man for active benevolence than an indulgence in selfish **valetudinarianism**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual **valetudinarianism** fixes the attention upon morbid bodily sensations, exaggerating every functional disturbance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His mild hypochondria threatened to degenerate into confirmed **valetudinarianism** if left without stimulating employment."*

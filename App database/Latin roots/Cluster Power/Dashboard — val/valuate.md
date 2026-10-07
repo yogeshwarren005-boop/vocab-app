@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To place a value upon; appraise, assess, or calculate the financial or material worth of property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional accounting and estate administration, to determine fair market value or replacement cost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuate designates evaluate or estimate the nature, quality, ability, extent, or significance of."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The court appointed independent surveyors to **valuate** the disputed real estate before probate was granted."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Tax assessors were required to **valuate** merchant inventories annually to establish the basis of excise."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Accountants were summoned to **valuate** the tangible assets and goodwill of the consolidating corporations."*

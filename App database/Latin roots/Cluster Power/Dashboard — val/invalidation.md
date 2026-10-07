@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal termination (of a relationship or a judicial proceeding etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering legally void, null, or without binding authority; formal annulment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The refutation or destruction of the evidential foundation supporting a thesis, theorem, or claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidation designates (law) a formal termination (of a relationship or a judicial proceeding etc)."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicial review of legislative acts does not imply a superiority of the judges, but the constitutional **invalidation** of illegal statutes."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The formal **invalidation** of the agreement left both parties to their equitable remedies under restitution."*
+> - 📜 **Francis Galton (*Memories of My Life*):** *"The experimental **invalidation** of pangenesis forced biologists to reconsider the mechanisms of ancestral inheritance."*

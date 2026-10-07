@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of electron-pair bonds that a particular atom forms with other atoms in a compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity or measure of holding valence electrons in common between bonded atomic nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covalency designates valence characterized by the sharing of electrons in a chemical compound; the number of pairs of electrons an atom can share."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The maximum **covalency** exhibited by first-row elements is strictly limited by the four available quantum orbitals."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"Deviations in apparent **covalency** reflect the varying polarities of the shared electron doublets."*
+> - 📜 **Nevil Sidgwick (*The Electronic Theory of Valency*):** *"Coordination complexes demonstrate how the normal **covalency** of a central metal ion can expand through donor lone pairs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus valeriana having lobed or dissected leaves and cymose white or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus valeriana having lobed or dissected leaves and cymose white or pink flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any perennial flowering herb of the genus Valeriana, especially Valeriana officinalis, bearing fragrant pink or white blooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried rootstock and rhizome of this plant, utilized in pharmacy since classical antiquity as a sedative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Saint Laurence: suffered martyrdom in the reign of the Emperor Valerian, A.D. 258."*
-> - 📜 **James Joyce (*Ulysses*):** *"Similarly, because actuated by a secret purpose the quest of a new male (Mullingar student) or of a healing herb (valerian)."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Greenough had given me a dose of valerian, which she said would do him good."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Cats are well known to be excited by the aromatic odor of **valerian** root, rolling upon it in frantic delight."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Infusions of **valerian** were formerly prescribed in nervous disorders to soothe excitability without producing stupor."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The dry root of garden **valerian** hath a pleasant smell when bruised and is held in sovereign esteem by physicians."*

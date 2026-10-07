@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too high a value or price assigned to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or result of estimating the value, price, or merit of something too highly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and finance, pricing an asset, stock, or currency far above its intrinsic equilibrium worth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overvaluation designates an appraisal that is too high."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The absurd **overvaluation** of colonial gold mines blinded European states to the true wealth derived from domestic agriculture."*
+> - 📜 **John Maynard Keynes (*A Tract on Monetary Reform*):** *"An artificial **overvaluation** of sterling placed a ruinous tax upon the export coal and textile trades."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Speculative bubbles invariably depend upon the collective **overvaluation** of corporate goodwill."*

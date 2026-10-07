@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weak or sickly person especially one morbidly concerned with his or her health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a person who is a valetudinarian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person chronically concerned with personal health; an invalid or sickly individual anxious about bodily ailments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively solicitous, anxious, or fearful regarding bodily symptoms, dietary regimens, and subtle changes of weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A certain valetudinarian confesses he has often been cured of a sore throat by the hoarseness of a carman and relieved from a fit of the gout by the sound of old shoes."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I know his appearance.” “Which is certainly not suggestive of a valetudinarian,” remarked Lucian, looking hard at the stranger."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"The sickly **valetudinarian** wastes life in measuring temperatures, weighing bread, and dreading damp air."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was a confirmed **valetudinarian**, whose fondness for his daughter was matched only by his fear of drafts."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"King William was from childhood a weak and asthmatic **valetudinarian**, yet he possessed the courage of an ancient hero."*

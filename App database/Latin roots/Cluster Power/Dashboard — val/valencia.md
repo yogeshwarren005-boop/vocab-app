@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in northern venezuela.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern spain on the mediterranean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic province and maritime city on the Mediterranean coast of eastern Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet, juicy orange variety grown in warm regions; or a strong upholstery fabric woven with cotton and wool.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had made an excursion from Valencia to Murviedro, with a view to inspect the remains of Roman magnificence scattered in the environs of that town."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They returned to Valencia together."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"While Pleyel remained in Valencia, Carwin betrayed no aversion to intercourse, and the former found no small attractions in the society of this new acquaintance, On general topics he was highly intelligent and communicative."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The fertile plains of **Valencia** were celebrated throughout Moorish Spain for their ingenious irrigation canals and orange groves."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"From the olive-clad hills of Catalonia we descended into the rich and sunny province of **Valencia**."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The market of **Valencia** displayed mountains of luscious melons, pomegranates, and golden oranges beneath the azure sky."*

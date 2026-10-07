@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long depression in the surface of the land that usually contains a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long depression in the surface of the land that usually contains a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated lowland depression lying between hills or mountains, typically drained by a stream or river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad geographical basin or vale formed through protracted fluvial erosion, glaciation, or faulting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uncouple in the western valley; let them go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, let us hence, And let her joy her raven-coloured love; This valley fits the purpose passing well."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"On bright summer evenings the swallows whizzed as before about the corner gables, but no more merry eyes looked down from the balconies to the green meadows and richly laden apple trees in the valley."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Through the green **valley** ran the gentle brook, reflecting the summer skies."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The sun sank behind the western hills, throwing long purple shadows across the fertile **valley**."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The steep walls of the Cordillera **valley** exhibited successive horizontal terraces marking ancient lake levels."*

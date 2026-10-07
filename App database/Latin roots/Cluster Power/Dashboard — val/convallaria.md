@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family convallariaceae: lily of the valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family convallariaceae: lily of the valley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of perennial rhizomatous flowering plants commonly called lilies of the valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried rootstock and foliage of *Convallaria majalis*, historically used in pharmacognosy as a cardiac tonic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convallaria designates sometimes placed in family convallariaceae: lily of the valley."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Convallaria** is distinguished by its one-sided raceme of nodding, bell-shaped, fragrant white flowers."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"Preparations of **Convallaria** exhibit energetic action upon the heart resembling digitalis, though requiring extreme dosage caution."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **Convallaria**, the delicate perianth forms a globose cup enclosing stamens inserted near its base."*

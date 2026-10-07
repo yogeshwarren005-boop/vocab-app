@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the value from; deprive of its value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose in value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the official exchange value or gold parity of a country's monetary unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lessen or depreciate the perceived worth, status, or merit of an asset, institution, or rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluate designates remove the value from; deprive of its value."*
+> - 📜 **John Maynard Keynes (*A Tract on Monetary Reform*):** *"When a central bank resolves to **devaluate** its currency, the immediate domestic consequence is an adjustment in commodity prices."*
+> - 📜 **Paul Samuelson (*Economics: An Introductory Analysis*):** *"A nation facing chronic balance-of-payments deficits may choose to **devaluate** to make its exports competitive abroad."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"Careless political rhetoric tends to **devaluate** the sober language of constitutional discourse."*

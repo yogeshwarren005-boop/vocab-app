@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With valor; in a valiant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With valor; in a valiant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a valorous, courageous, or intrepid manner; bravely confronting formidable odds or peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With heroic fortitude, gallant determination, and steadfast honor in conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the mess, ere theise eyes of mine take themselves to slomber, I’ll de gud service, or I’ll lig i’ the grund for it; ay, or go to death; and I’ll pay’t as valorously as I may, that sall I suerly do, that is the breff and the long."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He bore himself **valorously** through the press of foes, cutting a path for his besieged comrades."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Scottish knight defended his post **valorously** against overwhelming swarms of Saracen horsemen."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Swiss Guards died **valorously** at the foot of the royal staircase, faithful to their military oath."*

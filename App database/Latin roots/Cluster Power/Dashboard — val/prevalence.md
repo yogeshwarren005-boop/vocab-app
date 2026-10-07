@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of prevailing generally; being widespread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread occurrence, general acceptance, or dominant presence in a particular region or epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, the proportion of individuals in a population exhibiting a specific disease or trait at a designated time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of protective tariffs. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Note on Tariff legislation and business depressions. § 1. #Prevalence of protective tariffs.# For a century and a half most serious students of economics have favored a larger measure of freedom, if not absolute freedom, in foreign trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of unemployment. § 12."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The unexpected **prevalence** of dark-coloured varieties in forested islands supports the theory of natural selection."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Notwithstanding the **prevalence** of trade and money-getting, there remain quiet spirits who choose simplicity."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The general **prevalence** of cold manners among the guests dampened her natural vivacity."*

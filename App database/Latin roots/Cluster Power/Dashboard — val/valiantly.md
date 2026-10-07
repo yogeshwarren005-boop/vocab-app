@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With valor; in a valiant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With valor; in a valiant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a valiant, courageous, or heroically brave manner; intrepidly confronting danger or hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With resolute endurance and staunch determination under overwhelming odds or severe trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not—God be praised and blessed!—any hurt in the world; but keeps the bridge most valiantly, with excellent discipline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, kind lord; fight valiantly today!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He therefore valiantly hides his personality behind a publisher’s shutters, and cries “Shame!” So densely is the world with any shifting of positions, even the best warranted advance, galls somebody’s kibe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He fought **valiantly** upon the bloody field, defending the royal standard to the last breath."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"She struggled **valiantly** against her rising grief, refusing to let the onlookers witness her despair."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The condemned prisoner met his destiny **valiantly**, ascending the scaffold with calm dignity."*

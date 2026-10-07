@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Courage, bravery, and intrepid prowess in facing danger, especially in military combat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High moral fortitude, steadfast endurance, and chivalric nobility of spirit under trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True **valour** lies in the middle between cowardice and rashness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His rustic **valour** was awakened when the storm threatened to destroy the gathered harvests."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He had dreamed of deeds of legendary **valour**, only to falter when the sudden crisis overtook his ship."*

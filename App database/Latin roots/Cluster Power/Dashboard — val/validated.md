@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare or make legally valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prove valid; show or confirm the validity of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirmed, sanctioned, or given legal force and binding authority by official sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empirically verified, corroborated, or demonstrated to be accurate through replicable testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validated designates declare or make legally valid."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"His botanical observations were **validated** by independent field experiments conducted across Europe."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The disputed election was **validated** by the supreme judicial tribunal after a thorough examination of the ballots."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The commercial contract was **validated** by mutual consideration and the exchange of signed covenants."*

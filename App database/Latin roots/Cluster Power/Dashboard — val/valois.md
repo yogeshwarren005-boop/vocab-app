@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French royal house from 1328 to 1589.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French royal house from 1328 to 1589.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cadet branch of the French Capetian dynasty that ruled France from 1328 to 1589.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic region and duchy in northern France that gave its name to this royal house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"This was strange, because neither the little American girl nor her governess nor her governess's lover had ever heard of the Valois family, nor had the Valois family heard of them."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was rather a long walk to get there, and Suze senior-- who told Angel that she was "Madame Valois"--shyly refused the little girl's insistent plea to "come in and meet mother." "I must take the children back to their supper," she explained."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The portrait of the French king of the house of **Valois** looked down with subtle and melancholy eyes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The accession of the house of **Valois** ignited the protracted dynastic conflicts of the Hundred Years' War."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"King Louis the Eleventh maintained the dignity of the house of **Valois** through astuteness rather than chivalric display."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heroic courage, bravery, prowess, and steadfast valor when confronting deadly danger or adversary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrepid spirit displayed in military engagement or chivalric defense of a noble purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valiance designates the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"With matchless **valiance** the knight advanced against the fiery dragon, scorning mortal danger."*
+> - 📜 **Walter Scott (*The Talisman*):** *"King Richard was renowned throughout Christendom for high deeds of arms and knightly **valiance**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian chieftain rallied his broken tribesmen with frantic shouts and personal **valiance**."*

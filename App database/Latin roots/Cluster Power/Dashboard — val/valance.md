@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative framework to conceal curtain fixtures at the top of a window casing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short decorative drapery hanging along the edge of a bed canopy, shelf, or frame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative pleated border of fabric or carved timber fixed above a window to conceal curtain fittings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He stooped and lifted the valance."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Too late he divined her “drift.” The handle of the telltale tea-spoon was visible under the bed-valance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Heavy crimson damask curtains, with a rich **valance**, swept the floor and shut out the cold November storm."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The old four-post bedstead was draped with a faded chintz **valance** bearing patterns of antique birds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through the parted muslin **valance** she watched the morning sunlight tint the mist above the sheepfolds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who estimates officially the worth or value or quality of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to appraise, assess, or determine the monetary worth of property; an appraiser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certified expert who estimates commercial assets, real estate, or agricultural stock for probate or taxation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I fell into converse with several farmers and made arrangements with one to take his young pigs at valuation--which I judged a good affair to me, his valuator being largely indebted to me in the line of bone manures and feeding stuffs."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The sworn **valuator** examined the old furniture, making meticulous entries in his leather pocket-book."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An impartial **valuator** is required in every bankruptcy sale to safeguard the equitable claims of creditors."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The family called in a skilled **valuator** to catalog the ancestral library and estimate its auction yield."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) having valence; usually used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) having valence; usually used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified chemical valence or combining power; capable of chemical bonding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, having a designated number of binding affinities or active receptor combining sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valent._ 20, who suggests that the Valentinians had "nut-trees in the sky"--it is a book in which he allows himself a good deal of gaiety and free quotation. [57] i, 28. [58] M."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"A multi-**valent** atom possesses several valence electrons capable of participating in simultaneous covalent pairings."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The side-chain receptors of cell protoplasm act as poly-**valent** anchors for toxic molecules."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"Whether an element behaves as uni-**valent** or di-**valent** depends upon the electron configuration of its outermost shell."*

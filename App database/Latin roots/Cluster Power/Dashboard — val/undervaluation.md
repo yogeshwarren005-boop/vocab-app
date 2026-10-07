@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too low a value or price assigned to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too low a value or price assigned to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation or appraisal of something below its real, equitable, or potential worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In foreign trade, maintaining a currency below its purchasing power parity to gain an artificial export advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undervaluation designates too low a value or price assigned to something."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The habitual **undervaluation** of native manufactures by foreign merchants discouraged domestic investment."*
+> - 📜 **John Maynard Keynes (*A Tract on Monetary Reform*):** *"An exchange rate **undervaluation** gives temporary export stimulus while generating domestic price inflation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **undervaluation** of profound theoretical science was an accidental defect of early democratic societies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Courage, valor, or heroic prowess; intrepidity of spirit when confronting formidable obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstrated character of performing deeds of daring, military fortitude, and chivalric defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valiancy designates the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His noble **valiancy** in the field was praised by the general before the entire assembly of Roman soldiers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Desperate **valiancy** could not prevail against disciplined artillery and starvation."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He performed exploits of miraculous **valiancy**, laying low the pride of the Philistines."*

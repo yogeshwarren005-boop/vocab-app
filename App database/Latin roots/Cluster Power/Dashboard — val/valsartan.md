@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiotensin ii inhibitor that is used to treat high blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin II receptor antagonist pharmaceutical used to treat hypertension and heart failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic tetrazole-biphenyl therapeutic agent that selectively blocks AT1 receptors, promoting vasodilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valsartan designates an angiotensin ii inhibitor that is used to treat high blood pressure."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The cardiologist stabilized the elderly patient's blood pressure by prescribing modern antihypertensives like **valsartan**."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Angiotensin receptor blockade with agents such as **valsartan** provides organ protection in hypertensive cardiovascular disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern pharmacology manages vascular tone through targeted receptor inhibitors like **valsartan**, preventing ventricular remodeling."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign too high a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign too high a value to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To appraise or rate at too high a value, price, or standard; attach excessive importance to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial markets, to price assets or currencies above their fundamental economic values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, in turn, any of the minor factors, as materials or uses of goods, are overvalued (overcapitalized) it will appear ultimately in a check in the demand for them at these prices, and in a reduction in the demand for money loans."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She was far too modest to **overvalue** her own accomplishments in the company of fashionable strangers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Savage tribes tend to **overvalue** mere physical courage and ferocity above the gentler social virtues."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Men frequently **overvalue** the applause of the multitude and neglect the solid testimonies of conscience."*

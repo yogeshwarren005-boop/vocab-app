@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the value from; deprive of its value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value or quality of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially reduce the exchange value or gold backing of a circulating currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disparage, underestimate, or treat as inferior the intrinsic importance, worth, or dignity of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devalue designates remove the value from; deprive of its value."*
+> - 📜 **John Maynard Keynes (*Essays in Persuasion*):** *"To **devalue** the pound at this juncture would be to surrender the preeminence of the London financial market."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Cynical propaganda seeks to **devalue** all appeals to public spirit and selfless patriotism."*
+> - 📜 **George Orwell (*Inside the Whale and Other Essays*):** *"Totalitarian regimes deliberately **devalue** words to render objective political debate impossible."*

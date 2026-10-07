@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic ill health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic ill health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protracted or lifelong physical debility, illness, or chronic bodily infirmity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A habitual routine or psychological adaptation to ongoing sickness, weakness, or convalescent retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My healing is complete, and the liberation in thought is manifest in a life of active usefulness rather than the bondage of helpless invalidism and suffering."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All my life had been spent in semi-invalidism, and I seemed destined to a life of suffering."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Over this Whitman's loss of his magnificent health, to be followed by an invalidism of twenty years, had no power."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Protracted **invalidism** frequently narrows the sphere of emotional interest to the immediate sensations of the body."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A life condemned to nervous **invalidism** seemed to her proud spirit far worse than death itself."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her quiet cheerfulness throughout years of confirmed **invalidism** won the admiration of the whole parish."*

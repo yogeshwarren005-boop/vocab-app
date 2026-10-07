@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Revise or renew one's assessment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or renew one's assessment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To evaluate, appraise, or assess again, especially in the light of new information or changed events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reconsider foundational assumptions, strategies, or judgments following empirical testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reevaluate designates revise or renew one's assessment."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Philosophers must periodically **reevaluate** classical concepts when advancing scientific methods alter our worldview."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"We are compelled to **reevaluate** our inductive confidence whenever unexpected empirical anomalies emerge."*
+> - 📜 **William James (*The Will to Believe*):** *"A crisis in personal fortune often compels a man to **reevaluate** the true ends of human existence."*

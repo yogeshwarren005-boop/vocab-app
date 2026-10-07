@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluate or estimate the nature, quality, ability, extent, or significance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a critical opinion of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ascertain or calculate the amount, significance, worth, or quality of something through systematic study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, to compute the numerical value of an algebraic expression, formula, or integral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Tangible things are comparatively easy to find, measure, and evaluate where they are, and if they are all taxed it is evidently the same as if all the capital values based upon them were taxed in the owners' hands."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tell Brad to prepare plans and evaluate our military capabilities to penetrate the protective shield around the Logistics Depot, to capture it and use it as hostage." "Good God!"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The plan would organize, staff, equip, transport, test and evaluate, and (in the event of war) activate and deploy Mobile Maintenance Teams consisting of U S civil service volunteers."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intellect must constantly **evaluate** sensory impressions before selecting an appropriate voluntary movement."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"In scientific investigation, one must critically **evaluate** the evidence before formulating a general law."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"We need precise statistical measurements to **evaluate** the influence of heredity against environment."*

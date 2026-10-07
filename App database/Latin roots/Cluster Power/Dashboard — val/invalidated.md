@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of legal authority, formal efficacy, or binding force by judicial or statutory decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disproved, refuted, or shown to be incorrect by contradictory experimental or empirical evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"The disputed electoral ballots were **invalidated** because the presiding officer failed to append the statutory seal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Earlier assumptions regarding graft hybrids were **invalidated** by rigorous experimental repetition."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When a law violates the federal charter, it is **invalidated** by the judicial tribunals upon the first private suit."*

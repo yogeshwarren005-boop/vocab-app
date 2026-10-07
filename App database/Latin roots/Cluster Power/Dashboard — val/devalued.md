@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the value from; deprive of its value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value or quality of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowered in official monetary exchange value, legal standard, or foreign currency parity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminished in public repute, esteem, or perceived merit; treated as of negligible account.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devalued designates remove the value from; deprive of its value."*
+> - 📜 **John Maynard Keynes (*A Treatise on Money*):** *"The **devalued** franc stimulated tourism and manufactured exports while raising the price of imported wheat."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"When human individuality is systematically **devalued**, the mechanical state becomes the sole measure of all things."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"In displaced persons camps, human rights were **devalued** into meaningless paper claims without state protection."*

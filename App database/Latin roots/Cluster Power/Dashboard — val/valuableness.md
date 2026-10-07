@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The positive quality of being precious and beyond value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Priceless excellence, inestimable importance, and transcendent usefulness or worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High esteem, commercial estimation, or practical usefulness inherent in a possession or principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuableness designates the positive quality of being precious and beyond value."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The true **valuableness** of learning consists not in speculative ostentation, but in its capacity to guide human life."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The high **valuableness** of precious metals arises from their durability, portability, and uniform quality."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **valuableness** of knowledge is measured by its tendency to improve the human estate."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare or make legally valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prove valid; show or confirm the validity of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make legally valid, effective, or officially authoritative; confirm, sanction, or ratify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To verify, corroborate, or substantiate the accuracy, truth, or experimental reliability of a hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Following a few short stops to surface stations to inspect military tunnels and comm links, and validate the flitter's flight record, he diverted to a depression between Coldfield and the horizon."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An act of Parliament was necessary to validate the American treaty of 1783."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Subsequent experimental tests serve to **validate** the theoretical inferences drawn from earlier observations."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The signature of the executive was required to **validate** the resolutions passed by both chambers of the legislature."*
+> - 📜 **William James (*The Will to Believe*):** *"Practical verification in lived experience is the sole standard that can **validate** a moral principle."*

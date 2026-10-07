@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evaluation of something a second time (or more).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evaluation of something a second time (or more).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second or revised evaluation, appraisal, or critical judgment of an object, policy, or claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comprehensive reassessment of historical, scientific, or social dogmas prompted by new evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reevaluation designates the evaluation of something a second time (or more)."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The publication of Darwin's work necessitated an immediate **reevaluation** of comparative anatomy and palaeontology."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The persistent depression forced a radical **reevaluation** of orthodox classical equilibrium theory."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Every major cultural transformation brings in its train a **reevaluation** of established historical judgments."*

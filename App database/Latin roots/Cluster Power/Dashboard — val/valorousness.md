@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heroic bravery, fortitude, and daring in the face of mortal danger or overwhelming opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstrated habit of intrepid daring and chivalric gallantry under deadly peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valorousness designates the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The **valorousness** of the Redcrosse Knight was tempered by humble piety and patient obedience."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The tournament crowned the **valorousness** of the Disinherited Knight above all the champions of the realm."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian legionaries possessed reckless **valorousness**, but lacked the tactical discipline of old Rome."*

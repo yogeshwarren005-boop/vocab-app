@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign too low a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esteem lightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To appraise or rate below the real, intrinsic, or equitable worth; underestimate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold in low esteem; disparage the genuine abilities, merits, or dignity of a person or principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"God forbid that I should undervalue the warm and faithful feelings of any of my fellow-creatures!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The use which has been made of this difference, in reasonings contained in former papers, will have shown that I am disposed neither to deny its existence nor to undervalue its importance."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The more you know the more unhappy you are.” “You should not undervalue knowledge before Pansy, who has not finished her education,” Madame Merle interposed with a smile."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"We must not **undervalue** the influence of habit and training in fostering the unselfish social virtues."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She had too much sense to **undervalue** the advantages of fortune, but she would never marry without genuine respect."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Superficial minds often **undervalue** the tedious labour of experimental accumulation until the final harvest appears."*

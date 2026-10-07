@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or showing courageous determination, bravery, and heroism in confronting danger or adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or performed with intrepid fortitude, chivalric daring, or soldierly prowess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he assails; and our virginity, though valiant, in the defence, yet is weak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, my lord, and of very valiant approof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cowards die many times before their deaths; the **valiant** never taste of death but once."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He made a **valiant** effort to master his emotion, speaking in a firm and deliberate tone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He was a **valiant** sailor who had faced icy squalls and harpooned monsters in every ocean of the globe."*

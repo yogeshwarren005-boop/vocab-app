@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain in value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Value anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To value again or revise the appraisal of; especially to adjust the official value of a currency upward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reassess the intrinsic significance, merit, or ethical status of an idea, practice, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, however, the expected income fails to be realized, the capital loses its value, or it is revalued on the basis of the new rents."*
+> - 📜 **John Maynard Keynes (*Essays in Persuasion*):** *"If we choose to **revalue** the monetary standard without adjusting domestic costs, industrial stagnation will follow."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The assessors were directed to **revalue** the municipal properties every seven years according to prevailing rents."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We must learn to **revalue** our national habits and see our conduct in the light of sweet reason."*

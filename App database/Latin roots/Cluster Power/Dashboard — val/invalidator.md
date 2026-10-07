@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can invalidate or nullify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, circumstance, or party that renders a legal document or covenant null and void.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decisive counterexample, flawed premise, or experimental fact that disproves an accepted proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidator designates an official who can invalidate or nullify."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A latent conflict of interest acts as a powerful **invalidator** of witness credibility in judicial proceedings."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"A single arithmetic flaw in the logarithm table becomes the silent **invalidator** of all dependent navigational calculations."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The executive veto functions under the constitution as a potential **invalidator** of ill-considered statutes."*

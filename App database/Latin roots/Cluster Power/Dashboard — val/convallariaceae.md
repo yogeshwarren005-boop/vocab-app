@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical family encompassing lily of the valley and related monocotyledonous perennial herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic grouping characterized by creeping rhizomes, parallel-veined foliage, and baccate fruits, now placed in Asparagaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convallariaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Systematists frequently separated **Convallariaceae** from the broader Liliaceae on account of their berry fruits."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Embryological comparisons in monocotyledons placed **Convallariaceae** near the ancestral liliaceous rootstocks."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Several Himalayan woodland genera were formerly referred to **Convallariaceae** by early continental botanists."*

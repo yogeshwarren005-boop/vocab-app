@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) any furrow or channel on a bodily structure or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) any furrow or channel on a bodily structure or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shallow depression, groove, or furrow found on an anatomical or botanical surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the deep mucosal pocket situated between the epiglottis and the root of the tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vallecula designates (anatomy) any furrow or channel on a bodily structure or part."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"A median glosso-epiglottic fold separates the two depressions termed the **vallecula** on the lingual surface of the epiglottis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In umbelliferous fruits, oil vittae typically lie embedded within each longitudinal furrow or **vallecula**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The ribbed mericarps of the Apiaceae feature alternating ridges and **vallecula** furrows housing essential oils."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) one of the aesir and avenger of balder; son of odin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Norse mythology, a son of Odin and Rindr prophesied to avenge the slaying of Baldr by killing Hodr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Ottoman administrative hierarchy, the governor-general and chief executive of an Ottoman province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"There was also a man with Vali."*
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"His farm was named Vali's stead, and it stood on the way to Hrutafiord."*
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"So Vali went with them and they came to Muli where Bersi was and many men with him."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"In Scandinavian myth, the young god **Vali** avenges the death of pure Baldr and survives the fires of Ragnarok."*
+> - 📜 **James Bryce (*Transcaucasia and Ararat*):** *"The Ottoman **Vali** received our credentials with courteous oriental hospitality amidst the divan of his provincial palace."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The imperial decree appointed a new **Vali** to govern the coastal districts and suppress desert brigandage."*

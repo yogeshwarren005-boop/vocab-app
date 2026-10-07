@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed perennial herbs and some shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed perennial herbs and some shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of perennial herbs and shrubs in the honeysuckle family, distributed across temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic type genus of Caprifoliaceae, recognized for its cymose inflorescences and valepotriate constituents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VALERIAN RUST; spots yellowish; sori subrotund, small, confluent, sometimes circinating; epidermis at length bursting; spores reddish-brown, subglobose or clavate, shortly pedicellate.—On _Valeriana officinalis_."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"In **Valeriana**, the corolla is monopetalous and spurred at the base, enclosing three stamens."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*):** *"The alpine species of **Valeriana** exhibit reduced vegetative stems adapted to rocky screes."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"High Himalayan meadows yield aromatic forms of **Valeriana** closely related to the medicinal species of Europe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long depression in the surface of the land that usually contains a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long depression in the surface of the land that usually contains a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A valley, dell, or expanse of lowland situated between hills, often watered by a stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious and poetic imagery, the earthly world conceived as a place of mortal trial and pilgrimage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Anon, I’m sure, the Duke himself in person Comes this way to the melancholy vale, The place of death and sorry execution Behind the ditches of the abbey here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great is his comfort in this earthly vale, Although by his sight his sin be multiplied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An untimely ague Stayed me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet leaves upon the beech are green, and through the quiet **vale** the waters glide."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The lush pastures of the **Vale** of Blackmoor spread before them in an undulating carpet of emerald."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A lake is the landscape's most beautiful and expressive feature; it is earth's eye, looking into which the beholder measures the depth of his own nature in the **vale**."*

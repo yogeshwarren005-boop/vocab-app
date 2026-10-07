@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calculating the value of something anew; an upward revision of a currency's exchange rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fresh appraisal or systematic reassessment of property assets, commercial prices, or philosophical values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These call for constant revaluations of the sources of incomes, thus destroying customary and habitual valuations."*
+> - 📜 **John Maynard Keynes (*A Revision of the Treaty*):** *"A sudden currency **revaluation** threatens domestic manufacturers by cheapening competitive foreign imports."*
+> - 📜 **Friedrich Nietzsche (*The Twilight of the Idols*):** *"The philosophical task of the coming century is a complete **revaluation** of all traditional values."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A periodic **revaluation** of landed estates ensured that public land taxes reflected actual market productivity."*

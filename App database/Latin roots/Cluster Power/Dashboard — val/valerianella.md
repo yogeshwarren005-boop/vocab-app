@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world annual herbs widely naturalized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world annual herbs widely naturalized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of small annual herbs in the honeysuckle family, including lamb's lettuce or corn salad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temperate edible salad herb producing tender spatulate basal leaves and tiny pale-blue or white floral cymes in early spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valerianella designates genus of old world annual herbs widely naturalized."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Valerianella** includes low annuals with forked stems and dense clusters of bracted blossoms."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Leaves of **Valerianella** have been cultivated across European kitchen gardens since medieval times under the name corn-salad."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"In wild cornfields, **Valerianella** olitoria carpets the furrows before the taller wheat germinates."*

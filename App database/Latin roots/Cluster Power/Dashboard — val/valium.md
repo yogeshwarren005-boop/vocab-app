@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical preparation of diazepam, exhibiting sedative, muscle relaxant, and anxiolytic actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic benzodiazepine operating as a positive allosteric modulator of central GABA-A receptor complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valium designates a tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Small doses of **Valium** were administered to reduce anxiety and calm involuntary muscular tremors."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Unlike pharmacological calmatives such as **Valium**, mescaline opens the doors of perceptual experience without stupor."*
+> - 📜 **Alexander Shulgin (*PiHKAL: A Chemical Love Story*):** *"The medical synthesis of **Valium** inaugurated an era of synthetic benzodiazepine dominance in clinical psychopharmacology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of malta; located on the northeastern coast of the island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of malta; located on the northeastern coast of the island.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic capital city and chief port of the Mediterranean island nation of Malta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grand fortified citadel built by Grand Master Jean Parisot de Valette after the Great Siege of 1565.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valletta designates the capital of malta; located on the northeastern coast of the island."*
+> - 📜 **Walter Scott (*The Siege of Malta*):** *"From the high bastions of **Valletta**, the knights commanded the entrance of the Grand Harbour against Ottoman galleys."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"The palaces and narrow streets of **Valletta** presented a scene of perpetual military bustle and maritime life."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"The stately Baroque facades of **Valletta** recall the chivalric splendour of the sovereign Order of Saint John."*

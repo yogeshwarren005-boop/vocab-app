@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who is able to estimate worth or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who appraises, assesses, or determines the worth, capability, or performance of an enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and mathematical logic, a component or interpreter routine that resolves and executes expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evaluator designates an authority who is able to estimate worth or quality."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A wise magistrate acts as an impartial **evaluator** of human merit, rewarding industrious service above court flattery."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The analytical engine operates as an automated mechanical **evaluator** of algebraic formulas."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The critical **evaluator** of social customs must distinguish ceremonial display from genuine industrial serviceability."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great courage, bravery, and boldness in the face of danger, especially in battle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrepid personal fortitude and noble steadfastness displayed in moral or physical struggle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But were the coming narrative to reveal, in any instance, the complete abasement of poor Starbuck’s fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valor in the soul."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"True **valor** consists in being a champion for justice against the clamour of reigning factions."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every man is the builder of a temple, called his body, to the god he worships; nor can he get off by hammering marble instead; we are all sculptors and painters, and our material is our own flesh and blood and **valor**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The reckless **valor** of the harpooner matched the ferocious fury of the wounded leviathan."*

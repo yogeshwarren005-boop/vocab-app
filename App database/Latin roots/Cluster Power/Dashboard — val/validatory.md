@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to validate, confirm, ratify, or make legally and evidentially sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing corroborative proof, experimental verification, or authoritative authentication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validatory designates serving to support or corroborate."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The testimony of an uninterested eyewitness affords strong **validatory** support to documentary evidence."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The repetition of astronomical calculations by mechanical tables supplied **validatory** checks against human error."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Repetition of sensory experience provides the **validatory** foundation for perceptual beliefs."*

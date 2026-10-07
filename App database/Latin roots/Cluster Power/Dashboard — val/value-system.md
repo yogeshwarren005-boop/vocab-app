@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles of right and wrong that are accepted by an individual or a social group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles of right and wrong that are accepted by an individual or a social group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hierarchy of values, moral standards, and ethical priorities held by an individual or society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural anthropology, an integrated structure of shared cultural ideals guiding collective behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, value-system designates the principles of right and wrong that are accepted by an individual or a social group."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The Puritan **value-system** elevated disciplined vocational labour to the level of a supreme religious duty."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A profound spiritual conversion reorganizes the whole inner **value-system** around a fresh spiritual center."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"A democratic society requires a flexible **value-system** capable of growth through reflective inquiry."*

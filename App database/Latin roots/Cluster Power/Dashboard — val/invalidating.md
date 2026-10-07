@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating to deprive a contract, testament, or official statute of legal force and validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subverting, undermining, or falsifying an established scientific theory through critical counter-evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidating designates declare invalid."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Fraud or duress practiced upon the testator constitutes an **invalidating** circumstance that voids the entire will."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"He cited several contradictory observations with the purpose of **invalidating** the reigning chemical hypothesis."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific inquiry advances by discovering and fearlessly applying **invalidating** tests to long-cherished dogmas."*

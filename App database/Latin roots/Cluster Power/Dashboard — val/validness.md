@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having legal force or effectiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having legal force or effectiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being valid; legal soundness, efficacy, or cogency in argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The logical coherence and evidential firmness that render an argument or judgment unassailable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validness designates the quality of having legal force or effectiveness."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The **validness** of a penal statute depends upon its manifest proportion to the mischief it suppresses."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind perceives the **validness** of mathematical demonstrations with intuitive certainty."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The **validness** of our primary concepts is tested by their universal harmonization with observed nature."*

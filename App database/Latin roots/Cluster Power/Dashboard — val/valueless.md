@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of no value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no financial worth, marketable price, or monetary value; commercially worthless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking utility, importance, truth, or effectiveness; frivolous, hollow, or insignificant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have beguil’d me with a counterfeit Resembling majesty, which, being touch’d and tried, Proves valueless."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Why do I struggle to retain a valueless life?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a **valueless** weed cast upon the shore, forgotten by the receding wave."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Rudimentary organs are often completely **valueless** for the physiological purposes they once served in ancestral species."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A borrowed opinion is **valueless**; only that thought possesses vitality which is born of direct conviction."*

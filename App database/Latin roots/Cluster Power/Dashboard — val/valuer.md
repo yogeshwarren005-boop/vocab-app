@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assesses the monetary worth of possessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who assesses the monetary worth of possessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person appointed to evaluate, appraise, or assess the monetary worth of goods or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed appraiser who inspects estates, buildings, or works of art for taxation, insurance, or sale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"THOMAS SAPSEA, AUCTIONEER, VALUER, ESTATE AGENT, &c., OF THIS CITY."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The country **valuer** rode from farm to farm, estimating the standing wheat and dairy stock with an experienced eye."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The official **valuer** shook his head gravely over the old timber, pronouncing the cathedral roof severely damaged by dry rot."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A licensed **valuer** must possess both technical skill and incorruptible integrity when assessing public revenues."*

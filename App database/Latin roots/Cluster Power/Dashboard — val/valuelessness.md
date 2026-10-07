@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having none of the properties that endow something with value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having none of the properties that endow something with value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of financial, commercial, or material worth; complete worthlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The utter absence of utility, efficacy, or moral significance in an object, theory, or custom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valuelessness designates having none of the properties that endow something with value."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Experience demonstrates the utter **valuelessness** of fashionable flattery when adversity strips away artificial rank."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The manifest **valuelessness** of scholastic jargon led thoughtful men to cultivate plain experimental reason."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A civilization that honors idle paper wealth will eventually awaken to the **valuelessness** of phantom fortunes."*

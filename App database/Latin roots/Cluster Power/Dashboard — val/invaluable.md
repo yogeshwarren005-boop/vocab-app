@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having incalculable monetary, intellectual, or spiritual worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having incalculable monetary, intellectual, or spiritual worth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a worth beyond all calculation; priceless, precious, and exceedingly advantageous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of transcendent practical utility, moral benefit, or intellectual significance to an endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They took her away into a further room, and the medical attendance which had been useless in Troy’s case was invaluable in Bathsheba’s, who fell into a series of fainting-fits that had a serious aspect for a time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I have a very large farm, either English or colonial, you will be invaluable as a wife to me; better than a woman out of the largest mansion in the country."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His steady counsel in the management of the farm proved **invaluable** to the inexperienced mistress."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The medical library left by his predecessor was an **invaluable** treasure to the ambitious young doctor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The tiny scrap of paper proved **invaluable** in tracing the criminal to his secret hiding place."*

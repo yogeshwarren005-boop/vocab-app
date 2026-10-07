@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing, showing, or characterized by valor; courageous, brave, and intrepid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting heroic resolution, chivalric fortitude, or gallant conduct in combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He gives you upon his knees, a thousand thanks; and he esteems himself happy that he hath fallen into the hands of one, as he thinks, the most brave, valorous, and thrice-worthy _seigneur_ of England."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had no wife, no child; had achieved no valorous unselfish deed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A **valorous** gentleman, of ancient lineage and renowned fortitude in the field."*
+> - 📜 **James Joyce (*Ulysses*):** *"He indulged in romantic reveries of **valorous** knights riding forth to rescue captive maidens."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The old general retained the **valorous** heart of a soldier beneath his modest country attire."*

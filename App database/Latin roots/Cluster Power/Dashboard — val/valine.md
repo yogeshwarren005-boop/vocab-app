@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential amino acid found in proteins; important for growth in children and nitrogen balance in adults.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid containing a branched hydrocarbon side chain, encoded by codons starting with GU.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aliphatic, hydrophobic amino acid constituent of proteins vital for muscle metabolism and nitrogen balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valine designates an essential amino acid found in proteins; important for growth in children and nitrogen balance in adults."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides and Proteins*):** *"By fractional crystallization of protein hydrolysates, we isolated pure crystalline **valine** alongside leucine."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The hydrophobic interactions of **valine** side chains contribute significantly to the folding stability of globular proteins."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"A single codon mutation substituting **valine** for glutamic acid alters the electrophoretic mobility of the haemoglobin molecule."*

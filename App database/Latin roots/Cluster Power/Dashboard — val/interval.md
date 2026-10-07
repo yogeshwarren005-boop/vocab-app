@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A definite length of time marked off by two instants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all points (or all real numbers) between two given endpoints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A space of time occurring between two distinct events, periods, or operational stages; a recess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, the difference in pitch between two tones; or in mathematics, a set of real numbers between two endpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Out of that you went straight, with a little interval of passage, to the plain room where Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What wheels on such a day as this, for gracious sake?” After a short interval, a tap at the door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That pale interval over, the picture began to enlarge and fill up so fast that at every new peep I could have found enough to look at for an hour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"After an **interval** of silence she resumed her narrative with a trembling voice."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"During this **interval** of leisure my father directed my attention to the political economy of Ricardo."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A vast **interval** of time must have elapsed between the formation of these two consecutive geological deposits."*

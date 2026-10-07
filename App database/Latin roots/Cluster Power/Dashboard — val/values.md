@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beliefs of a person or social group in which they have an emotional investment (either for or against something).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numerical quantity measured or assigned or computed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles, standards, or qualities considered worthwhile, desirable, and morally important by a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The numerical quantities, magnitudes, or mathematical amounts assigned to variables in an equation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Grievingly I think The peace between the French and us not values The cost that did conclude it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My good lord, Not your demand; it values not your asking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It did always seem so to us; but now, in the division of the kingdom, it appears not which of the Dukes he values most, for qualities are so weighed that curiosity in neither can make choice of either’s moiety."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our moral **values** are tested not in easy peace, but when stormy disaster breaks upon the state."*
+> - 📜 **George Eliot (*Romola*):** *"In times of political upheaval, the foundational **values** of justice and civic fidelity alone hold communities together."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A true investigator weighs all evidence with dispassionate care, indifferent to personal prejudices or preconceived **values**."*

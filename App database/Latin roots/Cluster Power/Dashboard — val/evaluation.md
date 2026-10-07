@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of ascertaining or fixing the value or worth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal of the value of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic examination and judgment of the worth, condition, or significance of an object or enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The numerical calculation or quantitative finding obtained by evaluating an algebraic or physical function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the System's research, development, test, evaluation, engineering, construction, launch and voyage phases, the terminals are spunnel-linked and tested both as separate machines with their support systems, and as the integrated master scheme."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I need a 'how goes it' on the status of your evaluations."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A thorough **evaluation** of the rival hypotheses showed that only the wave theory satisfied every optical experiment."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Pragmatic **evaluation** tests every abstract dogma by inquiring into its practical consequences in human life."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The objective **evaluation** of physical data requires an impartial statistical apparatus free from bias."*

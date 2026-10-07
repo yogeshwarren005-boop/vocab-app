@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of validating; finding or testing the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process of establishing a valid proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making legally valid, officially sanctioned, or binding; ratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic confirmation, corroboration, or empirical proof of the soundness of a theory or instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validation designates the act of validating; finding or testing the truth of something."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional **validation** of federal treaties elevates them to the supreme law of the land."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The final **validation** of a physical hypothesis depends on its ability to predict unforeseen phenomena."*
+> - 📜 **John Dewey (*Theory of Valuation*):** *"The intellectual **validation** of human desires occurs when their practical consequences are critically assessed."*

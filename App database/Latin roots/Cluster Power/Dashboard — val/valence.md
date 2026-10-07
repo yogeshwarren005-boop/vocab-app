@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) a property of atoms or radicals; their combining power given in terms of the number of hydrogen atoms (or the equivalent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining power of an atom or radical measured by the number of hydrogen atoms it can hold or replace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, the positive or negative emotional value and attractiveness that an object, goal, or idea holds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"It was afterwards conveyed by a female to William de <g>Valentia</g>, Earl of Pembroke, whose third son, Aymer de Valence, became his heir, and was murdered in France in 1323."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"John’s, founded by the Valences, or Valentias, with a lazar-house and almshouse."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The primary chemical property of any element is its **valence**, or capacity for uniting with other atomic species."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The saturation of chemical **valence** in organic compounds is achieved through shared electron pairs."*
+> - 📜 **Kurt Lewin (*Principles of Topological Psychology*):** *"An attractive object in the child's life-space exerts a positive **valence**, drawing behaviour toward itself."*

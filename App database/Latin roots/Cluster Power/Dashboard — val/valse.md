@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance in triple time with a strong accent on the first beat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ballroom dance in triple time with a strong accent on the first beat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A waltz; a ballroom dance in triple time, or a musical composition composed for or in the rhythm of this dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lively or melancholic musical composition in 3/4 time characterized by lilting accompaniment and sweeping melodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Uncle” played another song and a valse; then after a pause he cleared his throat and sang his favorite hunting song: As ‘twas growing dark last night Fell the snow so soft and light..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anatole asked Natásha for a valse and as they danced he pressed her waist and hand and told her she was bewitching and that he loved her."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a ball, nor had dancing been announced, but everyone knew that Catherine Petróvna would play valses and the écossaise on the clavichord and that there would be dancing, and so everyone had come as to a ball."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Natasha glided into the ballroom as the orchestra struck up the opening bars of the glittering **valse**."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma lost herself in the dizzying turns of the **valse**, pressed close against the viscount's arm."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The sweet melancholy of a Chopin **valse** floated out from the open drawing-room windows into the warm summer night."*

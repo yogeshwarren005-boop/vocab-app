@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The french defeated the austrian and prussian troops in 1792 (with a famous cannonade from the french artillery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The french defeated the austrian and prussian troops in 1792 (with a famous cannonade from the french artillery).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A village in northeastern France famous for the 1792 battle where Revolutionary French forces halted the Prussian army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decisive turning point in European history where French cannonades saved the nascent Republic and transformed warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valmy designates the french defeated the austrian and prussian troops in 1792 (with a famous cannonade from the french artillery)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"At **Valmy**, the cannonade of Kellermann's raw volunteers arrested the disciplined march of the Duke of Brunswick."*
+> - 📜 **Johann Wolfgang von Goethe (*Campagne in Frankreich*):** *"From this place and this day at **Valmy** dates a new epoch in the history of the world, and you can say you were there."*
+> - 📜 **Edward Creasy (*The Fifteen Decisive Battles of the World*):** *"The cannonade of **Valmy** was not a mere tactical skirmish, but the birth-struggle of democratic national arms."*

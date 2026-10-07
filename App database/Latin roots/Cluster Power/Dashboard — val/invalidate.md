@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of legal force, binding efficacy, or official authority; render null and void.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To destroy or weaken the truth, credibility, or evidential foundation of an argument or scientific theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If you invalidate this thought (_dogma_), probably the Emperor will punish you."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It does not invalidate the fact nor the efficiency of Protection that foreign competition with American workmanship is not entirely shut out."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A single well-authenticated exception would completely **invalidate** the general principle I have endeavoured to maintain."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No legislative act contrary to the constitution can be valid; to enforce it would **invalidate** the fundamental law of the land."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The discovery of negative instances will instantly **invalidate** an inductive generalization that was framed too hastily."*

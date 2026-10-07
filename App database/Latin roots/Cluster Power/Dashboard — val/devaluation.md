@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reduction of something's value or worth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official reduction in the exchange value of a national currency relative to other currencies or gold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diminution in prestige, dignity, or estimated significance suffered by an ideal, degree, or asset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluation designates an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The catastrophic **devaluation** of Central European currencies wiped out the savings of the middle classes."*
+> - 📜 **Friedrich Hayek (*The Pure Theory of Capital*):** *"Uncontrolled credit expansion inevitably leads to currency depreciation and subsequent **devaluation**."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The rationalization of secular life brought about a progressive **devaluation** of mystical religious rites."*

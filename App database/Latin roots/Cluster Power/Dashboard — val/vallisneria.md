@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eelgrass; eel grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eelgrass; eel grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of submerged freshwater aquatic plants commonly known as eelgrass or tape grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dioecious hydrophyte notable for releasing detached staminate blossoms to float across surface waters to pistillate flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vallisneria designates eelgrass; eel grass."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The remarkable pollination mechanism of **Vallisneria** exemplifies adaptation for transferring pollen across the water surface."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In **Vallisneria**, the pistillate flower is borne on a long coiled stem that contracts to ripen its fruit underwater."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Microscopic examination of **Vallisneria** leaves demonstrates continuous cytoplasmic streaming within living epidermal cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of malta; located on the northeastern coast of the island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of malta; located on the northeastern coast of the island.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fortified historic capital city and seaport of Malta, founded on Mount Sceberras by the Knights of Saint John.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategic deepwater naval harbor in the central Mediterranean renowned for its monumental bastions and Baroque architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valetta designates the capital of malta; located on the northeastern coast of the island."*
+> - 📜 **Walter Scott (*The Siege of Malta*):** *"The ramparts of **Valetta** arose like cliffs of golden sandstone above the sparkling blue waters of the Grand Harbour."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Adieu, ye joys of La **Valetta**! Adieu, sirocco, sun, and sweat, and steps that wear the traveller's feet!"*
+> - 📜 **William Makepeace Thackeray (*Notes of a Journey from Cornhill to Grand Cairo*):** *"The massive fortifications of **Valetta** looked impregnable enough to withstand the assaults of all the navies of the world."*

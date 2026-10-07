@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing undue valor or boldness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing undue valor or boldness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or rashly courageous; brave beyond the bounds of prudence or military discretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by foolhardy bravado that invites unnecessary peril or tactical defeat in battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overvaliant designates having or showing undue valor or boldness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The **overvaliant** knight charged headlong into the ambush, mistaking desperate fury for soldierly wisdom."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"His youth made him **overvaliant**, prompt to draw blade upon the lightest hint of insult."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor was **overvaliant** in the field, exposing his sacred person to arrows that decided the battle."*

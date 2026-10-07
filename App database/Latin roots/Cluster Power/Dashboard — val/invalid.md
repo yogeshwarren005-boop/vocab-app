@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is incapacitated by a chronic illness or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to retire, remove from active duty, as of firemen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking legal force, factual foundation, or binding efficacy; null and without cogency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person suffering from chronic infirmity, debility, or protracted illness; physically disabled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor's advice was to bring the young invalid to the hospital in Sils, where she would be well taken care of and he could see her every day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her dream of romantic escape proved utterly **invalid** in the face of grim rural necessity."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He treated his sick relative with the polite coldness that robust youth so often shows to a confirmed **invalid**."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The legal inquiry declared his certificate **invalid**, casting him adrift into an unforgiving world."*

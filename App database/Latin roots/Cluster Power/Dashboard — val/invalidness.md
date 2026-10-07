@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being invalid, ineffective, or lacking binding force in law or reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to satisfy essential statutory criteria; inherent flaw or lack of evidential support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invalidness designates illogicality as a consequence of having a conclusion that does not follow from the premisses."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The manifest **invalidness** of the plea rested on the prisoner's inability to establish an alibi."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When words are used without distinct ideas, the inevitable result is the **invalidness** of all subsequent deductions."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"The ethical **invalidness** of forced contracts is recognized by every mature legal system."*

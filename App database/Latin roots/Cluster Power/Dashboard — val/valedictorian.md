@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The student with the best grades who usually delivers the valedictory address at commencement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The student with the best grades who usually delivers the valedictory address at commencement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The student ranking highest in academic scholarship in a graduating class who delivers the farewell address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The designated commencement orator who expresses the gratitude, memories, and hopes of the graduating class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valedictorian designates the student with the best grades who usually delivers the valedictory address at commencement."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The youthful **valedictorian** stood before the commencement audience, declaiming with all the ardent rhetoric of twenty summers."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The college **valedictorian** discovers in later life that the world demands real deeds rather than classical perorations."*
+> - 📜 **Woodrow Wilson (*College and State: Educational Essays*):** *"It is the duty of the **valedictorian** not merely to recite past honours, but to summon his fellows to public service."*

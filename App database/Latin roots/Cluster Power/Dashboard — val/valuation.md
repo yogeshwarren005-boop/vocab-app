@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assessed price.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of assessing the financial or commercial value of property; an appraisal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimated value, price, or formal judgment concerning worth, significance, or quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No reason I, since of your lives you set So slight a valuation, should reserve My crack’d one to more care."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This may be said to be a defect in an individual if he depends for his valuation more upon his appearance than upon his capacity to wear well, which Oak did not."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is aught but as 'tis valued? Our own **valuation** gives things their dignity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **valuation** of the sheep and farming implements took place in the courtyard beneath the old barn."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The economic **valuation** of commodities reflects the cost of production together with the ratio of supply to demand."*

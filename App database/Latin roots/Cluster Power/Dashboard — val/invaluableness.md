@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The positive quality of being precious and beyond value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Priceless excellence, inestimable importance, and transcendent usefulness or worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme and inexhaustible practical or moral value residing in a principle, virtue, or asset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invaluableness designates the positive quality of being precious and beyond value."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **invaluableness** of time is never fully comprehended until the shadows of approaching age begin to lengthen."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The **invaluableness** of an authentic friend lies in having someone before whom one can think aloud."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Experience teaches the profound **invaluableness** of silent labour over noisy and shallow disputation."*

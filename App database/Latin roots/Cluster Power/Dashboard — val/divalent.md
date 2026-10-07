@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of two or having two valences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of two or having two valences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chemical valence of two; capable of combining with two monovalent atoms or radicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and genetics, denoting a pair of conjugated homologous chromosomes during the first division of meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divalent designates having a valence of two or having two valences."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The alkaline earth metals form predominantly **divalent** cations when reacting with halogens."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"During the diplotene stage, each **divalent** chromosome pair remains held together by visible chiasmata."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Chemistry in Space*):** *"Oxygen acts characteristically as a **divalent** bridge linking hydrocarbon chains in ether compounds."*

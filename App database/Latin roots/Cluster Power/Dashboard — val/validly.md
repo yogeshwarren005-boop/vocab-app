@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With validity; in a valid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With validity; in a valid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a valid, legally effective, or officially authoritative manner; with sound justification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic, in conformity with principles of sound deductive reasoning and necessary inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, validly designates with validity; in a valid manner."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"We cannot **validly** infer a universal rule from an examination of a single unanalyzed case."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A testator must be of sound mind and memory in order to **validly** devise his real property."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The promissory note was **validly** endorsed and negotiated before its maturity date."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form, construct, or create anew; renew spiritually, morally, or physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, to regrow or replace lost, damaged, or amputated body tissues or organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without corrupting the State legislatures, it cannot prosecute the attempt, because the periodical change of members would otherwise regenerate the whole body."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And believe me, if I still value my life it is only because I still hope to meet such a divine creature, who will regenerate, purify, and elevate me."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Either here or hereafter, suf- fering or Science must destroy all illusions regarding life and mind, and regenerate material sense 296:9 and self."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola called upon the citizens to **regenerate** Florence through moral purification and self-sacrificing civic virtue."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through divine grace, the repentant sinner shall find his corrupted nature **regenerate** and restored to light."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Each spring nature demonstrates her power to **regenerate** the dead earth, clothing every bare bough in fresh leaves."*

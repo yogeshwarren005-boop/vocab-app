@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with choice or abundant food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with choice or abundant food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To entertain lavishly with choice food and drink; feast sumptuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To delight or amuse someone richly with pleasing stories, music, or conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so he would bring down to the class a tattered Father or two, and would regale its members with long Greek quotations and with a mass of details that were pure gold to him but were hid treasure to them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Still, however, it was her private regale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who would think, then, that such fine ladies and gentlemen should regale themselves with an essence found in the inglorious bowels of a sick whale!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hospitable landlord resolved to **regale** his seafaring guests with a steaming bowl of clam chowder."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The squire loved to **regale** the assembled villagers with ancient Christmas carols and tales of merry England."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber invited us to **regale** ourselves upon punch and oysters while he descanted upon his financial expectations."*

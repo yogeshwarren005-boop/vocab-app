@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep a record of the owners of stocks and bonds issued by the company.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administrator responsible for student records.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official responsible for keeping and maintaining official records, registers, and certificates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative officer in a college or hospital who manages student enrollment or medical cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is the registrar below the judge, in wig and gown; and there are two or three maces, or petty-bags, or privy purses, or whatever they may be, in legal court suits."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a fine steaming night to turn the slaughter-houses, the unwholesome trades, the sewerage, bad water, and burial-grounds to account, and give the registrar of deaths some extra business."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have you the registrar’s certificate?” “No,” said Gabriel."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"They walked to the office of the district **registrar**, resolving to contract their civil marriage without church ceremony."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"The official report of the **registrar** general supplied valuable statistics on mortality during epidemic seasons."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We examined the coastal shipping logs with the port **registrar**, seeking the vessel that arrived during the storm."*

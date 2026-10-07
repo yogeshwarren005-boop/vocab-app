@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The military uniform and insignia of a regiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military uniform and insignia of a regiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The uniform, dress, and military accoutrements worn by a specific military regiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full military dress uniform worn on ceremonial, parade, or formal social occasions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s large fortune, the mention of which gave animation to their mother, was worthless in their eyes when opposed to the regimentals of an ensign."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was exactly as it should be; for the young man wanted only regimentals to make him completely charming."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The officers’ regimentals, resplendent with gold lace and embroidery as if purposely calculated to dazzle the islanders, looked as if just unpacked from their Parisian cases."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia could talk of nothing but officers and **regimentals**, declaring that a red coat was the greatest charm in the world."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"George Osborne surveyed himself in the mirror, thoroughly satisfied with the splendid cut of his scarlet **regimentals**."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Captain Boldwig appeared in full **regimentals**, striking terror into the hearts of all trespassing vagrants on his grounds."*

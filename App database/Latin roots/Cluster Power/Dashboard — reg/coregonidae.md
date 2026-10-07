@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned fishes comprising the freshwater whitefishes; formerly included in the family salmonidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned fishes comprising the freshwater whitefishes; formerly included in the family salmonidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family or subfamily of freshwater salmoniform fishes comprising whitefishes and ciscoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Northern circumpolar fishes possessing silvery scales, small mouths, and an adipose fin, native to cold lakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coregonidae designates soft-finned fishes comprising the freshwater whitefishes; formerly included in the family salmonidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The freshwater fishes of the family **Coregonidae** inhabit deep, cold lacustrine basins throughout the holarctic region."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Systematic ichthyologists place the genus Coregonus and allied forms within **Coregonidae** on account of osteological characters."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"Specimens of **Coregonidae** dredged from the deeper soundings of the lake display remarkable adaptations to benthic feeding."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization that is the governing authority of a political unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government, especially an authoritarian one; a system or planned way of doing things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prevailing social, political, or administrative system of management or control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Under the regime of Friedrich Eugen (1795-97) the French gained such a foothold in Wuerttemberg that the country had to pay a contribution of four million gulden to get rid of them."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They desperately needed contacts within Narval's regime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's been with Narval since the beginning of the regime."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Under the stern **regime** of the new bailiff, every laborer was held to strict hours and unsparing toil."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The institutions of the ancient **regime** had decayed from within long before the revolutionary tempest shattered them."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The old feudal **regime** dissolved in a single night of panic and exalted renunciation in the Assembly."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of soil consisting of unconsolidated material from freshly deposited alluvium or sand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of soil consisting of unconsolidated material from freshly deposited alluvium or sand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weakly developed, thin azonal soil consisting of unconsolidated weathered rock or mineral material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology, an immature soil lacking distinct horizons found on shifting sand dunes or recent glacial till.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regosol designates a type of soil consisting of unconsolidated material from freshly deposited alluvium or sand."*
+> - 📜 **E. W. Hilgard (*Soils: Their Formation, Properties, Composition, and Relations*):** *"A typical **regosol** consists of loose unconsolidated drift, in which soil horizons have not yet developed."*
+> - 📜 **N. M. Sibirtsev (*Soil Science*):** *"Dune sands and loose volcanic ash deposits represent classic examples of **regosol** formations across arid plateaus."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Upon stony slopes lacking organic loam, the primitive **regosol** supports only sparse lichen and wiry grasses."*

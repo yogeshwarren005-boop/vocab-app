@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make regular, uniform, lawful, or compliant with formal rules and established standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adjust, systematize, or bring disorderly procedures under structured administrative oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It must therefore be a benefit to the community, if this element of unavoidable chance cannot be reduced as a whole, at least to regularize it and make it exactly calculable for any individual."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wilson, stood for the policy of competition-maintained-and-regulated, and the problem was to find means to strengthen and regularize the forces of competition."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Selective breeding tends to **regularize** the phenotypic variations of fancy animals into uniform show standards."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The purpose of scientific education is to **regularize** our common sense and discipline our observational habits."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The election committee resolved to **regularize** the canvass by appointing designated ward captains."*

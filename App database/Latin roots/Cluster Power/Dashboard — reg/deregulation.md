@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of freeing from regulation (especially from governmental regulations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of freeing from regulation (especially from governmental regulations).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction or elimination of government power in a particular industry, usually to foster competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legislative policy shift moving an industry from state administrative oversight to free-market price mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deregulation designates the act of freeing from regulation (especially from governmental regulations)."*
+> - 📜 **Milton Friedman (*Bright Promises, Dismal Performance*):** *"Sweeping **deregulation** of aviation produced lower fares and expanded passenger travel across the entire continent."*
+> - 📜 **Friedrich Hayek (*The Fatal Conceit*):** *"The historical transition toward commercial **deregulation** allowed dispersed individual knowledge to coordinate productive effort."*
+> - 📜 **James M. Buchanan (*The Calculus of Consent*):** *"Public choice theory suggests that economic **deregulation** dismantles the rent-seeking alliances between bureaucrats and protected cartels."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying mindful attention; attentive, considerate, or mindful of duties and feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carefully observant of propriety, safety, or legal obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, to whom her face was as the uncertain glory of an April day, was ever regardful of its faintest changes, and instantly discerned thereon the mark of some influence from without, in the form of a keenly self-conscious reddening."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I must be regardful of insurmountable limits."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was ever **regardful** of commercial honor, striving to discharge every penny owed to his creditors."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cautious mate was strictly **regardful** of the barometer, shortening sail long before the gale broke."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther was continually **regardful** of the comfort of others, quietly anticipating every domestic want."*

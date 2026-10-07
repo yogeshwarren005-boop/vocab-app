@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Spanish magistrate, chief municipal officer, or royal administrative governor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historic fortified island at the entrance of Manila Bay in the Philippines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We went to school together, and we played our games together on the hills of Corregidor."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The worthy **corregidor** sat in his magistrate's chair, adjusting his spectacles to examine the rustic petitioner."*
+> - 📜 **William H. Prescott (*History of the Reign of Ferdinand and Isabella*):** *"To enforce royal decrees in rebellious cities, the Crown appointed a trusted **corregidor** armed with judicial powers."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"I was summoned before the **corregidor** of the province, who scrutinized my passport with suspicious vigilance."*

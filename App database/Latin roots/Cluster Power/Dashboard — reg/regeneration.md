@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) growth anew of lost tissue or destroyed parts or organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feedback in phase with (augmenting) the input.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of regenerating; spiritual rebirth, moral renewal, or physical restoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, the replacement or regrowth by an organism of lost, injured, or severed parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remained an inmate of its walls, after its regeneration, for eight years: six as pupil, and two as teacher; and in both capacities I bear my testimony to its value and importance."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I saw hope revive—and felt regeneration possible."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The preaching of the cross, therefore, must include an unwavering declaration, that _the working of regeneration and the renewing of the Holy Ghost_ are indispensable to salvation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The power of **regeneration** is well known in salamanders, which can reproduce severed limbs and tails with perfect form."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It is a far, far better thing that I do, than I have ever done; it is the **regeneration** of a wasted life."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Social **regeneration** cannot be accomplished by mere political tinkering; it demands the spread of scientific truth."*

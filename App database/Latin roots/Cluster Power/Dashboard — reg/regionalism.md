@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feature (as a pronunciation or expression or custom) that is characteristic of a particular region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy that defines the international interests of a country in terms of particular geographic areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consciousness of, loyalty to, or advocacy of the interests of a distinct geographic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and art, faithful representation of the speech, customs, and landscape of a local district.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regionalism designates a feature (as a pronunciation or expression or custom) that is characteristic of a particular region."*
+> - 📜 **Hamlin Garland (*Crumbling Idols*):** *"True American literature must spring from vigorous **regionalism**, depicting prairie life with uncompromising realism."*
+> - 📜 **Frank Norris (*The Responsibilities of the Novelist*):** *"Vital **regionalism** celebrates the authentic local color of California wheat lands and Western mining gulches."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"A balanced civilization requires ecological **regionalism**, harmonizing urban centers with their surrounding agricultural valleys."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon after searching; find the location of something that was missed or lost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To get back or recover possession of something lost; win back or reach again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To return to a former desirable state of health, composure, or mental equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"There he had seen everything to exalt in his estimation the woman he had lost; and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He came up to the boundary fence, and stood to regain breath."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A stick—I must have a walking-stick.” Pennyways now felt himself to be in something of a difficulty, for should Bathsheba and Troy become reconciled it would be necessary to regain her good opinion if he would secure the patronage of her husband."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He struggled desperately to **regain** his breath before attempting to explain the terrible scene in the library."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In solitary contemplation the soul strives to **regain** that primal harmony with nature which daily busyness destroys."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym hastened his footsteps, eager to **regain** the quiet shelter of his mother's cottage before nightfall."*

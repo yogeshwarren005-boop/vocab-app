@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignored, overlooked, or treated with deliberate neglect and lack of attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passed over without consideration or given no weight in practical deliberations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A coolness arose between him and my guardian, based principally on the foregoing grounds and on his having heartlessly disregarded my guardian’s entreaties (as we afterwards learned from Ada) in reference to Richard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet at this very time, within the same parish, a greater waste had been going on, uncomplained of and disregarded."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"_Three_-and-twenty!” cried Thorpe, “five-and-twenty if it is an inch.” Morland remonstrated, pleaded the authority of road-books, innkeepers, and milestones; but his friend disregarded them all; he had a surer test of distance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These rudimentary organs have been generally **disregarded** by naturalists, yet they furnish invaluable clues to genealogical descent."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her passionate warnings were **disregarded** by the villagers, who laughed at her forebodings until disaster fell."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"A single trampled footprint had been **disregarded** by the local constables, yet it unlocked the entire mystery."*

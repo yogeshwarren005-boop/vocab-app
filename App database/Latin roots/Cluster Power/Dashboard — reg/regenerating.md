@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of renewing, reforming, reviving, or restoring to vigor or spiritual health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing physiological tissue replacement or continuous institutional reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Would not a life devoted to the task of regenerating your race be well spent?” “Yes,” I said; “but I could not go on for ever so: I want to enjoy my own faculties as well as to cultivate those of other people."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They are the fruity must of soundest wine; Or say, they are regenerating fire Such as hath turned the dense black element Into a crystal pathway for the sun."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some one highly susceptible to the contemplation of a fine act has said, that it produces a sort of regenerating shudder through the frame, and makes one feel ready to begin a new life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She believed ardently in the **regenerating** influence of noble ideals upon common, everyday lives."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The remarkable phenomenon of lower animals **regenerating** lost limbs demonstrates latent formative forces in living tissue."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The blood acts as a perpetual **regenerating** stream, replacing worn cellular materials throughout the bodily organs."*

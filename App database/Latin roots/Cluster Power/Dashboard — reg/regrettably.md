@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By bad luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By bad luck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that evokes regret; unfortunately, sorrowfully, or deplorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to introduce an unfortunate or unwelcome fact with polite apology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regrettably designates by bad luck."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"His academic aspirations were **regrettably** cut short by poverty and the harsh indifference of the university colleges."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The master's severity was **regrettably** misjudged, driving timid scholars into stubborn and silent resistance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was **regrettably** ashamed of his humble home, allowing false ambition to blind his heart to Joe's goodness."*

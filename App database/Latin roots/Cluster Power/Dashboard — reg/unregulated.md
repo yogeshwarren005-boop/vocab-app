@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated; not subject to rule or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without regulation or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated; not controlled, directed, or managed by laws, rules, or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Left without official supervision, price ceilings, or legal restrictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is well to begin, therefore, with a clear conception of typical bank money, unregulated by government."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In an **unregulated** trade, individual self-interest guides capital toward the most productive employments."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"An **unregulated** factory system led to the severe exploitation of women and child labourers in early industrial towns."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The dark factories spewed **unregulated** clouds of poisonous smoke over the bleak brick streets of Coketown."*

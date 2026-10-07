@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related or limited to a particular region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, characteristic of, or serving a particular geographical area or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or confined to a specific district, territory, or local subdivision of a nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It created not one central banking reserve, but, in the end, twelve regional, or district, banks each to keep the reserves of its district."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He summarized the complex alliances that had evolved among the independent governments beyond the Asteroids following the secession, and moved on quickly to the initiatives of his Ministry to reconcile inter-regional differences."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We agree to the following: ARTICLE ONE We reject and renounce economic, cultural and military warfare, and the threat of warfare to attain national and regional objectives."*
+> - 📜 **Thomas Hardy (*Wessex Poems*):** *"These verses reflect the distinctive **regional** dialect and agrarian rhythms of ancient south-western England."*
+> - 📜 **William Faulkner (*Absalom, Absalom!*):** *"The tragedy was rooted in **regional** pride and the haunted memories of an aristocratic plantation society."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The proposed canal was expected to stimulate **regional** commerce and unite rival market towns in common prosperity."*

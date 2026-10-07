@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the regulations on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift the regulations on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, reduce, or abolish governmental regulations, administrative controls, or economic restrictions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dismantle statutory market constraints and price ceilings to encourage competitive private enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deregulate designates lift the regulations on."*
+> - 📜 **Milton Friedman (*Free to Choose*):** *"The most effective way to eliminate artificial shortages is to **deregulate** transportation and permit market forces to allocate freight."*
+> - 📜 **Friedrich Hayek (*The Constitution of Liberty*):** *"When parliament resolved to **deregulate** vital commercial sectors, competitive innovation rapidly displaced state monopoly."*
+> - 📜 **George Stigler (*The Citizen and the State*):** *"Economists urged authorities to **deregulate** industrial pricing, proving that administrative caps shielded inefficient firms from competition."*

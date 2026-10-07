@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricting according to rules or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting according to rules or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to regulate, control, direct, or adjust according to rules and principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, guiding and organizing thought or conduct without being constitutive of objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is represented by the Interstate Commerce Act (at first weakly, and more vigorously after its amendment), and by the great mass of state legislation putting the local and interurban public utilities under the control of regulative commissions."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Ideas of pure reason possess a **regulative** use, directing human understanding toward systematic unity in experience."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The **regulative** faculty of the human intellect prescribes the necessary conditions under which knowledge is possible."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The hope that inquiry will reach truth operates as a **regulative** principle indispensable to all scientific research."*

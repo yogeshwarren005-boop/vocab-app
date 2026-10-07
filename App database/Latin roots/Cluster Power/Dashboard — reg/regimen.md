@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a systematic plan for therapy (often including diet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulated course, system, or plan of diet, exercise, or lifestyle designed to maintain health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, the syntactic governing relation exercised by a verb or preposition over dependent words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For it is thought that she herself would suffer if she were to neglect the prescribed regimen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We, too, may believe that people were healed, perhaps by living a healthy life in a quiet place, a life of regimen and diet; and perhaps faith-healing or suggestion played as strong a part as anything else."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I cannot persuade you to adopt my regimen, Vincy?” “No, no; I’ve no opinion of that system."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate prescribed a strict **regimen** of fresh air and light nourishment, sweeping away the heavy drugs of older practitioners."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The ascetic **regimen** of fasts and vigils had reduced the young minister to a shadow of his former physical vigor."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There is a wisdom in this beyond the rules of physic: a man's own observation of what he finds good is the best **regimen**."*

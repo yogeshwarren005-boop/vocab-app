@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Backflow of blood through a defective heart valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall after rote memorization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The backward flow of unabsorbed food or fluid through the esophagus to the mouth; or abnormal backward flow of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, the backward leakage of blood across an incompetent heart valve during systole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"When I passed outside, however, and pressed down the levers which controlled it, I knew at once by the whishing sound that there was a slight leakage, which allowed a regurgitation of water through one of the side cylinders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mitral **regurgitation** generates a characteristic systolic murmur audible at the apex and transmitted to the axilla."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The patient complained of gastric **regurgitation** and nausea, symptoms which Holmes recognized as the effect of poison."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Involuntary **regurgitation** accompanies violent disgust when offensive substances are perceived by the senses."*

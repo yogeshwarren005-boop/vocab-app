@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising power or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising power or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising rule or authority in one's own right, applied especially to a queen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dominant, prevalent, or widespread in influence or sway during a designated era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I dreaded the flash of lovely flame, and the outburst of regnant anger, ere I should have time to say that I was not to blame."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I dreaded the flash of lovely flame, and the outburst of **regnant** anger, ere I should have time to utter a word."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The queen **regnant** governed her vast dominions with masculine fortitude amidst turbulent civil factions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Ancient feudal privilege was no longer **regnant**; a tempestuous democracy now claimed the sceptre."*

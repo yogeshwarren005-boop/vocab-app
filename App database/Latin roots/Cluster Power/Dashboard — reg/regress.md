@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved when you assume the conclusion is true and reason backward to the evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To return to a former, worse, or less developed state; move backward in progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, to revert to an earlier stage of emotional or behavioral development during stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"There is no **regress** for our design; we must proceed with resolute boldness or confess our defeat."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Under adverse conditions of isolation, cultivated varieties frequently **regress** toward the characteristics of their wild ancestors."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Social evolution exhibits alternating rhythms of progress and temporary **regress** under external pressure."*

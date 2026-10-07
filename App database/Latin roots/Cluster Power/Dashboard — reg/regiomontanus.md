@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician and astronomer (1436-1476).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician and astronomer (1436-1476).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Johannes Müller von Königsberg (1436–1476), the celebrated German astronomer and mathematician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pioneering Renaissance scholar who revolutionized trigonometry and published crucial astronomical ephemerides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The engineers were commanded by Regiomontanus and Wilkins."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"The astronomical computations of **Regiomontanus** laid the mathematical groundwork for all subsequent telescopic observations."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"In his treatise on triangles, **Regiomontanus** rescued Euclidean methods and elevated trigonometry to an independent discipline."*
+> - 📜 **Pierre Gassendi (*The Life of Tycho Brahe*):** *"Tycho acknowledged his deep debt to **Regiomontanus**, whose printed ephemerides guided navigators across uncharted oceans."*

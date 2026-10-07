@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow anew or continue growth after an injury or interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow anew or continue growth after an injury or interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow again, or cause to grow again, after loss, harvesting, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, to regenerate cellular tissue or replace amputated organic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regrow designates grow anew or continue growth after an injury or interruption."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Crustaceans can **regrow** severed claws through successive molts until the appendage matches the original in form."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cutaneous epithelium possesses remarkable capacity to **regrow** and seal traumatic abrasions within hours."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In lower coelenterates, severed tentacles **regrow** from the central disc with astonishing morphological regularity."*

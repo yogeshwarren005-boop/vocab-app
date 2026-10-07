@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irregular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an irregular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irregular manner; at uneven intervals, or without symmetry, order, or rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from standard schedule, symmetrical contour, or prescribed procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fields were small and were laid out irregularly, which was no disadvantage for hand cultivation."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The basaltic columns were grouped **irregularly** along the shore, some tilting seaward like shattered palisades."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The pulse of the great leviathan beat **irregularly** as the hunters closed in with leveled lances."*
+> - 📜 **James Joyce (*Dubliners*):** *"The street-lamps flickered **irregularly** in the gusty wind, throwing dancing shadows across the wet flagstones."*

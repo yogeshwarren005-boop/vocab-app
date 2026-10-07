@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricting according to rules or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting according to rules or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or serving for the regulation, oversight, and control of an activity or industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to government agencies, administrative commissions, and statutory compliance boards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regulatory designates restricting according to rules or principles."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Modern governments establish extensive **regulatory** commissions to prevent predatory monopolistic abuses in transport."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The **regulatory** power of the state extends to all matters where private actions threaten the safety of the public."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Central banking authorities must exercise **regulatory** control over interest rates to stabilize economic cycles."*

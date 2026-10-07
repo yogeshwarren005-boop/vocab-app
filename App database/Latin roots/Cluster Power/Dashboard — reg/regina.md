@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of saskatchewan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of saskatchewan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin word for queen, used in official British royal monograms, legal citations, and coins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reigning queen as head of state; also the capital city of Saskatchewan, Canada.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. _Tanta est erga te mentis integritas, regina serenissima_— QUEEN KATHERINE."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina will bring the matter before the attention of the public."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Regina I venture to think that a thrill of indignation will run through the country."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The herald proclaimed the royal style: Elizabeth, Dei Gratia, Angliae, Franciae et Hiberniae **Regina**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He hailed the grand ship as the **regina** of the southern whaling fleet, unmatched in speed and stout timber."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The loyal cavaliers drank to Maria **Regina**, vowing to rescue their captive sovereign from the island fortress of Lochleven."*

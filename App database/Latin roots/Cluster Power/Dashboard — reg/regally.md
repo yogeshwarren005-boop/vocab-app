@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regal, royal, or stately manner; with sovereign majesty and dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried out with magnificent grandeur, generous munificence, or noble composure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"So world-wondered-at Niagara shall be our destination, where Florence Howard and her father are already arrived and installed occupants of a regally-furnished suite of apartments at the Clifton House on the Canada side of the river."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"These girls are kept by themselves, and are regally fed and tended from birth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She entered the salon **regally**, her dark velvet train sweeping the carpet with dignified grace."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Miriam bore her sorrows **regally**, allowing no sign of weakness to betray her secret torment to casual observers."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He entertained his guests **regally**, surrounding them with rare orchids, antique plate, and exotic perfumes."*

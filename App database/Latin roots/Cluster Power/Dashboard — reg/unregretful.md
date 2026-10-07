@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling no regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling no regret.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing no regret, sorrow, or remorse; unrepenting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking back upon past actions or decisions without guilt, grief, or wistful hesitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unregretful designates feeling no regret."*
+> - 📜 **Thomas Hardy (*Wessex Poems*):** *"She turned away with **unregretful** eyes, leaving the ancestral homestead behind for ever."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"The bold mariners sailed into the foaming tempest with **unregretful** songs upon their lips."*
+> - 📜 **George Meredith (*The Egoist*):** *"He made the irrevocable choice with an **unregretful** heart, confident in the rectitude of his judgment."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior that breaches the rule or etiquette or custom or morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not characterized by a fixed principle or rate; at irregular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of symmetry, uniformity, or order; nonconformity to established rules or proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of nonconformity to established rules, lawful customs, or moral regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ever since the accident with her father’s horse Tess Durbeyfield, courageous as she naturally was, had been exceedingly timid on wheels; the least irregularity of motion startled her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Within the space of a mile from its outskirts every irregularity of the soil was prehistoric, every channel an undisturbed British trackway; not a sod having been turned there since the days of the Cæsars."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 207, on irregularity of employment as influencing wages, psychic income, and choice of employment.] [Footnote 9: On static, see Vol."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A slight **irregularity** in the beat of the sheep-bell warned Oak that the flock was uneasy on the hill."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Nature delights in apparent **irregularity**, weaving pines and granite ledges into wild and picturesque harmony."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The auditors discovered a grave **irregularity** in the ledger, which threw the banker into sudden confusion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reorganize into new groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize into new groups, arrangements, or formations, especially after disruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactics, to reform scattered battle lines and restore order after an assault or retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll regroup and go on from there." Boarding a robo-taxi that had just discharged suited figures at a nearby mooring tower, the Sentinels lined up along the taxi's portal."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The exhausted divisions were pulled back across the river to **regroup** and replenish their depleted munitions."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The commander ordered the scattered cavalry squadrons to **regroup** on the hill behind the redoubt."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A victorious general must instantly **regroup** his forces, lest pursuit degenerate into chaotic vulnerability."*

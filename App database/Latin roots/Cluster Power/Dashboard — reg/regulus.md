@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in leo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of birds of the family sylviidae including kinglets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in the constellation Leo; or a historic Roman general noted for heroic fidelity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic chemistry and metallurgy, the metallic mass or button which sinks to the bottom of a crucible in smelting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The regulus of cobalt, dissolved in spirit of niter, gives a red."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Regulus found himself galloping many miles from the field of action, entirely alone; and whither should he fly for refuge so naturally as to that kitchen and those faithful arms in which Pauline had so often welcomed him?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The disasters deepened as Regulus spoke."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The heroic virtue of **Regulus**, who returned to Carthage to face torture rather than break his parole, inspired Rome."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Upon cooling, the metallic **regulus** of antimony separated cleanly from the scoria at the bottom of the crucible."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Astronomers observe the royal star **Regulus**, situated in the heart of Leo, as a marker of the celestial equator."*

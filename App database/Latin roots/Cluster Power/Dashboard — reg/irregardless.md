@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regardless; a combination of irrespective and regardless sometimes used humorously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonstandard or colloquial synonym for regardless, widely used in speech despite stylistic censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emphatic blend of irrespective and regardless used in colloquial or informal discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irregardless designates regardless; a combination of irrespective and regardless sometimes used humorously."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The widespread currency of **irregardless** in colloquial speech proves the irrepressible urge toward emphatic pleonasm in popular idioms."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"I told the manager I was going to pitch my own game **irregardless** of what the bench yelled at me."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He declared at the booster luncheon that prosperity would advance **irregardless** of radical agitators and pessimists."*

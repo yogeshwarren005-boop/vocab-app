@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting for boat races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting for boat races.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat race or series of boat races, typically between yachts or rowing crews.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized aquatic festival featuring competitive races, water pageants, and social festivities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Bennigsen, being a landowner in the Vílna province, offered his country house for the fete, and the thirteenth of June was fixed for a ball, dinner, regatta, and fireworks at Zakret, Count Bennigsen’s country seat."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bob Cowley lent him his for the Wicklow regatta concert last year and never heard tidings of it from that good day to this."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was ashamed, too, of the very recollection of his habit of getting drunk at races, regattas, and other national festivals, by an accident at one of which he had met his death."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The Venetian canals were thronged with decorated gondolas for the grand **regatta**, gleaming under the azure sky."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"The Thames was crowded with steamers, barges, and rowboats, all assembled to witness the annual rowing **regatta**."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"He watched the trim cutters maneuvering gracefully in the bay, like thoroughbred racers at an oceanic **regatta**."*

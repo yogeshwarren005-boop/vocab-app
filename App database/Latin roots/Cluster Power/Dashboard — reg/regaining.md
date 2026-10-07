@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Getting something back again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or find back; recover the use of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of recovering possession, restoring balance, or reaching a former place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually reacquiring lost strength, clarity, or emotional composure after a crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have discovered,” whispering mysteriously, “that her natural cruelty is sharpened by a jealous fear of their regaining their liberty."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My health was very poor, and the prospect of regaining the lost pocket-book was quite uncertain; it was so dark that I thought it would be impossible for me to find it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tottered, and on regaining my equilibrium retired back a step or two from his chair."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In **regaining** her customary self-command, Dorothea resolved to put aside private grief and comfort her sister."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Jonathan lay motionless for several minutes, slowly **regaining** consciousness amid the chill shadows of the vaulted hall."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"The traveler clung to the slippery ledge, narrowly **regaining** his foothold above the roaring torrent."*

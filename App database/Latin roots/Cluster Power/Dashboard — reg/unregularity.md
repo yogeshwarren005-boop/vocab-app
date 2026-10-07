@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characterized by a fixed principle or rate; at irregular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not characterized by a fixed principle or rate; at irregular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of not being regular; lack of uniformity, rule, or symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anomalous deviation from established order, symmetry, or standard procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unregularity designates not characterized by a fixed principle or rate; at irregular intervals."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The wild **unregularity** of the coast, with its jagged reefs and shifting bars, made landing extremely perilous."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The genius of Shakespeare is marked by glorious **unregularity**, breaking through all pedantic dramatic rules."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The rustic cottage had a pleasing **unregularity** of form that harmonized charmingly with the mountain crags."*

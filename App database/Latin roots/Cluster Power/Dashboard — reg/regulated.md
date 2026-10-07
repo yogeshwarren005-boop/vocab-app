@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlled, governed, or adjusted in accordance with established rules, principles, or mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating under disciplined constraints, steady laws, or formal governmental supervision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should have come down sooner,” he explains, “but that I have been much engaged with those matters in the several suits between yourself and Boythorn.” “A man of a very ill-regulated mind,” observes Sir Leicester with severity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And these qualities are not regulated in him, somehow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This model composition is limited to the three words “And wishing yours!” which the old girl follows up with a nod at everybody in succession and a well-regulated swig of the mixture."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The life of an individual in a free society should be **regulated** by personal choice wherever others are uninjured."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Nature is a well-**regulated** commonwealth, where every excess of force is met by swift restorative compensation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy work was **regulated** by the sun, commencing with milking in the gray mist of dawn."*

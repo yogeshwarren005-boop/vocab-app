@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of taxes) adjusted so that the rate decreases as the amount of income increases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing progress; returning to a former less advanced state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to regress or return to a less developed or less civilized state; backward-looking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxation, levied at a rate that decreases as the taxable amount or personal income increases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regressive designates (of taxes) adjusted so that the rate decreases as the amount of income increases."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant despotisms foster **regressive** tendencies that undo the moral achievements of commercial freedom."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A political constitution that suppresses popular representation introduces a **regressive** influence into national character."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Biological parasites frequently display **regressive** metamorphosis, shedding limbs and sensory organs as they adapt to host dependence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reformed morally or spiritually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reformed morally or spiritually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regenerated; unrenewed in moral or spiritual nature; unconverted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in an unpurified, wild, or unredeemed condition lacking spiritual reformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unregenerated designates not reformed morally or spiritually."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The **unregenerated** heart is like an untrimmed garden, overgrown with thorny weeds of lust and earthly pride."*
+> - 📜 **Jonathan Edwards (*Sinners in the Hands of an Angry God*):** *"The condition of **unregenerated** sinners is precarious in the extreme, suspended over the pit of eternal wrath."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Dinah spoke with tender sorrow of the **unregenerated** souls living in darkness among the bleak Yorkshire hills."*

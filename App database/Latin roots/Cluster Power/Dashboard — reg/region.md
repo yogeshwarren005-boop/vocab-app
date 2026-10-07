@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extended spatial location of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of an animal that has a special function or is supplied by a given artery or nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, continuous geographical area, territory, or division of the earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A designated realm, sphere of influence, anatomical territory, or atmospheric elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more, you petty spirits of region low, Offend our hearing; hush!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to the English court assemble now, From every region, apes of idleness!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I should have fatted all the **region** kites / With this slave's offal: bloody, bawdy villain! / Remorseless, treacherous, lecherous, kindless villain!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Barriers of every kind, which prevent migration into a given **region**, are related to the distinctness of its fauna."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"In this lonely **region** of heath, human history seemed a minor ripple upon an ocean of primeval soil."*

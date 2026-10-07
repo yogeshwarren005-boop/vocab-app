@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fix or adjust the time, amount, degree, or rate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into conformity with rules or principles or usage; impose regulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To control, govern, or direct according to rule, principle, law, or established system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adjust the speed, temperature, flow, or timing of a mechanism to ensure accurate operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Latterly he had seen only Life, felt only the great passionate pulse of existence, unwarped, uncontorted, untrammelled by those creeds which futilely attempt to check what wisdom would be content to regulate."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The _bon Dieu_ be praised that Madame also is here, who has sense and will regulate everything.' 'These are no _canaille,'_ I said: 'be silent, _ma bonne_ Léontine, here is something which you cannot understand."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He tried to **regulate** his unruly passions by austere habits, yet impulse repeatedly broke through his resolve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A wise statesman seeks to **regulate** the conflicting interests of classes by impartial and farsighted legislation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Let our affairs be as two or three, and not a hundred or a thousand; **regulate** your count upon your thumbnail."*

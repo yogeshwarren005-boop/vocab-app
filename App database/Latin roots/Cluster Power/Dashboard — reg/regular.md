@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier in the regular army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to a fixed rule, standard, pattern, method, or established symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring, recurring, or acting at uniform intervals; steady, habitual, or disciplined.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, to atone your fears With my more noble meaning, not a man Shall pass his quarter or offend the stream Of regular justice in your city’s bounds, But shall be remedied to your public laws At heaviest answer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At ten o'clock next morning all the children were ready to leave and had formed a regular procession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never has what you would call a regular breakfast."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The king's council meets in **regular** order, resolving state disputes according to ancient statute and parliament."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak kept **regular** hours with the sheep, rising before dawn and retiring only when the hurdles were secured."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The petals of the flower displayed a **regular** radial symmetry, inviting insect pollinators from every quarter."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a governing board.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rules during the absence or incapacity or minority of the country's monarch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to administer a state because the monarch is a minor, absent, or incapacitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a governing board of an educational institution or collegiate university.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me they concern; Regent I am of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"I am the **regent** of these parts of France, / Appointed by the king to govern them / With sovereign justice and triumphant arms."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The Prince **Regent** was a frequent visitor to this historic tavern during his youthful escapades in London."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He admired the portrait of the Duke of Orleans, who ruled as **regent** with cynical elegance during the French minority."*

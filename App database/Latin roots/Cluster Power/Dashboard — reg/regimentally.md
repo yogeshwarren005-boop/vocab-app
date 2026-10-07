@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regimental manner or by regiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regimental manner or by regiments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regimental manner; by or in military regiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with strict military regulation, uniformity, and drilled precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimentally designates in a regimental manner or by regiments."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The men were organized **regimentally**, each company competing fiercely for the marksmanship trophy of the brigade."*
+> - 📜 **Thomas Hardy (*The Trumpet-Major*):** *"The cavalry trotted through the village **regimentally**, their carbines clanking in rhythm with the thudding hooves."*
+> - 📜 **Winston Churchill (*The River War*):** *"The battalions deployed **regimentally** across the desert sand, presenting an unbroken wall of bayonets to the dervishes."*

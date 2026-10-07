@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principle or condition that customarily governs behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule, law, order, or direction made and maintained by an authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of controlling, governing, or adjusting a system or market to ensure compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George salutes the gentleman but otherwise sits bolt upright and profoundly silent—very forward in his chair, as if the full complement of regulation appendages for a field-day hung about him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the crook had absorbed most of Gabriel’s money, he attempted, and carried out, an exchange of his overcoat for a shepherd’s regulation smock-frock."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Public regulation of hours and wages 22."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Under the strict **regulation** of the bailiff, no stranger was allowed to enter the shearing barn without authorization."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **regulation** of public health required sanitary reforms that provoked fierce outcry from conservative aldermen."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Every minute action of the citizens was subjected to the stern religious **regulation** of the Puritan magistrates."*

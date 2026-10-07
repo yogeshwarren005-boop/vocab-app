@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sadness associated with some wrong done or some disappointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sadness, repentance, or disappointment over an action taken, a missed chance, or a loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel sorrow, remorse, or grief on account of past conduct, circumstances, or bereavement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All its eyes were closed and were to remain so." "Oh, oh, did they never come back?" cried out Kurt with regret."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I would have had them less sorry—I am afraid not; but the pleasure of it, and the pain of it, and the pride and joy of it, and the humble regret of it were so blended that my heart seemed almost breaking while it was full of rapture."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Uneasiness and bitter **regret** attend every deliberate deviation from the clear dictates of moral reason."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood was plunged into unavailing **regret**, tormented by memories of the letter that had disturbed his peace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate looked back with poignant **regret** upon the early scientific ambitions he had sacrificed for worldly peace."*

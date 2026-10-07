@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling no regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling no regret.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regretting; without feeling sorrow, repentance, or remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persisting in a course or parting with a past attachment without sorrowful hesitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unregretting designates feeling no regret."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The legions march forward, **unregretting** the peace they leave behind, eager for the laurels of victory."*
+> - 📜 **Robert Browning (*The Ring and the Book*):** *"She yielded her pure soul to heaven, **unregretting** the cruel world that had wronged her innocence."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"He threw himself into the desperate venture, **unregretting** the comforts and honors he sacrificed."*

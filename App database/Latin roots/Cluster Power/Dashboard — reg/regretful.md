@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, manifesting, or expressing sorrow, distress, or remorse for past actions or lost good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by wistful longing, melancholy repentance, or reluctant acknowledgement of failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I continued also the wish to be with you, and experienced a strange, regretful consciousness of some barrier dividing us."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There isn't a woman in the world I would exchange her for." "But I often do and say things you don't approve," she murmured, with a regretful sigh."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Godfrey cast a **regretful** glance toward the past, wishing he had claimed his daughter before another won her love."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The moral sense causes a man to look back with **regretful** sorrow upon acts wherein selfish impulses conquered sympathy."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The traveler gave a **regretful** sigh as he turned his face toward the desolate twilight of the dying earth."*

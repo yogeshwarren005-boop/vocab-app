@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the regalecidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the regalecidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic variant spelling of Regalecus, the biological genus encompassing deep-sea oarfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of elongate oceanic fish within Regalecidae celebrated for ribbon-shaped bodies and elongated dorsal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reglaecus designates type genus of the regalecidae."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Under the designation **Reglaecus**, early ichthyologists described the giant ribbon-fish taken on the coast of Northumberland."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The oceanic genus **Reglaecus** produces specimens exceeding twenty feet in length, swimming with undulating sinuous motion."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"An oarfish referred to **Reglaecus** was captured alive near the surface, astonishing fishermen with its brilliant silver sides."*

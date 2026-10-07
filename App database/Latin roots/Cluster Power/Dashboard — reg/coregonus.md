@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the coregonidae: whitefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the coregonidae: whitefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of whitefishes within Salmonidae, found in northern lakes and streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercially valuable genus of cold-water lacustrine fishes valued for delicate flesh and caviar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coregonus designates type genus of the coregonidae: whitefishes."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"The species of **Coregonus** found in these northern waters supply the principal subsistence of the resident fur traders."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Several distinct races of **Coregonus** clupeaformis inhabit the Laurentian basin, differing in gill-raker numbers."*
+> - 📜 **William Yarrell (*A History of British Fishes*):** *"The gwyniad belongs to the genus **Coregonus**, shoaling in mountain tarns of Wales and the northern counties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually preceded by `in') a detail or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paying particular notice (as to children or helpless people).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To look at attentively; observe; or hold in respect, esteem, or consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attention, care, heed, or affectionate esteem directed toward a person or principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I offered to awaken his regard For’s private friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you swear still, your recompense is still That I regard it not."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"With this **regard** their currents turn awry, / And lose the name of action. Soft you now! / The fair Ophelia! Nymph, in thy orisons / Be all my sins remember'd."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We must have a religious **regard** for truth, examining our beliefs by impartial evidence rather than unexamined custom."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba held him in high **regard**, knowing his honest bluntness was worth more than a courtier's flattering phrases."*

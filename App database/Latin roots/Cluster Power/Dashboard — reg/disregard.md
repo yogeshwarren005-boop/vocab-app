@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention and due care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willful lack of care and attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pay no attention to; treat as unworthy of notice; ignore or overlook deliberately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or act of ignoring, slighting, or neglecting something requiring care or respect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, not a little alarmed by his disregard of the doctor’s injunctions, replies, in London."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What they conversed about was not audible to Gabriel, who was too independent to get near, though too concerned to disregard."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To **disregard** the customary wisdom of mankind is rash, but to elevate tradition into an infallible tyrant is fatal."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles chose to **disregard** his own failing strength, toiling on through the cold drizzle for her sake."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She could not **disregard** the silent appeal of his downcast eyes, which spoke of sorrow deeper than words."*

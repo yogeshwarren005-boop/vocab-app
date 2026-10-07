@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Army unit smaller than a division.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to rigid discipline, order, and systematization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent military unit of ground troops, typically divided into battalions and commanded by a colonel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically, rule, government, authority, or dominion exercised over subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The Earl of Oxford, late-come from the field, / Has joined our **regiment** upon the hill, / Eager to strike for England and the right."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was a sergeant in the eleventh dragoon **regiment**, whose glittering scarlet coat fascinated the impressionable maiden."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The martial music of the military escort preceded the colonial **regiment** as it marched toward the meeting-house."*

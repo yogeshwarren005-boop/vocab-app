@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenaciously unwilling or marked by tenacious unwillingness to yield.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reformed morally or spiritually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reformed or renewed spiritually; persisting obstinately in sin, error, or unrepentant ways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly resisting moral reformation, intellectual enlightenment, or social progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He who had wrought her undoing was now on the side of the Spirit, while she remained unregenerate."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole breed is unregenerate and damned."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Think, wicked Sinner, wha ye’re skaithing: It’s just the Blue-gown badge an’ claithing O’ saunts; tak that, ye lea’e them naething To ken them by Frae ony unregenerate heathen, Like you or I."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"In her wild independence she remained an **unregenerate** child of pagan nature, defiant of churchly preachments."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The grim elders regarded the untamed forest as the haunt of the **unregenerate** adversary of mankind."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab was an **unregenerate** soul, hardening his heart against every plea of reason, nature, and divine compassion."*

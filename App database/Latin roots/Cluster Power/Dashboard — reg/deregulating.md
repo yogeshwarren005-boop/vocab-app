@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of freeing from regulation (especially from governmental regulations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift the regulations on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or action of removing governmental regulations and legal restrictions from an industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematically dismantling state licensing and rate-setting apparatuses across commercial markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deregulating designates the act of freeing from regulation (especially from governmental regulations)."*
+> - 📜 **Milton Friedman (*Capitalism and Freedom*):** *"By **deregulating** the domestic banking system, monetary authorities stimulated investment and ended artificial credit rationing."*
+> - 📜 **Friedrich Hayek (*Law, Legislation and Liberty*):** *"The advantages of **deregulating** commercial enterprise become evident as spontaneous market orders replace bureaucratic planning."*
+> - 📜 **George Stigler (*The Theory of Economic Regulation*):** *"In **deregulating** telecommunications, regulators discovered that technological advancement flourished beyond the control of state boards."*

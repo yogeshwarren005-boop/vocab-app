@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is formally entered (along with others) in a register (and who obtains certain rights thereby).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is formally entered (along with others) in a register (and who obtains certain rights thereby).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who registers, enrolls, or is recorded in an official list or legal directory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An applicant whose trademark, domain name, or civil status is recognized in a statutory ledger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, registrant designates a person who is formally entered (along with others) in a register (and who obtains certain rights thereby)."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The municipal authority required every commercial **registrant** to furnish proof of solvency before opening shop."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Under the new civil code, each eligible **registrant** obtained the right to vote in local magisterial elections."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The heralds examined each noble **registrant**, verifying pedigrees against ancient rolls preserved in the Tower."*

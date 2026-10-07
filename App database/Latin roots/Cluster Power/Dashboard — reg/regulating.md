@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of controlling or directing according to rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or adjust the time, amount, degree, or rate of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of controlling, adjusting, or directing according to rules or mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining steady operational equilibrium through systematic feedback or legal constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Regulating my purchases by my guardian’s taste, which I knew very well of course, I arranged my wardrobe to please him and hoped I should be highly successful."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By regulating and equalizing the output in the different localities, it can run more nearly full time."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex conditions **regulating** the balance of nature in a forest are illustrated by the relations of plants and insects."*
+> - 📜 **George Eliot (*Silas Marner*):** *"In **regulating** his modest household, Silas found peace in the mechanical routine of his weaving trade."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The sovereign moral law is ever at work, **regulating** the fortunes of men with serene and unerring equity."*

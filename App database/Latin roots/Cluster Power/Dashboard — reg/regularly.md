@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a regular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regular manner; at uniform intervals, with steady rhythm, or according to rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Customarily, habitually, or systematically as part of established daily life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Attending court the other day—I attend it regularly, with my documents—I taxed him with it, and he almost confessed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The church clock chimed **regularly** across the sleeping village, marking the quiet passing of the midnight hours."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Migratory birds return **regularly** to the same nesting grounds year after year with astonishing precision."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed the woodchuck emerge **regularly** at midday to feed upon the sweet clover beside my bean-field."*

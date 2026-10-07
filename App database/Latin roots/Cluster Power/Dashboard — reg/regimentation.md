@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of order or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of order or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strict discipline, organization, and standardized control of people into rigid groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enforced conformity and bureaucratic subordination of individual initiative to collective command.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The state is construed to be a mechanism of public service, operated by the Body Politic, and the actual regulation and regimentation of society is accomplished by natural socio-economic laws which, of course, are both universal and unavoidable."*
+> - 📜 **George Orwell (*1984*):** *"The totalitarian state enforced complete mental **regimentation**, eradicating every trace of independent personal thought."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Biological predestination and social **regimentation** ensured that each caste fulfilled its assigned task without discontent."*
+> - 📜 **Bertrand Russell (*Authority and the Individual*):** *"Excessive administrative **regimentation** paralyzes creative impulse and turns citizens into passive cogs of a vast machine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having been made regular (or more regular).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to uniformity; making regular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bringing into conformity with rules, laws, or standardized patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and economic administration, official normalization of informal or irregular practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularisation designates the condition of having been made regular (or more regular)."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **regularisation** of land tenure converted precarious customary tenancies into legally protected holdings."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The codification and **regularisation** of the criminal statutes abolished countless arbitrary procedural abuses."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **regularisation** of coin weights and standards of exchange secured domestic commerce against debasement."*

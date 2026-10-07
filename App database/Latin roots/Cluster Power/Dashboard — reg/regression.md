@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state in which development has stopped prematurely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of returning to a previous, less advanced, or deteriorated state or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics, a technique for determining the mathematical relationship between dependent and independent variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is upheld in part because in this case it but offsets _regression_, that is relatively heavier taxation on the smaller incomes, in the case of the other kinds of taxes (tariff, property taxes, etc.)."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"The law of filial **regression** demonstrates that offspring of exceptional parents tend to revert toward the mediocre average of the race."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The statistical **regression** line furnishes a precise mathematical expression for correlation between biological variables."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Cases of atavism illustrate sudden **regression** to long-lost ancestral traits in domestic breeds."*

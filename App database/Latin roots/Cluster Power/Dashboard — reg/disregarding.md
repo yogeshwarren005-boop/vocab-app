@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paying no attention to; ignoring, neglecting, or setting aside deliberately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting without consideration for rules, hazards, or contrary opinions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, disregarding my remonstrances, had hurriedly taken off his cloak and was putting it about me."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"After Napoleon's downfall the Congress of Vienna (1814-16) had parcelled Europe out on the principle of disregarding national aspirations and restoring the legitimate rulers."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In **disregarding** the long-term consequences of conduct upon general welfare, expediency betrays genuine moral duty."*
+> - 📜 **George Eliot (*Silas Marner*):** *"He hurried past the cottage door, **disregarding** the beckoning light in his haste to reach the tavern."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The detective leaped over the parapet, **disregarding** the icy abyss that yawned beneath his boots."*

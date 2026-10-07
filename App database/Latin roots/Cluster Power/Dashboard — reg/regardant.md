@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking backward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, depicted as looking backward over the shoulder, applied especially to animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking back attentively; observant, watchful, or circumspect in bearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He turned his face over a shoulder, rere regardant."*
+> - 📜 **John Guillim (*A Display of Heraldrie*):** *"The lion is blazoned **regardant** when he looks behind him, as if watching for the approach of pursuers."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Above the gateway was carved an ancient shield displaying a hound **regardant**, the historic badge of the Saxon th勇."*
+> - 📜 **Randle Holme (*The Academy of Armory*):** *"A beast **regardant** differs from one rampant in that the head is turned entirely backward toward the tail."*

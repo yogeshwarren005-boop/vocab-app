@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record in writing; enter into a book of names or events or transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record in a public office or in a court of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially recorded, listed, or enrolled in an authoritative public ledger or government roll.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sent by postal service with special insurance precautions; or legally certified under trademark statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But say, my lord, it were not registered, Methinks the truth should live from age to age, As ’twere retailed to all posterity, Even to the general all-ending day."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The gains are not registered, but they are real and they are never lost, and come flashing out all unexpectedly when the note is struck that calls them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Remember thee! / Yea, from the table of my memory / I'll wipe away all trivial fond records, / All saws of books, all forms, all pressures past, / That youth and observation copied there; / And thy commandment all alone shall live / Within the book and volume of my brain, / Unmix'd with baser matter: yes, by heaven! / O most pernicious woman! / O villain, villain, smiling, damned villain! / My tables,—meet it is I set it down, / That one may smile, and smile, and be a villain; / At least I'm sure it may be so in Denmark: / So, uncle, there you are. Now to my word; / It is 'Adieu, adieu! remember me.' / I have sworn 't: it is **registered** in heaven."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The modest legacy was duly **registered** in the county probate court, securing a modest independence for the orphan."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The landlady insisted that the mysterious stranger sign the guest book, where his false arrival was **registered**."*

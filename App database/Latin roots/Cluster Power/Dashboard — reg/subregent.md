@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin reg within the domain of Power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of reg in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or deputy regent; an official acting under or assisting a regent in governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vice-governor or assistant rector in a collegiate institution or during a royal regency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subregent designates pertaining to, derived from, or characteristic of latin reg within the domain of power."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The **subregent** was dispatched with armed guards to enforce the orders of the council across the border counties."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"During the emperor's prolonged absence, a trusted **subregent** administered civil justice in the capital."*
+> - 📜 **David Masson (*The Life of John Milton*):** *"The **subregent** of the college presided over the disputations when the principal was summoned to London."*

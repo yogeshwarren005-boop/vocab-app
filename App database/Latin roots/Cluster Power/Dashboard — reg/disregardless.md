@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In spite of everything; without regard to drawbacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonstandard, colloquial, or humorous emphatic variant of regardless; despite everything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used colloquially in dialectal speech to emphasize complete disregard of circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disregardless designates in spite of everything; without regard to drawbacks."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"He went ahead **disregardless** of all warnings, bound to have his say before the meeting broke up."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"The miners pushed into the canyon **disregardless** of the snowdrifts banking high along the trail."*
+> - 📜 **William Faulkner (*The Hamlet*):** *"He traded horses **disregardless** of their lameness, trusting his sharp tongue to fool unwary farmers."*

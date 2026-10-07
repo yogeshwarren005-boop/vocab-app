@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or concerning a regiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or concerning a regiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to a military regiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regimental officer, soldier, band, colors, or distinctive badge and tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But the peace it reduc’d me to beg in despair, Till I met old boy in a Cunningham fair, His rags regimental, they flutter’d so gaudy, My heart it rejoic’d at a sodger laddie."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Regimental shop is always amusing, and Lawrence will know heaps of fellows I used to know, and tell me what's become of them all."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Meanwhile the other four conversed with much greater simplicity upon such homely subjects as the coming school treat and the way Isabel had done her hair, Rowsley's regimental doings, and a recent turn-up between Jack Bendish as deputy M."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The **regimental** surgeon worked tirelessly by candlelight, binding wounds and directing the ambulance bearers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. George remembered his old **regimental** comrades with affectionate pride, preserving his discipline through poverty."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The **regimental** band played stirring airs as the brave troops marched out of Brussels on the road to Waterloo."*

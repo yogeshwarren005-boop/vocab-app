@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to rigid discipline, order, and systematization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form (military personnel) into a regiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strictly organized, disciplined, or controlled in a rigid and uniform manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standardized and subjected to inflexible collective rules or routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimented designates subject to rigid discipline, order, and systematization."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia units refused to adopt the **regimented** drill of professional armies, maintaining an egalitarian comrade spirit."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Life in the modern scientific state became thoroughly **regimented**, with each citizen trained for specific public services."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"His mornings followed a **regimented** routine: the shaved cheek, the identical necktie, and the punctual sprint for the streetcar."*

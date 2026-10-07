@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ribbonfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ribbonfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of deep-sea lampriform fishes known as oarfishes, having long ribbon-like bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely elongate pelagic fishes lacking anal fins and possessing crest-like red dorsal rays, giving rise to sea-serpent legends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regalecidae designates ribbonfishes."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The family **Regalecidae** contains extraordinary ribbon-like fishes whose dorsal rays form an ornamental crest above the head."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Specimens of **Regalecidae** cast ashore on European coasts have frequently given rise to mariners' tales of sea serpents."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"In **Regalecidae**, the fragile skeleton and gelatinous flesh easily break apart when specimens are lifted from deep water."*

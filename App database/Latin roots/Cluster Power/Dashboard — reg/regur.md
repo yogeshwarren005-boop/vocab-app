@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich black loam of india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich black loam of india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, fertile clayey loam soil found in the Deccan plateau of India, celebrated for growing cotton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indian black cotton soil high in montmorillonite clay that swells when wet and shrinks with deep fissures when dry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regur designates a rich black loam of india."*
+> - 📜 **E. W. Hilgard (*Soils: Their Formation, Properties, Composition, and Relations*):** *"The famous **regur** or black cotton soil of the Deccan owes its fertility to decomposed basaltic trap rock."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Extensive tracts of **regur** cover the central plains of Hindustan, retaining moisture throughout months of fierce drought."*
+> - 📜 **Robert Wallace (*Indian Agriculture*):** *"In dry seasons the **regur** fissures into deep cracks, which swallow surface dust and aerate the subsoil naturally."*

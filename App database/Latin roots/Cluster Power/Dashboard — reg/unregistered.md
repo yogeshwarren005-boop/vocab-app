@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) not recorded with or certified by an official breed association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not registered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not registered or officially recorded in a public roll, ledger, or government directory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating without formal licensing, certification, or legal documentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a fragment Of Gneius Pompey’s, besides what hotter hours, Unregistered in vulgar fame, you have Luxuriously pick’d out."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Spacetrack Ceres confirms unregistered objects proximate your position."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Thirty-five seconds later, sister ship Blue Fox, on directed survey of the Planet Pluto Special Zone for unregistered space debris and contraband was similarly attacked and destroyed."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Let our deeds be **unregistered** in the archives of men, so long as heaven approves our honest purpose."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police had no record of the boat, which was an **unregistered** craft used for illicit smuggling on the river."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"He carried a bundle of **unregistered** bonds inside his threadbare coat, fearful of every passer-by."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of enrolling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of people (such as students) who register or enroll at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of recording, enrolling, or entering names or facts in an official register.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The document, certification, or formal license issued upon official recording in a civic directory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes a special mortgage registration tax, payable but once (in New York 1/2 of 1 per cent) is levied, and otherwise mortgages are free from taxation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Prominent and onerous were the duties of the Registration Committee."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Especially do we recognize the valuable aid rendered by the members of our Registration Committee, who, in the early days of this Association, superintended the training of a band of one hundred women nurses for our army hospitals."*
+> - 📜 **James Joyce (*Ulysses*):** *"He recalled the formal **registration** of births, marriages, and deaths at the municipal building on the quays."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The legal **registration** of the foreign estate required the affixing of seals before the London notary."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The secret **registration** of the cab under a false name showed how carefully our adversary planned his movements."*

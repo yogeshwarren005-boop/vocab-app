@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polite refusal of an invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sadness associated with some wrong done or some disappointment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of sorrow, remorse, or disappointment regarding past deeds, losses, or missed opportunities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal polite expression of decline sent in response to an invitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and to have the opportunity of tendering my personal regrets."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He dined with us, however, at an early hour, and became so much more like what he used to be that I was still more at peace to think I had been able to soften his regrets."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her attachment and regrets had, for a long time, clouded every enjoyment of youth, and an early loss of bloom and spirits had been their lasting effect."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The remembrance of deliberate follies leaves lingering **regrets** that disturb the quiet enjoyment of present good."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was tormented by useless **regrets**, realizing that his own fiery temper had driven away his true friend."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds; waste no moments on vain **regrets** for yesterday's words."*

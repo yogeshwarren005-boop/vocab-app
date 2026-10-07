@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a regional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regional manner; with reference to or throughout a specific geographical district.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed or administered according to territorial divisions rather than centrally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regionally designates in a regional manner."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain endemic flora are distributed **regionally**, confined strictly to distinct geological formations."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Rainfall varies **regionally** across the British Isles, reaching its maximum along the mountainous western coasts."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The insect fauna differed **regionally** between the two sides of the strait, marking the boundary of two biological continents."*

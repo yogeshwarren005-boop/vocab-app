@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour or rush back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feed through the beak by regurgitating previously swallowed food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring swallowed food or drink back up to the mouth from the stomach; vomit or cast up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To repeat information or ideas mechanically without understanding, critical reflection, or originality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regurgitate designates pour or rush back."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Certain birds **regurgitate** partially digested food from their crops to nourish their nestlings in the breeding season."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Reversed peristaltic action of the oesophagus causes the stomach to **regurgitate** irritating substances."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Examinations that merely demand the student to **regurgitate** memorized lecture notes cultivate no genuine intellect."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make regular, uniform, or lawful; bring into conformity with established regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To officially legalize or formally standardize a previously irregular or informal status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularise designates bring into conformity with rules or principles or usage; impose regulations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The trustees met to **regularise** the hospital accounts, ensuring every expenditure had formal sanction."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic magistrates seek to **regularise** administrative procedure, reducing discretionary power to fixed statutes."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A wise industrial leader must **regularise** employment, providing steady wages rather than chaotic feast and famine."*

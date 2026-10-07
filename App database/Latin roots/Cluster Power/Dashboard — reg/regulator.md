@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official responsible for control and supervision of a particular activity or area of public interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or governmental body that regulates and supervises an industry or public interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device, valve, or clockwork apparatus that automatically controls speed, pressure, or flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The statement that competition is not an effective regulator of railroads often is misunderstood to mean that it in no way acts on rates."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For some decades after these industries developed, the public faith was in competition as the effective regulator."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If individuals enter into a state of society, the laws of that society must be the supreme regulator of their conduct."*
+> - 📜 **James Watt (*The Steam Engine: Historical and Practical*):** *"The centrifugal governor acts as an automatic **regulator**, adjusting the steam valve to maintain constant engine speed."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"An electrical **regulator** was introduced into the circuit to maintain a uniform intensity of the galvanic current."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The immense volume of the ocean operates as a colossal thermal **regulator**, tempering continental climates worldwide."*

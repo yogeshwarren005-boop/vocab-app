@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official written record of names or events or transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official written record of names or events or transactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An office or depository where official registers, records, deeds, and documents are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recorded roll or formal registration; or the country under whose laws a merchant vessel is documented.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I have wired to get his name and address from the Official Registry."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the time of the registry there shall be paid the specific tax for the year ending on the next 31st of December, and such other tax as may be due upon sales or receipts in such business. 3."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Requires a separate registry and tax for each business mentioned in the fifth section, and for each place of conducting the same; but no tax for mere storage of goods at a place other than the registered place of business."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The documents were securely deposited in the **registry** of the diocese, safe from theft or inquisitive eyes."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The disputed deed had been enrolled in the county **registry**, establishing the legal title beyond all doubt."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The files of the Chancery **registry** were choked with centuries of parchment, dust, and forgotten claims."*

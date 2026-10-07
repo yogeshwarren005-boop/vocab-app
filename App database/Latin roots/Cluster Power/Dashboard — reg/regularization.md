@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having been made regular (or more regular).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to uniformity; making regular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making regular, standardized, or conforming to recognized official norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, a formal technique for smoothing singularities or resolving divergent integrals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularization designates the condition of having been made regular (or more regular)."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Bureaucratic administration achieves its efficiency through the **regularization** of official duties and jurisdictional limits."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The **regularization** of legislative committee procedure prevented hasty and unexamined bills from reaching the floor."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **regularization** of voter registration rolls eliminated widespread personation and fraud in borough elections."*

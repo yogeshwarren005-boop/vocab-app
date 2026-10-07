@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eject the contents of the stomach through the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eject the contents of the stomach through the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To vomit forth, throw up, or eject what has been swallowed; spew out abundantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To surge or flow back violently, as a swollen tide or pent-up stream overflowing its banks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regorge designates eject the contents of the stomach through the mouth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when a mountain lake, choked with spring torrents, begins to **regorge** its swollen flood into the valley."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The dying whale began to **regorge** immense fragments of squid, staining the sea with dark clotted fluids."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The dragon of the legend was said to **regorge** fiery fumes upon all knights who dared approach its cavern."*

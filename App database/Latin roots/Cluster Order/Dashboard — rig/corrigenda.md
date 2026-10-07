@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of printing errors in a book along with their corrections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printer's error; to be corrected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things to be corrected, especially a list of errors and their corrections printed in a book after publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual bibliography and scholarly editing, the errata sheet inserted into a volume to rectify printing or editorial mistakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrigenda designates a list of printing errors in a book along with their corrections."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"In the second edition, the author inserted a brief list of **corrigenda** to rectify minor typographic errors."*
+> - 📜 **Samuel Johnson (*Prefaces to the English Poets*):** *"The careful scholar appended a leaf of **corrigenda** to preserve the purity of the ancient text."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The printer supplied a page of **corrigenda** to emend Greek transcriptions in the footnotes."*

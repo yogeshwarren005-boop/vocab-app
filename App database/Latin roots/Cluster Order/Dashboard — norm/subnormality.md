@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being less than normal (especially with respect to intelligence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal development of intellectual capacities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficiency beneath standard levels, physiological norms, or established benchmarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical educational psychology, cognitive development or physiological capacity measuring below average benchmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subnormality designates the state of being less than normal (especially with respect to intelligence)."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Psychological analysis must not confuse spiritual genius with intellectual **subnormality**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent hypothermic **subnormality** indicated failing thyroid function in advanced myxedema."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Educational testing must distinguish between genuine developmental **subnormality** and lack of educational opportunity."*

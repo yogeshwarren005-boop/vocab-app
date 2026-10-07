@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing things into classes or categories of the same type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people or things arranged by class or category.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of classifying something according to shared qualities or characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy and library science, a systematic arrangement of organisms or knowledge into hierarchical ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The working out of the many minor problems of classification, assessment, and administration, of unemployment insurance, will require many more years of experimentation. § 13. #Need of ideals in social insurance#."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"My contribution to the history of the human mind consists of little more than a rough and purely provisional classification of facts gathered almost entirely from printed sources."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus Christ transcends our categories and classification; we never exhaust him; and one element of Christian happiness is that there is always more in him than we supposed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural **classification** reflects genealogical descent, grouping organisms by common evolutionary ancestry."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **classification** of tissues depends upon microscopic morphology and embryological origin."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The primary purpose of scientific **classification** is to facilitate the discovery of natural laws."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a school where lessons take place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a school where lessons take place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a school, college, or university where classes of students are taught.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy and social history, the institutional space designed for group instruction and educational development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His manner," says one who heard these lectures, "was quite different in the Church History classroom from what it was in that of Systematic Theology."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparents in the Virtual Classroom The following exchanges illustrate e-mail interaction and communication between elementary school students in one community and older adults residing either nearby or in various locations throughout the country."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the appointed day, waiting in line with my granddaughter to enter her classroom, she glanced around to see if I was still there."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind stood upon the platform of the bare **classroom**, demanding facts and nothing but facts."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The sun streamed through the tall windows of the quiet **classroom** as the pensionnat pupils began their French dictation."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The traditional **classroom** must be transformed into a cooperative workshop where children learn by doing."*

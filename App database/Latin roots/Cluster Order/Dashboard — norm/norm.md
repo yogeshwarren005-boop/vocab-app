@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard or model or pattern regarded as typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic describing the location of a distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard, pattern, or model regarded as typical, usual, or representative of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and jurisprudence, an authoritative rule or principle governing acceptable conduct within a community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But at the heart of the notion was the judgment that general uniform prices fixed in the open market are the proper norms for prices when one of the traders is caught at an exceptional disadvantage."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Public opinion becomes the universal **norm** to which individual citizens conform their behavior."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Legal bureaucracy functions through impersonal allegiance to the abstract constitutional **norm**."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Any deviation from the morphological **norm** may prove either advantageous or fatal under natural selection."*

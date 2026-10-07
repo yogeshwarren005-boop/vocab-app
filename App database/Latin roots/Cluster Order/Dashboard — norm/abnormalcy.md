@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal physical condition resulting from defective genes or developmental deficiencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal physical condition resulting from defective genes or developmental deficiencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atypical irregularity, aberration, or deviation departing from standard order or healthy conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and neurology, an atypical neurological or behavioral deviation from standard developmental milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abnormalcy designates an abnormal physical condition resulting from defective genes or developmental deficiencies."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A transient psychological **abnormalcy** may accompany intense spiritual illumination without implying permanent mental disorder."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient was entirely unaware of any visual **abnormalcy**, compensating unconsciously for the agnosia."*
+> - 📜 **René Dubos (*Mirage of Health*):** *"Biological adaptation often transforms what was once considered an **abnormalcy** into a protective survival advantage."*

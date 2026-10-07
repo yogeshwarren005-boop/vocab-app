@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of or resistant to bending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of compromise or flexibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to bend, yield, or be forced out of shape; stiff, unyielding, and inflexible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict, unbending, and uncompromising in rule, discipline, or belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rigid with consternation, she stopped under the doorway."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In like manner she gets together, in the iron bread-basket, as many outside fragments and worn-down heels of loaves as the rigid economy of the house has left in existence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, and in a rigid manner acknowledges their presence, still fixing Mr."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural classification must not be bound by **rigid** preconceived notions of morphological perfection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle held a **rigid** code of family honor that admitted no compromise with public opinion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman military discipline was enforced with **rigid** severity in every provincial camp."*

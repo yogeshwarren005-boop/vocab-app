@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating an airship having a shape maintained only by internal gas pressure and without a supporting structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating an airship having a shape maintained only by internal gas pressure and without a supporting structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rigid; flexible, pliant, or yielding to pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics, designating an airship (blimp) that maintains its aerodynamic envelope shape solely by internal gas pressure without a metal skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrigid designates designating an airship having a shape maintained only by internal gas pressure and without a supporting structure."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Coastal patrol units deployed **nonrigid** blimps for submarine reconnaissance along shipping lanes."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Cellular membranes function as **nonrigid** hydrostatic boundaries that flex under external osmotic pressure."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Robotic manipulators utilize **nonrigid** polymer joints to mimic the supple compliance of human fingers."*

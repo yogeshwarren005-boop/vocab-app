@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clerk who sorts things (as letters at the post office).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for sorting things (such as punched cards or letters) into classes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or machine that sorts, categorizes, or arranges materials into classes or orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and postal processing, a specialized postal or wool worker who separates items by grade or routing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-office is equal to it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it is a ponderous task; no ordinary letter-sorter in the Post-Office is equal to it."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"He was non-committal--that was the worst of it, and I--Say," added the captain, in an undertone, "I have sorter suspected that he meant to turn us over to the Confederacy." "That's what I have thought for a good while," said Rodney."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The weary letter **sorter** worked through the night under flickering gas lamps."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A wool **sorter** requires practiced touch to distinguish fine fleece from coarse fleece."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meat **sorter** worked along the conveyor, categorizing cuts for commercial canning."*

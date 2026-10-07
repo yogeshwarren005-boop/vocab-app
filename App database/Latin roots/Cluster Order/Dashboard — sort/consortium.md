@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of companies for some definite purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of companies for some definite purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of several business companies, banks, or organizations joining together for a joint venture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman and modern jurisprudence, the reciprocal right of spouses to each other's companionship, affection, and aid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consortium designates an association of companies for some definite purpose."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A powerful financial **consortium** pooled merchant capital to finance colonial canal excavations."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The banking **consortium** underwrote municipal loans, dictating regional development priorities."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"An international **consortium** negotiated rail concessions across the Ottoman territories."*

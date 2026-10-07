@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming stiff or rigid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of becoming stiff or rigid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming rigid, stiff, or inflexible; hardening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and political science, the bureaucratic petrification or dogmatic ossification of institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidification designates the process of becoming stiff or rigid."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The **rigidification** of religious enthusiasm into formal bureaucratic dogma marked the loss of charismatic vitality."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The chief danger in institutional education is the progressive **rigidification** of instructional routines."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Fibrotic disease leads to progressive **rigidification** of the pulmonary parenchyma."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stripped of rigging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of rigging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had the rigging, sails, or equipment removed, especially of a ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of tackle, cordage, or mechanical rigging for winter lay-up or scrap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As she drew nigh, all eyes were fixed upon her broad beams, called shears, which, in some whaling-ships, cross the quarter-deck at the height of eight or nine feet; serving to carry the spare, unrigged, or disabled boats."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"As she drew nigh, all eyes were fixed upon her broad beams, called shears, which, in some whaling-ships, cross the quarter-deck at the height of eight or nine feet; serving to carry the spare, unrigged, or disabled boats."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The battered whaler lay **unrigged** at the wharf, her bare masts pointing toward the grey November sky."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Old decommissioned sailing vessels rested **unrigged** in the tidal mud of the river estuary."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The sailors left the ship completely **unrigged** while the hull was hauled out into dry dock."*

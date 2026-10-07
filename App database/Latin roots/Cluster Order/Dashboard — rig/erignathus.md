@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearded seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearded seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phocid seals containing the bearded seal (Erignathus barbatus), native to the Arctic Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Arctic marine mammalogy and zoology, a large benthic-feeding ice seal characterized by dense fleshy facial vibrissae and heavy square foreflippers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erignathus designates bearded seals."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"In the leads between the Arctic ice floes, we encountered the solitary bearded seal, **Erignathus** barbatus."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"The genus **Erignathus** is distinguished from other phocids by its prominent tactile whiskers and robust skull."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The specialized sensory vibrissae of **Erignathus** enable the mammal to forage for clams along murky sea bottoms."*

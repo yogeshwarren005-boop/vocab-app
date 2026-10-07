@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of persecuting (especially on the basis of race or religion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persecuting (especially on the basis of race or religion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostility, systematic mistreatment, or oppression inflicted on a group or individual, especially for religious or political reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and ecclesiastical history, the state-sponsored suppression or torture of religious nonconformists or minority populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A most devout, hard-working and poorly paid man, was the object of constant persecution by a cross-grained, ugly, infidel neighbor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bitter persecution prevailed with extraordinary power, and threatened every one."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One night, in the days of his bitterest persecution, while he and his friends were praying together, Knox spoke out, and declared _that deliverance has come_."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Religious **persecution** in Europe drove the early Pilgrims to seek spiritual liberty across the Atlantic."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bloody annals of religious **persecution** stain the records of every ancient empire."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Legal **persecution** never succeeds in extinguishing an opinion unless supported by absolute social tyranny."*

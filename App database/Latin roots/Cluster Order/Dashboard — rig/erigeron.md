@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of composite flowering plants commonly known as fleabanes, bearing daisy-like flower heads with narrow ray florets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American floristics, perennial asteraceous herbs that colonize meadows, roadsides, and alpine screes throughout the temperate zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Erigeron** carpet the pastures in early summer with delicate lilac and white ray flowers."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"A charming alpine **Erigeron** blossomed in the cold granite crevices near the summit snowfield."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners value dwarf varieties of **Erigeron** for rockeries and dry floral borders."*

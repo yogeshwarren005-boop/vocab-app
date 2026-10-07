@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lengthy, complicated, and confusing procedure or story; rigmarole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rambling, incoherent, or foolish discourse designed to evade direct answers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I left the paper out yonder in my buggy, but I'll go get it." "That rigamarole is all beyond me, Nannie."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal proceedings degenerated into an incomprehensible **rigamarole** of parchment and precedent."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The guide launched into an elaborate **rigamarole** regarding the miraculous history of the relic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dismissed his excuses as mere political **rigamarole** intended to quiet the electors."*

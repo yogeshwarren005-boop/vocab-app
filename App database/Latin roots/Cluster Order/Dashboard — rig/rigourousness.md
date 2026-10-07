@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something hard to endure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive sternness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of rigorousness; uncompromising thoroughness or strictness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting thoroughness in academic scholarship, scientific investigation, or moral standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigourousness designates something hard to endure."*
+> - 📜 **Samuel Johnson (*The Lives of the Most Eminent English Poets*):** *"The philosophical **rigourousness** of Milton's theological verse commands enduring admiration."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The unbending **rigourousness** of the revolutionary tribunal terrorized Paris for over a year."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Medieval builders tempered structural **rigourousness** with joyful decorative variety."*

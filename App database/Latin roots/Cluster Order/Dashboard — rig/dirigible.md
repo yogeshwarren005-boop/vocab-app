@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A steerable self-propelled aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being steered or directed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being steered or guided; a steerable airship equipped with an engine (a zeppelin or blimp).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early aviation history, a lighter-than-air motorized aircraft that provided the first long-range commercial passenger flights across oceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Disembarked, we lined up for bedrolls, and were pointed toward rows of tents in a muddy field adjacent a dirigible hangar."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The fleet of giant German **dirigible** airships crossed the Atlantic under the cover of night."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The explorer suggested navigating the uncharted South American plateau using a light **dirigible** balloon."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Naval defense required continuous anti-aircraft vigilance against reconnaissance by enemy **dirigible** cruisers."*

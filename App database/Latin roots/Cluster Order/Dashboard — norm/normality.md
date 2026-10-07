@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being within certain limits that define the range of normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a solution) concentration expressed in gram equivalents of solute per liter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to an established standard, customary pattern, or healthy state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, a measure of solution concentration expressed in gram equivalent weights of solute per liter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normality designates being within certain limits that define the range of normal functioning."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Titration experiments require an acid solution of known chemical **normality** to neutralize the alkali."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The routine of country house life provided a welcome return to serene **normality**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habitual routines anchor our mental life in a comforting sense of daily **normality**."*

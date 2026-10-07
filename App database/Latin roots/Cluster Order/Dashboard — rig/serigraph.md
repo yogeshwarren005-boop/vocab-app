@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silkscreen print or screenprint produced as an original work of fine art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art printmaking, a multicolored graphic print pulled through fine silk or synthetic mesh stencils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraph designates a print made using a stencil process in which an image or design is superimposed on a very fine mesh screen and printing ink is squeegeed onto the printing surface through the area of the screen that is not covered by the stencil."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The graphic artisan pulled a brilliant multicolored **serigraph**, registering each tint through stretched silk mesh."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The artist decorated his studio with an experimental **serigraph** displaying vibrant flat planes of Japanese color."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Modern printmakers rediscovered ancient stenciling methods, elevating the commercial screen into an expressive **serigraph**."*

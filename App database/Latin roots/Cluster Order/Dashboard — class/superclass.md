@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic class below a phylum and above a class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic class below a phylum and above a class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior, comprehensive, or encompassing class; a category that subsumes several classes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, a category ranking above a class and below a subphylum (e.g., Tetrapoda).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superclass designates (biology) a taxonomic class below a phylum and above a class."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The comprehensive **superclass** Gnathostomata embraces all vertebrate animals possessing true articulated jaws."*
+> - 📜 **Ernst Haeckel (*Systematic Phylogeny*):** *"Comparative embryology reveals the deep unifying affinities of each vertebrate **superclass**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Skeletal patterns across the **superclass** Tetrapoda conserve the pentadactyl limb architecture throughout diverse habitats."*

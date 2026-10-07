@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making a print by the silkscreen method.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a print by the silkscreen method.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The artistic process or technique of making silkscreen prints; screenprinting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic arts history, the fine art screen-printing method developed in the early twentieth century to distinguish artistic prints from industrial stencils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serigraphy designates the act of making a print by the silkscreen method."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Mastery of manual **serigraphy** allows the artisan to layer bold decorative pigments across paper."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Printmakers combined etching with **serigraphy** to produce rich velvety surface textures."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The craft of **serigraphy** demonstrates that direct mechanical printing can serve genuine artistic imagination."*

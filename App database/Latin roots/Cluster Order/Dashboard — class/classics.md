@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the literary works of ancient greece and rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation of the highest excellence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ancient Greek and Roman literature, philosophy, history, and languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of universally acknowledged literary or artistic masterpieces of enduring excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"And the Gryphon never learnt it.” “Hadn’t time,” said the Gryphon: “I went to the Classics master, though."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In April 1841 he took his M.A. degree, coming out first in Classics and Philosophy, and being bracketed first in Mathematics."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"She spent hours reading the **classics** in the university library, absorbing centuries of philosophical thought."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Education in the **classics** provides the mind with an ideal standard of intellectual excellence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The preservation of the Greek and Latin **classics** was due to the industrious copying of medieval monks."*

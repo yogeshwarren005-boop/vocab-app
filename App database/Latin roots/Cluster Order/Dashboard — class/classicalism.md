@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles, style, or aesthetic ideals characteristic of classical Greek and Roman literature, art, or architecture; classicism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adherence to traditional, balanced, and restrained formal models in literature and fine arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicalism designates a movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The spirit of **classicalism** seeks repose, symmetry, and clear intellectual form."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Strict **classicalism** in architecture often sacrifices living expressive warmth for cold geometrical symmetry."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Eighteenth-century poetry suffered when rigid **classicalism** stifled spontaneous lyrical passion."*

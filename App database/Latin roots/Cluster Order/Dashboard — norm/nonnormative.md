@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on a norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on a norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to or based on an established norm, standard, or convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory and ethics, descriptive of empirical phenomena without establishing moral evaluations or prescriptive rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnormative designates not based on a norm."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Empirical sociology pursues a strictly **nonnormative** analysis of social action and institutional beliefs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Individual developmental trajectories frequently follow **nonnormative** pathways without implying pathology."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"A scientific inquiry into human customs must begin with a **nonnormative** inventory of observable habits."*

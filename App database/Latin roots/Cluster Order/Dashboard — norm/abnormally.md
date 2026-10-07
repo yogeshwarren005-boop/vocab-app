@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abnormal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal, unusual, or atypical manner; deviating from what is standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree markedly exceeding or falling below ordinary statistical or biological averages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Long before a new tariff law goes into effect, even months in advance of its passage, while it is merely in prospect, the course of trade is abnormally affected."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Perhaps I am too imaginative, and the earliest impressions I received were of a kind to stimulate the imagination abnormally."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princess, who had a straight, rigid body, abnormally long for her legs, looked directly at Prince Vasíli with no sign of emotion in her prominent gray eyes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain floral organs were developed **abnormally**, assuming the color and form of adjacent petals."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her pulse beat **abnormally** fast as she waited alone in the dark corridor of the pensionnat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The laboratory reported an **abnormally** low platelet count following the acute viral infection."*

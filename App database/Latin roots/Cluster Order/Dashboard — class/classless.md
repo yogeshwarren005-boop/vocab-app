@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring social equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring social equality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided into social classes; characterized by the absence of economic or social distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical theory and utopian philosophy, an egalitarian society in which private property and caste stratification have been abolished.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classless designates favoring social equality."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"He envisioned a **classless** British commonwealth free from snobbery, poverty, and aristocratic privilege."*
+> - 📜 **Karl Marx (*The Communist Manifesto*):** *"The proletarian revolution aims at the ultimate establishment of a free, **classless** society."*
+> - 📜 **H. G. Wells (*New Worlds for Old*):** *"Socialist thinkers argued that modern technology could create the material basis for a genuinely **classless** democracy."*

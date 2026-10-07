@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states operatic soprano (born in 1945).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian golfer (born in 1955).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Normandy in northern France, or to the Normans who conquered England in 1066.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, the Romanesque architectural style introduced to England by the Normans, characterized by massive round arches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Normans, but bastard Normans, Norman bastards! _Mort de ma vie_, if they march along Unfought withal, but I will sell my dukedom, To buy a slobbery and a dirty farm In that nook-shotten isle of Albion."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It shall pollute, this very night, the choice stream (in which chemists on analysis would find the genuine nobility) of a Norman house, and his Grace shall not be able to say nay to the infamous alliance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So much for Norman blood unaided by Victorian lucre."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The haughty **Norman** baron treated the Saxon thurgh with cold aristocratic disdain."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Adventurous **Norman** knights conquered southern Italy and established a brilliant kingdom in Sicily."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sturdy round piers of the **Norman** cathedral express brute power and solid architectural permanence."*

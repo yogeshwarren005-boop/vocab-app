@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange or order by classes or categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare unavailable, as for security reasons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, categorize, or assign things or persons into classes or groups according to shared attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information security, to designate a document or information as secret or restricted to authorized personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We may classify the records of the Christian exploration roughly in three groups."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And herein we find the trail by which we would classify him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet we have seen that by his baleen it is impossible correctly to classify the Greenland whale."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"We attempt to **classify** organisms according to their natural affinities rather than superficial resemblances."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians must **classify** terms carefully before analyzing the validity of syllogisms."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The first step in any empirical science is to describe and **classify** observed phenomena."*

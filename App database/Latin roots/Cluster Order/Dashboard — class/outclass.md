@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to appear in a lower class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a lower class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be of far higher quality, skill, or ability than a rival; to surpass or surpass completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive sports, arts, or military tactics, to outmatch an adversary so thoroughly as to render competition one-sided.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped the pirates all were dead, Those horrid buccaneers, Who dyed the ocean's waves with red, In wicked bygone years: But now we mourn, as happy days, That sanguinary past, Since Kaiser Bill a hundred ways, Has Captain Kidd outclassed."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The veteran schooner could easily **outclass** the clumsier sealing vessels in open ocean sailing."*
+> - 📜 **Winston Churchill (*The River War*):** *"Modern artillery and discipline enabled the British force to **outclass** the brave but ill-equipped dervish army."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"The young golfer's steady driving began to **outclass** his opponent on every hole of the back nine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become rigid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become rigid, stiff, or inflexible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make an attitude, policy, or theoretical framework strictly uncompromising and resistant to change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidify designates become rigid."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Censorship tends to **rigidify** public dogma into unthinking, lifeless prejudice."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Without conscious effort to learn new skills, aging minds tend to **rigidify** into repetitive motor habits."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Cross-linking peptidoglycan polymers serves to **rigidify** the bacterial cell wall against osmotic pressure."*

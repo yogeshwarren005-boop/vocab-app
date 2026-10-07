@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to classicism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to classicism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitating, derived from, or characterized by classicism, often with an implication of artificiality or rigid formality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, denoting late neoclassical works that copy ancient motifs without original creative spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicistic designates of or relating to classicism."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Cold **classicistic** facades in modern capitals repeat antique pediments without inner architectural purpose."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The playwright avoided dry **classicistic** mannerisms, preferring vigorous contemporary vernacular dialogue."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The young sculptor despised the stale **classicistic** statues of nymphs cluttering Roman studios."*

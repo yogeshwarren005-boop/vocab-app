@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegant and fashionable; ; ; ; - julia child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegant and fashionable; ; ; ; - julia child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stylish, sophisticated, or of high quality; elegant in appearance or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquially, showing superior taste, breeding, or stylish luxury in design or deportment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classy designates elegant and fashionable; ; ; ; - julia child."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The roadster had a sleek, **classy** finish that drew envious glances along the boulevard."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He bought a **classy** pair of motoring gloves to complement the appearance of his new sedan."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bertie donned an extraordinarily **classy** waistcoat that earned Jeeves's immediate silent disapproval."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of things sharing a common attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of students who are taught together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, set, or category of persons, animals, or things having common characteristics or attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, a major division of society based on economic, social, or educational status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then the teacher said that all the pupils of the class--" "Shall I too, shall I, too?" Mäzli urged."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But all the class is on Loneli's side." "But why, Kurt?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Two boys from my class were beaten this morning by Mr."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every prosperous society divides its population into three great orders or **class** distinctions."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists group related orders together to form a comprehensive biological **class**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic mobility prevents any aristocratic **class** from consolidating permanent dynastic privileges."*

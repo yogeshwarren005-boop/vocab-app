@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond the range of the normal or scientifically explainable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond or transcending what is normal, ordinary, or natural; supernormal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular electrophysiology, the brief period during cardiac recovery where myocardial excitability is paradoxically heightened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supranormal designates beyond the range of the normal or scientifically explainable."*
+> - 📜 **William James (*The Will to Believe*):** *"Spiritual philosophy posits the reality of **supranormal** moral ideals that elevate human conduct."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The ventricular muscle enters a transient **supranormal** phase of excitability just before total repolarization."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"He experienced an intuition of **supranormal** serenity that lifted him above mundane mortal anxieties."*

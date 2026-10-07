@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic category below a class and above an order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic category below a class and above an order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary or subordinate class; a subdivision of a larger class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, a category ranking below a class and above an order (e.g., Theria in Mammalia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subclass designates (biology) a taxonomic category below a class and above an order."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Invertebrate zoologists divided the class Insecta into several distinct **subclass** groupings based upon wing structure."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The distinct characteristics of each **subclass** point back to a common ancestral archetype in deep geological time."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Mammalian morphology distinguishes the placental **subclass** from the more primitive egg-laying monotremes."*

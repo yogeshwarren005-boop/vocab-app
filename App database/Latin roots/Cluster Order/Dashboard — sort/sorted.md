@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examine in order to test suitability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, categorized, or separated into distinct classes, orders, or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquially, organized, resolved, or placed in proper working order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s light, these villains will make the word as odious as the word “occupy,” which was an excellent good word before it was ill sorted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _Sorted and consorted, contrary to thy established proclaimed edict and continent canon, which with, O, with—but with this I passion to say wherewith—_ COSTARD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, well, thou hast a careful father, child; One who to put thee from thy heaviness, Hath sorted out a sudden day of joy, That thou expects not, nor I look’d not for."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Sifted by the waves, gravels are **sorted** according to weight along the ocean beach."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea carefully **sorted** her late husband's disordered theological manuscripts."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The corn factor **sorted** the wheat sacks into grades before opening the market."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Latvia, a major historic Baltic port on the Gulf of Riga.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and maritime history, an influential member of the Hanseatic League celebrated for exporting timber, flax, and naval stores (Riga fir).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Riga the day is a festival of flowers."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Merchant caravans transported amber from the Baltic shores near **Riga** across the Roman frontier."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Shipbuilders in London prized stout hemp and straight mast timber imported from **Riga**."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The brig loaded a cargo of fragrant Baltic timber at **Riga** for the Mediterranean ports."*

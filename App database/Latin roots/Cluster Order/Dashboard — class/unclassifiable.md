@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possible to classify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not possible to classify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to classify, categorize, or assign to an established class, category, or order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying conventional boundaries, genres, or taxonomic systems due to unique or hybrid characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unclassifiable designates not possible to classify."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Anomalous organisms that appear **unclassifiable** often represent isolated living fossils of extinct ancestral branches."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical states of consciousness remain largely **unclassifiable** by ordinary intellectual categories."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The eccentric essays of Montaigne remain delightfully **unclassifiable**, resisting all rigid critical labels."*

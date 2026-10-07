@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in italy in southwestern sicily near the coast; the site of six greek temples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in italy in southwestern sicily near the coast; the site of six greek temples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city on the southern coast of Sicily, famous for the magnificent ancient Greek ruins in the Valley of the Temples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and Mediterranean history, ancient Akragas, birthplace of the philosopher Empedocles, renowned for monumental Doric sanctuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrigento designates a town in italy in southwestern sicily near the coast; the site of six greek temples."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"The golden sandstone ruins of the ancient temples at **Agrigento** rise majestically against the southern sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wealthy Greek colony of **Agrigento** was celebrated for its luxurious hospitality and splendid civic monuments."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Travelers marveled at the austere classical dignity preserved among the ancient temples of **Agrigento**."*

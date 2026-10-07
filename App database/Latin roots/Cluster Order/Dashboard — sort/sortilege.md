@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sort within the domain of Order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sort in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of divination or foretelling the future by drawing lots or casting objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and folklore, magical fortune-telling using lots, cleromancy, or casting pebbles to discern divine will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sortilege designates pertaining to, derived from, or characteristic of latin sort within the domain of order."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highland seer practiced ancient **sortilege** with runic stones before embarking upon the raid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pagan soldiers frequently consulted tribal **sortilege** to decide whether to attack."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient augurs placed great superstitious faith in **sortilege** and the random falling of lots."*

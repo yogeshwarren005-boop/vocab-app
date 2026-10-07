@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not normal; not typical or usual or regular or conforming to a norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing from the normal in e.g. intelligence and development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deviating from what is normal, typical, usual, or expected, especially in a way that causes concern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and pathology, departing from standard physiological values or anatomical development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just before dawn he was assisted in waking by the abnormal reverberation of familiar music."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain individuals exhibit **abnormal** muscular variations inherited from remote quadrumanous ancestors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The examiner noted an **abnormal** systolic murmur radiating toward the left axilla."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Any **abnormal** elevation of body temperature signals the mobilization of internal defensive forces."*

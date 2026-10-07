@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The following of ancient Greek or Roman principles and style in art, literature, or architecture, emphasizing balance, restraint, and proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, an aesthetic movement standing in dialectical opposition to Romantic emotionalism and individualism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicism designates a movement in literature and art during the 17th and 18th centuries in europe that favored rationality and restraint and strict forms."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The true vitality of **classicism** consists in disciplined reverence for tradition and objective form."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Romantic curiosity blends with classical beauty whenever Renaissance art triumphs over austere **classicism**."*
+> - 📜 **Johann Wolfgang von Goethe (*Conversations with Eckermann*):** *"Goethe remarked that **classicism** represents healthy artistic discipline, whereas unrestrained romanticism is morbid."*

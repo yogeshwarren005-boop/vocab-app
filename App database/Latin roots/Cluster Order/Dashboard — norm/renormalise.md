@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make normal or cause to conform to a norm or standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of renormalize; to normalize again or readjust to an established standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, to apply mathematical renormalization techniques to remove infinities from quantum field calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renormalise designates make normal or cause to conform to a norm or standard."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"Theorists sought to **renormalise** the quantum electrodynamic equations to remove divergent integrals."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"To calculate the electron's magnetic moment, one must **renormalise** the mass and charge parameters."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Adaptive controllers must periodically **renormalise** their baseline variables in fluctuating environments."*

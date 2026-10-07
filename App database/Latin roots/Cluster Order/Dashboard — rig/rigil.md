@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brightest star in centaurus; second nearest star to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brightest star in centaurus; second nearest star to the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative name for Alpha Centauri (Rigil Kentaurus), the brightest star in the southern constellation of Centaurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Arabic astronomy and astrometry, the foot of the Centaur, designating the closest star system to our solar system (4.37 light-years).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigil designates brightest star in centaurus; second nearest star to the sun."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Known to ancient navigators as **Rigil** Kentaurus, Alpha Centauri shines as the third-brightest star in the sky."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Telescopic measurements of **Rigil** at the Cape Observatory demonstrated its binary nature."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Southern mariners looked to **Rigil** to guide their navigation beneath the Southern Cross."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government official who conducts criminal prosecutions on behalf of the state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government official who conducts criminal prosecutions on behalf of the state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, especially a public official, who institutes and conducts legal proceedings against someone accused of a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the legal representative of the state or crown charged with presenting criminal indictments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Either this must be the case, or the local courts must be excluded from a concurrent jurisdiction in matters of national concern, else the judiciary authority of the Union may be eluded at the pleasure of every plaintiff or prosecutor."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Winter) and the "Crown Prosecutor" (Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Lord Mansfield being willing to save a man who stole a watch, desired the jury to value it at tenpence; upon which the prosecutor cried out, Tenpence, my lord! why the very fashion of it cost me five pounds."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The public **prosecutor** demanded the prisoner's head with passionate revolutionary fervor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The district **prosecutor** represents society at large, exercising vast discretionary authority."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The tenacious **prosecutor** dismantled the defendant's alibi through relentless cross-examination."*

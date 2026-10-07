@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had security classification removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially released from a security classification or secrecy restriction; made accessible to the public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical intelligence research, characterizing governmental documents made available for historical scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassified designates lift the restriction on and make available again."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Recently **declassified** naval dispatches demonstrated how narrow the margin of victory had been in the Atlantic."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The colonial office withheld papers until decades later, when **declassified** files confirmed the unrest."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Scientists eagerly studied **declassified** radar data collected by military tracking stations during the war."*

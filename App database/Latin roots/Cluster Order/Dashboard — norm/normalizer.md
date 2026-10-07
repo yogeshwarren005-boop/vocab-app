@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who normalizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who normalizes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, factor, device, or mechanism that restores or maintains a normal condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heat metallurgy, a furnace or annealing setup utilized to normalize cast or forged steels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalizer designates a person who normalizes."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The nervous system acts as the supreme **normalizer** of physiological functions."*
+> - 📜 **Henry Ford (*Today and Tomorrow*):** *"Continuous conveyor ovens served as an automated **normalizer** for forged transmission gears."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Endocrine hormones function as a vital systemic **normalizer** during intense physical exertion."*

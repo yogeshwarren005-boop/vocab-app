@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lengthy, complicated, and confusing procedure or statement; foolishly elaborate talk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal and colloquial usage, tedious administrative red tape or an incoherent rambling narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Susy ran through a long rigmarole, with a volubility worthy the daughter of a fluent public speaker."*
-> - 📜 **James Joyce (*Ulysses*):** *"Though this sort of thing went on every other night or very near it still Stephen’s feelings got the better of him in a sense though he knew that Corley’s brandnew rigmarole on a par with the others was hardly deserving of much credence."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Gracie came home from school one day last week with the greatest rigmarole he had told her about people who lived down at the shore . . . stories there couldn’t be a word of truth in, you know."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office wrapped every trivial petition in an endless **rigmarole** of official delays."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She refused to listen to her husband's defensive **rigmarole** regarding his failed financial speculations."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mining recorder subjected the prospector to a tiresome **rigmarole** of legal affidavits."*

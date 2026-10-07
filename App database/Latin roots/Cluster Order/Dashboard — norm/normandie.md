@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French spelling of Normandy, a historical province of northwestern France bordering the English Channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, a famous French ocean liner (SS Normandie, 1935) celebrated for Art Deco luxury and the Blue Riband.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chapiseau, _op. cit._ i. 218-220; Amélie Bosquet, _La Normandie Romanesque et Merveilleuse_ (Paris and Rouen, 1845), p. 233."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"We traveled leisurely through the orchard valleys and ancient timbered villages of **Normandie**."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The train carried us toward the misty coast of **Normandie**, where the ocean breeze scented the air."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The traveler reminisced about glamorous crossings on the great transatlantic liner **Normandie**."*

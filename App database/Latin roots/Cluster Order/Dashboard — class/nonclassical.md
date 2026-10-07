@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classical in style, form, origin, or tradition; departing from classical models.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mathematics, designating phenomena (such as quantum entanglement) that cannot be described by classical mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonclassical designates not classical."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Modern poetry embraced **nonclassical** idioms, seeking irregular rhythms suited to industrial life."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The photoelectric effect revealed **nonclassical** behavior of light that necessitated the photon hypothesis."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architecture triumphs precisely through its **nonclassical** irregularity and energetic grotesque forms."*

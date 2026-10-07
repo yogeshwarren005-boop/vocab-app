@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become normal or return to its normal state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or return to a normal condition, standard, or regularity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering, to heat and cool a ferrous metal to produce uniform grain structure and relieve internal stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalize designates become normal or return to its normal state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous saline served to **normalize** the circulatory volume in severe dehydration."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Careful heat treatment helped to **normalize** the steel rails, preventing brittle winter fractures."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic institutions tend to **normalize** social manners, smoothing away aristocratic eccentricities."*

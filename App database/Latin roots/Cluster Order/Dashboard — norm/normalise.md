@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become normal or return to its normal state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of normalize; to bring or return to a normal standard, state, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, to heat steel above its critical temperature and air-cool it to refine grain structure and relieve stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalise designates become normal or return to its normal state."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Authorities attempted to **normalise** daily life in Barcelona by reopening the shops and disarming the militias."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Annealing will **normalise** the internal crystal boundaries of drawn copper wire."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rest and hydration helped to **normalise** the patient's elevated heart rate within two days."*

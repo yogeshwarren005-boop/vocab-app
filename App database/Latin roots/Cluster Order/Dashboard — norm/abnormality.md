@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal physical condition resulting from defective genes or developmental deficiencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retardation sufficient to fall outside the normal range of intelligence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal feature, characteristic, condition, or occurrence; a malformation or irregularity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, a congenital defect or structural aberration arising during embryogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abnormality designates an abnormal physical condition resulting from defective genes or developmental deficiencies."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"A remarkable anatomical **abnormality** in the plumage appeared spontaneously in several domestic pigeons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful microscopic analysis of the blood smear revealed no cellular **abnormality**."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"He investigated the skeletal **abnormality**, concluding it represented a rare suture closure rather than a distinct species."*

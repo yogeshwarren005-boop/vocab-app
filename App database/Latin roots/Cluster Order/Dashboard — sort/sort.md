@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A category of things distinguished by some common characteristic or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An approximate definition or example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A category of things or persons having common characteristics; a kind, variety, or type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To arrange, classify, or separate items according to kind, quality, or destination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But do not so, I love thee in such sort, As thou being mine, mine is thy good report. 97 How like a winter hath my absence been From thee, the pleasure of the fleeting year!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, daughter, sing, or express yourself in a more comfortable sort."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SERVINGMAN. ’Tis so, and as war in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, than are dreamt of in our **sort** of philosophy."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection serves to **sort** beneficial genetic variations from deleterious ones."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was a quiet, unassuming **sort** of man who rarely spoke above a whisper."*

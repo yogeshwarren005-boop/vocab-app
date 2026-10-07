@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of standards or regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of standards or regulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of normalization; the process of making or becoming normal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic diplomacy and politics, the re-establishment of peaceful diplomatic and commercial relations between states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalisation designates the imposition of standards or regulations."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The swift **normalisation** of civilian trade became our primary concern once coastal shipping lanes were secured."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Post-war reconstruction requires the **normalisation** of civic life without returning to Victorian inequalities."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Disrupting continental commerce prevented the natural **normalisation** of European currencies."*

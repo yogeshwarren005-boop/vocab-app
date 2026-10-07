@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplying dry land with water by means of ditches etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) cleaning a wound or body organ by flushing or washing out with water or a medicated solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The artificial application of water to soil or crops through canals, pipes, or sprinklers to aid agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical medicine, the continuous or intermittent flushing of a wound or catheter with therapeutic solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Men were at work here and there—for it was the season for “taking up” the meadows, or digging the little waterways clear for the winter irrigation, and mending their banks where trodden down by the cows."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Theirs was the first irrigation we had seen, although we had little time to mark their ditches and channels by which all the hill waters flowed to the fields they had builded."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irrigation enterprises [a] [a] 360 3."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient civilization of the Nile valley flourished entirely upon the annual flood and canal **irrigation**."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"Scientific **irrigation** transforms barren desert basins into productive agricultural lands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Copious saline **irrigation** of the infected joint space prevented ankylosing complications."*

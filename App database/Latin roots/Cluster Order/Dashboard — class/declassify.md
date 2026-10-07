@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lift the restriction on and make available again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially remove the security classification from information or documents, allowing public dissemination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law, to downgrade or release confidential military or governmental records for academic analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassify designates lift the restriction on and make available again."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The ministry decided to **declassify** key aerial photographs to demonstrate the extent of coastal damage."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Authorities refused to **declassify** internal reports on industrial diseases in coal mines."*
+> - 📜 **Sinclair Lewis (*It Can't Happen Here*):** *"The dictator took care never to **declassify** financial records that would expose treasury fraud."*

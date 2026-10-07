@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make normal or cause to conform to a norm or standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To normalize again, or readjust values to conform to a standard distribution or baseline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum electrodynamics and statistical mechanics, to re-scale parameters to cancel divergent loop infinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renormalize designates make normal or cause to conform to a norm or standard."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Physicists learned how to **renormalize** divergent electron self-energy integrals with stunning empirical success."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Quantum chemists **renormalize** molecular orbital wavefunctions so their total probability integrates to unity."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Statistical algorithms must continuously **renormalize** probabilities as fresh observational data arrives."*

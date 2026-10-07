@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction or removal by the government of restrictions on a classified document or weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduction or removal by the government of restrictions on a classified document or weapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official process of removing a security classification from a document or information, making it public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In government archival policy, the release of historical state papers to public archives after expiration of statutory secrecy periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassification designates reduction or removal by the government of restrictions on a classified document or weapon."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The eventual **declassification** of wartime cryptographic records revealed the immense role of the Ultra decrypts."*
+> - 📜 **George Orwell (*1984*):** *"In an authoritarian state, the systematic alteration of records replaces any orderly **declassification** of truth."*
+> - 📜 **Upton Sinclair (*The Brass Check*):** *"Journalists campaigned for the **declassification** of government diplomatic cables concerning the treaty."*

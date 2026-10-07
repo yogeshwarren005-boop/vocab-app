@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in orion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in orion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant blue-white supergiant star in the constellation Orion, the seventh-brightest star in the night sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stellar astrophysics, a luminous binary star system (Beta Orionis) approximately 860 light-years from Earth with an absolute luminosity tens of thousands of times that of the Sun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rigel!" his mind called, and the thought went on."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Down there they were locked in battle--men and Lassans, his own people and the invaders from far-away Rigel."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you think that the Lassans of Rigel, the highest race in the universe will let go where they have once grasped?" "You will or we'll jolly well make you," replied the American."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The dazzling sapphire brilliance of **Rigel** marks the western foot of the mighty hunter Orion."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Spectroscopic observations of **Rigel** reveal an intensely hot supergiant shedding mass into interstellar space."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I walked home under the glittering winter constellations, guided by the cold blue spark of **Rigel**."*

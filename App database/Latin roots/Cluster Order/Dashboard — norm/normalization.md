@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of standards or regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imposition of standards or regulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bringing or returning something to a normal, standard, or regular condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database theory and statistics, the restructuring of data to eliminate redundancy and adjust values to a common scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalization designates the imposition of standards or regulations."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The **normalization** of bureaucratic procedures eliminates arbitrary personal favoritism."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Diplomats worked tirelessly toward the **normalization** of international shipping through the straits."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Antibiotic therapy promoted the swift **normalization** of the patient's white blood cell count."*

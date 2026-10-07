@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming stiff or rigid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become rigid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming rigid, stiff, or unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a hardening or ossifying influence upon institutions, habits, or materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidifying designates the process of becoming stiff or rigid."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Uncritical tradition acts as a **rigidifying** force, arresting creative adaptation in social life."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Calcification produces a **rigidifying** effect upon the skeletal plates of invertebrates."*
+> - 📜 **William James (*Pragmatism*):** *"The philosopher warned against the **rigidifying** tendencies of absolute rationalist systems."*

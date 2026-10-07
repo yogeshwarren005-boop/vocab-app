@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make classic or classical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make classic or classical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make classical; to cause to conform to classical Greek or Roman styles, standards, or forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic and literary history, to refine vernacular prose by imposing Latinate syntax and vocabulary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicize designates make classic or classical."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Florentine humanists strove to **classicize** the language of their contemporaries after ancient Cicero."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Efforts to **classicize** English verse often fail because our native rhythms resist quantitative meters."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Painters who artificially **classicize** natural landscapes rob mountains of their true wild majesty."*

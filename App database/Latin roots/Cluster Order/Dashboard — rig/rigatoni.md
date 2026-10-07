@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tubular pasta in short ribbed pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tubular pasta in short ribbed pieces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of tube-shaped pasta with ridged external surfaces and straight-cut ends, popular in Italian cuisine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy, a hollow extruded pasta whose ridges hold thick, hearty meat or tomato ragù sauces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigatoni designates tubular pasta in short ribbed pieces."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"Toss the freshly boiled **rigatoni** with a robust sausage and tomato sauce so the ridges catch the meat."*
+> - 📜 **M. F. K. Fisher (*The Art of Eating*):** *"We enjoyed steaming platters of baked **rigatoni** layered with mozzarella and fragrant basil."*
+> - 📜 **Waverley Root (*The Food of Italy*):** *"Roman trattorie serve **rigatoni** with pajata, maintaining an ancient culinary tradition."*

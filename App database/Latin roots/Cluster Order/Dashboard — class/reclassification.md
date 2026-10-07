@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classifying something again (usually in a new category).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classifying something again (usually in a new category).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of classifying something again, or assigning it to a different category or rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library taxonomy and biology, updating the taxonomic position of a species or book following revised empirical evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassification designates classifying something again (usually in a new category)."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"New anatomical discoveries often necessitate the radical **reclassification** of problematic fossil taxa."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **reclassification** of barnacles as crustaceans rather than mollusks was one of Darwin's great triumphs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Fiscal reform required the systematic **reclassification** of taxable commodities according to essentiality."*

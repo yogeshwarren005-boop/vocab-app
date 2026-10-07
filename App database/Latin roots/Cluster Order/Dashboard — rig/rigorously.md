@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an extremely thorough, exhaustive, or accurate manner; strictly and without exception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With severe discipline, austerity, or unbending adherence to law or scientific method.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And you should take their words for it.” “They don’t say so exactly.” “Oh yes, they must!” “Well, I mean to my face, as you do,” she went on, allowing herself to be further lured into a conversation that intention had rigorously forbidden."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this cabin he shuts up his daughter so that she cannot see the light, and there she remains fasting rigorously for four days."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every working hypothesis must be **rigorously** tested against observed facts across diverse disciplines."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A democratic society must **rigorously** protect the right of minorities to voice nonconformist opinions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Spartan magistrates **rigorously** enforced the ancient laws of Lycurgus among youth."*

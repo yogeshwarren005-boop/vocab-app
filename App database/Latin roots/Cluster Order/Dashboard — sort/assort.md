@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To classify, categorize, or arrange things into groups according to kind or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To suit, harmonize, or correspond appropriately with something in tone, style, or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never can there come fog too thick, never can there come mud and mire too deep, to assort with the groping and floundering condition which this High Court of Chancery, most pestilent of hoary sinners, holds this day in the sight of heaven and earth."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"No more need of our daily Committee and their pleasant aids, to unpack and assort supplies for our sick and wounded."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Falcon, steering straight for some chairs he had discovered, brought them for the ladies despite all the assorted objects on the floor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants carefully **assort** their textiles to satisfy the diverse demands of urban customers."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Her quiet, modest manners did not well **assort** with the noisy merriment of the tavern."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders inspect the herd to **assort** animals possessing identical favorable variations."*

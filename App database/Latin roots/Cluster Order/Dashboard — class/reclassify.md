@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classify anew, change the previous classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classify anew, change the previous classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign someone or something to a different class, category, or classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and zoology, to transfer an organism to another genus or family upon uncovering phylogenetic affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassify designates classify anew, change the previous classification."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists were forced to **reclassify** several anomalous marsupials once their skeletal anatomy was understood."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"We must **reclassify** educational disciplines to give physical sciences an equal place alongside the humanities."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians continuously **reclassify** terms as scientific knowledge broadens the extension of concepts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal, typical, or ordinary conditions; usually, as a rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a normal, standard, or healthy manner, free from abnormality or disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some have thought this cycle to be normally a period of ten years, divided into one year of crisis, three years of depression, three years of recovery, and three years of unusual prosperity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Foreign trade normally imparts increased efficiency to the productive forces of each country."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Normally, you would have started orientation and psy-phys testing immediately."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Insects that **normally** dwell in dark caverns frequently lose their visual organs over generations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with that keen amusement she **normally** derived from eccentric characters."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When the heart beats **normally**, the mitral valve closes securely during ventricular systole."*

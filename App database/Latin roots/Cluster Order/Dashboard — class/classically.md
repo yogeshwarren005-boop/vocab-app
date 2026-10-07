@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of greek and roman culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of greek and roman culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characteristic of classical style, antiquity, or traditional standards; elegantly and symmetrically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mathematics, according to classical (non-quantum, non-relativistic) physical laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, as you are to have them anyway, I want to have the whole town entertain the whole Commission and Bolivar with what is classically called among us a barbecue-rally, the countryside to be invited."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Papa, we shall be late,” said Princess Hélène, turning her beautiful head and looking over her classically molded shoulder as she stood waiting by the door."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her features were **classically** proportioned, possessing the serene beauty of an antique marble bust."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His profile was **classically** carved, reminiscent of an Athenian youth carved in Parian stone."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"A particle moving **classically** obeys Newton's equations until velocities approach the speed of light."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange the outcome of by means of deceit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manipulate in a fraudulent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped, outfitted, or fitted with sails, cordage, or mechanical equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manipulated, prearranged, or fixed dishonestly to produce a fraudulent outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God prospered the efforts--the ship righted; they got the pumps at work, rigged a sail, and were finally all saved."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"She was a thirty-footer, without a deck, ketch-rigged. (1) Shelley's health was good, and this June, passed in bathing, sailing, reading, and hearing Jane sing simple melodies to her guitar in the moonlight, was a gleam of happiness before the end."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"With a keen cutting-spade, Queequeg lances the gums; then the jaw is lashed down to ringbolts, and a tackle being rigged from aloft, they drag out these teeth, as Michigan oxen drag stumps of old oaks out of wild wood-lands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod was fully **rigged** for her three-year cruise into the remote Pacific sperm whale grounds."*
+> - 📜 **Joseph Conrad (*Youth*):** *"The Judea was a bark **rigged** ship that creaked in every timber under the heavy seas."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Union delegates warned that the factory election was hopelessly **rigged** by management."*

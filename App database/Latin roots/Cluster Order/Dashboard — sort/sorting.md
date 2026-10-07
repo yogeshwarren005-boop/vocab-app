@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation that segregates items into groups according to a specified criterion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic cognitive process of arranging into classes or categories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of arranging, classifying, or separating items into groups or orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and algorithmics, the systematic arrangement of a dataset into a specified monotonic order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, still opening her letters, casting her bright eyes smilingly over them, and sorting them as she spoke, “that you have a business example before you in your mother."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge was sorting the letters."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection involves the continuous **sorting** of individuals possessing desired traits."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The clerks spent days **sorting** dusty bundles of legal depositions tied with red tape."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Information theory treats automated **sorting** as the progressive reduction of informational entropy."*

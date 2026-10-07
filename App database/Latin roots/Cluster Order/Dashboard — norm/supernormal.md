@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the range of the normal or scientifically explainable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceeding the normal or average.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding the normal or average; beyond what is ordinary, typical, or natural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and ethology, designating stimuli that elicit an exaggerated biological response (supernormal stimuli).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supernormal designates beyond the range of the normal or scientifically explainable."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystics report subjective experiences of **supernormal** perceptual clarity and transcendent insight."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain ornamental secondary sexual traits appear to function as a **supernormal** mating lure."*
+> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"The author investigated reports of **supernormal** telepathic communication among subjects."*

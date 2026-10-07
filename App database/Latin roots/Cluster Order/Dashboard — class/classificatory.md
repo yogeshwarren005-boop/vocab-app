@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving classification:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving classification:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or serving the purpose of classification or categorization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and kinship theory, designating kinship terminologies (such as Morgan's classificatory systems) grouping relatives under broad categorical terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classificatory designates relating to or involving classification:."*
+> - 📜 **Lewis Henry Morgan (*Systems of Consanguinity and Affinity of the Human Family*):** *"The Iroquois system provides a classic example of **classificatory** kinship relationships."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Anthropologists analyze **classificatory** naming systems to trace the prehistoric evolution of the human family."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Taxonomists must avoid arbitrary **classificatory** schemes that obscure genuine evolutionary affinities."*

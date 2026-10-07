@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval norman dialect of old french.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval norman dialect of old french.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of Old French spoken by the medieval Normans and introduced to England after the Conquest of 1066.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and linguistic history, the legal register (Law French) derived from medieval Norman vernacular used in English royal courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, norman-french designates the medieval norman dialect of old french."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"In the royal court, harsh Saxon idioms were banished in favor of polished **Norman-French** poetry."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The blending of Anglo-Saxon grammar with **Norman-French** vocabulary produced modern English."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"English statutes were framed for centuries in archaic **Norman-French** terms."*

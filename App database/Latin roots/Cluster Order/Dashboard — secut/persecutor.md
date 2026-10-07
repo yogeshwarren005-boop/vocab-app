@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who torments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who torments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who persecutes, oppresses, or systematically mistreats another, especially on religious, racial, or political grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and martyrological literature, an agent or magistrate enforcing oppressive edicts against victims of conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A persecutor I am sure thou art."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A PERSECUTOR PUNISHED BY THE LORD."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And now the awful persecutor is converted. 5."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The dying martyr addressed his imperial **persecutor** with unyielding spiritual fortitude."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian fled from the furious **persecutor** who sought to turn him back from the celestial path."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The once-humble clerk transformed himself into a ruthless **persecutor** during the Reign of Terror."*

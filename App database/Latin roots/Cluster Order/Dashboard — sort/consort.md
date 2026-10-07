@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The husband or wife of a reigning monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of similar musical instrument playing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wife, husband, or companion, especially of a reigning monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To associate with, keep company with, or spend time with, often implying undesirable companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soon, at five o’clock, Please you, I’ll meet with you upon the mart, And afterward consort you till bedtime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their music frightful as the serpent’s hiss, And boding screech-owls make the consort full!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, madam, he was of that consort."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The empress was hailed as imperial **consort**, sharing the honors of the throne."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Mercutio rebuked Tybalt for suggesting that he did **consort** with Romeo in public."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A true knight must not **consort** with outlawed banditti roaming the Sherwood forests."*

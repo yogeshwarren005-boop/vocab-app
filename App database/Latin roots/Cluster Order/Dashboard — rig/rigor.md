@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something hard to endure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valid and rigorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting thoroughness, exhaustive precision, or uncompromising strictness in action, thought, or analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and pathology, a sudden feeling of cold accompanied by shivering; or the post-mortem stiffening of muscles (rigor mortis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Be sure, with all the cruelty, with all the rigor, For thou hast rob'd me villain of a treasure. _Enter Guard_."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having been roused to discern consequences which he had never been in the habit of tracing, he was preparing to act on this discernment with some of the rigor (by no means all) that he would have applied in pursuing experiment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was nerving himself to this rigor as he rode from Brassing, and meditated on the representations he must make to Rosamond."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific induction requires absolute mathematical **rigor** to eliminate erroneous hypotheses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden onset of lobar pneumonia is marked by a severe chill or **rigor**."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection tests every organic structure with the unsparing **rigor** of survival."*

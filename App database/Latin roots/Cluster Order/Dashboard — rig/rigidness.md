@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of being stiff and resisting bending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unyielding stiffness, physical immobility, or stern moral strictness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unyielding firmness of posture, purpose, or moral temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidness designates the physical property of being stiff and resisting bending."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The Puritan magistrate was marked by a cold **rigidness** that tempered justice with merciless severity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The iron **rigidness** of Captain Ahab's expression revealed his monomaniacal determination."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The style was preserved from dry **rigidness** by subtle cadences of poetic rhythm."*

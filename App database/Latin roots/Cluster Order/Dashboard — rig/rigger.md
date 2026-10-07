@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rigs ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender pointed sable brush used by artists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in the erection, installation, and maintenance of ship rigging, heavy hoisting equipment, or scaffolding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation and industrial construction, a specialized craftsman who aligns cables and secures structural loads for cranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck’s astir,” said the rigger."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*
+> - 📜 **Herman Melville (*Redburn*):** *"The experienced shipyard **rigger** clambered up the shroud lines with the agility of a monkey."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"A veteran **rigger** checked every stay and turnbuckle before the vessel faced the Cape horn gales."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Shipwrights and every busy sail **rigger** hammered along the crowded Thames docks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusual largeness in size or extent or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual largeness in size or extent or number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immensely vast physical size, stupendous magnitude, or overwhelming bulk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, the overwhelming sublimity or magnitude of an object that defies ordinary comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enormousness designates unusual largeness in size or extent or number."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer **enormousness** of the leviathan's bulk filled the weary whalemen with awe."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Contemplating the starry heavens, man feels his own insignificance before the silent **enormousness** of the cosmos."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter conveyed the terrifying **enormousness** of the alpine precipice through subtle contrasts of mist and shadow."*

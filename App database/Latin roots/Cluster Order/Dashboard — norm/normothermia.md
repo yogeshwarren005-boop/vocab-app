@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normal body temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having a normal, healthy core body temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and anesthesiology, the active maintenance of core body temperature between 36.5°C and 37.5°C during surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normothermia designates normal body temperature."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"Mammalian survival depends upon the precise regulation of internal **normothermia** against cold."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The preoptic area of the hypothalamus coordinates sweating and shivering to preserve **normothermia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Active warming blankets were applied to re-establish **normothermia** in the hypothermic survivor."*

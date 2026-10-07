@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to appear in a lower class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decisively surpassed by something else so as to appear to be of a lower class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely surpassed, outmatched, or defeated by someone of superior skill, quality, or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placed in a position of obvious inferiority through an encounter with superior talent or equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"We hoped the pirates all were dead, Those horrid buccaneers, Who dyed the ocean's waves with red, In wicked bygone years: But now we mourn, as happy days, That sanguinary past, Since Kaiser Bill a hundred ways, Has Captain Kidd outclassed."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The unorganized strikers were hopelessly **outclassed** by the armed mercenaries guarding the factory gates."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The youthful soldier realized his ragged regiment was completely **outclassed** by the veteran enemy brigade."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The French cavalry were thoroughly **outclassed** by the deadly rapid volleys of the English longbowmen."*

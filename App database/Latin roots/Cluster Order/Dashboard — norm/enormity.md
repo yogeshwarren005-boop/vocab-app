@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being outrageous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vastness of size or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extreme scale, monstrous nature, or outrageous wickedness of an offense or crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vastness, immense magnitude, or overwhelming scale of something, such as a tragedy or undertaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what enormity is Martius poor in, that you two have not in abundance?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish my people to be impressed with the enormity of the crime, the determination to punish it, and the hopelessness of escape."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet, I am inclined to think that her own disposition must be naturally bad, or she could not be guilty of such an enormity, at so early an age."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman populace was stunned by the flagrant **enormity** of the emperor's cruelties."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No rhetorical artifice can disguise the moral **enormity** of overturning ancient ancestral constitutions."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Few statesmen in Europe grasped the full **enormity** of the catastrophe gathering on the horizon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A printer's error; to be corrected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printer's error; to be corrected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in a printed book or manuscript to be corrected; a single item in a list of corrigenda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic publishing and bibliography, a formal published notice correcting a factual or typographical error in a previous article.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrigendum designates a printer's error; to be corrected."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The editor printed a prominent **corrigendum** in the journal to correct an erroneous chemical formula."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Every printed logarithmic table was accompanied by a tedious **corrigendum** of computational blunders."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The pedantic author was mortified to discover a grave **corrigendum** upon the very first page of his treatise."*

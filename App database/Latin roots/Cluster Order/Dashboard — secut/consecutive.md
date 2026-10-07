@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One after the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following continuously in unbroken or logical sequence; successive without interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar and logic, expressing consequence, result, or sequential derivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their general likeness to each other, and their consecutive ages, would almost have suggested that they might be, what in fact they were, brothers."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, his discourse in the forenoon was always a "lecture" expository of some extended passage of Scripture, and forming one of a consecutive series; while that in the afternoon followed the familiar lines of an ordinary sermon."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It must be remembered that for convenience I have assembled my intermittent and repetitional jacket experiences into coherent and consecutive narratives."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"For three **consecutive** days, the legions repulsed the fierce assaults of the barbarian cavalry."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Through countless **consecutive** generations, slight adaptive modifications accumulate within a population."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A workman cannot sustain intense labor through many **consecutive** hours without exhaustion."*

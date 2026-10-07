@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to suffer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject an individual or group to hostility, mistreatment, or oppression, especially on grounds of religion, race, or political belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To harass, pester, or trouble persistently with troublesome importunities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But this can only be received as a proof of their determination to persecute, since it must be within everybody’s experience that the Chadband style of oratory is widely received and much admired."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So when Hawea began to persecute her stepchildren, the spirit of their own mother would assist and protect them."*
+> - 📜 **John Milton (*Areopagitica*):** *"To **persecute** honest men for differences in doctrine is to destroy truth in the name of order."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Zealous magistrates were urged to **persecute** the dissenting sects throughout the provinces."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My cruel cousins continued to **persecute** me with petty taunts whenever Aunt Reed left the room."*

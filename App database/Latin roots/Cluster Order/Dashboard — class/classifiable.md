@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being classified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being classified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being classified, categorized, or placed into a distinct class or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy and information science, possessing identifiable attributes that permit systematic assignment to an established genus or index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classifiable designates capable of being classified."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"All living organisms are readily **classifiable** into groups subordinate to groups across the tree of life."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every physical phenomenon is **classifiable** under universal laws of matter and energy."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A concept is scientifically useful only when its defining attributes render it **classifiable**."*

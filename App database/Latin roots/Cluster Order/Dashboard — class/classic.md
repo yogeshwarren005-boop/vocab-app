@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creation of the highest excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who has created classic works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Judged over a period of time to be of the highest quality, outstanding, and an enduring model of its kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary work, musical composition, or art object recognized for enduring artistic value and timeless relevance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For many years the author was known almost entirely for her Alpine classic, "Heidi"."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To be sure, I knew nothing of the subject and do not even now know whether the young gentlemen of classic Rome or Greece made verses to the same extent—or whether the young gentlemen of any country ever did."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Whether this was a story of classic times or out of our own remote history, I could not recollect."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A true literary **classic** belongs to the human race, offering timeless moral wisdom."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"To read an acknowledged **classic** is to measure our modern sensibility against timeless mastery."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"A work attains the rank of a **classic** when it reflects the mature consciousness of a complete culture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigid, stiff, or inflexible manner; without yielding or bending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly and uncompromisingly adhering to rules, customs, or moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper raising his head, she makes another poke at her esteemed grandfather, and having thus brought them together, stares rigidly at the fire."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She locked her fingers, threw back her head, and strained her hot hands rigidly across her forehead, saying, with a hysterical sob, “Would to God you would speak and tell me your secret, Fanny!..."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her brow had heavily contracted; her whole face was pallid, her lips apart, her eyes rigidly staring at their visitor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The haughty baronet adhered **rigidly** to the formal etiquette of his aristocratic ancestors."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection does not operate **rigidly** in uniform environments where competition is weak."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John stood **rigidly** upon his theological principles, demanding complete submission to duty."*

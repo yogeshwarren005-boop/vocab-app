@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being valid and rigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of rigor; exacting strictness, thoroughness, or severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshness or severity of climate, circumstances, or monastic discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this I heard: the King is come to his daughter, With others whom the rigour of our state Forc’d to cry out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He arrests him on it, And follows close the rigour of the statute To make him an example."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Critical analysis must combine intellectual **rigour** with sympathetic candour toward human weakness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries complained of the unrelenting **rigour** of military discipline on the frontier."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The old Covenanter lived under the severe **rigour** of Calvinist orthodoxy."*

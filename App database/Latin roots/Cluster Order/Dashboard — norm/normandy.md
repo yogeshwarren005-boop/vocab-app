@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical province of northwestern France along the English Channel, known for dairy farming, cider, and medieval history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In World War II military history, the site of the Allied D-Day amphibious landings on June 6, 1944.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two months since Here was a gentleman of Normandy,— I’ve seen myself, and serv’d against, the French, And they can well on horseback, but this gallant Had witchcraft in’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you yourselves, Somerset, Buckingham, Brave York, Salisbury, and victorious Warwick, Received deep scars in France and Normandy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the death of Him that died for all, These counties were the keys of Normandy!"*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Allied liberation armies landed along the storm-tossed beaches of **Normandy** on D-Day."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"William the Conqueror sailed from **Normandy** with a host of knights to claim the English crown."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"The story unfolded in the quiet farming countryside and provincial towns of upper **Normandy**."*

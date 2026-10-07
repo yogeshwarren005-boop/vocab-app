@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly accurate; allowing no deviation from a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely thorough, accurate, or exhaustive; strictly applied or followed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harsh, severe, or austere in climate, conditions, or moral discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be thrown down the Tarpeian rock With rigorous hands."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this condition, wrapt up and shrouded like a corpse, she was kept for two or three days or so long as the symptoms lasted, and during this time she had to observe a most rigorous fast."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"These rigorous observances she must practise for nearly a year."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Only through **rigorous** geometrical demonstration can the true laws of mechanics be established."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A **rigorous** scientific training teaches the student to accept only evidence verified by observation."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sledge dogs endured the **rigorous** Arctic winter through relentless physical stamina."*

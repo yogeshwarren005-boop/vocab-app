@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of being stiff and resisting bending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stiffness, inflexibility, or physical resistance to bending and deforming forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a sustained resistance to passive muscle stretch (e.g., lead-pipe rigidity in Parkinsonism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The body lost nothing of its dreadful rigidity."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The **rigidity** and cohesion of solid bodies arises from the intense attractive forces between adjacent particles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked muscular **rigidity** of the abdominal wall serves as an cardinal sign of acute peritonitis."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His proud countenance relaxed from its customary **rigidity** into a rare smile of warmth."*

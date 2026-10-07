@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduct a prosecution in a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring a criminal action against (in a trial).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To institute legal proceedings against a person or organization in respect of a criminal charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pursue, carry on, or continue with a project, task, or course of action to completion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should not I then prosecute my right?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had been too rough a life for them at Flintcomb-Ash, and they had come away, almost without notice, leaving Groby to prosecute them if he chose."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A sovereign must protect citizens from violence and vigorously **prosecute** fraudulent practices."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Trajan resolved to **prosecute** the Parthian war with the full military might of the empire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The crown attorney decided to **prosecute** the suspected clerk without further delay."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or dealing with norms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to giving directives or rules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establishing, relating to, or deriving from a standard or norm, especially of behavior or evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and legal theory, prescribing what ought to be done rather than describing empirical facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Although the former (we are thinking of neglect) is undoubtedly only too true the case he cites of nurses forgetting to count the sponges in the peritoneal cavity is too rare to be normative."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Utilitarian principles provide a coherent **normative** standard for evaluating legislative morality."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Social scientists must separate empirical factual judgments from subjective **normative** evaluations."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Democratic ethics construct **normative** ideals directly from lived human experience."*

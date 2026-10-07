@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who normalizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who normalizes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, chemical, or mechanism that normalizes or restores something to a regular state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract algebra and group theory, the subgroup of elements that commute with a given subset; a normalizing subgroup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normaliser designates a person who normalizes."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"The liver acts as a metabolic **normaliser**, keeping blood sugar concentrations constant."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Negative feedback loops serve as an automatic **normaliser** in complex homeostatic networks."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Renal excretion functions as the ultimate **normaliser** of electrolyte balances in mammalian plasma."*

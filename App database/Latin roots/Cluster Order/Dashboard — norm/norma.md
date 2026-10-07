@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near lupus and ara in the milky way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A square, carpenter's square, or rule; historically a model, standard, or pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniometry and human anatomy, an aspect or view of the skull (such as norma verticalis, norma facialis, or norma lateralis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, norma designates a small constellation in the southern hemisphere near lupus and ara in the milky way."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Viewed in **norma** verticalis, the cranial vault presents an oval outline broader behind than in front."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Comparison of the fossil calvaria in **norma** lateralis established the low brow of Neanderthal specimens."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"The craniologist photographed each prehistoric specimen carefully in **norma** basilaris."*

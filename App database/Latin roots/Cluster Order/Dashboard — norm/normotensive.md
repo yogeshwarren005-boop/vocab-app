@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having normal blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having normal blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by normal arterial blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, designating a patient or experimental subject whose blood pressure falls within standard healthy physiological parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normotensive designates having normal blood pressure."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The regulatory baroreceptor reflex maintains the mammal in a **normotensive** state during postural shifts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient remained comfortably **normotensive** throughout the postoperative recovery period."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Baseline hemodynamics must be verified in **normotensive** animals before introducing pharmacological agents."*

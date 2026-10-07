@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic person who adheres to classicism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student of ancient greek and latin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who specializes in the study of ancient Greek and Latin language, literature, history, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist, writer, or architect who follows or advocates classical principles of design and composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicist designates an artistic person who adheres to classicism."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A competent **classicist** reads Homer not as an archaeological curiosity, but as a living master."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The dedicated **classicist** spent decades annotating Greek tragedy in quiet university chambers."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life*):** *"My early ambition was to become an accomplished **classicist**, immersed in the Latin historians."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to a security classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in any specific grouping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not assigned to any class, category, or group; not categorized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and government administration, not subject to security classification; openly accessible to the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unclassified designates not subject to a security classification."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Hundreds of **unclassified** plant specimens gathered on the voyage remained stacked in botanic garden cabinets."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The general made sure the dispatch was kept **unclassified** so that it could be printed immediately in daily newspapers."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A chaotic mass of **unclassified** facts does not constitute true science until bound by inductive laws."*

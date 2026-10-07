@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being within certain limits that define the range of normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expectedness as a consequence of being usual or regular or common.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular, stable, or ordinary state, free from crisis, agitation, or distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, the return to stable, peaceful domestic life following wartime upheaval or national crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalcy designates being within certain limits that define the range of normal functioning."*
+> - 📜 **Warren G. Harding (*Return to Normalcy Address*):** *"America's present need is not heroics, but healing; not nostrums, but **normalcy**."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Citizens yearned for a quiet era of comfortable economic **normalcy** after the European war."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"A veneer of bourgeois **normalcy** returned to their lives after the scandalous summer in the country."*

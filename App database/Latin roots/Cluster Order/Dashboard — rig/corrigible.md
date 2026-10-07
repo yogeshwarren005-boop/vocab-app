@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrected or set right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrected or set right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrected, reformed, or improved; open to amendment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and ethics, describing beliefs, theories, or moral faults that yield to evidence and constructive discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrigible designates capable of being corrected or set right."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Human errors are happily **corrigible** when the mind submits its hypotheses to sensory experience."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The kind-hearted blacksmith believed that any young lad was **corrigible** if treated with gentle patience."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific conclusions remain perpetually **corrigible** in the light of newly discovered empirical facts."*

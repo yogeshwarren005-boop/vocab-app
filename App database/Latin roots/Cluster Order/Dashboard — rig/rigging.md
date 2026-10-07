@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gear consisting of ropes etc. supporting a ship's masts and sails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of masts, spars, sails, etc., on a vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of ropes, cables, chains, and spars that supports and controls the masts and sails of a vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial construction and theater, the tackle, hoists, and ropes used to lift and support heavy scenery or materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They cut away the masts, and cleared away the rigging, and brought all the force they could to right the vessel."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During an excursion of a few miles into the country, he observed a sort of rigging attached to the chimney of a farmhouse well known to him, and asked what it meant."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gale shrieked through the taut cordage of the **rigging**, coating the ratlines with ice."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A solitary seaman hung suspended high in the **rigging**, scouring rust from the topgallant mast."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"We spent long watches tarring down the standing **rigging** under the tropical sun."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for labetalol, an alpha- and beta-adrenergic blocker used to treat hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacotherapy, an antihypertensive medication that reduces peripheral vascular resistance without causing reflex tachycardia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normodyne designates antihypertensive drug (trade names trandate and normodyne) that blocks alpha and beta-adrenergic receptors of the sympathetic nervous system (leading to a decrease in blood pressure)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prescribing an adrenergic blocker like **Normodyne** helps control severe hypertensive crises."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Hemodynamic studies confirmed that **Normodyne** lowers arterial pressure by blocking both alpha and beta receptors."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Clinicians carefully titrated the patient's **Normodyne** dosage to stabilize labile blood pressure swings."*

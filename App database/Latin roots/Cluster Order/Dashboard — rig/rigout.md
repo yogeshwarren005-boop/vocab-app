@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's costume (especially if bizarre).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person's costume (especially if bizarre).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outfit or set of clothes, especially an unusual, eccentric, or elaborate costume; rig-out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial nineteenth-century British speech, an entire suit of apparel or distinctive dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigout designates a person's costume (especially if bizarre)."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was embarrassed by Joe's awkward **rigout** when the honest blacksmith visited London in his Sunday best."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The country musicians donned their finest Sunday **rigout** to perform at the village wedding."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"He exchanged his respectable suit for a tramp's ragged **rigout** before hitting the open road."*

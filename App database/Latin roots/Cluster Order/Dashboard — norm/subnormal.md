@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of less than normal intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Below normal or average.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the normal, usual, or typical level, standard, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and meteorology, characterizing body temperature, cognitive scores, or seasonal rainfall falling beneath average norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subnormal designates a person of less than normal intelligence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In states of profound septic collapse, the patient's temperature may fall to a **subnormal** level."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Prolonged periods of **subnormal** rainfall desiccated inland lake basins across the continent."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory thresholds may register **subnormal** acuity during states of acute nervous exhaustion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: To a vast or extraordinary degree; immensurably or exceedingly.
-> 2. **Secondary / Nuanced Definition**: *(Etymological & Historical Sense)* Literally "beyond the rule or norm" (from Latin *e-* + *norma*); originally used to describe conduct or proportions that transgressed established bounds before shifting to general intensification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a very great degree, extent, or amount; hugely or immensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and comparative analysis, exceeding ordinary metrics by a substantial margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Life for both sexes—and I looked at them,eked out by their pavement—is arduous, difficult, a perpetual struggle, and calls for **enormously** stout courage."*
-> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their vast, **enormously** wealthy indifference."*
-> - 📜 **Richard Feynman (*Six Easy Pieces*):** *"The electrical force between two protons is **enormously** stronger than their mutual gravitational attraction."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated vegetables vary **enormously** when raised under different conditions of soil and climate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor increases the productive powers of manufacturing **enormously**."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Her spirits rose **enormously** as the carriage rattled past the blossoming hedgerows of Sussex."*

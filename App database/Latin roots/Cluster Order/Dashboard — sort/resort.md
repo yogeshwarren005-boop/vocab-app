@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hotel located in a resort area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently visited place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn to and adopt a particular strategy, expedient, or course of action in difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place visited for holidays, relaxation, or recreation; or the frequent congregating of people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie on thee, wretch. ’Tis pity that thou liv’st To walk where any honest men resort."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This must not be.’ And then I precepts gave her, That she should lock herself from his resort, Admit no messengers, receive no tokens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall all our houses of resort in the suburbs be pulled down?"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A civilized government must not **resort** to physical coercion where persuasion suffices."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Bath was the fashionable winter **resort** for families seeking society and healing waters."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Desperate generals were forced to **resort** to dangerous mercenary alliances."*

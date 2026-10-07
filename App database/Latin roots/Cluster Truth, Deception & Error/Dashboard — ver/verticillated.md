@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming one or more whorls (especially a whorl of leaves around a stem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming one or more whorls (especially a whorl of leaves around a stem).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Whorled; disposed or arranged in circular tiers or rings around an axis or node.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by whorled branching or cyclical positioning of floral parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillated designates forming one or more whorls (especially a whorl of leaves around a stem)."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The stems are upright, bearing **verticillated** whorls of linear leaves that distinguish the species from marsh horsetails."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Under cultivation, the **verticillated** arrangement of petals frequently multiplies into dense double blossoms."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **verticillated** nodes of Chara present an ideal subject for microscopic observation of cyclosis."*

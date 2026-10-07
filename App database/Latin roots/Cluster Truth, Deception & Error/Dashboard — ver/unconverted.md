@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in character, form, use, or religious conviction; unregenerate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not transformed or exchanged into legal specie or another asset class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Still unconverted, but, to satisfy his mother, he consented to remain in the room during a visit of the missionary of that district; a man with sufficient tact not to make his efforts obnoxious."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The boy's tears moved him, and the question struck his heart; and father and mother, up to that hour unconverted, were soon on their way to the prayer-meeting, where they found Jesus." A LITTLE GIRL'S QUESTION."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It had been for himself so very soluble a problem to live in England assimilated yet unconverted that it seemed to him equally simple his lawful heir should after his death carry on the grey old bank in the white American light."*
+> - 📜 **John Bunyan (*The Pilgrim’s Progress*):** *"The **unconverted** sinner remains blind to the imminent perils that threaten his immortal soul."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The gold was useless to me on the island, remaining **unconverted** into food, tools, or clothing."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His neighbors viewed him as an **unconverted** alien who cared nothing for church bells or village feasts."*

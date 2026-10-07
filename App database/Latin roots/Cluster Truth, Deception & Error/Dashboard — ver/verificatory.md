@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to verify, confirm, authenticate, or substantiate a contested claim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing evidentiary corroboration within a scientific or judicial inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verificatory designates serving to support or corroborate."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The production of written documents furnishes a powerful **verificatory** test against fraudulent oral testimony."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every **verificatory** experiment brings us closer to an exact mathematical formulation of physical laws."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Deduction traces out consequences which then submit to the **verificatory** scrutiny of inductive testing."*

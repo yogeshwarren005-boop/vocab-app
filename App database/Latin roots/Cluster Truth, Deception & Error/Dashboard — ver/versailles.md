@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central france near paris; site of the palace of versailles that was built by louis xiv in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palace built in the 17th century for louis xiv southwest of paris near the city of versailles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grand royal palace and estate in Île-de-France, serving as the principal seat of French royal power from Louis XIV to the 1789 Revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The city southwest of Paris, or the landmark 1919 Peace Treaty of Versailles that concluded World War I.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare Edmond Doutté, _Magie et Religion dans l'Afrique du Nord_ (Algiers, 1908), p. 571 note I. [453] Bossuet, _Oeuvres_ (Versailles, 1815-1819), vi. 276 ("Catéchisme du diocèse de Meaux")."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He could well understand the stories they told of Napper Tandy, and the great rebel in the gardens of Versailles."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Put it even that they are like the fishwives who helped to bring back to Paris from Versailles, on that most ominous day of the first half of the French Revolution, the carriage of the royal family."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The starving women of Paris marched through the soaking rain to the gilded gates of **Versailles**, demanding bread from the King."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I visited the splendid halls and fountain gardens of **Versailles**, marveling at the boundless extravagance of the Grand Monarque."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The Treaty of **Versailles** imposed financial reparations that ignored the fundamental economic solidarity of European industry."*

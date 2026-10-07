@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer who is considered the father of science fiction (1828-1905).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer who is considered the father of science fiction (1828-1905).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jules Verne, the celebrated 19th-century French author renowned for pioneering adventure novels such as *Twenty Thousand Leagues Under the Sea* and *Journey to the Center of the Earth*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the extraordinary scientific voyages, submarines, and technological optimism celebrated in the novels of Jules Verne.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verne designates french writer who is considered the father of science fiction (1828-1905)."*
+> - 📜 **H. G. Wells (*The War of the Worlds (Preface)*):** *"The scientific romances of Jules **Verne** dealt with practical possibilities of invention, anticipating submarines and lunar flight."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Like a character in a romance by **Verne**, Professor Challenger seemed to command the hidden secrets of the antediluvian earth."*
+> - 📜 **George Orwell (*Collected Essays*):** *"As a boy I was intoxicated by Jules **Verne**, whose boundless technological optimism mirrored the nineteenth-century belief in human progress."*

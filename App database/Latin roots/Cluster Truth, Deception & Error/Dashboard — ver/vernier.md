@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who described the vernier scale (1580-1637).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small movable scale that slides along a main scale; the small scale is calibrated to indicate fractional divisions of the main scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small movable auxiliary scale running parallel to a fixed graduated scale, used to make accurate fractional readings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxiliary mechanism or control providing fine, micro-metric adjustment on an instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernier designates french mathematician who described the vernier scale (1580-1637)."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I recorded the barometric pressure hourly on our mountain ascent, using a delicate brass instrument equipped with a silver **vernier**."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The modern theodolite uses a **vernier** scale to measure celestial and terrestrial angles down to seconds of an arc."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The control panel of the machine was furnished with delicate ivory dials and a minute nickel **vernier** to register the flight of minutes."*

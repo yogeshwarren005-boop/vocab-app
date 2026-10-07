@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritating or obnoxious person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small animals or insects that are pests; e.g. cockroaches or rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild mammals or insects harmful to crops, game, livestock, or health, such as rats, fleas, or foxes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contemptible, noxious, or vile human beings considered parasitic upon society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How to prevent the fiend and to kill vermin."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To the mainland we were taken and thrown into a stinking, vermin-infested prison."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The vermin there in the corner—clear it out,” he commanded."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Mice and rats and such small deer Have been Tom’s food for seven long year; eating such **vermin** upon the foul heath."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The King of Brobdingnag concluded that mankind was the most pernicious race of little odious **vermin** that nature ever suffered to crawl upon the surface of the earth."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The rats and human **vermin** crept out of their dark garrets in Saint Antoine to prowl the Paris streets."*

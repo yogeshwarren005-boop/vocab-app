@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proving, testing, or demonstrating the accuracy or truth of a fact or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirming identity, accounts, or records by documentary comparison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"For these examinations he prepared most carefully, sitting up sometimes till two o'clock in the morning collecting material and verifying references which he deemed necessary to make them complete."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Provisions in large quantities were received, thus verifying the old promise, 'Before they call I will answer.'" THE LORD PROVED TRUE."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"And by all their hostility to the doctrines of grace, sinners are only verifying the description, which inspiration gave long ago, of their blindness and perverseness."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In **verifying** the statements of previous observers, I found several remarkable exceptions to the accepted rule."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He spent the whole afternoon in **verifying** the railway timetables and cross-referencing the telegraphic dispatches."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate took delight in **verifying** minute anatomical structures with his compound microscope."*

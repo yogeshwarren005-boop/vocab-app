@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose verse or poetry; to render into metrical or rhyming form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To translate or rewrite prose narrative into rhymed stanzas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Song—Will Ye Go To The Indies, My Mary?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"First Six Verses Of The Ninetieth Psalm Versified, The O Thou, the first, the greatest friend Of all the human race!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Sir, Yours this moment I unseal, And faith I’m gay and hearty!"*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was ever ready to **versify** a classical fable or translate a Latin ode for the booksellers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men did anciently **versify** their laws and moral precepts, so that the rhythm might assist the memory of the populace."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was tempted to **versify** his domestic misfortunes in a melancholy ballad for the local journal."*

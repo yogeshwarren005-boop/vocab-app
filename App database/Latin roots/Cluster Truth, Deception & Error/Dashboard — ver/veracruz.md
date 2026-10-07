@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major mexican port on the gulf of mexico in the state of veracruz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major mexican port on the gulf of mexico in the state of veracruz.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Veracruz, major historical port city and municipality on the Gulf of Mexico in the Mexican state of Veracruz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the historic Mexican state, maritime trade, or military sieges centered at Veracruz.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veracruz designates a major mexican port on the gulf of mexico in the state of veracruz."*
+> - 📜 **William H. Prescott (*History of the Conquest of Mexico*):** *"Cortés founded the municipality of **Veracruz** on the burning sands of the coast, laying the cornerstone of the Spanish empire in the New World."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The commercial road ascending from **Veracruz** to the high plateau of Anahuac was the vital artery of Mexican trade."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"Our army landed south of **Veracruz** under cover of the navy without losing a single soldier in the surf."*

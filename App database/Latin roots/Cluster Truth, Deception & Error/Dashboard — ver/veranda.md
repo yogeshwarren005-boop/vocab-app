@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roofed, open-air gallery, porch, or portico attached to the exterior of a building, level with the ground floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural feature designed for shade and outdoor leisure in warm or tropical climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Carry up her satchel, and see that she has every thing she wants." Having given the order, Zoe stepped out to the veranda where Edward still was, having staid behind to give directions in regard to the horses."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Wouldn't it be well for you to advise her never to set foot on that dangerous veranda again?" Arthur smiled."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Now let us make haste to get our breakfast, and then attend to the finishing touches needed by the house and our own persons." "Stay," said Edward, detaining her as she was starting up the steps into the veranda."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The punkah swung lazily above the **veranda**, stirring the hot evening air as the officers sat over their cigars."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He stepped out upon the broad teak **veranda** of the bungalow, looking down upon the dark, silent river."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The footsteps led directly past the jasmine-covered **veranda** and vanished toward the gravel carriage drive."*

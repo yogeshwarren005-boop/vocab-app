@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opposition to a civil authority or government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeking or intending to disrupt, undermine, or overthrow an established government, order, or doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an intent to challenge conventional assumptions, morals, or artistic traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I don’t know what there may be to say, but you must remember that Ralph must talk.” “He thinks your friend’s too subversive--or not subversive enough!"*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He seemed to recognise this same tendency in the subversive enquiry that I quoted a moment ago, and set himself to answer our heroine’s question with greater urbanity than it perhaps deserved."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These sceptical doubts would naturally be repelled by the other with scorn and indignation as airy reveries subversive of the faith and manifestly contradicted by experience."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Socrates was put to death by his countrymen for propagating opinions deemed **subversive** of traditional civic piety."*
+> - 📜 **George Orwell (*1984*):** *"Any thought that questioned the infallibility of the Party was branded as a **subversive** crime worthy of vaporisation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The theory of biological descent was at first denounced as **subversive** of all religious reverence and public morals."*

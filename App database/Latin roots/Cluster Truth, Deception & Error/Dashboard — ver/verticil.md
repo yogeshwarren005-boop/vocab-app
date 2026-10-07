@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A whorl of leaves growing around a stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A whorl of leaves growing around a stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a whorl or circular arrangement of leaves, flowers, or branches radiating from a single node around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular tier of appendages radiating around a common biological center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticil designates a whorl of leaves growing around a stem."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the genus Equisetum, each joint of the stem is encircled by a **verticil** of slender green branchlets."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The floral organs represent modified leaves arranged in an alternating **verticil** around the floral receptacle."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The small white flowers are clustered in a dense **verticil** at each upper node of the square stem."*

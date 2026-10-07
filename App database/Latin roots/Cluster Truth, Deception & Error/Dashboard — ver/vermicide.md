@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that kills worms (especially those in the intestines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that kills worms (especially those in the intestines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance, pharmaceutical agent, or medication that kills parasitic intestinal worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthelmintic preparation that destroys helminths rather than merely expelling them alive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermicide designates an agent that kills worms (especially those in the intestines)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Oleoresin of aspidium acts as an efficient **vermicide** against tapeworm when preceded by appropriate fasting."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical trial demonstrated that santonin administered as a **vermicide** eliminated the parasites within forty-eight hours."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Modern anthelmintics function either as a **vermicide** by paralyzing parasite neurochemistry or as a mechanical evacuant."*

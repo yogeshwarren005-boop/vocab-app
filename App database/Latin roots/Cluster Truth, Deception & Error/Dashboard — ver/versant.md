@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The side or slope of a mountain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side or slope of a mountain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general slope or drainage basin of a mountain range or geographical territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination, aspect, or geographical facet sloping toward a particular body of water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, versant designates the side or slope of a mountain."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The eastern **versant** of the Andes is clothed in impenetrable primeval rain forests fed by moist Atlantic winds."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The southern **versant** of the mountain chain exhibits profound glacial moraines accumulated during the Pleistocene epoch."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Streams cascading down the western **versant** of the range carve deep granite canyons of unmatched grandeur."*

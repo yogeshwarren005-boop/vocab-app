@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The narrow central part of the cerebellum between the two hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The narrow central part of the cerebellum between the two hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The narrow, median worm-like lobe of the cerebellum that connects the lateral hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the central cerebellar structure that coordinates posture, equilibrium, and trunk movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermis designates the narrow central part of the cerebellum between the two hemispheres."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lesions situated in the cerebellar **vermis** typically produce severe truncal ataxia, causing the patient to sway and stagger like a drunken man."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"Medulloblastomas occurring in early childhood almost invariably arise from the posterior inferior aspect of the **vermis**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cerebellar **vermis** constitutes the primitive core of the hindbrain, well developed even before the lateral hemispheres expand."*

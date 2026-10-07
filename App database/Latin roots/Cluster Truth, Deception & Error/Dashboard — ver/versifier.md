@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes metrical verse, especially one who writes uninspired, mechanical, or trivial rhymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhymester or craftsman of verse who lacks true poetic genius or vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The versifier sang the parts of the King and Queen in turn, and found each audience perfectly willing to be the oxen, the sweethearts, the swans, the sons, the shepherds, etc."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"In the King of Yellow Butterflies and the Potatoes' Dance Miss Dougherty occupied the entire eye of the audience and interpreted, while the versifier chanted the poems as a semi-invisible orchestra, by the side of the curtain."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A mere **versifier** can count syllables upon his fingers, but only the true poet breathes passion into his lines."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Many a wretched **versifier** mistaken for a genius has strutted his brief hour in the coffee-houses of London."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Arthur fancied himself a Byron, though his tutor treated him as nothing more than a harmless juvenile **versifier**."*

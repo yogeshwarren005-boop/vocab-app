@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstracted state of absorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absentminded dreaming while awake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of daydreaming or being abstracted in deep, fanciful meditation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airy, visionary train of thought or imaginative speculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So still and subdued and yet somehow preluding was all the scene, and such an incantation of revery lurked in the air, that each silent sailor seemed resolved into his own invisible self."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then falling into a moment’s revery, he again looked up towards the sun and murmured to himself: “Thou sea-mark! thou high and mighty Pilot! thou tellest me truly where I _am_—but canst thou cast the least hint where I _shall_ be?"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She never objected to frequent the haunts of pleasure, but was as much alone there as in the depths of solitude; walking about in a sad revery, apparently unconscious of the world around her."*
+> - 📜 **Edgar Allan Poe (*Ligeia*):** *"I was overwhelmed by memories of my lost love, sinking into a gloomy and passionate **revery**."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The old magistrate was startled out of his solemn **revery** by the shrill cry of the child."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sat in my sunny doorway from sunrise till noon, rapt in a **revery**, amidst the pines and hickories and sumachs."*

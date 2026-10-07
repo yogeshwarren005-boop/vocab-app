@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transverse manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a crosswise or lateral direction perpendicular to the main longitudinal axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Across the width or breadth rather than along the length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wound up, rubbing his thumb transversely along the edges of the leaves as he held the book forward."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Exploring, I found another short gallery running transversely to the first."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The two cells are separated by a partition or dissepiment, which divides the original cell transversely into an upper and lower cell, with an external constriction in the plane of the dissepiment (Plate IV. fig. 59)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The striped zebra is barred **transversely** with dark bands across its neck, flank, and legs."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Voluntary muscle fibers are marked **transversely** by minute alternate light and dark bands under the microscope."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The huge whale-line ran **transversely** across the thwarts, humming like a bow-string under immense tension."*

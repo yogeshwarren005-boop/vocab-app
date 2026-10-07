@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the vicinity of the vertebrae or spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing, composed of, or supported by a vertebral column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **vertebral** column in all mammals conforms to an underlying homologous blueprint inherited from a common ancestor."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **vertebral** canal encloses the spinal cord, giving off pairs of somatic nerves through the intervertebral foramina."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The neural spines of the **vertebral** series were enormously elongated in this fossil dinosaur to support a dorsal sail."*

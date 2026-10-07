@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being traversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being traversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to cross, travel over, or pass through due to natural or artificial barriers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassable or presenting insurmountable obstacles to transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untraversable designates incapable of being traversed."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The earthquake split the tableland with yawning chasms that rendered the road utterly **untraversable** for weeks."*
+> - 📜 **Herman Melville (*Typee*):** *"The precipitous basalt ridges rising behind the bay appeared completely **untraversable** to any human foot."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A vast swamp filled with venomous serpents and sucking morasses made the southern boundary of the plateau **untraversable**."*

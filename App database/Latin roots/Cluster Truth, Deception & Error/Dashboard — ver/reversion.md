@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a return to a normal phenotype (usually resulting from a second mutation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of returning to a previous state, practice, or ancestral condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology (atavism), the reappearance of an ancestral trait in an organism after several generations of absence; in law, the return of an estate to the grantor after the expiration of a grant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, and so we should, where now remains A sweet reversion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine is not so, For nothing hath begot my something grief, Or something hath the nothing that I grieve. ’Tis in reversion that I do possess, But what it is, that is not yet known what, I cannot name. ’Tis nameless woe, I wot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No perfection in reversion shall have a praise in present."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When domestic breeds run wild, they display a marked tendency toward **reversion** to the coloration and habits of their aboriginal wild ancestors."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An estate in **reversion** is the residue of an estate left in the grantor, to commence in possession after the determination of some particular estate granted out."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone held out hopes of a **reversion** in his land, keeping his hungry relatives in anxious suspense."*

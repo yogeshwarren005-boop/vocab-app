@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of vermont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of vermont.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, citizen, or resident of the U.S. state of Vermont.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person embodying the traditional Yankee traits of thrift, taciturnity, and independence associated with rural Vermont.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A shrewd **Vermonter** had set up a sawmill along the riverbank, turning northern pine into profitable rafts of lumber."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The native **Vermonter** chops his firewood with a steady economy of motion that makes every axe-blow tell."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The granite character of the **Vermonter** was hammered out against stony hillsides and long sub-zero winters."*

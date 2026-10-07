@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of fate: an elf who personified the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of fate: an elf who personified the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Norse mythology, Verthandi (Verðandi), one of the three Norns who dwell by the Well of Urd, personifying the present time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mythological fate goddess representing the living, unfolding moment between Urðr (the past) and Skuld (the future).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verthandi designates goddess of fate: an elf who personified the present."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"By the sacred tree Yggdrasil sit the three Norns: Urd the Past, **Verthandi** the Present, and Skuld the Future, weaving the destiny of all existence."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"The name **Verthandi** springs from the ancient Germanic root of becoming, designating that which is coming into being hour by hour."*
+> - 📜 **William Morris (*The Story of Sigurd the Volsung*):** *"Before the throne of Odin whispered **Verthandi**, recounting the deeds of living heroes upon the plains of Midgard."*

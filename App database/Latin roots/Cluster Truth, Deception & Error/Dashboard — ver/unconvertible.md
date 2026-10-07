@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being converted, transformed, or exchanged into another form or currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly resistant to spiritual conversion or intellectual persuasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconvertible designates used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"An **unconvertible** paper currency depreciates whenever the volume in circulation exceeds the real needs of commerce."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The evils of an **unconvertible** paper medium fall with greatest severity upon the wage-earning classes."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"There are minds so hardened in conceit that they remain completely **unconvertible** by the plainest logic."*

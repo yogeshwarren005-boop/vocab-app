@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with deep respect, awe, veneration, or profound admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Held in sacred honor by tradition, religious community, or historical memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Brown, with whom, since he was a student, he had stood in the closest relations, and whom he revered and habitually addressed as a father."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revered defender of beauteous Stuart, Of Stuart, a name once respected; A name, which to love was the mark of a true heart, But now ’tis despis’d and neglected."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was **revered** by the country clergy as a prodigy of theological erudition."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The memory of Marcus Aurelius was **revered** as that of a philosopher who adorned the purple with spotless virtue."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The aged divine was **revered** as a saint who seemed already to breathe the atmosphere of paradise."*

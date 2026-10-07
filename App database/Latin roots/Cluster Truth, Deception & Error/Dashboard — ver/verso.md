@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Left-hand page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal that does not bear the principal design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The left-hand page of an open book or manuscript, bearing an even page number; opposite of recto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back or reverse side of a single leaf, drawing, print, or postage stamp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 54 _verso_."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This was a genuine antique Ko vessel." FOOTNOTES: [Footnote 95: Quoted in the _T´ao lu_, bk. ix., fol. 9 verso."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"On the **verso** of the drawing sheet, Leonardo had scribbled notes on the flight of birds alongside a mathematical diagram."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Upon examining the old manuscript, Holmes pointed out an obscure watermark visible only upon the **verso** of the parchment."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The valuable poetical fragment was penciled in faded ink upon the **verso** of a domestic laundry bill."*

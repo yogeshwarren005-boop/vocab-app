@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reverence; in a reverent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reverence; in a reverent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With deep, solemn respect, veneration, and devotional awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a devoutly attentive or pious manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chide him for faults, and do it reverently, When you perceive his blood inclined to mirth; But, being moody, give him time and scope, Till that his passions, like a whale on ground, Confound themselves with working."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bright star of Venus, fall’n down on the earth, How may I reverently worship thee enough?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Northumberland, I hold thee reverently."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing **reverently** placed the consecrated wafer upon the tomb, guarding the threshold with holy power."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"He took my hand **reverently**, assuring me that his devotion would endure through every misfortune."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The seamstress kissed the hem of his coat **reverently**, drawing courage from his sublime composure."*

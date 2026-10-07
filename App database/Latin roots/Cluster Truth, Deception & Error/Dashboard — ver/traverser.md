@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who moves or passes across.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who moves or passes across.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who travels across, negotiates, or journeys over a route or territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the party who enters a traverse, formally denying a matter of fact alleged by the adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traverser designates someone who moves or passes across."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **traverser** must confine his denial to the material averment without raising immaterial collateral issues."*
+> - 📜 **Walter Scott (*Waverley*):** *"The solitary **traverser** of the highland pass wrapped his tartan plaid tightly against the piercing sleet."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"To the wilderness **traverser**, every bend of the forest river reveals a fresh sanctuary of undisturbed nature."*

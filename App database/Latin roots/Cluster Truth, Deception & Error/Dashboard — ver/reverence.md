@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound respect for someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reverent mental attitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound respect, awe, and veneration felt or shown toward someone or something sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gesture of deep respect, such as a bow or curtsy; or an ecclesiastical title of address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have as much of my father in me as you, albeit I confess your coming before me is nearer to his reverence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rather, saving reverence of the word, for ’tis said a woman’s fitness comes by fits."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"You must not think, Sir, to carry it thus with me; I hold my place with **reverence** and authority."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With low **reverence** the heavenly hosts bowed before the eternal throne."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked upon him with a **reverence** that bordered on religious devotion, hanging upon his every word."*

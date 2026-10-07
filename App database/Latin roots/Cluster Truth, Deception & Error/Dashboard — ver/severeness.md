@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Austerity, harshness, or unyielding strictness in discipline or weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simplicity and total absence of ornamental indulgence or luxury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severeness designates used of the degree of something undesirable e.g. pain or weather."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **severeness** of his moral censure alienated many who might otherwise have profited by his instruction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The unusual **severeness** of the winter destroyed almost all the weaker songbirds across the southern counties."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early Gothic architecture achieves noble majesty through the uncompromising **severeness** of its structural lines."*

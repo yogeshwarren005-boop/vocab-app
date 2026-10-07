@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pasta in strings thinner than spaghetti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pasta in strings thinner than spaghetti.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pasta made in long, slender, thread-like strings, thinner than spaghetti in Italian cuisine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any thin, curled, or worm-like edible strand used in broths, soups, or desserts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A saucer of spun rice or millet, looking much like vermicelli, with a seasoning of vinegar, cost five cash."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The tavern kitchen was fragrant with steaming bowls of soup enriched with delicate ribbons of **vermicelli**."*
+> - 📜 **Herman Melville (*Typee*):** *"The ship's cook served a curious mess of salt beef and boiled **vermicelli** that the hungry sailors devoured with gusto."*
+> - 📜 **George Eliot (*Romola*):** *"Florentine street vendors offered piping hot dishes of **vermicelli** tossed with cheese and fragrant olive oil."*

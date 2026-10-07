@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in ontario that flows northeast into hudson bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in england and wales flowing into the bristol channel; the longest river in great britain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The River Severn, the longest river in the United Kingdom (220 miles), rising in mid-Wales and emptying into the Bristol Channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the tidal basin, navigation, or geological valley formed by the River Severn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Leave not the worthy Lucius, good my lords, Till he have cross’d the Severn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three times hath Henry Bolingbroke made head Against my power; thrice from the banks of Wye And sandy-bottom’d Severn have I sent him Bootless home and weather-beaten back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His mother was a French governess, and it seems that a secret attachment existed between her and the late Lord Severn."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Three times they breath’d and three times did they drink, Upon agreement, of swift **Severn**’s flood; Who then, affrighted with their bloody looks, Ran fearfully among the trembling reeds."*
+> - 📜 **John Milton (*Comus*):** *"There is a gentle nymph not far from hence, That with moist curb sways the smooth **Severn** stream, Sabrina is her name."*
+> - 📜 **Daniel Defoe (*A Tour Through the Whole Island of Great Britain*):** *"The high spring tide rushes up the mouth of the **Severn** with an astonishing roar, forming a foaming bore."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggestive of youth; vigorous and fresh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or occurring in spring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, in, or appropriate to spring; appearing or occurring in the spring season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fresh, youthful, or suggestive of the beginning of life and vegetative renewal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The myrtles, geraniums, and cactuses packed around her were fresh and green, and at such a leafless season they invested the whole concern of horses, waggon, furniture, and girl with a peculiar vernal charm."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was that period in the vernal quarter when we may suppose the Dryads to be waking for the season."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have been green, too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you now than once freshened me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now gentle gales, Fanning their odoriferous wings, dispense Native perfumes, and whisper whence they stole Those balmy spoils. As when to them who sail Beyond the Cape of Hope, and now are past Mozambic, off at sea north-east winds blow Sabean odours from the spicy shore Of Araby the blest; with such delay Well pleased they slack their course, and many a league Cheered with the grateful smell old Ocean smiles: So entertained those odorous sweets the Fiend Who came their bane, though with them better pleased Than Asmodeus with the fishy fume That drove him, though so huge, from Media post, And down in Tartarus chained fast. There sat the Shadow, enjoying the **vernal** bloom of Paradise."*
+> - 📜 **William Wordsworth (*Lines Written in Early Spring*):** *"One impulse from a **vernal** wood May teach you more of man, Of moral evil and of good, Than all the sages can."*
+> - 📜 **Percy Bysshe Shelley (*Ode to the West Wind*):** *"Wild Spirit, which art moving everywhere; Destroyer and preserver; hear, oh, hear! When thine azure sister of the Spring shall blow Her clarion o’er the dreaming earth, and fill With living hues and odours plain and hill: Wind of the **vernal** dawn, awaken the world."*

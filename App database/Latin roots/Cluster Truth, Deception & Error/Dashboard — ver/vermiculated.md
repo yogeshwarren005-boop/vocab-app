@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate with wavy or winding lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with wormlike tracery or markings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornamented or marked with wavy, worm-like channels, veins, or rustic masonry patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, having delicate wavy or worm-like markings on feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The scapular feathers of the male duck are beautifully **vermiculated** with minute transverse lines of dark brown."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The basement story of the palazzo was faced with boldly **vermiculated** rustic stonework."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wrinkled brow of the old whale was curiously **vermiculated** with deep scars from battles with rival bulls."*

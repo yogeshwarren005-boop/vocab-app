@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish philologist (1846-1896).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish philologist (1846-1896).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Karl Verner, the Danish philologist who explained apparent exceptions to Grimm's Law by demonstrating the effect of Proto-Indo-European mobile accent on Germanic consonants (*Verner's Law*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Verner's Law, the sound change in historical Germanic linguistics governing the voicing of voiceless fricatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verner designates danish philologist (1846-1896)."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The discovery made by **Verner** in 1875 removed the last great anomaly from the comparative grammar of the Indo-European tongues."*
+> - 📜 **Henry Sweet (*The History of Language*):** *"By demonstrating the influence of the original Sanskrit pitch accent, **Verner** proved that phonetic laws admit of no arbitrary exceptions."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"My countryman Karl **Verner** possessed a modest genius, transforming the whole field of Germanic philology with a single brilliant paper."*

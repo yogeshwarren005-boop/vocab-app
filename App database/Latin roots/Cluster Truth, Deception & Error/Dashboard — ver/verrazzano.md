@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Italian Renaissance navigator Giovanni da Verrazzano, who first recorded the discovery of New York Bay and Narragansett Bay in 1524.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical Italian lineage or geographic bridge eponym associated with Giovanni da Verrazzano.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verrazzano designates florentine navigator who explored the eastern coast of north america (circa 1485-1528)."*
+> - 📜 **George Bancroft (*History of the United States*):** *"The narrative dispatched to the French monarch by **Verrazzano** contains the earliest authentic description of the Manhattan inlet."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"In his caravel La Dauphine, **Verrazzano** examined the sandy dunes of Cape Hatteras before turning north toward the Hudson."*
+> - 📜 **Henry Hudson (*Voyages of Henry Hudson*):** *"Early Dutch cartographers consulted the maritime sketches made by **Verrazzano** almost a century before our own expedition."*

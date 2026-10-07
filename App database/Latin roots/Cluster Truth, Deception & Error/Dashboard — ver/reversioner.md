@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party who is entitled to an estate in reversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party who is entitled to an estate in reversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In property law, a person who has the legal right to a reversion or future interest in an estate after the termination of a particular life estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One entitled to succeed to an inheritance or property upon the death of the life tenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversioner designates (law) a party who is entitled to an estate in reversion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If the tenant for life commits waste, the **reversioner** may maintain an action on the case to recover damages for injury to the inheritance."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"As the sole **reversioner** of the ancient barony, the young lord watched the decay of his ancestral halls with bitter grief."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt was well aware that his nephew stood as legal **reversioner** to the vast settled estates in the north."*

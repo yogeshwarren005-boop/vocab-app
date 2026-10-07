@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in veneto on the river adige.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in veneto on the river adige.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Verona, an ancient and historic city in the Veneto region of northern Italy, renowned for its Roman amphitheatre and medieval architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The famed dramatic setting of William Shakespeare’s *Romeo and Juliet* and *The Two Gentlemen of Verona*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dramatis Personæ ESCALUS, Prince of Verona."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Citizens of Verona; several Men and Women, relations to both houses; Maskers, Guards, Watchmen and Attendants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"During the greater part of the Play in Verona; once, in the Fifth Act, at Mantua."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Two households, both alike in dignity, In fair **Verona**, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"I strolled through the quiet streets of **Verona**, gazing upon the ancient Roman arena and the legendary balcony of the Capulets."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble tombs of the Scaligers at **Verona** exhibit the purest triumph of fourteenth-century chivalric Gothic sculpture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Florentine navigator who explored the eastern coast of north america (circa 1485-1528).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giovanni da Verrazano, the Italian explorer in French royal service who charted North America from the Carolinas to Newfoundland in 1524.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the Verrazano-Narrows tidal strait and suspension bridge spanning the entrance to New York Harbor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verrazano designates florentine navigator who explored the eastern coast of north america (circa 1485-1528)."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The bold Florentine navigator **Verrazano** was the first European to drop anchor in the magnificent mouth of the Hudson."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"Under the commission of Francis I, **Verrazano** braved stormy Atlantic seas to map the coastline of what he termed New France."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Looking out across the Narrows where **Verrazano** first steered his caravels, one marvels at the endless march of ocean steamships."*

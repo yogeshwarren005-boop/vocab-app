@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark as different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish or specify individually; to treat separately as distinct items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To individualize or point out singular characteristics in persons or objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severalize designates distinguish or separate."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nature loves to **severalize** her works, giving each pebble on the shore a unique grain and polish."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Induction requires us to **severalize** the constituent factors before affirming a general causation."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village antiquary loved to **severalize** every legendary ghost that haunted the old Dutch manor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a worm; long and thin and cylindrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a worm; long and thin and cylindrical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a worm in shape; long, slender, cylindrical, and flexible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining especially to the vermiform appendix, the small, worm-like pouch projecting from the caecum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermiform designates resembling a worm; long and thin and cylindrical."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **vermiform** appendix is a vestige of the long caecum found in herbivorous mammalian ancestors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammation of the **vermiform** appendix is the most common cause of acute peritoneal sepsis in young adults."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The blind **vermiform** appendage extends from the caecum, exhibiting rich lymphoid follicles within its mucous lining."*

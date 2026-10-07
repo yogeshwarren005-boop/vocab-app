@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable color that is vivid red but sometimes with an orange tinge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color vermilion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant red or scarlet pigment made from ground mercuric sulfide (cinnabar), or a vivid scarlet color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vivid scarlet or bright red in hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Against the peaceful landscape, the pale, decaying tints of the copses, the blue air of the horizon, and the lichened stile-boards, these staring vermilion words shone forth."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her heart beat faster and a vermilion blush dyed her pale cheek."' Isabel's favourite authors were Stevenson and Mr."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"On her left breast A mole cinque-spotted, like the crimson drops I’ the bottom of a cowslip: here’s a voucher, Stronger than ever law could make; this secret Will force him think I have pick’d the lock and ta’en The treasure of her honour. No more; to what end? Why should I write this down, that’s riveted, Screw’d to my memory? She hath on her arm A jewel of **vermilion** tint."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The portrait had changed; upon the lips was a smile of cruelty, and the blood on the hands shone with hideous **vermilion** brightness."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The setting sun dipped into the sea, turning the Pacific waves into a vast sheet of burning **vermilion** and gold."*

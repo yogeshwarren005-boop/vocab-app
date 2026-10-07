@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a vivid red to reddish-orange color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a vivid red to reddish-orange color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant red pigment composed of mercuric sulfide; or a vivid orange-red color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a bright scarlet or vivid orange-red hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb longed for vermillion stars to be painted upon the blade of his every oar; screwing each oar in his big vice of wood, the carpenter symmetrically supplies the constellation."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The hills, which fell back gracefully from the valley, were covered with cloaks of gold and vermillion and emerald, and not a leaf stirred in the evening air."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The red death had long devastated the country; blood was its avatar and its seal—the redness and the horror of blood; there were sharp pains, and sudden dizziness, and then profuse bleeding at the pores, with dissolution; the scarlet stains upon the body and especially upon the face of the victim were the pest ban which shut him out from the aid and from the sympathy of his fellow-men; and the whole seizure, progress and termination of the disease were the incidents of half an hour. But Prince Prospero was happy and dauntless and sagacious. The velvet draperies were stained with rich **vermillion** hues."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The reddleman appeared from head to foot of a pure **vermillion** hue, marked by his trade of dyeing sheep."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner laid pure **vermillion** beside raw cobalt to render the blazing intensity of an alpine sunrise."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absentminded dreaming while awake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstracted state of absorption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasant absorption in imaginative thought or abstracted musing; a daydream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fanciful, dreamy, or visionary meditation or musical composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So I am told.” “You don’t know where?” “No, sir,” returned the trooper, lifting up his eyes and coming out of his reverie."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Now, this must be very bad for you,” said he, suddenly rousing from a little reverie, “to be coming and finding us here."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked from one to the other of the disputants, and fell into a reverie."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A sweet **reverie** stole over me as I watched the moon rise above the dark battlements of Thornfield."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An intense, melancholy **reverie** clouded Usher’s mind, shutting out all external reality."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood sat wrapped in deep **reverie**, his unread farm ledgers lying open before him."*

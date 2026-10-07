@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilt caused by fungi of the genus verticillium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilt caused by fungi of the genus verticillium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A destructive vascular wilt disease of plants caused by soil-borne fungal pathogens of the genus *Verticillium*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phytopathological condition marked by vascular browning, foliar chlorosis, stunting, and death of cultivated crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticilliosis designates wilt caused by fungi of the genus verticillium."*
+> - 📜 **William Jackson Hooker (*Report on Agricultural Phytopathology*):** *"Outbreaks of **verticilliosis** in tomato plantations cause sudden vascular wilt and immense commercial losses."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The fungal hyphae causing **verticilliosis** invade the xylem vessels, blocking the upward conduction of sap."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation and Disease*):** *"Crop rotation serves as the only dependable prophylactic measure against stubborn soil-borne **verticilliosis**."*

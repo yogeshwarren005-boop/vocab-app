@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in new england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in new england.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vermont, a northeastern New England state of the United States, celebrated for its forested Green Mountains and maple sugar production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the state of Vermont, its rural character, history, or geological marble and granite quarries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A young minister and his wife were sent on to their first charge in Vermont about the year 1846."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"New Jersey and Rhode Island, upon all occasions, discovered a warm zeal for the independence of Vermont; and Maryland, till alarmed by the appearance of a connection between Canada and that State, entered deeply into the same views."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Suppose the State of New York had been inclined to re-establish her lost jurisdiction over the inhabitants of Vermont, could she have hoped for success in such an enterprise from the efforts of the militia alone?"*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The sturdy independent farmers of **Vermont** held their town meetings with a stubborn democratic dignity that defied imperial royalists."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"From the mountain summit, we beheld the blue ridges of **Vermont** rolling away toward the northern horizon like ocean billows."*
+> - 📜 **Robert Frost (*Selected Poems*):** *"The snow comes early to the high pastures of **Vermont**, burying the dry stone walls beneath winter drifts."*

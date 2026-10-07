@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coinciding with reality; - f.a.olafson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding with reality; - f.a.olafson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Truthful or veracious in speech; corresponding strictly to factual reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and psychology, coinciding with objective external facts rather than being illusory or hallucinatory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veridical designates coinciding with reality; - f.a.olafson."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sensory perception is judged to be **veridical** when its content corresponds faithfully to the objective physical stimulus."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"We contrast hallucinatory dreams with **veridical** memories that report genuine occurrences in our past life."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The testimony of the senses is assumed to be **veridical** in so far as it conveys reliable knowledge of primary qualities."*

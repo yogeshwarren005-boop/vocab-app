@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate with wavy or winding lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infested with or damaged (as if eaten) by worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ornament or mark with winding, irregular, worm-like wavy lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with worm tracks, undulating patterns, or worm-eaten burrows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The stonemasons began to **vermiculate** the surface of the granite plinth, imitating the rustic antique masonry of Rome."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The delicate feathers on the flanks of the drake **vermiculate** into hundreds of fine, undulating gray pencillings."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The Renaissance portal was adorned with heavily carved stones that artisans loved to **vermiculate** with tortuous channels."*

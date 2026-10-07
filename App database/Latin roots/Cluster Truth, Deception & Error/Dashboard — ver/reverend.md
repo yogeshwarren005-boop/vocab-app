@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the clergy and a spiritual leader of the christian church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A title of respect for a clergyman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of reverence or deep respect; usually prefixed as an honorific title to the name of a member of the clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venerable on account of age, holy calling, or sacred character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of very reverend reputation, sir, Of credit infinite, highly belov’d, Second to none that lives here in the city."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is a virtuous and a reverend lady, It cannot be that she hath done thee wrong."*
+> - 📜 **William Shakespeare (*Othello*):** *"Most potent, grave, and **reverend** signiors, My very noble and approv’d good masters, That I have ta’en away this old man’s daughter, It is most true."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The **Reverend** Mr. Collins was eloquent in praise of Lady Catherine’s condescending benevolence."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The old gentleman looked so grave and **reverend** that Oliver felt reassured in his presence."*

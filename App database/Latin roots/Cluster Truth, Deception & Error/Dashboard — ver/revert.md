@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back to a previous state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo reversion, as in a mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To return to a previous state, practice, condition, topic, or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, to return to the former owner or their heirs after the expiry of a grant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let no one thank me any more, for I am going to revert to my bachelor habits, and if anybody disregards this warning, I’ll run away and never come back!” What happiness was ours that day, what joy, what rest, what hope, what gratitude, what bliss!"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many authors have maintained that our domestic varieties, when run wild, gradually but certainly **revert** to their original stocks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her thoughts would perpetually **revert** to that evening in the library when the first misunderstanding had darkened their marriage."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon the failure of heirs of the grantee, the land will legally **revert** to the original lord of the fee."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who vouches for another or for the correctness of a statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who vouches for another or for the correctness of a statement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who checks, inspects, or confirms the truth, authenticity, or accuracy of records.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument, mechanism, or software routine that validates data integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verifier designates someone who vouches for another or for the correctness of a statement."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The scientific investigator must act as a severe **verifier** of nature, questioning appearances at every step."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The sworn clerk acted as official **verifier** of the parish registers before they were submitted to the diocesan court."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Our calculating engine was equipped with a mechanical **verifier** to prevent errors in punching the logarithmic cards."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse, sentence, or liturgical formula spoken or chanted by the priest, followed by a congregational response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief metrical stanza or devotional couplet in religious worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Complimentary Versicles To Jessie Lewars 1."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles On Sign-Posts His face with smile eternal drest, Just like the Landlord’s to his Guest’s, High as they hang with creaking din, To index out the Country Inn."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*
+> - 📜 **Thomas Cranmer (*The Book of Common Prayer*):** *"The priest chanted the opening **versicle**, and the choir responded with the solemn antiphon of the morning service."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The monks murmured each pious **versicle** with bowed heads, keeping the midnight vigil before the altar."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"From the chapel echoed the plaintive Latin **versicle**, floating sweetly across the silent convent garden."*

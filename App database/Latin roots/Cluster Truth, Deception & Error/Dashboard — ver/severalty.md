@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being several and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusive individual ownership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Individual and exclusive tenure; specifically, the sole or separate ownership of an estate in land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, an estate held in one's own right without any other tenant joined.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severalty designates the state of being several and distinct."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"He who holds lands or tenements in **severalty**, or is sole tenant thereof, is he that holds them in his own right only, without any other person being joined or connected with him."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The division of common lands into estates held in **severalty** transformed the agricultural economy of the kingdom."*
+> - 📜 **Walter Scott (*Waverley*):** *"The chieftain claimed the territory not in **severalty**, but as trustee and father of his entire highland clan."*

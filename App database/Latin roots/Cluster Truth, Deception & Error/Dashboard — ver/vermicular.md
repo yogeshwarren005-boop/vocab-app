@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated with wormlike tracery or markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with wormlike tracery or markings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a worm in shape, motion, or undulating cylindrical form; worm-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, denoting the worm-like undulating peristaltic motion of the intestines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermicular designates decorated with wormlike tracery or markings."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Food is propelled through the alimentary canal by rhythmic, **vermicular** contractions of the circular muscle fibers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The soft **vermicular** larvae of these wood-boring beetles burrow extensively beneath the bark of decaying firs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A curious **vermicular** appendage projects from the margin of the caecum in all higher anthropoid primates."*

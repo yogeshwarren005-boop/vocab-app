@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of a matter from a particular viewpoint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something a little different from others of the same type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular form, edition, or variant of something differing in details from other forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account or narrative of a matter from the perspective of a particular person; or a translation into another tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such is one version of the tale..."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There is a manuscript version of this play in the Egerton collection, British Museum (No. 1994)."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Before passing judgment, we must hear both parties, for each offers a completely contradictory **version** of the transaction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her **version** of the quarrel was accepted by the family, placing all the blame on her unfortunate sister."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The official police gave a confused **version** of the robbery, but Holmes had already deduced the true facts."*

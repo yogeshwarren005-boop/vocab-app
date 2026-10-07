@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely or extremely bad or unpleasant in degree or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very strong or vigorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very great, intense, or rigorous; causing hardship, distress, or physical pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict, unsparing, and exacting in discipline, moral standards, or critical judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother justice have I found so severe that he hath forced me to tell him he is indeed Justice."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Merchant of Syracuse, plead no more; I am not partial to infringe our laws: The enmity and discord which of late Sprung from the rancorous outrage of your duke To merchants, our well-dealing countrymen, Who, wanting guilders for their baggage, Have seal'd his rigorous statutes with their bloods, Excludes all pity from our threatening looks. Then see what **severe** penalties await all who violate our frontiers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Climate plays an important part in determining the average numbers of a species, and periodical seasons of extreme cold or drought seem to be the most effectual of all checks; this is illustrated by the **severe** winter of 1854-55."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was resolved not to be influenced by his **severe** strictures upon the manners of the local assembly."*

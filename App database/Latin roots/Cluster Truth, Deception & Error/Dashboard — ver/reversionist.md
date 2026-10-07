@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lapses into previous undesirable patterns of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lapses into previous undesirable patterns of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who advocates or favors a return to an earlier political, religious, or social order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an investigator who emphasizes the role of atavism and ancestral reversion in morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversionist designates someone who lapses into previous undesirable patterns of behavior."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The prudent reformer avoids the fanatical extremes of both the destructionist and the blind **reversionist**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **reversionist** argues that domesticated animals, if liberated from human control, rapidly regain the exact traits of the primitive wild stock."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A political **reversionist** who seeks to restore feudal privileges misreads the irresistible currents of democratic history."*

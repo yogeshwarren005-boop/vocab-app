@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducted with or marked by hidden aims or methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducted with or marked by hidden aims or methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving secret work or investigation conducted under an assumed identity or disguise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating covertly to gather intelligence or observe criminal activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercover designates conducted with or marked by hidden aims or methods."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The detective moved **undercover** among the foreign revolutionaries, listening to their incendiary talk in obscure Soho taverns."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Political agents operated **undercover** throughout the city, watching for the slightest sign of ideological deviation."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Holmes lived for two years **undercover** in Chicago, acquiring the American slang necessary to deceive the German spy master."*

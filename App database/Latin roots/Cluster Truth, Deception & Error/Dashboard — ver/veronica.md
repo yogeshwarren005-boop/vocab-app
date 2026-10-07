@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus veronica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus veronica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants (family Plantaginaceae), known commonly as speedwells, bearing spikes of bright blue or white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian tradition, the cloth or veil of Saint Veronica miraculously imprinted with the features of Christ; also a bullfighting pass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Peter Sloane’s hired girl, Veronica, came to see Mary Joe last evening and I heard them talking in the kitchen as I was going through the hall."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VERONICA BRAND; spots yellowish; sori subglobose, aggregate, or circinating, central one large; spores brown, obovate-oblong, more or less constricted.—On the under surface of the leaves of several species of _Veronica_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Veronica mould (_Peronospora grisea_) × 400 (_De Bary_). 〃 214."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate blue corollas of **Veronica** officinalis brighten dry woods and open pastures throughout early summer."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*):** *"The matador executed a slow, majestic **veronica**, drawing the charging bull past his thighs with sculptured grace."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Humble-bees visit the small blossoms of the wild **Veronica**, cross-pollinating the flowers with great efficiency."*

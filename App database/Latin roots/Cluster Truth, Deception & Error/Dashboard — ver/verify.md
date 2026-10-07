@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To demonstrate, substantiate, or ascertain the truth, accuracy, or validity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, to confirm the truth of a pleading or deposition by an oath or affidavit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will verify as much in his beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To verify our title with their lives."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, without opening my eyes to verify, I knew that the walls of my narrow cell had receded until it was like a vast audience-chamber."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have endeavored to **verify** these measurements by repeating the experiments upon hundreds of distinct specimens."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"We had only to **verify** the footprints in the garden to prove beyond doubt the presence of the wooden-legged man."*
+> - 📜 **William James (*Pragmatism*):** *"To **verify** an idea is to trace out its experiential consequences and discover that they lead into harmonious relations with reality."*

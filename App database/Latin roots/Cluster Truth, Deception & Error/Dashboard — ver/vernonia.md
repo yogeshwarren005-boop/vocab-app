@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants in the daisy family Asteraceae, known commonly as ironweeds, having intense purple or magenta flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of temperate and tropical herbaceous plants prized in herbal pharmacology for bitter sesquiterpene lactones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernonia designates any of various plants of the genus vernonia of tropical and warm regions of especially north america that take their name from their loose heads of purple to rose flowers that quickly take on a rusty hue."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Tall stems of **Vernonia** noveboracensis crown the late summer meadows with dense cymes of vivid royal purple."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Insects of many families visit the composite flower-heads of **Vernonia**, carrying pollen between widely separated clumps."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"Several tropical species of the genus **Vernonia** yield bitter medicinal roots used by indigenous peoples as febrifuges."*

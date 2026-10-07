@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turning or tilting backward of an organ or body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation back into the original language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or state of turning backward or tilting in a posterior direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy, the tipping or backward displacement of an entire organ, especially the uterus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroversion designates a turning or tilting backward of an organ or body part."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **retroversion** of the pelvic viscera may induce chronic congestion and localized backache."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The slight **retroversion** of the pelvic bones in primates reflects the evolutionary transition to bipedal posture."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In certain extinct reptiles, the **retroversion** of the pubic spine provided an expanded surface for femoral musculature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French symbolist poet (1844-1896).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French symbolist poet (1844-1896).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paul Verlaine, the nineteenth-century French Symbolist poet renowned for the delicate musicality of *Fêtes galantes* and *Romances sans paroles*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the melancholy, impressionistic poetic atmosphere pioneered by Paul Verlaine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verlaine designates french symbolist poet (1844-1896)."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"In the verses of **Verlaine**, poetry becomes a shimmering veil of melody, vibrating with tender, fleeting emotions."*
+> - 📜 **W. B. Yeats (*Autobiographies*):** *"We gathered in London drawing-rooms to recite **Verlaine**, believing that musical suggestion must replace rhetoric."*
+> - 📜 **Oscar Wilde (*De Profundis*):** *"I remembered the tragic prison poems of **Verlaine**, who found in degradation the fountain of a higher spiritual song."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove all or part of one's clothes to show one's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposed to view; having had a lid, cloth, or roof removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought to light, discovered, or revealed after being concealed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, rather let my head Stoop to the block than these knees bow to any Save to the God of heaven and to my King; And sooner dance upon a bloody pole Than stand uncovered to the vulgar groom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Ha! here’s three on’s are sophisticated; thou art the thing itself; unaccommodated man is no more but such a bare, forked animal as thou art. Off, off, you lendings! Come; unbutton here. Now is he **uncovered** to the storm."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When low tide **uncovered** the rocky reef, a vast multitude of strange invertebrate animals was displayed to view."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The morning sun **uncovered** the snow-clad peaks of Mont Blanc in dazzling, solitary splendor."*

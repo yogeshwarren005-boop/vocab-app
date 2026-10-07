@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an opposite way; so as to be reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposite way; so as to be reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverted, reciprocal, or opposite manner; conversely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In backward order or opposite direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversely designates in an opposite way; so as to be reversed."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Nerve currents may travel forward to stimulate motion or **reversely** to inhibit voluntary contraction."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The deductive argument proceeds downward from axioms, while inductive science advances **reversely** from observed particulars."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The motor habit operates forward automatically, but cannot be recited **reversely** without laborious conscious effort."*

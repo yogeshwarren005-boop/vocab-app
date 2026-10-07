@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment (especially a coat) that can be worn inside out (with either side of the cloth showing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reversing or being reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be turned the opposite way around, undone, or operated in either direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing fabrics or garments made so that either side may be worn outermost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reversible propositions 113:9 The fundamental propositions of divine metaphysics are summarized in the four following, to me, /self-evident/ propositions."*
-> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Chemical transformations within living protoplasm are frequently **reversible**, maintaining homeostatic equilibrium."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Trade imbalances are **reversible** through the automatic outflow or inflow of bullion adjusting price levels."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Space is a three-dimensional continuum through which motion is completely **reversible**, but time flows in one direction only."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is oriented vertically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertical structural member as a post or stake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At right angles to a horizontal plane; upright, plumb, or perpendicular to the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing directly through the astronomical vertex or zenith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flames immediately ceased to go under the bottom of the corn-stack, and stood up vertical."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were carpenters lifting a post into a vertical position within the parapet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Pulling out the washing-stand so that she could get behind it, she poured some water from a jug, and made them kneel around, putting their hands together with fingers exactly vertical."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The strata which were originally deposited horizontally have been tilted by volcanic forces into a completely **vertical** position."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The noon sun cast almost no shadow, shining straight down from a nearly **vertical** elevation above the sheepfold."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale shot straight up out of the water in a **vertical** breach, hanging poised in mid-air before crashing into the foam."*

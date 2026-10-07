@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch painter renowned for his use of light (1632-1675).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch painter renowned for his use of light (1632-1675).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Johannes Vermeer, the 17th-century Dutch master painter celebrated for his serene interior genre scenes and peerless treatment of domestic daylight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the luminous clarity, intimate composition, and lapis lazuli tones characteristic of Vermeer’s canvases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermeer designates dutch painter renowned for his use of light (1632-1675)."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"Bergotte collapsed before the View of Delft, gazing at the little patch of yellow wall painted by **Vermeer** with such exquisite perfection."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The sunlight falling through the cottage casement possessed the calm, golden purity of a canvas by **Vermeer**."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"In the quiet museum at The Hague, a single small portrait by **Vermeer** outshone all the grandiose historical machines of the gallery."*

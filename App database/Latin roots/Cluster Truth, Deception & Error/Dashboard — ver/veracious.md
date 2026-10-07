@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitually speaking the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Precisely accurate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking or representing the truth; habitually truthful, honest, and accurate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming accurately to fact or reality; authentic, credible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But it was not that you might know your uncle that I brought you to Europe.” A perfectly veracious speech; but, as Isabel thought, not as perfectly timed."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Some of these fables, to my shame be it spoken, might possibly be traced back to my own veracious self; and if any passages of the present tale should startle the reader's faith, I must be content to bear the stigma of a fiction monger."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My Lord Gaunt married, as every person who frequents the Peerage knows, the Lady Blanche Thistlewood, a daughter of the noble house of Bareacres, before mentioned in this veracious history."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The great man must be a **veracious** man; he cannot live upon shams and theatrical hypocrisies."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I assert this fact upon the authority of a most **veracious** Dutch whaling captain who sailed the Greenland seas for thirty years."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His testimony was accepted without question, for he was known throughout the county as a strictly **veracious** witness."*

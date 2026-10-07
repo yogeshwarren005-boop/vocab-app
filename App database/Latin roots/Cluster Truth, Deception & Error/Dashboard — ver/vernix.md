@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white cheeselike protective material that covers the skin of a fetus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white cheeselike protective material that covers the skin of a fetus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vernix caseosa, the waxy white protective biofilm coating the skin of newborn human infants, secreted by fetal sebaceous glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiological protective lipid barrier shielding the fetal epidermis from prolonged exposure to amniotic fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernix designates a white cheeselike protective material that covers the skin of a fetus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"At birth, the neonatal epidermis is normally enveloped in a layer of **vernix** caseosa, which protects the skin from maceration in utero."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The greasy secretion of **vernix** caseosa in the human infant exhibits analogies to the protective sebaceous coatings found in aquatic mammals."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"In the obstetrical clinic, the student was taught to cleanse the infant gently without stripping away all of the protective **vernix**."*

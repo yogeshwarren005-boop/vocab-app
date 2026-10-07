@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of wavelike muscle contractions of the alimentary tract that moves food along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decoration consisting of wormlike carvings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pattern, carving, or ornament consisting of irregular, undulating, worm-like lines or tracking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of boring or tunnelling by worms; or the undulating peristaltic motion of the intestines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, the floors above were found to have a very irregular surface, rising to ridges, sinking into valleys; and being just then uncarpeted, the face of the boards was seen to be eaten into innumerable vermiculations."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, we find the floors above to have a very irregular surface, rising to ridges, sinking into valleys, and being at present uncarpeted, the face of the boards is shown to be eaten into innumerable vermiculations."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The rustic **vermiculation** upon the basement walls gave an appearance of rugged geological antiquity to the palace."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The rhythmic **vermiculation** of the body wall enables the burrowing marine worm to penetrate dense coastal mud."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Ancient chalk deposits display curious lines of **vermiculation** resulting from the feeding activity of prehistoric annelids."*

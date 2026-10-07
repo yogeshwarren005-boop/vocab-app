@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vertical direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vertical direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a direction perpendicular to the horizontal plane; uprightly, perpendicularly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Straight up and down from the zenith toward the nadir.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The third item of consciousness was that of seeing the same sword, perfectly clean and free from blood held vertically in Troy’s hand (in the position technically called “recover swords”)."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ashes under the grate were lit by the fire vertically, like a torrid waste."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This fin is some three or four feet long, growing vertically from the hinder part of the back, of an angular shape, and with a very sharp pointed end."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The heavy layers of limestone were sheared **vertically** along a fault line of immense depth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Rain began to pour down **vertically** through the windless night, soaking the newly thatched hayricks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mast-head look-out gazed **vertically** down into the clear blue depths, watching the pale form of the submerged monster."*

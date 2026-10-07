@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or manifesting veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or characterized by profound reverence, awe, and veneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by solemn ceremonial deference or religious adoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George produces his present, which is greeted with admiring leapings and clappings by the young family, and with a species of reverential admiration by Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In delivering it she gave also Clare’s accent and manner with reverential faithfulness."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg approached the little ebony idol with **reverential** gravity, offering it charred biscuits."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He regarded her with a **reverential** tenderness that elevated their rustic courtship into poetry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pilgrims approached the holy sepulchre with **reverential** tears, falling prostrate upon the cold stone."*

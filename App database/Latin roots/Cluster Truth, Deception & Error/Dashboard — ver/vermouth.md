@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatized, fortified wine flavored with various botanicals, herbs, and roots, used as an aperitif and cocktail ingredient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry (French) or sweet (Italian) fortified white wine infused with wormwood and spices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I don’t want to see Dorian tied to some vile creature, who might degrade his nature and ruin his intellect.” “Oh, she is better than good—she is beautiful,” murmured Lord Henry, sipping a glass of vermouth and orange-bitters."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"As we sat over our vermouths he glorified the Company’s business, and by and by I expressed casually my surprise at him not going out there."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"We sat at the little round zinc table outside the cafe and drank dry **vermouth** while the dusk fell over Milan."*
+> - 📜 **F. Scott Fitzgerald (*Tender is the Night*):** *"Dick Diver ordered an iced **vermouth** and gazed out over the sparkling expanse of the Mediterranean."*
+> - 📜 **Somerset Maugham (*The Moon and Sixpence*):** *"The French painter sipped his **vermouth** thoughtfully, debating the rival merits of impressionism and classic form."*

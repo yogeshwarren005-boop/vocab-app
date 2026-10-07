@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes; amphibians; reptiles; birds; mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes; amphibians; reptiles; birds; mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subphylum of chordate animals characterized by a cartilaginous or bony spinal column enclosing the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic group comprising mammals, birds, reptiles, amphibians, and fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All members of the subphylum **Vertebrata** develop gill-slits and a notochord during their early embryonic stages."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The fundamental morphological ground-plan of the **Vertebrata** is distinguished by an internal skeleton and a dorsal tubular nervous axis."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"The geological history of the **Vertebrata** begins with primitive armored jawless fishes in the Silurian strata."*

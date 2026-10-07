@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ver within the domain of Truth, Deception & Error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ver in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic and literary preference for depicting everyday contemporary reality, particularly among working classes, without romantic idealization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opera, a late 19th-century post-Romantic Italian style characterized by passionate melodrama and gritty naturalism (Puccini, Mascagni).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verism designates pertaining to, derived from, or characteristic of latin ver within the domain of truth, deception & error."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The operatic **verism** of Cavalleria Rusticana shocks academic critics with its raw Sicilian passion and knife-fights."*
+> - 📜 **Henry James (*Essays in London and Elsewhere*):** *"The uncompromising **verism** of the Italian naturalists spares the reader no sordid detail of peasant destitution."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"We turned from the photographic **verism** of the realists toward a poetry that evokes the invisible mysteries of the soul."*

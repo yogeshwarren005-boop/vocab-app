@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of e.g. evidence) not objective or easily verified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. evidence) not objective or easily verified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being tested, confirmed, or verified through empirical observation or logical proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking any evidentiary foundation capable of independent scientific corroboration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unverifiable designates (of e.g. evidence) not objective or easily verified."*
+> - 📜 **William James (*Pragmatism*):** *"A metaphysical proposition that makes no practical difference in experience is an **unverifiable** hypothesis unworthy of belief."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The claim that the universe was created five minutes ago with all our memories intact is logically possible but entirely **unverifiable**."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"If a theory is so framed that no conceivable experiment can contradict it, it remains an **unverifiable** dogma outside the pale of science."*

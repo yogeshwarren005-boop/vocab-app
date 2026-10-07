@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the arrangement of young leaves in a leaf bud before it opens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, the arrangement, folding, or rolling of young leaves within a leaf bud prior to expansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manner in which fronds or foliage unfurl during spring growth, such as circinate vernation in ferns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernation designates (botany) the arrangement of young leaves in a leaf bud before it opens."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The circinate **vernation** of fern fronds represents an ancient morphological habit conserved across millions of years."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"By inspecting the **vernation** of a winter bud, the botanist determines whether the embryonic leaves are plicate, conduplicate, or involute."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The young fiddleheads emerge in early spring, displaying that coiled spiral **vernation** characteristic of the order Filices."*

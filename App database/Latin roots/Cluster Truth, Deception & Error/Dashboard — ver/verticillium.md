@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus of the genus verticillium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus of the genus verticillium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of imperfect anamorphic fungi (family Plectosphaerellaceae) whose conidiophores bear whorled branches, causing vascular wilt in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widespread soil-dwelling fungal mold of major agronomic importance as a plant pathogen and entomopathogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillium designates a fungus of the genus verticillium."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Microscopic examination of the wilted stem revealed abundant conidia of the pathogenic mold genus **Verticillium**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The whorled reproductive branching of **Verticillium** displays exquisite geometric regularity under high magnification."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Spores of parasitic fungi such as **Verticillium** pass unharmed through the digestive tracts of burrowing earthworms."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back to a previous state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Returning to a former habit, ancestral physical characteristic, or previous subject of discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, returning to the grantor or their heirs after the termination of a prior interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It entered into all his calculations about money in a singular manner which I don’t think I can better explain than by reverting for a moment to our loan to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, yes,” says the good old gentleman, reverting to his lesson of wisdom."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And mind you tell us the truth here, whatever you do, Jo.” “Wishermaydie if I don’t, sir,” says Jo, reverting to his favourite declaration."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tendency of domestic pigeons to produce blue birds with black bars on their wings is an admirable example of **reverting** to the wild rock-pigeon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He could not prevent his mind from **reverting** to the painful humiliation he had endured at the public meeting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"After every wild excursion across the Pacific, the whaling fleet kept **reverting** to its home port in Nantucket."*

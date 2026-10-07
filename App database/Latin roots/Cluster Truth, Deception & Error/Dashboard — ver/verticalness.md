@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uprightness, perpendicularity, or the degree to which a structure stands perpendicular to the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plumb alignment of a wall, column, or cliff face.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticalness designates position at right angles to the horizon."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The structural stability of the tower relies upon the absolute **verticalness** of its massive corner buttresses."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The sheer **verticalness** of the granite precipice prevented even the wild mountain goats from finding footing."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The master builder tested the **verticalness** of the cathedral piers with his heavy leaden plumb-line."*

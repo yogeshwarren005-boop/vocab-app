@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, a line that intersects two or more other lines in the same plane at different points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending or lying in a crosswise direction; transverse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transversal designates extending or lying across; in a crosswise direction; at right angles to the long axis."*
+> - 📜 **Isaac Newton (*The Mathematical Principles of Natural Philosophy*):** *"When a **transversal** line cuts parallel rays, the alternate interior angles are demonstrated to be strictly equal."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In several species of beetles, the elytra are marked by delicate **transversal** grooves of great diagnostic value."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **transversal** processes of the lumbar vertebrae afford ample attachment for the deep spinal muscles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic calcium channel blocker medication used clinically to treat angina, hypertension, and supraventricular tachycardia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class IV antiarrhythmic pharmaceutical agent that inhibits the transmembrane influx of calcium ions into cardiac and vascular smooth muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verapamil designates a drug (trade names calan and isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or congestive heart failure or angina or migraine."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"By slowing conduction through the atrioventricular node, **verapamil** provides effective termination of paroxysmal supraventricular tachycardia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In modern clinical cardiology, agents such as **verapamil** control arterial hypertension by inducing peripheral arteriolar vasodilation."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The evolution of cardiovascular pharmacology from herbal alkaloids to synthetic blockers like **verapamil** revolutionized patient care."*

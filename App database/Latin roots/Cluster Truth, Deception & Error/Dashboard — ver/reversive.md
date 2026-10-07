@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to be turned back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to be turned back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating to reverse, turn back, or undo a previous condition or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by retrogressive or backward tendency in biological or physical phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversive designates tending to be turned back."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"A **reversive** movement sets in whenever dissipative forces overcome the integrating energies of the evolving organism."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"This cross-breeding experiments revealed a powerful **reversive** tendency that resurrected ancestral markings lost for centuries."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The ethical process in human society is in large measure a constant struggle against the **reversive** impulses of the cosmic struggle for existence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking proof or substantiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking proof or substantiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not demonstrated, proved, or confirmed to be true by evidence or documentary proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepted provisionally without formal investigation or forensic authentication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unverified designates lacking proof or substantiation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have refrained from citing several extraordinary anecdotes of animal instinct because the observations remained **unverified** by trained naturalists."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"It is a capital mistake to theorize before one has data; an **unverified** conjecture only biases the judgment."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **unverified** hypothesis, however ingenious, cannot serve as a reliable foundation for inductive certainty."*

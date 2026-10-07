@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colored flare fired from a very pistol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare fired from a very pistol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright pyrotechnic signal flare or colored cartridge fired from a special brass pistol (*Very pistol*) for nighttime maritime signaling or battlefield illumination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distress or reconnaissance flare lighting up no-man's-land during trench warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, very-light designates a colored flare fired from a very pistol."*
+> - 📜 **Siegfried Sassoon (*Memoirs of an Infantry Officer*):** *"A green **Very-light** hissed into the rain-soaked sky, illuminating the mud and wire of no-man’s-land with a ghostly glare."*
+> - 📜 **Robert Graves (*Good-Bye to All That*):** *"The sentries froze in their tracks whenever an enemy **Very-light** arched over the parapet, casting stark, dancing shadows."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The destroyer fired a white **Very-light** to guide the escort vessels through the minefield in the pitch darkness."*

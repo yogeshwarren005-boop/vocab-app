@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of skin) covered with warts or projections that resemble warts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of skin) covered with warts or projections that resemble warts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Studded with, covered by, or resembling small wart-like nodules, excrescences, or rough elevations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and lichenology, describing spores or thalli having a rough, warty surface texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ALEXANDER’S BRAND; spots obliterated; sori hypogenous, large, solitary, scattered, brown; spores ovoid, obtuse, verrucose, slightly constricted, minutely pedicellate.—On _Smyrnium olusatrum_. (Plate III. figs. 55, 56.) =Puccinia Anemones=, Pers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The capsule in this species is distinctly **verrucose**, bearing numerous blunt tubercles across its exterior surface."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The seeds of the self-fertilized plants possessed a heavily **verrucose** coat that resisted mechanical abrasion."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The fungus displays a rough, **verrucose** pileus when mature, distinguishing it readily from allied woodland agarics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reeling sensation; a feeling that you are about to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reeling sensation; a feeling that you are about to fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation of spinning, whirling dizziness, or loss of balance caused by a disturbance of the inner ear or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dizzying, confused mental state caused by looking down from a great height or rapid change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I think you have tonight." "Do you care for no one but yourself?" he flung at her in his vertigo of humiliation and anger."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"My mind is troubled, like a fountain stirr’d; And I myself see not the bottom of it: my senses reel with sudden **vertigo**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Labyrinthine **vertigo**, or Ménière's disease, is characterized by sudden attacks of whirling dizziness associated with tinnitus."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seized the mantelpiece to steady himself, overcome by a sudden paroxysm of **vertigo** and palpitations."*

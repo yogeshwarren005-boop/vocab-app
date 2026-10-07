@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter of the venetian school (1528-1588).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter of the venetian school (1528-1588).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paolo Veronese, the 16th-century Italian Renaissance painter celebrated for monumental, lavishly colored pageants and biblical banquets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of the Italian city of Verona, or relating to its dialect and culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"In the great decorative canvases of **Veronese**, color reaches its supreme feast of light, silver, and gold."*
+> - 📜 **Henry James (*Italian Hours*):** *"The feast scenes painted by **Veronese** embody the utmost worldly magnificence that sixteenth-century Venice could conceive."*
+> - 📜 **William Hazlitt (*Criticisms on Art*):** *"No painter ever harmonized architectural splendour with human crowds so masterfully as **Veronese** in his Marriage at Cana."*

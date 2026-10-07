@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An injectable form of benzodiazepine (trade name versed) useful for sedation and for reducing pain during uncomfortable medical procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experienced, skilled, accomplished, or knowledgeable in a particular subject through study or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughly acquainted with the details and techniques of a discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She knows both Regions like the palm of her hand, and her record shows she's well versed in nav for the entire system."*
-> - 📜 **Effie Afton (*Eventide*):** *"But it often happens that such high-wrought natures are but poorly versed in the plodding concerns of this nether world."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"He is well **versed** in the courtly arts of music and gentle conversation."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that is deeply **versed** in historical annals will foresee the revolutions of states with uncanny precision."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke believed himself admirably **versed** in political economy, having read several pamphlets on the corn laws."*

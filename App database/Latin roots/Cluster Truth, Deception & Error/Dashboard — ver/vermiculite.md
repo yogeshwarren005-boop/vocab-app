@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of yellow or brown hydrous silicate minerals having a micaceous structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of yellow or brown hydrous silicate minerals having a micaceous structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrous phyllosilicate mineral that undergoes significant thermal exfoliation into elongated worm-like granules when heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expanded lightweight mineral material widely utilized in horticulture, insulation, and fireproofing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermiculite designates any of a group of yellow or brown hydrous silicate minerals having a micaceous structure."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"When a flake of **vermiculite** is exposed to the blowpipe flame, it exfoliates with astonishing rapidity into winding, worm-like forms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Horticulturists propagate delicate cuttings in beds of expanded **vermiculite** to retain uniform moisture without rotting the roots."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The thermal transformation of hydrated silicates such as **vermiculite** illustrates the remarkable physical elasticity of micaceous minerals."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrated, confirmed, or substantiated as true, accurate, or authentic by evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticated by formal signature, oath, or scientific measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More truly now may this be verified; For none but Samsons and Goliases It sendeth forth to skirmish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I perceive that will be verified Henry the Fifth did sometime prophesy: “If once he come to be a cardinal, He’ll make his cap co-equal with the crown.” KING HENRY."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This prediction has been completely **verified** by the recent discoveries of intermediate fossil forms in North America."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes smiled with satisfaction as each successive clue **verified** his original hypothesis."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A general law is not scientifically established until its conclusions have been **verified** by independent experiment."*

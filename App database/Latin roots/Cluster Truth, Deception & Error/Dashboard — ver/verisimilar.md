@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing to be true or real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing to be true or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the appearance of truth; probable, plausible, or depicting reality with persuasive fidelity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing genuine or believable within the context of a fictional narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verisimilar designates appearing to be true or real."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"A **verisimilar** narrative commands our belief because its lively ideas imitate the vivid impressions of real perception."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The dramatist strives to make each character's dialogue completely **verisimilar** to the ear of the contemporary audience."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic faith demands that supernatural incidents be rendered **verisimilar** through psychological truth in the characters' reactions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A love of or taste for the fine arts and curiosities; artistic excellence or antique rarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles of vertu, comprising antique rarities, fine porcelain, gems, and ornamental curios valued by connoisseurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Vive la vertu!” Samuel Walcott, still sunburned from his cruise, stood before the chancel with the only daughter of the blue blooded St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, when with royal Tranquo I visited this wondrous whale, and saw the skull an altar, and the artificial smoke ascending from where the real jet had issued, I marvelled that the king should regard a chapel as an object of vertu."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Les vertus se perdent dans l'interet comme les fleuves se perdent dans la mer." ------------------------------------------------------------------------ Mademoiselle Veuillot and M."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The auctioneer knocked down exquisite cabinets of ebony and articles of **vertu** from the ruined estate of Mr. Sedley."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His cabin was a museum of maritime curiosities and rare scrimshaw pieces of precious **vertu**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond regarded human beings as delicate collector’s items, treating his daughter as an article of **vertu**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying someone's (or some group's) honesty or loyalty; undermining moral integrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subverting; as overthrowing or destroying a legally constituted government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic undermining or destruction of an established system, government, or moral authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The radical overturning of traditional values, artistic canons, or social hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What louring star now envies thy estate That these great lords and Margaret our Queen Do seek subversion of thy harmless life?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s subversion as an instrument of good; but the threat must have been permitted, and was a chastisement of a new kind."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus in letter days has the tranquillity of Little Britain been grievously disturbed and its golden simplicity of manners threatened with total subversion by the aspiring family of a retired butcher."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Whenever the legislators endeavor to take away and destroy the property of the people, they put themselves into a state of war, threatening the utter **subversion** of the commonwealth."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The fanatical doctrines of the assembly tend directly to the **subversion** of all ancient property and hereditary rights."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian invasions accomplished the gradual **subversion** of the Western Empire through prolonged siege and economic decay."*

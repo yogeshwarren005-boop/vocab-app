@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of severing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set or keep apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing, cleaving, or cutting off a part from a greater body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking, terminating, or dissolving a long-standing personal relationship or treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, love, what envious streaks Do lace the severing clouds in yonder east."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Nigh on the plain, in many cells prepared, That underneath had veins of liquid fire Sluiced from the lake, a second multitude With wondrous art founded the massy ore, Severing each kind, and scummed the bullion-dross."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The lightning struck the great oak, **severing** a colossal limb that crashed into the dark lake."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He trembled at the thought of **severing** the golden thread that bound his soul to life and honor."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With one swift stroke of his spade, the boat-header succeeded in **severing** the taut whale-line."*

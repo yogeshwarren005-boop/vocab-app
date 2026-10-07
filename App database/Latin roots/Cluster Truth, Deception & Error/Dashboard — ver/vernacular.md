@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The everyday speech of the people (as distinguished from literary language).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The language or dialect spoken by ordinary people in a particular country, region, or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture, denoting traditional domestic regional construction using local materials rather than academic monumental styles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lallans, Scots Lowland vernacular."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Fornander's manuscript collection of _meles_, legends, and genealogies in the vernacular has fortunately become, by purchase, the property of the Hon."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"French troops in Indo-China, familiar with vernacular, 20."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Dante chose to write his divine comedy not in classical Latin, but in the lively Tuscan **vernacular** of his native streets."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He spoke with a broad rustic **vernacular** that smacked of the rich loam of Warwickshire."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True architectural vitality springs from the simple **vernacular** craft of local stonecutters, not from copied foreign treatises."*

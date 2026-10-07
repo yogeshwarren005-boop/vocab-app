@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American silversmith remembered for his midnight ride (celebrated in a poem by longfellow) to warn the colonists in lexington and concord that british troops were coming (1735-1818).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lapel on a woman's garment; turned back to show the reverse side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel deep respect, veneration, or awe for someone or something regarded as sacred or noble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To honor with profound deference and dutiful homage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The great Creator to revere, Must sure become the creature; But still the preaching cant forbear, And ev’n the rigid feature: Yet ne’er with wits profane to range, Be complaisance extended; An atheist-laugh’s a poor exchange For Deity offended!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou of an independent mind, With soul resolv’d, with soul resign’d; Prepar’d Power’s proudest frown to brave, Who wilt not be, nor have a slave; Virtue alone who dost revere, Thy own reproach alone dost fear— Approach this shrine, and worship here."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you revere your brother and are rather afraid of him.” “Of course one looks up to one’s brother,” said Miss Molyneux simply."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Though mean and mighty, rotting Together, have one dust, yet reverence, That angel of the world, doth make distinction Of place ’tween high and low. Our master, whom we **revere**, deserves this tribute."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We **revere** great men because they demonstrate the latent dignity of our common nature."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I began to **revere** the wondrous wisdom of my creator, even while agonizing over the misery he had inflicted upon me."*

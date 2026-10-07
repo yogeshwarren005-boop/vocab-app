@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discovering something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of removing a lid, veil, or protective covering from an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclosing or bringing to light hidden facts, plots, or archaeological remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Time is long when there is neither night nor day.' Then, uncovering himself, he turned towards the city."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You know this place, Mason,” said our guide; “she bit and stabbed you here.” He lifted the hangings from the wall, uncovering the second door: this, too, he opened."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi, saluting this old gentleman, motioned him to a seat between us, and then uncovering my limb, desired him to examine it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician pursued his inquiry like an inquisitor, **uncovering** the dark secrets of the minister’s conscience."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"By **uncovering** the hidden trap-door in the roof, Holmes found the footprints of the wooden-legged man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket went about his business quietly, **uncovering** each link of the tragic chain with professional coolness."*

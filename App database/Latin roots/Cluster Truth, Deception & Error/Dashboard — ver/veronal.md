@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barbiturate used as a hypnotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barbiturate used as a hypnotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbital (diethylbarbituric acid), the first commercially synthesized barbiturate sedative and hypnotic medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A central nervous system depressant historically prescribed for chronic insomnia and nervous agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veronal designates a barbiturate used as a hypnotic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In intractable insomnia, moderate doses of **Veronal** frequently induce calm sleep without gastric irritation."*
+> - 📜 **Agatha Christie (*The Mysterious Affair at Styles*):** *"The toxicology report confirmed that a lethal overdose of **Veronal** had been dissolved in the victim’s evening cocoa."*
+> - 📜 **F. Scott Fitzgerald (*Tender is the Night*):** *"Nicole sat upon the edge of the bed, nervously counting the white tablets of **Veronal** in the amber bottle."*

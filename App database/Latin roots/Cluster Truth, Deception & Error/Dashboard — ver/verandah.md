@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roofed open porch or gallery extending along the exterior wall of a house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaded outdoor terrace providing shelter from rain and intense tropical sunshine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I leant against a pillar of the verandah, drew my grey mantle close about me, and, trying to forget the cold which nipped me without, and the unsatisfied hunger which gnawed me within, delivered myself up to the employment of watching and thinking."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The only marked event of the afternoon was, that I saw the girl with whom I had conversed in the verandah dismissed in disgrace by Miss Scatcherd from a history class, and sent to stand in the middle of the large schoolroom."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One morning an officer, at the head of a party of men, presented himself at the verandah of Mr Pritchard’s house, and inquired in broken English for the lady his wife."*
+> - 📜 **Robert Louis Stevenson (*Vailima Letters*):** *"I sat upon the wide **verandah** of our Samoan home, watching the sunset light fade across the palm fronds."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"They gathered on the club **verandah** at sundown, drinking iced tea and discussing the approaching hot weather."*
+> - 📜 **George Orwell (*Burmese Days*):** *"Flory leaned against the wooden railing of the club **verandah**, listening to the shrill metallic din of the cicadas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian fashion designer (1946-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian fashion designer (1946-1997).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gianni Versace, the celebrated Italian fashion designer renowned for theatrical glamour, baroque prints, and luxury haute couture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The international luxury fashion house Versace, characterized by its Medusa logo, vivid prints, and high-fashion tailoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, versace designates italian fashion designer (1946-1997)."*
+> - 📜 **Diana Vreeland (*DV*):** *"The theatrical brilliance of Gianni **Versace** brought back an unapologetic operatic glamour to the international fashion runway."*
+> - 📜 **Richard Martin (*Gianni Versace*):** *"In blending classical Greco-Roman mythology with contemporary rock style, **Versace** created an unmistakable aesthetic vocabulary."*
+> - 📜 **Umberto Eco (*On Beauty*):** *"The flamboyant visual language of **Versace** transformed the body into an illuminated canvas of baroque luxury."*

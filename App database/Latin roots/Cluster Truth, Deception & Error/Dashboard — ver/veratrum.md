@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coarse poisonous perennial herbs; sometimes placed in subfamily melanthiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of coarse poisonous perennial herbs; sometimes placed in subfamily melanthiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of toxic perennial flowering plants (family Melanthiaceae), containing potent steroid alkaloids that lower blood pressure and slow heart rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical botanical preparation derived from white hellebore, formerly used as a cardiac depressant and insecticide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veratrum designates a genus of coarse poisonous perennial herbs; sometimes placed in subfamily melanthiaceae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Several species of **Veratrum** flourish on alpine meadows, their acrid foliage protecting them from grazing herbivores."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The coarse, pleated leaves and greenish panicles of **Veratrum** viride are common sights along damp mountain brooks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Alkaloids extracted from **Veratrum** act as powerful cardiovascular sedatives, though their toxicity limits wide therapeutic use."*

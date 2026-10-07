@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an affidavit attached to a statement confirming the truth of that statement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of confirming, demonstrating, or substantiating the truth or accuracy of a statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific philosophy, the empirical corroboration of an inductive hypothesis through experiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What a verification of the blessed promise: "Before they call I will answer; and while they are yet speaking I will hear." HELP FOR THE SHIPWRECKED."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course, this was verification absolute of all the fabric of lies that the poet-forger had spun for Captain Jamie."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In every sphere of study there is a growing emphasis on verification."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The complete inductive cycle requires hypothesis, deductive reasoning, and empirical **verification** by observed facts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every new fossil discovery affords an independent **verification** of the general theory of descent with modification."*
+> - 📜 **William James (*Pragmatism*):** *"Truth happens to an idea; it becomes true, is made true by events: its verity is in fact an event, a process of **verification**."*

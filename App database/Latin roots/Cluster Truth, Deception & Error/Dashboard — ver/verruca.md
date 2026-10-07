@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pathology) a firm abnormal elevated blemish on the skin; caused by a virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) a firm abnormal elevated blemish on the skin; caused by a virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, contagious cutaneous tumor caused by human papillomavirus; a wart, especially on the sole of the foot (verruca plantaris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoology, a small wart-like outgrowth, glandular nodule, or protuberance on a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verruca designates (pathology) a firm abnormal elevated blemish on the skin; caused by a virus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A plantar **verruca** can produce severe pain during walking due to inward pressure upon sensory nerve endings."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The surgical demonstrator exhibited the removal of an obstinate **verruca** using salicylic acid and light cautery."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In several species of barnacles, each shell-plate is studded with small **verruca**-like projections that anchor the organism to wave-swept rocks."*

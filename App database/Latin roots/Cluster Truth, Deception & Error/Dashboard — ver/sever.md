@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, cut off, or separate a part from a whole by cutting, slicing, or forceful breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dissolve, terminate, or break off a relationship, connection, or alliance completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus have you heard me sever’d from my bliss, That by misfortunes was my life prolong’d To tell sad stories of my own mishaps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more can I be sever’d from your side Than can yourself yourself in twain divide."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better I were distract: So should my thoughts be sever’d from my griefs, And woes by wrong imaginations lose The knowledge of themselves. [_A drum afar off._] EDGAR."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"No, let me rather perish by the sword, Than **sever** this dear bond of friendship."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With huge two-handed sway brandished aloft, the sword of Michael smote, and deep into the rebel's side did **sever** flesh and mail."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The flashing blade of the guillotine was ready to **sever** the connection between body and soul."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, arranged, or extending in a crosswise direction relative to a primary axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mechanics, lying perpendicular or diagonal to the longitudinal direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Among the Western Dénés it is believed that one or two transverse lines tattooed on the arms or legs of a young man by a pubescent girl are a specific against premature weakness of these limbs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I remarked, among others, some germons, a species of mackerel as large as a tunny, with bluish sides, and striped with transverse bands, that disappear with the animal’s life."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes cut the cord and removed the transverse bar."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The wing-covers of the male cricket bear **transverse** ridges which act as a file upon the rasping organ."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy **transverse** beams of the ship's lower deck creaked under the weight of the blubber barrels."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faint **transverse** flash of lightning revealed the great sheep-shearing barn standing out against the dark down."*

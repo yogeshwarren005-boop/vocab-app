@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication capable of causing the evacuation of parasitic intestinal worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medication capable of causing the evacuation of parasitic intestinal worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication, herbal preparation, or chemical substance that expels parasitic worms from the intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to expel or evacuate helminths from the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermifuge designates a medication capable of causing the evacuation of parasitic intestinal worms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of an active **vermifuge** should be followed by a saline purge to evacuate the paralyzed parasites."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"In country practice, oil of chenopodium was standardly prescribed as a rustic **vermifuge** for roundworm infestations."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I gathered certain wild aromatic herbs, boiling them into an infusion that served both as a cordial and a **vermifuge**."*

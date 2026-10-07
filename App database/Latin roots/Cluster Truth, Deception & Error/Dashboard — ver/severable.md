@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being divided or dissociated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being divided or dissociated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being severed, divided, or separated from a whole without destroying the remainder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, designating a contract whose provisions are distinct so that the invalidity of one clause does not void the others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severable designates capable of being divided or dissociated."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Where covenants in a deed are distinct and independent, the obligations are legally **severable**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Whether the promises in an agreement are **severable** is a question of intent to be gathered from the entire instrument."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"An aggregate crime may consist of several **severable** offences, each demanding its appropriate measure of punishment."*

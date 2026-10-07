@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to reality or actuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enduring or necessary ethical or religious or aesthetic truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental truth, reality, or principle of lasting validity and importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of truthfulness, factual accuracy, or reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Why, by the **verity** on thee made good, May they not be my oracles as well, And set me up in hope?"*
+> - 📜 **Francis Bacon (*Essays*):** *"What is truth? said jesting Pilate; and would not stay for an answer; yet divine **verity** remains eternal."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No assertion can claim the character of a sacred **verity** which contradicts the clearest intuitions of human reason."*

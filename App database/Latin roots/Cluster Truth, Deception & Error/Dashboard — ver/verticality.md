@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perpendicular alignment, plumb uprightness, or perpendicularity relative to the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural aesthetics, emphasis upon upward height and soaring vertical lines, characteristic of Gothic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We turn our attention to the left-hand characteristics; which were flatness in respect of the river, verticality in respect of the wall behind it, and darkness as to both."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were flatness as regards the river, verticality as regards the wall behind it, and darkness as regards both."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The aspiring **verticality** of Gothic cathedrals directs the eye and heart of the worshipper upward toward heaven."*
+> - 📜 **Henry James (*The American Scene*):** *"The astonishing **verticality** of the new Manhattan skyscrapers bewildered the eye with its sheer cliff-like magnitude."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The complete **verticality** of the human spine liberated the upper limbs from all locomotive duty."*

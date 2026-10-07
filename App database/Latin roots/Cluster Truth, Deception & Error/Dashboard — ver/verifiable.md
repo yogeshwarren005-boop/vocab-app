@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being verified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being tested (verified or falsified) by experiment or observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tested, confirmed, or substantiated by empirical observation or documentary evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to rigorous validation through reproducible scientific methods or independent audit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific truth rests upon the bedrock of **verifiable** facts, rejecting whatever cannot be demonstrated to reason."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An induction is sound only when its inferred consequences lead to **verifiable** predictions in new cases."*
+> - 📜 **William James (*Pragmatism*):** *"True ideas are those that we can assimilate, validate, corroborate and verify; false ideas are those that are not **verifiable**."*

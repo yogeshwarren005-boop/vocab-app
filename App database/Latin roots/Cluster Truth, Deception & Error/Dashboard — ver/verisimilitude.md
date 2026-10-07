@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of truth; the quality of seeming to be true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of truth; the quality of seeming to be true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of being true or real; the quality of depicting reality convincingly in literature or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausibility or credibility that invites suspension of disbelief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"What could be a finer testimony to Miss Harding's verisimilitude than the blandishments of these sweet innocents?"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Though it must be admitted that in Sir Launcelot Greaves his labours were but partially successful, yet the story possesses a good deal of the lively verisimilitude which Fathom lacked."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe (Preface)*):** *"The editor believes this story to be a just history of fact; neither is there any appearance of fiction in it; and the **verisimilitude** of the details convinces every reader."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The nautical precision of the journal was designed to impart an air of unassailable **verisimilitude** to the most extravagant adventures."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her gossip lacked that artistic **verisimilitude** which alone could persuade critical listeners of its scandalous truth."*

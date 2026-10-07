@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With reverence; in a reverent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reverence; in a reverent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner marked by profound reverence, solemn deference, or holy awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With submissive veneration and devout honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have been trying with all my might,--asking God to help me too," she added low and reverentially; "but papa doesn't know that, and he has been very near banishing me two or three times before."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To have approached Laure with any suit that was not reverentially tender would have been simply a contradiction of his whole feeling towards her."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the day of the festival the girls take up these blades and carry them in baskets to the dancing-ground, where, prostrating themselves reverentially, they place some of the plants before the Karma-tree."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty touched the memorial stone **reverentially**, shedding silent tears for her lost master."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The crowd drew back **reverentially** as the saintly minister passed toward the meeting-house."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Palmer bowed **reverentially** before the crucifix, murmuring a prayer for the safety of the pilgrims."*

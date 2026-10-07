@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a wide variety of skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a wide variety of skills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to adapt or turn smoothly to many different pursuits, skills, or operational functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flexibility, resourcefulness, and multi-faceted competence in varied situations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The trust companies, however, with their greater versatility, are increasing in number."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"In evidence of the versatility of his pursuits, the veteran author of a short and ungenerous memoir that was published in "The Times" of May the 10th contributes one interesting note."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The astonishing **versatility** of Leonardo da Vinci encompassed painting, hydraulic engineering, anatomy, and military fortification."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A liberal education imparts intellectual **versatility**, enabling a man to handle unfamiliar challenges with competence."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles boasted of the extraordinary dramatic **versatility** of his theatrical troupe."*

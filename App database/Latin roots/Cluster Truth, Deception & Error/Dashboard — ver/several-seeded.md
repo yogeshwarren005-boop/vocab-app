@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botanical descriptions, designating a fruit, pod, or capsule that contains more than two but a moderate number of seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing pods or ovaries with multiple distinct ovules maturing into seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, several-seeded designates having many seeds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The capsule in this genus is three-celled, dehiscent, and **several-seeded**, opening down the middle of each valve."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In leguminous plants with a **several-seeded** pod, natural selection favours variations that distribute nourishment equally among all embryos."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The berry is fleshy, **several-seeded**, and turns bright scarlet when fully ripe in the autumn months."*

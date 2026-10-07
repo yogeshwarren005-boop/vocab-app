@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to tell lies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to tell lies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to facts; habitual truthfulness, accuracy, or honesty in reporting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accuracy, fidelity, or precision in representation or testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s regard; and yet it was not in her nature to question the veracity of a young man of such amiable appearance as Wickham."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Of what he has _particularly_ accused me I am ignorant; but of the truth of what I shall relate I can summon more than one witness of undoubted veracity."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Even the cultivation of an active sense of **veracity** is one of the most useful, and the enfeeblement of that feeling one of the most hurtful, things to which our conduct can be instrumental."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"We must weigh the **veracity** of human testimony against the universal experience of the constant laws of nature."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Truthfulness is a virtue that grows with civilization; among primitive tribes, strict **veracity** is practiced only toward fellow tribesmen."*

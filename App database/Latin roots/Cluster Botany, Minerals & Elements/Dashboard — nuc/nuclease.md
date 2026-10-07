@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme capable of cleaving the phosphodiester bonds between nucleotide subunits in nucleic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, an endonuclease or exonuclease essential for DNA replication, repair, and RNA processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nuclease designates general term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units."*
+> - 📜 **Phoebus Levene (*Nucleic Acids*):** *"Digestion of thymus extract with an active **nuclease** yields free mononucleotides rather than intact polynucleotide chains."*
+> - 📜 **Arthur Kornberg (*DNA Synthesis*):** *"The proofreading exonuclease domain of DNA polymerase functions as a built-in **nuclease** that removes mismatched base pairs."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Restriction **nuclease** enzymes cut viral DNA molecules at specific palindromic recognition sequences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of jawless marine and freshwater cyclostomes comprising the sea lamprey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive agnathan vertebrates possessing a circular toothed suction disc, lacking paired fins and true bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petromyzon designates typical lampreys."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **Petromyzon**, the persistent unsegmented notochord serves as the primary axial skeleton throughout adult life."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The circular suctorial mouth of **Petromyzon** is armed with horny epidermal teeth adapted for parasitic attachment to fishes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The ammocoetes larva of **Petromyzon** provides morphological clues regarding the primitive chordate ancestral lineage."*

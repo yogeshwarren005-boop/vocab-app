@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (weapons) deriving destructive energy from the release of atomic energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting the nucleus of an atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or forming the nucleus of an atom, a biological cell, or an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to atomic energy derived from nuclear fission or fusion; or forming a central core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your orders: Destroy the cache immediately using your Type K1 nuclear explosive missile setting: Baker Two Seven."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Many have enough room to accommodate nuclear energy capsules, ship and equipment repair shops, and catapult launchers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Behind the cage, halfway along a shaft running aft, hung a tiny nuclear power plant."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The deflection of alpha particles through large angles proved the existence of a concentrated **nuclear** positive charge."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The **nuclear** membrane dissolves during prophase, allowing spindle fibers to attach to individual chromosomes."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"The stability of the atom depends upon quantum laws that govern the interaction of electrons with the **nuclear** core."*

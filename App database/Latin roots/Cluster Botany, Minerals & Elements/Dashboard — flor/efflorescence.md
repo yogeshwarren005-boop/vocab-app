@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any red eruption of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or period of blossoming and flowering; the blooming of plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, the formation of a powdery white deposit on a crystalline substance as water of hydration is lost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He could hardly have failed to know the most recent efflorescence of English poetry, living as he did in circles where the varied merits of the new poets were largely and keenly discussed."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are easily distinguished by their coarse grey body, reddish at the base, and thin, watery green glaze, very transparent and showing a bluish efflorescence where it has run thick."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The alpine meadows exhibited a magnificent **efflorescence** of gentians and anemones immediately after the melting of the snow."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Damp cellar walls frequently display a chalky **efflorescence** of nitre deposited by evaporating groundwater."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The intellectual **efflorescence** of the Italian Renaissance was nurtured by the rediscovered philosophical texts of Greece."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant elaborateness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant elaborateness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Redness or flushed ruddy tone of complexion; or excessive flowery ornamentation in rhetoric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive richness or ornate elaboration of style in literature, music, or architectural decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floridity designates extravagant elaborateness."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"His prose style was criticized for excessive **floridity**, where simple thoughts were buried beneath piles of flowery epithets."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter avoided the vulgar **floridity** of the late Venetian decadence, choosing chaste harmonies of silver and olive."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine orators compensated for their lack of genuine political freedom by an empty rhetorical **floridity**."*

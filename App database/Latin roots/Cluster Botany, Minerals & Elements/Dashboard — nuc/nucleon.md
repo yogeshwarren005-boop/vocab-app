@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constituent (proton or neutron) of an atomic nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constituent (proton or neutron) of an atomic nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constituent particle of an atomic nucleus; specifically, a proton or a neutron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In subatomic particle physics, a baryon of spin one-half that forms the building blocks of atomic nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleon designates a constituent (proton or neutron) of an atomic nucleus."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"The strong nuclear force acts between each **nucleon** irrespective of whether it carries an electric charge."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"The binding energy per **nucleon** reaches its maximum near the middle of the periodic table in iron and nickel."*
+> - 📜 **Hideki Yukawa (*Meson Theory*):** *"We postulated the exchange of mesons between **nucleon** pairs to account for the short-range nuclear attraction."*

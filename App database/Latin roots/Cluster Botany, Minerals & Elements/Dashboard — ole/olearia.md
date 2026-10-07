@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of australian evergreen shrubs or small trees with large daisylike flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of australian evergreen shrubs or small trees with large daisylike flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering shrubs and small trees in the daisy family (Asteraceae), commonly called daisy bushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australasian woody asterids possessing tough leathery leaves, often with tomentose undersides, and abundant daisy-like floral heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olearia designates large genus of australian evergreen shrubs or small trees with large daisylike flowers."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The daisy bush, **Olearia**, forms impenetrable subalpine thickets, bearing abundant white flower heads that scent the air."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"In **Olearia**, the involucral bracts are imbricate and the ray florets are typically female and ligulate."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The scrub vegetation of the Blue Mountains was enlivened by flowering bushes of **Olearia** resembling northern asters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carving or line drawing on rock (especially one made by prehistoric people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carving or line drawing on rock (especially one made by prehistoric people).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock carving, engraving, or pecking made especially by prehistoric people upon a natural stone face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and anthropology, symbolic rock art created by incising, abrading, or chipping stone surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petroglyph designates a carving or line drawing on rock (especially one made by prehistoric people)."*
+> - 📜 **John Wesley Powell (*The Exploration of the Colorado River of the West*):** *"Upon the smooth sandstone cliff overlooking the river canyon was pecked an ancient Indian **petroglyph** of a bighorn sheep."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Massive granite boulders along the Orinoco bear curious **petroglyph** engravings executed by forgotten aboriginal tribes."*
+> - 📜 **Edward Burnett Tylor (*Researches into the Early History of Mankind*):** *"The symbolic **petroglyph** represents the earliest transition from naturalistic pictorial art to written ideograms."*

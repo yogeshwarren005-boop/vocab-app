@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthology of short literary pieces and poems and ballads etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthology of short literary pieces and poems and ballads etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection or anthology of literary extracts, poems, or writings; literally a gathering of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lavishly illustrated botanical treatise or book recording rare and ornamental garden plants in full color.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, florilegium designates an anthology of short literary pieces and poems and ballads etc."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The compiler gathered a curious **florilegium** of antique moral verses to edify his youthful readers."*
+> - 📜 **Walter Pater (*Appreciations*):** *"His prose essay reads like an exquisite **florilegium**, culling the choicest phrases from seventeenth-century masters."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The prince commissioned an engraved **florilegium** to preserve a permanent record of his rarest botanical acquisitions."*

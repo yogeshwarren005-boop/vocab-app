@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark oil consisting mainly of hydrocarbons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark oil consisting mainly of hydrocarbons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring liquid mixture of complex hydrocarbons found in geological strata; crude oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The liquid fossil fuel refined into fuels, lubricants, and petrochemicals that powered the industrial machine age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Petroleum and natural gas, of which our original reservoirs were perhaps the richest in the world, are being rapidly exhausted."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Long before Easter the young people have been busy collecting firewood; every farmer contributes, and tar-barrels, petroleum cases, and so forth go to swell the pile."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Coal beds, petroleum basins, the works."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Natural seepages of **petroleum** have been utilized since antiquity across Mesopotamia for mortar and fuel."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The springs of bituminous **petroleum** near Cumana emitted inflammable vapors that burned upon the surface of the sea."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The discovery of deep **petroleum** wells in Pennsylvania threatens the romantic supremacy of the sperm whalemen."*

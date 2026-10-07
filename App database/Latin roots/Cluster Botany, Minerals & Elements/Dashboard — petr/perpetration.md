@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of committing a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of committing a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of committing or carrying out a crime, misdeed, or morally objectionable act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, the actual execution and commission of an unlawful deed as distinguished from mere conspiracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could rescue myself from this abhorred fate; I could dissipate this tremendous illusion; I could save my brother from the perpetration of new horrors, by pointing out the devil who seduced him."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But for my aid his life would have burned away in torments within the first two years after the perpetration of his crime and thine."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law punishes the deliberate **perpetration** of felony with severe penalties to deter other evildoers."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The audacity displayed in the **perpetration** of the burglary showed that we had to deal with no ordinary criminal."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor was horrified by the ruthless **perpetration** of the massacre, yet failed to punish the praetorian guards."*

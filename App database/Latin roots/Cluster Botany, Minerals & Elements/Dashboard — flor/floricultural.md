@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving floriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving floriculture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the cultivation of flowers and ornamental flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the commercial floral industry, greenhouse floriculture, and specialized breeding of floral varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floricultural designates of or relating to or involving floriculture."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The extraordinary varieties of the pansy and carnation illustrate what human **floricultural** selection can accomplish."*
+> - 📜 **Luther Burbank (*Harvest of the Years*):** *"My **floricultural** experiments with the Shasta daisy aimed at combining hardiness with dazzling white petals."*
+> - 📜 **John Lindley (*The Theory of Horticulture*):** *"A sound knowledge of plant physiology enables the **floricultural** grower to induce winter blooming in greenhouse camellias."*

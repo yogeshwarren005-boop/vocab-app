@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin petr within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of petr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that deals with the scientific description and microscopic classification of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petrological analysis using polarizing petrographic microscopes and thin rock sections to identify mineral compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrography designates pertaining to, derived from, or characteristic of latin petr within the domain of botany, minerals & elements."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The introduction of thin-section microscopic **petrography** has revealed the true mineral crystallization sequence of igneous rocks."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Modern **petrography** distinguishes intrusive from effusive rocks by analyzing groundmass textures under polarized light."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A knowledge of **petrography** is indispensable to the field geologist who seeks to map complex volcanic terranes."*

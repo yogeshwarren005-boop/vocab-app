@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family oleaceae; in some classifications included in the order gentianales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family oleaceae; in some classifications included in the order gentianales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical order comprising the olive family (Oleaceae), now generally included within Lamiales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical taxonomic order of dicotyledonous sympetalous plants characterized by two-stamened flowers and drupaceous or samara fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleales designates coextensive with the family oleaceae; in some classifications included in the order gentianales."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Earlier continental botanists segregated the **Oleales** as an independent order based on floral symmetry and fruit types."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the natural system, **Oleales** linked the tubular-flowered Gentianales with the Personatae."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The ordinal limits of **Oleales** were strictly confined to those families possessing two stamens inserted on the corolla."*

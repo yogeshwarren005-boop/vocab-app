@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of numbering pages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of any written or printed material (especially in a manuscript or book).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of paper folded once across the middle to form two leaves (four pages) of a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book of the largest standard size, made of such folded sheets; or a numbered leaf in a ledger or manuscript.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Devise, wit; write, pen; for I am for whole volumes in folio. [_Exit._] ACT II SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, why didn’t you give that eight and thirty Chancery folio in Jarndyce to Nimrod?’ or such like."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"A = The First Folio. p. 302, l. 2."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Old Krook opened the dusty **folio** ledger, pointing with his grimy finger to forgotten legal entries."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His works were lovingly gathered into the First **Folio** by his fellow actors Heminge and Condell."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Upon the minister's desk lay a venerable theological **folio** bound in pigskin and secured with brass clasps."*

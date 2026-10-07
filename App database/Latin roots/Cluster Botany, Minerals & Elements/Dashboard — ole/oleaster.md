@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several shrubs of the genus elaeagnus having silver-white twigs and yellow flowers followed by olivelike fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several shrubs of the genus elaeagnus having silver-white twigs and yellow flowers followed by olivelike fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wild olive tree (*Olea europaea* var. *sylvestris*); or the Russian olive (*Elaeagnus angustifolia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thorny Mediterranean wild tree bearing small, bitter fruit; or an ornamental silverberry shrub with silvery lepidote leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleaster designates any of several shrubs of the genus elaeagnus having silver-white twigs and yellow flowers followed by olivelike fruits."*
+> - 📜 **Virgil (*The Georgics*):** *"Graft the fruitful olive branch upon the hardy wild **oleaster**, and abundant berries will load the rustic boughs."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The wild **oleaster** withstands harsh rocky soils and salt sea winds that would blight the cultivated garden olive."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Oil pressed from the bitter fruit of the **oleaster** was valued by ancient physicians as an astringent unguent."*

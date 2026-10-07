@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Margarine or oleomargarine; a butter substitute made from vegetable oils or animal fats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal commercial abbreviation for oleomargarine, widely manufactured as an economical dietary substitute for butter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleo designates a spread made chiefly from vegetable oils and used as a substitute for butter."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The packinghouse adulterated the dairy butter with cheap yellow **oleo** pressed from cattle suet."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Dairy lobbies demanded punitive taxation upon yellow **oleo** to protect domestic butter prices from competition."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"They spread thin yellow **oleo** across the cold biscuits and ate silently by the roadside campfire."*

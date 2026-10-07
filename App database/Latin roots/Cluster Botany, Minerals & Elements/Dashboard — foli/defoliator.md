@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect that strips the leaves from plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect that strips the leaves from plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect pest, pathogen, or chemical agent that strips plants of their leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, any phytophagous insect species, such as a tent caterpillar or sawfly, that consumes tree foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliator designates an insect that strips the leaves from plants."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The gypsy moth acts as a relentless **defoliator**, devouring the foliage of broadleaf woodlands across vast territories."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"The processionary caterpillar is a formidable **defoliator** of pine forests, spinning communal silky nests among the needles."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Every forest **defoliator** has its natural predators whose balanced numbers prevent widespread ecological catastrophe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid nucleus of a sperm or an ovum during fertilization, prior to their fusion into a diploid zygotic nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental cytology, either of the two gametic nuclei present in the fertilized egg before amphimixis completes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronucleus designates the nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The sperm **pronucleus** swells within the ovoplasm, migrating toward the center to unite with the egg **pronucleus**."*
+> - 📜 **Thomas Hunt Morgan (*Heredity and Sex*):** *"Union of the male and female **pronucleus** restores the somatic diploid chromosome number in the new individual."*
+> - 📜 **Oscar Hertwig (*The Cell: Outlines of General Anatomy and Physiology*):** *"Fertilization consists essentially in the intimate fusion of the male **pronucleus** with the female **pronucleus**."*

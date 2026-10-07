@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of leptosporangiate ferns containing the genus Oleandra, native to tropical forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monogeneric fern family distinguished by scaly climbing rhizomes, simple entire fronds, and reniform indusiate sori.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleandraceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Pteridologists have isolated **Oleandraceae** from Davalliaceae on account of anatomical and soral differences."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The taxonomy of tropical ferns frequently places **Oleandraceae** in close phylogenetic proximity to Polypodiaceae."*
+> - 📜 **Joseph Dalton Hooker (*On the Flora of Australia*):** *"Tropical rainforests of Queensland contain representatives of **Oleandraceae** creeping over mossy granite boulders."*

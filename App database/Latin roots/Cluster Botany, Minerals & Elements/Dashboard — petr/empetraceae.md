@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heathlike shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heathlike shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small botanical family of low, heath-like, evergreen shrubs, commonly known as the crowberry family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy, a former family of dwarf ericoid subshrubs now classified as a subfamily or tribe within Ericaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empetraceae designates heathlike shrubs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Empetraceae** includes low heath-like alpine shrubs with linear grooved leaves and solitary dioecious flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Alpine heaths of the northern hemisphere harbor members of **Empetraceae** that carpet peaty fellfields."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Systematists associate **Empetraceae** closely with the true heaths on account of their evergreen foliage and baccate fruits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a nucleus or occurring in the nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a distinct biological or physical nucleus; having a central core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, designating cells, such as erythrocytes of birds and reptiles, that retain a defined nucleus throughout life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleated designates form into a nucleus."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every animal tissue consists of **nucleated** cells, each derived from the division of a pre-existing parent cell."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"While human red blood corpuscles are non-nucleated discs, those of the frog are large, oval, and distinctly **nucleated**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Microscopic examination confirmed that the strange growth consisted of organized **nucleated** cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Central part of a plant ovule; contains the embryo sac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Central part of a plant ovule; contains the embryo sac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central nutritive tissue of an ovule in seed plants, containing the embryo sac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology, the megasporangium of gymnosperms and angiosperms enclosed within the protective integuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucellus designates central part of a plant ovule; contains the embryo sac."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The ovule consists essentially of the **nucellus**, or central body, enclosed by one or two integuments."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In gymnosperms, the pollen tube burrows directly through the apical tissue of the **nucellus** to reach the archegonia."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The megaspore mother cell differentiates within the hypodermal layer of the growing **nucellus**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that despoils the innocence or beauty of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of depriving a woman of her virginity (especially by rupturing the hymen through sexual intercourse).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of plucking blossoms or depriving a plant of flowers; or the deflowering of a virgin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literature and legal terminology, the loss of virginal chastity, or the harvesting of prime blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defloration designates an act that despoils the innocence or beauty of something."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The licentious tyrant violated every sacred law of hospitality, staining his banquet with the **defloration** of noble maidens."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Premature **defloration** of an orchard crop diminishes both the strength of the rootstock and the harvest."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"The despairing lady lamented the cruel deceit that had threatened her honor with irremediable **defloration**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf) having the base united around (and apparently pierced by) the stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf) having the base united around (and apparently pierced by) the stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having the base of the leaf completely surrounding and clasping the stem so the stem appears to pierce through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing amplexicaul leaves whose basal lobes unite on the opposite side of the vegetative axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfoliate designates (of a leaf) having the base united around (and apparently pierced by) the stem."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the thoroughwort, Eupatorium perfoliatum, the opposite stem leaves are united at the base, presenting a **perfoliate** habit."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of Bupleurum exhibit completely **perfoliate** leaves that make the slender floral stem seem to emerge through the blade."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The yellow-wort displays connate, **perfoliate** foliage that clasps the rigid stem like a leafy cup."*

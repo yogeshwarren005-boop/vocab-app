@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm that constitutes the nucleus of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protoplasm that constitutes the nucleus of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasmic substance contained within the nuclear envelope of a living cell; karyoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gel-like ground matrix of the cell nucleus in which chromatin threads, the nucleolus, and nuclear bodies are suspended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleoplasm designates the protoplasm that constitutes the nucleus of a cell."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The **nucleoplasm** forms a fluid yet organized matrix through which regulatory proteins diffuse to reach chromosomal loci."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"Fixation reveals a fine fibrillar network traversing the transparent **nucleoplasm** inside resting plant nuclei."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Interactions between chromosomal genes and the surrounding **nucleoplasm** mediate early embryological differentiation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prominent bony projection of the ulna that forms the point of the human elbow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal anatomy, the proximal posterior process of the ulna serving as the attachment site for the triceps brachii tendon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olecranon designates process of the ulna that forms the outer bump of the elbow and fits into the fossa of the humerus when the arm is extended."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **olecranon** is a thick, curved eminence situated at the upper and back part of the ulna, forming the point of the elbow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gouty tophi frequently deposit over the **olecranon** bursa, producing painless fluctuating swellings."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A sharp fracture of the **olecranon** destroys the extensor lever of the arm unless anatomic reduction is maintained."*

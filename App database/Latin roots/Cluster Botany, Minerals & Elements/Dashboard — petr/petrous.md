@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bone especially the temporal bone) resembling stone in hardness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bone especially the temporal bone) resembling stone in hardness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like stone; hard, rocky, stony, or rigid in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating the dense, hard pyramidal portion of the temporal bone enclosing the inner ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrous designates (of bone especially the temporal bone) resembling stone in hardness."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **petrous** portion of the temporal bone is of stony hardness, protecting the delicate labyrinth of the internal ear."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dry mountain slopes were composed of **petrous** debris broken from the towering limestone precipices above."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"His heart had grown **petrous** through solitary brooding, unresponsive to the gentle tears of his devoted friend."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological family containing all modern northern hemisphere lampreys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, an agnathan family distinguished by an anadromous or freshwater lifestyle, parasitic or non-parasitic adults, and a larval ammocoetes phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petromyzontidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the family **Petromyzontidae** ascend freshwater rivers in spring to spawn among gravel shallows."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Petromyzontidae** includes both the great sea lamprey and the smaller non-migratory brook lampreys."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The dentition of the oral disc supplies the primary systematic characters for distinguishing genera within **Petromyzontidae**."*

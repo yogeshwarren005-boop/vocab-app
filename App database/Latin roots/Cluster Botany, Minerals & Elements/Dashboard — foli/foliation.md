@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the process of forming leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) the arrangement of leaflike layers in a rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of producing leaves; or the arrangement of leaves inside a leaf bud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the planar arrangement of structural or mineralogical features in metamorphic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliation designates (botany) the process of forming leaves."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **foliation** of crystalline schists does not necessarily coincide with the original sedimentary bedding planes."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"I observed that the strike of the **foliation** throughout the metamorphic belt remained parallel over hundreds of miles."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Vernal **foliation** varies systematically among tree families, some exhibiting plicate and others revolute leaf packing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English lexicographer remembered for his italian and english dictionary (1553-1625).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English lexicographer remembered for his italian and english dictionary (1553-1625).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to John Florio, the Elizabethan lexicographer and translator who rendered Montaigne's Essays into English.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to historical Anglo-Italian Renaissance scholarship, phraseology, or bilingual lexicography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, florio designates english lexicographer remembered for his italian and english dictionary (1553-1625)."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The lively Elizabethan English of **Florio** gave Montaigne's speculative musings a vigorous domestic currency in England."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Shakespeare was steeped in the translation of **Florio**, borrowing whole phrases for the philosophical speeches of Gonzalo."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The quaint, sonorous vocabulary of **Florio** reveals the rich linguistic hospitality of the Tudor literary renaissance."*

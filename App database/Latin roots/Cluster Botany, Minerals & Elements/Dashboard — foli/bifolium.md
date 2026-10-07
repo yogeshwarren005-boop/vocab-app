@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin foli within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of foli in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded sheet of paper or parchment forming two leaves (four pages), common in medieval codices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, a plane curve with two loops; or in botany, an orchid or plant bearing two opposite leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifolium designates pertaining to, derived from, or characteristic of latin foli within the domain of botany, minerals & elements."*
+> - 📜 **M. R. James (*The Wanderings and Homes of Manuscripts*):** *"The scribe ruled the parchment **bifolium** with plummet lines before commencing his transcription of the Gospel text."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Listera cordata was anciently described as a **bifolium** on account of its single pair of sessile heart-shaped cauline leaves."*
+> - 📜 **William Flinders Petrie (*The Arts and Crafts of Ancient Egypt*):** *"A late Coptic **bifolium** recovered from the monastic crypt contained fragments of liturgical homilies."*

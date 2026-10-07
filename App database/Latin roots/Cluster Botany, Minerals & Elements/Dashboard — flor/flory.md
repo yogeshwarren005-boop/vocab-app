@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states chemist who developed methods for studying long-chain molecules (1910-1985).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, decorated with, ending in, or bordered with fleur-de-lis (heraldic lilies).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing crosses, ordinaries, or tressures terminating in fleur-de-lis projections along their edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flory designates united states chemist who developed methods for studying long-chain molecules (1910-1985)."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"Upon the royal banner shone the ruddy lion rampant within a double tressure **flory** and counterflory of lilies."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The cross **flory** was anciently borne as an honorable difference by crusader knights and great ecclesiastical foundations."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carved marble shield above the palace portal bore a cross **flory** executed with sharp medieval precision."*

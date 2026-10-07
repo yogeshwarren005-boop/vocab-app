@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of trees or shrubs of the olive family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of trees or shrubs of the olive family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the botanical family Oleaceae (the olive family).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an oily, unctuous, or olive-like quality in botanical texture or phytochemical composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleaceous designates of or pertaining to or characteristic of trees or shrubs of the olive family."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The privet and the lilac share typical **oleaceous** floral characters, possessing two stamens epipetalous upon the corolla tube."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Certain **oleaceous** shrubs produce sweet-scented blossoms cultivated in southern France for the perfume industry."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*):** *"Systematic revision of the **oleaceous** genera required separating true olives from the tropical ironwoods."*

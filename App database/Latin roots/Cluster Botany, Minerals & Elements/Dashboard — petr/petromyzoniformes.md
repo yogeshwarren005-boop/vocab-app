@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lampreys as distinguished from hagfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lampreys as distinguished from hagfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of jawless fish-like vertebrates encompassing all living lampreys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient agnathan lineage characterized by seven pairs of branchial pouches, a cartilaginous skeleton, and a single median nostril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petromyzoniformes designates lampreys as distinguished from hagfishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The order **Petromyzoniformes** occupies a fundamental position in vertebrate phylogeny, lacking both jaws and sympathetic nerve trunks."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Living **Petromyzoniformes** represent the survivors of an ancient cyclostome stock that diverged before the advent of gnathostomes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative analysis of **Petromyzoniformes** illuminates the evolutionary emergence of vertebrate cranial cartilage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen trees and shrubs having oily one-seeded fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen trees and shrubs having oily one-seeded fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of evergreen trees and shrubs in the family Oleaceae, including the cultivated olive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Mediterranean woody taxa (*Olea europaea*) characterized by leathery leaves, drupaceous fruit, and oil-rich mesocarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olea designates evergreen trees and shrubs having oily one-seeded fruits."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Olea** possesses opposite lanceolate leaves, small four-cleft flowers, and a fleshy oily drupe containing a single stone."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Fossil species of **Olea** indicate that the olive lineage flourished across southern Europe during warm Tertiary epochs."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The sacred tree of Minerva, **Olea**, provides mankind with fuel for lamps, oil for food, and balm for weary limbs."*

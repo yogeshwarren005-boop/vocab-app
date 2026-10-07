@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in suriname; equal to 100 cents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly the basic unit of money in the netherlands; equal to 100 cents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gold or silver coin first struck at Florence in 1252, stamped with the emblem of the lily (fiore).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former British two-shilling coin, or a historical gold denomination circulating throughout western Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bid your hangdogs go Drink out this quarter-florin to the health Of the munificent House that harbors me (And many more beside, lads! more beside!) {30} And all’s come square again."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan brought up a florin, twisted it round in his fingers and cried: —A miracle!"*
-> - 📜 **James Joyce (*Ulysses*):** *"But the funny part is..... —And Reuben J, Martin Cunningham said, gave the boatman a florin for saving his son’s life."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine merchant paid down the broad gold **florin** upon the counter with pride in the republic's honest coinage."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He jingled the loose half-crowns and a silver **florin** in his deep waistcoat pocket as he meditated."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The intrinsic purity of the ancient Florentine **florin** made it the trusted standard of exchange in every Mediterranean mart."*

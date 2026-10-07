@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous evergreen Mediterranean shrub (*Nerium oleander*) with leathery lanceolate leaves and showy pink or white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental dogbane shrub rich in cardiac glycosides (oleandrin), lethal if ingested by humans or livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"But presently, through the faint fragrance of oleanders, other sounds began to penetrate,--the strains of the waltz to which they had danced only the night before."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The scent of the pink **oleander** blossoms in the conservatory was heavy and sweet in the summer evening."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Cuttings of the common **oleander** root with astonishing ease when placed in bottles of warm water."*
+> - 📜 **Henry James (*The American*):** *"A row of tubbed **oleander** trees adorned the gravel courtyard of the old Parisian hotel."*

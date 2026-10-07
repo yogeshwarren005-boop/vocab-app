@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or covered with oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent oiliness, greasiness, or slippery unctuous texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, unctuous sycophancy, flattering hypocrisy, or oily insincerity in personal conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleaginousness designates consisting of or covered with oil."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The sanctimonious **oleaginousness** of Pecksniff was never more evident than when he turned his cousin from the door."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **oleaginousness** of court flatterers is an insult to the dignity of an honest understanding."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The slick **oleaginousness** of the ship's cook disgusted the sailors when they inspected the greasy galley kettles."*

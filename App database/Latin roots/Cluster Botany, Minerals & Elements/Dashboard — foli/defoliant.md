@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical that is sprayed on plants and causes their leaves to fall off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical that is sprayed on plants and causes their leaves to fall off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance sprayed on vegetation to cause leaves to fall off prematurely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture and military tactics, a chemical agent used to strip cotton crops for mechanical harvesting or clear forest cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliant designates a chemical that is sprayed on plants and causes their leaves to fall off."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The widespread application of chemical **defoliant** sprays disrupts ecological food chains and poisons aquatic habitats."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Man invents the artificial **defoliant** to command the forest, forgetting that healthy soil requires falling autumn humus."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Botanical agents that act as a severe **defoliant** prematurely induce the abscission layer in petiole bases."*

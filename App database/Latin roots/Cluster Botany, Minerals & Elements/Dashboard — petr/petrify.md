@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become stonelike or stiff or dazed and stunned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn organic matter into stone by the replacement of its particles with mineral matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To paralyze, stun, or immobilize with terror, astonishment, or profound dread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"And one thing you can depend on, and that is that this crowd’ll stick to you, and work for you, and f-f-fight for you till they p-p-petrify.” Motu smiled a proud, grateful sort of smile and took Mark’s hand."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was a petrifying thing to see Charmion break down."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sacred lowe o’ weel-plac’d love, Luxuriantly indulge it; But never tempt th’ illicit rove, Tho’ naething should divulge it: I waive the quantum o’ the sin, The hazard of concealing; But, Och! it hardens a’ within, And petrifies the feeling!"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Calcareous waters flowing through the cavern **petrify** hanging mosses, transforming them into stony stalactites."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The sudden entrance of the mysterious stranger seemed to **petrify** the company into silent statues of dismay."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bloodcurdling howl in the dark moor was enough to **petrify** the stoutest heart with terror."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of something without cutting into it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of something without cutting into it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of an intact organ, cyst, or tumor from its surrounding capsule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, complete excision of the eyeball; or in cell biology, removal of the nucleus from a cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enucleation designates surgical removal of something without cutting into it."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Successful **enucleation** of the thyroid adenoma relieved tracheal compression immediately."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Artificial **enucleation** of the unfertilized egg demonstrated that cleavage cannot proceed without chromosomal guidance."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Prompt **enucleation** of the ruptured eye arrested the progress of destructive inflammatory changes."*

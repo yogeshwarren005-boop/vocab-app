@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin foli within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of foli in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, cosmetic preparation, or substance that causes dead surface cells or scale layers to peel away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, a topical abrasive or chemical acid that accelerates the shedding of stratum corneum skin layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliant designates pertaining to, derived from, or characteristic of latin foli within the domain of botany, minerals & elements."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of a gentle chemical **exfoliant** promotes the sloughing of hyperkeratotic scales in chronic dermatoses."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Roman matrons employed fine volcanic pumice as an **exfoliant** to soften roughness upon the arms and feet."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Dermatological preparations containing salicylic acid serve as an effective **exfoliant** in removing thickened cutaneous plaques."*

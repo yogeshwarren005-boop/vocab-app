@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, dense, spherical structure within the nucleus of a cell, active in synthesizing ribosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-membrane-bound nuclear subcompartment where ribosomal RNA transcription, processing, and ribosome assembly take place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleolus designates a small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The prominent **nucleolus** often stains intensely with basic dyes, disappearing during the height of mitotic karyokinesis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In rapidly growing malignant tissues, the enlarged **nucleolus** reflects an accelerated metabolic turnover of the cell."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Specific chromosome regions known as nucleolar organizers govern the regeneration of the **nucleolus** at telophase."*

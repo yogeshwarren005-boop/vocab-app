@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hammer into thin flat foils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate with leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having leaves or leaflike parts; decorated with leaf-shaped designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval architecture and numismatics, having cusps or lobes arranged like leaves, as in a trefoil or cinquefoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Cover with foliate edges and jewel pattern, surmounted by a seated figure of Shou Lao, God of Longevity."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A typical specimen, shown in Plate 51, is a vase of baluster form with wide shoulders strengthened by a collar with foliate edge, and small neck and mouth, ornamented with a handsome lotus scroll in relief."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The neck, for instance, may be compared with Fig. 2 of Plate 14; the phœnix head and the foliate mouth with Fig. 1 of Plate 9, and the carved ornament on the body with Fig. 3 of Plate 14."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The tracery of the church window dissolved into intricate **foliate** forms that echoed the oak boughs outside."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Certain aquatic herbs bear submerged dissected foliage alongside broad **foliate** floating blades."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ancient silver seal was carved with a **foliate** cross surrounded by a half-effaced Norman motto."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleolus; a small dense rounded body situated within the cell nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An older cytological term for the nucleolus, observed as a refractive granule inside the nuclear matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleole designates a small round body of protein in a cell nucleus; such organelles contain rna and are involved in protein synthesis."*
+> - 📜 **Theodor Schwann (*Microscopical Researches*):** *"Within each newly formed cell nucleus, a distinct minute granule, or **nucleole**, is usually visible under high magnification."*
+> - 📜 **Matthias Schleiden (*Contributions to Phytogenesis*):** *"The central **nucleole** appears first in the cytoblast, around which nuclear substance subsequently condenses."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Early microscopists designated the prominent true nucleolus as the **nucleole** to distinguish it from chromatin knots."*

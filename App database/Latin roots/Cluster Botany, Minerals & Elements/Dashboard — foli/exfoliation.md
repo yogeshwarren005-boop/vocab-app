@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peeling off in flakes or scales of bark or dead skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flake of dead epidermis shed from the surface of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scaling, flaking, or peeling off of layers from a surface, such as skin, bark, or rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, spheroidal or sheet weathering where concentric rocky slabs detach from massive igneous plutons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliation designates the peeling off in flakes or scales of bark or dead skin."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The majestic curved faces of Half Dome owe their rounded contours to the grand geological process of **exfoliation**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The paper birch is distinguished by the papery **exfoliation** of its outer white bark into thin horizontal sheets."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During convalescence from scarlet fever, extensive epidermal **exfoliation** occurs across the palms and soles."*

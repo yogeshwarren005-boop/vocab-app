@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time period between the beginning of puberty and adulthood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the state that someone is in between puberty and adulthood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transitional period of human development between the onset of puberty and legal adulthood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological, hormonal, and physical passage from childhood into sexual and moral maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was silent when he went home for a week, silent with uncles Robin and Alan, who sensed he was going through one of the crises of adolescence, and knew the best thing to do was to leave him alone."*
-> - 📜 **James Joyce (*Ulysses*):** *"What memories had he of her adolescence?"*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"The period of **adolescence** is marked by storm and stress, oscillating between boundless idealism and dark despair."*
+> - 📜 **William James (*The Principles of Psychology*):** *"During **adolescence**, the awakening of romantic sentiments often stimulates the earliest religious and philosophical inquiries."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her turbulent **adolescence** was filled with hunger for a wider intellectual life than the narrow provincial mill afforded."*

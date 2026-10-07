@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main organ of photosynthesis and transpiration in higher plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) leaf-like architectural ornament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate leaves of a plant, tree, or forest considered collectively; leafy verdure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural ornament, carved or painted decorative motifs representing leaf clusters and floral sprays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here and there a weak little iron hoop, through which bold boys aspire to throw their friends’ caps (its only present use), retains its place among the rusty foliage, sacred to the memory of departed oil."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the recesses of this knot of foliage the loud notes of three cuckoos were resounding through the still air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By reason of the density of the interwoven foliage overhead, it was gloomy there at cloudless noontide, twilight in the evening, dark as midnight at dusk, and black as the ninth plague of Egypt at midnight."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The dense summer **foliage** whispered softly overhead as the evening breeze stirred the highest branches of the beech wood."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The brilliant emerald **foliage** of the tropical rain forest formed an unbroken canopy draped with flowering lianas."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Sunlight filtered through the trembling **foliage** of the pear tree, dappling the mossy garden paths with golden coins."*

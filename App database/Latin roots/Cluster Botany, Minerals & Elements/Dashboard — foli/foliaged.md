@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing numerous leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing numerous leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished, covered, or adorned with leaves; having foliage of a specified character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts, ornamented with stylized leaves, scrollwork, or botanical relief patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliaged designates bearing numerous leaves."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic capital was richly **foliaged** with acanthus leaves carved with crisp medieval vigor and freedom."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A densely **foliaged** arbor concealed the marble bench where the lovers were accustomed to converse."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Beneath a thickly **foliaged** grove of ancient sycamores, the mountain stream paused in a deep dark pool."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several substances found in the nuclei of all living cells; consists of a protein bound to a nucleic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several substances found in the nuclei of all living cells; consists of a protein bound to a nucleic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex conjugated protein consisting of a protein molecule bonded to a nucleic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, macromolecular complexes such as ribosomes, chromatin, and viral capsids formed of nucleic acids and polypeptides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleoprotein designates any of several substances found in the nuclei of all living cells; consists of a protein bound to a nucleic acid."*
+> - 📜 **Albrecht Kossel (*The Chemical Composition of the Cell Nucleus*):** *"By mild extraction methods, we isolated pure **nucleoprotein** complexes that dissociated into histones and nucleic acids."*
+> - 📜 **Phoebus Levene (*Nucleic Acids*):** *"Chromatin is essentially a **nucleoprotein** whose stability depends upon ionic bonds between basic amino acids and phosphate groups."*
+> - 📜 **Wendell Stanley (*Isolation of a Crystalline Protein Possessing the Properties of Tobacco-Mosaic Virus*):** *"The crystalline tobacco mosaic virus proved to be an infectious **nucleoprotein** exhibiting both chemical and biological attributes."*

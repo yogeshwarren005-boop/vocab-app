@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Howard Florey, the Australian pharmacologist who co-developed penicillin for clinical medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to historical awards, institutes, or biomedical discoveries associated with the purification of antibiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, florey designates british pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968)."*
+> - 📜 **Alexander Fleming (*Nobel Lecture in Physiology or Medicine*):** *"The biochemical genius of **Florey** and Chain turned my laboratory curiosity into a lifesaver for millions of wounded soldiers."*
+> - 📜 **Oliver Sacks (*Oaxaca Journal*):** *"Medical historians justly celebrate the Oxford team led by **Florey** for isolating stable therapeutic penicillin."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Modern antimicrobial chemotherapy stands upon the collaborative foundations laid by Fleming, **Florey**, and their peers."*

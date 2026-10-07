@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ole within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ole in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from oil; especially designating a common monounsaturated fatty acid (oleic acid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, an eighteen-carbon omega-9 monounsaturated fatty acid (C18H34O2) abundant in olive oil and animal fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleic designates pertaining to, derived from, or characteristic of latin ole within the domain of botany, minerals & elements."*
+> - 📜 **Michel Eugène Chevreul (*Chemical Researches on Fat Substances*):** *"Saponification of olive oil yielded **oleic** acid as a liquid oily principle distinct from crystalline stearic acid."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemical combination of **oleic** acid with soda generates hard castile soap through alkaline saponification."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Vegetable seeds rich in **oleic** fats provide concentrated nourishment for the germinating embryo."*

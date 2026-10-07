@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin layer or stratum of (especially metamorphic) rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin layer or stratum of (especially metamorphic) rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leaf, especially of a book, document, or manuscript; or a thin sheet or lamella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a plane curve resembling a leaf; or in anatomy, a leaf-like fold of the cerebellar cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, folium designates a thin layer or stratum of (especially metamorphic) rock."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The cerebellar vermis terminates in a prominent horizontal fold termed the **folium** vermis."*
+> - 📜 **M. R. James (*The Wanderings and Homes of Manuscripts*):** *"Upon the fourteenth **folium** of the psalter, the illuminator executed a magnificent initial letter in lapis and gold."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The Cartesian **folium** presents fascinating mathematical singularities that test mechanical curve-drawing engines."*

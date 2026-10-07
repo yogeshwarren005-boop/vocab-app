@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutcrackers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nutcrackers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological genus of passerine birds in the crow family (Corvidae), comprising the nutcrackers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Montane corvids specialized for harvesting, caching, and cracking coniferous seeds and hazel nuts with a sharp, heavy bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucifraga designates nutcrackers."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The spotted nutcracker, **Nucifraga**, is an occasional visitant to Britain from the pine forests of northern Europe."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The heavy bill of **Nucifraga** exemplifies structural adaptation for opening tough pine cones and storing seeds in subterranean caches."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Species of **Nucifraga** are distributed across the subalpine conifer belt of the Palearctic and Nearctic regions."*

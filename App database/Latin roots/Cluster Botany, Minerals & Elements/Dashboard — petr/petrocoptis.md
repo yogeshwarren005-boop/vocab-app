@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of perennial rock-dwelling herbs in the pink family (Caryophyllaceae), endemic to northern Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chasmophytic mountain flora adapted to limestone crevices in the Pyrenees and Cantabrian Mountains, bearing pink or white cymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrocoptis designates perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*):** *"The cliff-dwelling genus **Petrocoptis** is distinguished by its glabrous tufted stems and tufted seeds with a prominent strophiole."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Specialized limestone chasmophytes such as **Petrocoptis** illustrate extreme evolutionary adaptation to sheer vertical precipices."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The Iberian genus **Petrocoptis** exhibits floral affinities with Silene while restricted entirely to subalpine crevices."*

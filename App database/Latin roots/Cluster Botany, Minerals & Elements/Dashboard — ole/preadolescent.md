@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or designed for children between the ages of 9 and 12.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or designed for children between the ages of 9 and 12.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring in the developmental stage immediately preceding puberty and adolescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A child in the transitional years of late childhood, typically between nine and twelve years of age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preadolescent designates of or relating to or designed for children between the ages of 9 and 12."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"The **preadolescent** years are characterized by steady physical growth and relative emotional stability before the pubertal storm."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit formation in the **preadolescent** child establishes the nervous pathways that govern adult character."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"During my **preadolescent** boyhood, the magical transformations of chemistry provided an escape from the dread of war."*

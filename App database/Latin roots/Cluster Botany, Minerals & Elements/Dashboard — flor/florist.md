@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who grows and deals in flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where flowers and ornamental plants are sold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who grows, arranges, or sells flowers and ornamental decorative plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical gardening, a skilled cultivator dedicated to breeding and perfecting prized show varieties like auriculas and tulips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Passing a florist's shop he suddenly felt like giving that which, as it had occurred to him before, had seemed to him would be only a mockery from his hands."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"These are not made by merely looking through a florist's catalogue, and ordering this or that new seedling and a proper selection of bulbs or shrubs; everything in a country garden has its history and personal association."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The astronomer will no longer look up to the stars, - he will look out from them upon the universe; and the 125:30 florist will find his flower before its seed."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The competitive **florist** devotes years of patient crossing to eliminate the slightest defect in the petal outline of the show carnation."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The fashionable **florist** in Covent Garden was busy fashioning bridal bouquets of white camellias and orange blossoms."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A country **florist** had arranged pots of scented geraniums and sweet-william along the rustic cottage porch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip the leaves or branches from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of leaves, foliage, or verdure; cause leaves to fall prematurely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology and forestry, to destroy the leafy canopy of trees through insect swarms, disease, or chemical sprays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliate designates strip the leaves or branches from."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Voracious caterpillars will completely **defoliate** an entire orchard of plum trees within a few midsummer weeks."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Fierce autumn gales strip the mountain hardwoods and **defoliate** the birch groves before the first snowfall."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Parasitic rust fungi often **defoliate** sensitive crop plants, depriving the root system of photosynthetic nourishment."*

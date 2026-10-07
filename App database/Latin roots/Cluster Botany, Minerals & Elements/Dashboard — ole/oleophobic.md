@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking affinity for oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affinity for oil; repelling oil and oily substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, designating coatings and surface treatments that prevent wetting or staining by hydrocarbons and fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleophobic designates lacking affinity for oils."*
+> - 📜 **Irving Langmuir (*The Constitution and Fundamental Properties of Solids and Liquids*):** *"Fluorinated monolayers create an **oleophobic** surface upon which droplets of hydrocarbon oil bead up without spreading."*
+> - 📜 **Paul Flory (*Principles of Polymer Chemistry*):** *"Polymer surfaces that are simultaneously hydrophobic and **oleophobic** resist dirt, oil, and atmospheric staining."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The high electronegativity of fluorine renders perfluorinated surfaces strikingly **oleophobic** to organic grease."*

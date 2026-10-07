@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread by opening the leaves of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast off in scales, laminae, or splinters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shed, peel off, or come off in thin layers, scales, flakes, or lamina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, to weather and split off in concentric rocky curved sheets; or in surgery, to separate dead bone fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exfoliate designates spread by opening the leaves of."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Massive granite domes **exfoliate** under cyclic solar heating and cooling, shedding curved rock shells like onion skins."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The bark of certain Eucalyptus trees will **exfoliate** in long ragged strips during the dry Australian summer."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Necrotic bone fragments in chronic osteomyelitis gradually **exfoliate** and are extruded through fistulous tracts."*

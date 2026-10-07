@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of florida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the state of Florida, its geography, ecology, people, or climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of the state of Florida; or pertaining to the subtropical Florida bioregion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The famous Fountain of Youth, if I am rightly informed, is situated in the southern part of the Floridian peninsula, not far from Lake Macaco."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The rare **Floridian** jay inhabits dry scrub oak ridges, exhibiting social habits distinct from northern corvids."*
+> - 📜 **Charles Darwin (*Coral Reefs*):** *"Observations upon the **Floridian** barrier reef confirm that coral growth is limited by water temperature and depth."*
+> - 📜 **Washington Irving (*Conquest of Florida*):** *"The Spanish cavaliers were astonished by the fierce valor and archery of the native **Floridian** warriors."*

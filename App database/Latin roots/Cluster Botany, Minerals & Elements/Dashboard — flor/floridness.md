@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant elaborateness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant elaborateness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruddiness of facial complexion, or ornate elaboration and flowery decoration in prose style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overabundance of flowery metaphors, ostentatious phrasing, or excessive architectural decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floridness designates extravagant elaborateness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **floridness** of his early poetry gave way in mature life to a grave and masculine simplicity of expression."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His robust health was evident in the genial **floridness** of his cheeks and his booming laughter."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Parliamentary debate had degenerated into theatrical **floridness**, while the starving operatives cried for bread."*

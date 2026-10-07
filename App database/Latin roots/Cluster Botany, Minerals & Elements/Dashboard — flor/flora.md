@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the plant life in a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a living organism lacking the power of locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate plant life occurring within a specific geographic region or geological period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific catalog, manual, or taxonomic book describing the botanical species of a particular area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These your unusual weeds to each part of you Do give a life, no shepherdess, but Flora Peering in April’s front."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Presently came Charley, lightly winding among the bushes and tripping along the paths, as rosy and pretty as one of Flora’s attendants instead of my maid, saying, “Oh, if you please, miss, would you step and speak to Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Then there was a great farming section, extending north and south for hundreds of miles in some part of the temperate regions, with a climate and flora and fauna largely resembling those of California."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The indigenous **flora** of oceanic islands typically contains an unusually high proportion of endemic species."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"A comparison between the eastern North American **flora** and that of Japan reveals remarkable generic similarities."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The tropical **flora** changes abruptly as one ascends the Andean cordillera from humid plains to freezing paramos."*

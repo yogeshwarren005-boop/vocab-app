@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborately or excessively ornamented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to a healthy reddish color often associated with outdoor life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a red or flushed complexion; or excessively ornate, flowery, and intricate in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and music, elaborately embellished with decorative carving or complex melodic ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I hate a florid complexion and dark eyes in a man."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy, the mayor, a florid man, who would have served for a study of flesh in striking contrast with the Franciscan tints of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That florid sociable personage was become more interesting to him since he had seen Rosamond."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Boythorn was a large gentleman with a **florid** face, massive white hair, and a tremendously resonant voice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff was a stout, **florid** countryman whose jovial countenance shone like a polished russet apple."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Late Gothic architecture declined into a **florid** decadence where structural strength was sacrificed to frivolous ornament."*

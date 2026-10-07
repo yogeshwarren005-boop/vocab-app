@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of flowering plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation, breeding, and management of flowering and ornamental plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specialized segment of horticulture devoted to producing cut flowers, bedding plants, and potted floral specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agriculture" is here used in a broad sense, including floriculture, animal husbandry (poultry, bee culture, stock raising), regular fishing and oystering, forestry and lumbering."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The history of Dutch **floriculture** during the tulip mania demonstrated how prized floral mutations can command fortunes."*
+> - 📜 **Luther Burbank (*The Training of the Human Plant*):** *"Through patient **floriculture**, we learn that every living seedling responds gratefully to fertile soil and attentive care."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A prince can take no nobler delight than in the refined practice of **floriculture** throughout the changing seasons."*

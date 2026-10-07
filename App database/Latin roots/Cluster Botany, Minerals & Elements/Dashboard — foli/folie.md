@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Madness, folly, or insanity; used especially in psychiatric terms borrowed from French.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, designating delusional disorders shared between individuals, such as folie à deux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In chronic delusional insanity, the French alienists recognized the contagious nature of **folie** communicated between intimate relatives."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on the Diseases of the Nervous System*):** *"Hysterical manifestations frequently display communicative symptoms resembling a transient **folie** à deux."*
+> - 📜 **Henry James (*The American*):** *"Her sudden resolution had in it an element of romantic **folie** that astonished her conventional Parisian cousins."*

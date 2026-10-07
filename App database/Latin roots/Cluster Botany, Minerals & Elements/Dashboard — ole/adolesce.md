@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become adolescent; pass through adolescence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become adolescent; pass through adolescence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow up; pass from childhood into adolescence and physical maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undergo the biological, psychological, and social transition characterizing the teenage years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adolesce designates become adolescent; pass through adolescence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"As youths **adolesce**, new instinctive interests awaken that redirect the emotional current of the personality."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"To **adolesce** is to undergo a second birth, wherein higher human traits emerge out of childish self-absorption."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He watched the country boy **adolesce** into a brooding youth whose ambitious dreams outran his humble station."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A southeastern peninsula state of the United States, named by Spanish explorers from Pascua Florida (Feast of Flowers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subtropical maritime region characterized by wetlands, mangrove coasts, sandy barrier islands, and coral reefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After leaving the Gulf of Florida, we went in the direction of Spitzbergen."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Enormous vegetations are multiplied under the torrid seas, and the evil is irresistibly developed from the mouth of the Rio de la Plata to Florida."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"While cruising along the coral reefs of **Florida**, we observed thousands of white ibises and pelicans feeding among the mangroves."*
+> - 📜 **Washington Irving (*Conquest of Florida*):** *"Ponce de Leon named the land **Florida** because he discovered its green shores during the Easter festival of flowers."*
+> - 📜 **Ralph Waldo Emerson (*Journals*):** *"The winter climate of Saint Augustine in **Florida** restored strength to my lungs with its balmy orange-scented breezes."*

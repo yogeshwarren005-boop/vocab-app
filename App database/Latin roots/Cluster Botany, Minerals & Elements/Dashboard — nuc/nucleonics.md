@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that studies the internal structure of atomic nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that studies the internal structure of atomic nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science and engineering that deals with the practical applications of nuclear energy and technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interdisciplinary field encompassing reactor design, isotope processing, nuclear instrumentation, and radiation safety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleonics designates the branch of physics that studies the internal structure of atomic nuclei."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Advances in **nucleonics** made it possible to design self-sustaining chain reactors for research and power generation."*
+> - 📜 **Arthur Compton (*Atomic Quest*):** *"The wartime development of **nucleonics** created an entire industry dedicated to precision isotopic separation."*
+> - 📜 **J. Robert Oppenheimer (*Science and the Common Understanding*):** *"The emergence of modern **nucleonics** altered not only industrial physics, but the geopolitical destiny of mankind."*

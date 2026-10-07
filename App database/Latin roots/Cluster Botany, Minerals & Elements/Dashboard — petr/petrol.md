@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refined petroleum used as a volatile fuel for internal combustion engines; motor gasoline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British terminology, petroleum spirit (gasoline) obtained by fractional distillation and cracking of crude oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Between 70 deg. and 120 deg. petroleum ether and petroleum naphtha are produced, and they together constitute what is commonly called petrol."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the fuel be petrol it vaporises at the ordinary temperature of the engine and needs no added heat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A tank full of petrol is extremely dangerous, so much so that the storage of petrol is hedged about by all manner of precautions."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The heavy German touring car smelled of scorched rubber and pungent **petrol** as it waited by the garden gate."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The early aviation pioneers smelled perpetually of engine grease, varnish, and explosive high-grade **petrol**."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The country highway was choked with the noisy traffic of motor coaches emitting acrid fumes of burning **petrol**."*

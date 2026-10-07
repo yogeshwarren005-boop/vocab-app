@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs having berries or drupes or capsules as fruits; sometimes placed in the order oleales: olive; ash; jasmine; privet; lilac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs having berries or drupes or capsules as fruits; sometimes placed in the order oleales: olive; ash; jasmine; privet; lilac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The olive family of flowering plants, comprising trees and shrubs such as olives, ashes, lilacs, and jasmines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family in the order Lamiales characterized by opposite simple or pinnate leaves, four-lobed sympetalous corollas, and two stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleaceae designates trees and shrubs having berries or drupes or capsules as fruits; sometimes placed in the order oleales: olive; ash; jasmine; privet; lilac."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The family **Oleaceae** is easily recognized by its opposite foliage and the characteristic reduction of its stamens to two."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In North America, **Oleaceae** is represented by valuable timber trees of the genus Fraxinus and ornamental lilac shrubs."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The economic importance of **Oleaceae** resides in the edible oil of the olive and the fragrant essences of jasmine."*

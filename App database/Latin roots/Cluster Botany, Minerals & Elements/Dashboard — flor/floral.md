@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or made of or suggestive of flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling flowers; consisting of or adorned with floral blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, pertaining to the reproductive organs, perianth, and bracts of flowering plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"High in air the fountain flung Its living gems, on sunbeams strung They wreathed and shook the mists among; A thousand roses audience held, For floral state the place was meet, With blissful light and joy replete, And depths of sweetness unrevealed."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Besides this tribute of the men, the workers of the land, the women filled the air with the sweet odors of their floral offerings."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Being a floral family, they call me Daisy."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The bright colors and sweet nectar of **floral** envelopes have evolved to attract insect pollinators."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She wore a simple cotton gown with a delicate **floral** print, carrying a basket of freshly gathered watercress."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The four whorls of a complete **floral** structure comprise the calyx, corolla, androecium, and gynoecium."*

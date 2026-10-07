@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a florid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a florid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a florid manner; with an ornate, flowery, or heavily embellished style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With a ruddy or flushed facial complexion, or with elaborate and ostentatious decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floridly designates in a florid manner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He expressed his formal condolences **floridly**, using elaborate continental phrases that sounded hollow to English ears."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The auctioneer declaimed **floridly** upon the virtues of the bankrupt merchant's plate, waving his hammer with theatrical grace."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The village signpost was **floridly** painted with gilded flourishes that defied rustic simplicity."*

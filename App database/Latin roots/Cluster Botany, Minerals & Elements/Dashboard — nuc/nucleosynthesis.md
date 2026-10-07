@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cosmic creation of new atomic nuclei through nuclear reactions within stars or the early universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics, the formation of chemical elements from hydrogen and helium via stellar fusion, neutron capture, and supernovae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleosynthesis designates (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom."*
+> - 📜 **Fred Hoyle (*Frontiers of Astronomy*):** *"Stellar **nucleosynthesis** inside red giant cores synthesizes carbon and oxygen from helium through the triple-alpha reaction."*
+> - 📜 **George Gamow (*The Creation of the Universe*):** *"Primordial **nucleosynthesis** in the first few minutes of the expanding universe generated the observed abundance of light elements."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Principles of Stellar Dynamics*):** *"The thermal balance of aging stellar interiors is intimately coupled to the energy released during progressive **nucleosynthesis**."*

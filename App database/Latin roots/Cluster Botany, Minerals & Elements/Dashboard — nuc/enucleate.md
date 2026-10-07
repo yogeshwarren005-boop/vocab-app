@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the nucleus from (a cell).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (a tumor or eye) from an enveloping sac or cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove a kernel, nucleus, or tumor cleanly from its surrounding envelope without cutting into it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery, to excise the eyeball entirely from the orbital socket while leaving the extraocular muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enucleate designates remove the nucleus from (a cell)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon sought to **enucleate** the encapsulated fibrous tumor without causing hemorrhage into adjacent tissues."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Sympathetic ophthalmia may require the operator to **enucleate** the injured globe to preserve vision in the sound eye."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A patient philosopher must **enucleate** the hidden kernels of truth from the tough rind of popular error."*

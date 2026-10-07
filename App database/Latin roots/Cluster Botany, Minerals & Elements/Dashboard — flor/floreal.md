@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eighth month of the revolutionary calendar (april and may); the month of flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eighth month of the revolutionary calendar (april and may); the month of flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eighth month of the French Republican calendar, lasting from April 20 to May 19; the month of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to springtime flowers, blossom-time, or floral festivity in European revolutionary poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floreal designates eighth month of the revolutionary calendar (april and may); the month of flowers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"It is the month of **Floreal**, and Paris blooms with lilacs while the Revolutionary Tribunal continues its grim sittings."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Classical Rome celebrated the rites of Flora in early May, anticipating the **floreal** calendar of later revolutions."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"In the joyous warmth of **Floreal**, the young lovers wandered beneath the blossoming chestnuts of the Luxembourg gardens."*

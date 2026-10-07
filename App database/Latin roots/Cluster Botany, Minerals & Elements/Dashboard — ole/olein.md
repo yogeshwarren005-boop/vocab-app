@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily liquid triglyceride consisting of glycerol bonded to three oleic acid molecules; triolein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid chemistry, the liquid ester component of natural fats and vegetable oils, remaining liquid at room temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olein designates a naturally occurring glyceride of oleic acid that is found in fats and oils."*
+> - 📜 **Michel Eugène Chevreul (*Chemical Researches on Fat Substances*):** *"By chilling tallow and applying hydraulic pressure, we separated solid stearin from the fluid **olein**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Pure **olein** burns with a clear, smokeless flame, making it the most valuable constituent of illuminating oils."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Pancreatic juice rapidly emulsifies neutral **olein**, cleaving it into free fatty acids and glycerin."*

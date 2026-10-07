@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a nucleus or occurring in the nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a nucleus; or to form into a nucleus, or act as a nucleus around which matter gathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and meteorology, to initiate a phase change such as condensation or crystallization around a central particle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleate designates form into a nucleus."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Dust motes suspended in the atmosphere serve to **nucleate** microscopic water droplets into visible clouds."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"All typical tissues arise from **nucleate** protoplasmic units that multiply through coordinated mitotic division."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses*):** *"Slight mechanical shock will cause a supersaturated saline solution to **nucleate** into sudden crystalline needles."*

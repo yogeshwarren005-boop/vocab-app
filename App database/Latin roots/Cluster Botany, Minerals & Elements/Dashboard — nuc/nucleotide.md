@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (dna or rna).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (dna or rna).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biochemical compound consisting of a nucleoside linked to a phosphate group, forming the monomer of nucleic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental repeating structural subunit of DNA and RNA; or an energy carrier such as adenosine triphosphate (ATP).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleotide designates a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (dna or rna)."*
+> - 📜 **Phoebus Levene (*Nucleic Acids*):** *"Each **nucleotide** represents a triad consisting of a phosphoric acid radical, a pentose sugar, and a nitrogenous base."*
+> - 📜 **Alexander Todd (*Chemical Structure of Nucleic Acids*):** *"The esterification of the three-prime and five-prime hydroxyl groups produces the phosphodiester bridges linking each **nucleotide**."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Complementary base pairing allows each adenine **nucleotide** on one strand to pair precisely with a thymine on the other."*

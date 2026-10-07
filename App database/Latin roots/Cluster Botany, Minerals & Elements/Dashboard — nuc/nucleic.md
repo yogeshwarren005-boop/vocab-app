@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nuc within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nuc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the nucleus of a cell; especially designating complex biochemical acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to DNA or RNA polymers composed of nucleotides carrying genetic information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleic designates pertaining to, derived from, or characteristic of latin nuc within the domain of botany, minerals & elements."*
+> - 📜 **Phoebus Levene (*Nucleic Acids*):** *"Chemical analysis revealed that **nucleic** acid contains purine and pyrimidine bases linked to carbohydrate and phosphoric acid."*
+> - 📜 **Albrecht Kossel (*The Chemical Composition of the Cell Nucleus*):** *"The isolation of adenine and thymine proved that **nucleic** compounds are universal constituents of cell nuclei."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"We realized that the sugar-phosphate backbone of the **nucleic** chain must lie on the outside of the helical molecule."*

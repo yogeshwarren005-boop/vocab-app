@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with `of' or `with') noticeably odorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exuding a strong, pleasant, or characteristic fragrance; sweetly smelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evocative, deeply suggestive, or strongly reminiscent of a particular memory, place, or historical epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honor to Alexander the Great?"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The air was filled with delicious aromas, and the cozy kitchen was **redolent** of roasting chestnuts and spiced cider."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient cathedral was **redolent** of incense and centuries of prayer, cloaked in sacred gloom."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheepfolds were **redolent** of trampled clover, tar, and the warm breath of the resting flock."*

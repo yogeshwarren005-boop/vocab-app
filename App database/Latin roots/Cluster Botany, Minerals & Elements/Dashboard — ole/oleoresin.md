@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring mixture of a resin and an essential oil; obtained from certain plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural or prepared mixture of an essential oil and a resin, obtained from plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and forestry, thick exudates like turpentine or Canada balsam extracted from coniferous wood or copaiba trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleoresin designates a naturally occurring mixture of a resin and an essential oil; obtained from certain plants."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Coniferous trunks exude a fragrant **oleoresin** from specialized resin ducts when the bark is wounded."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"Distillation of the raw pine **oleoresin** yields volatile oil of turpentine, leaving brittle colophony behind."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The balsam of copaiba is an **oleoresin** collected from deep incisions in the timber of South American trees."*

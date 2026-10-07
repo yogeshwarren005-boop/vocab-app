@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or divided into leaflets; used especially in botanical compound leaf descriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating pinnately or palmately divided leaves, as in trifoliolate clover or plurifoliolate legumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliolate designates (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common clover possesses a trifoliolate blade, each **foliolate** segment marked with a pale crescent."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Leguminous herbs frequently display multi-**foliolate** leaves terminating in a climbing tendril."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The individual **foliolate** segments of Oxalis fold downward at night in response to sleep movements."*

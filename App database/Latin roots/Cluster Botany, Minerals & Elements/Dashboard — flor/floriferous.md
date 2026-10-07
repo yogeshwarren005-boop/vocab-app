@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flor within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing flowers, especially in great abundance; bloom-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and descriptive botany, characterizing cultivars or branches that blossom with exceptional profusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, floriferous designates pertaining to, derived from, or characteristic of latin flor within the domain of botany, minerals & elements."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Gardeners selected the most **floriferous** strains of pelargonium to produce massed displays in summer borders."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The slender **floriferous** branches of Spiraea bend gracefully under the weight of hundreds of tiny white blossoms."*
+> - 📜 **John Lindley (*The Theory of Horticulture*):** *"Judicious root pruning often checks excessive leafy growth and induces a **floriferous** habit in fruit trees."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for oils rather than water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for oils rather than water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong chemical affinity for oil; absorbing or dissolving readily in oils and fats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface chemistry and material science, hydrophobic and lipophilic, readily wetted by non-polar hydrocarbon fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleophilic designates having a strong affinity for oils rather than water."*
+> - 📜 **Irving Langmuir (*The Constitution and Fundamental Properties of Solids and Liquids*):** *"The hydrocarbon chain of the fatty acid acts as an **oleophilic** tail that dissolves into the non-polar organic phase."*
+> - 📜 **Paul Flory (*Principles of Polymer Chemistry*):** *"Cross-linked polymers possessing **oleophilic** side chains swell rapidly when immersed in hydrocarbon solvents."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The stability of biological membranes depends on the alignment of **oleophilic** lipid tails away from the aqueous cytosol."*

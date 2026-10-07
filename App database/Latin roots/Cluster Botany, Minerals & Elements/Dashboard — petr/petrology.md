@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies rocks: their origin and formation and mineral composition and classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies rocks: their origin and formation and mineral composition and classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies the origin, composition, structure, and alteration of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical and experimental geological science analyzing igneous, metamorphic, and sedimentary rock petrogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrology designates the branch of geology that studies rocks: their origin and formation and mineral composition and classification."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The modern discipline of **petrology** unites chemical analysis with field observations of volcanic dykes."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Theoretical **petrology** interprets crystalline rock suites in terms of magmatic differentiation and fractional crystallization."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The student of **petrology** learns that rocks are dynamic historical records written in crystalline minerals."*

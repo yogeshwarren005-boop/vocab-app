@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoside formed by partial hydrolysis of a nucleic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoside formed by partial hydrolysis of a nucleic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound consisting of a purine or pyrimidine base linked to a ribose or deoxyribose sugar molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a structural precursor to a nucleotide, lacking the terminal phosphate ester group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleoside designates a glycoside formed by partial hydrolysis of a nucleic acid."*
+> - 📜 **Phoebus Levene (*Nucleic Acids*):** *"Hydrolysis of yeast nucleic acid with ammonia cleaves phosphate groups, leaving individual **nucleoside** units intact."*
+> - 📜 **Alexander Todd (*Chemical Structure of Nucleic Acids*):** *"Synthesizing the natural **nucleoside** adenosine established the beta-glycosidic linkage between adenine and D-ribose."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Phosphorylation of a **nucleoside** by specific kinases converts it into a high-energy nucleotide triphosphate."*

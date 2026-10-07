@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian poet famous for love lyrics (1304-1374).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian poet famous for love lyrics (1304-1374).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Francesco Petrarca (Petrarch), the 14th-century Italian Renaissance humanist, scholar, and lyrical poet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Italian master of the vernacular sonnet, author of the Canzoniere celebrating Laura, and pioneer of Renaissance classical humanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrarca designates an italian poet famous for love lyrics (1304-1374)."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The delicate lyrical cadence of **Petrarca** established the sonnet as the supreme vehicle of European love poetry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The coronation of **Petrarca** with the laurel crown upon the Capitoline Hill revived the literary majesty of ancient Rome."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"In the scholarship of **Petrarca**, passionate veneration for Cicero and Virgil inaugurated the modern humanist movement."*

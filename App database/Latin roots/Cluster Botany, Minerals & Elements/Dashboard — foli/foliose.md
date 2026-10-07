@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing numerous leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing numerous leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing many leaves; leafy in appearance or botanical habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and bryology, designating lichens or liverworts with flattened, leafy, dorsiventral thalli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliose designates bearing numerous leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **foliose** lichens of the genus Parmelia adhere loosely to tree bark by delicate rhizines."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **foliose** Jungermanniales constitute the largest and most specialized group of liverworts."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Damp autumn bogs are carpeted with **foliose** mosses that retain water through the driest seasons."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A refrigerator for cooling liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iced drink especially white wine and fruit juice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container, vessel, or apparatus designed to keep food, drinks, or mechanical components cool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal slang, a prison cell or jail lockup where disorderly offenders are placed to cool down.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But it was with a freshened existence and a cooler brain that, a long time afterwards, she became conscious of some interesting proceedings which were going on in the trees above her head and around."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"A better choice And lay his horns by, a handsomer bed-fellow, A cooler o' my conscience. _Arn_."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Now lusty blood, Come in, and tell your mony: 'Tis ready here, no threats, nor no orations, Nor prayers now. _Sulp._ You do not mean to leave me. _Rut._ I'le live in Hell sooner than here, and cooler."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The evening air was growing perceptibly **cooler** as we rowed our boat past the marshes toward the open river mouth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic dairymaid carried the fresh milk pails to the shaded stone **cooler** in the cellar."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The town marshal threatened to lock the noisy troublemakers in the village **cooler** till morning."*

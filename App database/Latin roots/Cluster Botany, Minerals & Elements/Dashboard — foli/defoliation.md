@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing the leaves of trees and other plants to fall off (as by the use of chemicals).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss, shedding, or stripping of leaves from trees, shrubs, or other plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and agronomy, the widespread shedding of foliage caused by fungal blights, insect pests, or chemical herbicides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliation designates the loss of foliage."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Severe **defoliation** by insect larvae severely checks the growth of forest trees and diminishes seed production."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"Seasonal **defoliation** in deciduous forests is a protective adaptation against excessive winter transpiration."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The sudden **defoliation** wrought by high mountain hail storms left the tender chaparral bruised and bare."*

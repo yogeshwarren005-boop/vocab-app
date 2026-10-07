@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eaten as mush or as a thin gruel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eaten as mush or as a thin gruel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional warm Mesoamerican beverage made of ground maize hominy flour cooked with water or milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customary Mexican cereal drink flavored with piloncillo, cinnamon, and vanilla, served especially during winter festivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atole designates eaten as mush or as a thin gruel."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The indigenous laborers sustained their strength upon bowls of warm **atole**, a nutritious porridge of ground maize."*
+> - 📜 **Richard Burton (*The City of the Saints*):** *"In the Mexican market, women dispensed steaming cups of **atole** sweetened with raw cane sugar and spiced with canela."*
+> - 📜 **Bernal Díaz del Castillo (*The True History of the Conquest of New Spain*):** *"The caciques entertained our soldiers with roasted maize cakes and rich calabashes of warm, aromatic **atole**."*

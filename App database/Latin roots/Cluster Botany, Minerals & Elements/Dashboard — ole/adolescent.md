@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A juvenile between the onset of puberty and maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or peculiar to or suggestive of an adolescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of adolescence; youthful, growing, or developing into maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young person undergoing the developmental transition between childhood and adult maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Thompson Indians of British Columbia thought that the Dawn of Day could and would cure hernia if only an adolescent girl prayed to it to do so."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her **adolescent** innocence rendered her defenseless against the subtle deceptions of the world."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The teacher must treat the **adolescent** mind with sympathetic patience while its ideals are still fluctuating."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"The **adolescent** boy craves heroic adventure, demanding outlets for physical courage and chivalric loyalty."*

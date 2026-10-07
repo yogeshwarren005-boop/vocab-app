@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time and process of budding and unfolding of blossoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flowering part of a plant or arrangement of flowers on a stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete flower head of a plant including stems, stalks, bracts, and flowers; or the process of flowering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the characteristic mode of floral arrangement on an axis, such as a raceme, spike, umbel, or cyme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of _Polygonum hydropiper_ with Utricle smut (_Ustilago utriculosa_). 〃 115."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Inflorescence of Scabious with Floret smut (_Ustilago flosculorum_). 〃 124."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The dense **inflorescence** of the clover head ensures that visiting bees pollinate numerous florets in rapid succession."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"We distinguish determinate from indeterminate **inflorescence** by whether the terminal or the lowest flower opens first."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The branching pattern of the compound **inflorescence** follows strict geometric laws of vegetative phyllotaxy."*

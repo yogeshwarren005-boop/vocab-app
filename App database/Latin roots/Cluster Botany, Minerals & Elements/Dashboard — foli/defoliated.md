@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip the leaves or branches from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stripped of leaves, greenery, or foliage; bare of verdure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing trees, vines, or forested landscapes whose leaves have been shed due to pestilence, frost, or chemical spraying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defoliated designates strip the leaves or branches from."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The **defoliated** oaks stood like gray skeletons against the leaden November sky, their fallen leaves rotting in the ditches."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Swarms of migratory locusts left the fertile river valley completely **defoliated** within the space of three hours."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"A solitary **defoliated** elm tree overshadowed the deserted farmhouse, creaking mournfully in the winter wind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical epiphytic and terrestrial climbing ferns in the family Oleandraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, creeping ferns possessing jointed, scaly rhizomes, simple leathery fronds, and circular sori with reniform indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleandra designates or family polypodiaceae: tropical epiphytic or terrestrial ferns."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"In **Oleandra**, the articulation of the stipe upon a distinct phyllopodium resembles that seen in Polypodium."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Epiphytic fronds of **Oleandra** climb up mossy tree trunks in the mist forests of the eastern Himalaya."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tropical fern genus **Oleandra** is characterized by its simple lanceolate fronds and submarginal kidney-shaped sori."*

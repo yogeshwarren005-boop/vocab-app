@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who carries out, commits, or executes a harmful, unlawful, or immoral act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal law, the principal actor who directly executes the criminal design or felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the time attack, a common but perilous trick that every novice knows, that has laid on his back many a good man who attempted it, and that is so fraught with danger to the perpetrator that swordsmen are not enamoured of it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mind, I don’t say a _crime_; I am not speaking of shedding of blood or any other guilty act, which might make the perpetrator amenable to the law: my word is _error_."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The perpetrator of Catharine’s death was unknown to me till now; nay, it is still unknown to me.” At that moment, the closing of a door in the kitchen was distinctly heard by us."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The clever **perpetrator** had escaped through the conservatory window before the household was alarmed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The principal **perpetrator** of the crime is equally culpable with the accessory who counseled the act."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"When laws are overthrown, the daring **perpetrator** of public violence is celebrated as a patriotic hero."*

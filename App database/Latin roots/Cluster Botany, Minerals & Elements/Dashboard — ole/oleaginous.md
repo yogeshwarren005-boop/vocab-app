@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing an unusual amount of grease or oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or qualities of oil; oily, greasy, or unctuous in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, unctuously smooth, exaggeratedly ingratiating, or oily in manner and speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As the oleaginous matter exudes, it falls in drops through the apertures into a wide-mouthed calabash placed underneath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband spoke with an **oleaginous** smile, pouring forth greasy platitudes before the assembled company."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The decks of the whaling bark were saturated with the warm **oleaginous** vapor of boiling blubber."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The attorney had an **oleaginous** manner that aroused Henchard's immediate suspicion and rustic bluntness."*

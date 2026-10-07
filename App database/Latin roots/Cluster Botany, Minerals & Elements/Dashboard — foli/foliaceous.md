@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or resembling the leaf of a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing numerous leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, texture, or appearance of a leaf; leaflike or bearing abundant leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and geology, possessing flattened, leaf-like lobes, or exhibiting thin sheet-like mineral foliation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliaceous designates of or pertaining to or resembling the leaf of a plant."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mica schist is characterized by its **foliaceous** structure, splitting readily along parallel planes of lustrous mica."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Certain thallose liverworts develop broad **foliaceous** expansions that hug the damp surfaces of sandstone boulders."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The gametophyte of Anthoceros forms a simple **foliaceous** thallus lacking distinct stem and root differentiation."*

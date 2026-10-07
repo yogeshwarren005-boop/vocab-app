@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin foli within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of foli in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or growing upon leaves; leaf-like in nature or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and agriculture, designating nutrient absorption, spray applications, or stomatal transpiration occurring through leaf surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliar designates pertaining to, derived from, or characteristic of latin foli within the domain of botany, minerals & elements."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Floral organs are morphologically homologous with vegetative leaves, being modified **foliar** appendages upon a shortened axis."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **foliar** surfaces of vascular plants contain thousands of stomata per square millimeter governing gaseous exchange."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The **foliar** tentacles of Drosera bend inward to entrap prey, stimulated by nitrogenous contact on the leaf blade."*

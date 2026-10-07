@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parsley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parsley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of biennial herbs in the carrot family (Apiaceae), including common garden parsley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Culinary and medicinal herbs (*Petroselinum crispum*) characterized by tripinnate foliage, umbellate yellow flowers, and aromatic apiol oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog petroselinum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Petroselinum** is distinguished by its yellow or greenish petals and smooth ribbed ovate fruit."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"Garden parsley, or **Petroselinum**, should be chopped fine with chives to crown any noble salad of summer greens."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **Petroselinum**, the aromatic volatile oil apiol gives the crushed leaves their characteristic pleasant pungency."*

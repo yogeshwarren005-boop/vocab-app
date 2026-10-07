@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist (died in 66).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist (died in 66).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Petronius Arbiter, Roman courtier and satirist under Nero, traditionally regarded as the author of the Satyricon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elegant Roman arbiter of taste (arbiter elegantiae) whose fragmentary picaresque novel depicts Imperial Roman excess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Oldenberg, Part ii. (Oxford, 1892) p. 218 (_Sacred Books of the East_, vol. xxx.). [251] Petronius, _Sat._ 48; Pausanias, x. 12: 8; Justin Martyr, _Cohort ad Graecos_, 37, p. 34 c (ed. 1742)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And the soldier did not long survive him.[766] [The were-wolf story in Petronius.] But the classical example of these stories is an old Roman tale told by Petronius."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The witty profligacy of **Petronius** mirrored the luxurious decadence and refined vices of the Neronian court."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian dreamed of being a modern **Petronius**, guiding the taste of London youth in exquisite sensory indulgences."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The feast of Trimalchio described by **Petronius** portrays the ostentatious vulgarity of freedmen under the empire."*

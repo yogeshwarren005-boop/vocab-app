@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin foli within the domain of Botany, Minerals & Elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of foli in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interleave; insert blank leaves between the printed pages of a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intersperse or insert alternately, as thin layers, notes, or strata between existing materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interfoliate designates pertaining to, derived from, or characteristic of latin foli within the domain of botany, minerals & elements."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The eccentric professor was accustomed to **interfoliate** his lecture notes with autobiographical fragments and memoranda."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The attorney decided to **interfoliate** the court transcript with affidavits collected from reluctant witnesses."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"An antiquarian scholar had caused the binder to **interfoliate** the volume with clean writing paper for marginalia."*

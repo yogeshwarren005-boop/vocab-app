@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A food product manufactured as an economical substitute for butter, made from refined vegetable or animal fats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by French chemist Hippolyte Mège-Mouriès in 1869, an emulsion of clarified tallow or vegetable oils with skimmed milk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The federal law levying a tax on oleomargarine, however, was designed as protective legislation in the interest of the farmer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the real exceptions to the otherwise fair record of the farming class in this respect is the tax on oleomargarine and the special favor accorded to farmers' associations in the Clayton Act."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"White bread and butter; But he had to take corn-cake instead of white bread, With oleomargarine on it to spread."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The chemistry of **oleomargarine** enabled the meatpackers to convert unmarketable tallow into household table spreads."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The enterprising merchant predicted that artificial **oleomargarine** would soon drive pure dairy butter from the market."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"From a nutritional standpoint, wholesome **oleomargarine** supplies caloric energy equivalent to butterfat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crowberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crowberries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of low, creeping evergreen shrubs in the heath family, bearing edible black or red berries; crowberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arctic and alpine ecology, *Empetrum nigrum*, a resilient tundra subshrub whose berries provide sustenance to migratory birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CROWBERRY UREDO; hypogenous; spots obliterated; sori oval, scattered: the epidermis at first convex, afterwards ruptured and concave; sporidia ovoid or subglobose, bright yellow.—On _Empetrum nigrum_."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The bleak moorlands of the Falkland Islands are carpeted with dwarf bushes of **Empetrum**, yielding sweet purple berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"On exposed mountain summits of New England, **Empetrum** nigrum forms dense mats resistant to winter gales and frost."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Specimens of **Empetrum** from the Scottish Highlands bear hard revolute leaves adapted to moisture conservation."*

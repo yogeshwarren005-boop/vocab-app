@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bursting into flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bursting into flower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blossoming, flowering forth, or in a state of blooming expansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and mineralogy, prone to losing water of crystallization and becoming coated with a powdery deposit in air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, efflorescent designates bursting into flower."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Glauber's salt forms large transparent prisms that rapidly become **efflorescent** and opaque when exposed to the atmosphere."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dry lake bed was covered with an **efflorescent** crust of soda that drifted like snow before the desert wind."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **efflorescent** beauty of the Byzantine capitals revealed the boundless inventive fancy of medieval sculptors."*

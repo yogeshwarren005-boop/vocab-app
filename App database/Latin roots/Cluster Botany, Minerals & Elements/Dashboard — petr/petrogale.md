@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock wallabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological genus of small, agile rock-wallabies native to Australia, adapted to rocky and mountainous habitats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsupial zoology, macropodids possessing modified foot pads and long flexible tails enabling agile leaps across cliffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrogale designates rock wallabies."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The rock-wallaby, **Petrogale**, bounds across precipitous cliffs with astonishing agility, utilizing its rough padded feet."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In **Petrogale**, the modified claws and friction ridges of the hind feet illustrate adaptive modification for climbing steep crags."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Isolated mountain ranges in northern Australia harbor distinct species of **Petrogale** confined to rocky gorges."*

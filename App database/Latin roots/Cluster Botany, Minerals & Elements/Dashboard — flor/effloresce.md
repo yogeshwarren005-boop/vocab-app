@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come into or as if into flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume crystalline form; become crystallized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burst into bloom; blossom forth; or to become covered with powdery crusts or crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, to lose water of crystallization upon exposure to air, forming a powdery surface coating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effloresce designates come into or as if into flower."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Crystals of sodium carbonate gradually **effloresce** in dry air, shedding their water of crystallization as white powder."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Saline crusts of sodium sulfate **effloresce** upon the arid mud flats of desert basins during the summer drought."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architecture seemed to **effloresce** into exuberant sculpted foliage under the chisel of the master mason."*

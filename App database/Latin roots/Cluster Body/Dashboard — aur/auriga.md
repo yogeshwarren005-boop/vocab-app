@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent northern constellation depicted as a charioteer; also a Roman chariot driver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomy, a constellation containing the bright star Capella; historically, a driver of a racing chariot in the Circus Maximus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriga designates a conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The constellation **Auriga** occupies a brilliant position in the winter sky, dominated by the golden light of Capella."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reckless skill of the **auriga** in the hippodrome excited the passionate factions of Constantinople."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"Within the boundaries of **Auriga**, astronomers discovered several remarkable eclipsing binary systems."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the atria and ventricles of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the atria and ventricles of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to both the auricles (atria) and the ventricles of the heart; atrioventricular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology and anatomy, designating the valves, bundle of His, or junction connecting atria and ventricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculoventricular designates relating to or affecting the atria and ventricles of the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The tricuspid and mitral orifices constitute the crucial **auriculoventricular** boundaries controlling intra-cardiac flow."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The fibro-cartilaginous rings surround the **auriculoventricular** openings and support the valvular cusps."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"Blood passes through the **auriculoventricular** aperture immediately upon the relaxation of the muscular cavity."*

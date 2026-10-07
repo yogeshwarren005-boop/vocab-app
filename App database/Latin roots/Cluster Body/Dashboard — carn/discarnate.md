@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin carn within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of carn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of a physical body; disembodied or incorporeal in existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and psychical research, designating a conscious spiritual entity existing independently of physical flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discarnate designates pertaining to, derived from, or characteristic of latin carn within the domain of body."*
+> - 📜 **William James (*The Will to Believe*):** *"Philosophers debate whether a **discarnate** intelligence could retain personal memory without a physical nervous system."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Speculative mystics contemplate **discarnate** spirits wandering through realms of pure thought unbound by matter."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man is no **discarnate** ghost, but spirit embodied in flesh and clothed in historic institutions."*

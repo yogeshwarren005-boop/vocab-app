@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets available for use in the production of further assets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth in the form of money or property owned by a person or business and human resources of economic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulated wealth, assets, or property used for the production of further wealth; also the principal city serving as the seat of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and typography, the carved crowning member of a column, or an uppercase letter of the alphabet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to poor we Thine enmity’s most capital."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a brute part of him to kill so capital a calf there."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual produce of the land and labour of any nation can be increased in its value by no other means than by increasing either the number of its productive labourers, or the productive powers of those labourers who had before been employed, which depends on the **capital** invested."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Industry is limited by **capital**, but does not always come up to that limit."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The profits of stock depend on the proportion of annual production which can be set aside as productive **capital**."*

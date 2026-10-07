@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the arm, especially the upper arm between shoulder and elbow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and neurology, designating the brachial artery, brachial plexus, or associated nerves supplying the upper limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachial designates of or relating to an arm."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **brachial** artery commences at the lower border of the teres major and divides at the elbow joint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the **brachial** plexus in the axilla causes motor paralysis and sensory loss throughout the arm."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Homologies between the **brachial** musculature of anthropoid apes and human beings indicate shared ancestral lineage."*

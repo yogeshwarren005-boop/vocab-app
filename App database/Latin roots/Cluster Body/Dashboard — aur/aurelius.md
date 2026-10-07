@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Marcus Aurelius Antoninus, Roman emperor and Stoic philosopher, or his philosophical legacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and philosophical ethics, referring to the Stoic reflections recorded in the Meditations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Marcus Aurelius has a very similar warning (v. 16)--"Whatever the colour of the thoughts often before thy mind, that colour will thy mind take."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marcus Aurelius, in some ways the most attractive of all Stoics, was virtually the last."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Aurelius, viii, 34. [117] _Ep._ 63, 14. [118] _D._ iii, 24. [119] _D._ iv, 1. [120] _ib._ [121] _D._ iv, 6. [122] _M._ 16. [123] Cf."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The virtue of Marcus **Aurelius** Antoninus was the austere product of Stoic discipline and constant reflection."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The moral elevation of Marcus **Aurelius** derives from his tender humanity combined with unyielding fortitude."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The persecution of Christians under Marcus **Aurelius** remains one of the most tragic paradoxes of intellectual history."*

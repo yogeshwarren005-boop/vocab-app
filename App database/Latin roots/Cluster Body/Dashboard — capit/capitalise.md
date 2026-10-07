@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw advantages from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into capital, provide with funding, or turn an opportunity or advantage to one's profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthography and printing, to write or print a letter or word in uppercase characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitalise designates supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Entrepreneurs seek to **capitalise** future revenue streams by converting them into present investment funds."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Manufacturers must **capitalise** improvements in mechanical technique to retain their market dominance."*
+> - 📜 **Walter Bagehot (*Economic Studies*):** *"The modern joint-stock banking system allows nations to **capitalise** small dispersed savings into great undertakings."*

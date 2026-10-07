@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swing from one hold to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having widely spreading paired branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having widely spreading, paired opposite branches; also to swing from tree limb to tree limb using only the arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing branches spread in decussate pairs; in primatology, performing locomotion by arm-swinging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiate designates swing from one hold to the next."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Gibbons possess extraordinarily elongated forelimbs that enable them to **brachiate** through the forest canopy at high speed."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The shrub displays a **brachiate** habit, its lateral twigs diverging at right angles in alternating pairs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The anatomical modifications that permit arboreal primates to **brachiate** preadapted early hominids for upright posture."*

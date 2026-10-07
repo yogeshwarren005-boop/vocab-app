@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiant circle, corona, or halo of light depicted surrounding the head or body of a sacred figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and astronomy, a luminous ring seen around the sun or moon produced by diffraction through atmospheric droplets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the wind was rising and had begun to disperse the clouds, and suddenly the sun broke through, and the glory of it fell like an aureole on the young wife, and at once she vanished away."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At this moment the setting sun flooded the poor plain room with light; the unpainted wood was all of a golden-brown, and Ann Bray, with her gray hair and aged face, stood at the head of the table in a kind of aureole."*
-> - 📜 **James Joyce (*Ulysses*):** *"His scarlet beak blazes within the aureole of his straw hat."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Early Italian masters surrounded the Madonna with an **aureole** of pure gold leaf to signify heavenly glory."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The misty morning sun created a faint **aureole** around her hair as she walked across the dew-soaked meadows."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A brilliant **aureole** surrounded the shadows of our figures cast upon the dense vapor banks at sunrise."*

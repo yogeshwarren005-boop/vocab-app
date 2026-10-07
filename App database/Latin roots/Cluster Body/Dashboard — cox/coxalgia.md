@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cox within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cox in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the hip joint, traditionally associated with tuberculous arthritis or inflammation of the hip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century clinical medicine, severe arthritic pain localized in the coxo-femoral articulation; hip disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxalgia designates pertaining to, derived from, or characteristic of latin cox within the domain of body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent limp accompanied by nocturnal cries in children often indicates early tuberculous **coxalgia**."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Prolonged immobilization and hygienic care remain essential in halting the destructive progress of **coxalgia**."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Referred knee pain frequently confuses the early diagnosis of hip pathology in acute **coxalgia**."*

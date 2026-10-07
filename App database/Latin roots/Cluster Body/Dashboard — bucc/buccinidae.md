@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whelks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whelks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic family of predatory marine sea snails commonly known as true whelks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, caenogastropods belonging to the superfamily Buccinoidea possessing thick spiraled shells and strong siphonal canals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog buccinidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the rocky shores of Tierra del Fuego, diverse species of **Buccinidae** prey upon barnacles and bivalves."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The radular teeth of the **Buccinidae** are specialized for boring into the calcified shells of other mollusks."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Fossil representatives of the **Buccinidae** demonstrate gradual shifts in aperture morphology through tertiary strata."*

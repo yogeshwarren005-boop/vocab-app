@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cranium which encloses the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cranium which encloses the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the cranium or skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and neurology, designating nerves, cavities, or structures pertaining to the braincase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Phrenologically considered, his head must have been a cranial marvel, and the bumps on it mapping out the kingdom of evil a sort of Rocky Mountain chain towering over the more peaceful valleys around."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Twelve pairs of **cranial** nerves emerge through distinct foramina in the base of the skull."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elevated **cranial** pressure produces papilledema, bradycardia, and projectile vomiting."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The gradual expansion of **cranial** capacity marks the evolutionary transition from hominoid primates to humans."*

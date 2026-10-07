@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin carn within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of carn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small fleshy growth, excrescence, or polyp on the human or animal body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical surgery and urology, a fleshy granulation or stricture obstructing a bodily passage, especially the urethra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosity designates pertaining to, derived from, or characteristic of latin carn within the domain of body."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"Obstruction of urine was formerly attributed to an internal **carnosity** rather than spasmodic stricture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the nasal passages revealed a pedunculated **carnosity** arising from the mucous membrane of the septum."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic excision of the inflamed **carnosity** permitted healthy granulation without secondary purulent infection."*

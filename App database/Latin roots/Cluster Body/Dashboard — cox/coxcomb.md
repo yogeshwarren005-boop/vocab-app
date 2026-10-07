@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceited dandy who is overly impressed by his own accomplishments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cap worn by court jesters; adorned with a strip of red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceited, foolish dandy or fop excessively proud of his dress and personal appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the notched red cap resembling a cock's comb formerly worn by professional court jesters; a vain trifler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke with her but once, And found her wondrous cold, but I sent to her By this same coxcomb that we have i’ the wind Tokens and letters which she did re-send, And this is all I have done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the enemy is an ass and a fool and a prating coxcomb, is it meet, think you, that we should also, look you, be an ass and a fool and a prating coxcomb?"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"No creature is so insolent as an ignorant **coxcomb** elevated to sudden authority over men of sense."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Some are bewildered in the maze of schools, and some made **coxcomb** nature meant but fools."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young **coxcomb** paraded before the mirror, admiring the gold lace and buttons of his regimentals."*

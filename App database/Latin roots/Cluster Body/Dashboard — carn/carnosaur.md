@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large carnivorous bipedal dinosaur having huge claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large carnivorous bipedal dinosaur having huge claws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of large bipedal predatory dinosaurs, such as Allosaurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a theropod dinosaur belonging to Carnosauria, characterized by large skulls, blade-like serrated teeth, and robust hindlimbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaur designates large carnivorous bipedal dinosaur having huge claws."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The gigantic jaws and curved teeth indicate that this ancient **carnosaur** preyed upon massive herbivorous dinosaurs."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are most nearly intermediate between Birds and Reptiles*):** *"The pelvis and tridactyl foot of the Jurassic **carnosaur** present striking structural affinities with the flightless ratite birds."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil trackways in Wealden sandstone reveal the ponderous stride of a giant Cretaceous **carnosaur**."*

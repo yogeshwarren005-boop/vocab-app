@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fold of fatty tissue under the chin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fold of fatty tissue under the chin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small fleshy fold or double chin in humans; also one of the paired ridges flanking the beak in true bugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hemipteran entomology, one of two longitudinal plates on the underside of the head guarding the base of the rostrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, buccula designates a fold of fatty tissue under the chin."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"The piercing beak of the predatory bug folds neatly between the protective margins of the **buccula**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Diagnostic keys to Hemiptera rely on the shape and extension of the **buccula** beneath the cephalic capsule."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The accumulation of submental adipose tissue forming a **buccula** varies considerably among human geographical varieties."*

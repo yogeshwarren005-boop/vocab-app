@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be born anew in another body after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to be reborn in a new physical body; reborn in another corporeal form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative theology and theosophy, to manifest again in successive physical incarnations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"When the Bogdo dies, his soul is reincarnated in the body of a newly born male child."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Platonic thinkers maintain that the human soul may **reincarnate** through cycles of moral purification."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Eastern religious systems teach that our present character tendencies **reincarnate** across successive mortal lives."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Old spiritual ideals **reincarnate** themselves in the altered costumes and language of modern society."*

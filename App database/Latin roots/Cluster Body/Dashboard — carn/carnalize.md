@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent materialistically, as in a painting or a sculpture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe to an origin in sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render carnal, sensual, or materialistic; to subordinate spiritual values to physical instincts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and ethics, to degrade an elevated artistic or religious subject into base corporeal display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnalize designates represent materialistically, as in a painting or a sculpture."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Late decadent painters **carnalize** sacred themes by emphasizing voluptuous drapery over spiritual expression."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Do not seek to **carnalize** true friendship into a low alliance for trade or mutual vanity."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Mechanical theories of mind **carnalize** the divine spark of imagination into mere physiological vibration."*

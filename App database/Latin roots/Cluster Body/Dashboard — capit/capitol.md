@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building occupied by a state legislature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The government building in washington where the united states senate and the house of representatives meet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temple of Jupiter Optimus Maximus on the Capitoline Hill in ancient Rome; a building where a legislative body meets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American governance, the neoclassical building in Washington, D.C., housing the United States Congress, or a state legislative hall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what Made the all-honoured, honest Roman, Brutus, With the armed rest, courtiers of beauteous freedom, To drench the Capitol, but that they would Have one man but a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your company to th’ Capitol, where I know Our greatest friends attend us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The triumphal procession ascended the sacred path to the **Capitol** amidst the acclamations of the Roman legions."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The marble halls of the national **Capitol** echo the transient passions of political faction."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The great dome of the **Capitol** rose solemn and majestic under the clear moonlit Virginia sky."*

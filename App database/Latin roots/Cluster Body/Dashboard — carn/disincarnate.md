@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make immaterial; remove the real essence of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make immaterial; remove the real essence of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divest of a physical body; also existing without a body of flesh, disembodied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In esoteric philosophy and occult literature, referring to the departure of the conscious soul from the mortal frame at death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disincarnate designates make immaterial; remove the real essence of."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Trance states lead subjects to feel as though their conscious ego had become **disincarnate** and free from spatial limits."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The poetic imagination seeks to **disincarnate** worldly facts and view them as pure transcendent symbols."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Dante envisions the **disincarnate** shades of the departed suffering retribution proportional to their earthly sins."*

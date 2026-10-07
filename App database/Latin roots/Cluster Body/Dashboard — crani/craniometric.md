@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to craniometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to craniometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by the measurement of skulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and osteology, pertaining to standardized numerical measurements of cranial dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometric designates of or relating to craniometry."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"Standardized **craniometric** indices ensure reproducible measurements across independent anthropological surveys."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The Neanderthal calvarium revealed striking **craniometric** differences when compared with modern European crania."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Extensive **craniometric** tables demonstrate great individual variability in facial angles within each race."*

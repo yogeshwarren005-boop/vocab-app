@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summarize briefly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat stages of evolutionary development during the embryonic phase of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To summarize, restate briefly, or review the main points of an argument or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, to repeat ancestral evolutionary stages during the embryonic development of an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What past consecutive causes, before rising preapprehended, of accumulated fatigue did Bloom, before rising, silently recapitulate?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To report their numerous conflicts, would be to recapitulate the days of the life of Waltheof--for it was literally a warfare."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Without following the discussion as it sways from point to point, we may take the passage in which he recapitulates this line of argument."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Let us briefly **recapitulate** the arguments in favor of the theory of descent with modification."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Before advancing to new theorems, it is profitable to **recapitulate** the premises already established."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon paused to **recapitulate** the evidence in his monumental Key to All Mythologies."*

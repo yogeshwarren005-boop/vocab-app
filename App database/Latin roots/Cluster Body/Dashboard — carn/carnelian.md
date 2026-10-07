@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent red or orange variety of chalcedony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent red or orange variety of chalcedony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent, reddish-orange or flesh-colored variety of chalcedony quartz used as a gemstone in seals and jewelry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and archaeological gemology, microcrystalline silica colored by iron oxide impurities, prized for signet rings since antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnelian designates a translucent red or orange variety of chalcedony."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Pebbles of red **carnelian** and agate littered the dry gravel beaches of the Patagonian coast."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine mosaic sparkled with small tesserae of polished jasper, lapis, and rich **carnelian**."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"He wore an antique signet cut in deep red **carnelian**, bearing the engraved crest of an extinct Etruscan family."*

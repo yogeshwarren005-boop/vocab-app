@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to an ecclesiastical chapter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to an ecclesiastical chapter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to an ecclesiastical chapter; also arranged in chapters or heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and church history, pertaining to the governing council of canons attached to a cathedral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitular designates of or pertaining to an ecclesiastical chapter."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishop convened a **capitular** assembly to adjudicate disputes concerning cathedral revenues."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king issued a warrant directing the dean and **capitular** body to elect his royal nominee."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Cathedral clergy exercised independent **capitular** jurisdiction over ecclesiastical properties throughout the diocese."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin carn within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of carn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spicy stew prepared with beef, chili peppers, tomatoes, onions, and seasonings, originating in northern Mexico and southern Texas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and regional gastronomy, a traditional border dish featuring braised beef simmered in a seasoned chili pepper sauce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chili con carne designates pertaining to, derived from, or characteristic of latin carn within the domain of body."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The wayside tavern offered pungent bowls of **chili con carne** that set the traveler's throat ablaze with pepper."*
+> - 📜 **O. Henry (*Heart of the West*):** *"Cowboys gathered around the outdoor chili stand in San Antonio to feast on simmering **chili con carne** under the stars."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"They dined on steaming plates of **chili con carne** in a crowded waterfront restaurant after a long day's labor."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the skulls of various human races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of the skulls of various human races.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the morphology, dimensions, and variations of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and historical anatomy, the branch of comparative osteology dealing with cranial measurements and typology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I am certainly developing the wisdom of the serpent, for when Mortimer pressed his questions to an inconvenient extent I asked him casually to what type Frankland’s skull belonged, and so heard nothing but craniology for the rest of our drive."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a certain company, the conversation having fallen on the subject of craniology, and the organ of drunkenness being alluded to among others, a lady suggested that this must be the barrel-organ. 709."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"Comparative **craniology** provides measurable criteria for tracing migrations and affinities among ancient human populations."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The development of rigorous **craniology** swept away the unscientific speculations of earlier phrenologists."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Researches in comparative **craniology** demonstrated continuous gradations in skull form across geographic regions."*

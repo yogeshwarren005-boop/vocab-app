@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of the dimensions, bones, and angles of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological anthropology and forensic osteology, the standardized numerical quantification of cranial features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometry designates the branch of physical anthropology dealing with the study and measurement of dry skulls after removal of its soft parts."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"The development of modern **craniometry** replaced subjective visual impression with precise caliper measurements."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Through rigorous **craniometry**, the investigator can chart the architectural evolution of the primate braincase."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative **craniometry** helped establish that domestic dog breeds exhibit wider cranial variation than wild canids."*

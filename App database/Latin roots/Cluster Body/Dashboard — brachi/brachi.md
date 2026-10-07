@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin brachi within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of brachi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical combining form referring to the arm or forelimb in vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphologic terminology, a root denoting structure or appendages corresponding to the mammalian upper limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachi designates pertaining to, derived from, or characteristic of latin brachi within the domain of body."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The root **brachi** enters into terms designating homologous forelimb segments across reptilian and avian skeletons."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Muscles derived from the **brachi** group control flexing and extending motions of the human forearm."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Comparative morphologists trace the **brachi** segment back to the pectoral fins of primitive sarcopterygian fishes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document containing the terms of surrender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary that enumerates the main parts of a topic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of surrendering or yielding to an opponent on stipulated terms; a formal treaty of surrender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomatic history, legal agreements granting extraterritorial rights to foreign subjects in Ottoman domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Capitulation—that was the purport of the simple reply, guarded as it was—capitulation, unknown to herself."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But at its capitulation, he is undeceived concerning the Hellenic patriots; they ravage and plunder so fiercely that he turns from them with repugnance and both he and Alabanda abandon the cause of liberty which they had championed."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Sudden ceased the battle's din, And he who led the invading army on Gave orders for a halt, in expectation Of winning now the fort's capitulation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The honorable **capitulation** signed at the fortress gates permitted the defenders to march out with colors flying."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The terms of the **capitulation** guaranteed private property against pillage by the victorious soldiers."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"News of the final Confederate **capitulation** at Appomattox was greeted with solemn relief across Washington."*

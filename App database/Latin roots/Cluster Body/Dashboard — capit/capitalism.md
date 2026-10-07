@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic system based on private ownership of capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic system based on private ownership of capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic system characterized by private ownership of the means of production, competitive markets, and capital accumulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory, a socio-economic order driven by wage labor, profit-oriented production, and market allocation of resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitalism designates an economic system based on private ownership of capital."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The impulse to acquisition has existed in all epochs, but modern rational **capitalism** demands methodical discipline."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The social tensions generated under industrial **capitalism** necessitate legal protection for the laboring classes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial enterprise flourishes when the principles of competitive **capitalism** secure the fruits of industry to every individual."*

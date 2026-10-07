@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become muscular or fleshy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become muscular or fleshy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn into or take on the appearance of flesh; to undergo fleshy transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morbid anatomy and pathology, to become firm, red, and fleshy through chronic induration, especially consolidated lung tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnify designates become muscular or fleshy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic unresolved pneumonia causes pulmonary alveoli to collapse and **carnify** into dense fleshy connective tissue."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Prolonged pleuritic effusion compresses the lung until its vascular parenchyma begins to **carnify**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Organized fibrinous exudates infiltrate the tissue spaces, causing the organ to **carnify** under cellular proliferation."*

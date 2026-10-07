@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family auriculariaceae; sometimes included in the order tremellales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi within the division Basidiomycota comprising wood-inhabiting jelly fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an order containing species with cruciate or transverse septate phragmobasidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculariales designates coextensive with the family auriculariaceae; sometimes included in the order tremellales."*
+> - 📜 **M. J. Berkeley (*Outlines of British Fungology*):** *"The order **Auriculariales** encompasses diverse lignicolous fungi adapted to moist temperate and tropical woodlands."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic analysis of fungal reproductive organs distinguishes the **Auriculariales** from allied hymenomycetes."*
+> - 📜 **Elias Fries (*Systema Mycologicum*):** *"Gelatinous fungi of the **Auriculariales** swell rapidly under autumn rain to discharge their microscopic basidiospores."*

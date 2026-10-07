@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of carnivores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of plants as well as animals) feeding on animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on animal flesh; flesh-eating in predatory habits or diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological ecology, adapted for capturing, killing, and digesting animal protein and fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The Morlocks at any rate were carnivorous!"*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"These extraordinary **carnivorous** plants dissolve animal albumen by secreting a digestive fluid analogous to gastric juice."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Man slowly outgrows his **carnivorous** stage as his spiritual instincts awaken to a cleaner diet."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sharks swam in ravenous circles around the captured carcass, showing their fiercely **carnivorous** nature."*

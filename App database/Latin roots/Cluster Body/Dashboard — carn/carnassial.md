@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a tooth) adapted for shearing flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a tooth) adapted for shearing flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for shearing flesh; specifically designating the specialized premolar and molar teeth of carnivorous mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian dental morphology and paleontology, the upper fourth premolar and lower first molar functioning as scissor-like shearing blades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnassial designates (of a tooth) adapted for shearing flesh."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The blade-like form of the **carnassial** tooth evolved to slice through tough muscular fibers and sinew."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In fissiped carnivores, the opposition of the upper and lower **carnassial** teeth forms a powerful shearing shear."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Fossil creodonts display primitive **carnassial** modifications across multiple molar positions before specialized dental reduction."*

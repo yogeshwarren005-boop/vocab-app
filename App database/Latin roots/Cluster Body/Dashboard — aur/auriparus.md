@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of paridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of paridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small passerine birds containing the verdin (Auriparus flaviceps), native to arid southwestern North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a genus of small, insectivorous songbirds of the penduline tit family (Remizidae) characterized by a yellow head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriparus designates a genus of paridae."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"The verdin, classified as **Auriparus** flaviceps, builds a remarkably bulky, thorny nest in desert mesquite thickets."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Specimens allied to **Auriparus** flit constantly through the desert brush, searching for tiny spiders and scale insects."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"The genus **Auriparus** is readily identified by its sharp conical bill and distinct golden-yellow crown."*

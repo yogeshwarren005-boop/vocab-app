@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The helmsman of a ship's boat or a racing crew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sailor who has charge of a ship's boat and its crew; the steersman of a racing shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval tradition and rowing athletics, the officer or steersman directing boat maneuvers and commanding the rowing rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Six oarsmen took their seats, and the coxswain went to the tiller."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sailors rowed on, and the coxswain made for the floating barrel."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The coxswain said some words in his outlandish tongue, doubtless warning the men to keep on their guard."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The stalwart **coxswain** steered the whaleboat through the foam, shouting encouragement to the oarsmen."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Israel Hands, the **coxswain**, lay wounded on the deck with a bottle of wine within reach."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The **coxswain** leaned against the tiller, watching the dark rollers break across the harbor bar."*

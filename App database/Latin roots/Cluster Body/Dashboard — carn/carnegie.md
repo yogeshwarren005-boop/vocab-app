@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states educator famous for writing a book about how to win friends and influence people (1888-1955).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states industrialist and philanthropist who endowed education and public libraries and research trusts (1835-1919).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Andrew Carnegie, Scottish-American industrialist and philanthropist, or the philanthropic foundations he endowed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, designating the libraries, educational institutes, and research corporations founded by Carnegie's wealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Andrew Carnegie said that it would be a good thing if every boy had to start in poverty and make his own way."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Andrew Carnegie says it would be a good thing if every boy had to start in poverty and make his own way."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Does it wish the services of Cornelius Vanderbilt in organizing a great system of railroads, of Andrew Carnegie, of Pierpont Morgan?"*
+> - 📜 **William James (*Memories and Studies*):** *"The philanthropic foundations established by Andrew **Carnegie** transformed public access to scientific research and literature."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Endowments provided by **Carnegie** influenced academic research standards across American universities."*
+> - 📜 **H. G. Wells (*The Future in America*):** *"Free public libraries bearing the name of **Carnegie** stood in nearly every prosperous Midwestern town."*

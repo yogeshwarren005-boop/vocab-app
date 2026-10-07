@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to sound or the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to sound or the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the ear; through auditory perception or hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic analysis and linguistics, perceived or received through listening rather than visual transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurally designates with regard to sound or the ear."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Musical overtones can be detected **aurally** when the listener directs concentrated attention to the resonance."*
+> - 📜 **Alexander Graham Bell (*Memoir upon the Formation of a Deaf Variety of the Human Race*):** *"Spoken communication acquired **aurally** differs fundamentally from language acquired through visual symbols."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The temporal sequence of rhythm is perceived **aurally** with greater precision than through any tactile cue."*

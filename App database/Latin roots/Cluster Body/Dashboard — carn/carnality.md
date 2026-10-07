@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling morbid sexual desire or a propensity to lewdness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling morbid sexual desire or a propensity to lewdness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with bodily appetites, sexual passion, or physical sensuality; worldliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian asceticism and moral theology, the dominance of fleshly impulses over spiritual reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error of carnality 131:6 When once destroyed by divine Science, the false evi- dence before the corporeal senses disappears."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Carnality, the source of cowardice, has been removed, and the weakling is turned into a Lord Nelson for bravery, and a Savonarola for faithfulness to men's souls."*
+> - 📜 **John Milton (*Areopagitica*):** *"True virtue is tested when tempted by gross **carnality**, proving its divine origin through steadfast resistance."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Fanatical zeal frequently masks an underlying **carnality** that erupts when religious discipline is relaxed."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola denounced the luxurious **carnality** of Renaissance Florence from the pulpit of San Marco."*

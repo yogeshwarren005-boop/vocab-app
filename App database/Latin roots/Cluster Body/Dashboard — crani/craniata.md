@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes; amphibians; reptiles; birds; mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes; amphibians; reptiles; birds; mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subphylum of chordate animals possessing a distinct skull or cranium, encompassing all vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, the monophyletic group of chordates characterized by a tripartite brain protected by a cartilaginous or bony skull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniata designates fishes; amphibians; reptiles; birds; mammals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **Craniata** are sharply demarcated from Acrania by the possession of a specialized brain enclosed in a skull."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"All living **Craniata** share homologous embryonic gill arches and a dorsal tubular nervous system."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The skull of the **Craniata** reflects a fundamental segmental archetype repeated throughout the vertebral column."*

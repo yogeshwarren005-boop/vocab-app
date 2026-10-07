@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a carnal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a carnal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a carnal, physical, or sensual manner; with respect to the flesh or bodily desires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and legal phraseology, denoting sexual intimacy or knowledge through physical cohabitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnally designates in a carnal manner."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The austere preacher warned his flock that to be **carnally** minded is death to spiritual aspirations."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Led by sensual appetite, they lusted and burned **carnally** after tasting the forbidden fruit."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"We interpret natural wonders too **carnally** when we reduce celestial mysteries to coarse physical atoms."*

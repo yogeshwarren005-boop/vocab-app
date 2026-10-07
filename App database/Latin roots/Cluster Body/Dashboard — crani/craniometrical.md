@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to craniometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to craniometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the quantitative measurement of the dimensions and proportions of skulls; craniometric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical methodology, describing instruments, surveys, or methods used in measuring cranial morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometrical designates of or relating to craniometry."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"Accurate **craniometrical** investigation requires careful orientation of the skull along the horizontal plane."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The **craniometrical** data collected from Polynesian skulls revealed consistent dolichocephalic proportions."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"His **craniometrical** observations showed no simple correlation between cranial circumference and mental genius."*

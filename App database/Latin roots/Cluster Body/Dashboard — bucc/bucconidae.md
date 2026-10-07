@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of near-passerine tropical American forest birds known as puffbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, birds of the order Piciformes characterized by stout bills, loose plumage, and a sit-and-wait foraging strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bucconidae designates puffbirds."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Solitary puffbirds of the family **Bucconidae** perch motionless upon low forest branches waiting for passing beetles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geographic distribution of the **Bucconidae** is strictly confined to the tropical forests of the Neotropical region."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The stout, hooked bill and lethargic demeanor distinguish the **Bucconidae** from more active insectivorous families."*

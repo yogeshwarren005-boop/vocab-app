@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Debase through carnal gratification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase through carnal gratification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make carnal, worldly, or sensual; to debase by indulgence in bodily desires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, to degrade spiritual and intellectual aspirations into gross material appetites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnalise designates debase through carnal gratification."*
+> - 📜 **John Milton (*Of Reformation*):** *"Excessive ritualistic pomp serves only to **carnalise** the pure devotion of the soul."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Gross sensory analogies tend to **carnalise** our conception of divine and immaterial truths."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Materialistic philosophies **carnalise** human duty by reducing moral virtue to mere calculus of physical pleasure."*

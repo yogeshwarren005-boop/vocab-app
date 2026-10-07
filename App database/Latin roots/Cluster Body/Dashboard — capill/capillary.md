@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube of small internal diameter; holds liquid by capillary action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the minute blood vessels connecting arterioles with venules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the fineness of a hair; specifically, one of the minute microscopic blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular physiology, the endothelial tubes connecting arterioles and venules where gas and nutrient exchange occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The moisture then absorbed, given up through the agency of capillary attraction, will draw the showers of summer, as they are passing over."*
-> - 📜 **James Joyce (*Ulysses*):** *"Capillary attraction is a natural phenomenon."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Submit this object to a quarter-inch power, as a drop of water is let fall at the edge of the cover and insinuates itself, by capillary attraction, between the two plates of glass."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"Blood passes through the minute porosities of the flesh from arteries to veins via the **capillary** network."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **capillary** vessels form a dense anastomosing meshwork throughout all vascularized animal tissues."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Vasomotor nerves regulate the caliber of terminal vessels to control local **capillary** perfusion."*

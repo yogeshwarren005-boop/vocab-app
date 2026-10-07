@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin brachi within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of brachi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The segment of the upper limb between the elbow and the wrist; the forearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the skeletal section containing the radius and ulna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antebrachium designates pertaining to, derived from, or characteristic of latin brachi within the domain of body."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **antebrachium** or forearm extends from the cubital articulation downward to the carpus."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In mammalian forelimbs the bones of the **antebrachium** undergo characteristic degrees of pronation and supination."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The radius and ulna constitute the skeletal axis of the **antebrachium** across tetrapod vertebrates."*

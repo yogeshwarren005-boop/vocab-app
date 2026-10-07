@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cox within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cox in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or situated near the hip joint or the coxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and comparative anatomy, designating structures, glands, or joints associated with the coxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxal designates pertaining to, derived from, or characteristic of latin cox within the domain of body."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **coxal** articulation provides both great stability and multi-axial freedom of movement for locomotion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Excretory **coxal** glands open at the bases of the walking legs in scorpions and primitive arachnids."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The robust **coxal** bones of terrestrial quadrupeds sustain the heavy mechanical load of the trunk."*

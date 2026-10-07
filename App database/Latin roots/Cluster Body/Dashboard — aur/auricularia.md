@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the auriculariaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the auriculariaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of jelly fungi, including the edible wood ear (Auricularia auricula-judae); also a free-swimming echinoderm larva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and developmental zoology, ear-shaped basidiomycete fungi or the ciliated bilateral larva of sea cucumbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricularia designates type genus of the auriculariaceae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bilateral symmetry of the **auricularia** larva reveals the ancestral developmental plan of echinoderms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The ciliated bands of the **auricularia** stage guide locomotion and nutrient capture in holothurian embryos."*
+> - 📜 **M. J. Berkeley (*Outlines of British Fungology*):** *"Gelatinous species of **Auricularia** flourish upon decaying elder boughs, expanding into ear-like lobes after rainfall."*

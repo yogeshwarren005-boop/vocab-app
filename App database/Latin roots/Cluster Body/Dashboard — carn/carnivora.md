@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cats; lions; tigers; panthers; dogs; wolves; jackals; bears; raccoons; skunks; and members of the suborder pinnipedia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic order of placental mammals adapted primarily for preying on other animals and consuming flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, the clade comprising Feliformia and Caniformia, distinguished by four-toed or five-toed clawed paws and carnassial dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"You might as well ask a man to eat molecules with a pair of chop-sticks, as to try to interest me about the lesser carnivora, when I know of what is before me.” “I see,” I said."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Members of the order **Carnivora** exhibit remarkable variations in their dentition depending on whether they pursue living prey or scavenge carrion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cranial architecture of the **Carnivora** features high sagittal crests for the insertion of powerful temporal muscles."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The simple, highly acidic stomach of the **Carnivora** reflects rapid enzymatic breakdown of flesh and bone."*

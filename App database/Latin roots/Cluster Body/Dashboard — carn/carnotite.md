@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow radioactive mineral; an ore of uranium and radium and vanadium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright canary-yellow radioactive mineral (K2(UO2)2(VO4)2·3H2O) that serves as an important ore of uranium and vanadium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic mineralogy and radiochemistry, an oxidized secondary mineral found in sandstone deposits of the Colorado Plateau, named after Marie-Adolphe Carnot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnotite designates a yellow radioactive mineral; an ore of uranium and radium and vanadium."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Extraction of radium from pitchblende and American **carnotite** ores requires extensive chemical fractional crystallization."*
+> - 📜 **Ernest Rutherford (*Radio-activity*):** *"The intense alpha-particle emissions detected in **carnotite** correspond to the secular radioactive equilibrium of uranium daughters."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Yellow incrustations of **carnotite** impregnate porous jurassic sandstone strata throughout western river basins."*

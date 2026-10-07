@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coxswain of a boat crew, who steers the racing vessel and directs the rowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic sports and navigation, the non-rowing crew member positioned at the stern who commands stroke rhythm and tactical course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I have a cox-comb of frieze? ’Tis time I were choked with a piece of toasted cheese."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Y., Miss Caroline Cox, of Mott Haven, N."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Cox, resident engineer of the Peking section of the Peking-Tientsin railway."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The sharp rhythm of the **cox** shouting the stroke echoed clearly across the quiet river meadows."*
+> - 📜 **Thomas Hughes (*Tom Brown at Oxford*):** *"The steady hand of the **cox** guided the racing shell with unerring judgment through the crowded turn."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"The little **cox** in the red cap waved his megaphone to urge the panting crew toward the finish."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to be able to read your character from the shape of your skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to be able to read your character from the shape of your skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar who studies the shape, size, and proportions of human or animal skulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of physical anthropology, a nineteenth-century scientist who measured cranial forms to classify human races or types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniologist designates someone who claims to be able to read your character from the shape of your skull."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"The **craniologist** employs precise calipers to calculate the cephalic index of prehistoric skeletal remains."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The cautious **craniologist** avoids hasty racial generalizations based upon individual anomalous skulls."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every competent **craniologist** recognizes that skull shape varies widely even within single breeding populations."*

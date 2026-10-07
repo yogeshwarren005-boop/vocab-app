@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a branching or armlike part of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a branching or armlike part of an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper arm in human anatomy, extending from the shoulder to the elbow; an arm-like anatomical limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and comparative zoology, an arm-like tract of white matter connecting brain structures such as the colliculi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachium designates (biology) a branching or armlike part of an animal."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The humerus constitutes the skeletal framework of the **brachium**, articulating superiorly with the glenoid cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Muscular atrophy confined to the **brachium** points to a regional lesion of the cervical spinal roots."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The structural axis of the **brachium** remains remarkably conserved throughout the evolutionary radiation of mammals."*

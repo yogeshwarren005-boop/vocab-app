@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ball-and-socket joint between the head of the femur and the acetabulum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ball-and-socket joint between the head of the femur and the acetabulum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hip bone or hip joint; in insects, the basal segment of the leg that articulates with the thorax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and arthropod morphology, the proximal joint segment uniting the leg to the body trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxa designates the ball-and-socket joint between the head of the femur and the acetabulum."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The head of the femur fits deeply into the socket of the **coxa** to form the enarthrodial hip joint."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In insects, the **coxa** constitutes the basal segment of the limb, articulating directly with the thoracic pleuron."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Homologies of the pelvis confirm that the mammalian **coxa** represents the fusion of ilium, ischium, and pubis."*

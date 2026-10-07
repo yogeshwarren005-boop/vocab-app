@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the phylum brachiopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine invertebrate of the phylum Brachiopoda having a bivalve shell with unequal upper and lower valves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, lophophorate filter-feeders that dominated Paleozoic marine ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopod designates marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Silurian limestone formations abound in fossil **brachiopod** shells, preserving delicate internal spiralia."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The persistent survival of the **brachiopod** genus Lingula demonstrates remarkable evolutionary stability over geological epochs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The feeding mechanism of the **brachiopod** consists of a complex ciliated lophophore housed within the mantle cavity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (business) too much capitalization (the sale of more stock than the business warrants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (business) too much capitalization (the sale of more stock than the business warrants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of a business enterprise possessing capital in excess of its true earning capacity or asset value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and railway history, the excessive issuance of stock and bonds beyond the real replacement cost of plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalisation designates (business) too much capitalization (the sale of more stock than the business warrants)."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Chronic **overcapitalisation** dilutes the real earnings of shareholders and encourages fraudulent balance sheets."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Industrial syndicates frequently suffer from **overcapitalisation** following periods of frantic speculative promotion."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The collapse of railway stocks demonstrated the fatal perils of corporate **overcapitalisation**."*

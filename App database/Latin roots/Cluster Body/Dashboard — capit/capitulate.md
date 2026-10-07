@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrender under agreed conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrender under agreed conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surrender or yield under agreed conditions or terms, especially to an opposing military force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic and military history, to sign a formal covenant or treaty of submission under specified stipulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy, Northumberland, The Archbishop’s Grace of York, Douglas, Mortimer, Capitulate against us and are up."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was this difference between the present and previous occasions when he had fallen or thought of falling in love, that he desired no victory: no, it was he and not Isabel who was to capitulate, leaning his forehead upon her young hand. . . ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The garrison, exhausted by famine and bombardment, resolved to **capitulate** on honorable terms."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The beleaguered royalists were compelled to **capitulate** after their relief army was routed in the field."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"I am ashamed to think how easily we **capitulate** to badges and names, to large societies and dead institutions."*

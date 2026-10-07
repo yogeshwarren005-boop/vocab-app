@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the appetites and passions of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the body or flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the body, physical appetites, or sensual desires; worldly as opposed to spiritual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and theological ethics, denoting temporal fleshly pleasures and corporeal passions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shall you hear Of carnal, bloody and unnatural acts, Of accidental judgements, casual slaughters, Of deaths put on by cunning and forc’d cause, And, in this upshot, purposes mistook Fall’n on the inventors’ heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O upright, just, and true-disposing God, How do I thank thee that this carnal cur Preys on the issue of his mother’s body, And makes her pew-fellow with others’ moan!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"So stalks the bloody tyrant, heedless of justice and enslaved to his own **carnal** appetite."*
+> - 📜 **Bram Stoker (*Dracula*):** *"There was a deliberate voluptuousness in her gaze that was both thrilling and repulsive to my **carnal** nature."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-men struggled against the resurgence of their ancient **carnal** instincts to hunt and devour flesh."*

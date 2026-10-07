@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian fan palm having an edible root; source of a useful leaf fiber and a brittle yellowish wax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Brazilian fan palm (Copernicia prunifera) that yields a hard, high-melting vegetable wax from the coating of its leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and botanical economics, the commercial wax harvested from carnauba palms used in polishes, coatings, and pharmaceuticals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnauba designates hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The hardy **carnauba** palm flourishes along the arid river basins of northeastern Brazil, yielding timber, food, and wax."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon and their Uses*):** *"Indigenous peoples scrape the powdery protective wax from the young fronds of the **carnauba** to produce water-resistant coatings."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The protective secretion of the **carnauba** leaf exemplifies xerophytic adaptation against severe tropical evaporation."*

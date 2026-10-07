@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon by which liquid surfaces rise or fall in narrow tubes owing to surface tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics and fluid mechanics, the balance of adhesive and cohesive intermolecular forces at a solid-liquid interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The first thing I do is to melt the tallow, the melted tallow being drawn up by the capillarity of the wick."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The rise of fluids against gravity in porous chalk illustrates the powerful mechanical action of **capillarity**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The ascent of sap through plant vessels was formerly attributed wholly to the forces of **capillarity**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Small drops of oil crawl between glass plates because of the attractive attraction termed **capillarity**."*

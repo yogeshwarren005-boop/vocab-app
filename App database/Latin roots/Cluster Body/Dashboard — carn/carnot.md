@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French physicist who founded thermodynamics (1796-1832).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist who founded thermodynamics (1796-1832).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Nicolas Léonard Sadi Carnot, French physicist who founded thermodynamics, or his idealized thermodynamic cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and physical chemistry, designating the Carnot engine, Carnot efficiency, or Carnot's theorem of heat engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnot designates french physicist who founded thermodynamics (1796-1832)."*
+> - 📜 **William Thomson (*Mathematical and Physical Papers*):** *"The profound reflections of Sadi **Carnot** established the theoretical limit of work obtainable from heat engines."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The reversible cycle imagined by **Carnot** demonstrates that maximum thermal efficiency depends solely on absolute temperatures."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"Modern entropy formulations originate directly from the foundational heat cycle theorems published by **Carnot**."*

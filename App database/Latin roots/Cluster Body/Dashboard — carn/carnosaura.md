@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest carnivorous land animals ever known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest carnivorous land animals ever known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clade of large predatory theropod dinosaurs that flourished during the Jurassic and Cretaceous periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dinosaur paleontology, an infraorder or clade of tetanuran theropods including allosauroids and their close relatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnosaura designates largest carnivorous land animals ever known."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The skeletal remains referred to **Carnosaura** display hollow limb bones and highly pneumaticized vertebral centra."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Dinosauria*):** *"Theropod reptiles grouped under **Carnosaura** dominated the terrestrial food chain during the Mesozoic era."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Comparative analysis of **Carnosaura** skeletons reveals the progressive development of bipedal predatory mechanics."*

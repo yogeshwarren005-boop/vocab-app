@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bucc within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bucc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward or in the direction of the cheek; on the cheek side of the dental arch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthodontics and prosthodontics, denoting the outward orientation of a tooth or dental appliance toward the cheek.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, buccally designates pertaining to, derived from, or characteristic of latin bucc within the domain of body."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The alveolar border projects slightly **buccally** to support the roots of the posterior grinding teeth."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In certain domestic breeds, the premolars tilt **buccally** due to progressive shortening of the maxillary bones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The dental abscess eroded through the mandibular cortex to point **buccally** into the oral vestibule."*

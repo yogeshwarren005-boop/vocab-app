@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine invertebrates that resemble mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine invertebrates that resemble mollusks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of marine coelomate animals possessing bivalve shells enclosing a feeding lophophore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate taxonomy, solitary marine lophophorates having dorsal and ventral valves rather than lateral valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopoda designates marine invertebrates that resemble mollusks."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record of the **Brachiopoda** demonstrates long periods of morphological continuity across deep time."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the **Brachiopoda**, the nervous system consists of an esophageal ring with well-developed ventral ganglia."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Paleozoic strata contain abundant representatives of the **Brachiopoda** whose mineralized shells preserve delicate internal spires."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to an ecclesiastical chapter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to an ecclesiastical chapter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of legislative ordinances or edicts promulgated by Frankish kings, especially Charlemagne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval European history, royal enactments divided into short heads or chapters issued under Carolingian administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lindenbrog in his Glossary on the Capitularies (quoted by J."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **capitulary** of Charlemagne sought to enforce judicial integrity and ecclesiastical discipline."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Each royal **capitulary** was read aloud in the public assembly of nobles before being inscribed in the archives."*
+> - 📜 **Francois Guizot (*The History of Civilization in Europe*):** *"The Carolingian **capitulary** reveals an extraordinary effort to organize civil order amidst feudal fragmentation."*

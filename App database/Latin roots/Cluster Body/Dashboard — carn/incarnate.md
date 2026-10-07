@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make concrete and real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent in bodily form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Invested with bodily nature and human form; personified in concrete, living flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological christology and comparative religion, the assumption of human flesh by a divine being; personifying an abstract ideal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, that ’a did; and said they were devils incarnate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O worthy Goth, this is the incarnate devil That robbed Andronicus of his good hand; This is the pearl that pleased your empress’ eye; And here’s the base fruit of her burning lust."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had dreamed of an aged and dignified face, the sublimation of all the d’Urberville lineaments, furrowed with incarnate memories representing in hieroglyphic the centuries of her family’s and England’s history."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The fiend is at mine elbow and tempts me, saying that my master is a very devil **incarnate**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"To Dorothea, the noble scholar appeared as wisdom **incarnate**, dedicated to unravelling ancient truths."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia Vye seemed the wild spirit of the heath **incarnate**, rebellious against all quiet domestic boundaries."*

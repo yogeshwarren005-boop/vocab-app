@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flesh-colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make flesh-colored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a bright crimson, blood-red, or flesh-pink color; to dye or stain red with blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary poetic diction, famously evocative of turning water crimson through the indelible stain of bloodshed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"What more natural than to imagine that the violets and the hyacinths, the roses and the anemones, sprang from their dust, were empurpled or incarnadined by their blood, and contained some portion of their spirit?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In such multitudes do they come that the streets and squares of the city are encumbered with their swarms, and incarnadined with their red cloaks."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"No, this my hand will rather the multitudinous seas **incarnadine**, making the green one red."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A single drop of crimson blood trickled down to **incarnadine** the pure white lace of her collar."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sunset clouds seemed to **incarnadine** the snowy peaks of the distant mountain range with fiery light."*

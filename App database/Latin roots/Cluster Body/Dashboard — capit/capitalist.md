@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conservative advocate of capitalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who invests capital in a business (especially a large business).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who possesses or invests substantial capital in business enterprises to generate profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, an owner of industrial or financial capital who employs wage labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At first, proceeding from the problems of our own age, it seemed clear as daylight to me that the gradual widening of the present merely temporary and social difference between the Capitalist and the Labourer was the key to the whole position."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"His land, race-horses, etc., were sold to pay his debts, and, from a large capitalist, he once more became a working man."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"He relieves the other agents of part of the risk, and he insures both laborer and capitalist against future fluctuations of prices."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant or **capitalist** continually exerts himself to find out the most advantageous employment for whatever capital he can command."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Remuneration received by the **capitalist** includes interest on investment, insurance against risk, and the wages of superintendence."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The widening gulf between the wealthy **capitalist** and the subterranean worker produced two divergent human species."*

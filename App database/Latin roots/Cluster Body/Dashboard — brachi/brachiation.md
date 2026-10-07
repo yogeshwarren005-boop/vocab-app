@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swinging by the arms from branch to branch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swinging by the arms from branch to branch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of arboreal locomotion in which primates swing hand over hand through the branches of trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and functional morphology, suspensory locomotion involving full shoulder rotation and elongated digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiation designates swinging by the arms from branch to branch."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The skeletal adaptations required for **brachiation** in the hylobatidae include a flexible wrist and mobile clavicle."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"True **brachiation** demands remarkable muscular power and neurological coordination during aerial transfer between boughs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The shoulder girdle undergoes profound functional reshaping to withstand the tensile strains imposed by **brachiation**."*

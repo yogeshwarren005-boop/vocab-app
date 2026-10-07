@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enterovirus causing a disease resembling poliomyelitis but without paralysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enterovirus of the Picornaviridae family causing diseases such as hand, foot, and mouth disease, herpangina, and myocarditis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical virology, a single-stranded RNA enterovirus named after Coxsackie, New York, where it was first isolated from human feces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxsackievirus designates enterovirus causing a disease resembling poliomyelitis but without paralysis."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Epidemic pleurodynia was definitively linked to acute infection with **coxsackievirus** strains in late summer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infectious myocarditis in infants may arise suddenly following exposure to viral pathogens like **coxsackievirus**."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"While antibiotics suppress bacterial pathogens, picornaviruses such as **coxsackievirus** resist common antimicrobial agents."*

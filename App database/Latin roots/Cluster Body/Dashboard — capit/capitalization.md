@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing in capital letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation of the value of a business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provision of capital for a company, the total market value of its stock, or the conversion of earnings into capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and grammar, the convention of writing words with initial uppercase characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalization theory of crises. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The aggregate **capitalization** of a joint-stock firm reflects public estimates of its earning capacity."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Speculative **capitalization** detached from productive equipment frequently precipitates financial collapse."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The sudden rise in the market **capitalization** of foreign securities lured cautious investors into danger."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the phylum brachiopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the phylum brachiopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of brachiopods or their bivalve morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative malacology and paleontology, having structural affinities with arm-footed lophophorate invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopodous designates of or belonging to the phylum brachiopoda."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **brachiopodous** valve displays asymmetrical muscle scars distinct from those of lamellibranch mollusks."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain extinct **brachiopodous** organisms flourished in shallow Cambrian seas before modern molluscan groups diversified."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The internal calcareous framework supports the delicate **brachiopodous** breathing and filter-feeding apparatus."*

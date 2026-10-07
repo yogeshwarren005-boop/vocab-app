@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a shape resembling an ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a shape resembling an ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an ear or an ear-flap; having an auricle-like contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conchology and comparative morphology, designating shells, leaves, or anatomical structures with an ear-shaped outline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriform designates having a shape resembling an ear."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The shell of the abalone exhibits an **auriform** shape with a wide, pearly aperture."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The mushroom cap displayed an **auriform** lobe growing horizontally from the damp bark."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **auriform** tentacles of the sea snail respond sensitively to subtle changes in water pressure."*

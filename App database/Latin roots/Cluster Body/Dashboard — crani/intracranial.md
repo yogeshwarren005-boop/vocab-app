@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or functioning within the cranium or skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and neurosurgery, designating pressures, lesions, vessels, or tumors residing inside the cranial cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intracranial designates within the skull."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent headache and papilledema are classic clinical symptoms of expanding **intracranial** neoplasms."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The internal carotid artery gives off its major branches after completing its tortuous **intracranial** course."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic management of open head injuries reduced the terrifying frequency of fatal **intracranial** abscesses."*

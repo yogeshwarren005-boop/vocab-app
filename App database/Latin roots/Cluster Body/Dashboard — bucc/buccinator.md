@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bucc within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bucc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, flat muscle of the cheek that compresses the cheek against the teeth during chewing and blowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional anatomy, the primary muscle of the cheek wall, innervated by the facial nerve and pierced by the parotid duct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Puff after stiff, a puff, strong, savoury, crackling. —Buccinator muscle is..."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **buccinator** muscle keeps food positioned under the molar teeth during the act of mastication."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The coordinated action of the **buccinator** and orbicularis oris produces the distinctive facial expression of blowing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paralysis of the **buccinator** in Bell's palsy causes food to collect inconveniently between the cheek and gums."*

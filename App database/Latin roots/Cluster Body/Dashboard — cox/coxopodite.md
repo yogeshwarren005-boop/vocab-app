@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cox within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cox in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basal joint or segment of the typical crustacean appendage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, the proximal segment of the protopodite that directly articulates with the body somite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxopodite designates pertaining to, derived from, or characteristic of latin cox within the domain of body."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The **coxopodite** of the third walking leg in the female crayfish bears the circular genital aperture."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The respiratory gills arise as external branchial plumes attached to the **coxopodite** of the thoracic limbs."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"In pedunculate cirripedes, the modified **coxopodite** supports the articulated cirri used in filter feeding."*

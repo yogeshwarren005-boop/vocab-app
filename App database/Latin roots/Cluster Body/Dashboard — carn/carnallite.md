@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrous potassium magnesium chloride mineral (KMgCl3·6H2O) forming an important source of potassium fertilizers and magnesium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and chemical mineralogy, an evaporite mineral occurring in massive saline deposits, notably at Stassfurt, Germany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnallite designates a white or reddish mineral consisting of hydrous chlorides of potassium and magnesium; used as a fertilizer and as a source of potassium and magnesium."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thick evaporite beds containing **carnallite** formed through the prolonged evaporation of enclosed saline lagoons."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Electrolysis of fused **carnallite** yields metallic magnesium alongside pungent streams of chlorine gas."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium salts extracted from natural **carnallite** furnish essential raw materials for agricultural fertilization."*

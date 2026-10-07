@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had the head cut off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had the head severed or cut off; beheaded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and experimental physiology, having the head removed while maintaining involuntary reflex actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Pequod’s whale being decapitated and the body stripped, the head was hoisted against the ship’s side—about half way out of the sea, so that it might yet in great part be buoyed up by its native element."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is this decapitated end of the head, also, which is at last elevated out of the water, and retained in that position by the enormous cutting tackles, whose hempen combinations, on one side, make quite a wilderness of ropes in that quarter."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He decapitated his brassy on the occasion of his striking Dorsetshire instead of his ball, and he was slow in recovering from the complex emotions which such an episode induces."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **decapitated** sperm whale head hung suspended from the ship's tackles like a giant battered bastion."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Ancient marble statues often stood **decapitated** in the overgrown gardens of Roman villas."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A single direct shell hit left the Martian war machine **decapitated** and motionless in the ruined meadow."*

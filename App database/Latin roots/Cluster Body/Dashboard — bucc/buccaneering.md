@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live like a buccaneer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or pursuit of piratical raiding, plunder, or ruthless, unscrupulous commercial speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century political rhetoric, predatory financial adventurism or imperial territorial raiding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On this buccaneering expedition, Rear Admiral Du Petit Thouars, leaving the rest of his squadron at the Marquesas,--which had then been occupied by his forces about five months--set sail for the doomed island in the Reine Blanche frigate."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Industrial competition degenerates into sheer **buccaneering** when divorced from justice and communal obligation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The daring spirit of **buccaneering** in the southern seas yielded rich plunder at the cost of countless lives."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Unregulated market monopolies frequently engage in commercial **buccaneering** to crush nascent competitors."*

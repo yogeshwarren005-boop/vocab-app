@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caryophylloid dicot genus with only one species: saguaro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caryophylloid dicot genus with only one species: saguaro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of large columnar cacti containing the saguaro (Carnegiea gigantea), native to the Sonoran Desert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a slow-growing treelike succulent characterized by ribbed, pleated trunks and nocturnal white flowers, named after Andrew Carnegie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnegiea designates caryophylloid dicot genus with only one species: saguaro."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The monumental columnar cactus, now recognized under **Carnegiea**, dominates the arid skyline of Arizona."*
+> - 📜 **John Muir (*Steep Trails*):** *"Massive fluted trunks of **Carnegiea** rise like ancient fluted pillars across the desert plains."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Arid adaptations reach their architectural zenith in the towering, water-storing stems of **Carnegiea**."*

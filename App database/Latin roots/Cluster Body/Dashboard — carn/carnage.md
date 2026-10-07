@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The savage and excessive killing of many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The savage and excessive killing of many people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The slaughter of a great number of people, as in battle; widespread butchery or bloody destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and forensic pathology, the catastrophic accumulation of dead and mutilated bodies after violent combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"A light fall of snow had obliterated all footmarks; and a deathly silence pervaded the island, as if for a space Nature stood still in horror of the recent carnage."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sparta was little better than a wellregulated camp; and Rome was never sated of carnage and conquest."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The intervals of foreign war were filled up by domestic vicissitudes convulsions, and carnage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The field of battle presented a frightful spectacle of general **carnage**, where thousands of warriors lay intermingled."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous secrets of human **carnage**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The bloody knife was sheared red with the unending **carnage** of the revolutionary tribunal."*

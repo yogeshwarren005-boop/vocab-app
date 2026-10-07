@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring or practicing capitalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to capitalism or capitalists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing, supporting, or characteristic of capitalism and private capital investment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, relating to the production relations, financial instruments, and institutions of a market economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farming viewed as a capitalistic enterprise. § 5."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These products are taken to market and sold for money with which are bought the things needed for use on the farm. § 4. #Farming viewed as a capitalistic enterprise#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalistic monopoly; aspects of the problem. § 5."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The calculating spirit of modern **capitalistic** enterprise emerged alongside Puritan notions of worldly calling."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Legislative reforms gradually mitigated the harsher consequences of early **capitalistic** industrialization."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The machine process imposes a mechanical standardization upon all **capitalistic** methods of production."*

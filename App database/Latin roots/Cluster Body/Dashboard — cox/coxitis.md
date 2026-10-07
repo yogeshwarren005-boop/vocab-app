@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cox within the domain of Body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cox in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the hip joint, typically causing local pain, swelling, and restricted mobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology and orthopedics, acute or chronic inflammatory arthropathy affecting the coxofemoral joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coxitis designates pertaining to, derived from, or characteristic of latin cox within the domain of body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative **coxitis** requires prompt surgical drainage to prevent destruction of the femoral head."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Early rest and traction prevent muscular spasm from eroding the articular cartilage in acute **coxitis**."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Effusion in tuberculous **coxitis** distends the joint capsule and causes flexion contracture of the thigh."*

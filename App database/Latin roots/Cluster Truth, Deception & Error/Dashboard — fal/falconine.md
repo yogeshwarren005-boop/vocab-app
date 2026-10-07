@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a falcon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a falcon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a falcon; predatory, sharp-eyed, and swift in flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the subfamily *Falconinae*, the true falcons within the family Falconidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falconine designates relating to or resembling a falcon."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The sharp **falconine** bill with its prominent cutting notch is supremely adapted for snapping the neck vertebrae of prey."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In true **falconine** species, the primary wing quills are pointed and rigid, built for sustained aerial speed."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The bird displays a fierce **falconine** aspect with dark eyes encircled by bright yellow skin."*

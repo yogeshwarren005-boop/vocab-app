@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling falstaff.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling falstaff.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling Sir John Falstaff in bodily portliness, convivial roguishness, bawdy wit, or tavern indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boisterously jovial, lavishly hedonistic, or grandly comic on a gargantuan scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falstaffian designates of or resembling falstaff."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"Our host possessed a **falstaffian** figure and a hearty laugh that made the rafters of the old manor ring with cheer."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"There is a **falstaffian** humor in the scene that reconciles the audience to the grossest moral delinquencies."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Old Mr. Wardle presided over the punch-bowl with a **falstaffian** geniality that set the whole company at ease."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved like a sickle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved like a sickle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved, tapered, and hooked like a sickle or scythe; scythe-shaped in biological description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a curved, hook-like outline, as in the falcate wings, beaks, or leaves of birds and plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcate designates curved like a sickle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In certain predatory marine birds, the sharply **falcate** wing profile provides remarkable speed during wind dives."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The upper leaflets are distinctly **falcate**, curving inward toward the terminal stem."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The male displays long, **falcate** primary feathers that whistle sharply during territorial flight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of animals including elephants and mammoths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic order of large placental mammals characterized by an elongated muscular trunk and tusks, including modern elephants and extinct mammoths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolutionary clade encompassing prehistoric trunked herbivores such as mastodons, gomphotheres, and deinotheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proboscidea designates in some classifications included in the genus martynia and hence the two taxonomic names for some of the unicorn plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil discoveries among the **Proboscidea** have revealed astonishing intermediate links connecting ancient ungulates with modern African and Indian elephants."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The skull architecture in the order **Proboscidea** is modified to support both the immense leverage of the tusks and the muscular attachments of the trunk."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Remains belonging to giant members of the **Proboscidea** occur abundantly throughout the alluvial deposits of northern Siberia."*

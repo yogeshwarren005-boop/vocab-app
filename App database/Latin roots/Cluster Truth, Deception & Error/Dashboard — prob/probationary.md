@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or undergoing a provisional period of evaluation or testing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to conditions of satisfactory future conduct or performance before final confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A practical inference from the whole is,--that the present life must be regarded as probationary."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If souls proved entirely unworthy during the probationary or human period, they were cast back into the brute creation to try it over again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such appointments are made for a probationary term of six months, when if the Board of Examiners approve the incumbent is continued."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nor does it at all diminish the curiousness of this matter, that to many thousands of our rural boys and young men, a whaling voyage offers the only **probationary** entrance into maritime life."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her uncle considered the initial months of their engagement as an essential **probationary** interval for both young people."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He agreed to serve in the counting-house on a **probationary** footing before signing articles of regular partnership."*

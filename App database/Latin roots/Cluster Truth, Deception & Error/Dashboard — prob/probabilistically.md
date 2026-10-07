@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the use of probability theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the use of probability theory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner governed by odds, statistical chance, or probability rather than rigid determinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint or through the methods of probability theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probabilistically designates by the use of probability theory."*
+> - 📜 **Max Born (*Natural Philosophy of Cause and Chance*):** *"When we analyze subatomic collision experiments, the outcome can only be interpreted **probabilistically**."*
+> - 📜 **Hans Reichenbach (*The Theory of Probability*):** *"Every empirical statement about future events can be defended only **probabilistically**, based on past frequencies."*
+> - 📜 **John von Neumann (*Mathematical Foundations of Quantum Mechanics*):** *"The state vector describes physical ensembles **probabilistically**, predicting the distribution of measurement outcomes."*

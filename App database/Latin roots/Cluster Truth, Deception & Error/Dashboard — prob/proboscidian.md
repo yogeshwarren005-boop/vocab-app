@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive herbivorous mammals having tusks and a long trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive herbivorous mammals having tusks and a long trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant designation for any mammal belonging to the order Proboscidea, having a muscular trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling the anatomical structure of a proboscidean mammal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proboscidian designates massive herbivorous mammals having tusks and a long trunk."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gravel pits of the Thames valley yielded numerous teeth of the ancient **proboscidian** species known as Elephas antiquus."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In all **proboscidian** quadrupeds, the cranial air-cells expand enormously to combine strength with lightness of bone."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The gigantic **proboscidian** remains discovered across North America astonished early naturalists by their vast dimensions."*

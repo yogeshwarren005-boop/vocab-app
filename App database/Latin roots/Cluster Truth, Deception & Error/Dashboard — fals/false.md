@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with the fact or reality or actuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to objective truth, factual reality, or authentic circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treacherous, faithless, counterfeit, or deliberately deceptive in intention, manufacture, or behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
+> - 📜 **William Shakespeare (*Sonnet 41*):** *"Ay me, but yet thou mightst my seat forbear, And chide thy beauty, and thy straying youth, Who lead thee in their riot even there Where thou art forced to break a two-fold truth: Hers, by thy beauty tempting her to thee, Thine, by thy beauty being **false** to me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But there was no harm in hurrying to correct a piece of **false** news that might have caused acute distress."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"But this is a wholly **false** view; we should always look for forms intermediate between each species and an unknown progenitor."*

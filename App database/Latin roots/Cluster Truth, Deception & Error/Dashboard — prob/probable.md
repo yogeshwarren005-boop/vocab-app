@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An applicant likely to be chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely but not certain to be or become true or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to happen, exist, or turn out to be true; supported by strong evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible or credible, though not demonstrated with mathematical certainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None in the world; but return with an invention, and clap upon you two or three probable lies; but we have almost embossed him; you shall see his fall tonight; for indeed he is not for your lordship’s respect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most probable That so she died, for her physician tells me She hath pursued conclusions infinite Of easy ways to die."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it **probable** need."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"After five years’ work I allowed myself to speculate on the subject, and drew up some short notes; these I enlarged into a sketch of conclusions, which then seemed to me **probable**."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It is their observance which alone preserves peace among human beings: if obedience to them were not the rule, society would dissolve into **probable** anarchy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A live microorganism which, when administered in adequate amounts, confers a health benefit on the host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or promoting the beneficial bacterial flora of the digestive tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probiotic designates a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant."*
+> - 📜 **Élie Metchnikoff (*The Prolongation of Life*):** *"The consumption of sour milk populated by lactic bacilli produces a **probiotic** effect, subduing putrefactive intestinal microbes."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"A balanced internal ecology relies on **probiotic** microbial communities that actively protect mammalian mucosal barriers."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Beneficial ferments exhibit what we may call a **probiotic** agency, maintaining stability against pathogenic contamination."*

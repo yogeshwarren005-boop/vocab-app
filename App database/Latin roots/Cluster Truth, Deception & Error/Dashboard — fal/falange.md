@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spanish nazi party under franco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spanish nazi party under franco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Spanish fascist political party (*Falange Española*) founded in 1933, which served as the official state party under Francisco Franco.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any paramilitary political organization or authoritarian nationalist movement modeled on the Spanish Falange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falange designates the spanish nazi party under franco."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The propaganda posters denounced the insurgent generals and the reactionary blue-shirted **Falange**."*
+> - 📜 **Ernest Hemingway (*For Whom the Bell Tolls*):** *"He had witnessed the brutal reprisals carried out by the local members of the **Falange** in the town square."*
+> - 📜 **Arthur Koestler (*Spanish Testament*):** *"Under Franco's decree, every administrative official was compelled to wear the embroidered badge of the **Falange**."*

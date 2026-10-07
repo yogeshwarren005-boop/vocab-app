@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of never making an error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of never making an error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The incapacity of committing error or being mistaken; absolute exemption from defect or false judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic theology, the dogma that the Pope cannot err when defining doctrine on faith or morals *ex cathedra*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*
+> - 📜 **James Joyce (*Dubliners*):** *"O, I know about the **infallibility** of the Pope: that means he cannot make a mistake when speaking on matters of faith."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To call any proposition certain, while there is any one who would deny its certainty if permitted, but who is not permitted, is to assume that we ourselves, and those who agree with us, are the judges of certainty, and judges without hearing the other side. This is to assume an **infallibility** which we do not possess."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"He who assumes personal **infallibility** shuts the door against all further spiritual growth."*

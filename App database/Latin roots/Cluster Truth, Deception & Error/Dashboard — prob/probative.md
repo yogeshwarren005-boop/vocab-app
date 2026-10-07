@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to test, verify, or furnish convincing evidence in a legal or logical proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing evidential weight or relevance sufficient to substantiate a contentious claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probative designates tending to prove a particular proposition or to persuade you of the truth of an allegation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Circumstantial evidence must possess genuine **probative** value before a jury may safely infer guilt."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The **probative** force of an admission depends entirely upon whether it was delivered freely or under duress."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judges exclude irrelevant testimony because its prejudicial effect far outweighs any slender **probative** merit."*

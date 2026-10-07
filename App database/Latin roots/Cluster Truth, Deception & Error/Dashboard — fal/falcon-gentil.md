@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Female falcon especially a female peregrine falcon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Female falcon especially a female peregrine falcon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic historical name for the female peregrine falcon, prized as the noblest bird in falconry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The full-grown, trained female falcon of noble lineage in traditional Anglo-Norman hawking treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcon-gentil designates female falcon especially a female peregrine falcon."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The lady rode forth upon her palfrey, bearing a hooded **falcon-gentil** upon her gloved wrist."*
+> - 📜 **Juliana Berners (*The Boke of Saint Albans*):** *"An emperor hath an eagle, but a prince rideth with a noble **falcon-gentil**."*
+> - 📜 **Michael Drayton (*Poly-Olbion*):** *"The haughty **falcon-gentil** mounted into the sky, watching the mallard rise from the reed beds."*

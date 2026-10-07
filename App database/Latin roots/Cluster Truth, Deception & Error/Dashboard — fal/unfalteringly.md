@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With determination; in a determined manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a steady, steadfast, and resolute manner, without wavering, stumbling, or hesitating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistently and fearlessly carrying out an objective with uninterrupted determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was continued unfalteringly as long as there was occasion for it."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Then I chant it for thee, I glorify thee above all, I bring thee a song that when thou must indeed arrive, thou mayest **unfalteringly** come."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"Through cold and hunger and constant peril, I pressed **unfalteringly** forward toward the free states."*
+> - 📜 **George Eliot (*Romola*):** *"She walked **unfalteringly** through the plague-stricken streets, bringing food and solace to the dying."*

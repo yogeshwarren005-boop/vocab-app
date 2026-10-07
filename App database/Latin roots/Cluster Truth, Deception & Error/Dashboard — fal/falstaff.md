@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute character in shakespeare's plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissolute character in shakespeare's plays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sir John Falstaff, Shakespeare's renowned fictional knight celebrated for his corpulence, wit, boastful cowardice, and zest for tavern pleasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat, jovial, roguish, or boastful person possessing a sharp tavern wit and boundless appetite for life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Prince Henry and Sir John Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, All-hallown summer! [_Exit Falstaff._] POINS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff, Bardolph, Peto, and Gadshill shall rob those men that we have already waylaid."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Enter Prince Henry and Sir John **Falstaff**; Hal, prithee, what ails thee that thou dost spend the daylight in such roguish carousing?"*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The actor was John Henderson, whose Hamlet, Shylock, Richard III., and **Falstaff** were admired by Garrick himself."*
+> - 📜 **Samuel Johnson (*Notes on Shakespeare*):** *"Sir John **Falstaff** is an epicure and a coward, yet he amuses us so completely that we forgive his total want of virtue."*

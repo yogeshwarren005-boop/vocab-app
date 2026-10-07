@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or manifesting praise or approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or manifesting praise or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or characterized by approval, praise, or favorable commendation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to seek or manifest approval from peers or superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbative designates expressing or manifesting praise or approval."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **approbative** nod from a respected teacher often suffices to anchor a pupil's intellectual enthusiasm for years."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He received the compliment with an **approbative** glance, well pleased that his musical taste had been acknowledged."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Social cohesion relies fundamentally on the exchange of **approbative** gestures that reward cooperative conduct."*

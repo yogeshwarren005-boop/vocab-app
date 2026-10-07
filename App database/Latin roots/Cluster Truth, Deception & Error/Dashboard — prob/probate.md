@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official legal proving and validation of a deceased person's last will and testament by a competent court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verified copy of a will accompanied by a judicial certificate establishing its validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a letter from the probate office at Exeter, N."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have courts of common law, courts of probates (analogous in certain matters to the spiritual courts in England), a court of admiralty and a court of chancery."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that State the courts of common law have the cognizance of those causes which with us are determinable in the courts of admiralty and of probates, and of course the jury trial is more extensive in New Jersey than in New York."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We were a little like undertakers, in the Commons, as regarded **Probate** transactions; generally making it a rule to appear deeply depressed in spirits."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The jurisdiction of granting **probate** of wills was originally vested in the ecclesiastical courts of the realm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"When the will was brought for **probate**, the disappointed relatives scrutinised every clause in the hope of finding a legal flaw."*

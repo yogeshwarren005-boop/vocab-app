@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved like a sickle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved like a sickle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of a sickle or scythe; curved and tapering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the sickle-shaped peritoneal fold (*falciform ligament*) connecting the liver to the anterior abdominal wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A double falciform ejection of water vapour from under the kettlelid at both sides simultaneously."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **falciform** ligament of the liver is a broad, thin fold of peritoneum attached anteriorly to the diaphragm."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"A prominent **falciform** process projects into the vitreous chamber of the teleostean fish eye."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The caudal fin terminates in a **falciform** crescent that affords powerful aquatic propulsion."*

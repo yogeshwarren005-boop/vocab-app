@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice with artificially high tones in an upper register.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially high; above the normal voice range.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of voice production used especially by male singers to sound notes higher than their natural vocal range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificially high-pitched or shrill speaking voice resembling or imitating the upper singing register.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And you rolling to bed and shouting like chanticleer, ‘Sing cucu, sing cucu, cucu nu nu cucu, sing cucu, sing cucu, sing cucu, sing cucu.’” He mocked me with the senseless refrain in an ear-jangling falsetto."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to diminish its sonorousness to a thin falsetto."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After midnight the voice of a clock seems to lose in breadth as much as in length, and to develop a thin **falsetto** ticking that pierces the dark."*
+> - 📜 **James Joyce (*Dubliners*):** *"Did Mr Tierney say when he’d be back?” he asked in a husky **falsetto**."*
+> - 📜 **Herman Melville (*Redburn*):** *"His natural tone was gruff, yet he occasionally squeaked in a shrill **falsetto** that provoked burst after burst of laughter from the crew."*

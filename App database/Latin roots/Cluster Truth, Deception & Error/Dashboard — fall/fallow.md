@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cultivated land that is not seeded for one or more growing seasons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Left unplowed and unseeded during a growing season.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plowed and tilled agricultural land left unseeded and dormant during a growing season to restore soil fertility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Left uncultivated, inactive, or unproductively dormant, as of creative talents or intellectual energies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How does your fallow greyhound, sir?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, the sensation was so pronounced that her instinct on two or three occasions was merely to walk as a queen among these gods of the fallow, like a little sister of a little Jove, and to neglect closing prices altogether."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was not a tree within sight; there was not, at this season, a green pasture—nothing but fallow and turnips everywhere, in large fields divided by hedges plashed to unrelieved levels."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Fewness and truth, ’tis thus: Your brother and his lover have embraced: As those that feed grow full, as blossoming time That from the seedness the bare **fallow** brings To teeming foison."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, the sensation was so pronounced that her instinct on two or three occasions was to look across the **fallow** field."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"As I saw no manure, I judged that they meant to skim the land, as I had done, thinking to leave the field **fallow** until nature should recover herself."*

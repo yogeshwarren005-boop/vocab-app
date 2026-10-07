@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or based on a fallacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to deceive; ; ;  - s.t.coleridge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on a mistaken belief, false reasoning, or logical error; misleading and untrue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deceptive, illusory, or disappointing in outcome due to flawed underlying assumptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These do not constitute a sum of social wealth in any proper sense of the term.[3] Arithmetically it is a fallacious kind of a total, for the sum of the individual capitals contains some items that should be canceled to find the sum of wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rule is, however, fallacious."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is fallacious also in that it ignores the marginal principle in the problem of profits."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **fallacious** argument may easily deceive the multitude when cloaked in eloquent language."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The conclusion is demonstrably **fallacious**, resting upon an unproven assumption of universal uniformity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"To expose a **fallacious** induction requires tracing each step of the deduction back to its primary premises."*

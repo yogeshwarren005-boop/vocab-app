@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheap showy jewelry or ornament on clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheap showy jewelry or ornament on clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of frivolous, showy, or worthless decorative finery, ribbon, or trinket in women's dress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superficial, trivial, or affected ornamentation in personal attire or domestic furnishings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallal designates cheap showy jewelry or ornament on clothing."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She spent her morning shopping for ribbons, laces, and every foolish **fallal** that took her eye."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty cared more for a bright ribbon or a sparkling **fallal** than for all the sermons in the parish."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Lucetta's Parisian gown was adorned with fashionable **fallals** that astonished the sober townspeople."*

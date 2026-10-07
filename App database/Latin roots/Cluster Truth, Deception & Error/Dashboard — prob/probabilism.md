@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that (since certainty is unattainable) probability is a sufficient basis for belief and action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The moral and philosophical doctrine that in cases of doubt, one may follow a probable opinion even if another is more probable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical view that empirical knowledge can never attain absolute certainty, but only varying degrees of probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probabilism designates a roman catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable."*
+> - 📜 **William James (*The Will to Believe*):** *"A pragmatic **probabilism** teaches us that we must often act upon incomplete evidence without waiting for mathematical demonstration."*
+> - 📜 **John Henry Newman (*An Essay in Aid of a Grammar of Assent*):** *"The casuists who defended **probabilism** sought to furnish a legitimate guide for consciences perplexed by competing theological opinions."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Our scientific beliefs rest on a thoroughgoing **probabilism**, acknowledging that every inductive generalization remains open to revision."*

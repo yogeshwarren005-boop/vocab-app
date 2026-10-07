@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete and confirmed integrity; having strong moral principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete and confirmed integrity; having strong moral principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncompromising moral integrity, uprightness, and steadfast honesty in all dealings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proven fidelity to ethical principles, rectitude, and strict adherence to truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy; but he will vouch for the good conduct, the probity and honour, of his friend, and is perfectly convinced that Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, it may fairly be supposed, that there would be less difficulty in gaining some of the jurors promiscuously taken from the public mass, than in gaining men who had been chosen by the government for their probity and good character."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I urge this not because I doubt the moral probity of those who disburse the funds, but because I know that they are not rightly applied."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The buccaneer on the wave might relinquish his calling and become at once if he chose, a man of **probity** and piety."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"In those extraordinary circumstances the Press was paralysed into **probity** and accuracy; and the rest of this story will be recorded with fidelity."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No wealth can compensate for the loss of personal **probity**, which alone commands universal respect."*

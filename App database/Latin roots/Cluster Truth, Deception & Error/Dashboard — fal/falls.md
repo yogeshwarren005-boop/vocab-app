@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The petals or sepals of a flower that bend downward (especially the outer perianth of an iris).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steep descent of the water of a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drops downward or descends involuntarily from a higher level under the pull of gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plural noun designating a waterfall, cataract, or steep cascade of water over a rocky precipice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by your leave, hold your hands; though I know his brains are forfeit to the next tile that falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you shall find yourself to be well thank’d, Whate’er falls more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iras falls and dies._] Have I the aspic in my lips?"*
+> - 📜 **William Shakespeare (*Sonnet 124*):** *"No it was builded far from accident, It suffers not in smiling pomp, nor **falls** Under the blow of thralled discontent."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably some one man on an average **falls** in love with each ordinary woman."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We cannot doubt that each structure is of use to each kind of squirrel, when it **falls** from high trees in escaping from birds or beasts of prey."*

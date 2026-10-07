@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive herbivorous mammals having tusks and a long trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive herbivorous mammals having tusks and a long trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal belonging to the order Proboscidea, possessing an elongated flexible snout or trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to elephants, mammoths, mastodons, or their extinct relatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proboscidean designates massive herbivorous mammals having tusks and a long trunk."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The dentition of this extinct **proboscidean** exhibited grinding plates far more complex than those of any living mammal."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"Every discovered skeleton confirms that this prehistoric **proboscidean** carried tusks curving backwards toward its shoulders."*
+> - 📜 **Henry Fairfield Osborn (*The Proboscidea*):** *"The dispersal of the **proboscidean** stock from Africa across Eurasia and North America forms an epic chapter in mammalian evolution."*

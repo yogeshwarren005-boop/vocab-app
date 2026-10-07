@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who breeds and trains hawks and who follows the sport of falconry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who breeds and trains hawks and who follows the sport of falconry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who trains, flies, or breeds falcons and hawks for the sport of hunting wild quarry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer historically maintained in a royal household to supervise the royal mews and hawking birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a falconer’s voice To lure this tassel-gentle back again."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The ravening hawk pursuing, The trembling dove thus flies, To shun impelling ruin, Awhile her pinions tries; Till, of escape despairing, No shelter or retreat, She trusts the ruthless Falconer, And drops beneath his feet."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Agatha's nunnery, And the firs at "The Ferngrove" fled on the right, And "Falconer's Tower" on the left took flight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As when a **falconer** halts beneath the cliff, watching his soaring hawk descend upon the lure."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The master **falconer** sounded his horn to summon the attendants as the mallard took wing."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He stood motionless in the twilight, resembling an old **falconer** scanning the darkening sky."*

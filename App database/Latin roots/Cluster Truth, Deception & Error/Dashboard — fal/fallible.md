@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to fail or make errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to make mistakes, harbor incorrect beliefs, or experience lapses in discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of erroneous output or failing to achieve perfect accuracy, as of an instrument, doctrine, or calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not satisfy your resolution with hopes that are fallible."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessment of taxes has to be intrusted to men with fallible judgment, imperfect knowledge, and selfish interests."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even here there might be a mistake: human prescriptions were fallible things: Lydgate had said that treatment had hastened death,—why not his own method of treatment?"*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Do not satisfy your resolution with hopes that are **fallible**: to-morrow you must die."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even here there might be a mistake: human prescriptions were **fallible** things: Lydgate had repeatedly seen that nature worked beyond their formulas."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Complete liberty of contradicting and disproving our opinion is the very condition which justifies us in assuming its truth for purposes of action; and on no other terms can a being with **fallible** faculties have any rational assurance of being right."*

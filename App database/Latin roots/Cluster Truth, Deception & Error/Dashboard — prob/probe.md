@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender surgical instrument used for exploring the depth and direction of a wound or cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thorough, penetrating physical or intellectual inquiry into a hidden or difficult matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"From Estella she looked at me, with a searching glance that seemed to pry into my heart and probe its wounds."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've only been on this job a couple of days, so I couldn't probe to any meaningful depth." He heaved a deep sigh."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know, of course, that you're undergoing psychic probe."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The elephant uses his tusks in attacking the tiger; according to Bruce, he scores the trunks of trees until they bleed, and then inserts his trunk like a **probe**."*
+> - 📜 **Bram Stoker (*Dracula*):** *"However, after a while I came away; my friend is just a little too sane at present to make it safe to **probe** him too deeply."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes used every subtle question as a surgical **probe** to uncover the hidden motives of the country gentleman."*

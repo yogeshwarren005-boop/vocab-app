@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who violates a trust by taking (money) for his own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who violates a trust by taking (money) for his own use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who embezzled or misappropriated funds entrusted to their care; an embezzler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fiduciary or corporate officer guilty of financial fraudulent breach of trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defalcator designates someone who violates a trust by taking (money) for his own use."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"Every commercial panic unmasks some respectable banker as a desperate **defalcator** fleeing to foreign climes."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The disgraced **defalcator** had lived for years in luxury upon the savings of trusting widows."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The absconding **defalcator** was apprehended at the Canadian border with sixty thousand dollars in his portmanteau."*

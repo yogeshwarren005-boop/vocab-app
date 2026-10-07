@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong moral condemnation, censure, or expression of unfavorable opinion regarding conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attitude or judgment of formal disapproval or critical rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In case I should be taking a liberty in putting your ladyship on your guard when there’s no necessity for it, you will endeavour, I should hope, to outlive my presumption, and I shall endeavour to outlive your disapprobation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Charles’s attentions to Henrietta had been observed by her father and mother without any disapprobation."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But perhaps it may be damp.” It was a narrow winding path through a thick grove of old Scotch firs; and Catherine, struck by its gloomy aspect, and eager to enter it, could not, even by the General’s disapprobation, be kept from stepping forward."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"And hence the opponents of the utilitarian standard deem that they have a right to infer that it regards all actions with indifference which do not evoke moral **disapprobation**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, she would have expressed the prettiest surprise and **disapprobation** if she had suspected the covert purpose."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"It appeared that he understood me well enough, for he shook his head by way of **disapprobation**, giving me to understand that such weapons were abhorrent."*

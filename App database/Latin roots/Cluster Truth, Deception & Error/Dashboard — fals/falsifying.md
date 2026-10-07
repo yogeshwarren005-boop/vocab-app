@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining that something is false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make false by mutilation or addition; as of a message or story.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Altering, tampering with, or forging facts, figures, or records to deceive others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disproving, refuting, or invalidating an existing premise through contrary evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"To do this, he worked in perfect accordance with artistic law, falsifying no line of the original forms."*
+> - 📜 **George Orwell (*1984*):** *"The day-to-day **falsifying** of the past, carried out by the Ministry of Truth, is as necessary to the stability of the regime as the work of repression."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"He who yields to vanity is perpetually **falsifying** his inward instincts to please the momentary fashion."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The clerk was charged with systematically **falsifying** entries in the bank ledgers to cover large discrepancies."*

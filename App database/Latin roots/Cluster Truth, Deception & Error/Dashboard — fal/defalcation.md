@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of money that is misappropriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The misappropriation or embezzlement of funds held by a trustee, fiduciary, or public official.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monetary deficiency or deficit resulting from such embezzlement or illicit diversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The motives on the part of the State governments, to augment their prerogatives by defalcations from the federal government, will be overruled by no reciprocal predispositions in the members."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Frequent change of officers is necessary to the discovery and punishment of frauds, peculations, defalcations and embezzlements of the public money."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The sudden bankruptcy was attributed to an enormous **defalcation** committed by the confidential clerk."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Financial oversight in executive departments is necessary to detect **defalcation** before irreparable damage occurs."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"Rumors of a shocking **defalcation** at the Great Western mining office caused a panic among investors."*

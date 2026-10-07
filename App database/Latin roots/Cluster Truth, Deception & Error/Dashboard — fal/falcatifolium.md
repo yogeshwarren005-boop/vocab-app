@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Southern Hemisphere coniferous trees and shrubs (*Falcatifolium*) characterized by distinctly curved, sickle-shaped leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The podocarp taxonomic genus native to Southeast Asia, New Guinea, and New Caledonia, growing in tropical mountain rainforests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcatifolium designates sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped leaves; similar to dacrycarpus in habit; malaysia and philippines to new guinea and new caledonia."*
+> - 📜 **David J. de Laubenfels (*Flora Malesiana*):** *"Species of **Falcatifolium** are distinguished by their uniquely dimorphic foliage and sickle-shaped lateral leaves."*
+> - 📜 **Leonard Cockayne (*The Vegetation of New Zealand*):** *"Fossil impressions allied to **Falcatifolium** occur in the Tertiary strata of the southern landmasses."*
+> - 📜 **Joseph Dalton Hooker (*Icones Plantarum*):** *"The sharply curved foliage of **Falcatifolium** resembles a curved miniature scythe blade attached to the twig."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that bloom during the autumn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that bloom during the autumn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering or producing blossoms during the autumn season rather than in spring or summer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing autumnal horticultural varieties, such as fall asters, chrysanthemums, and autumn crocuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fall-blooming designates of plants that bloom during the autumn."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For late autumn borders, several **fall-blooming** crocuses provide vibrant violet color when other flowers have vanished."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **fall-blooming** witch-hazel opens its yellow ribbons of petals amid the dropping November leaves."*
+> - 📜 **John Burroughs (*Signs and Seasons*):** *"In sheltered forest hollows, the modest **fall-blooming** gentian braves the early morning frosts."*

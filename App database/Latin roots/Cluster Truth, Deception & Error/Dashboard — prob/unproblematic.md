@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy and not involved or complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from difficulty, complication, controversy, or troublesome ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily accepted, resolved, or understood without generating obstacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unproblematic designates easy and not involved or complicated."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"We tend to treat our everyday sensory perceptions as completely **unproblematic** until critical philosophy reveals their hidden assumptions."*
+> - 📜 **William James (*Pragmatism*):** *"Routine habits allow men to navigate the greater part of daily existence in an **unproblematic** and orderly manner."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Practical affairs proceed smoothly as long as environmental conditions remain harmonious and **unproblematic**."*

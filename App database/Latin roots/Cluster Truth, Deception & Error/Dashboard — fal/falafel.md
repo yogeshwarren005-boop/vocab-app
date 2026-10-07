@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Middle Eastern dish of spiced mashed chickpeas or fava beans formed into balls or patties and deep-fried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street food snack typically served inside pita bread with tahini sauce, salad, and pickles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falafel designates small croquette of mashed chick peas or fava beans seasoned with sesame seeds."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"In Cairo, itinerant vendors fry small spicy patties of crushed beans known as **falafel** in boiling oil."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"In the bustling bazaars of Damascus, the pungent aroma of sizzling **falafel** filled the narrow alleys."*
+> - 📜 **Freya Stark (*The Southern Gates of Arabia*):** *"The market crowd gathered around open cauldrons where fresh **falafel** was served piping hot upon rounds of flat bread."*

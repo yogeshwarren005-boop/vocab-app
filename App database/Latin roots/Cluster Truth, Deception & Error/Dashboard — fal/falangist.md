@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish member of general franco's political party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish member of general franco's political party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member, partisan supporter, or military fighter of the Spanish fascist Falange party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the authoritarian, corporate, and nationalist ideology of Falangism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falangist designates a spanish member of general franco's political party."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Across the valley, a **Falangist** sniper fired intermittent rifle rounds toward our parapet."*
+> - 📜 **Ernest Hemingway (*The Spanish Earth*):** *"The villagers stood watchful against any surprise raid from the armed **Falangist** patrols."*
+> - 📜 **Hugh Thomas (*The Spanish Civil War*):** *"Every prominent **Falangist** leader claimed to represent the authentic revolutionary spirit of Primo de Rivera."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trial period during which your character and abilities are tested to see whether you are suitable for work or for membership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trial period during which an offender has time to redeem himself or herself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of testing or trial during which a person's conduct, character, or abilities are evaluated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal justice, the suspension of a prison sentence subject to good behavior under official supervision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And of the truth herein This present object made probation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, in probation of a sisterhood, Was sent to by my brother; one Lucio As then the messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me to see’t, or at the least so prove it, That the probation bear no hinge nor loop To hang a doubt on, or woe upon thy life!"*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"This gentleman, whom I call Polydore, Most worthy prince, as yours, is true Guiderius; This gentleman, my Cadwal, Arviragus, Your younger son; and this, by **probation**, will I make apparent."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Let us buy our entrance to this guild by a long **probation**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"It was settled that I should begin my month’s **probation** as soon as I pleased, and that my aunt need neither repent nor be committed."*

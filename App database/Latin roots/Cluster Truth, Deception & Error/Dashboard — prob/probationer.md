@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nurse in training who is undergoing a trial period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone released on probation or on parole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A candidate, novice, or appointee undergoing a trial period before permanent confirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical practice, a licensed theological student seeking formal ordination or placement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Hall session of 1844 was Cairns's last, and the next step for him to take in ordinary course was to apply to a Presbytery for license as a probationer."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These formed the official creed of the Church, and assent to them was exacted from all its ministers, probationers, and elders."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The animal is the novice and **probationer** of a more advanced order."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Reuben Butler had completed his divinity curriculum and was now an approved **probationer** of the Presbytery."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"As a young **probationer** in the foreign pensionnat, she had to endure the constant scrutiny of Madame Beck."*

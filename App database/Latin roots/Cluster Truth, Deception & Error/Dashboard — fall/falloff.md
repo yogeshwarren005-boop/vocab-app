@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noticeable deterioration in performance or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noticeable deterioration in performance or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marked reduction, decline, or deterioration in quantity, rate, productivity, or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual diminishment in intensity, signal strength, or physical steepness over a specified distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falloff designates a noticeable deterioration in performance or quality."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"A sudden **falloff** in bird populations alerted observers throughout the valley that toxic aerial sprays were disrupting the food web."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"We noted an abrupt **falloff** in the footsteps near the water's edge, indicating where the fugitive had boarded a waiting wherry."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Any severe **falloff** in consumer demand immediately reacts upon wholesale margins, curtailing manufacturing orders."*

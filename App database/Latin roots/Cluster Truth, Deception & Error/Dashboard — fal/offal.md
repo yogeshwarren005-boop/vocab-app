@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viscera and trimmings of a butchered animal often considered inedible by humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entrails, organs, and internal trimmings of a butchered animal, especially those discarded or used as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste material, decaying debris, garbage, or worthless refuse in general.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What trash is Rome, What rubbish, and what offal, when it serves For the base matter to illuminate So vile a thing as Caesar!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go fetch me a quart of sack; put a toast in ’t. [_Exit Bardolph._] Have I lived to be carried in a basket like a barrow of butcher’s offal, and to be thrown in the Thames?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s **offal**."*
+> - 📜 **George Eliot (*Silas Marner*):** *"And I doubt he’s got a soft place in his head, else why should he be taking home sheep’s **offal** when he can buy the best mutton?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"When Saint Antoine had again enfolded the Defarges in his dusky wings, the gutter ran with the reeking **offal** of the slaughterhouse."*

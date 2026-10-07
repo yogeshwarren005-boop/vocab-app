@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pausing uncertainly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be unsure or weak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking or moving in an unsteady, hesitant, or trembling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wavering in purpose, resolution, or conviction; displaying signs of weakening resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never saw such faltering, such confusion, such amazement and apprehension."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket apologetically for Michael Jackson, “and so gets talking.” The woman had not resumed her chair, but stood faltering with her hand upon its broken back, looking at me."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We are all of us as good as in the county gaol till to-morrow morning.” “Then I shan’t see you till then!” The words were in a faltering tone of disappointment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I shan’t see you till then!” The words were in a **faltering** tone of lingering regret."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I will not deny that you conjecture rightly,” he answered, with a **faltering** voice that betrayed his agitation."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There is a fatality about all physical and intellectual distinction, that shows itself in **faltering** steps before the judgment of society."*

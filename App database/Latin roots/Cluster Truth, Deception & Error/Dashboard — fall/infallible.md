@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of failure or error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of failure or error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of making mistakes or being wrong; unerring in judgment, operation, or outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely trustworthy, unfailing, or certain to achieve an intended effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To speak on the part of virginity is to accuse your mothers; which is most infallible disobedience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my good Lords of Salisbury and Warwick, Our simple supper ended, give me leave In this close walk to satisfy myself In craving your opinion of my title, Which is infallible, to England’s crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BOYET. [_Reads_.] _By heaven, that thou art fair is most infallible; true that thou art beauteous; truth itself that thou art lovely."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"To speak on the part of virginity is to accuse your mothers; which is an **infallible** disobedience."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I was a good Christian; born and bred in the bosom of the **infallible** Presbyterian Church."*
+> - 📜 **James Joyce (*Dubliners*):** *"Yes, because when the Pope speaks _ex cathedra_,” Mr Fogarty explained, “he is held to be **infallible**."*

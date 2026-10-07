@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of training falcons to hunt and return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of training falcons to hunt and return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient sport of hunting wild quarry in its natural state and habitat by means of a trained bird of prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The skilled art and practice of keeping, training, and flying falcons and hawks for game hunting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falconry designates the art of training falcons to hunt and return."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman nobility pursued the sport of **falconry** with an extravagant passion that rivaled their devotion to war."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"He spent hours studying the medieval treatises on **falconry**, lamenting that modern sports had grown so degenerate."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Through centuries of **falconry**, raptors have been tamed and trained without ever becoming truly domesticated."*

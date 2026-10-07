@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of birds of the order falconiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of birds of the order falconiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family of diurnal raptorial birds (*Falconidae*), comprising falcons, kestrels, hobbies, and caracaras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taxonomic family characterized by sharp hooked bills, tomial teeth on the upper mandible, and rapid powered flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falconidae designates a family of birds of the order falconiformes."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The skull of the **Falconidae** exhibits marked desmognathous features distinguishing them from typical accipitrines."*
+> - 📜 **Frank M. Chapman (*Handbook of Birds of Eastern North America*):** *"Members of the family **Falconidae** kill their prey primarily with the beak rather than crushing it in the talons."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"In the **Falconidae**, the outer toe is not reversible and the nostrils are typically circular with a central tubercle."*

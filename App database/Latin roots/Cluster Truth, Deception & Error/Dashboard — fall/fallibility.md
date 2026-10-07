@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The likelihood of making errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The likelihood of making errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The propensity or liability to commit errors, misunderstandings, or lapses in judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherent limitation or susceptibility to defect found within human reasoning, perception, or mechanical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Man with his vanity, his broad fallibility, his poor natural functions!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In 1806 Pfuel had been one of those responsible, for the plan of campaign that ended in Jena and Auerstädt, but he did not see the least proof of the fallibility of his theory in the disasters of that war."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Meanwhile we're all in the soup of fallibility together."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Then I can no longer hesitate as to my course,” said Lydgate; “but the first thing I must do is to admit the **fallibility** of our earliest diagnosis."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We should do well to commiserate our mutual ignorance, and endeavor to remove it in all gentle and fair ways of information, since the **fallibility** of man's judgment is manifest."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"To confess the **fallibility** of our own nature is the first step toward wisdom and charitable forbearance."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to believe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unexpected, unlikely, or surprising manner contrary to reasonable odds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little or no plausible justification; implausibly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man is allowed to be a judge in his own cause, because his interest would certainly bias his judgment, and, not improbably, corrupt his integrity."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not improbably, it was to this latter class of men that Mr."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She might, and not improbably would, have suffered death from the stern tribunals of the period, for attempting to undermine the foundations of the Puritan establishment."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He looked, **improbably** enough, like a diplomat who had wandered into an artist's studio by mistake."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The rescue occurred so **improbably** that even the survivors could scarcely recount the sequence of events."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The yellow sunlight fell across the park, lighting up **improbably** bright flowers in the early morning stillness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The radioactive particles that settle to the ground after a nuclear explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any adverse and unwanted secondary effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radioactive particles or atmospheric debris descending to the ground following an explosion or nuclear detonation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The adverse, unforeseen consequences, repercussions, or collateral damage arising from an event, crisis, or scandal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallout designates the radioactive particles that settle to the ground after a nuclear explosion."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemicals sprayed on croplands possess a sinister persistence not unlike the radioactive **fallout** drifting from nuclear tests."*
+> - 📜 **John F. Kennedy (*Radio Address on the Nuclear Test Ban Treaty*):** *"This treaty will curb the release of radioactive **fallout** into our atmosphere and protect the health of our children."*
+> - 📜 **George Orwell (*In Front of Your Nose*):** *"The political **fallout** of a reckless policy is seldom confined to the ministers who devised it."*

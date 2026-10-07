@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsteady manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsteady manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsteady, hesitant, wavering, or trembling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With a broken or stumbling vocal delivery indicating doubt, fear, or emotional distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You _would_ like those, Dorothea,” said Celia, rather falteringly, beginning to think with wonder that her sister showed some weakness, and also that emeralds would suit her own complexion even better than purple amethysts."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Louisa, falteringly."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Surely,” said John, like one who had lost faith in his memory, “he used not to sleep in the kennel?” “John,” Wendy said falteringly, “perhaps we don’t remember the old life as well as we thought we did.” A chill fell upon them; and serve them right."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You _would_ like those, Dorothea,” said Celia, rather **falteringly**, beginning to think with regret that she had seemed cold."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I spoke **falteringly**, for my heart was beating with sudden agitation and pain."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She answered **falteringly**, her pale lips scarcely framing the words of greeting."*

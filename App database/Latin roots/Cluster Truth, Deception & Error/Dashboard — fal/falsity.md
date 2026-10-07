@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false statement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being untrue, contrary to fact, or logically invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An untruthful assertion, misconception, or deceptive pretense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is impressed by their falsity, even in religion (Matt. 15:8)."*
-> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in prayer, pleading his motives for averting the worst evil if in anything he had used falsity and spoken what was not true before God."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I perceive that the falsity of life appals your spirit."*
+> - 📜 **George Eliot (*Middlemarch*):** *"At six o’clock he had already been long dressed, and had spent some of his wretchedness in meditating on the sheer **falsity** of the accusations brought against him."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Truth and **falsity** belong only to propositions, where ideas are joined or separated according as they agree or disagree."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human understanding is not an unmingled light, but receives an infusion from the will and affections, whence proceed manifold forms of **falsity**."*

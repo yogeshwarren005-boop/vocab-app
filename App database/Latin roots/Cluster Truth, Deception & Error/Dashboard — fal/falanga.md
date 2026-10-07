@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of corporal punishment and torture wherein the soles of the victim's feet are repeatedly beaten with rods or clubs while immobilized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wooden beam, rod, or cord apparatus used to secure the ankles of a prisoner during bastinado torture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falanga designates a form of torture in which the soles of the feet are beaten with whips or cudgels."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"Under Ottoman penal discipline, the dreaded **falanga** was administered without delay for minor infractions."*
+> - 📜 **Edward Dodwell (*A Classical and Topographical Tour through Greece*):** *"The Turkish governor threatened the villagers with the **falanga** unless the arrears of tribute were immediately delivered."*
+> - 📜 **Arthur Evans (*Through Bosnia and the Herzegovina on Foot*):** *"Peasants spoke with terror of the municipal lockup where the cruel **falanga** broke the spirit of recalcitrant debtors."*

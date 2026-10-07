@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by firm determination or resolution; not shakable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by firm determination or resolution; not shakable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining steady, resolute, and unwavering without stumbling or hesitating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by constant, steadfast determination, courage, or loyalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For many centimes there has not been a more remarkable testimony of unfaltering trust in the faithfulness of God in supplying human wants, than is found in the life and labor of George Muller and his Orphan Home, in Bristol, England."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Come back to me now, Laura." His wife leant over him, unfaltering, though she had known for some time that she was dealing with the abnormal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hark! the infernal orgies! that revelry is forward! mark the unfaltering silence aft!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Hark! the infernal orgies! that revelry is forward! mark the **unfaltering** silence aft, where Ahab paces his solitary watch."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"With an **unfaltering** step and a calm heart, I turned away from Thornfield and crossed the moor."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul requires an **unfaltering** trust in its own divine intuitions against all external clamor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be true or to occur or to have occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to happen, be true, or be realized; contrary to ordinary expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking credibility or plausibility; hard to believe or account for logically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Jo’s improbable story concerning the lady and the sovereign has awakened more or less the curiosity of all the company."*
-> - 📜 **Jane Austen (*Persuasion*):** *"If there is anything in my story which you know to be either false or improbable, stop me."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"If this were played upon a stage now, I could condemn it as an **improbable** fiction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Hence the supposed aboriginal stocks must either still exist in the countries where they were first domesticated, or they must have become extinct, which seems highly **improbable**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Also, by the way, that it is extremely **improbable** that he has gas laid on in his house."*

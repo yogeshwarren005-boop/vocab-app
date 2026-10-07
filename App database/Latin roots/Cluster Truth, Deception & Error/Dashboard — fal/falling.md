@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dropping, descending, or collapsing from a higher to a lower position under gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declining in strength, cadence, volume, moral status, or market value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar must think, When one so great begins to rage, he’s hunted Even to falling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To do thus [_Falling on his sword._] I learned of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see—what think you of falling in love?"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Caesar must think, When one so great begins to rage, he’s hunted Even to **falling**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A group or two of the latest in date amongst the dead multitude had relaxed from **falling** back into utter oblivion."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Yet the common herd, including the herd of writers, not only in newspapers and periodicals, but in books of weight and pretension, are perpetually **falling** into this shallow misconception."*

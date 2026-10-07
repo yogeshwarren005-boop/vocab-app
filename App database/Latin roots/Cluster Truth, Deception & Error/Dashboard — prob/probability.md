@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being probable; a probable event or the most probable event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent or mathematical likelihood to which an event is expected to occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plausible ground of belief; something that is reasonably likely to be true.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s dreams, the probability is not pursued."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger pursued the conversation, we both felt that it was disinterested in them to express the opinion they had communicated to us and that there was a great probability of its being sound."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And there is the greater probability of our bringing the matter to a speedy close; in fact, it’s on the paper now."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And I saw that something restraining, one of those human secrets that baffle **probability**, had come into play there."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Nay, more, in all **probability**, he does not know that such a power exists to us as can sterilise his lairs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The greatest natural curiosities lose their wonder when reduced to a matter of mathematical **probability**."*

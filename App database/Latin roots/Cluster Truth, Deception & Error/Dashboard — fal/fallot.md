@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physician who described cardiac anomalies including fallot's tetralogy (1850-1911).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French physician Arthur Fallot, who published the definitive clinical description of cyanotic congenital heart disease in 1888.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the tetralogy of Fallot, a congenital heart defect characterized by four distinct structural abnormalities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallot designates french physician who described cardiac anomalies including fallot's tetralogy (1850-1911)."*
+> - 📜 **Helen Taussig (*Congenital Malformations of the Heart*):** *"The clinical syndrome classically outlined by **Fallot** in 1888 consists of ventricular septal defect, pulmonary stenosis, right ventricular hypertrophy, and overriding aorta."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The morbid anatomy in cyanosis was first systematically synthesized by **Fallot**, distinguishing it from simple patent ductus."*
+> - 📜 **Alfred Blalock (*Surgical Treatment of Malformations of the Heart*):** *"In cases presenting the anatomical triad or tetrad of **Fallot**, arterial shunt construction offers notable physiologic relief."*

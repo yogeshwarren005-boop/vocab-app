@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Question or examine thoroughly and closely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine physically with or as if with a probe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Searching into thoroughly, penetrating beneath the surface, or interrogating deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physically exploring a wound, cavity, or tissue using a slender surgical rod.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"The Universe, cleft to the core, Lay open to my probing sense That, sick'ning, I would fain pluck thence But could not,--nay!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"What did they say, then, of the disappearance of these gems?” “They are still sounding the planking and probing the furniture in the hope of finding them.” “Have they thought of looking outside the house?” “Yes, they have shown extraordinary energy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must now go on to other probing and design new confrontations from which the UIPS will be forced to retreat."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"They are still sounding the planking and **probing** the furniture in the hope of finding them."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"So Roger Chillingworth—the man of skill, the kind and friendly physician—strove to go deep into his patient’s bosom, **probing** everything with a cautious hand."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate continued his **probing** questions until the reluctant patient confessed the true source of his malady."*

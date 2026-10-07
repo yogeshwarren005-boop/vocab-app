@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Result of a fallacy or error in reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Result of a fallacy or error in reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deceptive, misleading, or logically unsound nature of an argument or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstrated falsity or deceitfulness of an opinion, deduction, or philosophical doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallaciousness designates result of a fallacy or error in reasoning."*
+> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"The transparent **fallaciousness** of the ministerial defense was exposed by the simplest examination of facts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Experience soon reveals the bitter **fallaciousness** of youthful daydreams and exaggerated hopes."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The **fallaciousness** of the socialist premise becomes apparent when we measure its effects on individual industry."*

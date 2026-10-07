@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To break off a military action with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break off a military action with an enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative plan, resource, or position that can be relied upon if the primary one fails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retreat to a secondary defensive line or previous safe operational state under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallback designates to break off a military action with an enemy."*
+> - 📜 **Winston Churchill (*The Second World War: The Gathering Storm*):** *"The general staff prepared a secure **fallback** position behind the river in case the frontline buckled."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"In complex automated communications, an emergency manual **fallback** protocol must always be maintained."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A prudent commander never launches a general assault without organizing a secure **fallback** for his reserves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An untruthful statement, deceitful assertion, or deliberate lie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treachery, unfaithfulness, or the deliberate practice of deception and bad faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*
+> - 📜 **William Shakespeare (*Sonnet 48*):** *"How careful was I when I took my way, Each trifle under truest bars to thrust, That to my use it might unused stay From hands of **falsehood**, in sure wards of trust!"*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"According to the other doctrine, right and wrong, as well as truth and **falsehood**, are questions of observation and experience."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred was keen enough to foresee that anger would confuse distinctions, and that however much he had suffered from his father's harshness, he could not shelter himself behind a **falsehood**."*

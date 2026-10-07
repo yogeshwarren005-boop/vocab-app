@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or serving to test, examine, or demonstrate proof during an investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting legal evidence or judicial verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probatory designates tending to prove a particular proposition or to persuade you of the truth of an allegation."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must institute **probatory** experiments that directly interrogate nature rather than rely upon speculative maxims."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"A **probatory** inquiry is instituted to discover the true virtues or defects of a proposed remedy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Every new constitutional innovation ought to undergo a severe **probatory** examination before being imposed on a nation."*

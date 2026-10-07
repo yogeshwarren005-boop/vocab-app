@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfaithfulness by virtue of being unreliable or treacherous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of untruthfulness, deceitfulness, or lack of factual accuracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Faithlessness, disloyalty, or counterfeit unreliability in character or composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I suffered day and night, and nothing relieved me until Science proved to me the falseness of this belief by removing it."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But to stigmatise these premises as ridiculous because we can easily detect their falseness, would be ungrateful as well as unphilosophical."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She said yes to his question, and then despised herself for the falseness of her answer."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Yea, let them say, to stick the heart of **falseness**, as false as Cressid."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"False facts are highly injurious to the progress of science, for they often endure long; but false views, if supported by some evidence, do little harm, as every one takes a salutary pleasure in proving their **falseness**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **falseness** of an assertion becomes evident whenever its constituent ideas are shown to contradict universal observation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tested (verified or falsified) by experiment or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being tested (verified or falsified) by experiment or observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tested and proven incorrect, refuted, or empirically contradicted by observable counter-evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to invalidation or disproof through reproducible experiment or logical scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falsifiable designates capable of being tested (verified or falsified) by experiment or observation."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"In so far as a scientific statement speaks about reality, it must be **falsifiable**: and in so far as it is not **falsifiable**, it does not speak about reality."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"A hypothesis that cannot be tested by any conceivable observation and is in no sense **falsifiable** ceases to belong to empirical science."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Scientific claims are powerful not because they claim eternal certainty, but because they remain persistently **falsifiable** against new fossil evidence."*

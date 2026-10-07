@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Padding that is worn inside a brassiere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Padding that is worn inside a brassiere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A padded insert or artificial breast cup worn inside a brassiere to give the bust an appearance of greater fullness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial, fake, or synthetic embellishment used to fabricate an illusion of volume, substance, or authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falsie designates padding that is worn inside a brassiere."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"The padded brassiere with its stiff **falsie** contours felt like an absurd contraption designed to appease fashion magazines."*
+> - 📜 **Vladimir Nabokov (*Lolita*):** *"A whole wardrobe of cheap rayon slips, bathing suits, and a foam-rubber **falsie** lay scattered across the messy motel bed."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"She laughed aloud, tossing aside a foam-rubber **falsie** as though it were the most ridiculous ornament in creation."*

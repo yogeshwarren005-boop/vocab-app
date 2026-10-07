@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short broad slightly convex medieval sword with a sharp point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short broad slightly convex medieval sword with a sharp point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, slightly curved, single-edged medieval sword with a heavy cleaver-like blade designed for hacking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical short slashing sword widely used by foot soldiers and archers in Western Europe from the thirteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have seen the day, with my good biting falchion I would have made them skip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Queen Margaret saw Thy murd’rous falchion smoking in his blood, The which thou once didst bend against her breast, But that thy brothers beat aside the point."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I have seen the day, with my good biting **falchion** I would have made them skip."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"His broad **falchion** hung by his side, ready for the bloody work of the border raid."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With waves of his flaming **falchion**, the archangel cleft the murky darkness of the abyss."*

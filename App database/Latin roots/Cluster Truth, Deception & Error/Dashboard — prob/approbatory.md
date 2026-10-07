@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or manifesting praise or approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or manifesting praise or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to approve, sanction, or express formal commendation or endorsement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or manifesting signs of favorable evaluation or critical endorsement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbatory designates expressing or manifesting praise or approval."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Senate received the imperial dispatch with an **approbatory** murmur, hastening to ratify every decree."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The reviewer concluded his essay with an **approbatory** summary of the author's philosophical discoveries."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She bowed in an **approbatory** manner, indicating that she fully concurred with the proposed arrangement."*

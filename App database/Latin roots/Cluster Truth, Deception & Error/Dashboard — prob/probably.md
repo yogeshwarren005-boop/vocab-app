@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With considerable certainty; without much doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy to believe on the basis of available evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In all likelihood; with substantial plausibility or high chance of occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As is reasonably expectable based on current observations and general experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Most original of all is Mäzli, probably not over six, as she is too young to go to school."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She probably heard in school about the country, and her wish to go there only shows that she is extremely attentive."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother explained to him, however, that grandmother and grandchild were probably fast asleep by that time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The girl on the summit of the load sat motionless, surrounded by tables and chairs with their legs upwards, **probably** thinking of her strange new dwelling."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A being of higher faculties requires more to make him happy, is capable **probably** of more acute suffering, and certainly accessible to it at more points, than one of an inferior type."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I may add, that when under nature the conditions of life do change, variations and reversions of character **probably** occur."*

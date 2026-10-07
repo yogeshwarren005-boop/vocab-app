@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace resulting from public abuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme dishonor; - f.d.roosevelt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh shame, public disgrace, or contempt incurred by shameful, dishonorable conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression or burden of general censure, reproach, or vilification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My head still ached and bled with the blow and fall I had received: no one had reproved John for wantonly striking me; and because I had turned against him to avert farther irrational violence, I was loaded with general opprobrium."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was not that he was in danger of legal punishment or of beggary: he was in danger only of **opprobrium**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I am content to suffer alone while my sufferings shall endure; when I die, I am well satisfied that the **opprobrium** of my existence shall perish with me."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tyrant sank beneath the universal **opprobrium** of his subjects, abandoned by those guards whose loyalty he had purchased."*

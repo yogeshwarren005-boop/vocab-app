@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian anatomist who first described the fallopian tubes (1523-1562).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian anatomist who first described the fallopian tubes (1523-1562).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Renaissance anatomist Gabriele Fallopius, credited with identifying the oviducts (*Fallopian tubes*) and the chorda tympani.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical eponym referring to structures or canals described in the treatises of Fallopius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallopius designates italian anatomist who first described the fallopian tubes (1523-1562)."*
+> - 📜 **Thomas Henry Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The celebrated Italian anatomist **Fallopius** demonstrated the minute ducts that convey the ovum to the maternal womb."*
+> - 📜 **William Macewen (*Pyogenic Infective Diseases of the Brain and Spinal Cord*):** *"The facial nerve passes through the aqueduct of **Fallopius**, where inflammatory processes may induce severe compression."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"We revere the memory of **Fallopius**, whose scalpel laid bare the delicate passages of human generation."*

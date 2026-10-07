@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being improbable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being improbable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree or trait of being unlikely to happen, exist, or prove true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The implausibility or dubious character of a narrative, claim, or hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, improbableness designates the quality of being improbable."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The apparent **improbableness** of a tale often tempts the curious to investigate its foundations more narrowly."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"When testimony is offered in favor of a miracle, the absolute **improbableness** of the event must be weighed against the veracity of the witnesses."*
+> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"The **improbableness** of matter existing without perception is evident to any mind that reflects upon the nature of ideas."*

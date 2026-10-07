@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Female falcon especially a female peregrine falcon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Female falcon especially a female peregrine falcon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for the female peregrine falcon, regarded in medieval chivalric falconry as the ideal hunting bird for nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trained adult female falcon distinguished for docility, bravery, and magnificent stooping flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcon-gentle designates female falcon especially a female peregrine falcon."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Hist! Romeo, hist! O for a falconer's voice, to lure this tassel-gentle back again! A royal **falcon-gentle** could not fly more swiftly."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The squire took great delight in explaining the ancient points of a prime **falcon-gentle**."*
+> - 📜 **Walter Scott (*The Monastery*):** *"He stroked the silken plumage of his **falcon-gentle** while waiting for the gamekeeper's call."*

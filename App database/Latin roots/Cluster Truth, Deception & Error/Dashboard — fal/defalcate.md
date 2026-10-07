@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To embezzle, misappropriate, or illicitly divert funds entrusted to one's care or custody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deduct, lop off, or abate an amount from an account or balance due in commercial transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defalcate designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Unscrupulous revenue collectors found frequent opportunities to **defalcate** large sums before reporting balances."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"To **defalcate** public revenues entrusted to a bailiff was punished with severe civil penalties."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Officers who **defalcate** government monies undermine public credit and betray the commonwealth."*

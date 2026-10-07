@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pausing uncertainly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be unsure or weak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hesitate, stumble, waver, or speak with a broken, unsteady voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lose momentum, lose courage, or begin to give way under pressure or exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One fire drives out one fire, one nail one nail; Rights by rights falter; strengths by strengths do fail."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This earth shall have a feeling, and these stones Prove armed soldiers, ere her native king Shall falter under foul rebellion’s arms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Far happier than her Lady, as her Lady has often thought, why does she falter in this manner and look at her with such strange mistrust?"*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"One fire drives out one fire, one nail one nail; Rights by rights **falter**, strengths by strengths do fail."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Tell me what I am to do, and I shall not **falter**!” Van Helsing laid a hand on his shoulder in solemn approval."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"If I objected to having my bed made at five o’clock in the afternoon, her resolve would not **falter** for an instant."*

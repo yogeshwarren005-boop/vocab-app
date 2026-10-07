@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diurnal birds of prey having long pointed powerful wings adapted for swift flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hunt with falcons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bird of prey of the genus *Falco*, having pointed wings and swift flight, historically trained for hunting small game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peregrine falcon or any allied diurnal raptor renowned for high-speed predatory aerial dives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the ox hath his bow, sir, the horse his curb, and the falcon her bells, so man hath his desires; and as pigeons bill, so wedlock would be nibbling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what a point, my lord, your falcon made, And what a pitch she flew above the rest!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No marvel, an it like your majesty, My Lord Protector’s hawks do tower so well; They know their master loves to be aloft, And bears his thoughts above his falcon’s pitch."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A **falcon**, towering in her pride of place, was by a mousing owl hawked at and killed."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"She looked like a proud **falcon** stooping from the blue heaven upon her quarry."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sky-hawk flitted down with the fierce eye of a hungry **falcon** skimming the white crests."*

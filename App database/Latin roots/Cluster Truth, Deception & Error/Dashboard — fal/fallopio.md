@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian anatomist who first described the fallopian tubes (1523-1562).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian anatomist who first described the fallopian tubes (1523-1562).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gabriele Falloppio, the 16th-century Italian anatomist renowned for discovering the uterine tubes, the facial canal, and early clinical condom prophylaxis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or designated by the anatomical observations and eponyms established by Gabriele Falloppio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallopio designates italian anatomist who first described the fallopian tubes (1523-1562)."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"In the great anatomical tradition of Padua, **Fallopio** stood beside Vesalius as an unmatched observer of minute bodily tissues."*
+> - 📜 **Charles Singer (*A Short History of Anatomy from the Greeks to Harvey*):** *"The descriptions given by **Fallopio** of the auditory canal and uterine conduits transformed surgical awareness in the Renaissance."*
+> - 📜 **Fielding H. Garrison (*An Introduction to the History of Medicine*):** *"Among sixteenth-century investigators, **Fallopio** was celebrated for his generous nature and acute precision in dissecting cranial nerves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of falconidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of falconidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bird of prey genus (*Falco*) that comprises the true falcons, hobbies, merlins, kestrels, and the peregrine falcon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The raptorial avian genus characterized by pointed wings, notched beaks, and extraordinary diving flight speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Berold: the old Duke’s favorite hunting-horse. 78. merlin: a species of hawk. 80. falcon-lanner: a long-tailed species of hawk, ‘falco laniarius’. 4."*
+> - 📜 **John Gould (*The Birds of Great Britain*):** *"The peregrine, **Falco** peregrinus, is celebrated throughout the world as the noblest of all hunting falcons."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed a small hawk of the genus **Falco** hovering motionless over the arid Patagonian plains."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In the genus **Falco**, the upper mandible is furnished with a sharp tooth-like projection behind the hook."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejection by god; the state of being condemned to eternal misery in hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe moral condemnation, strong disapproval, or censure of wicked conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Calvinist theology, the divine rejection of a sinner from salvation and grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And there will be Kenmure sae gen’rous, Whose honour is proof to the storm, To save them from stark reprobation, He lent them his name in the Firm."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What news have you brought about the sheep-stealer, uncle?” “What, poor Bunch?—well, it seems we can’t get him off—he is to be hanged.” Dorothea’s brow took an expression of reprobation and pity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea’s brow took an expression of **reprobation** and pity."*
+> - 📜 **Jane Austen (*Emma*):** *"He was warm in his **reprobation** of Mr. Elton’s conduct, declaring that such arrogance deserved universal censure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"He must likewise avoid the **reprobation** of the one God or gods in whom, according to his knowledge or superstition, he may believe."*

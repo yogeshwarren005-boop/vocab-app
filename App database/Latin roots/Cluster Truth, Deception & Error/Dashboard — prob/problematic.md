@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or presenting a difficult challenge, uncertainty, or doubtful outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disputable, open to question, or lacking definitive evidential support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The whole thing is too problematic; I cannot consent to be the cause of your goodness being wasted."*
-> - 📜 **James Joyce (*Ulysses*):** *"What rendered problematic for Bloom the realisation of these mutually selfexcluding propositions?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"But the younger men who were relatives or connections of the family, were disposed to admire her in this **problematic** light."*
+> - 📜 **William James (*Pragmatism*):** *"Every new hypothesis begins as a **problematic** suggestion that must establish its practical value through experimental testing."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The relation between immediate sense-data and the physical object remains a profoundly **problematic** issue in metaphysics."*

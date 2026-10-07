@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish composer and pianist (1876-1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish composer and pianist (1876-1946).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Manuel de Falla or his musical compositions celebrating Spanish folklore, flamenco rhythm, and national impressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the vibrant Iberian musical style and orchestration pioneered by Spanish composer Manuel de Falla.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falla designates spanish composer and pianist (1876-1946)."*
+> - 📜 **Ernest Newman (*More Essays from the World of Music*):** *"In Nights in the Gardens of Spain, Manuel de **Falla** achieved an evocative synthesis of Andalusian folk melody."*
+> - 📜 **Cecil Gray (*A Survey of Contemporary Music*):** *"The rhythmic vitality of **Falla** rescues modern Spanish music from mere salon picturesque decoration."*
+> - 📜 **Constant Lambert (*Music Ho! A Study of Music in Decline*):** *"Few modern orchestral scores glitter with such diamond clarity as the ballets of **Falla**."*

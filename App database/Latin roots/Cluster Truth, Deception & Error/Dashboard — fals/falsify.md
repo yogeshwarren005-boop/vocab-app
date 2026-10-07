@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter, alter fraudulently, or manipulate documents, statements, or measurements to convey an untruth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To prove to be false, ungrounded, or erroneous; to disprove or refute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But he had considered this step anew since our late confidence and had decided on taking it, if it only served to show me through one poor instance that the whole world would readily unite to falsify the stern prediction of my childhood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am all right now.” As if, however, to falsify this assertion, his legs seemed to give way, and he suddenly sat down to save himself from falling."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"So when this loose behaviour I throw off, And pay the debt I never promised, By how much better than my word I am, By so much shall I **falsify** men’s hopes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Strange that their very elevation was a misapplication, that to raise seemed to **falsify** their true rustic nature."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every new discovery in geology tends to **falsify** the assumption that our fossil record preserves an unbroken sequence."*

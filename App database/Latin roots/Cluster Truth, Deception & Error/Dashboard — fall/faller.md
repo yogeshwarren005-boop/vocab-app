@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who falls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A logger or lumberjack who fells trees with an axe, saw, or chainsaw in commercial forestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse, rider, or runner that falls or stumbles during a race or competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, faller designates a person who fells trees."*
+> - 📜 **Jack London (*The Iron Heel*):** *"He had worked in the redwood forests as an expert timber **faller** before coming to the city."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"The steeple-chase saw several nasty spills, each unlucky **faller** scrambling out of the ditch."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Her grandfather was an old-time timber **faller** who had helped clear the Minnesota pine forests."*

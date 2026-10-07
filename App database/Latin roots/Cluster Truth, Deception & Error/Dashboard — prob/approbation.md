@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official recognition or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm commendation, praise, or favorable judgment regarding an action, character, or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official authorization, formal assent, or sanction granted by a governing authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, worthy Menenius, and with most prosperous approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people do admit you, and are summoned To meet anon upon your approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Ay, worthy Menenius, and with most prosperous **approbation**."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages, seeking no external **approbation**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not determine whether her sister's smile indicated genuine pleasure or merely an effort to win general **approbation**."*

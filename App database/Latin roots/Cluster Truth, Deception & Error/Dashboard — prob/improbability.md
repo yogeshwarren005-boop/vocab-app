@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being improbable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being improbable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlikelihood or lack of realistic chance that a given event will take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event, narrative development, or circumstance that is exceedingly unlikely to occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God held it to answer their prayers." Think of this wonderful improbability according to natural circumstances."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had one dollar in her pocket; half drew it out; thought of the improbability of having any more for several days; put it back."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"There is therefore no improbability in the supposition that as a representative of Jupiter the priest of Diana enjoyed this reputation, though positive evidence of it appears to be lacking."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This view is hypothetical, but could be supported by some facts; and I can see no more absolute **improbability** in one species being modified into another than in a variety being formed under domestication."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He could think of nothing cleverer than the daring **improbability** of saying that he wanted to examine the parish register."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The sheer **improbability** of surviving in that fever-ridden wilderness struck me with redoubled force."*

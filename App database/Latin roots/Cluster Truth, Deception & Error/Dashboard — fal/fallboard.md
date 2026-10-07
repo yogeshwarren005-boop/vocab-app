@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hinged protective covering that protects the keyboard of a piano when it is not being played.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hinged wooden board or cover that folds down to conceal and protect the keys of a piano or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piano lid constructed to drop smoothly over the keyboard to prevent dust accumulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallboard designates the hinged protective covering that protects the keyboard of a piano when it is not being played."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"He lifted the polished **fallboard** of the upright piano and touched a tentative chord in the quiet salon."*
+> - 📜 **George Bernard Shaw (*London Music in 1888-89*):** *"With a resounding crash, the enraged maestro slammed the **fallboard** shut and stalked off the stage."*
+> - 📜 **Willa Cather (*Lucy Gayheart*):** *"She lowered the **fallboard** gently so as not to awaken her sleeping aunt in the adjacent room."*

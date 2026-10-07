@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without moral scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reject (documents) as invalid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unprincipled, morally depraved individual devoid of ethical restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejected by God or cast out from divine grace; unprincipled, corrupt, or worthless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If drawing my sword against the humour of affection would deliver me from the reprobate thought of it, I would take desire prisoner, and ransom him to any French courtier for a new-devised curtsy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if we do omit This reprobate till he were well inclined, And satisfy the Deputy with the visage Of Ragozine, more like to Claudio?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By reprobate desire thus madly led, The Roman lord marcheth to Lucrece’ bed."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"If drawing my sword against the humour of affection would deliver me from the **reprobate** thought of it, I would have done it ere now."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"It is obvious, that the members of the same tribe would approve of conduct which appeared to them to be for the general good, and would stigmatise as **reprobate** all that was detrimental."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And here let those Who boast in mortal things, and wondering tell Of Babel, and the works of Memphian kings, Learn how their greatest monuments of fame, And strength, and art, are easily outdone By Spirits **reprobate**."*

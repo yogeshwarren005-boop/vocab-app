@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The human nose (especially when it is large).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long flexible snout as of an elephant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elongated, flexible snout or trunk of an animal, especially an elephant or tapir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elongated, tubular sucking mouthpart found in certain insects, worms, or gastropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Another very common mode of sacrifice in the same district was to fasten the victim to the proboscis of a wooden elephant, which revolved on a stout post, and, as it whirled round, the crowd cut the flesh from the victim while life remained."*
-> - 📜 **James Joyce (*Ulysses*):** *"SOPHIST WALLOPS HAUGHTY HELEN SQUARE ON PROBOSCIS."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Thus it might be a great advantage to the hive-bee to have a slightly longer or differently constructed **proboscis**."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"His face was composed and occupied, but his nose-tip still had the air of being the most mobile part of his face, twitching like a small **proboscis**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The elephant carries his magnificent **proboscis** with a graceful dexterity that no human mechanical instrument can rival."*

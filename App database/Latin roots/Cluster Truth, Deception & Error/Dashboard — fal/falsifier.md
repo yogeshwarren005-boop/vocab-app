@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who falsifies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who falsifies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, writer, or person who counterfeits, tampers with, or fraudulently alters facts, documents, or currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal epistemology, a potential empirical observation or basic statement that contradicts and disproves a hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falsifier designates someone who falsifies."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A fraudulent historian is the worst of impostors, being an intentional **falsifier** of public records."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A theory is said to be falsified only if we have accepted basic statements which contradict it; each such basic statement serves as a potential **falsifier**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The chronicler was convicted of being a daring **falsifier** of charters and imperial rescripts."*

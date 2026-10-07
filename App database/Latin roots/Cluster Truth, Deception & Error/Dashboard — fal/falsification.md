@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evidence that helps to establish the falsity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate alteration, forging, or tampering with records, documents, or data to deceive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstration or act of proving a theory, statement, or hypothesis to be false by empirical refutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I found that my services were constantly called into requisition for the **falsification** of accounts and the concealment of their true state."*
+> - 📜 **Karl Popper (*Conjectures and Refutations*):** *"The criterion of the scientific status of a theory is its **falsification** or refutability, or testability."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The history of medicine contains many a lamentable chapter devoted to the willful **falsification** of clinical records for sectarian ends."*

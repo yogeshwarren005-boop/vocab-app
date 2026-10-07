@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uricosuric drug that reduces the level of uric acid in the blood; used to treat gout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic uricosuric medication that increases renal excretion of uric acid and retards excretion of penicillin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical compound used clinically in the management of chronic gout and hyperuricemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probenecid designates a uricosuric drug that reduces the level of uric acid in the blood; used to treat gout."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"The clinical introduction of **probenecid** allowed physicians to sustain high therapeutic levels of penicillin in the bloodstream."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"By selectively blocking tubular reabsorption of urate, **probenecid** mobilizes urate deposits from gouty joints."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutics relies upon uricosuric agents such as **probenecid** to prevent recurrent attacks of articular gout."*

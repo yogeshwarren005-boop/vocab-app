@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable hind toe: falcons; hawks; eagles; ospreys; caracaras; vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable hind toe: falcons; hawks; eagles; ospreys; caracaras; vultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An avian taxonomic order of diurnal birds of prey comprising the falcons and caracaras (*Falconidae*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical ornithological order that formerly embraced hawks, eagles, and vultures alongside falcons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falconiformes designates chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable hind toe: falcons; hawks; eagles; ospreys; caracaras; vultures."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Fossil raptors referable to the order **Falconiformes** appear in early Eocene deposits of North America and Europe."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Comparative osteology separates the true **Falconiformes** from the Accipitriformes with increasing phylogenetic confidence."*
+> - 📜 **Alexander Wetmore (*A Systematic Classification for the Birds of the World*):** *"Our classification restricts the **Falconiformes** to those raptors characterized by true falconine cranial structures."*

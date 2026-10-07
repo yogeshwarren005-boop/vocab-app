@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of difficulty that needs to be resolved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A question raised for consideration or solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A difficult situation, question, or obstacle that demands careful analysis and resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposition in mathematics, physics, or chess proposed for systematic solution or proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She told him of the problem she had with Bruno's further education, because the lessons he had been having from the Rector would end in the fall, and of her firm intention of keeping him from living together with his two present comrades."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Every one of the children had a problem to bring to her, but there was so little time left to-day that they had to be put off till to-morrow."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I must tell you something else." Uncle Philip seemed to be rather glad to pass quickly over the hard problem."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The light from the water-bottle was merely engaged in a chromatic **problem**."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"From the dawn of philosophy, the question concerning the _summum bonum_, or, what is the same thing, concerning the foundation of morality, has been accounted the main **problem** in speculative thought."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He had risen out of his drug-created dreams and was hot upon the scent of some new **problem**."*

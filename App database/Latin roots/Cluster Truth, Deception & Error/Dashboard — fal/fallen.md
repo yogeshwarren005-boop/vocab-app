@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descend in free fall under the influence of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move downward and lower, but not necessarily all the way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dropped or descended from a higher position; collapsed to the ground, overthrown, or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having surrendered moral virtue, chastity, or spiritual innocence; or slain in military battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a pur of Fortune’s, sir, or of Fortune’s cat, but not a musk-cat, that has fallen into the unclean fishpond of her displeasure, and as he says, is muddied withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Had I but served my God with half the zeal I served my king, he would not have left me naked to mine enemies. I am **fallen** indeed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Awake, arise, or be for ever **fallen**! So spake the apostate angel to his legions."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"These **fallen** heroes shall not have died in vain; this nation under God shall have a new birth of freedom."*

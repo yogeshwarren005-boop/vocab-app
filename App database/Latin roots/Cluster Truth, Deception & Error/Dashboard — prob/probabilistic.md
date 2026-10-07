@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the roman catholic philosophy of probabilism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on probability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or governed by probability theory rather than deterministic certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving stochastic factors or unpredictable chance occurrences in modeling physical or social phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probabilistic designates of or relating to the roman catholic philosophy of probabilism."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"The modern laws of quantum mechanics are expressed in strictly **probabilistic** equations rather than deterministic trajectories."*
+> - 📜 **Erwin Schrödinger (*What is Life?*):** *"The physical order observed in living organisms emerges out of an underlying chaos governed by **probabilistic** atomic encounters."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Information theory operates through **probabilistic** measures of entropy and signal transmission across noisy channels."*

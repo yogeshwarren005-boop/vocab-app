@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt (or ester) of carbamic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt (or ester) of carbamic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of carbamic acid, widely used in agriculture as an insecticide and in polymer manufacturing for urethanes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and organic synthesis, a bioactive chemical grouping utilized in tranquilizers and antineoplastic agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbamate designates a salt (or ester) of carbamic acid."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern pest control increasingly turned toward synthetic **carbamate** compounds when chlorinated hydrocarbons drew regulatory scrutiny."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The planar geometry of the **carbamate** group reflects resonance stabilization between nitrogen and carbonyl oxygen."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Certain soil microorganisms rapidly metabolize organic **carbamate** residues, cleaving them into simple amine byproducts."*

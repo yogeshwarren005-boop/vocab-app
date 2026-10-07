@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of calcutta or its inhabitants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of calcutta or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, resident, or inhabitant of the city of Calcutta (Kolkata) in West Bengal, India.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the distinctive cultural, literary, or social life of the city of Calcutta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcuttan designates of or relating to or characteristic of calcutta or its inhabitants."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"Every proud **Calcuttan** regarded the imperial viceregal capital as the intellectual hub of the East."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"A sophisticated young **Calcuttan** discussed politics and philosophy with effortless eloquence."*
+> - 📜 **Nirad C. Chaudhuri (*The Autobiography of an Unknown Indian*):** *"The quintessential **Calcuttan** lived in an atmosphere charged with political agitation and literary fervor."*

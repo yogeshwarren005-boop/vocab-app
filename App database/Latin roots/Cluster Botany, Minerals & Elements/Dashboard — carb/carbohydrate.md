@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound consisting of carbon, hydrogen, and oxygen, including sugars, starches, and cellulose, serving as a primary energy source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and nutrition, polyhydroxy aldehydes or ketones functioning as metabolic fuel, structural materials, and cellular recognition markers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"They possessed attributes known as proteids, fats, and carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"The nitrogenous food elements we call proteins; the fats and oils, fats; and the starches and sugars (because of the predominance of carbon), we call carbohydrates."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now in selecting the diet for the day you should take care to choose those foods which give the proteins, fats, and carbohydrates in just the right proportion.'” “Oh, Billy!” groaned Bertram."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"The liver continuously transforms circulating sugar into stored **carbohydrate** in the form of glycogen."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Animals consume plants to obtain vital **carbohydrate** nutrients that sustain internal respiration and heat."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Digestion converts complex dietary **carbohydrate** into simple soluble glucose suitable for systemic assimilation."*

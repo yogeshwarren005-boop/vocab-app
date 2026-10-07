@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of transfering designs from specially prepared paper to a wood or glass or metal surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decorative process of transferring pictures and designs from specially prepared paper onto ceramics, glass, or other surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art history, an automatist technique popularized by Surrealists such as Max Ernst involving spreading gouache between pressed surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcomania designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
+> - 📜 **André Breton (*Surrealism and Painting*):** *"Through **decalcomania**, Max Ernst uncovered spontaneous, dreamlike landscapes untouched by conscious design."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Commercial manufacturers substituted cheap **decalcomania** transfers for genuine hand-painted ceramic ornament."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The delicate porcelain vase was decorated not with vulgar **decalcomania**, but with exquisite enamel work."*

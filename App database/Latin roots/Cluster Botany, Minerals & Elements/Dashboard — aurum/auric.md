@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing or derived from gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing or derived from gold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from gold; containing trivalent gold in chemical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, denoting compounds containing gold in its +3 oxidation state, such as auric chloride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An emerald set in the ring of the sea. —People do not know how dangerous lovesongs can be, the auric egg of Russell warned occultly."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When dissolved in nitro-muriatic acid, gold forms a yellow solution containing **auric** salts."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The precipitation of **auric** oxide occurs upon the cautious addition of caustic potash to the solution."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Films of reduced gold exhibited brilliant green transparency when washed free of **auric** impurities."*

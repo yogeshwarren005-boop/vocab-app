@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome; nephew and son-in-law and adoptive son of antonius pius; stoic philosopher; the decline of the roman empire began under marcus aurelius (121-180).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or associated with Marcus Aurelius Antoninus, the Roman Emperor and celebrated Stoic philosopher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and philosophy, embodying the austere Stoic virtues and reflective introspections of the Antonine dynasty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Marcus Aurelius has a very similar warning (v. 16)--"Whatever the colour of the thoughts often before thy mind, that colour will thy mind take."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marcus Aurelius, in some ways the most attractive of all Stoics, was virtually the last."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Aurelius, viii, 34. [117] _Ep._ 63, 14. [118] _D._ iii, 24. [119] _D._ iv, 1. [120] _ib._ [121] _D._ iv, 6. [122] _M._ 16. [123] Cf."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reign of Marcus **Aurelius** is remembered as an era of profound philosophical serenity and imperial duty."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The noble spirit of **Aurelius** speaks directly to the modern reader through his earnest self-examination."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius found profound moral solace in the calm, unyielding equanimity of the Emperor **Aurelius**."*

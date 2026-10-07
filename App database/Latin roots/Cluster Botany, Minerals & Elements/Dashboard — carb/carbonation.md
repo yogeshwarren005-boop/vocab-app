@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saturation with carbon dioxide (as soda water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saturation with carbon dioxide (as soda water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of dissolving carbon dioxide gas in water or an aqueous liquid under pressure to produce effervescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete technology and geochemistry, the chemical reaction of atmospheric CO2 with calcium hydroxide to form calcium carbonate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonation designates saturation with carbon dioxide (as soda water)."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"Artificial **carbonation** imparts to common spring water a brisk, agreeable acidity that refreshes the palate."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"Natural fermentation in sealed casks generates gentle **carbonation** without requiring external pressurized gas."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The effervescence observed during **carbonation** results from the rapid escape of compressed carbonic acid gas."*

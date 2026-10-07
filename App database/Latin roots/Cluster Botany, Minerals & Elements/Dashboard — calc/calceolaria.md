@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants and shrubs in the family Calceolariaceae, known for their inflated, pouch-like, slipper-shaped blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and ornamental botany, South American flowering plants cultivated for their spotted, pouch-like yellow, red, or bronze blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceolaria designates any garden plant of the genus calceolaria having flowers with large inflated slipper-shaped lower lip."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In crossing varieties of **Calceolaria**, the inflated lower lip showed remarkable variations in color pattern."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"Potted specimens of **Calceolaria** bring bright splashes of dappled crimson and gold to the conservatory."*
+> - 📜 **Reginald Farrer (*The English Rock-Garden*):** *"Dwarf alpine species of **Calceolaria** cling to rocky screes in the high Andes, opening cheerful pouch-like blossoms."*

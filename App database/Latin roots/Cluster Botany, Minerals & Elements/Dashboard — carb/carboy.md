@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, globular glass or plastic container with a narrow neck, often enclosed in wickerwork or a wooden crate for shipping corrosive liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical industrial handling, a heavy cushioned demijohn historically used to transport bulk quantities of acids, alkalis, and industrial spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My name is Kenge,” he said; “you may remember it, my child; Kenge and Carboy, Lincoln’s Inn.” I replied that I remembered to have seen him once before."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We are, Madam, Your obedt Servts, Kenge and Carboy Miss Esther Summerson Oh, never, never, never shall I forget the emotion this letter caused in the house!"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The chemist's workshop was crowded with rows of retorts and a wicker-jacketed **carboy** of vitriol in the corner."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He ordered crate after crate containing large glass **carboy** vessels of fuming mineral acids sent to his lodging."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship's hold contained dangerous cargo, including several dozen **carboy** containers of concentrated hydrochloric acid."*

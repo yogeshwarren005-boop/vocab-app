@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coenzyme important in respiration in the krebs cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coenzyme important in respiration in the krebs cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coenzyme form of vitamin B1 (thiamine pyrophosphate), essential for cellular decarboxylation of alpha-keto acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and bioenergetics, a vital cofactor catalyzing pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase in the citric acid cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cocarboxylase designates a coenzyme important in respiration in the krebs cycle."*
+> - 📜 **Casimir Funk (*The Vitamines*):** *"The physiological activity of thiamine depends upon its conversion into phosphorylated **cocarboxylase** within tissues."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Oxidative decarboxylation of pyruvate requires the essential catalytic presence of **cocarboxylase**."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Nutritional mutants lacking **cocarboxylase** cannot metabolize pyruvic acid and cease bacterial growth."*

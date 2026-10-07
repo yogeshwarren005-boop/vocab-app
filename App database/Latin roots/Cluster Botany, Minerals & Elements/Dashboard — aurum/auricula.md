@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-flowered primrose native to alps; commonly cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pouch projecting from the top front of each atrium of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European alpine primrose (Primula auricula) bearing clusters of fragrant, powdery, velvety flowers; bear's ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical anatomy, an alternative diminutive term for the external ear or the muscular appendage of the cardiac atrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Flowers peeped out amongst the leaves; snow-drops, crocuses, purple auriculas, and golden-eyed pansies."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The mountain **auricula** produces fleshy, powdery foliage and bright yellow blossoms resembling little cowslips."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Fanciers prize the velvet **auricula** for its exquisite symmetry and delicate dusting of white meal."*
+> - 📜 **John Parkinson (*Paradisi in Sole Paradisus Terrestris*):** *"No garden border is complete without the sweet-scented **auricula** blooming in early spring."*

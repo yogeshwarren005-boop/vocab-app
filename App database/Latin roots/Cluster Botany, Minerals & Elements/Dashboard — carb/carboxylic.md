@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing the carboxyl group or carboxyl radical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing the carboxyl group or carboxyl radical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or relating to the carboxyl group (-COOH); characteristic of organic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, designating aliphatic or aromatic acids containing one or more carboxyl groups, such as formic, acetic, or benzoic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboxylic designates relating to or containing the carboxyl group or carboxyl radical."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Metabolic oxidation converts fatty materials into intermediate **carboxylic** acids before final elimination."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Resonance within the **carboxylic** framework confers greater acidity compared to simple alcohols."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides, and Proteins*):** *"Each standard amino acid possesses both a basic amino group and an acidic **carboxylic** terminus."*

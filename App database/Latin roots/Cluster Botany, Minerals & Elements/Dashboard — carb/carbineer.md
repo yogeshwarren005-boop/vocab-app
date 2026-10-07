@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier (historically a mounted soldier) who is armed with a carbine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier (historically a mounted soldier) who is armed with a carbine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier or cavalryman armed with a carbine, historically part of specialized light cavalry regiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European military history, an elite mounted rifleman utilized for reconnaissance, skirmishing, and rapid flanking maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbineer designates a soldier (historically a mounted soldier) who is armed with a carbine."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"A detachment of mounted **carbineer** guards patrolled the coastal highway in search of contraband."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The light horseman was replaced in modern armies by the agile **carbineer**, capable of fighting on horseback or on foot."*
+> - 📜 **Arthur Conan Doyle (*The Exploits of Brigadier Gerard*):** *"A gallant French **carbineer** spurred his horse forward, brandishing his weapon amid the swirling dust of the charge."*

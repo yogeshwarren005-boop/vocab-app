@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine with carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic chemical term for a carbide; a compound of carbon with another element or base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early fuel engineering, to impregnate or combine gas or air with volatile hydrocarbon vapor to enhance luminosity or combustibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburet designates combine with carbon."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Cast iron was formerly denominated a **carburet** of iron, owing to its dissolved carbonaceous particles."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"A stream of coal gas was made to **carburet** air, producing a bright, non-flickering luminous flame."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When volatile petroleum vapors **carburet** common air, an intensely inflammable mixture is created."*

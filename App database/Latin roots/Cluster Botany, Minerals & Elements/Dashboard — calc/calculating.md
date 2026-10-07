@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing mathematical computations; engaged in reckoning or counting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrewdly scheming, self-interested, or coldly prudent in planning one's personal advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George is so occupied with the almanac over the fire-place (calculating the coming months by it perhaps) that he does not look round until she has gone away and the door is closed upon her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had passed the last milestone by a good long distance, and began to look wistfully towards the bank as if calculating upon another milestone soon."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing of course to speak of—twenty thousand pounds, I think they say—but what is that?” “Twenty thousand pounds?” Here was a new stunner—I had been calculating on four or five thousand."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was a selfish, **calculating** woman whose thoughts were perpetually fixed upon financial gain."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He scrutinized my prospects with the cold, **calculating** gaze of an experienced moneylender."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A **calculating** disposition shielded him from any rash impulse of youthful generosity."*

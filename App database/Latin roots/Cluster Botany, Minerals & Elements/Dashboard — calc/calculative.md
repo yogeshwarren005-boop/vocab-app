@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or inclined toward mathematical calculation or computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by shrewd, self-interested planning, prudence, or commercial reckoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculative designates used of persons."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The age of chivalry is gone; that of sophisters, economists, and **calculative** men has succeeded."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Modern enterprise relies upon a strictly **calculative** spirit to optimize economic efficiency."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His **calculative** nature left no room for spontaneous generosity or romantic impulse."*

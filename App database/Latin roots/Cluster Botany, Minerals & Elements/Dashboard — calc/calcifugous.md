@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living in acid soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living in acid soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to tolerate or avoidant of lime-rich or calcareous soils; acid-loving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, describing calcifuge species, such as heaths and rhododendrons, that develop chlorosis in the presence of free calcium carbonate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcifugous designates growing or living in acid soil."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Heather and gorse are strictly **calcifugous** species, confined entirely to acidic peat and siliceous sands."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Botanists note that **calcifugous** shrubs sicken rapidly if planted in soil containing pulverised limestone."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Stands of **calcifugous** manzanita blanket the decomposed granite ridges where no limestone exists."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into a carbonate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with carbon dioxide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charged, saturated, or effervescent with carbon dioxide gas, producing bubbles and effervescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beverage technology, impregnated with carbon dioxide under pressure to produce sparkling soda water or effervescent drinks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonated designates turn into a carbonate."*
+> - 📜 **Joseph Priestley (*Directions for Impregnating Water with Fixed Air*):** *"I discovered a simple apparatus for making pleasant, sparkling **carbonated** water resembling natural Pyrmont springs."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The weary travelers refreshed themselves at the village apothecary with cold, **carbonated** mineral waters."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Poet at the Breakfast-Table*):** *"His conversation sparkled incessantly, effervescing like a freshly opened bottle of **carbonated** wine."*

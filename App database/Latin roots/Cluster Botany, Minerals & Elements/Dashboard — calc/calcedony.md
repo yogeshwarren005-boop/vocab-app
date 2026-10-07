@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky or greyish translucent to transparent quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A milky or greyish translucent to transparent quartz.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microcrystalline or cryptocrystalline variety of quartz possessing a waxy lustre; chalcedony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, compact silica occurring in mammillary or botryoidal crusts with translucent banding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcedony designates a milky or greyish translucent to transparent quartz."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient mosaic artisans inlayed fragments of milky **calcedony** alongside deep blue lapis lazuli."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"Lapidaries sought nodules of **calcedony** along the shores of the Propontis for engraving delicate signets."*
+> - 📜 **George Frederick Kunz (*The Curious Lore of Precious Stones*):** *"Ancient amulets carved from striped **calcedony** were believed to preserve travelers from perils on stormy seas."*

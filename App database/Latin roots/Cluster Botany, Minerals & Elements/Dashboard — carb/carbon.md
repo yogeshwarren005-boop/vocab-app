@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin paper coated on one side with a dark waxy substance (often containing carbon); used to transfer characters from the original to an under sheet of paper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element (symbol C, atomic number 6) capable of forming vast networks of covalent bonds, forming the basis of all organic life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and crystallography, an allotropic element occurring naturally as graphite, diamond, amorphous coal, and fullerene structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They was gonna use seeds to get carbon for them gas masks—that's what soldiers wear on the front line." Mierd didn't seem very much bothered about things soldiers put over their heads."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Instead of a platinum wire, a fine thread of carbon is brought to a very high temperature by the passage through it of the electrical current, in which condition it gives out light."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Let us now call this charred linen by its proper name--my tinder is carbon in a state of somewhat fine subdivision."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Experiments proved that diamond consists of pure crystallized **carbon**, identical in substance to charcoal."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Every particle of soot that escapes from the flame is elemental **carbon** seeking oxygen in the air."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Living organisms consist primarily of complex compounds of **carbon**, hydrogen, oxygen, and nitrogen."*

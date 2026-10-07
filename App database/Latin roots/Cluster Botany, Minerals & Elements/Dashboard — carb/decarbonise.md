@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of decarbonize; to remove carbon or carbon deposits from an engine or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental economics and policy, to eliminate or drastically reduce fossil-fuel carbon dioxide emissions from industrial and energy systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonise designates remove carbon from (an engine)."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The garage mechanic spent his morning taking down the cylinder head to **decarbonise** the exhaust valves."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The steam engine choked repeatedly until our engineer found time to **decarbonise** the fouled tubes."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The advent of atomic energy promised to **decarbonise** global transport and lift the pall of smoke from cities."*

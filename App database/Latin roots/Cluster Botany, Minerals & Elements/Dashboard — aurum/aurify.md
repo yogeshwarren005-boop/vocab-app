@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transform into gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn golden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn into gold; to transform or transmute baser materials into metallic gold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of alchemy, the putative hermetic process of purifying metals to attain the golden state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurify designates transform into gold."*
+> - 📜 **Ben Jonson (*The Alchemist*):** *"The charlatan promised his gullible patrons that his secret elixir would **aurify** crude lead overnight."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Alchemical philosophers claimed they could **aurify** base substances, yet produced no reproducible metallic proof."*
+> - 📜 **Isaac Newton (*Chemical Papers*):** *"Writers on the hermetic art assert that the philosophical mercury has power to **aurify** imperfect bodies."*

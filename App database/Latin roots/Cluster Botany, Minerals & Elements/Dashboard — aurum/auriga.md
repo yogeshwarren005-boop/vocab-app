@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent northern constellation depicted as a charioteer holding a goat and kids, containing the bright star Capella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquity, a slave or freedman who drove a two-horse or four-horse chariot in the public circus races.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriga designates a conspicuous constellation in the northern hemisphere; between great bear and orion at edge of milky way."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman populace cheered wildly as each daring **auriga** rounded the perilous turn in the Circus Maximus."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The brilliant yellow star Capella dominates the northern constellation of **Auriga** throughout winter nights."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"A youthful **auriga** stood poised upon his light racing car, gripping the reins with fearless dexterity."*

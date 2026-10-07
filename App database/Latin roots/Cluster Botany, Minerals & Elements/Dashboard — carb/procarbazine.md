@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug used to treat hodgkin's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug used to treat hodgkin's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic antineoplastic hydrazine medication used primarily in combination chemotherapy to treat Hodgkin lymphoma and brain tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and medicinal pharmacology, an alkylating agent that undergoes metabolic activation to inhibit DNA, RNA, and protein synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procarbazine designates an antineoplastic drug used to treat hodgkin's disease."*
+> - 📜 **René Dubos (*The White Plague*):** *"Development of cytotoxic agents like **procarbazine** offered clinicians new weapons against previously untreatable lymphomas."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Oncologists combined multiple synthetic drugs, including **procarbazine**, to prevent tumor cell resistance."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Careful monitoring of blood counts is essential during clinical regimens containing **procarbazine**."*

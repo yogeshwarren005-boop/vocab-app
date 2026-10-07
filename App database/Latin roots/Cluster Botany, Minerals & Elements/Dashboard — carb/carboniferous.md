@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 280 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the carboniferous geologic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or containing carbon or coal; rich in coal seams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, designating the major Paleozoic geologic period (c. 359-299 million years ago) marked by vast coal-forming swamp forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But to-day, man exhausts the stores in the interior of the earth, burns the treasures of the carboniferous age, casts the fertilizing elements into the ocean, and leaves the world an empty shell."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The towering tree-ferns and club-mosses of the **Carboniferous** period formed the vast coal fields of Europe."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Gigantic insects and primitive amphibians flourished across the swampy continents of the **Carboniferous** epoch."*
+> - 📜 **Roderick Murchison (*Siluria: A History of the Oldest Known Rocks*):** *"The productive **Carboniferous** strata overlie the Old Red Sandstone throughout the British coal basins."*

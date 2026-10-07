@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or yielding carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or yielding carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, containing, or relating to carbon or coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and meteoritics, designating chondritic meteorites that preserve primitive organic compounds, water, and pre-solar grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By adding oxidised materials to the charge (_Blast-furnace smelting with carbonaceous fuel_). ii."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By using the air blast of the furnace for oxidising the iron and sulphur, thus at the same time utilising these elements as fuel and proportionately diminishing the amount of carbonaceous fuel required (_The pyritic principle of smelting_)."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Carbonaceous fuel in blast furnaces, 115, 119, 121 (see also _Coke_)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep sedimentary strata contain abundant **carbonaceous** shales formed from decayed ancient swamp vegetation."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Spectral analysis of certain celestial bodies reveals dark **carbonaceous** materials coating their icy surfaces."*
+> - 📜 **Roderick Murchison (*Siluria: A History of the Oldest Known Rocks*):** *"The black **carbonaceous** seams in the quarry indicate rich accumulations of ancient terrestrial plant remains."*

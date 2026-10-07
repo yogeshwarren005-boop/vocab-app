@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to hearing or the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by an aura.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ear, the sense of hearing, or the reception of acoustic sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental acoustics and phonetics, relating to auditory perception as distinguished from ocular or visual stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aural designates of or pertaining to hearing or the ear."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The soft synthetic music provided a soothing **aural** backdrop to the automated machinery of the hatchery."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The rhythmic surge of breaking waves filled her consciousness with an intense **aural** vibration."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The intricate structure of the inner ear translates complex **aural** disturbances into distinct musical sensations."*

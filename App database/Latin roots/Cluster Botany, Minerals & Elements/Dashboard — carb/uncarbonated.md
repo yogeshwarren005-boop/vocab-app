@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having carbonation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having carbonation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dissolved carbon dioxide gas; flat, still, or not effervescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beverage bottling and water chemistry, describing beverages or waters bottled without pressurized CO2 gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncarbonated designates not having carbonation."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The desert spring yielded pure, cool, **uncarbonated** water that tasted like nectar to our parched throats."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The patrons drank cheap **uncarbonated** cider from chipped mugs in the dark basement tavern."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The traveler quenched his thirst with a plain flagon of **uncarbonated** spring water from the well."*

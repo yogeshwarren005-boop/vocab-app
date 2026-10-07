@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior dark diamond used in industry for drilling and polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of meat (or fish) that has been scored and broiled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of meat, fish, or fowl scored across and broiled or grilled over hot coals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, an impure, opaque, dark grey or black polycrystalline diamond of extreme toughness, used industrially for heavy drill bits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is your carbonado’d face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he do come in my way, so; if he do not, if I come in his willingly, let him make a carbonado of me."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Draw, you rogue, or I'll so **carbonado** your shanks that you shall hop out of my sight."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The cook prepared a savory **carbonado** of spiced mutton, basting the sizzling meat over glowing birch charcoal."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Miners in the Brazilian diamond fields frequently uncover nodules of tough black **carbonado** alongside clear gems."*

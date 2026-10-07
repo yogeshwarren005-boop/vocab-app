@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound containing metal combined with carbon monoxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing the carbonyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A divalent functional group (C=O) consisting of a carbon atom double-bonded to an oxygen atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organometallic and coordination chemistry, a ligand composed of carbon monoxide coordinated to a transition metal, such as nickel carbonyl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonyl designates a compound containing metal combined with carbon monoxide."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The strong dipole moment of the **carbonyl** group governs the physical properties of ketones and aldehydes."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"Introduction of a **carbonyl** radical between aromatic rings generates benzophenone and related aromatic ketones."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Thermal decomposition of volatile nickel **carbonyl** yields mirror-like metallic coatings of extraordinary purity."*

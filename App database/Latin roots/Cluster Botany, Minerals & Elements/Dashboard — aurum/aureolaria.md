@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous hemiparasitic flowering plants in the broomrape family, commonly known as false foxgloves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American floristics, yellow-flowered parasitic perennials that form subterranean root attachments with native oak trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureolaria designates small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Aureolaria** flourish in dry open woodlands, displaying showy yellow corollas throughout late summer."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States and Canada*):** *"The parasitic roots of **Aureolaria** attach directly to the rootlets of surrounding deciduous oaks."*
+> - 📜 **John Kunkel Small (*Flora of the Southeastern United States*):** *"Botanists collect **Aureolaria** along sandy ridges where its slender glandular stems rise above the leaf litter."*

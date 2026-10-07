@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the auriculariaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the auriculariaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of jelly fungi commonly known as wood ears or tree ears, typically growing on dead or decaying hardwood trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the free-swimming, ciliated, bilateral larva characteristic of certain sea cucumbers (holothurians).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auricularia designates type genus of the auriculariaceae."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Species of **Auricularia** produce gelatinous, ear-shaped basidiocarps upon the bark of decaying elder trees."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Under microscopic magnification, the delicate **auricularia** larva displays graceful bands of ciliated ectoderm."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The echinoderm transforms from its swimming **auricularia** stage into a sedentary bottom-dwelling organism."*

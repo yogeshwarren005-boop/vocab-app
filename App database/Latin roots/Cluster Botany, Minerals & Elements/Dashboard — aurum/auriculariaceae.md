@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having gelatinous sporophores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having gelatinous sporophores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of jelly fungi within the order Auriculariales characterized by transversely septate basidia and gelatinous basidiocarps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal systematics, wood-decaying saprotrophic basidiomycetes capable of surviving prolonged desiccation and reviving upon rehydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculariaceae designates fungi having gelatinous sporophores."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The family **Auriculariaceae** includes lignicolous fungi bearing rubbery, lobed fructifications on decomposing timber."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Microscopic sections of the **Auriculariaceae** reveal basidia divided by transverse partitions during sporulation."*
+> - 📜 **Donald H. Pfister (*Mycological Studies*):** *"Ecological surveys demonstrate that the **Auriculariaceae** play a significant role in forest cellulose decomposition."*

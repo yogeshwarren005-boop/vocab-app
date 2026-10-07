@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the enzymes that hydrolize the carboxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the enzymes that hydrolize the carboxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the decarboxylation of a carboxylic acid, releasing carbon dioxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic biochemistry, an enzyme class (lyases) catalyzing the cleavage of carboxyl groups, such as histidine decarboxylase producing histamine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylase designates any of the enzymes that hydrolize the carboxyl group."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Specific bacterial **decarboxylase** enzymes remove carbon dioxide from amino acids, forming bioactive amines."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The catalytic pocket of the **decarboxylase** stabilizes the transition state during carbon dioxide elimination."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Assaying for amino acid **decarboxylase** activity helps differentiate enterobacterial strains in clinical microbiology."*

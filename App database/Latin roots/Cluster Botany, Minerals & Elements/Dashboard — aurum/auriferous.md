@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing gold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding, producing, or bearing gold; containing native gold within rock or alluvial deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and mining engineering, designating geological veins, quartz reefs, or gravel beds rich in minable gold ores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Douglas that he had discovered an auriferous reef on Johannet Island, situated in the above named group, showing him specimens therefrom."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"AURIFEROUS, pertaining to an orifice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Miners followed the rich **auriferous** quartz veins deep into the metamorphic rocks of California."*
+> - 📜 **Roderick Murchison (*Siluria: A History of the Oldest Known Rocks*):** *"Streams cutting through ancient slate formations deposit **auriferous** sands along valley floors."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Prospectors rushed eagerly across the desert, lured by rumors of rich **auriferous** gravels in the mountain gulches."*

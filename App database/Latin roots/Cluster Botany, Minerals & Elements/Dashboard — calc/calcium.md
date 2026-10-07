@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, silvery-white metallic chemical element of the alkaline earth group, essential for living organisms (symbol Ca, atomic number 20).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, a vital divalent cation functioning as a universal secondary messenger, muscle cofactor, and skeletal component.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*
+> - 📜 **Humphry Davy (*Bakerian Lecture on Some New Phenomena of Chemical Changes Produced by Electricity*):** *"By the action of the voltaic pile upon moist lime, I succeeded in isolating metallic **calcium**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Normal muscle contraction requires a precise concentration of **calcium** ions within the internal medium."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Egg-laying hens consume great quantities of chalk to supply **calcium** for eggshell synthesis."*

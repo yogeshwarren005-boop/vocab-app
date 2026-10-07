@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first light of day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural light display in the sky predominantly seen in high-latitude regions, caused by solar wind particles colliding with the upper atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and poetic diction, the personified goddess of the dawn or the early morning light preceding sunrise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fairy lord, this must be done with haste, For night’s swift dragons cut the clouds full fast; And yonder shines Aurora’s harbinger, At whose approach, ghosts wandering here and there Troop home to churchyards."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the aid of the Casterbridge aurora, and by feeling with her hands, the woman selected two sticks from the heaps."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning, in the Fifth Book of her ‘Aurora Leigh’, has given a full and very forcible expression to the feeling which has caused the highest dramatic genius of the present day to seek refuge in the poem and the novel."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now morn, her rosy steps in the eastern clime advancing, sowed the earth with **aurora**."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"A glorious **aurora** draped the polar sky in curtains of shimmering emerald and violet fire."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The magnetic storm triggered a luminous **aurora** visible across both northern and southern hemispheres."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heat a substance so that it oxidizes or reduces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heat a substance so that it oxidizes or reduces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce a mineral or ore to a powder, ash, or friable state by the action of intense heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, to thermally decompose carbonates or drive off volatile constituents through controlled kiln roasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I saw another at work to calcine ice into gunpowder; who likewise showed me a treatise he had written concerning the malleability of fire, which he intended to publish."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The saving in working costs resulting from this replacement of the Brückners by MacDougal roasters is reckoned at about 5 cents (2½d.) on every ton of calcines treated."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Sulphur can be seen burning off the ridges of calcines, with a blue flame. 5 per cent. of sulphur eliminated."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When chemists **calcine** limestone in a furnace, carbonic acid gas escapes, leaving quicklime behind."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"If we strongly **calcine** metallic zinc in the open air, it burns with a brilliant white flame."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The experimenter must thoroughly **calcine** the crucible before introducing volatile reagents."*

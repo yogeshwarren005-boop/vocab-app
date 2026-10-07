@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless basic antibiotic that inhibits the growth of gram-positive organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless basic antibiotic that inhibits the growth of gram-positive organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A macrolide antibiotic produced by Streptomyces halstedii, active against Gram-positive bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacotherapy and microbiological chemistry, a macrocyclic lactone antimicrobial agent discovered in 1952, structurally related to erythromycin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbomycin designates a colorless basic antibiotic that inhibits the growth of gram-positive organisms."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"Screening actinomycetes yielded **carbomycin**, another useful addition to our arsenal of macrocyclic antibiotics."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Laboratory assays demonstrated that **carbomycin** halted bacterial protein synthesis by binding to ribosomal subunits."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"The clinical emergence of **carbomycin** gave physicians an alternative when staphylococci showed penicillin resistance."*

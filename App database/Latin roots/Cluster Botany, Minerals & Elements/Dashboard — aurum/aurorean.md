@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of the dawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the dawn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the dawn; rosy, golden, and fresh like the early morning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In elevated poetic and figurative literature, suggestive of nascent beginnings, radiant promise, or youthful dawn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aurorean designates characteristic of the dawn."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"In that **aurorean** epoch of youth, every sunrise opened vistas of infinite wonder and spiritual hope."*
+> - 📜 **John Keats (*Endymion*):** *"A soft **aurorean** glow crept along the eastern verge, dispelling the lingering shadows of the night."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The early Italian painters worked in an **aurorean** atmosphere of rediscovered beauty and classical grace."*

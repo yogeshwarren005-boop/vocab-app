@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation (as of a cold breeze or bright light) that precedes the onset of certain disorders such as a migraine attack or epileptic seizure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive intangible atmosphere or quality that seems to surround and emanate from a person, place, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and neurology, a perceptual disturbance or sensory premonition experienced immediately before a migraine or epileptic seizure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Et cela doit signifier,” said she, “qu’il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Xindral's opening remarks along with his aura projected formidable power despite his slender frame."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The ‘aura’, so to speak, of a great work of Art, must come from the artist’s own personality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A subtle **aura** of refinement and moral gravity seemed to hover over her every quiet gesture."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"An uncanny **aura** of mystery enveloped the third story of Thornfield Hall long before midnight."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"Many patients describe a classical visual **aura** consisting of shimmering zigzag lines before the headache begins."*

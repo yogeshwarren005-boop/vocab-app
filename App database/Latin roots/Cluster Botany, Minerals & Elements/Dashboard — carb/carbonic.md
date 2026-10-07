@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or yielding carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or yielding carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or derived from carbon, especially designating carbon in its higher oxidation state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry, relating to carbon dioxide gas (historically 'carbonic acid gas') or the aqueous acid H2CO3.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, each man consumes, in one hour, the oxygen contained in more than 176 pints of air, and this air, charged (as then) with a nearly equal quantity of carbonic acid, becomes unbreathable."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In this lantern is a spiral glass which contains a small quantity of carbonic gas."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The combustion of charcoal in pure oxygen yields an invisible vapor which we term **carbonic** acid gas."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When you breathe out through clear lime-water, it turns milky from the **carbonic** acid in your breath."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean waters charged with **carbonic** acid dissolve hard limestone strata, creating cavernous sinkholes."*

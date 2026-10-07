@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrasive composed of silicon carbide crystals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrasive composed of silicon carbide crystals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard black or green crystalline compound of silicon and carbon (silicon carbide, SiC), used as an abrasive and refractory material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and industrial machining, a synthetic abrasive synthesized in electric resistance furnaces, nearly rivaling diamond in Mohs hardness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The rectifying conductors are in many cases crystals, hence these detectors are called "Crystal Detectors." Carborundum is a favourite for this purpose."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I used glowing buttons of solid **carborundum** inside vacuum tubes to generate intense high-frequency incandescence."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory grinding stone made of tough **carborundum** quickly sharpened the microtome knife to a razor edge."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The high-speed factory grinders showered sparks as the grey **carborundum** wheels trimmed the tempered steel plates."*

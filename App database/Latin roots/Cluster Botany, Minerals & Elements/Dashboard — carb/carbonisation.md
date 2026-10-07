@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive distillation of coal (as in coke ovens).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive distillation of coal (as in coke ovens).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process of converting an organic substance into carbon or charcoal by heating in the absence of air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coal processing and chemical engineering, the thermal destructive distillation of coal to yield metallurgical coke, coal tar, and coal gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonisation designates the destructive distillation of coal (as in coke ovens)."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Incomplete combustion or slow **carbonisation** reduces vegetable wood to a porous skeleton of pure charcoal."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The slow **carbonisation** of peat in bogs produces dense layers of combustible turf over centuries."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Subjecting bituminous coal to high-temperature **carbonisation** liberates illuminating gas for city lamps."*

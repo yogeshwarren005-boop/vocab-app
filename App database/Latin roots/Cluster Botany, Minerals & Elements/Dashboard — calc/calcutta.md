@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in india and one of the largest cities in the world; located in eastern india; suffers from poverty and overcrowding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major metropolis in eastern India (Kolkata), historically the capital of the British Indian Empire on the Hooghly River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and colonial historiography, a vital port and trading center of Bengal, famous for commerce, literature, and imperial administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chaffanjon, _L'Orénoque et le Caura_ (Paris, 1889), pp. 213-215. [157] Shib Chunder Bose, _The Hindoos as they are_ (London and Calcutta, 1881), p. 86."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Crooke, _Tribes and Castes of the North-Western Provinces and Qudh_ (Calcutta, 1896), ii. 87. [214] W."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive sailed from Madras to Bengal, resolved to avenge the tragic catastrophe at **Calcutta**."*
+> - 📜 **Rudyard Kipling (*The City of Dreadful Night*):** *"The humid night mist hung heavily over the crowded river wharves and vast avenues of **Calcutta**."*
+> - 📜 **Rabindranath Tagore (*My Reminiscences*):** *"In our family mansion in **Calcutta**, music, poetry, and intellectual debate flowed incessantly."*

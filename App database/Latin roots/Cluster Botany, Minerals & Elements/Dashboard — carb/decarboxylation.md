@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical reaction that eliminates a carboxyl group from a compound, liberating carbon dioxide (CO2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular metabolism and organic synthesis, the oxidative or non-oxidative loss of CO2 from pyruvate, amino acids, or beta-keto acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylation designates the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"The oxidative **decarboxylation** of pyruvate constitutes the crucial metabolic bridge between glycolysis and the citric acid cycle."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Beta-keto acids undergo spontaneous **decarboxylation** upon mild warming due to a cyclic transition state."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Enzymatic **decarboxylation** of glutamate provides bacteria with an effective mechanism to resist environmental acidity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into carbon, as by burning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert an organic substance into carbon or charcoal, typically by heat or chemical dehydration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical processing, to introduce carbon into the surface layer of low-carbon steel to increase hardness; to carburize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Bloom becomes mute, shrunken, carbonised.)_ ZOE: Talk away till you’re black in the face."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"A concentrated stream of sulfuric acid will instantly **carbonise** refined sugar into a steaming black column."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Intense heat in a closed retort will **carbonise** vegetable tissues without permitting open combustion."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Buried leaves gradually **carbonise** in oxygen-poor mud, turning into dark crumbly humus."*

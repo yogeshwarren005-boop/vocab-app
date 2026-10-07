@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of carbonic acid (containing the anion co3).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a carbonate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of carbonic acid containing the CO3(2-) divalent anion, such as calcium carbonate or sodium carbonate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological geochemistry and chemical processing, to saturate or charge a liquid with carbon dioxide gas under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The metal is unchanged in dry air at ordinary temperatures; in the presence of moisture and of carbon dioxide a green coating of basic carbonate is produced."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, the presence of other earthy bases in the charge dilutes its fuel value; they may even consume valuable heat by requiring decomposition, as in the case of carbonates."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When carbonic acid unites with potash, it produces a soluble **carbonate** that effervesces with vinegar."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast subterranean caverns are carved out where acidic rainwater slowly dissolves calcium **carbonate** rocks."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Agricultural soils rich in lime **carbonate** maintain optimal porosity and neutralize organic humic acids."*

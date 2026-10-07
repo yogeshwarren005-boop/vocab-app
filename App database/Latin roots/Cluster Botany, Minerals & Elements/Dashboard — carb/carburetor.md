@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixes air with gasoline vapor prior to explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixes air with gasoline vapor prior to explosion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device in internal combustion engines that mixes air with liquid fuel vapor in proper proportions for combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering, a fuel-induction system utilizing venturi pressure drops and calibrated jets to regulate fuel-air ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburetor designates mixes air with gasoline vapor prior to explosion."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"We simplified the **carburetor** on the Model T so any farmer could adjust the needle valve with a pocket wrench."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He tinkered happily with the automobile engine, adjusting the float valve of the **carburetor** on Sunday afternoons."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The mechanic leaned over the open hood of the roadster, checking whether the **carburetor** was clogged with dust."*

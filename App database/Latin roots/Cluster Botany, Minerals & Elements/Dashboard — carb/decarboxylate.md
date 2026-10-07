@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose a carboxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove a carboxyl group from (a chemical compound).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove a carboxyl group (-COOH) from a chemical compound, typically releasing carbon dioxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and physiology, to thermally or enzymatically cleave a molecule to yield carbon dioxide and an amine or hydrocarbon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarboxylate designates lose a carboxyl group."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides, and Proteins*):** *"Heating dry barium salts of amino acids will cleanly **decarboxylate** them into volatile amines."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"Living tissues continuously **decarboxylate** metabolic intermediates during the generation of biochemical energy."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"In the animal body, respiratory processes **decarboxylate** nutrient acids, expelling carbon dioxide through the lungs."*

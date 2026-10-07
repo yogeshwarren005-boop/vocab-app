@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having carbonation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having carbonation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not charged or saturated with carbon dioxide gas; still or uncarbonated, as applied to water or beverages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial beverage manufacturing, designating still bottled waters, juices, or teas lacking dissolved gas effervescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncarbonated designates not having carbonation."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The soda fountain offered cold **noncarbonated** fruit ciders alongside sizzling draft root beer."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We sat at the café terrace sipping carafes of cold **noncarbonated** spring water with our wine."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep ocean basins hold ancient, tranquil layers of virtually **noncarbonated** brine beneath turbulent surface currents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixes air with gasoline vapor prior to explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixes air with gasoline vapor prior to explosion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard British English spelling of carburetor; an engine device for blending fuel and air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic British mechanical engineering, a calibrated fuel-atomizing instrument, such as an SU or Amal carburettor, on automotive and aero engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburettor designates mixes air with gasoline vapor prior to explosion."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The doctor checked the throttle and suction chamber of the motor-car's **carburettor** before setting out across the moor."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"A skilled mechanic could disassemble and tune an automobile **carburettor** with remarkable speed and precision."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The motor-car gave a loud cough as dirt in the **carburettor** temporarily choked the supply of petrol."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing the carbonyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing the carbonyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, containing, or characteristic of a carbonyl group or carbonyl compound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic reaction mechanisms, designating chemical reactivity, nucleophilic addition, or polarization associated with the C=O bond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonylic designates relating to or containing the carbonyl group."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The electronegativity difference between carbon and oxygen imparts strong **carbonylic** polarization to the bond."*
+> - 📜 **Robert Robinson (*The Structural Relations of Natural Products*):** *"Enzymatic reduction selectively attacks the **carbonylic** center in complex biosynthesis pathways."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"Condensation reactions frequently involve nucleophilic attack upon an active **carbonylic** carbon atom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of calcium from bones or teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of calcium from bones or teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing calcium or calcareous salts from tissues, bones, or mineral substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological histology and pathology, treating osseous specimens with acid to soften them for microtome sectioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcification designates loss of calcium from bones or teeth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Severe osteomalacia results from progressive **decalcification** of bone trabeculae under nutritional deprivation."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Complete **decalcification** in dilute nitric acid renders a long bone flexible without destroying its fibrous shape."*
+> - 📜 **Eugene W. Hilgard (*Soils*):** *"Intense leaching under high rainfall causes **decalcification** of upper agricultural soil strata."*

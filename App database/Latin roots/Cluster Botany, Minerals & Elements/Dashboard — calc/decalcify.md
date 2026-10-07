@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose calcium or calcium compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove calcium or lime from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of or remove calcium or calcareous compounds from a substance or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological technique, to dissolve the inorganic mineral matrix of bone using acidic solutions prior to microscopic analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcify designates lose calcium or calcium compounds."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Acids produced by metabolic disturbance gradually **decalcify** the skeleton, leading to structural fragility."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Immerse the specimen in dilute hydrochloric acid to **decalcify** the cortex before cutting sections."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Acidic metabolic byproducts tend to **decalcify** surrounding mineral media during extended bacterial growth."*

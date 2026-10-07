@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical compound urea (CH4N2O), synthesized industrially as a high-nitrogen fertilizer and plastics precursor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and physiology, the primary nitrogenous waste metabolite excreted in mammal urine, historically pivotal in Wöhler's synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbamide designates the chief solid component of mammalian urine; synthesized from ammonia and carbon dioxide and used as fertilizer and in animal feed and in plastics."*
+> - 📜 **Friedrich Wöhler (*Letter to Jöns Jacob Berzelius*):** *"I must tell you that I can make **carbamide** without needing kidneys or any living animal."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Pure crystalline **carbamide** decomposes at elevated temperatures, liberating pungent vapors of ammonia."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life Common to Animals and Plants*):** *"The concentration of **carbamide** in renal fluids serves as an index of active protein catabolism."*

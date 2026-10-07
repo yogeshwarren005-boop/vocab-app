@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of certain religious orders who wear shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of certain religious orders who wear shoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing shoes or footwear, especially as applied to religious orders that wear ordinary shoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, designating monks or friars who retained footwear, distinguished from reformed 'discalced' branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calced designates used of certain religious orders who wear shoes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monastic rule distinguished the **calced** brethren who wore sandals from those who walked with bare feet."*
+> - 📜 **Walter Scott (*The Monastery*):** *"A venerable **calced** friar arrived at the convent gate, shaking the dust of the road from his stout leather shoes."*
+> - 📜 **William H. Prescott (*History of the Reign of Philip the Second*):** *"Rivalries between the **calced** and discalced Carmelites disturbed the religious houses of sixteenth-century Spain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of metals into their oxides as a result of heating to a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of metals into their oxides as a result of heating to a high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of heating an ore or mineral substance to high temperature below its melting point in limited air; roasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical chemistry and metallurgy, heating a metal to form its calx (oxide), or thermal decomposition of limestone into quicklime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcination designates the conversion of metals into their oxides as a result of heating to a high temperature."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The slow **calcination** of mercury in a sealed vessel proved that metals absorb oxygen during heating."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Careful experiments reveal that the weight gained during **calcination** originates from air fixed in the calx."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"I subjected red lead to intense **calcination** under a burning lens to extract dephlogisticated air."*

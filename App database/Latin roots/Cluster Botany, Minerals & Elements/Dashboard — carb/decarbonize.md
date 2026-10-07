@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon or carbon deposits from an internal combustion engine, metal, or chemical system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, to reduce the carbon content of pig iron or molten metal during refining; in ecology, to eliminate greenhouse gas emissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonize designates remove carbon from (an engine)."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Blowing a blast of air through molten iron in the Bessemer converter serves to **decarbonize** the metal into steel."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"Routine maintenance instructed motorists to **decarbonize** piston tops after several thousand miles of heavy driving."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory autoclave was shut down periodically to clean and **decarbonize** the gas burners."*

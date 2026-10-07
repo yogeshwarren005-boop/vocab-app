@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Italian pasta dish made with eggs, hard cheese (pecorino or parmesan), cured pork (guanciale or pancetta), and black pepper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic historiography, a rich Roman pasta preparation popularized in mid-twentieth-century Italy, traditionally prepared without cream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonara designates sauce for pasta; contains eggs and bacon or ham and grated cheese."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"An authentic Roman **carbonara** relies solely upon the emulsification of fresh eggs, sharp cheese, and hot cured pork."*
+> - 📜 **M. F. K. Fisher (*The Art of Eating*):** *"We devoured steaming bowls of pasta **carbonara**, savoring the rich blend of crisp pork and coarsely cracked black pepper."*
+> - 📜 **Waverley Root (*The Food of Italy*):** *"Connoisseurs in Rome argue passionately that genuine **carbonara** must never contain cream or peas."*

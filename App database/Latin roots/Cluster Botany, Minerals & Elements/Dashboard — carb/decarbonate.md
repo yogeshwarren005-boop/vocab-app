@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon dioxide from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon dioxide from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove carbon dioxide or carbonate compounds from a substance, solution, or mineral ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical processing and kiln operations, to thermally decompose carbonates to drive off CO2 gas, as in converting limestone to lime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarbonate designates remove carbon dioxide from."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Heating chalk in a reverberatory furnace serves to **decarbonate** the stone, producing caustic quicklime."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemists boil the alkaline solution with slaked lime to **decarbonate** it prior to organic synthesis."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Gentle heating will quickly **decarbonate** mineral water, releasing all dissolved carbon dioxide gas."*

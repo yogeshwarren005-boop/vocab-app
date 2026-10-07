@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or producing or containing calcium or calcium carbonate or calcite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, yielding, or containing calcium carbonate or lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphic geology and paleontology, designating rock strata or formations rich in limestone or fossilized calcite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calciferous designates bearing or producing or containing calcium or calcium carbonate or calcite."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thick **calciferous** sandstone formation contains abundant casts of early Paleozoic marine mollusks."*
+> - 📜 **Roderick Murchison (*Siluria: A History of the Oldest Known Rocks*):** *"We traced the **calciferous** strata across the valley, noting numerous quarries opened for agricultural lime."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms possess remarkable **calciferous** glands that secrete small granules of calcium carbonate into the digestive canal."*

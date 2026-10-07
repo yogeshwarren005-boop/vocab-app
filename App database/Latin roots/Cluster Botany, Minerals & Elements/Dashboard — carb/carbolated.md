@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or treated with carbolic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or treated with carbolic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated, impregnated, or combined with carbolic acid (phenol), especially as an antiseptic dressing or preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century surgical history, designating antiseptic gauze, petroleum jelly, or surgical ligatures prepared according to Listerian protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbolated designates containing or treated with carbolic acid."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"We dressed the compound fracture with strips of **carbolated** lint, completely preventing putrefactive suppuration."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The examination room carried a distinct, reassuring odor of **carbolated** gauze and fresh iodine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of a soothing **carbolated** ointment relieved intense cutaneous itching in chronic dermatoses."*

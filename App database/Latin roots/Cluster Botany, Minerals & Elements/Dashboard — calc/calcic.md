@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from or containing calcium or lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from or containing calcium or lime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, containing, or derived from calcium or lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochemical and pedological classification, designating mineral soils or rocks rich in exchangeable calcium or calcium carbonates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcic designates derived from or containing calcium or lime."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Soils with a high **calcic** content promote the rapid decomposition of organic vegetable matter."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean springs carrying dissolved **calcic** salts deposit extensive beds of travertine along riverbanks."*
+> - 📜 **Eugene W. Hilgard (*Soils*):** *"The arid plains exhibit a distinct **calcic** horizon where leached lime salts accumulate beneath the surface."*

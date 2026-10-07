@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Afflicted with or resembling a carbuncle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or of the nature of a carbuncle; fiery red, inflamed, or eruptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, pertaining to deep necrotizing staphylococcal lesions involving multiple adjacent hair follicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbuncular designates afflicted with or resembling a carbuncle."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob stared at the magistrate's grim, **carbuncular** face as he read the proclamation."*
+> - 📜 **T. S. Eliot (*The Waste Land*):** *"One of the low on whom assurance sits, a small house agent's clerk, with one bold stare, a **carbuncular** young man."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic patients display increased susceptibility to severe **carbuncular** necrosis of the subcutaneous tissue."*

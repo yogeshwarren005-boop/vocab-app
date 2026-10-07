@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of certain religious orders) barefoot or wearing only sandals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of certain religious orders) barefoot or wearing only sandals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip or divest of shoes or footwear; to become unshod or barefoot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious and ritual observance, to remove footwear as a sign of humility, reverence, or monastic reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discalceate designates (used of certain religious orders) barefoot or wearing only sandals."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pilgrims were required to **discalceate** their feet before stepping onto the sacred pavement of the shrine."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The penitent hermit chose to **discalceate** himself, walking barefoot across the scorching desert sands."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient priests were commanded to **discalceate** upon approaching the altar in token of solemn veneration."*

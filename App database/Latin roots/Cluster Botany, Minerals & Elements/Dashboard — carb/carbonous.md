@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or yielding carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or yielding carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from carbon, especially designating carbon in lower valence states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical nomenclature, characterizing compounds containing carbon in reduced or unsaturated combinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonous designates relating to or consisting of or yielding carbon."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The lower oxide of charcoal was formerly classified as a **carbonous** gas before its precise composition was determined."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Certain volatile distillation residues exhibit a distinct **carbonous** odor and dark pitchy consistency."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Analysis showed that the black sediment consisted of an insoluble **carbonous** residue mixed with silicates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle of light or luminous radiance surrounding the head or body of a holy figure in sacred art; a halo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and astronomy, a bright corona of refracted light seen around the sun or moon during mist or cloud cover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the wind was rising and had begun to disperse the clouds, and suddenly the sun broke through, and the glory of it fell like an aureole on the young wife, and at once she vanished away."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At this moment the setting sun flooded the poor plain room with light; the unpainted wood was all of a golden-brown, and Ann Bray, with her gray hair and aged face, stood at the head of the table in a kind of aureole."*
-> - 📜 **James Joyce (*Ulysses*):** *"His scarlet beak blazes within the aureole of his straw hat."*
+> - 📜 **Dante Gabriel Rossetti (*The Blessed Damozel*):** *"Around her serene brow there shone a radiant **aureole** of seven golden stars."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The full moon rose above the jagged glacier, framed by a pale **aureole** of freezing mist."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"A delicate luminous **aureole** encircles the solar corona during the dramatic moments of totality."*

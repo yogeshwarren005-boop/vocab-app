@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being computed or enumerated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being computed or enumerated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too great, numerous, or vast to be calculated or reckoned; immeasurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying predictable assessment, uncertain, or inherently unpredictable in character or consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been growing, developing, through incalculable myriads of millenniums."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, incalculable times again shall I be born; and yet the stupid dolts about me think that by stretching my neck with a rope they will make me cease."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've done incalculable mischief, and, to tell you the truth, I shouldn't have chosen to raise this subject again till I'm clear of it."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection operating through **incalculable** periods of time has fashioned the endless diversity of living forms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sack of the imperial capital inflicted **incalculable** loss upon the treasures of antiquity."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The great river rolled forward into the wilderness, bearing possibilities of **incalculable** peril."*

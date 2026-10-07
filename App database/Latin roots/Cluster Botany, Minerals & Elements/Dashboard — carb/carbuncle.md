@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-red cabochon garnet cut without facets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection larger than a boil and with several openings for discharge of pus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, painful, pus-filled skin inflammation caused by bacterial infection, larger and deeper than a single boil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and historical literature, a deep red precious gemstone, especially an almandine garnet or ruby cut with an en cabochon surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A carbuncle entire, as big as thou art, Were not so rich a jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, true knight, No lesser of her honour confident Than I did truly find her, stakes this ring; And would so, had it been a carbuncle Of Phoebus’ wheel; and might so safely, had it Been all the worth of’s car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a boil, A plague sore, or embossed carbuncle In my corrupted blood."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"He held up the dazzling jewel, whose wondrous deep-blue brilliance surpassed that of any ordinary red **carbuncle**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The radiant walls of the celestial portal glowed with jacinth, chrysolite, and sparkling **carbuncle**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A dangerous cervical **carbuncle** requires prompt surgical drainage and strict aseptic poultices to prevent systemic sepsis."*

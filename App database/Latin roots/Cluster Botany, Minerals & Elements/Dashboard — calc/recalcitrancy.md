@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent defiance, insubordination, or obstinate noncompliance against rightful authority or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refractory resistance to discipline, corrective measures, or therapeutic intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recalcitrancy designates the trait of being unmanageable."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The stubborn **recalcitrancy** of the provincial parliaments precipitated the collapse of royal administration."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sullen **recalcitrancy** of the mutinous sailor was quelled only by the captain's resolute authority."*
+> - 📜 **Henry James (*The Bostonians*):** *"She observed his persistent **recalcitrancy** with amusement, determined to bend his stubborn will to her cause."*

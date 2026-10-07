@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to near the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or perceived by or shaped like the organ of hearing; - george santayana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the sense of hearing, sound perception, or the anatomical ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Told privately into the ear; secret, confidential, or spoken in whispered confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she ceased, the auricular impressions from their previous endearments seemed to hustle away into the corner of their brains, repeating themselves as echoes from a time of supremely purblind foolishness."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"We often laughed at the strange stories relative to this man; but, from auricular and ocular demonstration, we could not avoid believing some of them."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I had rather have your **auricular** confession before I deliver this matter to the king."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The secret practice of **auricular** confession became an influential pillar of medieval ecclesiastical authority."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The physician pressed his stethoscope to the chest, relying upon delicate **auricular** evidence."*

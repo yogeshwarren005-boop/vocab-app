@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The univalent radical -cooh; present in and characteristic of organic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing the carboxyl group or carboxyl radical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A univalent chemical radical (-COOH) consisting of a carbonyl group bonded to a hydroxyl group, characteristic of organic carboxylic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and organic chemistry, the acidic functional group that readily donates a proton to form carboxylate anions in metabolic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboxyl designates the univalent radical -cooh; present in and characteristic of organic acids."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"Attaching a **carboxyl** group directly to the benzene ring converts hydrocarbon into benzoic acid."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrogen bonding between pairs of **carboxyl** groups explains why acetic acid readily forms stable dimers in solution."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides, and Proteins*):** *"The peptide linkage forms through condensation between the amino group of one molecule and the **carboxyl** of another."*

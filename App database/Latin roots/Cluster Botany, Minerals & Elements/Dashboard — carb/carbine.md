@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light automatic rifle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light automatic rifle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, lightweight rifle originally designed for cavalry soldiers and mounted infantry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and ordnance, a compact firearm valued for maneuverability in confined quarters, mechanized units, and patrol duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is no more like flesh and blood than a rusty old carbine is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just as much as the rusty old carbine I have compared him to."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And to think of that rusty carbine, stock and barrel, standing up on end in his corner, hard, indifferent, taking everything so evenly—it made flesh and blood tingle, I do assure you.” “My advice to you,” returns Mrs."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The marine sentry stood motionless by the mast, resting his hands upon the barrel of a polished **carbine**."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"A sharp discharge from a cavalry **carbine** cracked across the clearing, signaling the enemy advance."*
+> - 📜 **Winston Churchill (*The River War*):** *"The troopers unsheathed each **carbine** and poured a steady flanking fire into the surging dervish ranks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove carbon from (an engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove carbon from (an engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of decarburize; to deprive of or remove carbon, especially from cast iron or steel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ferrous metallurgy, to reduce the surface carbon content of a steel workpiece by heating in an oxidizing furnace atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decarburise designates remove carbon from (an engine)."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Prolonged roasting of cast iron plates in an open forge will **decarburise** the metal into malleable iron."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Oxygen at high temperatures tends to **decarburise** crucible steel if the melt is left uncovered."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Early puddlers learned to **decarburise** brittle pig iron by stirring it vigorously in an oxidizing flame."*

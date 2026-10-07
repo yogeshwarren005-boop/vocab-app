@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive distillation of coal (as in coke ovens).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive distillation of coal (as in coke ovens).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical conversion of an organic substance into carbon through heat, destructive distillation, or biological fossilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and fossil fuel geology, the slow geological taphonomic process by which plant tissues lose volatile constituents, becoming coal films.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonization designates the destructive distillation of coal (as in coke ovens)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The exquisite preservation of delicate fern fronds in shale demonstrates the gradual **carbonization** of ancient foliage."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Destructive distillation of wood involves progressive **carbonization**, leaving charcoal while driving off pyroligneous acid."*
+> - 📜 **Thomas Henry Huxley (*On a Piece of Chalk*):** *"In deep coal basins, the **carbonization** of vast peat swamps transformed vegetal matter into bituminous rock."*

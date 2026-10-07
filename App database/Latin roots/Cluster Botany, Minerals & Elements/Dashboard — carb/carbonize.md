@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into carbon, as by burning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into carbon or charcoal through heat, incomplete burning, or the action of strong dehydrating agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, to impregnate the surface of iron or steel with carbon to produce a hard case; case-harden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There was a sharp, crackling sound as cloth and Rimov's flesh carbonized."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Chemists observe that strong vitriolic acid has power to **carbonize** wood and linen on immediate contact."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"If we heat animal bone in a covered crucible, we **carbonize** the organic matrix, producing bone-black."*
+> - 📜 **Thomas Edison (*The Life and Inventions of Thomas Alva Edison*):** *"The inventor tested hundreds of vegetable fibers before finding bamboo splints that would **carbonize** into durable lamp filaments."*

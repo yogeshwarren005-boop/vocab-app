@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in southern illinois.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southern illinois.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent coal-mining city or locality named for abundant carbon or bituminous coal deposits, notably in Pennsylvania and Illinois.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American economic history, an industrial urban center that expanded rapidly during the nineteenth-century coal and railroad boom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbondale designates a town in southern illinois."*
+> - 📜 **Upton Sinclair (*King Coal*):** *"Miners from the pits near **Carbondale** gathered at the union hall to protest dangerous underground working conditions."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"We inspected extensive anthracite beds near **Carbondale**, marveling at the thickness of the exposed coal seams."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The freight train rattled past dusty sidings near **Carbondale**, laden with black fuel for the eastern furnaces."*

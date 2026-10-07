@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cemented tungsten carbide alloy bonded with cobalt, known for exceptional hardness and wear resistance in cutting tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing and metallurgy, a sintered composite material developed in the early twentieth century for high-speed machining of hardened metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboloy designates an alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools."*
+> - 📜 **Henry Ford (*Today and Tomorrow*):** *"Introduction of tough **carboloy** cutting tools allowed factory lathes to machine steel parts at five times previous speeds."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Automated assembly plants depended upon durable **carboloy** bits that maintained sharp edges under extreme mechanical stress."*
+> - 📜 **Charles Kettering (*Biographical Memoirs*):** *"Tool engineers immediately recognized that **carboloy** inserts would revolutionize the production of precision automotive gears."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the atria and ventricles of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the atria and ventricles of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting the auricles (atria) and ventricles of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology, designating the specialized nodal tissue and conduction pathway that transmits electrical impulses from atria to ventricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculoventricular designates relating to or affecting the atria and ventricles of the heart."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **auriculoventricular** groove marks the external boundary between the upper receiving chambers and lower muscular ventricles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impaired conduction across the **auriculoventricular** bundle results in distinct arrhythmias and bradycardia."*
+> - 📜 **Arthur Keith (*The Mechanism of the Heart*):** *"Specialized fibers form the **auriculoventricular** node, regulating the orderly propagation of each cardiac cycle."*

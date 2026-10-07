@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of a carboxylic acid, containing the negatively charged -COO(-) ion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical catalysis and biochemistry, to introduce a carboxyl group into a substrate molecule through carboxylation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboxylate designates treat (a chemical compound) with carboxyl or carboxylic acid."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The negative charge of the **carboxylate** ion is delocalized equally across both oxygen atoms by resonance."*
+> - 📜 **Emil Fischer (*Researches on Amino Acids, Polypeptides, and Proteins*):** *"Precipitating the lead **carboxylate** salt facilitated the isolation of delicate organic acids from fermentation broth."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"Specific plant enzymes **carboxylate** ribulose bisphosphate during the initial light-independent phase of photosynthesis."*

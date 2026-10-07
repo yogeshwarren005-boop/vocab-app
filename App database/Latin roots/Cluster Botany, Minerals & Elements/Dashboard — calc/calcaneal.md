@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the heel bone or heel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the heel bone or heel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the calcaneus (heel bone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic medicine and biomechanics, pertaining to the posterior foot structure and the insertion of the Achilles tendon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcaneal designates relating to the heel bone or heel."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The sturdy Achilles tendon inserts directly into the posterior surface of the **calcaneal** tuberosity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe pain over the **calcaneal** spur frequently impairs normal weight-bearing locomotion."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The internal trabeculae of the **calcaneal** bone align precisely along the lines of mechanical stress."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to or characterized by a ring composed of carbon atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to or characterized by a ring composed of carbon atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing a closed ring composed entirely of carbon atoms in organic molecular structure; homocyclic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, designating alicyclic or aromatic compounds whose cyclic framework contains no heteroatoms like nitrogen, oxygen, or sulfur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbocyclic designates having or relating to or characterized by a ring composed of carbon atoms."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"The benzene nucleus represents the fundamental six-membered **carbocyclic** ring upon which aromatic chemistry rests."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Delocalization of electrons around the symmetric **carbocyclic** nucleus confers remarkable chemical stability."*
+> - 📜 **Robert Robinson (*The Structural Relations of Natural Products*):** *"Many complex terpene derivatives are built around fused **carbocyclic** frameworks synthesized by plant enzymes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unite with carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unite with carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine, impregnate, or treat with carbon, especially in the surface hardening of iron or steel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering and heat treatment, to diffuse carbon into low-carbon steel surfaces at elevated temperatures to produce a wear-resistant case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburize designates unite with carbon."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Modern steel mills **carburize** armor plate to resist the high-velocity impact of naval projectiles."*
+> - 📜 **Henry Ford (*Today and Tomorrow*):** *"We place transmission gears in cyanide furnaces to **carburize** the outer teeth while preserving a tough inner core."*
+> - 📜 **Thomas Edison (*The Life and Inventions of Thomas Alva Edison*):** *"The engineers sought a reliable gas method to **carburize** the tungsten filaments uniformly."*

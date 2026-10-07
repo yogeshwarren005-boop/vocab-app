@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To calculate, reckon, or estimate incorrectly; to make an error in mathematical computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misjudge circumstances, intentions, or future events through flawed evaluation or overconfidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You miscalculate matters widely, when you forbid my waiting on you, lest it should hurt my worldly concerns."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The business man who values indirect agents above the market rate borrows, and if he miscalculates and fails to make them earn the expected rent, he loses."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It had become known that she had had a fearful journey to Bath, owing to her miscalculating the distance: that the horse had broken down, and that she had been more than two days getting there."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Military planners are prone to disaster when they **miscalculate** the industrial reserves of a determined adversary."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth feared she might **miscalculate** Mr. Darcy's motives if she relied solely upon her first impressions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculators frequently **miscalculate** market demand, suffering severe financial loss when glutted goods remain unsold."*

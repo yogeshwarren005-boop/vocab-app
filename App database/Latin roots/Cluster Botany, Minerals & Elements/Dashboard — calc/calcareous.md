@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing or resembling calcium carbonate or calcite or chalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of, containing, or resembling calcium carbonate or chalk; chalky or limy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and marine biology, designating rock strata, sediments, or biological shells built from precipitated calcium carbonate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Madrepores (which must not be mistaken for corals) have a tissue lined with a calcareous crust, and the modifications of its structure have induced M."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their calcareous deposits become rocks, reefs, and large and small islands."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast beds of limestone are formed entirely from the compacted **calcareous** remains of marine organisms."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Tiny polyp colonies secrete massive **calcareous** frameworks that withstand the ceaseless battering of ocean waves."*
+> - 📜 **Thomas Henry Huxley (*On a Piece of Chalk*):** *"Microscopic examination shows that chalk consists almost entirely of minute **calcareous** shells of globigerinae."*

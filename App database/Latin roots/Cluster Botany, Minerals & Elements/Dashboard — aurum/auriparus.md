@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of paridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of paridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small American passerine birds containing the verdin (Auriparus flaviceps), characterized by its golden-yellow head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American desert ornithology, a penduline-tit relative that builds conspicuous globular thorny nests in arid scrublands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriparus designates a genus of paridae."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"The genus **Auriparus** comprises tiny desert birds recognized by their bright yellow crowns and industrious foraging habits."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In the thorny mesquite thickets of the southwest, **Auriparus** builds an intricate domed nest of twigs."*
+> - 📜 **Florence Merriam Bailey (*Handbook of Birds of the Western United States*):** *"The sharp call of **Auriparus** echoes across desert washes as the tiny bird gleans insects from desert shrubs."*

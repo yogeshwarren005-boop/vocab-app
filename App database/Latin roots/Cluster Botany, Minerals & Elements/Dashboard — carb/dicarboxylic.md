@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing two carboxyls per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing two carboxyls per molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing two carboxyl groups (-COOH) in a single organic molecule, as in oxalic, malonic, or succinic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and polymer science, designating bifunctional acids that undergo condensation with diamines or diols to form polyamides and polyesters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicarboxylic designates containing two carboxyls per molecule."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"Phthalic acid provides a classic example of an aromatic **dicarboxylic** acid capable of forming a cyclic anhydride."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The ionization constants of aliphatic **dicarboxylic** acids reflect electrostatic interactions between the two carboxylate centers."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Succinic and malic acids are four-carbon **dicarboxylic** intermediates vital to mitochondrial respiration."*

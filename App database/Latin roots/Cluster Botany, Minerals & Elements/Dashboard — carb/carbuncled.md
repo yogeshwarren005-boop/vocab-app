@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set with carbuncles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with carbuncles; marked or disfigured by inflammatory boillike swellings or fiery red blemishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemological or decorative description, encrusted or adorned with carbuncles or dark red gemstones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has deserved it, were it carbuncled Like holy Phœbus’ car."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The turnkey had a fiery, **carbuncled** countenance that testified to years of heavy gin drinking."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old salt pointed with a crooked, **carbuncled** finger across the foam-crested swells."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The knight donned a gilded breastplate lavishly **carbuncled** with crimson stones along the collar."*

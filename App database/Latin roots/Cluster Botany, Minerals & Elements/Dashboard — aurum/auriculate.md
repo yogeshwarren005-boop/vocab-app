@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having auricles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having auricles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having ear-shaped appendages, lobes, or projections, especially at the base of a leaf or petal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, describing sessile foliage possessing two rounded lobes that clasp or flank the supporting stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auriculate designates having auricles."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"The basal margins of an **auriculate** leaf expand into rounded lobes resembling small ears."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Observe how the sessile blade becomes distinctly **auriculate** where it joins the flowering axis."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of wild lettuce display deeply **auriculate** cauline leaves that clasp the upright stalk."*

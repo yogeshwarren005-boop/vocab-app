@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (more) diverse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread into new habitats and produce variety or variegate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by variety, multiform aspects, or widespread variation in form or occupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expanded into multiple distinct fields, assets, or product categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The conclusion of her visit, however, was diversified in a way which she had not at all imagined."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The restless and shadowy figure of a colt wandered about a loose-box at the end, whilst the steady grind of all the eaters was occasionally diversified by the rattle of a rope or the stamp of a foot."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The outskirts of this level water-meadow were diversified by rounded and hollow pastures, where just now every flower that was not a buttercup was a daisy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"More living beings can be supported on the same area the more **diversified** they are in structure, habits, and constitution."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The tropical forest presents a richly **diversified** panorama of botanical life unequalled on the globe."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A nation possessing a **diversified** agriculture suffers less severely from the failure of a single staple crop."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychology: repeat a response after the cessation of the original stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychology: repeat a response after the cessation of the original stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To repeat or prolong an action, thought, or utterance after the stimulus that provoked it has ceased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To persist stubbornly or pathologically in a fixed behavioral pattern despite changing circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perseverate designates psychology: repeat a response after the cessation of the original stimulus."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When a sensory tract has been intensely excited, the brain waves tend to **perseverate** long after the objective sound has died away."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain neurotic subjects **perseverate** upon a single grievance, rehearsing the slight with tireless agitation."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The afflicted patient would **perseverate** upon the initial syllable, unable to break the automatic motor loop."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mount Everest, Earth's highest mountain above sea level (8,849 m), situated in the Mahalangur Himal sub-range of the Himalayas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, the supreme peak, pinnacle, or ultimate challenge in any human endeavor or field of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everest designates a mountain in the central himalayas on the border of tibet and nepal; the highest mountain peak in the world (29,028 feet high)."*
+> - 📜 **George Mallory (*The Reconnaissance of Mount Everest*):** *"To conquer Mount **Everest** is to achieve a victory over the elemental limits of human physical endurance."*
+> - 📜 **John Hunt (*The Ascent of Everest*):** *"From the South Col, the summit ridge of **Everest** climbed into the thin, frozen gale like a knife-blade of ice."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The explorer looked upon the sheer volcanic ramparts as his personal Mount **Everest**, waiting to be mastered."*

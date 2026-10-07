@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition obtained by conversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry on a conversation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in familiar, informal verbal discourse or interchange of ideas with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reversed in order, relation, or condition; the exact opposite or inverted counterpart of a proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did you converse, sir, with this gentlewoman?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with me; speak freely. [_Cymbeline and Imogen converse apart._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let them practice and converse with spirits."*
+> - 📜 **William Shakespeare (*Love’s Labour’s Lost*):** *"Conversing with that which you would have, your eyes **converse** with love."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The **converse** proposition is equally true: that whatever diminishes human happiness is morally reprehensible."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men could not **converse** together with any fruit or pleasure, if words did not stand for ideas in the mind of him that speaks them."*

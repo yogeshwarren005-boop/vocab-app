@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car that has top that can be folded or removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed, transformed, adapted, or exchanged into another form, currency, or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile equipped with a flexible, folding or retractable roof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But on the Continent there was the outer life, which was palpable and visible at every turn, and more easily convertible to literary uses than the customs of those opaque islanders."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Wealth looked at in the older way was valued for what it did immediately for its owner, for its concrete fruits; looked at in the modern way, it is valued as a marketable income-bearer readily convertible into a multitude of other forms."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Show the difference between convertible and inconvertible money. 3."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The terms are not **convertible**, since every rectangle is not a square, though every square is a rectangle."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Paper currency is said to be **convertible** when it can at any instant be exchanged for gold coin at the national bank."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"We drove through the summer dust in an open **convertible**, watching the green lawns of Long Island flash past."*

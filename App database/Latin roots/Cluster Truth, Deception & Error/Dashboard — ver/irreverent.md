@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of due respect or veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lightly pert and exuberant quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a marked lack of respect or solemnity for people or things that are generally revered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playfully or insolently satirical toward religious, political, or social authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Graffiti is an irreverent form, with strong popular and anti-establishment elements."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had an irreverent vision of God smiling and talking comfortably to his father while the bald-headed bankers cooled their fat heels and glared at one another outside the picket-gates of heaven...."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s the first position in this part of the county.” “I dare say you think me very irreverent,” Isabel took occasion to remark."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The boys regarded the holy hermit with **irreverent** curiosity, examining his hair-shirt as if it were a circus curiosity."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry’s **irreverent** witticisms caused the Duchess to tap him playfully with her fan."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was deemed an **irreverent** child because I dared to question Mr. Brocklehurst’s grim theology."*

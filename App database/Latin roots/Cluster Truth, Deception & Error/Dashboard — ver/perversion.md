@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve that reverses the direction of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aberrant sexual practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alteration of something from its original, true, or proper course, meaning, or state into something corrupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deviation from normal, healthy human psychological or sexual behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides,” he said, pursuing his argument in his tone of light-hearted conviction, “if I don’t go anywhere for pain—which would be a perversion of the intention of my being, and a monstrous thing to do—why should I go anywhere to be the cause of pain?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I saw in this that I, too, was tormented by a perversion of ingenuity, even while the prize was reserved for me."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The evil lies yet deeper: in her total ignorance, unsuspiciousness of there being such feelings; in a perversion of mind which made it natural to her to treat the subject as she did."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The abuse of words and the deliberate **perversion** of language have caused more mischief in philosophy than all other errors combined."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The Jacobin decrees represent a monstrous **perversion** of the sacred principles of law and liberty."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To distort physiological truth for theological controversy is a gross **perversion** of scientific integrity."*

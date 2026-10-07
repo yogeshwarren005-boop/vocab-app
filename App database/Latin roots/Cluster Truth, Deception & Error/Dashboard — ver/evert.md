@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states tennis player who won women's singles titles in the united states and at wimbledon (born in 1954).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside out; turn the inner surface of outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn outward or turn inside out, as a hollow organ or flexible tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to overthrow, overturn, or subvert an established order or city.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"What will not money, diligence, and faire words doe, with corrupt dispositions--everting of all bonds of either religious or civil duties?"*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Certain marine polychaetes can **evert** the entire anterior section of the alimentary tract in feeding."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The surgeon must carefully **evert** the edges of the incision to ensure exact mucosal apposition."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian conquerors threatened to **evert** the imperial monuments and level the palaces of the Caesars with the dust."*

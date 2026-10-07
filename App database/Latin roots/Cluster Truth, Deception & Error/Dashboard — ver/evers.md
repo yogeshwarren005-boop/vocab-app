@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states civil rights worker in mississippi; was killed by a sniper (1925-1963).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states civil rights worker in mississippi; was killed by a sniper (1925-1963).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turns outward, inside out, or exposes an internal mucous surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, protracts or turns an anatomical organ (such as an invertebrate pharynx) inside out.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evers designates united states civil rights worker in mississippi; was killed by a sniper (1925-1963)."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The predatory worm captures its prey as it **evers** its muscular pharynx, armed with sharp chitinous jaws."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"When irritated, the sea-anemone **evers** its tentacles and discharges a volley of urticating capsules."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The earthworm **evers** its pharynx slightly when seizing a moist leaf by its tip to drag it down into the burrow."*

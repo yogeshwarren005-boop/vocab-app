@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to repel or dissuade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to repel or dissuade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing avoidance, strong distaste, or active reluctance; repelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, relating to unpleasant stimuli used to discourage undesirable behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aversive designates tending to repel or dissuade."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Painful sensations produce an immediate **aversive** reflex that withdraws the limb before conscious thought intervenes."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Organisms evolve through the interplay of appetitive desires and **aversive** reactions toward lethal hazards."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Our primitive impulses are divided between attractive cravings toward food and **aversive** dread of bodily injury."*

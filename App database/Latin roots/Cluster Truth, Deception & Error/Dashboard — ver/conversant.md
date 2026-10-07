@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `with') well informed about or knowing thoroughly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `with') well informed about or knowing thoroughly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Familiar or acquainted with a subject, discipline, or environment through study or experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in frequent interaction or keeping company with others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I much marvel that your lordship, having Rich tire about you, should at these early hours Shake off the golden slumber of repose. ’Tis most strange, Nature should be so conversant with pain."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I want my daughters to become thorough housekeepers, conversant with all the details of every branch of the business."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But my life for it he was either practically conversant with his subject, or else marvellously tutored by some experienced whaleman."*
+> - 📜 **Francis Bacon (*Essays*):** *"Studies serve for delight, for ornament, and for ability; expert men can execute, and perhaps judge of particulars, one by one; but general counsels, and the plots and marshalling of affairs, come best from those that are learned and **conversant** in books."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"You are well **conversant** with my methods, Watson, and know that I never make an assertion without documentary evidence."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"He who is **conversant** with great thoughts finds the petty ambitions of the marketplace singularly hollow."*

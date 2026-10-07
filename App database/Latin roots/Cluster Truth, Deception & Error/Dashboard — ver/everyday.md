@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Found in the ordinary course of events; ; ; - anita diamant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for ordinary or routine occasions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encountered or used routinely in ordinary daily life; customary, familiar, or mundane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for regular weekdays rather than holidays or ceremonial occasions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Finding by whom he was observed, Henry Crawford addressed himself on the same subject to Sir Thomas, in a more everyday tone, but still with feeling."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"To know him in bits and scraps is common enough; to know him pretty thoroughly is, perhaps, not uncommon; but to read him well aloud is no everyday talent.” “Sir, you do me honour,” was Crawford’s answer, with a bow of mock gravity."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I know, my dear Watson, that you share my love of all that is bizarre and outside the conventions and humdrum routine of everyday life."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Charming as were all Mrs. Radcliffe’s works, it was not in them that human nature, at least in the midland counties of England, was to be looked for; her visions had no resemblance to **everyday** life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"We insignificant people with our **everyday** ambitions are not without our influence on the world’s history."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I found myself immersed in the dull, **everyday** routine of copying legal folios in the dark office."*

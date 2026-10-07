@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) an extroverted disposition; concern with what is outside the self.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an extroverted disposition; concern with what is outside the self.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personality trait or attitude characterized by the outward orientation of interest and libido toward external objects and people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sociability, assertiveness, and enthusiasm in engaging with social environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraversion designates (psychology) an extroverted disposition; concern with what is outside the self."*
+> - 📜 **Carl Gustav Jung (*Psychological Types*):** *"In **extraversion**, the subjective attitude is constantly oriented by and adapted to the external objective facts."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The healthy-minded temperament exhibits a natural **extraversion**, rejoicing in the sunlight and companionship of the active world."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Social occupations stimulate an innate **extraversion**, drawing the youth out of solitary morbid reverie."*

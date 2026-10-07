@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (more) diverse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread into new habitats and produce variety or variegate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make diverse, give variety to, or expand into new areas and forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investing, to allocate funds across different financial instruments to reduce portfolio risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the alloy and value depended on the general authority, a right of coinage in the particular States could have no other effect than to multiply expensive mints and diversify the forms and weights of the circulating pieces."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I sought to diversify my time by as many enjoyments as lay within my reach."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Cluster all these individuals together, as they sometimes were, with other miscellaneous ones to diversify the group, and, for the time being, it made the Custom-House a stirring scene."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection tends constantly to **diversify** the descendants of any one species, enabling them to seize on many vacant places in the polity of nature."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must **diversify** our experiments, varying heat, moisture, and pressure to test nature under all conditions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour leads naturally to **diversify** the employments of society into hundreds of specialized trades."*

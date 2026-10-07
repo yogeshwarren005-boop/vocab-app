@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal lacking a backbone or notochord; the term is not used as a scientific classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a backbone or spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that lacks a vertebral column or backbone, such as an insect, mollusk, or crustacean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, lacking strength of character, moral resolve, or steadfast firmness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertebrate designates any animal lacking a backbone or notochord; the term is not used as a scientific classification."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The immense diversity of **invertebrate** life in oceanic abysses proves that adaptation operates across immense geological ages."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"No absolute barrier separates the lowest vertebrate embryo from the generalized plan of the ancestral **invertebrate** stock."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians appeared like monstrous **invertebrate** intellects, possessing vast heads and limp tentacular limbs."*

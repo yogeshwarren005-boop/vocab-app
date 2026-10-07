@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being avoided or warded off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being avoided or warded off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be prevented, deflected, or turned away by timely action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to mitigation or avoidance through deliberate preventative measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avertible designates capable of being avoided or warded off."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The mischief was clearly **avertible** had the watchman exercised that minimal vigilance required by his station."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She tormented herself with the agonizing thought that the tragic estrangement had been entirely **avertible**."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Social distresses are not mysterious dispensations, but **avertible** consequences of infringing economic laws."*

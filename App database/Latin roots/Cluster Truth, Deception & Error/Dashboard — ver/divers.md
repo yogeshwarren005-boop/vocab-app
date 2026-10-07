@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works underwater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dives (into water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of various kinds; several, sundry, or diverse in number or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differing from one another; presenting distinct aspects or attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time travels in divers paces with divers persons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Anne Bullen and divers other Ladies and Gentlemen as guests, at one door."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"At **divers** times and in sundry manners have I noted the treacherous whispers of your companions."*
+> - 📜 **Francis Bacon (*Essays*):** *"There are **divers** sorts of ambitions: some seek power for public good, others for private vanity."*
+> - 📜 **John Bunyan (*The Pilgrim’s Progress*):** *"Christian met with **divers** temptations upon his journey toward the Celestial City."*

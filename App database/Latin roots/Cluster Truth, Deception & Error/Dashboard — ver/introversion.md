@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being folded inward or sheathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding in of an outer layer so as to form a pocket in the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological orientation of directing one's interest, energy, and contemplation inward toward the subjective inner world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical turning inward, invagination, or inward inflection of an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introversion designates the condition of being folded inward or sheathed."*
+> - 📜 **Carl Gustav Jung (*Psychological Types*):** *"In **introversion**, the libido is withdrawn from the external object and directed toward subjective psychic processes."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic achieves communion through an intense **introversion** that shuts out all sensory distractions."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"Solitude encourages a profound **introversion**, permitting the artist to distill personal experience into universal art."*

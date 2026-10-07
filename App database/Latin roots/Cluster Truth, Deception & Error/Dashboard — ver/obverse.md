@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more conspicuous of two alternatives or cases or sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal bearing the principal stamp or design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The side of a coin, medal, or banknote bearing the head or principal heraldic design; opposite of reverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The corresponding, counterpart, or complementary aspect of a fact, truth, or situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This line being straight, continued, and not dissected by obverse little lines, denotes a healthful body."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **obverse** of the golden medallion displayed the diademed head of Constantine, while the reverse celebrated the glory of the army."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Every negative proposition is merely the **obverse** counterpart of an affirmative truth regarding the properties of things."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Cruelty is frequently the tragic **obverse** of an unbridled and undisciplined vanity."*

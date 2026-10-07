@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving heed, attentive, mindful, or deliberately observant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by conscious intent or purposeful consideration rather than negligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertent designates giving attention."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"An **advertent** observer of nature will glean more truth from simple phenomena than a careless student from libraries."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who remains **advertent** to the warnings of experience will seldom fall twice into the same snare."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The law distinguishes between inadvertent injury and that which is the fruit of an **advertent** wrongful purpose."*

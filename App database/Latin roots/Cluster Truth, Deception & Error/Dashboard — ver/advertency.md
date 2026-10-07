@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of being heedful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of being heedful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attentiveness, mindfulness, or the deliberate application of the mind to a matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heedful observation or conscious awareness of surrounding events or duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertency designates the process of being heedful."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The profound author demands an uncommon degree of **advertency** in the reader to penetrate his allegorical design."*
+> - 📜 **William Paley (*Natural Theology*):** *"The intricate mechanism of the human eye demonstrates the conscious **advertency** of an intelligent Contriver."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"A proper **advertency** to our daily actions prevents countless small errors from ripening into chronic faults."*

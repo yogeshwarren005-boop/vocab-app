@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discovering again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discovering again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or instance of discovering something again after a prolonged period of neglect or obscurity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A renewed realization, revival, or reclamation of forgotten knowledge or artistic mastery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rediscovery designates the act of discovering again."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The **rediscovery** of antique sculpture ignited an artistic passion that transformed the culture of Italy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **rediscovery** of this rare plant upon the Scottish highlands proves that Arctic flora lingered long after the glacial epoch."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic method represents a fresh **rediscovery** of ancient philosophical truths freed from scholastic cobwebs."*

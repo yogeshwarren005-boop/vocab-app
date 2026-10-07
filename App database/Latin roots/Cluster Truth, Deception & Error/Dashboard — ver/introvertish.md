@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat introverted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat introverted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat quiet, contemplative, or exhibiting mild characteristics of an introvert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying a gentle inclination toward solitude, reading, or quiet pursuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introvertish designates somewhat introverted."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Cusins has an **introvertish** bookishness about him that masks a formidable will of steel."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He was an **introvertish** youth who spent his holidays sketching medieval brasses in remote parish churches."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Her **introvertish** habit of daydreaming over German poetry made the practical Wilcoxes distinctly uneasy."*

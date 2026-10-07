@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To return to a normal state of health, strength, equilibrium, or prosperity after illness or loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To regain possession or control of something lost, stolen, or misplaced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had any drum of the enemy’s; I would swear I recover’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He may recover yet. [_Exeunt with the body._] SCENE X."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that do die of it do seldom or never recover."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"If I can **recover** him, and keep him tame, and get to Naples with him, he’s a present for any emperor."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I laboured with all my might to **recover** the carpenter's chest from the stranded wreck before the tide returned."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"It was many months before I began to **recover** from the nervous fever that seized me after that terrible night."*

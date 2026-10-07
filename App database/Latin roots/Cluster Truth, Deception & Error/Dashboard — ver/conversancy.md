@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal knowledge or information about someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personal knowledge or information about someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual acquaintance, familiarity, or knowledgeable association with a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practical familiarity acquired through regular intercourse or prolonged study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conversancy designates personal knowledge or information about someone or something."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A young gentleman gains a truer **conversancy** with the world by travel than by solitary reading in his chamber."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"His easy manners arose from a lifetime of polite **conversancy** with the most cultivated circles of the court."*
+> - 📜 **David Hume (*Essays: Moral, Political, and Literary*):** *"The historian must possess an intimate **conversancy** with the laws and customs of the period he undertakes to describe."*

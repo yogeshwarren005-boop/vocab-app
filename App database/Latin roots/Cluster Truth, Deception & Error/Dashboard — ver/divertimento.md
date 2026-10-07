@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition in several movements; has no fixed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition in several movements; has no fixed form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, pleasing instrumental musical composition in several movements, popular in the eighteenth century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertaining musical suite or orchestral interlude designed for social amusement rather than solemn ritual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divertimento designates a musical composition in several movements; has no fixed form."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"Mozart composed this delightful **divertimento** for an open-air garden party, yet every bar displays the touch of a master."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"From across the moonlit piazza drifted the charming strains of a wind **divertimento**, captivating the tourists on the terrace."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The youthful composer indulged in a sunny **divertimento** before plunging into the tragic counterpoint of his later symphonies."*

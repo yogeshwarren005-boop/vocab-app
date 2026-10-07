@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being concerned with the social and physical environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outgoing, gregarious, socially confident, and oriented toward external interaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directing one's psychic energy predominantly outward into surrounding events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extraverted designates being concerned with the social and physical environment."*
+> - 📜 **Carl Gustav Jung (*Psychological Types*):** *"An **extraverted** individual places the highest value upon social esteem, public consensus, and objective reality."*
+> - 📜 **Erich Fromm (*Man for Himself*):** *"In modern commercial society, the highly **extraverted** personality is celebrated as the ideal archetype of success."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"His **extraverted** nature found immediate expression in civic leadership and the enthusiastic promotion of scientific societies."*

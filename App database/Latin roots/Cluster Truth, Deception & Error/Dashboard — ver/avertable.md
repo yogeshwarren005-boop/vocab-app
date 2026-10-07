@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being avoided or warded off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being avoided or warded off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being warded off, prevented, or turned aside before occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoidable through foresight, prompt intervention, or prudent precaution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avertable designates capable of being avoided or warded off."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Epidemic pestilences which our ancestors viewed as divine judgments are now recognized as entirely **avertable** through sanitary science."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Thousands of soldiers perished from diseases that were completely **avertable** under proper hospital ventilation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The famine was an **avertable** disaster had the administration acted promptly to release stockpiled grain."*

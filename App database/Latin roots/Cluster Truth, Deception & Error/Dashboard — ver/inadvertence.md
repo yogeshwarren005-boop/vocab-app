@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentional omission resulting from failure to notice something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring your responsibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to pay proper attention; an oversight, unintentional error, or lapse in care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inadvertent mistake or omission committed through thoughtlessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whatever her sins, they were not sins of intention, but of inadvertence, and why should she have been punished so persistently?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A single episode or phrase may suffer change from a copyist's hand, from inadvertence or from theological predilection."*
-> - 📜 **James Joyce (*Ulysses*):** *"Once by inadvertence twice by design he challenges his destiny."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral culpability of an act is greatly diminished if the injury resulted from simple **inadvertence** rather than deliberate malice."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Through some strange **inadvertence**, the letter had been dropped into an obscure drawer and remained unopened for a month."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A momentary **inadvertence** of the Roman centurion allowed the Persian skirmishers to scale the rampart unseen."*

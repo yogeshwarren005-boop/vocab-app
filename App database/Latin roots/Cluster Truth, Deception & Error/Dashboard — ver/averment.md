@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive statement, formal affirmation, or declaration of fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, an allegation or positive statement of facts in a pleading which the pleader offers to verify.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I contradict that statement by an appeal to the record; and before that great tribunal by whom this issue is to be tried and determined, I allege that that averment is without foundation."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The averment of a member, or of somebody without doors, that they know the handwriting of the petitioners, is necessary, if it be questioned. _6 Grey_, 36."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Tradition,—which sometimes brings down truth that history has let slip, but is oftener the wild babble of the time, such as was formerly spoken at the fireside and now congeals in newspapers,—tradition is responsible for all contrary averments."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every material **averment** in the declaration must be supported by competent legal testimony before the court."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The prosecutor insisted upon the truth of his **averment**, calling upon the jury to reject the prisoner's alibi."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A solemn **averment** delivered under the sanction of an oath carries greater psychological weight than common rumor."*

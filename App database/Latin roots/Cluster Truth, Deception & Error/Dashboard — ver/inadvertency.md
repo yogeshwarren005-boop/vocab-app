@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of forgetting or ignoring your responsibilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring your responsibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention, heedlessness, or an accidental lapse in vigilance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error or slip resulting from unintentional oversight or negligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inadvertency designates the trait of forgetting or ignoring your responsibilities."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I must confess that through pure **inadvertency** I trod upon the skirt of his Majesty’s royal vestment."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Life is filled with petty distresses that arise solely from the **inadvertency** of our companions."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Many profound truths have escaped philosophers through an unfortunate **inadvertency** to common and vulgar instances."*

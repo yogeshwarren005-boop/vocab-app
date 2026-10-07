@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning something aside from its course or intended direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activity that diverts the mind from care or business; a recreation or amusement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, after a moment’s consideration, began, to the great diversion of his mother, which she displayed by nudging Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My one diversion was an oar and a jackknife."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Emperor had a mind one day to entertain me with several of the country shows, wherein they exceed all nations I have known, both for dexterity and magnificence; but none gave me so much **diversion** as that of the rope-dancers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She sought some pleasant **diversion** to relieve the tedium of a long, solitary rainy evening."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The military commander ordered a feigned attack upon the southern redoubt as a tactical **diversion**."*

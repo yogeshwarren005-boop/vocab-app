@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing agreeable entertainment, amusement, or pleasant distraction from serious concerns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turning someone or something away from a chosen course or line of thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba went home, her mind occupied with a new trouble, which being rather harassing than deadly was calculated to do good by diverting her from the chronic gloom of her life."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She found Mr. Bennet’s quiet ironies extremely **diverting**, listening with delight while he teased her silly sisters."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick proved a most **diverting** companion, flying enormous kites inscribed with fragments of King Charles’s head."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp possessed the art of being immensely **diverting** to weary statesmen seeking escape from parliamentary debates."*

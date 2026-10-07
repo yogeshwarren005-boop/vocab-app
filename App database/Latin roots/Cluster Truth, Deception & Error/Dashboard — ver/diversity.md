@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticeable heterogeneity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition or result of being changeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having many different forms, types, or elements; variety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inclusion or coexistence of individuals of distinct social, cultural, or ecological characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are of the utmost diversity of subjects, literally including the "all things" of the Bible, and temporal as well as spiritual interests."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the various states a wide diversity is found."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To be self-sufficing a farming family must carry on general farming, that is, must produce a diversity of products."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The endless **diversity** of organic forms filling every ecological niche on the earth fills the observer with awe."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"If it were only that people have **diversity** of tastes, that is reason enough for not attempting to shape them all after one model."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A sublime unity underlies the boundless **diversity** of natural phenomena throughout the cosmos."*

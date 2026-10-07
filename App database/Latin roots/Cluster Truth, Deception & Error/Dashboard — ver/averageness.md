@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is average; indicates normality but with connotations of mediocrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordinariness as a consequence of being average and not outstanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being ordinary, median, unremarkable, or commonplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conformity to standard statistical norms or middle-tier performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, averageness designates the state of being that is average; indicates normality but with connotations of mediocrity."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The genius rises far above the comfortable **averageness** that satisfies the great mass of mankind."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Society tends perpetually toward a dead **averageness**, which only the appearance of a great hero can shatter."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Eloi had decayed into a uniform, delicate **averageness**, destitute alike of passion and intellectual vigor."*

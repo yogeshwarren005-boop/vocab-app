@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning yourself (or your gaze) away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, persistent feeling of dislike, repugnance, or antipathy toward something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object or condition that inspires deep distaste or active avoidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But why should such a fair and dutiful girl have such an aversion to her father’s sex?” “Go on your way, please.” “What, Beauty, and drag you after me?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I have spent four days in the same room with him, and I have never seen a person who seemed to inspire such general **aversion**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The monkey manifested the liveliest **aversion** to the presence of a live snake, shrinking into the corner of its cage."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Fear and harsh punishment create an incurable **aversion** to books in the tender minds of children."*

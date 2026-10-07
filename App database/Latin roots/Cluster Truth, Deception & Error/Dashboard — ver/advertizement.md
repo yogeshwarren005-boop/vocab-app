@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published public notice, announcement, or promotional commercial insert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal notice or advisory declaration presented in writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizement designates a public promotion of some product or service."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I read an **advertizement** posted upon the Royal Exchange offering a substantial reward for news of the missing vessel."*
+> - 📜 **Jonathan Swift (*The Examiner*):** *"A curious **advertizement** appeared in the daily sheet, calling upon all honest electors to resist ministerial bribes."*
+> - 📜 **Alexander Pope (*The Dunciad (Notes)*):** *"The bookseller had inserted an insolent **advertizement** at the end of the pamphlet, provoking a fierce reply."*

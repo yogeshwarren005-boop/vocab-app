@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At any future time; in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Always, continually, or for all time to come; eternally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Henceforth without interruption or termination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine evermore, most dear lady, whilst this machine is to him, HAMLET._ This in obedience hath my daughter show’d me; And more above, hath his solicitings, As they fell out by time, by means, and place, All given to mine ear."*
+> - 📜 **William Shakespeare (*Richard II*):** *"My heart shall be thy advocate and swear Thy loyalty **evermore**."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Quoth the Raven, ‘Nevermore.’ And his eyes have all the seeming of a demon’s that is dreaming, And the lamplight o’er him streaming throws his shadow on the floor; And my soul from out that shadow that lies floating on the floor Shall be lifted—nevermore, now and **evermore**."*
+> - 📜 **Lord Tennyson (*In Memoriam A.H.H.*):** *"Ring out the old, ring in the new, Ring, happy bells, across the snow: The year is going, let him go; Ring out the false, ring in the true, for **evermore**."*

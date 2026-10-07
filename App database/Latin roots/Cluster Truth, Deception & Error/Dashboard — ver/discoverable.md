@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ascertained or found out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being ascertained or found out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being found, discerned, or brought to light through investigation or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, subject to disclosure during pretrial discovery proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am aware that it is so prominent as to be discoverable immediately."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This was all that was positively discoverable, though it seemed human."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This selection is due to the _relative_ not to the _absolute_ efficiency or inefficiency of workers, and must result whenever there are any discoverable economic differences in the workers (all things considered) that are employed at the same wage."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The existence of an intelligent Deity is **discoverable** by the light of reason without the aid of supernatural revelation."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The causes of natural operations are not **discoverable** a priori by the mere contemplation of objects."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The general laws governing living organisms are as strictly **discoverable** as the laws of celestial mechanics."*

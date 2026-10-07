@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative bedspread (usually quilted).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative bedspread (usually quilted).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative bedspread or top quilt laid over blankets on a bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any light outer covering that spreads gracefully over a sleeping place or surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without the bed her other fair hand was, On the green coverlet; whose perfect white Showed like an April daisy on the grass, With pearly sweat resembling dew of night."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Noticing stains of blood on the bed, he drew down the coverlet and saw that the girl was weltering in her gore, for one of her feet was lopped off."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I folded my shawl double, and spread it over me for a coverlet; a low, mossy swell was my pillow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The counterpane was of patchwork, full of odd little parti-coloured squares and triangles; and this arm of his tattooed all over with an interminable Cretan labyrinth of a figure, looked like a strip of that same patchwork **coverlet**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She smoothed the white linen **coverlet** over the small bed, watching the sleeping invalid with tender solicitude."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I lay beneath the warm patchwork **coverlet** in my little attic room, listening to the murmuring ocean."*

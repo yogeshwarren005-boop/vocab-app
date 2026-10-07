@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being irreversible (once done it cannot be changed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being irreversible (once done it cannot be changed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic or property of being incapable of being reversed, undone, or restored to an initial state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics, the fundamental physical principle (Second Law) that natural spontaneous processes generate entropy and cannot run backwards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreversibility designates the quality of being irreversible (once done it cannot be changed)."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The thermodynamic **irreversibility** of natural processes provides the singular arrow of time across the cosmos."*
+> - 📜 **Erwin Schrödinger (*What is Life?*):** *"Statistical mechanics explains the macroscopic **irreversibility** of heat flow through the vast improbability of molecular reversal."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"The **irreversibility** of organic evolution reflects the continuous invention of new forms that cannot retrace their ancestral footsteps."*

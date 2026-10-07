@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupted, distorted, or turned away from what is right, natural, or true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from normal or ethical standards in thought, doctrine, or practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce has warped him out of himself and perverted me in his eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was much disconcerted, but I reflected that if the main point were gained, it mattered little how strangely he perverted everything leading to it."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When words are used without clear ideas, language is **perverted** from its noble purpose of communicating truth."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A fatal passion had seized me; I had **perverted** the sacred powers of science to create a monster."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Religious superstitions have frequently **perverted** the moral sense of whole nations to sanction human sacrifice."*

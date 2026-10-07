@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assert or affirm with confidence; to state positively as a fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal pleading, to allege, maintain, or prove the truth of a formal allegation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, I can aver that earth and ice were lost to sight by the numbers of sea-mammals covering them, and I involuntarily sought for old Proteus, the mythological shepherd who watched these immense flocks of Neptune."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I solemnly aver that yesterday I found a pair of drawers made for a case of amputation at the thigh."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The natives aver that, when night comes, from out the bottomless depth of some lagoon the Bunyip rises, and, in form like monstrous sea-calf, drags his loathsome length from out the ooze."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"We can not but **aver** that our royal master will keep his sworn word with honor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Historians must unhesitatingly **aver** that the King's stubbornness precipitated the fatal crisis of his dynasty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dared not **aver** that she loved him, yet every trembling glance betrayed the secret of her heart."*

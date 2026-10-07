@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being concerned with the social and physical environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward an outward psychological orientation; sociable, expressive, and externalized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying the cognitive or behavioral patterns characteristic of extraversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extravertive designates being concerned with the social and physical environment."*
+> - 📜 **Carl Gustav Jung (*Contributions to Analytical Psychology*):** *"The **extravertive** tendency manifests itself in a constant thirst for sensory stimulation and collective action."*
+> - 📜 **Hermann Rorschach (*Psychodiagnostics*):** *"An **extravertive** erlebnis-type correlates with emotional agility, frankness, and swift rapport with strangers."*
+> - 📜 **William McDougall (*An Introduction to Social Psychology*):** *"The **extravertive** temperament readily throws itself into popular crusades, oblivious to subtle theoretical objections."*

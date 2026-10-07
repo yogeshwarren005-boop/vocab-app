@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered or regained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recovered or regained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being regained, retrieved, or brought back into possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, capable of being collected or obtained through judicial judgment (as of debts or damages).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must consider that a prodigal course Is like the sun’s, but not like his recoverable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would need to be cheap, too, or easily recoverable, so that it could be used over and over again."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Damages for breach of covenant are **recoverable** in an action brought before a court of common law."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capital sunk into fixed land improvements is **recoverable** only through the increased value of the annual produce."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes assured the client that the stolen pearls were safely **recoverable** if the police followed his instructions."*

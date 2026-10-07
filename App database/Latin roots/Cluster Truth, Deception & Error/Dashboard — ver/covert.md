@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flock of coots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that serves to conceal or shelter something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not openly acknowledged or displayed; secret, clandestine, or veiled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thicket, brushwood, or sheltered hiding place providing refuge for wild animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak of peace, while covert enmity Under the smile of safety wounds the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore let our alliance be combin’d, Our best friends made, our means stretch’d; And let us presently go sit in council, How covert matters may be best disclos’d, And open perils surest answered."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Towards him I made, but he was ware of me And stole into the **covert** of the wood."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A frightened hare bounded from the gorse **covert** and dashed across the silent chalk down."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Social tyranny often operates through **covert** disapproval that chills individual freedom without invoking the magistrate."*

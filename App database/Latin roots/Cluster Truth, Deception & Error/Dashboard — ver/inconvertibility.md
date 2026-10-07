@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being exchangeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being exchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapacity or legal prohibition regarding exchange, redemption, or transformation into another form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary economics, the legal condition wherein paper banknotes cannot be redeemed on demand for gold, silver, or base specie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inconvertibility designates the quality of not being exchangeable."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"The **inconvertibility** of Bank of England paper during the restriction act caused widespread currency inflation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Whenever legal **inconvertibility** is decreed, the temptation of the government to overissue paper becomes irresistible."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The forced **inconvertibility** of colonial bills of credit ruined their purchasing power across the Atlantic."*

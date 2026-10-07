@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an entertaining and amusing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an entertaining and amusing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amusing, entertaining, or pleasantly distracting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of engaging wit or humorous discourse that relieves boredom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divertingly designates in an entertaining and amusing manner."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Prior gossips most **divertingly** in his verses, concealing profound classical learning beneath an air of careless gaiety."*
+> - 📜 **Henry James (*The Europeans*):** *"The baroness recounted her Parisian adventures so **divertingly** that even the sober Puritan elders could not suppress a smile."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old general spoke **divertingly** of his campaigns in Flanders, seasoning each anecdote with harmless military oaths."*

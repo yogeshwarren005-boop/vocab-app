@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irreversible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irreversible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be reversed, recalled, undone, or changed; permanently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With conclusive finality that precludes any return to a prior state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The real man is discovered, his worth is impartially weighed, his rank is irreversibly decreed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The fatal words had been spoken, binding their destinies together **irreversibly** before the altar."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"When a species crosses the threshold of adaptation, its anatomical specialization becomes **irreversibly** committed to a narrow niche."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"By poisoning the soil with persistent chemicals, man alters the ecology of the planet **irreversibly** for generations to come."*

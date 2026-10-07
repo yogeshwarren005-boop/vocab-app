@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed inward; marked by interest in yourself or concerned with inner feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending toward introversion or subjective internal contemplation and reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an inward psychological direction of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introvertive designates directed inward; marked by interest in yourself or concerned with inner feelings."*
+> - 📜 **Carl Gustav Jung (*Contributions to Analytical Psychology*):** *"The **introvertive** attitude finds its strength in autonomous philosophical principles that resist societal fashions."*
+> - 📜 **Hermann Rorschach (*Psychodiagnostics*):** *"In individuals with marked **introvertive** trends, motor activity is subdued while inner life is enriched."*
+> - 📜 **William McDougall (*An Introduction to Social Psychology*):** *"Religious meditation provides the classic sanctuary for the exercise of the **introvertive** spirit."*

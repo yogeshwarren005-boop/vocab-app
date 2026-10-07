@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning inside out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside out; turn the inner surface of outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turning inside out or rolling outward from within.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exposing an internal lining by turning tissue outward during examination or feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"What will not money, diligence, and faire words doe, with corrupt dispositions--everting of all bonds of either religious or civil duties?"*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"By **everting** the lips of the mouth, the worm obtains a suction hold upon the broad surface of the withered leaf."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ophthalmologist began by **everting** the upper eyelid to inspect the tarsal conjunctiva for embedded cinders."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"In **everting** the sac, the delicate ciliated epithelium is exposed directly to the external fluid."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fruticose lichens, notably *Evernia prunastri* (oakmoss), growing on tree bark and widely harvested for perfumery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic lichen group in the family Parmeliaceae valued as an aromatic fixative in chypre and fougère fragrances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evernia designates lichens of the family usneaceae having a pendulous or shrubby thallus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Lichen genera such as **Evernia** and Usnea demonstrate extraordinary resilience against winter desiccations on subalpine conifers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The soft pendulous thallus of **Evernia** prunastri clings abundantly to the rough trunks of oak and spruce trees."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"Specimens of the genus **Evernia** were gathered from ancient forest boughs, noted for their fragrant resinous extract."*

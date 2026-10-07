@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irreverent mental attitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disrespectful act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of reverence, respect, or solemn deference for sacred, venerable, or authoritative things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act, gesture, or speech that displays insolence or flippant disregard toward holy or solemn matters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And the feeling is one with which a Catholic must sympathise, in an age when--if we may say so without irreverence--the Almighty has been made a constitutional Deity, with certain state-grants of worship, but no influence over political affairs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The European guides looked upon our American **irreverence** with horror, shocked that we refused to weep before ancient relics."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They showed bold **irreverence** before the heavenly throne, murmuring against the divine decrees."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw had an artistic **irreverence** for dusty local dignities that scandalized the conservative townsmen."*

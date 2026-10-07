@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately deviant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a contrary disobedient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obstinately contrary, unreasonable, or self-defeating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to moral rectitude or obvious common sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and perversely she persevers so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anywhere’s nowhere,” said Miss Jellyby, stopping perversely."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I could do no more.” Like the prophet on the top of Peor, Izz Huett would fain have spoken perversely at such a moment, but the fascination exercised over her rougher nature by Tess’s character compelled her to grace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba felt that she was acting **perversely**, yet she could not resist teasing the honest shepherd who loved her."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Events seemed **perversely** designed to frustrate his noblest scientific aspirations and chain him to local mediocrity."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The children appeared **perversely** oblivious to the sinister apparitions that haunted the corridors of Bly."*

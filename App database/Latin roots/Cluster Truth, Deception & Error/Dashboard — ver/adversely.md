@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adverse manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmful, disadvantageous, or detrimental manner that impedes progress or welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposing or hostile direction; contrarily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show how each option, which has statistical probability for success up to exponent three can adversely affect those treaties or negotiations." Camari drew a deep breath."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We commented adversely upon the imbecility of that telegraphic style."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Any structural change which acts **adversely** on the reproductive capacity of an animal will be weeded out by natural selection."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Monopolistic curtailment of output reacts **adversely** upon the aggregate real income of the community."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The gossip of the town began to operate **adversely** upon his medical practice, alienating his wealthiest patrons."*

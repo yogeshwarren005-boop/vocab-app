@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works underwater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dives (into water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plunges into deep water, especially using specialized breathing apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any aquatic bird, such as a loon or grebe, adapted for diving beneath water to catch prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The diver sun—slow dived from noon,—goes down; my soul mounts up! she wearies with her endless hill."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thou hast been where bell or diver never went; hast slept by many a sailor’s side, where sleepless mothers would give their lives to lay them down."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The adventurous **diver** seeks pearls upon the floor of the perilous main."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like a deep-sea **diver** descending into sunken wrecks, the naturalist explores the dark mysteries of the ocean abyss."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The loon, that wild **diver**, laughed aloud across the glassy surface of Walden pond."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of being turned outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning inside out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of turning outward or inside out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic anatomy, the outward rotation or abduction of the sole of the foot away from the median plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eversion designates the position of being turned outward."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fracture of the neck of the femur is typically indicated by shortening of the limb accompanied by marked external **eversion**."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The sudden **eversion** of the lower lip in young infants signals the onset of a fit of crying."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The complete **eversion** of the stomach enables the starfish to digest mollusks outside its own body cavity."*

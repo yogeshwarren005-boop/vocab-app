@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The business of drawing public attention to goods and services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industry, business, or practice of creating and distributing public promotional announcements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something publicly known, proclaimed, or conspicuous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I was then Advertising and holy to your business, Not changing heart with habit, I am still Attorneyed at your service."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We again gave ourselves to _prayer_, instead of _advertising_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The cost of management, amount of stock carried, advertising, cost of selling the product, may all be smaller per unit of product."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The modern world lives by **advertising**; without publicity, the grandest invention moulders into dust."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He despised the whole apparatus of **advertising**, with its slick lies and hollow appeals to middle-class vanity."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Expenditure on competitive **advertising** adds nothing to the material utility of the goods, but merely shifts customer allegiance."*

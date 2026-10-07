@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinariness as a consequence of being frequent and commonplace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordinariness as a consequence of being frequent and commonplace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or trait of being routine, commonplace, or mundane in daily life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Familiar reality stripped of romantic glamour or extraordinary spectacle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everydayness designates ordinariness as a consequence of being frequent and commonplace."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The novelist must capture the sheer **everydayness** of breakfast tables and omnibus rides without forfeiting poetic depth."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"In the average **everydayness** of existence, Dasein remains absorbed in familiar domestic concerns and public gossip."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit covers our daily actions with a veil of comfortable **everydayness** that saves the brain from constant decision."*

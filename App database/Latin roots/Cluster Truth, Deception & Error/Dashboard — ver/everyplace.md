@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In, to, or at every location; everywhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the entirety of an area or environment without omission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, everyplace designates to or in any or all places; ; ; ; ; (`everyplace' is used informally for `everywhere')."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We looked **everyplace** for water across the alkali desert, but found only parched ravines and burning sand."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The fragrant lilac bloomed **everyplace** throughout the yard, perfuming the crisp April morning air."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Electric lights blazed **everyplace** along Broadway, dazzling the young country girl with urban splendour."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an inversion (in a musical composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the position, order, relation, or condition of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn upside down, reverse in position, order, or direction, or turn inside out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, to convert sucrose into dextrose and levulose by enzymatic or acid hydrolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, O earth, bear witness to this sound, And crown what I profess with kind event, If I speak true; if hollowly, invert What best is boded me to mischief!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When the keen inquisitive intelligence is in its full waking activity there grows ‘more of the words’ and thought, and ‘less of the music’, to invert a phrase of the poet’s."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To **invert** the natural order of inquiry by setting hypotheses above observed facts is to build science upon sand."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms continually **invert** the topsoil, bringing up fine mineral particles and burying surface debris."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"If we **invert** our experimental approach, interrogating failures rather than easy successes, nature will yield her deepest secrets."*

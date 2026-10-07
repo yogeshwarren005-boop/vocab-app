@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinary person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinary person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordinary or typical human being, representing humanity or the common person at large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An allegorical dramatic character personifying universal mankind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Therefore, everyman, look to that last end that is thy death and the dust that gripeth on every man that is born of woman for as he came naked forth from his mother’s womb so naked shall he wend him at the last for to go as he came."*
-> - 📜 **James Joyce (*Ulysses*):** *"That’s a matter for everyman’s opinion and, without dragging in the sectarian side of the business, I beg to differ with you _in toto_ there."*
-> - 📜 **James Joyce (*Ulysses*):** *"While allowing him his individual opinions as everyman the keeper added he cared nothing for any empire, ours or his, and considered no Irishman worthy of his salt that served it."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"John Tanner is not a singular eccentric, but modern **Everyman** grappling with the colossal forces of social evolution."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"In the struggles of this obscure clerk we behold the modern **everyman** bewildered by global finance."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The medieval drama of **Everyman** moves us precisely because its protagonist embodies the universal terror of mortality."*

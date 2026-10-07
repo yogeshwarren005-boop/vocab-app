@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get to know or become aware of, usually accidentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find, see, or learn of something unexpected or previously unknown for the first time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to disclose, uncover, make known, or reveal a hidden secret.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where yond pine does stand I shall discover all."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Let the curtains drawn aside **discover** the golden caskets to the noble Prince."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prosperity doth best **discover** vice, but adversity doth best discover virtue."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Future observers will undoubtedly **discover** many new transitional links among fossil organisms."*

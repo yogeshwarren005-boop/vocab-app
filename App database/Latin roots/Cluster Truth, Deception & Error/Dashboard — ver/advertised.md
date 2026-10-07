@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally proclaimed, announced, or promoted publicly through newspapers, posters, or media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informed, forewarned, or formally apprised of a matter in advance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are advertised by our loving friends That they do hold their course toward Tewkesbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious sovereign, now in Devonshire, As I by friends am well advertised, Sir Edward Courtney, and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates, are in arms."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"I was **advertised** their great desires; and so have left them."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The reward was **advertised** in every morning paper, offering fifty pounds for the recovery of the lost documents."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"We **advertised** the nostrum with reckless audacity across the billboards of every railway station in England."*

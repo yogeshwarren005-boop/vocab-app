@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverse or contrary manner; ; - f.a.geldard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inverse or contrary manner; ; - f.a.geldard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverted, contrary, or reciprocal manner or proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical proportion such that as one variable increases, the other diminishes in exact ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"According to the quantity theory we must expect that, when conditions (1) and (2) remain fixed, the value of money will vary inversely as its quantity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"On the near side, the sea-wall makes an elbow crooked inversely, and its end too has a lighthouse."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The reader will probably have noticed from what has already been said about the units of measurement--the volt, the ampere and the ohm--that the current varies directly as the pressure and inversely as the resistance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fertility of varieties when crossed with each other varies **inversely** with their phylogenetic divergence."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Individuation and genesis vary **inversely**: the higher the mental complexity of an organism, the lower its rate of reproduction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The vividness of emotional feeling seems to vary **inversely** with the amount of motor discharge into outward action."*

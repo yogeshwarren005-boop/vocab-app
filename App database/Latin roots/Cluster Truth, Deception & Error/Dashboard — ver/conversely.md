@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the terms of the relation reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the terms of the relation reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverted, reciprocal, or opposite manner; on the other hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the perspective of a reversed premise or counter-proposition in formal logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What Jesus then teaches on prayer will illuminate what he means by God; and conversely his conception of God will throw new light upon the whole problem of prayer."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is a received and well-founded maxim, that where no other circumstances affect the case, the greater the power is, the shorter ought to be its duration; and, conversely, the smaller the power, the more safely may its duration be protracted."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The several bills of rights in Great Britain form its Constitution, and conversely the constitution of each State is its bill of rights."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If species have descended from other species by insensibly fine gradations, why do we not everywhere see innumerable transitional forms? Or **conversely**, why is not all nature in confusion instead of the species being well defined?"*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Pleasure and freedom from pain are the only things desirable as ends; and **conversely**, all desirable things are desirable either for pleasure or as means to pleasure."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention determines what impressions shall enter memory, and **conversely**, our stored memories dictate what shall next arrest attention."*

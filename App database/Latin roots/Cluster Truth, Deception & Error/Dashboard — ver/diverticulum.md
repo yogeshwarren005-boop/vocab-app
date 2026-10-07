@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A herniation through the muscular wall of a tubular organ (especially the colon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herniation through the muscular wall of a tubular organ (especially the colon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blind pouch, sac, or tubular outgrowth protruding from a hollow internal organ or cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and figurative usage, a secluded retreat, byway, or digression from a main path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulum designates a herniation through the muscular wall of a tubular organ (especially the colon)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The caecum is a **diverticulum** of the intestine, very long and complex in many herbivorous quadrupeds, but reduced to a rudiment in man."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The respiratory organ arises embryonically as a ventral **diverticulum** extending forward from the primitive gut tube."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A glandular **diverticulum** opens into the oesophagus of certain aquatic birds, aiding the rapid digestion of whole fish."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irreverent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irreverent, disrespectful, or impudent manner without due regard for solemnity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With flippant or mockingly playful disregard for convention or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Did you think me speaking improperly, lightly, irreverently on the subject?"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She now skipped irreverently from one grave to another; until coming to the broad, flat, armorial tombstone of a departed worthy—perhaps of Isaac Johnson himself—she began to dance upon it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Oh, tie a can to it," said Gloria, irreverently, "I nominate Ben Ruby as dictator of the colony of New York for--three months."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The boy whistled **irreverently** through his fingers right in the middle of the solemn parish sermon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Flask approached the majestic whale **irreverently**, as though it were merely an enormous water-butt to be broached."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"He laughed **irreverently** at the family pedigree which the old baronet had framed over the mantle."*

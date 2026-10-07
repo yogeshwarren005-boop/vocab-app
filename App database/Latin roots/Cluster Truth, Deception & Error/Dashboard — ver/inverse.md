@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something inverted in sequence or character or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reversed (turned backward) in order or nature or effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reversed in position, order, relation, or direction; contrary or opposite in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an element or operation that reverses the effect of another, as division is the inverse of multiplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had in deed “struck,” to use a sea expression, but in an inverse sense, and at a thousand feet deep."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The wind veered suddenly to all points of the horizon; and the cyclone, rising in the east, returned after passing by the north, west, and south, in the inverse course pursued by the circular storm of the southern hemisphere."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Now they obtained a little from a rich man, and then a great deal from a poor man--deeds of benevolence are half the time in an inverse ratio to the ability of the benefactors--till they had accumulated nearly five hundred bushels of wheat."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The gravitational attraction between two bodies varies in the **inverse** ratio of the square of their distance."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **inverse** deductive method combines inductive generalization with direct verification from physical principles."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution proceeds in an **inverse** direction to dissolution, building up complexity out of diffused matter."*

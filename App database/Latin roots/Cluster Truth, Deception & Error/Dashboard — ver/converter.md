@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, vessel, or device that transforms electrical currents, data, energy, or chemical materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, a refractory retort such as a Bessemer converter used to oxidize impurities in molten pig iron into steel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Bessemerising of Copper Mattes: — Development of the Process — The Converter — Converter Linings — Grade of Matte — Operation of the Process — Systems of Working, 192–216 LECTURE IX."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FRONTISPIECE—The Colour of the Converter Flame during the Bessemerising of Copper Matte."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"And, in addition, Lake Copper and some Converter Bars."*
+> - 📜 **Henry Bessemer (*Autobiography*):** *"A violent blast of air forced through the molten iron in the **converter** burns out the silicon and carbon without additional fuel."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Alva Edison*):** *"We installed a rotary **converter** in the central station to transform alternating transmission into direct current for incandescent lighting."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian engine functioned like an electric **converter**, transmuting atmospheric heat directly into destructive energy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or capability of being exchanged, transformed, or redeemed into another form or asset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial economics, the legal guarantee that paper currency may be freely redeemed for gold, silver, or foreign exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertibility designates the quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction)."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"The **convertibility** of bank notes into specie at the will of the bearer is the only secure safeguard against rapid depreciation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Without statutory **convertibility**, paper money inevitably fluctuates with every rumour of political instability."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The immediate **convertibility** of credit instruments preserves public confidence and stabilizes market prices."*

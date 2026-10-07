@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the space between two vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the space between two vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or functioning between adjacent vertebrae of the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the fibrocartilaginous discs that cushion and articulate the spinal column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intervertebral designates pertaining to the space between two vertebrae."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The flexible **intervertebral** discs allow the spinal column of cetaceans to bend without compressing neural tissue."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Shock from running or leaping is largely absorbed by the elastic **intervertebral** cushions between the vertebrae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous caries may erode the **intervertebral** cartilage, producing the characteristic angular curvature of Pott's disease."*

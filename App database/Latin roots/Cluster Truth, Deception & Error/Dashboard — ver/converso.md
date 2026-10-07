@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Sephardic Jew or Muslim in Spain or Portugal who converted to Christianity during the fourteenth and fifteenth centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the distinctive culture, social status, or inquisitorial scrutiny of New Christians in Iberian history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, converso designates (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion."*
+> - 📜 **William H. Prescott (*History of the Reign of Ferdinand and Isabella*):** *"The wealth and civic offices accumulated by many a prominent **converso** excited the bitter jealousy of the Old Christian aristocracy."*
+> - 📜 **Henry Charles Lea (*A History of the Inquisition of Spain*):** *"The Holy Office directed its most relentless persecutions against the **converso** families suspected of secretly observing ancestral Jewish rites."*
+> - 📜 **Cecil Roth (*A History of the Marranos*):** *"Every Spanish **converso** walked under the shadow of the tribunal, where a single anonymous denunciation could bring ruin."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At any time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At all times; all the time and on every occasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At any time, throughout continuous duration, or on any occasion whatsoever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Always, unceasingly, or perpetually across an indefinite extent of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, thy love though much, is not so great, It is my love that keeps mine eye awake, Mine own true love that doth my rest defeat, To play the watchman ever for thy sake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Doubt thou the stars are fire; Doubt that the sun doth move; Doubt truth to be a liar; But never doubt I love. O dear Ophelia, I am ill at these numbers: I have not art to reckon my groans: but that I love thee best, O most best, believe it. Adieu. Thine **ever**more, most dear lady, whilst this machine is to him, HAMLET."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To do aught good never will be our task, But **ever** to do ill our sole delight."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Whatever our souls are made of, his and mine are the same; and Linton’s is as different as a moonbeam from lightning, or frost from fire, now and **ever**."*

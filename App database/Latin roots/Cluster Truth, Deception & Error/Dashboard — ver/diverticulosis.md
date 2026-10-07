@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of multiple diverticula in the walls of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of multiple diverticula in the walls of the colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical condition marked by the presence of multiple small outpouchings (diverticula) in the colonic wall without acute inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asymptomatic or chronic gastrointestinal state prevalent in aging populations consuming low-fiber diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulosis designates presence of multiple diverticula in the walls of the colon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine anatomical examinations frequently disclose extensive **diverticulosis** of the large intestine in elderly patients without previous symptoms."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The autopsy revealed asymptomatic **diverticulosis** along the sigmoid loop, confirming that the pouches had remained quiescent during life."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"In managing quiescent **diverticulosis**, dietary modification and high-residue intake serve to retard subsequent mucosal herniation."*

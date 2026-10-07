@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be persistent, refuse to stop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To continue steadfastly in a course of action in spite of difficulty, opposition, or lack of immediate success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To endure patiently through prolonged trial, hardship, or labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess still stood hesitating like a bather about to make his plunge, hardly knowing whether to retreat or to persevere, when a figure came forth from the dark triangular door of the tent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Away walked Catherine in great agitation, as fast as the crowd would permit her, fearful of being pursued, yet determined to persevere."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Teachers and pupils may look coldly on you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these feelings will ere long appear so much the more evidently for their temporary suppression."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Ay, do, **persevere** in thy false aspect, and turn thy countenance against my face."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I did not despair; from my infancy I had been imbued with the hope of great discoveries, and I resolved to **persevere**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt exhorted me to **persevere** through every trial, reminding me that firm resolve conquers all obstacles."*

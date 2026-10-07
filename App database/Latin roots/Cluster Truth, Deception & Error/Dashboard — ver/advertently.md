@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a careful deliberate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a careful deliberate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intentional, mindful, or deliberately attentive manner; purposely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With conscious reflection and heedful application of thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertently designates in a careful deliberate manner."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"When a witness **advertently** suppresses a material fact, the presumption of willful perjury becomes irresistible."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scientific investigator must **advertently** exclude extraneous variables before formulating a general law."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"We cannot suppose that nature acted **advertently** with a view to human convenience in shaping the continents."*

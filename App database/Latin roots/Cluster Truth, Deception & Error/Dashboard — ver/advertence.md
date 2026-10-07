@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of being heedful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of being heedful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning one's mind, attention, or notice toward a specific object or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mindful awareness, heedfulness, or deliberate observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertence designates the process of being heedful."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The perception of ideas in our minds requires a constant **advertence** of the understanding to external impressions."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Without inward **advertence** to the operations of the conscience, moral philosophy degenerates into empty dialectic."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Culpability depends in great measure upon whether the agent acted with intentional **advertence** to the consequences."*

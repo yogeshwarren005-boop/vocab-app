@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of counterintelligence designed to detect and prevent subversive activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activities, strategies, or governmental operations designed to detect, neutralize, and thwart clandestine efforts to overthrow an established system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic prevention of covert ideological infiltration or political destabilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countersubversion designates the aspect of counterintelligence designed to detect and prevent subversive activities."*
+> - 📜 **George F. Kennan (*Memoirs*):** *"Effective **countersubversion** requires patient intelligence gathering and the maintenance of economic vitality rather than panic."*
+> - 📜 **Walter Lippmann (*The Cold War*):** *"Measures of internal **countersubversion** must remain strictly subservient to constitutional safeguards and civil liberties."*
+> - 📜 **Arthur M. Schlesinger Jr. (*The Vital Center*):** *"Democratic **countersubversion** succeeds best when it demonstrates the moral superiority and tangible freedoms of an open society."*

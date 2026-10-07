@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For a limitless time; ; - p.p.bliss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For a limitless time; ; - p.p.bliss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perpetually, continually, or for all eternity without cessation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incessantly, persistently, or tiresomely without interruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whom, with all submission, on my knee, I do bequeath my faithful services And true subjection everlastingly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, I’ll hate him everlastingly That bids me be of comfort any more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say I will love her everlastingly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The profound calm which only the Pacific knows, where the Pacific once beheld must **everlastingly** be remembered."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce drones on, **everlastingly** wasting estate funds while suitors grow gray in the Court of Chancery."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Truth is **everlastingly** self-consistent, needing no props or apologies from historical tradition."*

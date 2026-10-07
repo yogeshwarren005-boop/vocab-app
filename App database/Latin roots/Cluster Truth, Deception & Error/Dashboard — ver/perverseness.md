@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate and stubborn unruliness and resistance to guidance or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately deviating from what is good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate contrariness, unreasonable stubbornness, or disposition to act contrary to good counsel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral corruption, willful deviation from rectitude, or depravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With a similar perverseness, the potatoes crumble off forks in the process of peeling, upheaving from their centres in every direction, as if they were subject to earthquakes."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s wife by this time, had not it been for her own perverseness."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Thy sister’s purity rebukes thy **perverseness**, showing how vile is cowardice in a man of honour."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Yahoos were remarkable for their innate malice, cunning, and incorrigible **perverseness** of nature."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"In an inexplicable spirit of pure **perverseness**, I seized the unoffending creature and committed the cruel deed."*

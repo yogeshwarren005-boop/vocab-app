@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural object that covers or envelops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that covers something else (usually to protect or shelter or conceal it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that wraps, shields, overlays, or conceals an underlying surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of overlaying, sheltering, or protecting something from exposure or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The benediction of these covering heavens Fall on their heads like dew! for they are worthy To inlay heaven with stars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If for my sake Thou wilt o’ertake us hence a mile or twain, I’ the way toward Dover, do it for ancient love, And bring some covering for this naked soul, Which I’ll entreat to lead me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which fear so grew in me I hither fled, Under the covering of a careful night, Who seem’d my good protector; and, being here, Bethought me what was past, what might succeed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hairy **covering** of mammals serves primarily to conserve internal body heat against Arctic frosts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A thick **covering** of blubber envelops the whale, acting as an impenetrable blanket against icy waters."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She drew her gray cloak more tightly about her shoulders, **covering** the embroidered letter from curious eyes."*

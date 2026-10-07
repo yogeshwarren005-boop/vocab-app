@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of various genera of the family compositae having flowers that can be dried without loss of form or color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever or indefinitely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enduring throughout all time; eternal, endless, or having infinite duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, any plant whose flowers retain their color and form long after drying (such as *Helichrysum*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Especially he hath incurred the everlasting displeasure of the king, who had even tun’d his bounty to sing happiness to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I had thought to have let in some of all professions that go the primrose way to the **everlasting** bonfire."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The **Everlasting** Yea rings out across the soul, affirming that man was born not to despair but to labor and create."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The morning wind blows forever, the poem of creation is uninterrupted; but few are the ears that hear this **everlasting** melody."*

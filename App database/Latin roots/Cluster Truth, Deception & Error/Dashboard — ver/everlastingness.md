@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of lasting forever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lasting forever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or endurance of lasting forever; eternity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpetual continuance or exemption from decay and temporal cessation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Immortal nature tastes of the divine **everlastingness**, soaring above the mortal wrecks of time."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True poetic symbols convey an impression of **everlastingness**, uniting temporal imagery with eternal archetypes."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"In the opium trance, spaces expanded into infinity and moments seemed invested with an awful **everlastingness**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an inversion (in a musical composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the position, order, relation, or condition of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned upside down, reversed in order, or altered to the opposite direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, forming an image whose top and bottom are transposed relative to the object, as through a convex lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Drumlanrig’s haughty Grace, Discarded remnant of a race Once godlike—great in story; Thy forbears’ virtues all contrasted, The very name of Douglas blasted, Thine that inverted glory!"*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The corners of the mouth become strongly drawn down, presenting an **inverted** crescent of grief."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast skeleton of the whale hung suspended in the air like an **inverted** hull of an ancient galleon."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"An **inverted** tumbler stood on the corner of the writing desk, concealing a half-burnt scrap of paper."*

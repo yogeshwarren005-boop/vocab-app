@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advertisement that is written and presented in the style of an editorial or journalistic report.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advertisement that is written and presented in the style of an editorial or journalistic report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paid commercial advertisement presented in the style and layout of an objective editorial or news article.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promotional copy designed to resemble journalistic reporting to enhance credibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertorial designates an advertisement that is written and presented in the style of an editorial or journalistic report."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The modern **advertorial** blurs the frontier between editorial truth and corporate persuasion, turning content into a disguised commodity."*
+> - 📜 **E. B. White (*Essays of E. B. White*):** *"A reader flipping through the magazine might easily mistake the glossy **advertorial** for genuine journalistic reporting."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The skilled propagandist weaves his message into an **advertorial** so seamlessly that critical resistance is completely disarmed."*

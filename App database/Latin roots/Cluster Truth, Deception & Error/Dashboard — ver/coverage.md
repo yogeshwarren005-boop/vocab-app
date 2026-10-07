@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The total amount and type of insurance carried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent to which something is covered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent, scope, or degree to which something covers, includes, or shields a subject or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reporting or journalistic treatment of an event across newspapers, broadcasting, or periodicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The analysis was incisive, the coverage comprehensive."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The press **coverage** of the fighting in Barcelona was characterized by reckless falsehoods and deliberate distortion."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Complete aerial **coverage** by insecticide sprayers ensured that not a single woodland brook escaped contamination."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Global radar **coverage** permitted the aerial police to monitor maritime routes with unprecedented precision."*

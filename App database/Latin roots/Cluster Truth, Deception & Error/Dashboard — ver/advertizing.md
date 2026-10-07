@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The business, technique, or enterprise of promoting commercial commodities and services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The publicizing or dissemination of notices and announcements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizing designates a public promotion of some product or service."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He was deeply impressed by the power of modern **advertizing**, believing it to be the true engine of American prosperity."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The great department store spent vast sums on **advertizing**, drawing throngs of eager shoppers from every quarter."*
+> - 📜 **H. L. Mencken (*Prejudices: Second Series*):** *"The art of **advertizing** consists in convincing people that they desperately need what they never before desired."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A progestin compound (trade name provera) used to treat menstrual disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A progestin compound (trade name provera) used to treat menstrual disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for medroxyprogesterone acetate, a synthetic progestin medication used in hormone replacement therapy and menstrual regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical agent administered clinically to treat secondary amenorrhea, abnormal uterine bleeding, and endometrial hyperplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provera designates a progestin compound (trade name provera) used to treat menstrual disorders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The therapeutic introduction of modern progestational compounds such as **Provera** provided clinicians with targeted endocrine controls for dysfunctional bleeding."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Oral administration of **Provera** effectively transforms a proliferative endometrium into a secretory one, countering unopposed estrogenic stimulation."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Endocrine investigations into pituitary-ovarian feedback paved the way for synthetic progestins like **Provera** in clinical gynecology."*

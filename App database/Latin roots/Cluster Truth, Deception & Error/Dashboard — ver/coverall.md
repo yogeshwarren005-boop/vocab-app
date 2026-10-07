@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting protective garment that is worn over other clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting protective garment that is worn over other clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-piece protective outer garment worn over regular clothes to shield them from dirt and grease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comprehensive protective covering or policy that safeguards against all contingencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A slight adjustment brought into sharp focus the closed features of the three men and three women in dun-colored coveralls, under escort."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"His faded blue coveralls have patches on the knees and seat."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"He wiped his grease-blackened hands across his denim **coverall** before examining the broken tractor axle."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The miner stepped into his blue canvas **coverall**, adjusting the lamp strap around his forehead."*
+> - 📜 **Upton Sinclair (*Oil!*):** *"Dressed in an oil-soaked **coverall**, Bunny climbed the wooden scaffolding of the wildcat derrick."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that results in a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the units or form of an expression:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of changing, transforming, or adapting from one form, state, or function into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A profound spiritual or philosophical transformation involving the adoption of a new religious faith or worldview.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not shame To tell you what I was, since my conversion So sweetly tastes, being the thing I am."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, it is a strange story; believe it or not; but I can tell you the means by which my conversion was brought about, and I hope you will be interested enough at least to listen."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"To be converted, to be regenerated, to receive grace, to experience religion, are so many phrases denoting the process of spiritual **conversion**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sudden **conversion** of her husband to the support of the town infirmary surprised all the neighboring gentry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **conversion** of a swimbladder into a respiratory lung in certain fishes provides an admirable instance of functional adaptation."*

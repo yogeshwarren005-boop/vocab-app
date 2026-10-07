@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing antithesis or opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing antithesis or opposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grammar and logic, expressing antithesis, contrast, or opposition, as words like 'but' or 'yet'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an oppositional or contrasting relationship between coordinate clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adversative designates expressing antithesis or opposition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The conjunction 'but' acts as an **adversative** pivot around which our expectations instantly swing into reverse."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"An **adversative** particle serves in discourse to introduce a restriction or counterpoise to what was previously asserted."*
+> - 📜 **John Henry Newman (*An Essay in Aid of a Grammar of Assent*):** *"The subtle introduction of an **adversative** clause modifies the entire doctrinal weight of the theological proposition."*

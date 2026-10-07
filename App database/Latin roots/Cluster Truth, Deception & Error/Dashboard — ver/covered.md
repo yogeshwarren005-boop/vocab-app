@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a covering or cause to be covered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a cover over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overlaid, shielded, hidden, or wrapped with a protective or concealing layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traversed a given distance, or addressed a specific range of topics in discussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the table, sir, it shall be served in; for the meat, sir, it shall be covered; for your coming in to dinner, sir, why, let it be as humours and conceits shall govern. [_Exit._] LORENZO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What good is covered with the face of heaven, To be discovered, that can do me good?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The spring, the head, the fountain of your blood Is stopp’d; the very source of it is **covered**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The ground was **covered** with a deep snow that chilled my weary feet at every step."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner sat with his face **covered** by his hands, awaiting the dreaded verdict of the tribunal."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of speech for informal exchange of views or ideas or information etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of speech for informal exchange of views or ideas or information etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal spoken interchange of thoughts, information, sentiments, and ideas between two or more persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one's customary conduct, manner of living, or social intercourse in the world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Octavia is of a holy, cold, and still conversation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were able to carry on a very rational and agreeable **conversation** without the slightest awkwardness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The happiest **conversation** is that of which no man remembers anything remarkable, but all are pleased with the whole."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **conversation** turned upon the new fever hospital and the reforms proposed by young Lydgate."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to an original state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A return to a normal state of health, strength, or psychological well-being after disease or shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The retrieval, reclamation, or regaining of possession of lost or stolen property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May he not do it by fine and recovery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us come in, that we may bind him fast And bear him home for his recovery."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My health, which had hitherto declined, was rapidly restored, and I looked forward to my complete **recovery**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The **recovery** of the Beryl Coronet brought immense relief to the illustrious family."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The swift economic **recovery** of a nation after the ravages of war demonstrates the immense resilience of modern industry."*

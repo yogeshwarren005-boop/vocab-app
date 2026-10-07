@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of count nouns) each and all of the members of a group considered singly and without exception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each and all of a series of entities or intervals as specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used before a singular noun to refer to all the individual members of a set without exception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete, entire, or the greatest possible degree of a quality (as in 'every confidence').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And this our life exempt from public haunt Finds tongues in trees, books in the running brooks, Sermons in stones and good in **every** thing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Slow though the process of selection may be, if feeble man can do much by his powers of artificial selection, I can see no limit to the amount of change which may be effected by Nature's hand in **every** department of organic life."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"To believe your own thought, to believe that what is true for you in your private heart is true for all men,—that is genius. Speak your latent conviction, and it shall be the universal sense; for the inmost in due time becomes the outmost, and our first thought is rendered back to us by the trumpets of the Last Judgment. Familiar as the voice of the mind is to each, the highest merit we ascribe to Moses, Plato and Milton is that they set at naught books and traditions, and spoke not what men, but what they thought. A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his. In **every** work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty."*

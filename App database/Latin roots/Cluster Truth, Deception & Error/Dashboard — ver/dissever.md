@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into parts or portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate into parts or portions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sever, divide, or cut apart into separate pieces; separate completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break up or dissolve an intimate friendship, union, or allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Paulina, Lead us from hence; where we may leisurely Each one demand, and answer to his part Perform’d in this wide gap of time, since first We were dissever’d."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He had contrived, or rather he had happened, to dissever himself from the world--to vanish--to give up his place and privileges with living men, without being admitted among the dead."*
+> - 📜 **Edgar Allan Poe (*Annabel Lee*):** *"And neither the angels in Heaven above Nor the demons down under the sea Can ever **dissever** my soul from the soul Of the beautiful Annabel Lee."*
+> - 📜 **William Shakespeare (*The Winter’s Tale*):** *"Make a leg, and show’t: you’ll never see such a pretty pie; the crust is made of flour, and it will **dissever** nothing."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Time cannot tear our memories apart, nor the wide ocean **dissever** hearts joined in youthful devotion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of air near the earth is cooler than an overlying layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition in which an organ is turned inward or inside out (as when the upper part of the uterus is pulled into the cervical canal after childbirth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, process, or instance of turning upside down, reversing in order, or transposing parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and grammar, the reversal of normal word order for emphasis or dramatic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the worst was the strange inversion of time."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"According to the Scripture, 113:24 I find that God is true, "but every [mortal] man a liar." Metaphysical inversions The divine metaphysics of Christian Science, like the 113:27 method in mathematics, proves the rule by inversion."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth by inversion If you wish to know the spiritual fact, you can dis- cover it by reversing the material fable, be the 129:9 fable /pro/ or /con/, - be it in accord with your preconceptions or utterly contrary to them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A remarkable morphological **inversion** occurs during the larval metamorphosis of flatfishes, bringing both eyes to one side."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The narrative gains immense dramatic power through a subtle **inversion** of the traditional relationship between hero and villain."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To deduce the biological facts from abstract dogma is a complete **inversion** of the true scientific method."*

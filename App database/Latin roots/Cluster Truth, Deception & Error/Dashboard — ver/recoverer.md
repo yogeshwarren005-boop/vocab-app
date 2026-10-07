@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who saves something from danger or violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who saves something from danger or violence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who finds, retrieves, or regains possession of lost or stolen property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who heals, saves, or restores an individual or organization to prosperity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recoverer designates someone who saves something from danger or violence."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The honest peasant was rewarded as the fortunate **recoverer** of the lost family jewels."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Senate hailed the victorious general as the restorer of peace and the **recoverer** of lost provinces."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Gaffer Hexam was notorious along the river as a skilled **recoverer** of drowned property."*

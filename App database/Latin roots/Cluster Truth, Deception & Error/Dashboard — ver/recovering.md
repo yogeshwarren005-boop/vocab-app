@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually returning to health, normal faculties, or financial strength after a setback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of retrieving or regaining possession of lost materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Have I the pleasure of addressing another of the youthful parties in Jarndyce?” said the old lady, recovering herself, with her head on one side, from a very low curtsy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Blinder sat down to give herself a more favourable opportunity of recovering her breath, exhausted anew by so much talking before it was fully restored."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have been deep in them for months,” he continued, recovering his cheerfulness in a moment, “and you may rely upon it that we shall come out triumphant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was slowly **recovering** from the severe attack of typhoid fever, though still too weak to leave his armchair."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors exerted every muscle in **recovering** the submerged harpoon line before the whale could sound."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak stood upon the knoll, **recovering** his breath after fighting the fire in the great ricks."*

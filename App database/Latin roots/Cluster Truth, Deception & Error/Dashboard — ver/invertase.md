@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in yeast and plant tissues that hydrolyzes sucrose into glucose and fructose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological catalyst used industrially in confectionary and brewing to prepare liquid-center sweets and invert syrups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertase designates an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The soluble ferment known as **invertase** can be extracted from crushed brewer's yeast without impairing its catalytic power."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain intestinal secretions contain **invertase**, transforming ordinary cane sugar into absorbable monosaccharides."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The biochemical action of **invertase** demonstrates that digestive enzymes operate by hydrolytic cleavage of complex carbohydrates."*

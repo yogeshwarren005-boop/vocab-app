@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a covert manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a covert manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concealed, secretive, or surreptitious manner; privately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without open admission or public display, deliberately avoiding observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not honestly, my lord; but so covertly that no dishonesty shall appear in me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So I tell him honourably (you are to know I have written to him about all this) that we are at issue and that we had better be at issue openly than covertly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Slipping along here covertly as Time, Bathsheba fancied she could hear footsteps entering the track at the opposite end."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He watched her **covertly** from beneath his heavy eyebrows, trying to fathom the motive of her sudden kindness."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician **covertly** scrutinized the minister's pale features, probing for signs of hidden spiritual guilt."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The stranger glanced **covertly** at the telegram, then smiled with polite indifference."*

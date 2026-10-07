@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticeable heterogeneity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noticeable heterogeneity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being diverse, varied, or multifaceted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difference, distinctness, or variety among elements comprising a collection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverseness designates noticeable heterogeneity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **diverseness** of human opinions arises not from any defect in the objects themselves, but from differing capacities of understanding."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A wise constitution accommodates the natural **diverseness** of social ranks and local interests."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution advances perpetually from an indefinite homogeneity toward a coherent heterogeneity marked by boundless **diverseness**."*

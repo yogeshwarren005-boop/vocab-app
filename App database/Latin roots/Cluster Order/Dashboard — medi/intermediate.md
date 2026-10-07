@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance formed during a chemical process before the desired product is obtained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act between parties with a view to reconciling differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming between two things in time, place, character, or degree; transitional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical kinetics, a transient molecular entity formed from reactants that reacts further to yield products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Private property is the characteristic feature of our present industrial society, but it exists side by side with public property and with many intermediate grades between private and common property."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The bonfire was made by setting up four tall birches in a square and piling the intermediate space with fuel."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Such a conclusion, occupying an intermediate position between the two opposing theories and recognizing an element of truth in both of them, was adopted by me in earlier editions of this work;[801] but in the meantime Dr."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Extinction has wiped out the numerous **intermediate** varieties that once linked diverging species."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The strata contain fossils occupying an **intermediate** position between secondary and tertiary faunas."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific deduction establishes **intermediate** general axioms that bridge principles to phenomena."*

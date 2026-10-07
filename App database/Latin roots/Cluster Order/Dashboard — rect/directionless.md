@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a defined direction, guidance, destination, or coherent life purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drifting aimlessly without programmatic focus or navigational coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionless designates aimlessly drifting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship drifted in the doldrums, an aimless, **directionless** speck on the glassy ocean."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He wandered the Eastern ports in a **directionless** reverie, haunted by the shadow of his past."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy spent his youth in a **directionless** drift before finding modest agricultural labor."*

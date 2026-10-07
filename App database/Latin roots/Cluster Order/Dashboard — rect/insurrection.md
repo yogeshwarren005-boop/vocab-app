@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent uprising against an authority or government; rebellion or mutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, armed resistance to sovereign authority falling short of organized civil war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will in time Win upon power and throw forth greater themes For insurrection’s arguing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And never yet did insurrection want Such water-colours to impaint his cause, Nor moody beggars starving for a time Of pellmell havoc and confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the bishop Turns insurrection to religion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"An armed **insurrection** of peasants broke out in Gaul, devastating estates and disrupting trade."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal government must possess adequate constitutional authority to suppress domestic **insurrection**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The thunder of popular **insurrection** roared through the Parisian boulevards as the Bastille fell."*

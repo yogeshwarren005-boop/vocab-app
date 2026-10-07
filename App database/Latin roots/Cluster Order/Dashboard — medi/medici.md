@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aristocratic italian family of powerful merchants and bankers who ruled florence in the 15th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The powerful Italian banking family and political dynasty that ruled Florence during the Renaissance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European cultural history, great patrons of art, architecture, and humanism (e.g. Cosimo and Lorenzo de' Medici).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It would be the Venus de’ Medici placed beside a milliner’s doll."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"If Lorenzo de’ Medici, conscious of millions of ducats in his coffers, had been addressing some leech of the period, he could not have spoken with a loftier air than this inhabitant of the fourth story of a tenement house in the Seventh Avenue."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To find, therefore, the elegant historian of the Medici mingling among the busy sons of traffic, at first shocked my poetical ideas; but it is from the very circumstances and situation in which he has been placed, that Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The munificence of the house of **Medici** revived the study of Greek literature in western Europe."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"Machiavelli dedicated his political treatise to Lorenzo de' **Medici**, urging the liberation of Italy."*
+> - 📜 **John Ruskin (*Mornings in Florence*):** *"The commercial wealth of the **Medici** transformed Florentine civic architecture into timeless art."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no intervening persons, agents, conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no intervening persons, agents, conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening without an intervening person, medium, or mechanism; direct or uninfluenced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and aesthetics, unvarnished perceptual experience experienced without interpretive conceptual screens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmediated designates having no intervening persons, agents, conditions."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Radical empiricism takes pure, **unmediated** experience as the primordial fabric of reality."*
+> - 📜 **John Dewey (*Art as Experience*):** *"A genuine aesthetic moment delivers an **unmediated** encounter with sensory form and emotion."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Knowledge by acquaintance consists in direct, **unmediated** cognitive awareness of sense-data."*

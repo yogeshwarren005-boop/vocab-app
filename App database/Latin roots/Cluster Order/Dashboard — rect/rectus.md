@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various straight muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various straight muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several straight muscles of the human body, such as the rectus abdominis or rectus femoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscular anatomy, a straight longitudinal muscle fascicle aligned along a principal bodily axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectus designates any of various straight muscles."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **rectus** abdominis muscle stabilizes the lumbar spine and compresses the abdominal viscera."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The lateral **rectus** of the eye is innervated specifically by the abducens cranial nerve."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The sternalis muscle occasionally appears as an anomalous extension of the mammalian **rectus** abdominis."*

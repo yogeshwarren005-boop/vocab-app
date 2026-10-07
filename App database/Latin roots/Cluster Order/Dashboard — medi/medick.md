@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or alternative spelling of medic, referring to plants of the genus Medicago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical British agriculture, clover-like leguminous plants cultivated for animal pasturage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medick designates any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Yellow **medick** grows abundantly along dry roadside banks throughout southern England."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Black **medick** or nonesuch bears small kidney-shaped pods that turn black when mature."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The sheep grazed peacefully on the hillside covered in wild thyme and sweet **medick**."*

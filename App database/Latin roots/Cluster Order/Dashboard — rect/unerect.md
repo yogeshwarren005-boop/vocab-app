@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not upright in position or posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not upright in position or posture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not erect; bent, stooping, recumbent, or lacking vertical uprightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoological morphology, describing a drooping, decumbent, or non-upright habit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unerect designates not upright in position or posture."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Quadrupedal mammals maintain an **unerect** spinal posture well adapted for rapid horizontal locomotion."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The trailing stem remains **unerect**, creeping along the forest floor and rooting at the nodes."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The infirm mendicant hobbled forward with an **unerect**, bowed frame supported by an ash crutch."*

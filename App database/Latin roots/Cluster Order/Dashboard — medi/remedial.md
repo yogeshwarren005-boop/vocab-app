@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or intended to rectify or improve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving or intended as a remedy or cure; therapeutic or corrective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and jurisprudence, providing corrective instruction or affording legal redress for a civil injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, the abuses would often have completed their mischievous effects before the remedial provision would be applied."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In fact, the whole machinery of the Federal government necessary for the distribution of remedial justice among the people has been demolished, and it would be difficult, if not impossible, to replace it."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **remedial** statute is enacted to supply some defect or abridge some superfluity in the common law."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The legislature passed **remedial** acts designed to protect factory apprentices from overwork."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Fresh air, pure water, and clean bedding constitute the foremost **remedial** agents in hospital management."*

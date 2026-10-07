@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a straight line or lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a straight line or lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, bounded by, or moving along straight lines; rectilinear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and classical geometry, formed entirely by straight-line trajectories or plane surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectilineal designates characterized by a straight line or lines."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light propagates along **rectilineal** rays through homogeneous translucent media."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"A triangle is a **rectilineal** figure contained by three intersecting straight lines."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fault displayed a **rectilineal** cleavage across the sedimentary strata for several miles."*

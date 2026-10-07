@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct, build, or erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to rise up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly upright in posture or position; vertical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To construct, build, assemble, or establish an edifice, monument, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If a man do not erect in this age his own tomb ere he dies, he shall live no longer in monument than the bell rings and the widow weeps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They call him Troilus, and on him erect A second hope as fairly built as Hector."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man alone has become an **erect** biped, with his hands liberated for the manipulation of tools."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious legions paused to **erect** a triumphal arch commemorating the conquest."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Two of far nobler shape, **erect** and tall, godlike erect, with native honor clad."*

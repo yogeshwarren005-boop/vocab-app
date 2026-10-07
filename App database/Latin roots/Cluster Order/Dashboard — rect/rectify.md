@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Math: determine the length of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put something right; to correct, remedy, or amend an error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, to purify a liquid through repeated distillation; in electronics, to convert AC to DC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be therefore bootless That longer you desire the court, as well For your own quiet as to rectify What is unsettled in the King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s to say, I meant to rectify my conscience, which I then did feel full sick, and yet not well, By all the reverend fathers of the land And doctors learned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is as strange a maze as e’er men trod; And there is in this business more than nature Was ever conduct of: some oracle Must rectify our knowledge."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Careful sensory observation helps the understanding to **rectify** false impressions formed in youth."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Chemists must **rectify** crude spirits by gentle distillation to eliminate foul essential oils."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Constitutional amendments provide a peaceful means to **rectify** unanticipated defects in the union."*

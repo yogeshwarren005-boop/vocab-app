@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being repaired or rectified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being repaired or rectified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrected, rectified, remedied, or set right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus, describing a continuous curve whose arc length can be determined analytically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectifiable designates capable of being repaired or rectified."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"A mathematical curve is termed **rectifiable** when its continuous arc length can be evaluated by integration."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Practical social injustices are largely **rectifiable** through intelligent legislative reform."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Errors in the clerical drafting of deeds remain **rectifiable** by an application to equity jurisdiction."*

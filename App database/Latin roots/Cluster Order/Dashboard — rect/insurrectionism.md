@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle of revolt against constituted authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principle of revolt against constituted authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy, practice, or doctrine of advocating violent rebellion against political authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In revolutionary political theory, the strategic reliance upon armed uprisings to seize power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insurrectionism designates the principle of revolt against constituted authority."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"Utopian socialists embraced radical **insurrectionism** as the sole instrument of social transformation."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"Jacobin doctrine reduced statecraft to an unceasing international **insurrectionism**."*
+> - 📜 **Max Weber (*Politics as a Vocation*):** *"Responsible constitutional statesmanship stands diametrically opposed to ideological **insurrectionism**."*

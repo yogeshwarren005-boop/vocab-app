@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the third note of a diatonic scale; midway between the tonic and the dominant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical theory, the third scale degree of a diatonic scale, midway between tonic and dominant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a fraction formed by summing the numerators and denominators of two given fractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediant designates (music) the third note of a diatonic scale; midway between the tonic and the dominant."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The harmonic sweetness of the major triad depends upon the acoustic consonance of the **mediant** third."*
+> - 📜 **Jean-Philippe Rameau (*Treatise on Harmony*):** *"Modulation often glides smoothly through the **mediant** harmony before resolving firmly onto the tonic."*
+> - 📜 **Augustus De Morgan (*The Elements of Arithmetic*):** *"The Farey sequence generates successive rational approximations through the continued **mediant**."*

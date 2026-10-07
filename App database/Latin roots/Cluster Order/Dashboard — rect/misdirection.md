@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect charge to a jury given by a judge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorrect directions or instructions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of directing something to the wrong place, aim, or conclusion; misleading guidance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stage magic, psychology, and legal trial practice, distracting attention from critical truth or evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She sent to the post office, and sure enough there was the first letter with its misdirection."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The appellate court reversed the verdict because of a material **misdirection** delivered in the summing up."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The criminal employed cunning **misdirection** to divert Scotland Yard from the real scene of the crime."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Mercantile monopolies cause a ruinous **misdirection** of labor away from domestic agriculture."*

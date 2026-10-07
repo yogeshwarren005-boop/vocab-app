@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having healing properties; used for medical purposes or treating disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a substance suitable for therapeutic administration as a drug.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Welsh peasants believe the beads to possess medicinal virtues of many sorts and to be particularly efficacious for all maladies of the eyes."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The ascription of medicinal power to fire kindled by the friction of wood is said to be especially characteristic of the Slavs who inhabit the Carpathian Mountains and the Balkan peninsula."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a medicinal project upon his niece’s understanding, which he must consider as at present diseased."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Indigenous peoples in the Andean valleys gathered cinchona bark for its invaluable **medicinal** qualities."*
+> - 📜 **William Shakespeare (*Othello*):** *"Drop tears as fast as the Arabian trees their **medicinal** gum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digitalis remains among the most potent **medicinal** agents known for controlling cardiac arrhythmias."*

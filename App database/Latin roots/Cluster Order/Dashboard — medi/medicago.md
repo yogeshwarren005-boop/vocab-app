@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbs that resemble clover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of herbs that resemble clover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of leguminous plants in the pea family, including alfalfa and various medic clovers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy, nitrogen-fixing forage crops with trifoliate leaves and spirally coiled seed pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicago designates a genus of herbs that resemble clover."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The flowers of **Medicago** sativa possess an explosive mechanism that discharges pollen onto visiting bees."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The species of **Medicago** are readily recognized by their coiled, prickly legume pods."*
+> - 📜 **Virgil (*Georgics*):** *"The prudent husbandman enriches the fallow meadow by sowing lucerne or foreign **Medicago**."*

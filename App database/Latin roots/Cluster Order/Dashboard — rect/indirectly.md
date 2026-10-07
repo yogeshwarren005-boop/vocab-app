@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in a forthright manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in a forthright manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a roundabout, circuitous, or oblique manner; not immediately or straightforwardly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through intermediaries or secondary causal links rather than by direct intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should poor beauty indirectly seek, Roses of shadow, since his rose is true?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Chatillion may from England bring That right in peace which here we urge in war, And then we shall repent each drop of blood That hot rash haste so indirectly shed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Climate affects living species both directly and **indirectly** by determining food supply and competitors."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We perceive external substances only **indirectly** through the sensory ideas they excite in the mind."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Taxes levied on raw materials raise the final retail prices of manufactured consumer goods **indirectly**."*

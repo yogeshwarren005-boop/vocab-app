@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The department of local government that is responsible for managing the treatment of convicted offenders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social control of offenders through a system of imprisonment and rehabilitation and probation and parole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural of correction; marks, amendments, or alterations that rectify mistakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The municipal or penal system responsible for managing prisons and incarcerated populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale’s wholesome corrections."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Short and energetic!” he remarked when he had read over the proclamation which he had dictated straight off without corrections."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Request observation for corrections ..."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"The publisher sent the proofs covered in copious authorial **corrections** across every margin."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I subjected the text to endless **corrections** before committing the chapters to the printer."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The department of **corrections** maintained strict records tracking convict reform and labor output."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office or station of a rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office or station of a rector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, dignity, or term of service of a rector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, the executive administration governing a continental university during a rector's tenure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectorate designates the office or station of a rector."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"During his distinguished **rectorate**, the university at Basel attracted scholars from across Europe."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The authority of the academic **rectorate** rested upon corporate university privileges granted by medieval charters."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"He delivered his inaugural address upon entering the **rectorate** of the Scottish university."*

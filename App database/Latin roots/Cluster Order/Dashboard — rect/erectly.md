@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight-backed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a straight-backed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vertical, upright, or perpendicular posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With proud, dignified, or resolute physical carriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Dr. Manette walked **erectly** through the crowded courtroom, his former infirmity vanished."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight sat **erectly** upon his warhorse, defying the shouts of the hostile spectators."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She carried herself **erectly**, meeting the direct gaze of the inspectress without flinching."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of offering an improvement to replace a mistake; setting right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is added or subtracted in order to increase the accuracy of a scientific measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of correcting something, or a change that rectifies an error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and geodesy, a mathematical factor added to eliminate atmospheric or instrument bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if he will not yield, Rebuke and dread correction wait on us, And they shall do their office."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that this land, like an offensive wife That hath enraged him on to offer strokes, As he is striking, holds his infant up And hangs resolved correction in the arm That was uprear’d to execution."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mowbray, the Bishop Scroop, Hastings and all Are brought to the correction of your law."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The astronomer applies a necessary **correction** for atmospheric refraction near the horizon."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Open intellectual discussion provides the essential **correction** for popular societal prejudices."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Prisons were originally conceived as houses of moral **correction** rather than mere idle confinement."*

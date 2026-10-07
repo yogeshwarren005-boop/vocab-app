@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct or appropriate behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct or appropriate behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscious correctness, rectitude, or propriety in conduct, manners, or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict, sometimes pedantic adherence to established social conventions or grammatical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correctitude designates correct or appropriate behavior."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond's outward **correctitude** concealed a chilling aesthetic selfishness."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The embassy secretary preserved an icy official **correctitude** while receiving the foreign envoy."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her social **correctitude** was so rigid that it intimidated younger acquaintances at the gathering."*

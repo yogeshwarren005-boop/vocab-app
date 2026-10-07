@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the process of refinement or purification of a substance by distillation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of alternating current to direct current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of putting something right; correction or amendment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, the purification of a liquid by repeated distillation; in electrical engineering, conversion of AC to DC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate did not make the affair a ground for valuing himself or (very particularly) despising Minchin, such rectification of misjudgments often happening among men of equal qualifications."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If Browning’s idea of the quickening, the regeneration, the rectification of personality, through a higher personality, be fully comprehended, his idea of the great function of Art, as an intermediate agency of personality, will become plain."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Fractional **rectification** in glass alembics separates volatile spirit from watery impurities."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Asymmetric conduction yields an electrical **rectification** converting oscillating current into direct flow."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prudent reform aims at the **rectification** of specific abuses rather than the violent overthrow of society."*

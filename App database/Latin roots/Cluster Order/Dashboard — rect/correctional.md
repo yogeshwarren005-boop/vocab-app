@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or providing correction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or providing correction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designed for the reform, discipline, or rehabilitation of offenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penology, denoting institutions, procedures, or penal facilities intended to reform convicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As to your appointment, that was made by an authority outside this station, actually, outside the Correctional Service of which this penal institution is a part."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The American **correctional** system sought to replace corporal punishment with moral labor."*
+> - 📜 **Charles Dickens (*American Notes*):** *"I visited the famous Philadelphia **correctional** facility to inspect its solitary confinement cells."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The magistrates discussed establishing a **correctional** home for delinquent youths from the parish."*

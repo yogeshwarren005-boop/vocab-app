@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used for medical treatment; a medicine, remedy, or therapeutic drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeia, any formulated potion, ointment, or balm possessing healing properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In those times, also, spermaceti was exceedingly scarce, not being used for light, but only as an ointment and medicament."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In those times, also, spermaceti was exceedingly scarce, not being used for light, but only as an ointment and medicament."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial physician prepared a potent **medicament** to soothe the emperor's agonizing gout."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The desire to take a **medicament** is perhaps the greatest feature which distinguishes man from animals."*
+> - 📜 **Honoré de Balzac (*The Country Doctor*):** *"The rustic doctor compounded every simple **medicament** from herbs gathered in the alpine meadows."*

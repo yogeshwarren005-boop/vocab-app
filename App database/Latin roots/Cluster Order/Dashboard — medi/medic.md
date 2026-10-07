@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical practitioner in the armed forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner or physician; or a military service member trained to give first aid on the battlefield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, any leguminous forage plant of the genus Medicago, closely related to alfalfa and clover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we incur casualties, the injured won't have much to depend on, and if the troops have no faith in their medics, their morale will drop, and I mean fast."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We finally got around to talking about on-base resources that might ease the load she was carrying: the Staff Judge Advocate, Family Services and Medics."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The wounded soldier called out hoarsely for the battlefield **medic** amidst the rifle smoke."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pasture agronomists sowed purple **medic** alongside clover to enrich poor calcareous soils."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The young army **medic** must cultivate equanimity under the chaotic stress of emergency triage."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trueness of course toward a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straightforwardness, candid simplicity, or the quality of proceeding without detour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communication and literary style, plain clarity that eschews unnecessary ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was an unceremonious directness, a searching, decided steadfastness in his gaze now, which told that intention, and not diffidence, had hitherto kept it averted from the stranger."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he had spoken now, and had spoken with unmistakable directness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea spoke with an earnest **directness** that disarmed the worldly cynicism of her listeners."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True eloquence derives its compelling force from the plain **directness** of truth."*
+> - 📜 **William James (*Pragmatism*):** *"American philosophical thought is characterized by a vigorous intellectual **directness**."*

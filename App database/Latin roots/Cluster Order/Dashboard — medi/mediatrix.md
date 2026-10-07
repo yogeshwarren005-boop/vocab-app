@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a mediator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a mediator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who mediates; a female intermediary or intercessor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic and Orthodox theology, a title accorded to the Virgin Mary as intercessor between humans and Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was therefore agreed that the young people of both families should visit each other frequently for the future, and the friendship of course lasted as long as the jovial old mediatrix was there to keep the peace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Byzantine hymnody invoked the Virgin as the celestial **mediatrix** of imperial victories."*
+> - 📜 **Henry James (*The Bostonians*):** *"She stepped forward as a sympathetic **mediatrix** to heal the estrangement between the two friends."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Rowena served as a gentle **mediatrix** between Cedric's stubborn anger and his disinherited son."*

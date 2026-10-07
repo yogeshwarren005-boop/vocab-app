@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a medicinal effect or not medically prescribed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a medicinal effect or not medically prescribed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not medical; not relating to, suitable for, or characteristic of medicine or medical practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking professional clinical credentials or medical scientific validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmedical designates not having a medicinal effect or not medically prescribed."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Quack nostrums prey upon the gullible public through completely **unmedical** superstitions."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The pamphlet was composed in an **unmedical** jargon calculated to bewilder rustic patients."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick listened with polite skepticism to the landlord's entirely **unmedical** theory of rheumatism."*

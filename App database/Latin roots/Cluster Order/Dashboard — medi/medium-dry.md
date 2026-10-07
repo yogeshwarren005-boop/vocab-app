@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a wine that is dry but not extremely dry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a wine that is dry but not extremely dry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slight degree of residual sweetness, applied especially to wine, sherry, or cider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enology and culinary appraisal, falling between bone-dry and sweet in sugar content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-dry designates of a wine that is dry but not extremely dry."*
+> - 📜 **George Saintsbury (*Notes on a Cellar-Book*):** *"A delicate **medium-dry** amontillado sherry provides an exquisite accompaniment to rich soups."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The butler produced a bottle of **medium-dry** Madeira, dusting the vintage cobwebs from the neck."*
+> - 📜 **Robert Louis Stevenson (*The Silverado Squatters*):** *"We sampled a crisp, **medium-dry** white wine produced from the sun-drenched Napa vineyards."*

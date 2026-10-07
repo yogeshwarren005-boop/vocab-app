@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meditative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a meditative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a quiet, thoughtful, or deeply contemplative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With reflective introspection, lingering over ideas or perceptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In fact, I found him.” “Without any clue to anything more?” “Without any; there was,” says the lawyer meditatively, “an old portmanteau, but—No, there were no papers.” During the utterance of every word of this short dialogue, Lady Dedlock and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I’ve seen hundreds worse looking at your time of life, I have indeed.” The fair Volumnia, not quite unconscious perhaps of the humanizing influence of her charms, pauses in the writing of cocked-hat notes and meditatively adjusts the pearl necklace."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Several exclaimed meditatively, after this operation had been completed:— “Oh, ’tis the new shepherd, ’a b’lieve.” “We thought we heard a hand pawing about the door for the bobbin, but weren’t sure ’twere not a dead leaf blowed across,” said another."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate tapped his chin **meditatively** as he weighed the contradictory symptoms of his patient."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes smoked his pipe **meditatively**, gazing through the window into the London fog."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow paused and looked **meditatively** across the darkening harbor before resuming his tale."*

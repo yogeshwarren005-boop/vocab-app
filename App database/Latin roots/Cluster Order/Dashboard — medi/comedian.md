@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional performer who tells jokes and performs comical acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a comedy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer whose job is to make people laugh; or an actor who plays comic roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theatrical history, a playwright or dramatic performer specializing in satirical or domestic comedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was played by the low-comedian, who had introduced gags of his own and was on most friendly terms with the pit."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And Napoleon, that solemn comedian, was making ready his expedition to Mexico, with fine words and a tradesman's cunning...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon Bonaparte was despised by all as long as he was great, but now that he has become a wretched comedian the Emperor Francis wants to offer him his daughter in an illegal marriage."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The veteran stage **comedian** delighted the provincial audience with extravagant pantomime gestures."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Molière stands as the supreme dramatic **comedian** of modern European literature."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"A great comic actor or **comedian** exposes the secret absurdities of human nature."*

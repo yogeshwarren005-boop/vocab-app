@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incorrect manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaccurate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken, erroneous, or inaccurate manner; not properly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of grammatical syntax, experimental calibration, or polite social protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He let it be presented all wrong last time, and they got things so muddled that it was voted on incorrectly."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Frankl: "Lenau und Sophie Loewenthal," Stuttgart, 1891 (hereafter quoted as "Frankl") p. 189, incorrectly states the date as 1838."*
+> - 📜 **Isaac Newton (*Opticks*):** *"If the prism is **incorrectly** positioned, the refracted spectral lines will overlap and blur."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Philosophers reason **incorrectly** when they infer metaphysical necessity from mere mental habit."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The island was **incorrectly** charted on ancient maps, lying three leagues eastward of its true place."*

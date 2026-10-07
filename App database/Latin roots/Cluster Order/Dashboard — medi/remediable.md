@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being remedied or redressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being remedied or redressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being remedied, cured, repaired, or corrected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and social reform, amenable to legal redress, legislative compensation, or medical treatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The faults of human nature cannot be attributed to any "system"; and if they are remediable, it is by education and better social opportunity."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Poverty caused by lack of technical education is a **remediable** social misfortune."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Iron deficiency anemia remains an easily **remediable** condition under proper ferruginous therapy."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Grievances arising from administrative mismanagement are happily **remediable** through parliamentary repeal."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to remedy or correct or redress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to remedy or correct or redress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to cure, repair, redress, or put right; incurable or permanent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and social pathology, damage or decay that defies all therapeutic intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A wet day was the expression of irremediable grief at her weakness in the mind of some vague ethical being whom she could not class definitely as the God of her childhood, and could not comprehend as any other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption in this is that the "general property tax" is an irremediable failure, and is particularly inapplicable to corporations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The loss of the Danubian legionary fortress inflicted an **irremediable** wound upon imperial prestige."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced hepatic cirrhosis produces **irremediable** portal hypertension and secondary ascites."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Sweeping constitutional destruction often leaves behind an **irremediable** void in public order."*

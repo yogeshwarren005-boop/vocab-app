@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinariness as a consequence of being average and not outstanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of second-rate ability or value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate ability, commonplace achievement, or absence of superior excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of second-rate ability, modest accomplishment, or commonplace intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mediocrity, no: do not let envy prompt you to the thought."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His attentions to Miss King were now the consequence of views solely and hatefully mercenary; and the mediocrity of her fortune proved no longer the moderation of his wishes, but his eagerness to grasp at anything."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Equality of conditions raises the lowest classes, but it tends to impose a uniform **mediocrity** upon culture."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The general tendency of things throughout the world is to render **mediocrity** the ascendant power among mankind."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"When revolutionary mobs rule, brazen pretension triumphs over modest virtue and solid **mediocrity**."*

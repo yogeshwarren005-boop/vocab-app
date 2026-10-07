@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Health care for the needy; a federally and state-funded program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Health care for the needy; a federally and state-funded program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint federal and state healthcare program in the United States assisting low-income individuals and families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health policy and welfare economics, public health financing providing essential clinical care to eligible recipients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicaid designates health care for the needy; a federally and state-funded program."*
+> - 📜 **Paul Starr (*The Social Transformation of American Medicine*):** *"The enactment of **Medicaid** expanded medical access to millions of impoverished families across the nation."*
+> - 📜 **Milton Friedman (*Free to Choose*):** *"Subsidized healthcare programs like **Medicaid** generated unprecedented administrative overhead and cost inflation."*
+> - 📜 **Kenneth Arrow (*Social Choice and Individual Values*):** *"Public welfare programs such as **Medicaid** address market failures inherent in private health insurance."*

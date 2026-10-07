@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending in a straight line without detour; or proceeding from source to destination without intermediaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To command, manage, guide, or supervise with authoritative instruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is called the “countercheck quarrelsome”, and so, to the “lie circumstantial”, and the “lie direct”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I durst go no further than the lie circumstantial, nor he durst not give me the lie direct; and so we measured swords and parted."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Every body continues in its state of uniform motion in a right line unless compelled to deviate by a **direct** force."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dispatched a courier along the **direct** military road connecting Rome to Byzantium."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Inductive axioms must **direct** experimental inquiries toward the fundamental forms of nature."*

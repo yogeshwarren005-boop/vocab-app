@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being mediate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being mediate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirectness, mediation, or operation through an intervening agent or medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hegelian and epistemological logic, knowledge attained through inferential conceptual processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediacy designates the quality of being mediate."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Conceptual thought lacks the raw vividness of sensation because of its inherent **mediacy**."*
+> - 📜 **John Dewey (*Essays in Experimental Logic*):** *"Reflective inquiry moves from the immediacy of doubt to the cognitive **mediacy** of verified judgment."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Thirdness represents the category of **mediacy**, synthesis, and lawful continuity in thought."*

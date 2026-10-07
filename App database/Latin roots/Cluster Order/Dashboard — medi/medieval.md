@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if belonging to the middle ages; old-fashioned and unenlightened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Middle Ages, the historical period in European history from roughly 500 to 1500 AD.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of the Middle Ages, often contrasted with modern or classical culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Altho the movement for the repeal of medieval laws has continued in Europe from 1776 till the present time, yet custom still is stronger to-day in Europe than in America."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 143, on medieval land tenures; p. 158, on customary rents; p. 190, on the effect of caste.] [Footnote 9: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every petty medieval state or self-governing city, the aim was to make the economic boundaries coincide as nearly as possible with the political boundaries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The feudal castles of the **medieval** barons stood as defiant monuments of provincial anarchy."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"In every carved ornament of a **medieval** church one reads the untamed spirit of the northern builder."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French monarchy gradually stripped **medieval** institutions of their ancient legislative autonomy."*

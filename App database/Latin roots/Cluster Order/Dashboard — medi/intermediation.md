@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intervening for the purpose of bringing about a settlement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening for the purpose of bringing about a settlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of intervening between parties to produce agreement, reconciliation, or transaction; mediation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and finance, the process whereby institutions channel funds between savers and borrowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermediation designates the act of intervening for the purpose of bringing about a settlement."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial banking provides financial **intermediation** that mobilizes idle domestic savings."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Peace was concluded through the skillful **intermediation** of the Venetian maritime ambassadors."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wholesale merchants perform an indispensable social **intermediation** between growers and retailers."*

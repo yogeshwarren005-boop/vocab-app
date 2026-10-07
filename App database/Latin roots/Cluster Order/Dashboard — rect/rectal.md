@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving the rectum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving the rectum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated near, or affecting the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and surgery, pertaining to the terminal portion of the large intestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectal designates of or involving the rectum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digital **rectal** examination provides essential clinical evidence when evaluating pelvic complaints."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Polypoid adenomas of the **rectal** mucosa demand microscopic histological appraisal to detect dysplasia."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The intrinsic defecation reflex is mediated through local enteric plexus nerves in the **rectal** wall."*

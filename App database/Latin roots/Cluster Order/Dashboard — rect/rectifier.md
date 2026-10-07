@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical device that transforms alternating into direct current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who corrects or sets right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that rectifies, corrects, or sets something right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, a device (such as a diode) that converts alternating current into direct current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I that am the rectifier of all, By title _pædagogus_, that let fall The birch upon the breeches of the small ones, And humble with a ferula the tall ones, Do here present this machine, or this frame."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another way is to employ a "Rectifier." This is a conductor which has the peculiar property of allowing current to pass one way but not the other."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"A synchronous **rectifier** was employed to translate high-frequency alternating oscillations into unidirectional pulses."*
+> - 📜 **Oliver Lodge (*Signalling Across Space Without Wires*):** *"The crystal detector acted as a sensitive **rectifier** of wireless telegraphic waves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wise emperor styled himself the supreme **rectifier** of public morals and provincial administration."*

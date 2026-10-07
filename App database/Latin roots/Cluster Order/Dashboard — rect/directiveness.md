@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being directive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being directive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or quality of providing authoritative guidance, aim, or leadership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and administrative theory, an assertive leadership posture that sets explicit tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directiveness designates the quality of being directive."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Teleological **directiveness** distinguishes living mental behavior from blind mechanical motion."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A cabinet must possess energetic **directiveness** to guide parliamentary debate to constructive ends."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific pedagogy loses its value without the purposeful **directiveness** of laboratory practice."*

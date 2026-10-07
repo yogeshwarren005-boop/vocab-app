@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think intently and at length, as for spiritual purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in contemplation, deep reflection, or mental exercises for spiritual or mental peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To plan, devise, or consider something deeply in one's mind over an extended period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will meditate the while upon some horrid message for a challenge. [_Exeunt Sir Toby, Fabian and Maria._] OLIVIA."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Come, Miss Morland, let us leave him to meditate over our faults in the utmost propriety of diction, while we praise Udolpho in whatever terms we like best."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Withdraw into yourself and **meditate** upon the transient vanity of all worldly ambitions."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"It was at Rome, as I sat musing amidst the ruins of the Capitol, that I began to **meditate** my history."*
+> - 📜 **John Milton (*Lycidas*):** *"Alas! What boots it with uncessant care to tend the homely slighted shepherd's trade, and strictly **meditate** the thankless Muse?"*

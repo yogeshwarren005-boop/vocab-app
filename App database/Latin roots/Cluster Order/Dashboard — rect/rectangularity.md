@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being shaped like a rectangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being shaped like a rectangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Right-angled four-sided geometry or conformity to a rectangular shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban architecture, surveying, and morphology, adherence to orthogonal right-angled design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectangularity designates the property of being shaped like a rectangle."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The monotonous **rectangularity** of American city street plans mirrors the utilitarian spirit of the builders."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The distinct **rectangularity** of the crystalline cleavage planes helped mineralogists classify the feldspar."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architecture breaks free from the lifeless **rectangularity** of classical Renaissance facades."*

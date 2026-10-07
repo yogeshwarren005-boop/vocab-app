@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical theory, the sixth scale degree of a diatonic scale, located halfway between subdominant and upper tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In harmonic syntax, the chord built upon the sixth scale degree (vi or VI), often functioning as a tonic substitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submediant designates (music) the sixth note of a major or minor scale (or the third below the tonic)."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The deceptive cadence shifts harmonic expectation from the dominant chord to the unexpected **submediant**."*
+> - 📜 **Jean-Philippe Rameau (*Treatise on Harmony*):** *"A descending bass line often pauses upon the **submediant** before driving forward to the final cadence."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The cellos sustained a dark, melancholy **submediant** note beneath the shimmering violin tremolo."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of conformity to social expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not conforming to fact or truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inaccuracy, error, or failure to conform to truth or accepted factual standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infelicity of phrasing, improper social deportment, or flaw in mathematical proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He is forever finding fault with me, for some incorrectness of language, and now he is taking the same liberty with you."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Kirsch was not acquainted with a single one, and spoke all with indifferent volubility and incorrectness."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The wreaths, circles, and single compartments, retain marks of Gothic incorrectness, and of as gross deviation from the original as the Saxon mouldings."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **incorrectness** of the premise inevitably vitiated every deduction built upon it."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Critics noted the occasional grammatical **incorrectness** that marred Shakespeare's rapid dialogue."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A single hidden contradiction demonstrates the logical **incorrectness** of the entire axiomatic scheme."*

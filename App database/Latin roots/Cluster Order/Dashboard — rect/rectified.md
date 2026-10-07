@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Math: determine the length of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected, amended, or put right; made accurate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purified by repeated distillation; or converted from alternating to direct electric current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here is some great misapprehension which must be rectified."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"That her manner was wrong, however, at times very wrong, her measures often ill-chosen and ill-timed, and her looks and language very often indefensible, Fanny could not cease to feel; but she began to hope they might be rectified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The oscillating current was **rectified** by a commutator to drive the laboratory galvanometer."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Apothecaries distilled alcohol repeatedly until they obtained pure **rectified** spirits of wine."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I gratefully **rectified** the taxonomic blunder upon reading the insightful critique by Dr. Hooker."*

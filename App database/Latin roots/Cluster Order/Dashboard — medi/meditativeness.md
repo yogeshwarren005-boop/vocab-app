@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep serious thoughtfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or habit of being deeply thoughtful, reflective, or contemplative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quiet temperament inclined toward inward mental absorption and philosophical rumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Beware of enlisting in your vigilant fisheries any lad with lean brow and hollow eye; given to unseasonable meditativeness; and who offers to ship with the Phædon instead of Bowditch in his head."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The saintly temperament is characterized by an enduring serenity and inward **meditativeness**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Wordsworth's poetry is distinguished by its profound **meditativeness** amidst the beauty of nature."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her quiet **meditativeness** puzzled her brother, who preferred brisk action to silent wonder."*

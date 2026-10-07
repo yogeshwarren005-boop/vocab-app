@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quickness of action or occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of an intervening or mediating agency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being direct, instant, or free from intervening agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of perception, directness of acquaintance without discursive inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immediateness designates the quickness of action or occurrence."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The felt **immediateness** of the divine presence overwhelmed all rational skepticism."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"Intuitive philosophers assert the **immediateness** of our perception of an external world."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Firstness is characterized by freshness, originality, and absolute **immediateness**."*

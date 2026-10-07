@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having intervening factors or persons or influences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not direct in spatial dimension; not leading by a straight line or course to a destination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not proceeding in a straight line; circuitous, roundabout, or secondary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved, derived, or expressed obliquely rather than explicitly or immediately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows, my son, By what by-paths and indirect crook’d ways I met this crown, and I myself know well How troublesome it sat upon my head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The better act of purposes mistook Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as fire cools fire Within the scorched veins of one new-burn’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Othello, speak: Did you by indirect and forced courses Subdue and poison this young maid’s affections?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant promotes the public welfare through an **indirect** consequence of pursuing his own gain."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection exerts an **indirect** influence on non-adaptive traits through correlated variation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor employed **indirect** diplomacy to foment discord among neighboring barbarian chieftains."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without deviation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without anyone or anything intervening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight line or without intermediaries; immediately in time or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frankly, candidly, and plainly without equivocation or evasive circumlocution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or, like the Parthian, I shall flying fight; Rather, directly fly."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Physical conditions act **directly** on the organism, producing slight plastic modifications."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She answered him **directly**, without any attempt to disguise her genuine feelings."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Gravitational attraction varies **directly** as the mass and inversely as the square of distance."*

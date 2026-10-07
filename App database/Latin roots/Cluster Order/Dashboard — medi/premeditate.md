@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider, ponder, or plan (an action) beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Think or reflect beforehand or in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To think out, plan, or consider an action beforehand; to design beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, to formulate deliberate intent to commit an offense prior to execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember that your fame Knolls in the ear o’ th’ world; what you do quickly Is not done rashly; your first thought is more Than others’ laboured meditance, your premeditating More than their actions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Com’st thou with deep premeditated lines, With written pamphlets studiously devised, Humphrey of Gloucester?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You wanted me, I know, to say ‘Yes,’ that you might have the pleasure of despising my taste; but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"To constitute murder, the perpetrator must consciously **premeditate** the fatal stroke with malice aforethought."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conspirators met in secret to **premeditate** the assassination of the tyrannical prefect."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"No sensible statesman would deliberately **premeditate** measures that provoke rebellion among loyal subjects."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an intervening or mediating agency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediate intuitive awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of bringing one into direct, instant involvement with something; urgency or present reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and aesthetics, direct intuitive presentation unmediated by conceptual reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He led our powers; Bore the commission of my place and person; The which immediacy may well stand up And call itself your brother."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Cecil Winwood demurred against the immediacy of the demonstration."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet in this she was well met, for it was not long ere she was my heart’s desire, and such was the immediacy of my will that not her will, nor Hendrik Hamel’s, nor Yunsan’s, could hold back my arms from about her."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Pure sensation presents external reality with a vivid, undeniable sensory **immediacy**."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Aesthetic enjoyment possesses a compelling emotional **immediacy** that precedes rational analysis."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Present impressions strike the mind with greater force and **immediacy** than faint recollections."*

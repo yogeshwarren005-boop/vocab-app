@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a director of a business concern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a director of a business concern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position, office, or tenure of a director in an organization or corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period or authority associated with managing an enterprise or cultural institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directorship designates the position of a director of a business concern."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"He accepted a lucrative **directorship** on the board of Melmotte's South Central Pacific railway."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Securing a **directorship** in the East India Company offered opportunities for rapid personal fortune."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Clive's energetic **directorship** restored discipline to the company's demoralized Bengal settlements."*

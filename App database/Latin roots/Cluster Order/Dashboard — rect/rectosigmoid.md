@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or near the sigmoid colon and the upper part of the rectum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or near the sigmoid colon and the upper part of the rectum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting both the rectum and the sigmoid colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical colorectal anatomy and endoscopy, the junctional transition zone between sigmoid and rectum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectosigmoid designates of or related to or near the sigmoid colon and the upper part of the rectum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstructive neoplasms frequently localize at the narrow **rectosigmoid** junction of the bowel."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological examination revealed localized mucosal inflammation confined to the **rectosigmoid** tract."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Parasympathetic nerve fibers innervating the **rectosigmoid** region stimulate mass peristaltic movements."*

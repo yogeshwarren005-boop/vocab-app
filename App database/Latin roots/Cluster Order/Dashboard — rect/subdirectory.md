@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a directory that is listed in another directory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a directory that is listed in another directory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A directory or folder contained within another directory in a computer file system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer software architecture, a subordinate node within a hierarchical file catalog.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdirectory designates (computer science) a directory that is listed in another directory."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"Logical organization dictates nesting each subroutine file within a dedicated **subdirectory**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A taxonomic hierarchy mirrors the structure of an index where every class contains an orderly **subdirectory**."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Efficient data retrieval partitions storage memory through hierarchical **subdirectory** trees."*

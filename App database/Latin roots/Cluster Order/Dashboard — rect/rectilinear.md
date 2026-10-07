@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a straight line or lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a straight line or lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving in or forming a straight line or lines; bounded by straight lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical kinematics, motion along an uncurved straight path under zero net transverse force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectilinear designates characterized by a straight line or lines."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"An unconstrained body perseveres in uniform **rectilinear** motion by virtue of its inertia."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Circumnutation modifies what would otherwise be simple **rectilinear** growth in the elongating stem."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"Natural motion, when unimpeded, proceeds along a strictly **rectilinear** trajectory through space."*

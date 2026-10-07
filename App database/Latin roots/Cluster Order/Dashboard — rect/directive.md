@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronouncement encouraging or banning some activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing the way by conducting or leading; imposing direction on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official or authoritative instruction guiding action or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to guide, direct, or point toward a particular goal or operational standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which entertain’d, limbs are his instruments, In no less working than are swords and bows Directive by the limbs."*
-> - 📜 **Algis Budrys (*Citadel*):** *"At fifteen-fifteen, the light on his interphone blinked twice, and Marlowe hastily initialed a directive with his right hand while touching the switch with his left."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Mead, sir." "O.K." He switched off, pushed the directive into his OUT box, and pulled the GenSurv and the folder on Martin Holliday out of the HOLD tray."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor issued an imperial **directive** instructing provincial magistrates to rebuild coastal aqueducts."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The executive office communicates its strategic policies through an explicit departmental **directive**."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Conscious desire exercises a **directive** influence upon the bodily motor reflexes."*

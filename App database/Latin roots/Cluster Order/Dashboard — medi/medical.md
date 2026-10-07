@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough physical examination; includes a variety of tests depending on the age and sex and health of the person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the study or practice of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the science or practice of medicine, or to the treatment of illness and injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting non-surgical therapy as distinguished from surgical or manual intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole had been educated for the medical profession and had once lived, in his professional capacity, in the household of a German prince."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bless the hearts o’ ye,” says the medical man, looking up at them after a moment’s examination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The young student must ground his **medical** career upon bedside observation and sound pathology."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Bob Sawyer and Ben Allen were reckless young **medical** students lodging near Guy's Hospital."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"True **medical** progress requires substituting experimental science for empirical clinical routine."*

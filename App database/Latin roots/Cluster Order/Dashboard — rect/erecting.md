@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of building or putting up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct, build, or erect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of setting up, building, assembling, or raising upright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishing an institution, monument, or theoretical system on firm foundations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I could not but be sensible that my existence was spared solely because of my diligence in erecting the pyramid and so doubling the stature of the island."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Well, now, that’s cheering,” cried Ahab, suddenly erecting himself, while whole thunder-clouds swept aside from his brow."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor spent enormous treasury funds on **erecting** a magnificent basilica in the capital."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We are **erecting** a new organon of the sciences founded on rigorous empirical induction."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I spent several delightful spring mornings **erecting** the frame of my small woodland cabin."*

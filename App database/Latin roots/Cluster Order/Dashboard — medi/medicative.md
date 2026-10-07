@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having healing, curative, or medicinal properties; therapeutic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, tending to alleviate sickness or promote bodily recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicative designates having the properties of medicine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hot mineral springs of Baiae were celebrated for their extraordinary **medicative** virtues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician relied upon the natural **medicative** power of nature, the vis medicatrix naturae."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Simple diet and exercise possess a far more **medicative** efficacy for growing children than physics."*

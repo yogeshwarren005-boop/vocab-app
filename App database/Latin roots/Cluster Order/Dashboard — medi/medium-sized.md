@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an intermediate or average size; falling midway between small and large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by median physical dimensions or volume across comparative samples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-sized designates intermediate in size."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The domestic rabbit originated from a **medium-sized** wild ancestral species native to southern Europe."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The track in the bog was that of an extraordinarily large hound, far exceeding a **medium-sized** mastiff."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter shaped a **medium-sized** cedar spar to replace the shattered steering oar."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a board of directors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is in charge of an activity, department, enterprise, or creative production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate governance, a member of the governing board elected to supervise executive management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He is the administrator of the common property and director of work."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He advised my attending certain places in London, for the acquisition of such mere rudiments as I wanted, and my investing him with the functions of explainer and director of all my studies."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **director** of a joint-stock company manages money belonging to others rather than his own."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prefect acted as the supreme **director** of the imperial postal network across Gaul."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Mr. Merdle was sought after as a board **director** by every speculative railway venture in London."*

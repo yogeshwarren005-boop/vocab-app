@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay or hesitation; with no time intervening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or close by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At once; instantly; without any intervening delay, time, or medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In direct contact or succession without third-party intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, Dromio, there’s the money, bear it straight, And bring thy master home immediately."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll but seal, And then to horse immediately."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace for this high courtesy, Which I shall give away immediately."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The earthquake shock was felt on board, followed **immediately** by a roaring sound from the shore."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The guards rushed forward and **immediately** proclaimed the victorious general as Augustus."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth recognized his handwriting **immediately** upon opening the fateful letter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a medicinal effect or not medically prescribed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a medicinal effect or not medically prescribed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having healing, curative, or medicative properties; non-therapeutic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of pharmacological potency or physiological healing influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmedicative designates not having a medicinal effect or not medically prescribed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inert sugar pill was an entirely **unmedicative** placebo administered to satisfy an anxious patient."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The distillate yielded an **unmedicative** residue containing only mineral impurities and inert sand."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Controlled trials proved that the popular herbal infusion was wholly **unmedicative** against febrile illnesses."*

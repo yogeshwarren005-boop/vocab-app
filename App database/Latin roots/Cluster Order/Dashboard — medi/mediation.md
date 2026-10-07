@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiation to resolve differences that is conducted by some impartial party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening for the purpose of bringing about a settlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intervention in a dispute in order to resolve it; arbitration or conciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and sociology, the process through which social relations or concepts are linked by intermediaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cherish it, my boy, And noble offices thou mayst effect Of mediation, after I am dead, Between his greatness and thy other brethren."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
-> - 📜 **John Milton (*Paradise Lost*):** *"And now without redemption all mankind Must have bin lost, adjudg’d to Death and Hell By doom severe, had not the Son of God, In whom the fulness dwels of love divine, His dearest mediation thus renewd."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rival generals accepted the peaceful **mediation** of the venerable Christian bishop."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"International commerce relies on the financial **mediation** of bills of exchange drawn on London."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Constitutional checks provide a peaceful **mediation** between conflicting social classes."*

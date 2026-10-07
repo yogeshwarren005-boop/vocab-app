@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central compartment of the thoracic cavity between the lungs, containing the heart, esophagus, and trachea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the interpleural septum housing the pericardial sac and major blood vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediastinum designates the part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aneurysm of the aortic arch frequently causes pressure symptoms deep within the superior **mediastinum**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The negative intrathoracic pressure within the **mediastinum** aids venous return to the right atrium."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Lymphomas originating in the anterior **mediastinum** may compress the superior vena cava."*

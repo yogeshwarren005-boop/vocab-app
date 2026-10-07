@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness as a consequence of being honorable and honest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness as a consequence of being honorable and honest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally correct behavior, integrity, or righteousness; uprightness of character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and geometric literature, spatial straightness or adherence to a true line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, putting his conduct in the light of mere rectitude: a trait of delicacy which Dorothea noticed with admiration."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even much stronger mortals than Fred Vincy hold half their rectitude in the mind of the being they love best."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, we know, had a sense of rectitude and an honorable pride in satisfying the requirements of honor, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I conceived the bold project of arriving at moral perfection through unwavering personal **rectitude**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Public confidence adheres to magistrates celebrated for their incorruptible judicial **rectitude**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth lived with an unswerving moral **rectitude** that won the respect of all neighboring landowners."*

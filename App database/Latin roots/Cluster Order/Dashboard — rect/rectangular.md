@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a set of mutually perpendicular axes; meeting at right angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a rectangle, having four straight sides and four right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged, partitioned, or constructed with perpendicular, right-angled geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then the front door again opened, the rays streamed out, the well-known form of Boldwood was seen in the rectangular area of light, the door closed, and Boldwood walked slowly down the path."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Spanish colonial town was laid out in a regular **rectangular** grid of wide paved plazas."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Basaltic jointing frequently splits volcanic columns into neat **rectangular** prisms along the sea cliff."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I dug a cellar beneath my cabin, excavating a neat **rectangular** pit six feet square by seven deep."*

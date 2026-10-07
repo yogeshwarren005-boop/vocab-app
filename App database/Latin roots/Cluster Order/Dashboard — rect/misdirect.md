@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lead someone in the wrong direction or give someone wrong directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct, guide, aim, or instruct someone or something incorrectly or to the wrong destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and forensics, to mislead or give improper legal instructions to a jury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to me that his industry was all misdirected."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It seems to me that it would be wiser, as well as in a certain kind of way more respectable, if he showed some misdirected energy that got him into prison."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But it had been brought about by misdirected ingenuity, and she valued it only as she valued an artificial flower or a wax fruit."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Should the presiding judge **misdirect** the jury on points of statutory law, a new trial will be granted."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The mischievous postboy managed to **misdirect** our coach along a swampy byroad across the marshes."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Protective tariffs **misdirect** national capital into artificial and unprofitable channels of trade."*

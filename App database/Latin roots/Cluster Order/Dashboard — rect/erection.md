@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure that has been erected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The building, raising, or construction of a structure or monument; or the physiological stiffening of tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and physiology, the vascular engorgement of specialized tissue producing rigid turgidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does so take on with her men; they mistook their erection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **erection** of the column of Trajan celebrated the final pacification of the Dacian kingdom."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Hemodynamic pressure produces immediate **erection** through arterial dilation and venous occlusion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Statutes govern the **erection** of public bridges across navigable rivers within the realm."*

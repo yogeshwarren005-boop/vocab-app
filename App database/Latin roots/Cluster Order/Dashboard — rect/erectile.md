@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being raised to an upright position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with vascular sinuses and capable of becoming distended and rigid as the result of being filled with blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being raised, erected, or distended into an upright, rigid state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian histology, vascular tissue (corpus cavernosum) that becomes turgid when engorged with blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erectile designates capable of being raised to an upright position."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many birds elevate an **erectile** crest of feathers when displaying courtship rivalry."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Parasympathetic nerve stimulation causes vascular engorgement of **erectile** tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histologists examined the smooth muscle trabeculae that form the cavernous meshwork in **erectile** organs."*

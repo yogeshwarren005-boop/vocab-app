@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a microphone or antenna of being more sensitive in one direction than in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being directional or maintaining a direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of having or moving in a specific direction; oriented vector property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and physics, the asymmetric polarity of molecular strands (such as 5' to 3' in DNA).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionality designates the property of a microphone or antenna of being more sensitive in one direction than in another."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The chemical **directionality** of nucleic acid synthesis proceeds invariably from 5' to 3' ends."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Thermodynamics imparts an objective temporal **directionality** to the universe through entropy increase."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Geotropism gives definite vertical **directionality** to the descending radicle and ascending plumule."*

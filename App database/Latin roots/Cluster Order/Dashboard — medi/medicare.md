@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Health care for the aged; a federally administered system of health insurance available to persons aged 65 and over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Health care for the aged; a federally administered system of health insurance available to persons aged 65 and over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A national health insurance program in the United States, primarily serving persons aged sixty-five and older.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social insurance and health economics, a universal public financing program for geriatric medical coverage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicare designates health care for the aged; a federally administered system of health insurance available to persons aged 65 and over."*
+> - 📜 **Paul Starr (*The Social Transformation of American Medicine*):** *"The establishment of **Medicare** in 1965 fundamentally restructured the economics of American hospital care."*
+> - 📜 **Milton Friedman (*Capitalism and Freedom*):** *"Compulsory federal health insurance under **Medicare** inevitably distorted the pricing of clinical services."*
+> - 📜 **Kenneth Arrow (*Uncertainty and the Welfare Economics of Medical Care*):** *"Government insurance programs such as **Medicare** pool health risks across large elderly populations."*

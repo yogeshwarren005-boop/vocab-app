@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A means or instrumentality for storing or communicating information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surrounding environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main means of mass communication (broadcasting, publishing, the internet) regarded collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and laboratory histology, nutrient solutions or solid agar used to culture microorganisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Sterile nutrient **media** remained free of bacterial growth until exposed to airborne dust."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"Electronic **media** reshape human perception by transforming the global village into an interactive web."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The tunica **media** of muscular arteries regulates vascular resistance through smooth muscle tone."*

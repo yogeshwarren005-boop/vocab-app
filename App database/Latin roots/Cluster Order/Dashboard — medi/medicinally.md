@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a medicinal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a medicinal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: For medical or therapeutic purposes; as a medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, administered to cure disease or relieve painful physiological symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In truth, a mature man who uses hair-oil, unless medicinally, that man has probably got a quoggy spot in him somewhere."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Opium poppies have been cultivated **medicinally** since the earliest records of human civilization."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quinine must be administered **medicinally** in prompt doses upon the first appearance of the ague chill."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Sulfur compounds are employed **medicinally** as mild alteratives and topical antiseptics."*

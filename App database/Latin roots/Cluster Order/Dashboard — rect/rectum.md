@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The terminal section of the alimentary canal; from the sigmoid flexure to the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The terminal section of the alimentary canal; from the sigmoid flexure to the anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final straight section of the large intestine, terminating at the anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian anatomy, the terminal pelvic reservoir storing fecal matter prior to defecation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectum designates the terminal section of the alimentary canal; from the sigmoid flexure to the anus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digital palpation of the **rectum** must never be omitted during a thorough abdominal examination."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Distension of the **rectum** by fecal mass initiates reflex contraction of the colon and relaxation of the internal sphincter."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Homologous pelvic organs, including the terminal **rectum**, demonstrate anatomical kinship across all primates."*

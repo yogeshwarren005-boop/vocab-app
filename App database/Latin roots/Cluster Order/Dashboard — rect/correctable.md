@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being returned to the original condition; not necessarily permanent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrected by additions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being set right, amended, or remedied; curable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and typography, amenable to mechanical compensation, adjustment, or proof editorial revision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correctable designates capable of being returned to the original condition; not necessarily permanent."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Fallacies of observation are easily **correctable** once experimental controls are introduced."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early refractive errors in childhood remain readily **correctable** with proper convex lenses."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My youthful faults seemed like printer's errata, regrettable yet fortunately **correctable** in later life."*

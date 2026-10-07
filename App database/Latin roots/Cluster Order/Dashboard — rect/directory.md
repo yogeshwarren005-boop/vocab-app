@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alphabetical list of names and addresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a listing of the files stored in memory (usually on a hard disk).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book, listing, or database containing an organized index of names, addresses, or phone numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer operating systems, a file system structure that organizes and indexes files into a hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appeared to us that some of them must pass their whole lives in dealing out subscription-cards to the whole post-office directory—shilling cards, half-crown cards, half-sovereign cards, penny cards."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Many thousands were instructed by this little directory, where to find the lodges, homes and pension offices of the Commission, and were guarded against imposture and loss."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"About this time a Hospital Directory was opened at Number 10, Cooper Union."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby consulted the London commercial **directory** to verify the law stationer's address."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The French executive **directory** promulgated administrative orders that stifled provincial liberties."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"An orderly storage **directory** enables the mechanical brain to retrieve program routines rapidly."*

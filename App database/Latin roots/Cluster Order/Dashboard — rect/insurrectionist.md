@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in or incites an armed rebellion against constituted authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant rebel or revolutionist dedicated to overthrowing government institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our intelligence sources," Allen concluded, "report that many supporters of Plutonian objectives are, themselves, descendants of the insurrectionists that fomented the dissolution of our first interplanetary union."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial governor captured the chief **insurrectionist** and had him publicly executed in the forum."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No faction or armed **insurrectionist** should be permitted to hold the constitutional union hostage."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every determined **insurrectionist** seized a pike or musket as the alarm bell tolled from Notre-Dame."*

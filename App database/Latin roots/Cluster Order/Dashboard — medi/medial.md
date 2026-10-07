@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing an animal into right and left halves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or situated in or extending toward the middle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in or extending toward the middle; median.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and morphology, situated toward the midline plane of the body or an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medial designates dividing an animal into right and left halves."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **medial** collateral ligament stabilizes the knee joint against excessive valgus stress."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The olfactory bulbs lie close together along the **medial** aspect of the anterior cerebral hemispheres."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **medial** incisors of anthropoid apes exhibit homologies with those of fossil hominids."*

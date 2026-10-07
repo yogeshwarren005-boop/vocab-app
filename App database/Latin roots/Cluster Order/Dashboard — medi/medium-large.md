@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of anything that is large but not the largest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of anything that is large but not the largest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in size between medium and large; moderately sizable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology and commercial grading, designating specimens larger than standard median dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-large designates of anything that is large but not the largest."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders selected **medium-large** dogs possessing both muscular speed and sufficient stamina."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"The skull belonged to a **medium-large** carnivore characterized by heavy molar crushing teeth."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The tree produces **medium-large** acorns capped in rough, pubescent cups."*

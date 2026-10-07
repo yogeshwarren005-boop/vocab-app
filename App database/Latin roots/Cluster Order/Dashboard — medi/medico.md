@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in medical school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed medical practitioner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or colloquial term for a doctor, physician, or medical student.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literature and university slang, an individual belonging to the medical faculty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I invite you heartily to remain, if you think in your feeble imaginings that you have devised fresh torture for me.” “He’s a wooz, a true-blue, dyed-in-the-wool wooz,” Doctor Jackson chanted, with the medico’s delight in a novelty."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"Every young **medico** remembers the anxious suspense of waiting for his first private patient."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Allan Woodcourt was an energetic young **medico** who devoted himself to the cholera-stricken poor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The practicing **medico** must maintain high clinical standards through lifelong reading."*

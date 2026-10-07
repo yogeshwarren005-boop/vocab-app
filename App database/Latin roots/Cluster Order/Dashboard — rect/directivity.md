@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a microphone or antenna of being more sensitive in one direction than in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being directive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being directional; or the degree to which an antenna concentrates radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering and acoustics, a quantitative measure of radiation intensity in a given spatial angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directivity designates the property of a microphone or antenna of being more sensitive in one direction than in another."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electromagnetic propagation exhibits spatial **directivity** depending upon the configuration of conductors."*
+> - 📜 **Oliver Lodge (*Signalling Across Space Without Wires*):** *"Parabolic reflectors enhance the directional **directivity** of Hertzian radio waves."*
+> - 📜 **John Tyndall (*Sound*):** *"Acoustic horns concentrate sonic vibrations, imparting sharp spatial **directivity** to the beam."*

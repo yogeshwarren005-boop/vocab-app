@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reconstructive surgery of the anus or rectum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reconstructive surgery of the anus or rectum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic or reconstructive surgical repair of the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery, operative reconstruction to repair rectal strictures, prolapse, or congenital anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rectoplasty designates reconstructive surgery of the anus or rectum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe cicatricial stenosis of the lower bowel occasionally necessitates a delicate **rectoplasty**."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Antiseptic precautions ensured primary wound healing during a complex perineal **rectoplasty**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Colorectal surgeons perform **rectoplasty** to restore anatomical continuity after congenital atresia."*

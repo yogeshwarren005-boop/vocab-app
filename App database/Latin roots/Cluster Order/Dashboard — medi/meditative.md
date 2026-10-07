@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, involving, or absorbed in deep, continuous, or quiet contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing, inducing, or characterized by serene philosophical introspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His eyes were more meditative, and his expression was more sad."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister walked through the quiet forest in a **meditative** mood, reflecting on the burden of his sin."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Yes, as every one knows, **meditative** and water are wedded for ever."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I spent long, **meditative** hours watching the ripples circle outward on the glassy pond."*

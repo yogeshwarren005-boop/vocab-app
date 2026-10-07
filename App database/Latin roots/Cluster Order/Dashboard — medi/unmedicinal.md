@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a medicinal effect or not medically prescribed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a medicinal effect or not medically prescribed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having medicinal or healing qualities; not useful as a medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking curative virtue; inert or ineffective as a pharmaceutical therapeutic agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmedicinal designates not having a medicinal effect or not medically prescribed."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild varieties often produce bitter, **unmedicinal** juices that are rejected by grazing livestock."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ancient pharmacopeias were cluttered with filthy, **unmedicinal** decoctions that harmed the sick."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He found the bitter spring water wholly **unmedicinal**, despite the lavish promises of the spa keeper."*

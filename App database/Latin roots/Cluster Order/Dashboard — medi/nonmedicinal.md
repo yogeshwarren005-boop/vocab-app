@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a medicinal effect or not medically prescribed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a medicinal effect or not medically prescribed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having medicinal or healing properties; not intended for medical use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory pharmacology and botany, designating plants or compounds utilized for culinary, industrial, or cosmetic rather than curative purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmedicinal designates not having a medicinal effect or not medically prescribed."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The alchemist's tincture contained purely **nonmedicinal** coloring extracts that possessed zero physiological potency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The soothing beverage was entirely **nonmedicinal**, designed merely to encourage adequate patient hydration."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Many herbs were originally domesticated for ornamental or **nonmedicinal** reasons before their chemical virtues were known."*

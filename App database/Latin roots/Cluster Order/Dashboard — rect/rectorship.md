@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office or station of a rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office or station of a rector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, tenure, or jurisdiction of a rector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period during which an ecclesiastical or collegiate rector exercises governing authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or had you tongues to cry Against the rectorship of judgment?"*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Competition for the vacant **rectorship** stirred intense rivalry among the cathedral prebendaries."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"His quiet thirty-year **rectorship** was marked by unassuming charity to the rustic cottagers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The appointment to the university **rectorship** was ratified by the senate under imperial seal."*

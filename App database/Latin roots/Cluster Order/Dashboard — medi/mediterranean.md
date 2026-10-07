@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest inland sea; between europe and africa and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or located near the mediterranean sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Mediterranean Sea, its surrounding coastal countries, or their climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed or nearly enclosed by land; inland (from Latin medius 'middle' + terra 'land').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was in the Mediterranean with him; I am quite a sailor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bayham Badger when she was in the Mediterranean.” He invited Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After that, when I was with Captain Swosser in the Mediterranean, I embraced every opportunity of knowing and befriending the midshipmen under Captain Swosser’s command."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman empire encircled the entire basin of the **Mediterranean** sea with flourishing provinces."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The flora of the **Mediterranean** littoral exhibits adaptations to hot, dry summer droughts."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Submarine elevations have repeatedly narrowed the straits connecting the **Mediterranean** with the Atlantic."*

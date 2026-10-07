@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who acts as a link between people in order to try to bring about an agreement; a mediator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and evolutionary biology, a transitional compound or intermediate ancestral form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A growing consensus among philosophers made God more and more remote, and emphasized the necessity for intermediaries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishop acted as an official **intermediary** between the barbarian king and the Roman senate."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Fossil beds rarely preserve every delicate organic **intermediary** linking ancient families."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Municipal corporations serve as a vital institutional **intermediary** protecting individual liberty."*

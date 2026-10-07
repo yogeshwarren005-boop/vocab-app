@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or given to insurrection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or given to insurrection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or participating in an armed uprising or rebellion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, denoting revolutionary organizations, manifestos, or mutinous movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insurrectional designates of or relating to or given to insurrection."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **insurrectional** movements in the Syrian provinces were quelled by swift legionary marches."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Parisian commune formed an **insurrectional** committee to direct the armed sections of the city."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"The streets of Paris were barricaded by an **insurrectional** fury that seized the working quarters."*

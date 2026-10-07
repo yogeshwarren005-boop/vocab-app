@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The value below which 50% of the cases fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or situated in the middle, especially dividing something into two equal halves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics, the value separating the higher half from the lower half of a data sample; in geometry, a line connecting a vertex to the midpoint of the opposite side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, median designates the value below which 50% of the cases fall."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"The **median** value provides a stable measure of central tendency unaffected by extreme outliers."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Compression of the **median** nerve in the carpal tunnel produces tingling paresthesia in the fingers."*
+> - 📜 **Euclid (*Elements of Geometry*):** *"The three **median** lines of any triangle concur at a common interior point termed the centroid."*

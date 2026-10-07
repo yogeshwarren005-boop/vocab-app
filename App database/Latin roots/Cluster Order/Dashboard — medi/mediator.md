@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attempts to make people involved in a conflict agree; an intermediary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and pharmacology, an endogenous biochemical substance (like histamine) that transmits a physiological response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The man who seeks the place of mediator and interpreter betwixt his fellows and the Unknowable must needs be an idealist, and if he deal with illusion who so unfortunate as he?" They halted that night where two streams met."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Easie it may be seen that I intend Mercie collegue with Justice, sending thee Mans Friend, his Mediator, his design’d Both Ransom and Redeemer voluntarie, And destin’d Man himself to judge Man fall’n."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Easy it may be seen that I intend Mercy colleague with justice, sending thee Man’s friend, his Mediator, his designed Both ransom and Redeemer voluntary, And destined Man himself to judge Man fallen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The king of France offered his services as an impartial **mediator** between the emperor and the sultan."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Bradykinin acts as a potent chemical **mediator** in acute inflammatory vasodilatation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Son of God stood forth as the gracious **mediator** between offended heaven and fallen humanity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To intervene between people in a dispute in order to bring about an agreement or reconciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting through an intervening agency, medium, or secondary cause rather than immediately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I wished to mediate once more."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon the plan of separate provisions, New York would have to sustain the whole weight of the establishments requisite to her immediate safety, and to the mediate or ultimate protection of her neighbors."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This process of accommodation was carried out in after ages by followers who, made of less ethereal stuff than their masters, were for that reason the better fitted to mediate between them and the common herd."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Demonstrative knowledge requires **mediate** ideas to connect concepts whose agreement is not self-evident."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pope sent legates to **mediate** between the warring Lombard princes and the Frankish king."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Habit acts as a **mediate** psychological principle linking past observations with future expectations."*

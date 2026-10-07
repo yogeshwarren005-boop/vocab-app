@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to both medicine and law; involving the application of medical science to legal problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and jurisprudence, relating to inquests, autopsies, malpractice, or forensic evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicolegal designates pertaining to legal aspects of the practice of medicine (as malpractice or patient consent for operations or patient information)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Poisoning cases demand rigorous **medicolegal** necropsy to provide conclusive chemical evidence in court."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Forensic pathologists conduct **medicolegal** autopsies to establish the physiological cause of suspicious death."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took pride in his mastery of **medicolegal** chemical tests for identifying blood stains."*

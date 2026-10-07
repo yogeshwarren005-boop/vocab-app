@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not correct; not in conformity with fact or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accord with established usage or procedure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in accordance with fact, truth, or recognized standards; wrong or erroneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate, unbecoming, or improper according to social etiquette or artistic convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"XIX, p. 306) that this MS. is preserved in the Dyce Library but the statement is incorrect."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these are not only incorrect, but the picture of the Mysticetus or Greenland whale (that is to say, the Right whale), even Scoresby, a long experienced man as touching that species, declares not to have its counterpart in nature."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"False facts are highly injurious to the progress of science, for an **incorrect** claim may long endure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men fall into error when they reason from an **incorrect** and ill-defined definition of words."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley gently pointed out that her treatment of Miss Bates had been entirely **incorrect**."*

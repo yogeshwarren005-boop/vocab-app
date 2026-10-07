@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set straight or right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set straight or right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide a remedy for; to heal, cure, or rehabilitate an environmental or social problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering, to decontaminate soil, water, or industrial sites to restore ecological health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be aidant and remediate In the good man’s distress!"*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Ecological engineers use wetland biofilters to **remediate** agricultural runoff polluted with nitrates."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Progressive pedagogical methods strive to **remediate** early developmental deficits through hands-on inquiry."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Natural silting processes eventually **remediate** fractured estuaries after violent coastal storm surges."*

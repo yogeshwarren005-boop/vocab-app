@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a medial position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a medial position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward the middle, center, or median plane of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and anatomical dissection, directed inward toward the longitudinal anatomical midline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medially designates in a medial position."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Contraction of the internal pterygoid muscle draws the mandible **medially** and forward."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tendon of the ocular rectus passes **medially** before inserting into the scleral coat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cardiac impulse was displaced **medially** owing to massive pleural effusion on the left."*

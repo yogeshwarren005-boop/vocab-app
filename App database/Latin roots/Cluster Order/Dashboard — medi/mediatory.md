@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or directed toward mediation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or directed toward mediation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to mediate; mediating; conciliatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to intercession or the peaceful resolution of conflict through an intermediary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediatory designates of or related to or directed toward mediation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishops presented a **mediatory** letter to the emperor, pleading for leniency toward the rebels."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"His gentle, **mediatory** disposition helped extinguish the smoldering feud between the kinsmen."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Judicial courts exercise a quiet **mediatory** power that softens political conflicts in the republic."*

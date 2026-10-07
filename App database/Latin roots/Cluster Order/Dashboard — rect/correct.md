@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make right or correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reparations or amends for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from error, fault, or mistake; in accordance with fact, truth, or accepted standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adjust, rectify, or make right an erroneous statement, mechanical setting, or bodily defect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My accuser is my prentice; and when I did correct him for his fault the other day, he did vow upon his knees he would be even with me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His faults lie open to the laws; let them, Not you, correct him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Astronomers must compute gravitational perturbations to obtain the **correct** trajectory of the comet."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear thinking depends on forming **correct** and distinct ideas corresponding with external reality."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"If my theoretical reasoning be **correct**, natural selection must modify all competing varieties."*

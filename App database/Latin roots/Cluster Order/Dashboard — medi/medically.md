@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving medical practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving medical practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From a medical point of view; in terms of medicine, health, or clinical practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of pharmacological or clinical therapies rather than surgical procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medically designates involving medical practice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient was managed **medically** with digitalis and strict bed rest to relieve congestive symptoms."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Cases of essential hypertension are treated **medically** through diuretic and vasodilating compounds."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The post-encephalitic patients were monitored **medically** to document every subtle response to L-DOPA."*

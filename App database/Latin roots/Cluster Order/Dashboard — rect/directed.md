@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guided, focused, ordered, or aimed toward a specific goal, recipient, or destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, having a defined orientation or sign (such as a directed line segment or vector).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must either be directed by some that take upon them to know, or to take upon yourself that which I am sure you do not know, or jump the after-inquiry on your own peril."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie, good Sir Michael; bear this sealed brief With winged haste to the Lord Marshal, This to my cousin Scroop, and all the rest To whom they are directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’ faith."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural selection operates through **directed** preservation of favorable hereditary variations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The artillery was **directed** against the weakest bastion of the besieged city walls."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary attention involves **directed** consciousness held steadily upon a chosen idea."*

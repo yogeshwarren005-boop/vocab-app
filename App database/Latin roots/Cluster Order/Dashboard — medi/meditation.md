@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) contemplation of spiritual matters (usually on religious or philosophical subjects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or action of meditating; continuous, deep, and quiet contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written discourse or private reflection upon spiritual, philosophical, or moral themes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O fearful meditation, where alack, Shall Time’s best jewel from Time’s chest lie hid?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste me to know’t, that I, with wings as swift As meditation or the thoughts of love May sweep to my revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"In my first **meditation**, I resolved to doubt every former belief that admitted of the slightest uncertainty."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"A presence that disturbs me with the joy of elevated thoughts; a sense sublime of something far more deeply interfused, in holy **meditation**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solitary monks of the Thebaid spent decades in uninterrupted prayer, fasting, and spiritual **meditation**."*

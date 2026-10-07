@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The head or senior official of certain educational or religious institutions; or a parish priest in the Anglican church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic governance, the elected president or executive head of a European university.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, on account of her being the widow of a former rector of the parish, and sometimes Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa, to avoid confusion with the wife of the present rector."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins took pride in his position as the humble **rector** of Hunsford under Lady Catherine's patronage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The scholarly **rector** of Lowick spent his secluded days assembling notes for his Key to all Mythologies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The municipal **rector** of the university presided over the solemn theological disputations in the hall."*

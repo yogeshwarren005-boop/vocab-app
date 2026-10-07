@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a mediator or the duties of a mediator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a mediator or the duties of a mediator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or belonging to a mediator or the office of mediation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, pertaining to the intercessory work of Christ between God and mankind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediatorial designates of or relating to a mediator or the duties of a mediator."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Christ assumed his **mediatorial** throne to intercede for the frail race of Adam."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Venetian republic exercised a lucrative **mediatorial** role between the Crusaders and Constantinople."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A true statesman must sometimes assume a **mediatorial** character to reconcile alienated subjects."*

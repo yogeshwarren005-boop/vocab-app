@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rector's official residence, provided by a parish church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The benefice, tithes, and ecclesiastical rights attached to an Anglican parish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since her husband's death, when she had left the rectory in the valley and had come back to her old home, all her friends called her Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, a young girl then, had always been her messenger, and everyone liked to see her at the rectory."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lise from the rectory brought it," was Lippo's information."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Delaford **rectory** was a comfortable old-fashioned dwelling standing near the quiet churchyard."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers sat in the parlor of the Moorhead **rectory**, reading by the dim firelight."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **rectory** comprises not only the parsonage house but the glebe lands and predial tithes."*

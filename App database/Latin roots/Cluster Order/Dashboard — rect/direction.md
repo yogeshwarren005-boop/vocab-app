@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line leading to a place or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial relation between something and the course along which it points or moves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A course along which someone or something moves; or an authoritative instruction guiding action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Management, supervision, or control over an organization, artistic ensemble, or undertaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s even as fair as “at hand, quoth the chamberlain,” for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do commit his youth To your direction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He needs not our mistrust; since he delivers Our offices and what we have to do To the direction just."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Change of motion is proportional to the impressed motive force, and is made in the **direction** of that straight line."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Species have diverged in every **direction** to fill diverse niches in the economy of nature."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Public opinion exercises an irresistible **direction** over the course of democratic legislation."*

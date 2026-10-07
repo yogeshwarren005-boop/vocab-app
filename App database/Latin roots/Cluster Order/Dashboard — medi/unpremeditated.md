@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prepared or planned in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not premeditated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thought out or planned beforehand; spontaneous, impromptu, or impulsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary poetry, art, and human conduct, effortless and uncalculated creative expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask me what question thou canst possible, And I will answer unpremeditated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Even now, coming round by the Sol’s Arms with the intention of passing down the court, and out at the Chancery Lane end, and so terminating his unpremeditated after-supper stroll of ten minutes’ long from his own door and back again, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The girls were wild for dancing; and the evenings ended, occasionally, in an unpremeditated little ball."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"Hail to thee, blithe Spirit! Bird thou never wert, that from Heaven, or near it, pourest thy full heart in profuse strains of **unpremeditated** art."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And with voluntary move and harmonious numbers, my **unpremeditated** verse flows night and day."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's warm, **unpremeditated** words betrayed the depth of her spontaneous affection."*

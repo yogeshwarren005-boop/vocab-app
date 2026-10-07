@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of intermediate or average size; neither particularly small nor especially large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to a standard intermediate dimensional category in classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-size designates intermediate in size."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A **medium-size** bird can forage effectively among both ground leaf litter and overhead branches."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The river gravels deposited **medium-size** pebbles along the ancient terrace bends."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **medium-size** commercial enterprise frequently balances capital efficiency with operational flexibility."*

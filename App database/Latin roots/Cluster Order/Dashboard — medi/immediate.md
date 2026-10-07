@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the present time and place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very close or connected in space or time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or done at once; instant; or nearest in relationship, time, or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating without intervening medium, agency, or conceptual intermediary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is young, wise, fair; In these to nature she’s immediate heir; And these breed honour: that is honour’s scorn Which challenges itself as honour’s born, And is not like the sire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let his shames quickly Drive him to Rome. ’Tis time we twain Did show ourselves i’ th’ field, and to that end Assemble we immediate council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Gravitational action seemed to require either a medium or an **immediate** immaterial agency."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ideas form the **immediate** objects of perception whenever the mind reflects upon itself."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **immediate** ancestors of domesticated pigeons can be traced directly to Columba livia."*

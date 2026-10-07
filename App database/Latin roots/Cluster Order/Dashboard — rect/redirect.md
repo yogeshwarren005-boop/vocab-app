@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Channel into a new direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Channel into a new direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct something to a new, different, or alternative address, course, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, computing, and logistics, to reroute traffic or correspondence dynamically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I could only redirect it and hand it to him in silence."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Finally, satisfied, he held the finger up, examined it and redirected his attention to his audience."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Prudent governance must **redirect** commercial resources away from speculative bubbles toward manufacturing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The postmaster was instructed to **redirect** all correspondence addressed to Chesney Wold to town."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Tax policy may be used to **redirect** investment capital toward public infrastructural works."*

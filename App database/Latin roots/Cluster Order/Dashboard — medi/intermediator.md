@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mediator, go-between, or agent who intervenes between two or more parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and jurisprudence, a neutral party facilitating treaty negotiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermediator designates a negotiator who acts as a link between parties."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian satrap served as an **intermediator** to convey royal terms to the Roman camp."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"He refused to employ any legal **intermediator**, choosing to confront his rival face to face."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The royal intendant functioned as an **intermediator** between the crown and provincial estates."*

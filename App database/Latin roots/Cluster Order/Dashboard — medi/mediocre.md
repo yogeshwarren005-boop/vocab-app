@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate to inferior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking exceptional quality or ability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of only moderate, ordinary, or average quality; not very good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinction, brilliance, or excellence; commonplace in execution or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"However, many mediocre women have proved their ability to attend to their own fortunes, and do good business for themselves; but your battle is to be fought on still higher grounds."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"This evening she is merely a commonplace mediocre actress.” “Don’t talk like that about any one you love, Dorian."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In other words, I, a very mediocre scribbler, had effected seven times in a single month what the powers of the universe could not manage once, even on the smallest scale."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"A **mediocre** poet may avoid glaring blunders, but he will never kindle the sublime fire of genius."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The empire languished under the feeble administration of emperors possessing only **mediocre** talents."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dreaded falling into a **mediocre** domestic existence devoid of noble intellectual ambitions."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or given to insurrection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or given to insurrection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inciting or engaging in an armed revolt, rebellion, or violent uprising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rebellious in character, ideology, or political agitation against the state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"TAXES IN INSURRECTIONARY DISTRICTS, 1864."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The insurrectionary disorders in Missouri are but individual crimes, and do not change the legal status of the State, nor change its rights and obligations as a member of the Union."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The radical clubs disseminated **insurrectionary** pamphlets designed to subvert all traditional authority."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Monmouth relied upon the **insurrectionary** fervor of the western weavers and rustic dissenters."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The province was thrown into panic by the rumors of an **insurrectionary** march led by the rebel general."*

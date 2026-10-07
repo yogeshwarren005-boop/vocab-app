@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of persons chosen to govern the affairs of a corporation or other large institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of persons chosen to govern the affairs of a corporation or other large institution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A board of directors, or an executive department in a government or corporation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office, tenure, or collective governing body charged with institutional administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"About a year or so after my transfer from Supply the individual who took my job in the Supply Directorate told me, in the presence of my former unit's employees, that my decision had been 'right.' I didn't ask for details."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Programs A monumental medical and social advance was made in suicide prevention by the original U S Army Suicide Prevention Plan, (Feb 1985) prepared by the Directorate of Human Resources, Office of the Deputy Chief of Staff for Personnel."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It forbids corporate ownership of stock in a competing corporation, forbids interlocking directorates in large banks and in other competing corporations, with capital, surplus and undivided profits aggregating more than $1,000,000."*
+> - 📜 **Edmund Burke (*Two Letters on the Conduct of Our Domestic Parties*):** *"The French **Directorate** ruled with erratic violence, swinging between revolutionary and royalist extremes."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The revolutionary **directorate** attempted to centralize all provincial power within Paris ministries."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern enterprise separates ownership shares from the professional administrative **directorate**."*

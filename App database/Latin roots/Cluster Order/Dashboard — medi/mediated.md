@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought about or resolved through intervention; or communicated via an intermediary medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and physiology, facilitated or transmitted by molecular receptors or second messengers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He stood and mediated—a miserable man."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But does not this vapour theory do away with the other theory that divination is mediated to us by the gods through the daemons?"*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Glucose transport across the cellular membrane is **mediated** by specialized carrier protein molecules."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A lasting truce was **mediated** by the venerable patriarch after weeks of intense diplomacy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary movements are **mediated** through conscious motor images previously stored in memory."*

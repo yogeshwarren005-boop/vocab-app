@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preparing for the study of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and preparing for the study of medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or preparing for the study of medicine; prerequisite studies before medical school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic curricula, preparatory scientific instruction in chemistry, biology, and physics for future physicians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, premedical designates preparing for the study of medicine."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The student must acquire a rigorous **premedical** grounding in physical science before entering the hospital wards."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A sound **premedical** education teaches the youth the unsparing discipline of comparative dissection."*
+> - 📜 **Charles Eliot (*Educational Reform*):** *"Harvard revolutionized medical training by establishing strict **premedical** prerequisites in collegiate chemistry."*

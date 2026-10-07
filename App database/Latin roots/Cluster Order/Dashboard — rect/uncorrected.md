@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Left faulty or wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subjected to correction or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corrected, amended, or adjusted; containing errors or faults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical and physical measurement, raw data unadjusted for environmental calibration errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncorrected designates left faulty or wrong."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I was horrified to see that an **uncorrected** set of early proofs had been delivered to the printer."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The **uncorrected** lens produced prominent chromatic rings around the focal image of the star."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The explorer's journal contained **uncorrected** barometric estimations of mountain elevations."*

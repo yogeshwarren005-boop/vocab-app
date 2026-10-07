@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female actor in a comedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female comedian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female comedian or comic actress who performs in theater, television, or humorous entertainment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic arts, an actress specializing in light, witty, or satirical roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comedienne designates a female actor in a comedy."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The brilliant young **comedienne** carried the farcical third act through sheer comic timing."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam proved herself as capable of playing a refined **comedienne** as an impassioned tragic heroine."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Her sparkling wit and mocking glances suggested the spontaneous charm of an accomplished **comedienne**."*

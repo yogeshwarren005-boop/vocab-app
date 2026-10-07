@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become alive again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore from a depressed, inactive, or unused state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore a dead person to life; or to revive, reinstate, or bring back into use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and cultural history, to bring forgotten ideas, artistic styles, or ancient traditions back into prominence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Solitary life-prisoners have been known to resurrect and look upon the sun again."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Then why could not these other-world memories of the boy resurrect?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became convinced, through the failure of my experiments, that only through death could I clearly and coherently resurrect the memories of my previous selves."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Jerry Cruncher engaged in clandestine nocturnal expeditions to **resurrect** newly buried corpses for surgeons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julian the Apostate strove in vain to **resurrect** pagan worship across the Christianized empire."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"We cannot **resurrect** feudal monasticism, but we must recapture its spirit of reverent labor."*

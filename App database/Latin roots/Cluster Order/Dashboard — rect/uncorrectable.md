@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being controlled or managed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being controlled or managed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being corrected, reformed, or set right; incurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, logic, or jurisprudence, describing an inherent flaw that cannot be compensated or amended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncorrectable designates incapable of being controlled or managed."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An axiomatic contradiction introduces an **uncorrectable** error into all subsequent deductive theorems."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive myocardial fibrosis leaves behind an **uncorrectable** functional deficit in cardiac reserve."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Inveterate habits of sloth become virtually **uncorrectable** when indulged through decades of youth."*

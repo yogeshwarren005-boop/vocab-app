@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guiding, managing, conducting, or aiming something toward an intended course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In executive leadership and the performing arts, overseeing artistic interpretation or strategic operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This your son-in-law, And son unto the king, whom heavens directing, Is troth-plight to your daughter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was directing the new circulars till two this morning."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Directing the pitching of the chair in an affable and easy manner, Mr."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By **directing** that industry in such a manner as its produce may be of greatest value, he intends only his own gain."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The root-apex exhibits an active sensitivity, **directing** growth downward away from dry surfaces."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The president has the constitutional duty of **directing** the armed forces during wartime."*

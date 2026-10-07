@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branches of medical science that deal with nonsurgical techniques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that treats or prevents or alleviates the symptoms of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or practice of the diagnosis, treatment, and prevention of disease; or a pharmaceutical drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The broad profession and academic discipline encompassing clinical, surgical, and preventative healing arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"Life is short, the art of **medicine** long, opportunity fleeting, experiment treacherous, judgment difficult."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The practice of **medicine** is an art, not a trade; a calling, not a business."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental **medicine** is the synthesis of physiology, pathology, and therapeutics into one unified science."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an intermediate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an intermediate degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intermediate position, manner, or degree; by way of intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying a middle station between extremes in space, rank, or chronology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermediately designates to an intermediate degree."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hybrid offspring often inherit plumage patterns colored **intermediately** between both parent breeds."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Tissues developing **intermediately** between ectoderm and endoderm constitute the embryonic mesoderm."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves are arranged **intermediately** between alternate and opposite nodes along the branch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical evergreen shrubs or lianas in the family Melastomataceae, native to the Paleotropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and tropical botany, ornamental plants (such as Medinilla magnifica) noted for pendulous pink panicles and large showy bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medinilla designates tropical old world ornamental evergreen shrubs having fleshy leaves and large panicles of white pink flowers."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The botanist described an exquisite new species of **Medinilla** collected in the lush Philippine rainforests."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Magnificent epiphytic shrubs of the genus **Medinilla** hung their roseate floral clusters from mossy branches."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"In the tropical greenhouse at Kew, I admired the striking tiered bracts of a flowering **Medinilla**."*

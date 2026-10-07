@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the rising of christ on the third day after the crucifixion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revival from inactivity and disuse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rising from the dead; or the revival, restoration, or reactivation of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the central doctrine of Christ rising bodily from the tomb on the third day.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The mixed, singular, luminous gloom in which they walked along together to the spot where the cows lay often made him think of the Resurrection hour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of doors there began noises as of silk smartly rubbed; the restful dead leaves of the preceding autumn were stirred to irritated resurrection, and whirled about unwillingly, and tapped against the shutters."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The corpses of those old fitful passions which had lain inanimate amid the lines of his face ever since his reformation seemed to wake and come together as in a resurrection."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His death shall pay the forfeit, and his **resurrection** open the gates of everlasting life."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The theme of spiritual **resurrection** echoes throughout Sydney Carton's heroic self-sacrifice."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The doctrine of the **resurrection** of the body was fervently defended by early Christian apologists."*

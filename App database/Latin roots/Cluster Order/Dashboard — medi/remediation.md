@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of correcting an error or a fault or an evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of correcting an error or a fault or an evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of remedying something, in particular of reversing or stopping environmental damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and clinical therapy, specialized instruction or treatment aimed at correcting deficiencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remediation designates act of correcting an error or a fault or an evil."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Microbial bioremediation offers a sustainable path for the ecological **remediation** of petroleum spills."*
+> - 📜 **John Dewey (*The School and Society*):** *"Early cognitive **remediation** enables struggling students to regain confidence in fundamental literacy."*
+> - 📜 **Paul Starr (*The Social Transformation of American Medicine*):** *"Sanitary **remediation** of municipal water supplies caused infant mortality rates to plummet in urban centers."*

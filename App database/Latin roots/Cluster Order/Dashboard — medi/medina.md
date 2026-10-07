@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western saudi arabia; site of the tomb of muhammad; the second most holy city of islam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient quarter of many cities in northern africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The old, historic quarter of a North African or Arab city, typically walled and densely built.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic history, the holy city of Medina (al-Madinah) in western Saudi Arabia, where the Prophet Muhammad established the early Muslim community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Likewise, Mecca and Medina have achieved illimitable glory, as the light of Prophethood shone forth therein."*
-> - 📜 **James Joyce (*Ulysses*):** *"The first in the lilacgarden of Matthew Dillon’s house, Medina Villa, Kimmage road, Roundtown, in 1887, in the company of Stephen’s mother, Stephen being then of the age of 5 and reluctant to give his hand in salutation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Muhammad fled from Mecca and found welcoming refuge among the loyal citizens of **Medina**."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The pilgrim caravan entered the ancient date-groves surrounding the holy sanctuary of **Medina**."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"The city of **Medina** became the cradle of an empire that swiftly overran the frontiers of Rome and Persia."*

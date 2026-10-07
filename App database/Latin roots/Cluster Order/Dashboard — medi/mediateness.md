@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being mediate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being mediate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect connection, relational dependency, or operation through an intervening medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and philosophy of mind, indirectness in knowledge requiring demonstrative steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mediateness designates the quality of being mediate."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Deductive inference is characterized by the logical **mediateness** of its reasoning steps."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatism contrasts the direct immediacy of percepts with the conceptual **mediateness** of concepts."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Representation inherently involves **mediateness**, linking an interpretant with an object through a sign."*

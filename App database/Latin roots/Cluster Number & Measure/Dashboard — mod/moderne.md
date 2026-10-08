@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderne
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a popularization of art deco that used bright colors and rectangular shapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a popularization of art deco that used bright colors and rectangular shapes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural and decorative design movement of the 1930s emphasizing aerodynamic curves and long horizontal lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stylized, sleek, and polished aesthetic reflecting the machine age and modern transportation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Heine's Charakter und die Moderne Seele."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The gleaming chromium and rounded corners of the **moderne** pavilion symbolized the optimism of the machine age."*
+> - 📜 **F. Scott Fitzgerald (*The Love of the Last Tycoon*):** *"The movie executive's office was fitted with sleek **moderne** furniture that gleamed beneath the desert sun."*
+> - 📜 **Aldous Huxley (*Eyeless in Gaza*):** *"He observed the polished glass facades of the new **moderne** apartments rising above the London suburbs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderate-sized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having medium or average physical dimensions; neither remarkably large nor notably small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing intermediate physical volume, capacity, or acreage in commercial or architectural description.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderate-sized designates intermediate in size."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A **moderate-sized** island isolated in the ocean often supports a unique flora derived from stray seeds."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We were shown into a comfortable, **moderate-sized** library lined with shelves of antique volumes."*
+> - 📜 **Jane Austen (*Emma*):** *"Hartfield was a **moderate-sized** estate, possessing every luxury suitable to an affluent family."*

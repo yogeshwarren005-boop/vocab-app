@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modeller
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who creates models.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculptor, craftsman, or artisan who designs and constructs scale models, patterns, or molds (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in creating computational, mathematical, or scientific models of physical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modeller designates a person who creates models."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The pottery works employed a skilled **modeller** to shape new ceramic designs for the export trade."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The young architectural **modeller** exhibited his cardboard elevation of the restored Gothic tower."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She admired the delicate plaster cast fashioned by an Italian **modeller** living in Bloomsbury."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modulation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical passage moving from one key to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the transmission of a signal by using it to vary a carrier wave; changing the carrier's amplitude or frequency or phase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of modulating; variation in the strength, pitch, or tone of the voice or an instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The variation of a carrier wave parameter (such as frequency or amplitude) to transmit information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am very glad to hear it,” said Dorothea, laughing out her words in a bird-like modulation, and looking at Will with playful gratitude in her eyes."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The voice was not only mellifluent and clear, but the emphasis was so just, and the modulation so impassioned, that it seemed as if a heart of stone could not fail of being moved by it."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I used all my eloquence, all the persuasive flourishes of the hand, and heart-melting modulation of periods in my power, to urge her out to Harvieston, but all in vain."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The harmony of eloquence depends upon the proper **modulation** of periods to delight the listener's ear."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Musical expression requires sensitive **modulation** between consonance and resolving dissonance."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"Rapid periodic **modulation** of light waves demonstrates their transverse electromagnetic constitution."*

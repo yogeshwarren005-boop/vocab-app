@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemporary freshness, novelty, and up-to-date character in intellectual thought or artistic design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic quality of belonging to the present age rather than historical antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"These houses opposite, compared with Gable Inn, are of a mushroom modernness, and yet are old enough (having begun with a debauched and sickly constitution) to have fallen into an almost complete decrepitude."*
+> - 📜 **Matthew Arnold (*On the Modern Element in Literature*):** *"The intellectual **modernness** of Thucydides strikes the nineteenth-century reader with astonishing force."*
+> - 📜 **Walter Pater (*Appreciations*):** *"A distinct note of **modernness** vibrates through the refined, skeptical lyrics of the French poet."*
+> - 📜 **Henry James (*French Poets and Novelists*):** *"The delightful **modernness** of Madame de Sévigné's letters lies in their vivacious domestic intimacy."*

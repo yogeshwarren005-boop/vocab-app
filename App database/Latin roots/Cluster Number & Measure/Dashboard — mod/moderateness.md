@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderateness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being moderate in price or expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being moderate and avoiding extremes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposition toward balance, temperance, and restraint, avoiding extremes in action, desire, or opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equable temperance or modest scale in physical climate, pricing, or social demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderateness designates the property of being moderate in price or expenditures."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **moderateness** of his ambitions preserved the philosopher from the treacherous whirlpools of court intrigue."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A man distinguished for the **moderateness** of his expenses can maintain his independence against fortune."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The natural **moderateness** of youth in matters of diet should be encouraged rather than corrupted."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # incommodiousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inconvenient discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inconvenient discomfort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being cramped, inconvenient, uncomfortable, or poorly adapted for use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Troublesomeness or difficulty arising from inadequate space, poor design, or adverse circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The travelers endured the **incommodiousness** of the rough stone hovel with cheerful equanimity."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The delegates groaned under the **incommodiousness** of their improvised assembly hall at Versailles."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The host apologized for the **incommodiousness** of his book-cluttered study, sweeping papers from the chairs."*

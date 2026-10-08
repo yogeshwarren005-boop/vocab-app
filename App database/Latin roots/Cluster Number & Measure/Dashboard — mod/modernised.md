@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernised
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become technologically advanced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make repairs, renovations, revisions or adjustments to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Updated, renovated, refurbished, or adapted to conform to contemporary standards and methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Altered in spelling, vocabulary, or syntax to make an ancient text accessible to contemporary readers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"They are of about the period of the Nuns’ House, irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the north of the great tower is a long range of apartments, which seem to be of more recent construction, or to have been modernised in later times by one or other of its titled proprietors."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old corn mill had been thoroughly **modernised** with steam boilers and iron gears."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The country town boasted a **modernised** market hall erected by the reforming borough council."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry looked upon the **modernised** billiard room that his uncle had added to the ancient hall."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderatorship
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of moderator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of moderator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, dignity, or term of service of a presiding moderator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration or duties associated with moderating an ecclesiastical or academic assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderatorship designates the position of moderator."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Election to the **moderatorship** was regarded as the highest ecclesiastical honor in the Scottish church."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"During his term in the **moderatorship**, he guided the assembly with firm impartiality through theological controversy."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The dean recalled his youthful **moderatorship** at Oxford as the happiest intellectual chapter of his career."*

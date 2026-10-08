@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modelling
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary sculpture in wax or clay from which a finished work can be copied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of representing something (usually on a smaller scale).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique of working in malleable materials to produce a three-dimensional sculpture or relief (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The depiction of three-dimensional depth and contour in drawing through chiaroscuro and shading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If she were to try one, she would find her teeth in her way, modelling that action of her face, as she has unconsciously modelled all its other expressions, on her pattern of sordid age."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had seized on it with her unerring tact: this was right for Isabel, this dim transparency of rosepoint modelling itself over the immature slenderness of nineteen: and she and her maid Catherine and Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will was very open and careless about his personal affairs, but it was among the more exquisite touches in nature’s modelling of him that he had a delicate generosity which warned him into reticence here."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The bold **modelling** of the relief sculptures on the facade catches the sharp Venetian morning light."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Leonardo achieved a soft perfection of **modelling** by blending light and shadow imperceptibly."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"He treated phonetics not as abstract grammar but as the living artistic **modelling** of human speech."*

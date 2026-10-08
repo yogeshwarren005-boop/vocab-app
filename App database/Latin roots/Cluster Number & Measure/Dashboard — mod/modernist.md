@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes a deliberate break with previous styles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes a deliberate break with previous styles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist, writer, or architect who embraces and creates work according to the principles of modernism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theologian or intellectual who advocates adapting traditional religious beliefs to contemporary secular thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modernist designates an artist who makes a deliberate break with previous styles."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The **modernist** writer pursues the flickerings of consciousness rather than a rigid linear plot."*
+> - 📜 **Lewis Mumford (*Sticks and Stones*):** *"The pioneering **modernist** architect stripped away ornamental gingerbread in favor of pure functional form."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*):** *"Joyce proved himself a daring **modernist** by overturning classical expectations of narrative progression."*

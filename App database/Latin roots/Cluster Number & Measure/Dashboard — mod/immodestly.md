@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # immodestly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without modesty; in an immodest manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without modesty; in an immodest manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an immodest manner; indecently, shamelessly, or with brazen and boastful presumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forwardly or arrogantly, without respectful deference or decorous reticence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immodestly designates without modesty; in an immodest manner."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Lucy Steele smiled **immodestly** as she revealed the secret engagement ring upon her finger."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who boasts **immodestly** of his talents only invites observers to search out his defects."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky paraded her diamond necklace **immodestly** before the envious eyes of her provincial acquaintances."*

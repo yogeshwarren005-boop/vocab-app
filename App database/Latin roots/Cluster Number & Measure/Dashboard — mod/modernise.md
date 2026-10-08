@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernise
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become technologically advanced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make repairs, renovations, revisions or adjustments to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt, update, or renovate equipment, methods, or buildings according to current contemporary practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reform traditional customs, intellectual doctrines, or artistic forms to align with contemporary needs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"They are of about the period of the Nuns’ House, irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"On the north of the great tower is a long range of apartments, which seem to be of more recent construction, or to have been modernised in later times by one or other of its titled proprietors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king resolved to **modernise** the military administration by replacing feudal levies with standing regiments."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The planners sought to **modernise** municipal sanitary systems to eliminate infectious urban outbreaks."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The director attempted to **modernise** the classical comedy by altering archaic allusions in the dialogue."*

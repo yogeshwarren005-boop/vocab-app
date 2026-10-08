@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # commodity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles of commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articles of commerce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A raw material or agricultural product that can be bought and sold in commerce, such as grain, oil, or copper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A useful, valuable, or advantageous quality, possession, or convenience in everyday life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would to God thou and I knew where a commodity of good names were to be bought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will turn diseases to commodity. [_Exit._] SCENE III."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The money price of every **commodity** is determined by the proportion between supply and effectual demand."*
+> - 📜 **William Shakespeare (*King John*):** *"That smooth-faced gentleman, tickling **commodity**, the bias of the world, that tempts the kings of Christendom!"*
+> - 📜 **Karl Marx (*Capital*):** *"A **commodity** is, in the first place, an object outside us, a thing that by its properties satisfies human wants."*

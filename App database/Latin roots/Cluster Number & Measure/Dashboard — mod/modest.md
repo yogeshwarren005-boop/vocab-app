@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modest
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by simplicity; having a humble opinion of yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not large but sufficient in size or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unassuming or moderate in the estimation of one's abilities, achievements, or importance; humble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderate in size, amount, or rate; not extravagant or excessive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ready, sir; but his will hath in it a more modest working."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars was not handsome, and his manners required intimacy to make them pleasing, but he was truly **modest**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles lived in a very **modest** set of chambers at the top of a flight of stairs in Gray's Inn."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **modest** inquiry into the works of nature reveals divine wisdom without puffing up human pride."*

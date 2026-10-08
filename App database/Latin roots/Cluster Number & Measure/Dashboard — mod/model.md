@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # model
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical description of a complex entity or process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of product.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional representation of a person, object, or system, typically on a smaller scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to display clothing or pose for an artist; or an exemplar worthy of imitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O England! model to thy inward greatness, Like little body with a mighty heart, What mightst thou do, that honour would thee do, Were all thy children kind and natural!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it serve for any model to build mischief on?"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"He who would build a great state must first fashion a mental **model** grounded in historical experience."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Artificial selection practiced by domestic breeders offers a clear **model** of nature's larger operations."*
+> - 📜 **Henry James (*The Real Thing*):** *"The painter discovered that the aristocratic lady made a far less pliable **model** than the Cockney girl."*

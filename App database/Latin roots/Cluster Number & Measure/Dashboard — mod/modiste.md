@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modiste
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes and sells hats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or mends dresses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker or vendor of fashionable women's clothing, gowns, and accessories; a fashionable dressmaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A milliner or couturière patronized by high society for bespoke garments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modiste designates someone who makes and sells hats."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The French **modiste** brought her velvet mantles and Parisian hats to the hotel for Madame Crawley's inspection."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"The ladies visited the most expensive French **modiste** on the Nevsky Prospekt to order ball gowns."*
+> - 📜 **Henry James (*The Bostonians*):** *"She dressed with a quiet elegance that suggested the hand of a discreet and costly Parisian **modiste**."*

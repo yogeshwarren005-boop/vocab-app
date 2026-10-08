@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modiolus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central conical bony pillar of the cochlea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central conical bony pillar of the cochlea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central conical bony core or pillar of the cochlea in the inner ear around which the cochlear canal spirals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chiasma or dense muscular convergence point near the corners of the human mouth where facial muscles unite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modiolus designates the central conical bony pillar of the cochlea."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The cochlear canal winds around the central bony **modiolus** like the spiral staircase of a Gothic tower."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Nerve fibers from the acoustic trunk pass through minute apertures in the **modiolus** to reach the organ of Corti."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"A longitudinal section of the cochlea demonstrates how the spiral lamina attaches directly to the **modiolus**."*

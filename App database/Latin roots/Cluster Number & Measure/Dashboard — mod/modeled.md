@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modeled
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plan or create according to a model or models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form in clay, wax, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fashioned, shaped, sculpted, or designed in three dimensions after an original prototype or standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displayed garments in the fashion industry; or constructed as an analytical simulation of a real system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will indeed deserve the most vigilant and careful attention of the people, to see that it be modeled in such a manner as to admit of its being safely vested with the requisite powers."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It may well be thought that he modeled his behavior by an uncommon standard, when, with all our opportunities and accuracy of observation, we were able for a long time to gather no satisfactory information."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Local organizations modeled after it, having in view similar aims will be created and put in operation."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sculptor carefully **modeled** the features of the bust in soft clay before casting it in bronze."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"The capitol at Richmond was **modeled** after the ancient Maison Carrée of Nîmes with classic dignity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The skulls of prehistoric men were **modeled** by forces of adaptation similar to those affecting apes."*

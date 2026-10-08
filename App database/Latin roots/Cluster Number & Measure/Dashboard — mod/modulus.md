@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modulus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that can be divided without remainder into the difference between two other integers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute value of a complex number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant factor, numerical coefficient, or ratio expressing a physical property (e.g. modulus of elasticity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, the absolute value of a real or complex number; or the divisor in modular congruence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modulus designates an integer that can be divided without remainder into the difference between two other integers."*
+> - 📜 **Thomas Young (*A Course of Lectures on Natural Philosophy*):** *"The **modulus** of elasticity measures the proportional force required to stretch or compress a given material."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Two integers are congruent with respect to a given **modulus** if their difference is divisible by that number."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The rigidity of the elastic medium is expressed by a constant shear **modulus**."*

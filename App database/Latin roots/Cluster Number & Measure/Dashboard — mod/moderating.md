@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderating
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preside over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less fast or intense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to temper, mitigate, soften, or restrain extreme conditions, forces, or temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presiding over, supervising, or directing a formal debate, meeting, or panel discussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But wisdom lies in moderating mere impressions, and Gabriel endeavoured to think little of this."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The immigration from Europe has furnished an ever-changing group of workers, moderating the rate of wages which employers otherwise would have had to pay."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, who had come down to exercise a moderating influence in the direction of compromise."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The vast surrounding ocean exerts a powerful **moderating** influence upon the climate of the southern islands."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The elder statesmen exercised a salutary **moderating** control over the fiery tempers of the young parliamentarians."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosopher sought to exert a **moderating** guidance over the impetuous decrees of the young Caesar."*

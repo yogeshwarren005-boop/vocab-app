@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # accommodation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement of differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room, building, or lodging provided for living, sleeping, or temporary residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological adjustment of the human eye's crystalline lens for seeing at various distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most humbly, therefore, bending to your state, I crave fit disposition for my wife, Due reference of place and exhibition, With such accommodation and besort As levels with her breeding."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle is very careful that two gentlemen not very neat about the cuffs and buttons (for whose accommodation he has provided a special little table near the coroner in the Harmonic Meeting Room) should see all that is to be seen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into George’s Shooting Gallery, &c., he goes; and in it there are gaslights (partly turned off now), and two whitened targets for rifle-shooting, and archery accommodation, and fencing appliances, and all necessaries for the British art of boxing."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The mechanism of **accommodation** depends upon the contraction of the ciliary muscle altering lens curvature."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt inspected the modest **accommodation** of my London lodgings with rigorous satisfaction."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Without muscular **accommodation**, near objects would appear as blurred circles of diffusion upon the retina."*

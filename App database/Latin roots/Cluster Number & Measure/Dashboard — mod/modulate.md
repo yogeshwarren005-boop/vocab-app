@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modulate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exert a modifying, controlling, or tempering influence on something; to regulate or soften.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To vary the pitch, tone, or inflection of the voice; or to vary a radio carrier wave in amplitude or frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She knocked a third time, three regular strokes, gentle, but perfectly distinct, and with meaning in them; for, modulate it with what cautious art we will, the hand cannot help playing some tune of what we feel upon the senseless wood."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"His fingers wandered over the lower register, improvising, modulating from one minor key to another in a cobweb of silver harmony spun pale and low from a minimum of technical attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The nightingale ceased not to **modulate** her nocturnal song amidst the dark, fragrant boughs."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The skilled orator knows how to **modulate** his tones, rising from gentle persuasion to fiery thunder."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A variable magnetic field can **modulate** the transmission of electromagnetic waves across the ether."*

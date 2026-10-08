@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An auxiliary verb (such as `can' or `will') that is used to express modality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting the most frequent value in a distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to mode or manner; expressing necessity, possibility, or contingency in grammar and logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics, relating to the mode, the value that appears most frequently in a data set.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modal designates an auxiliary verb (such as `can' or `will') that is used to express modality."*
+> - 📜 **Bertrand Russell (*A Critical Exposition of the Philosophy of Leibniz*):** *"Leibniz based his metaphysics upon the **modal** distinction between necessary and contingent propositions."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **modal** categories of possibility, existence, and necessity add nothing to the content of a concept."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Medieval logicians developed elaborate mnemonic verses to classify the **modal** syllogisms of Aristotle."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # discommode
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience, trouble, annoyance, or physical discomfort to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interrupt or disturb the orderly routine or travel arrangements of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discommode designates to cause inconvenience or discomfort to."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was anxious that her sudden arrival should not in any manner **discommode** the family at Longbourn."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I trust my presence here will not **discommode** you during your legal consultations, Mr. Jarndyce."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The proud bishop declared that no minor parish dispute should **discommode** his serene episcopal routine."*

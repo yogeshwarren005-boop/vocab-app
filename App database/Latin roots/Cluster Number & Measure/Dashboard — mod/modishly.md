@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modishly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stylish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stylish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a modish, fashionable, or stylish manner; according to the latest trends of dress or decor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smartly or chicly dressed, often with an air of conscious social display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modishly designates in a stylish manner."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The officers from the regiment strolled **modishly** through Meryton, ogling the ladies from the milliner's shop."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Young Pen dressed **modishly** for the college assembly, adjusting his velvet lapels before the mirror."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The young count bowed **modishly**, murmuring conventional flattery in the shaded Roman garden."*

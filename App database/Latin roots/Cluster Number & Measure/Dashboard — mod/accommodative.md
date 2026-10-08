@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # accommodative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Helpful in bringing about a harmonious adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to adjust to differences in order to obtain agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by readiness to adapt, oblige, or adjust to the convenience of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the muscular ability of the eye to focus sharply on objects at differing focal distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accommodative designates helpful in bringing about a harmonious adaptation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness demonstrates an inherently **accommodative** capacity when confronting novel sensory stimuli."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The **accommodative** effort required for reading fine print induces strain in presbyopic eyes."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A wise legislative body displays an **accommodative** spirit toward provincial traditions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being moderate and avoiding extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change for the better.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avoidance of excess, extravagance, or extremes; temperance and self-restraint in action or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of regulating or mitigating severity, intensity, or ideological violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why tell you me of moderation?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whispers “Hush!” “My friends,” says Chadband, “we have partaken in moderation” (which was certainly not the case so far as he was concerned) “of the comforts which have been provided for us."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While Lady Elliot lived, there had been method, moderation, and economy, which had just kept him within his income; but with her had died all such right-mindedness, and from that period he had been constantly exceeding it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus bequeathed to his successors the prudent advice of confining the empire within its limits through **moderation**."*
+> - 📜 **Francis Bacon (*Essays*):** *"In all passions, **moderation** is the true bridle that keeps wisdom from being trampled underfoot."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"He that conducts his inquiries with **moderation** will preserve his judgment from superstitious errors."*

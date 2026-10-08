@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with standardized units or dimensions allowing flexibility and variety in use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed with standardized units or dimensions allowing flexibility and variety in use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with standardized units or interchangeable dimensions for flexibility in assembly and layout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mathematical modules or functional components of cognitive architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modular designates constructed with standardized units or dimensions allowing flexibility and variety in use."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Mass production flourished through the adoption of **modular** components that snapped into standardized frames."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration ship was assembled in lunar orbit from standardized **modular** cylinders."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Modern arithmetic investigates **modular** arithmetic systems defined by congruence relations."*

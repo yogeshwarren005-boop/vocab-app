@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modifiable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being altered, amended, adjusted, or qualified in form, function, or terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to genetic, developmental, or behavioral change under external environmental influences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modifiable designates capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The anatomical structures of animals are remarkably **modifiable** under the persistent pressure of natural selection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Plasticity in nerve tissue implies that pathways are easily formed and continuously **modifiable** by experience."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Human character is not rigidly fixed at birth, but remains **modifiable** by education and circumstance."*

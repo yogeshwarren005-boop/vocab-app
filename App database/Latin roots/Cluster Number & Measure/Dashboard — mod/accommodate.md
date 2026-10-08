@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # accommodate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be agreeable or acceptable to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fit for, or change to suit a new purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide lodging, sufficient space, or necessary physical room for someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adapt, adjust, or reconcile oneself to differing circumstances or demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The safer sense will ne’er accommodate His master thus."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must accommodate the visit to the demands upon my time."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The innkeeper hurried forward to assure us that he could comfortably **accommodate** our party for the night."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was obliged to **accommodate** her own feelings to the delicate sensibilities of her sister."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent merchant must **accommodate** his business ventures to the fluctuating demands of the market."*

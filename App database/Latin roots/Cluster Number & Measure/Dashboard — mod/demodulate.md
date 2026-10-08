@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # demodulate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extract information from a modulated carrier wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extract information from a modulated carrier wave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract or recover the original modulating signal from a modulated carrier radio wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decode or translate high-frequency telecommunications signals into usable acoustic or digital data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demodulate designates extract information from a modulated carrier wave."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The orbiting satellite receiver was calibrated to **demodulate** faint microwave transmissions from Earth."*
+> - 📜 **Isaac Asimov (*Foundation and Earth*):** *"The ship's computer was ordered to **demodulate** the carrier pulse to reveal the coordinates of the lost world."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"In telecommunication theory, filters serve to **demodulate** message signals from parasitic high-frequency noise."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmodulated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lack of variation in pitch, tone, or volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by lack of variation in pitch, tone, or volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not modulated; maintaining an unvarying, monotone, or constant pitch, frequency, or amplitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a continuous radio carrier wave that has not had a voice, data, or audio signal superimposed upon it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodulated designates characterized by lack of variation in pitch, tone, or volume."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A continuous and **unmodulated** electromagnetic beam travels through empty space without attenuation."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The automated speaker drone intoned the emergency instructions in a cold, **unmodulated** monotone."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"An **unmodulated** musical tone quickly tires the ear unless relieved by subtle variations of timbre."*

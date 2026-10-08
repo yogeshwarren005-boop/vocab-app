@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderationism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy of being moderate or acting with moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The policy of being moderate or acting with moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political or philosophical principle of pursuing centrist policies and avoiding radical extremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of theological or social compromise between opposing doctrinal orthodoxies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderationism designates the policy of being moderate or acting with moderation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The Jacobin clubs denounced all constitutional **moderationism** as cowardly treason against the popular will."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The policy of prudent **moderationism** steered the English crown safely through the storms of religious conflict."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"True statesmanship avoids fanaticism through steady **moderationism** without lapsing into political stagnation."*

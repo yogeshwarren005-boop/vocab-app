@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # demodulator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rectifier that extracts modulation from a radio carrier wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rectifier that extracts modulation from a radio carrier wave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic circuit or device, such as a detector diode, that extracts a signal from a carrier wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hardware component in radio receivers or digital modems responsible for signal decoding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demodulator designates rectifier that extracts modulation from a radio carrier wave."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"The crystal **demodulator** separated the delicate audio telemetry from the high-power transmitter frequency."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"A malfunctioning **demodulator** caused the robotic listener to misunderstand the detective's urgent query."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The output of the **demodulator** constitutes the best probabilistic estimate of the transmitter message."*

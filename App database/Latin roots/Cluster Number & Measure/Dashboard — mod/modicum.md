@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modicum
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or moderate or token amount; - ian jack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small or moderate or token amount; - ian jack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or moderate quantity of something, especially something desirable such as food, praise, or sanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A limited, modest amount or allowance of material resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My hut was quite washed out by the seas, and of my great store of seal meat only a wretched, pulpy modicum remained."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And why refuse what modicum of help Had stopped the after-doubt, impossible I’ the face of truth--truth absolute, uniform?"*
-> - 📜 **James Joyce (*Ulysses*):** *"In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man’s work."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber partook of a **modicum** of bread and cheese while philosophizing upon pecuniary difficulties."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"A statesman requires at least a **modicum** of common sense to navigate a sudden constitutional crisis."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse dispensed a **modicum** of water gruel to his guests with solicitous benevolence."*

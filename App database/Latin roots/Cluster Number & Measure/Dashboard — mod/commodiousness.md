@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # commodiousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spatial largeness and extensiveness (especially inside a building).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spatial largeness and extensiveness (especially inside a building).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being spacious, roomy, comfortable, and well-proportioned for human occupancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practical convenience and utility in architectural, maritime, or residential design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another’s business."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The chieftain's dwelling possessed a degree of **commodiousness** that surprised travelers accustomed to London luxuries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman palaces combined magnificence with remarkable **commodiousness** in the arrangement of private baths."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian domestic architecture sacrificed nothing of domestic **commodiousness** to its exterior splendor."*

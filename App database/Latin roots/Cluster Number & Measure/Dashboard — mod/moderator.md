@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderator
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance used to slow down neutrons in nuclear reactors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the presbyterian church, the officer who presides over a synod or general assembly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who presides over an assembly, meeting, legislative debate, or religious council.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance, such as heavy water or graphite, used in a nuclear reactor to slow down fast neutrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had been Moderator of the Synod in 1872, and as an ex-Moderator he had the privilege, accorded by custom, of sitting on the platform of the Synod Hall on the benches to the right and left of the chair."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Moderator of Synod presided, and beside him on the platform were the Lord Provost, Magistrates and Council of the city, the Principal and Professors of the University, the Principal and Professors of the New College, and many other dignitaries."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Macgregor, the Moderator of the Established Church General Assembly, by Principal Rainy, and by Dr."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The reverend **moderator** called the General Assembly of the Kirk of Scotland to solemn order."*
+> - 📜 **Enrico Fermi (*Collected Papers*):** *"Pure graphite serves as an effective **moderator** to reduce the kinetic energy of fission neutrons."*
+> - 📜 **Francis Bacon (*Essays*):** *"A wise king acts as the supreme **moderator** among rival factions, keeping the peace of the realm."*

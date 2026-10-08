@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unaccommodating
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accommodating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no assistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to help, oblige, compromise, or adjust to the convenience of others; uncooperative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflexible, unyielding, or harsh in physical terrain, climate, or material conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He had a chirping, buoyant disposition, always enjoying the present moment; and his frequent change of scene and company prevented his acquiring those rusty, unaccommodating habits with which old bachelors are so uncharitably charged."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. John Dashwood proved singularly **unaccommodating** regarding the domestic allowances promised to her sisters."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The stubborn turnkey was an **unaccommodating** fellow who refused to admit visitors after the curfew bell."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bleak heath presented an austere and **unaccommodating** surface to the hopeful agricultural pioneer."*

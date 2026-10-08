@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modigliani
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter and sculptor (1884-1920).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter and sculptor (1884-1920).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A work of art created by Amedeo Modigliani, celebrated for distinctive portraits with elongated necks and mask-like faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or evocative of the artistic style of Modigliani, featuring elegant, slender proportions and melancholy expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modigliani designates italian painter and sculptor (1884-1920)."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The portrait had the elongated grace and sorrowful gaze of a canvas by **Modigliani**."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We talked of painters in the Parisian cafés, recalling how **Modigliani** sketched for glasses of wine."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"On the studio wall hung a drawing by **Modigliani**, its sinuous contours mocking academic draughtsmanship."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # nonmodern
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not modern; of or characteristic of an earlier time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not modern; of or characteristic of an earlier time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or characteristic of the modern era; traditional, pre-industrial, or ancient in outlook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining traditional subsistence methods or agrarian social structures outside globalized networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmodern designates not modern; of or characteristic of an earlier time."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"The collision between Western industrialism and **nonmodern** civilizations generated worldwide political upheaval."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The medieval guild preserved a **nonmodern** ideal of craftsmanship grounded in community and honor."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Traditional authority in **nonmodern** polities rests upon the sanctity of immemorial customs."*

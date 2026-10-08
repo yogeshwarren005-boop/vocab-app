@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modishness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of being fashionable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of being fashionable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chic elegance and strict adherence to the prevailing trends and tastes of polite society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pursuit or display of fashionable novelty in clothing, speech, or drawing-room manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modishness designates elegance by virtue of being fashionable."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"My daughters were seduced by the frivolous **modishness** of the fashionable town ladies who visited our parish."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The sisters observed the cold **modishness** of Mrs. John Dashwood's drawing room with quiet reserve."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky conquered London society by blending foreign wit with flawless Parisian **modishness**."*

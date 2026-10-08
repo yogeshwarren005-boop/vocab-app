@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # postmodernist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to postmodernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to postmodernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner, theorist, or advocate of postmodernism in literature, philosophy, art, or architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of postmodernist thought, techniques, or architectural ornamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernist designates of or relating to postmodernism."*
+> - 📜 **Jean-François Lyotard (*The Postmodern Explained*):** *"The **postmodernist** philosopher works without rules in order to formulate the rules of what will have been done."*
+> - 📜 **Fredric Jameson (*The Cultural Turn*):** *"The **postmodernist** architect playfully adorned corporate skyscrapers with classical pediments."*
+> - 📜 **Richard Rorty (*Contingency, Irony, and Solidarity*):** *"The **postmodernist** recognizes the contingency of language, abandoning metaphysical quests for ultimate truth."*

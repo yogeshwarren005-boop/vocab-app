@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmoderated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made less extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made less extreme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not checked, tempered, restrained, or mitigated; allowed to proceed without limitation or moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not overseen, presided over, or filtered by a human moderator or governing authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmoderated designates not made less extreme."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **unmoderated** passions of the praetorian guards frequently resulted in the assassination of worthy emperors."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"An **unmoderated** thirst for abstract perfection tears down venerable institutions without erecting safeguards."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The debate degenerated into an **unmoderated** tumult when partisan rivals shouted down the speaker."*

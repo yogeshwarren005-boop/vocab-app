@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # commodious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and roomy (`convenient' is archaic in this sense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roomy and comfortable; providing ample space, volume, or seating without cramping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveniently adapted for practical domestic use, trade, or public storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus will give me anything for the intelligence of this whore; the parrot will not do more for an almond than he for a commodious drab."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The manse faces south, and is roomy and commodious."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I hollowed out the rock into a **commodious** cave where I could store my provisions in dry security."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The cabinet maker constructed a **commodious** wooden box in which I could travel without injury."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The innkeeper conducted the weary travelers to a clean and **commodious** chamber overlooking the garden."*

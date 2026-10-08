@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modestly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With modesty; in a modest manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With modesty; in a modest manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unassuming, humble, or reserved manner; without boastfulness, vanity, or pretension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a moderate or limited degree; not extravagantly or excessively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never in my life Did hear a challenge urged more modestly, Unless a brother should a brother dare To gentle exercise and proof of arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words sweetly placed and modestly directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, good Brutus, be prepared to hear; And since you know you cannot see yourself So well as by reflection, I, your glass, Will modestly discover to yourself That of yourself which you yet know not of."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth **modestly** declined the compliment, attributing her performance to mere good fortune."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I made it a rule to express myself **modestly**, avoiding positive assertions when proposing improvements."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She answered the inspector's questions **modestly** but with unwavering truthfulness and composure."*

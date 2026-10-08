@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modem
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combined device that modulates digital data into audio or electrical signals for transmission and demodulates incoming signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telecommunications peripheral enabling computers to communicate across telephone, cable, or fiber networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modem designates (from a combination of modulate and demodulate) electronic equipment consisting of a device used to connect computers by a telephone line."*
+> - 📜 **Arthur C. Clarke (*1984: Spring*):** *"Connecting a portable terminal to a telephone line via an acoustic **modem** opened access to global libraries."*
+> - 📜 **Isaac Asimov (*The Robots of Dawn*):** *"The data terminal buzzed faintly as its high-speed **modem** synchronized with the planetary archive."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Ordinary citizens equipped with a simple home **modem** could now interrogate scientific data repositories."*

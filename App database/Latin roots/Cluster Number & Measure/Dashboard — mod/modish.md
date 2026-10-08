@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modish
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the current fashion or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the current fashion or style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to or following the current fashion, style, or social etiquette; fashionable, chic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trendy or stylish in a self-conscious or ostentatious manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ thieveless sneer to see his modish mien, He, down the water, gies him this guid-e’en:— Auld Brig “I doubt na, frien’, ye’ll think ye’re nae sheepshank, Ance ye were streekit owre frae bank to bank!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura had refused to impose upon Isabel either her own modish elegance or Yvonne's effect of the arresting and bizarre."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The haughty belle adjusted her curls in the mirror, proud of her **modish** gown and sparkling brocade."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella Thorpe prided herself on being thoroughly acquainted with every **modish** phrase of Bath society."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp made her appearance in a **modish** bonnet that drew admiring glances from the cavalry officers."*

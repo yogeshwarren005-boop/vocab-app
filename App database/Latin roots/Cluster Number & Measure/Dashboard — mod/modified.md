@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modified
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh or extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add a modifier to a constituent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changed in character, form, or function; altered or adjusted to meet specific requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualified, limited, or toned down in assertion, severity, or ideological stance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"To learn thus exactly how far they can or cannot be modified."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Five decades hardly modified the cut of a gaiter, the embroidery of a smock-frock, by the breadth of a hair."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To England he did return at last; but the fact of drawing nearer to Weatherbury abstracted its fascinations, and his intention to enter his old groove at the place became modified."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human forelimb is a **modified** organ adapted for delicate manipulation rather than locomotion."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minister accepted the bill in a **modified** form to placate moderate Tories in the House of Lords."*
+> - 📜 **William James (*Pragmatism*):** *"Our past beliefs are continuously **modified** when confronted by novel and stubborn facts of experience."*

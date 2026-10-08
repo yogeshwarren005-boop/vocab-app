@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modicon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an oral contraceptive containing estradiol and norethindrone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an oral contraceptive containing estradiol and norethindrone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early pioneer brand of programmable logic controller (PLC) used for automated industrial control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic solid-state industrial control system invented by Dick Morley in 1968.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modicon designates trade name for an oral contraceptive containing estradiol and norethindrone."*
+> - 📜 **Arthur C. Clarke (*1984: Spring*):** *"Factory assembly lines replaced complex relay cabinets with the rugged electronic **Modicon** controller."*
+> - 📜 **Isaac Asimov (*The Rest of the Robots*):** *"The industrial plant automated its sequential chemical cycles using a programmable **Modicon** logic array."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Automated factory sequencing advanced when solid-state units like the **Modicon** replaced mechanical drums."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modulated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change the key of, in music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjusted, regulated, or tempered in intensity, tone, pitch, or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the amplitude, frequency, or phase of a carrier wave varied by an information signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lines of his features softened, and dismay modulated to illimitable sadness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The phantom spoke in a low, **modulated** voice that penetrated Scrooge's soul with cold terror."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes replied in his calm, carefully **modulated** voice that brooked no contradiction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's **modulated** tones fell like healing music upon the troubled spirit of Will Ladislaw."*

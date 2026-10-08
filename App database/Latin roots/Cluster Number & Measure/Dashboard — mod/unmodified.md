@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmodified
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in form or character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not changed in form or character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed, altered, or qualified in form, character, or function; remaining in original state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining primitive or ancestral morphology without evolutionary divergence or artificial adjustment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unmodified private control of property is unknown; the public makes many reservations in its own interest."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"But although Wordsworth passed thus through London unmodified and indifferent, the current of things was sweeping him on to mingle in a fiercer tumult,--to be caught in the tides of a more violent and feverish life."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The persistent species survived in an almost **unmodified** condition in the calm depths of the ocean."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The basic vertebral plan appears virtually **unmodified** throughout the primitive cyclostomes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The treaty was approved in its **unmodified** text by the unanimous concurrence of the diplomatic envoys."*

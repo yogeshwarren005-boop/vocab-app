@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # postmodern
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to postmodernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to postmodernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of postmodernism, rejecting modernist dogmas, universal truth, and totalizing theories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by eclecticism, irony, parody, and self-referential pastiche in art and architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodern designates of or relating to postmodernism."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"The **postmodern** hyperspace of contemporary hotels disorients the human body with reflective surfaces."*
+> - 📜 **Jean-François Lyotard (*The Postmodern Condition*):** *"Simplifying to the extreme, I define **postmodern** as incredulity toward meta-narratives."*
+> - 📜 **Umberto Eco (*Postscript to The Name of the Rose*):** *"The **postmodern** reply consists in recognizing that the past cannot be destroyed, but must be revisited with irony."*

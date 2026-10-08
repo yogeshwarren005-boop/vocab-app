@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # immodest
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an exaggerated opinion of your importance, ability, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offending against sexual mores in conduct or appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking decency, humility, or shame; indecent, impudent, or boastfully forward in demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exorbitant or presumptuous, as an extravagant financial demand or unseemly request.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou ashamed that I have took upon me Such an immodest raiment, if shame live In a disguise of love."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, she would have expressed the prettiest surprise and disapprobation if she had heard that another young lady had been detected in that immodest prematureness—indeed, would probably have disbelieved in its possibility."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's **immodest** elopement brought deep humiliation upon the respectable name of the family."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Want of decency is want of sense; **immodest** words admit of no defense."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The insolent attorney made an **immodest** demand for costs that startled the executor."*

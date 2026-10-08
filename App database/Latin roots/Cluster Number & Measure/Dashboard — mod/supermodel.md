@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # supermodel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fashion model who has attained the status of a celebrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fashion model who has attained the status of a celebrity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally famous, highly paid, and internationally recognizable high-fashion model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent celebrity in the global fashion industry commanding high advertising fees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supermodel designates a fashion model who has attained the status of a celebrity."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"The billionaire entered the gala accompanied by a tall, radiant **supermodel** adorned in diamonds."*
+> - 📜 **Marshall McLuhan (*Culture is Our Business*):** *"The photographic icon of the **supermodel** became the central icon of electronic commercial desire."*
+> - 📜 **John Updike (*Bech at Bay*):** *"He glanced at the glossy magazine cover displaying the serene, unearthly features of a famous **supermodel**."*

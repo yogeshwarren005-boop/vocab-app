@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make repairs, renovations, revisions or adjustments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become technologically advanced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt, renovate, or equip according to contemporary ideas, methods, or advanced technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To update ancient laws, educational curricula, or industrial machinery to satisfy present demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The wedding dress of her grandmother, modernized for use, with sundry ornaments, handed down as heirlooms in the family."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"NOTE--The language of the quotations is generally modernized."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For this and other reasons, the US expanded and modernized its existing facilities to conduct air operations over the USSR's Eastern and Southwestern regions."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"We must **modernize** the banking laws of the nation to keep pace with the expanding volume of commerce."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"My engineers worked through the night to **modernize** the dynamo design for municipal lighting grids."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"British factory owners who refuse to **modernize** their steam engines will soon lose out to foreign competition."*

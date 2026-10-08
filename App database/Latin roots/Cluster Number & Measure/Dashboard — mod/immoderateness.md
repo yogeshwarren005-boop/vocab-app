@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # immoderateness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being excessive and lacking in moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being excessive and lacking in moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of exceeding proper limits; excessiveness in appetite, degree, or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagance or intemperance in social conduct, political rhetoric, or personal habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immoderateness designates the quality of being excessive and lacking in moderation."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophers condemn the **immoderateness** of anger because it clouds the natural light of reason."*
+> - 📜 **John Milton (*Areopagitica*):** *"Censors often err by their own **immoderateness**, suppressing wholesome truth alongside heresy."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The sage observed that human misery springs chiefly from the **immoderateness** of mortal wishes."*

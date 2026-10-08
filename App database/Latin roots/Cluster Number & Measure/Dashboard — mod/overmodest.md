@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # overmodest
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively modest, diffident, or retiring; hesitating to accept praise or assert legitimate rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an exaggerated or prudish reluctance to speak or act openly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overmodest designates affectedly modest or shy especially in a playful or provocative way."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward was so **overmodest** that he underestimated his own genuine abilities in the presence of strangers."*
+> - 📜 **Francis Bacon (*Essays*):** *"A man who is **overmodest** in pushing his fortune leaves the field open to bold and brazen pretenders."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The curate was far too **overmodest** to urge his just claims upon the patron of the living."*

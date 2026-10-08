@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # immoderation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being excessive and lacking in moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being excessive and lacking in moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of moderation; excess, intemperance, or failure to exercise reasonable self-restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or unrestrained conduct, expenditure, appetite, or ideological passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immoderation designates the quality of being excessive and lacking in moderation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruin of the republic was accelerated by the luxurious **immoderation** of the patrician class."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden triumph of the zealots betrayed them into political **immoderation** that alienated the nation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral virtue consists in steering clear of the twin shoals of deficiency and **immoderation**."*

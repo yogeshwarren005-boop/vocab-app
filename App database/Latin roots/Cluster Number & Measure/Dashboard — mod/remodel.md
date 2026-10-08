@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # remodel
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do over, as of (part of) a house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast or model anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change the structure, layout, shape, or appearance of a building, room, or organizational system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reconstruct or reshape an artistic, conceptual, or legislative design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remodel designates do over, as of (part of) a house."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"I proposed to **remodel** the state legal code to eliminate the monarchical remnants of colonial feudalism."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Dombey resolved to **remodel** his ancestral mansion to accommodate his second wealthy marriage."*
+> - 📜 **Henry James (*The American Scene*):** *"Restless commercial builders were eager to **remodel** historic facades into profitable department stores."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # accommodational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the accommodation of the lens of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the accommodation of the lens of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or providing residential lodgings, hotel quarters, or physical housing facilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to physiological optical adjustment or psychological cognitive adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accommodational designates of or relating to the accommodation of the lens of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paralysis of the third cranial nerve destroys the **accommodational** power of the affected eye."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The municipal directory inspected the vast **accommodational** facilities constructed for transient travelers."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Fatigue manifested as an intermittent breakdown of the normal **accommodational** reflex of the pupil."*

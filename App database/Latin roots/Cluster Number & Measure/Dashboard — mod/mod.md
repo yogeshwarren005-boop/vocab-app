@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # mod
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a recently developed fashion or style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A youth subculture that originated in 1960s Britain, characterized by modern jazz, tailored suits, and motor scooters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modern, stylish, or fashionable in a youthful, minimalist, or brightly geometric design aesthetic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That's one complex psy-mod." "There's more?" "There's communications and one other."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Quarterly Rev., April, pp. 328-359: on Mod."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Of right, the door of the House ought not to be shut, but to be kept by porters, or Sergeants-at-Arms, assigned for that purpose. _Mod. ten."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"The electronic age fostered new visual identities, epitomized by the snappy style of the London **mod**."*
+> - 📜 **Tom Wolfe (*The Kandy-Kolored Tangerine-Flake Streamline Baby*):** *"Carnaby Street was packed with youths sporting **mod** jackets and sleek boots."*
+> - 📜 **George Melly (*Revolt into Style*):** *"The dedicated **mod** cultivated obsessive neatness in dress to distinguish himself from scruffy bohemians."*

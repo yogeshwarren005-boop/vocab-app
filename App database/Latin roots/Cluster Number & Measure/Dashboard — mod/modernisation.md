@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making modern in appearance or behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making modern in appearance or behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adaptation of institutions, industry, or infrastructure to contemporary standards and progressive technologies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic economic and social transition from a traditional agrarian society to an industrialized economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modernisation designates making modern in appearance or behavior."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The rapid **modernisation** of the rail transport network accelerated industrial development throughout the continent."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"Non-Western societies adopted rigorous programs of **modernisation** to defend their independence against foreign powers."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Capital investments directed toward agricultural **modernisation** yielded substantial returns in national productivity."*

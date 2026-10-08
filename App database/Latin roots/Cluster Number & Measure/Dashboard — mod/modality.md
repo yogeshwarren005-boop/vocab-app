@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modality
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A classification of propositions on the basis of whether they claim necessity or possibility or impossibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb inflections that express how the action or state is conceived by the speaker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular mode in which something exists or is experienced or expressed; a sensory or clinical method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and linguistics, the classification of propositions according to necessity, possibility, or probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On his wise shoulders through the checkerwork of leaves the sun flung spangles, dancing coins. [ 3 ] Ineluctable modality of the visible: at least that if no more, thought through my eyes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Exactly: and that is the ineluctable modality of the audible."*
-> - 📜 **James Joyce (*Ulysses*):** *"Into the ineluctable modality of the ineluctable visuality."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Each sensory organ introduces us to a distinct **modality** of conscious experience, whether vision, sound, or touch."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The logical **modality** of a judgment indicates whether it asserts an actuality, possibility, or necessity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The neurologist must evaluate every sensory **modality** systematically to localize the spinal lesion."*

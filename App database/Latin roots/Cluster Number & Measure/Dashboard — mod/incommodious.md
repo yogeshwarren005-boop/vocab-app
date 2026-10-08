@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # incommodious
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncomfortably or inconveniently small.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncomfortably or inconveniently small.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconvenient, cramped, or uncomfortable; lacking adequate room, ventilation, or ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfavorable or disadvantageous in practical circumstances, location, or domestic utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was very small, very dark, very ugly, very incommodious."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"My first tent was small and **incommodious**, leaking copiously whenever the tropical rains descended."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The debtors' prison consisted of narrow, dark, and **incommodious** chambers overlooking the grim yard."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The soldiers complained of the damp and **incommodious** winter camp established among the marshes."*

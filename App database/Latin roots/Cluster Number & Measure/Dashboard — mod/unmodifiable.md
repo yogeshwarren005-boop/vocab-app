@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmodifiable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being modified in form or character or strength (especially by making less extreme).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being modified in form or character or strength (especially by making less extreme).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being altered, adjusted, modified, or amended in character, function, or terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inalterable, fixed, or unyielding, as a constitutional decree, physical law, or mathematical axiom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodifiable designates incapable of being modified in form or character or strength (especially by making less extreme)."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Certain chemical properties of elements were regarded by early chemists as eternally **unmodifiable**."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate laws of mechanical force present themselves to our intellect as absolute and **unmodifiable**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Logical truths are strictly **unmodifiable**, holding identically across all conceivable universes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # commode
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plumbing fixture for defecation and urination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall elegant chest of drawers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of bedroom furniture enclosing a chamber pot; or a low ornate chest of drawers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movable toilet chair designed for the use of sick, frail, or bedridden individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He fitted the book roughly into his inner pocket and, stubbing his toes against the broken commode, hurried out towards the smell, stepping hastily down the stairs with a flurried stork’s legs."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Reflects precautiously.)_ That antiquated commode."*
-> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*
+> - 📜 **Jane Austen (*Emma*):** *"The bedroom was elegantly furnished with a mahogany wardrobe, a **commode**, and a tall cheval-glass."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The French valet placed the silver candlesticks upon the carved marble top of the antique **commode**."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"An old mahogany **commode** stood beside the bed, adorned with a chipped porcelain ewer."*

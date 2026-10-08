@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderationist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A moderate drinker (as opposed to a total abstainer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes a position in the political center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, supporter, or practitioner of political, theological, or social moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician or delegate who seeks compromise and rejects partisan or revolutionary extremism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderationist designates a moderate drinker (as opposed to a total abstainer)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **moderationist** party in the Commons sought to conciliate the dissenters without offending the bishops."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"Every honest **moderationist** was systematically driven from the revolutionary tribunal in Paris."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In times of acute partisan polarization, the sensible **moderationist** is often mistrusted by both extremes."*

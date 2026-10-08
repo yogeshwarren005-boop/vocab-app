@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderatism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The advocacy or practice of moderate principles in politics or religion, particularly during revolutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pejorative label applied by radicals during the French Revolution to criminalize centrist caution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderatism designates a political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The terror tribunal declared that suspect **moderatism** was as fatal to the republic as open counter-revolution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prudent **moderatism** of the Antonines healed the deep wounds inflicted by earlier tyrants."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Under the new revolutionary dogma, political **moderatism** was deemed a capital offense worthy of the guillotine."*

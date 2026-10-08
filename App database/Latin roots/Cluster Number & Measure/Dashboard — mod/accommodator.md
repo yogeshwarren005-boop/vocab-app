@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # accommodator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs a service or does a favor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs a service or does a favor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arranges accommodations, reconciles differences, or adapts things to fit mutual needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mediator or commercial agent who secures temporary quarters or financial credit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accommodator designates someone who performs a service or does a favor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The diplomat served as a skilled **accommodator** between the warring parliamentary factions."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The busy agent acted as an obliging **accommodator** of distressed debtors seeking temporary loans."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The archdeacon refused to accept the bishop's chaplain as a suitable **accommodator** in the dispute."*

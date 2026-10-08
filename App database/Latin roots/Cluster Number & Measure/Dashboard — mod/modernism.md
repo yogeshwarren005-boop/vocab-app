@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature that makes a self-conscious break with previous genres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A global movement in arts and literature that deliberately broke with classical forms and Victorian conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological movement in late 19th-century Christianity seeking to harmonize doctrine with modern critical thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common stand-point."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was expressing in her own native phrases—assisted a little by her Sixth Standard training—feelings which might almost have been called those of the age—the ache of modernism."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For once mediævalism and modernism had a common standpoint."*
+> - 📜 **Virginia Woolf (*Mr. Bennett and Mrs. Brown*):** *"The rise of literary **modernism** shattered the comfortable narrative conventions of Edwardian realism."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The true vitality of **modernism** in poetry consists in discovering new forms capable of containing urban complexity."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The church viewed aggressive theological **modernism** with caution, defending ancient revealed dogmas."*

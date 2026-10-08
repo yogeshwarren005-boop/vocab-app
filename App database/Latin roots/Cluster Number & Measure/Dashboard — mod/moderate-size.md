@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderate-size
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of intermediate or average physical dimensions, bulk, or capacity; neither large nor small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by medium physical proportions or spatial magnitude suitable for domestic use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderate-size designates intermediate in size."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The harbor was sheltered by a promontory capable of anchoring several vessels of **moderate-size**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew launched a **moderate-size** whaleboat to reconnoiter the uncharted reef."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak rented a **moderate-size** cottage near the boundary of the sheep pastures."*

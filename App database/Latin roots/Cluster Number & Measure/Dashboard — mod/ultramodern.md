@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # ultramodern
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely modern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely modern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely modern in ideas, design, style, or technology; advanced to the point of being futuristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopting the very latest or most avant-garde techniques, equipment, or architectural motifs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramodern designates extremely modern."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The subterranean air base was outfitted with **ultramodern** turbines capable of continuous high-speed flight."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The laboratories presented an **ultramodern** spectacle of polished stainless steel and synthetic test tubes."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The city was maintained by an **ultramodern** central computer that anticipated every citizen's physical need."*

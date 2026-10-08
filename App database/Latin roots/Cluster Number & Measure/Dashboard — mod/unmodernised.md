@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmodernised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought up to date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought up to date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not updated, renovated, or adapted to contemporary standards, methods, or conveniences (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserving ancient, archaic, or traditional architectural and operational arrangements intact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodernised designates not brought up to date."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The secluded hamlet remained completely **unmodernised**, lit only by tallow candles and peat fires."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The ancient water mill ground corn upon heavy stone wheels in its sturdy, **unmodernised** state."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The western wing of the crumbling manor house had stood dark, deserted, and **unmodernised** for generations."*

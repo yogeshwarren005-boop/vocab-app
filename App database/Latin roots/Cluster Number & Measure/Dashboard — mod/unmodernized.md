@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # unmodernized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought up to date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought up to date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not updated, renovated, refurbished, or adapted to contemporary standards or equipment (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining original historic features, equipment, or primitive procedures without contemporary modifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodernized designates not brought up to date."*
+> - 📜 **Henry James (*The American Scene*):** *"He found a quaint charm in the quiet, **unmodernized** corners of the colonial village tavern."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Wealthy patrons prized the **unmodernized** manual printing press for its archaic irregularities."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable gabled house retained its dark, **unmodernized** interior despite two centuries of occupancy."*

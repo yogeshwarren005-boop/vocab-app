@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modillion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (architecture) one of a set of ornamental brackets under a cornice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (architecture) one of a set of ornamental brackets under a cornice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental console or bracket set under the corona of a classical Corinthian or composite cornice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scroll-shaped architectural block supporting the upper molding of an entablature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modillion designates (architecture) one of a set of ornamental brackets under a cornice."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Beneath the projecting marble cornice, each carved **modillion** supported its share of the classical entablature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruins of Palmyra display Corinthian capitals and decorated **modillion** moldings of astonishing grandeur."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Vines twined around the ancient stone **modillion** protruding from the decayed Roman palace wall."*

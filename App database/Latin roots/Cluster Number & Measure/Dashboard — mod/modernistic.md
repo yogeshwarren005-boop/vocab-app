@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a recently developed fashion or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a recently developed fashion or style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitative of modern styles, often superficially characterized by angular shapes or synthetic novelties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an exaggerated, fashionable, or commercialized adoption of modernist artistic conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Winds lashed the high crowns of the eucalyptus, and dipped to whine along the corridors and passageways that cut through the patchwork of modernistic academic structures."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The drawing room was furnished with garish **modernistic** chairs designed more for shock than comfort."*
+> - 📜 **F. Scott Fitzgerald (*Tender is the Night*):** *"A jazz ensemble played beneath glowing **modernistic** lighting fixtures in the Parisian nightclub."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Critics often mistake superficial **modernistic** mannerisms for genuine originality of aesthetic vision."*

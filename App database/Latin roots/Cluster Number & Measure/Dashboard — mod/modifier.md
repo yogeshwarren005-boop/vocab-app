@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modifier
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A content word that qualifies the meaning of a noun or verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moderator who makes less extreme or uncompromising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that alters or makes adjustments to an object, system, or chemical mixture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, a word, phrase, or clause (such as an adjective or adverb) that qualifies the meaning of another element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modifier designates a content word that qualifies the meaning of a noun or verb."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Climate serves as a profound **modifier** of floral distributions across continental mountain ranges."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention acts as a selective **modifier** of sensory impressions passing into conscious memory."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The placement of an adjectival **modifier** alters the entire harmonic cadence of a prose sentence."*

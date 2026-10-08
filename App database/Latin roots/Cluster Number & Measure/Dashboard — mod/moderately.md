@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderately
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With moderation; in a moderate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a medium degree; in a reasonable, tempered, or restrained manner; neither excessively nor insufficiently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With calm temperance, emotional self-control, or measured judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To hear meekly, sir, and to laugh moderately, or to forbear both."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore love moderately: long love doth so; Too swift arrives as tardy as too slow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You can tell them to sprinkle a little vinegar about the place where he sleeps and to keep it moderately cool and him moderately warm."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Eat not to dullness; drink not to elevation; live **moderately** that body and mind may flourish."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When wages are **moderately** high, workmen are always more active, diligent, and expeditious."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **moderately** pleased with the prospect of accompanying her aunt and uncle into Derbyshire."*

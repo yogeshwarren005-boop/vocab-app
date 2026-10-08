@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modeler
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who creates models.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsperson, sculptor, or designer who builds physical, architectural, or artistic scale models.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist or statistician who creates mathematical or computational simulations of complex phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modeler designates a person who creates models."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic stone **modeler** carved foliate capitals with freedom, refusing to copy mechanical templates."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"The master **modeler** in the Menlo Park workshop prepared the brass prototypes for the phonograph."*
+> - 📜 **H. G. Wells (*Floor Games*):** *"The young **modeler** arranged miniature cardboard fortresses and lead soldiers upon the carpet."*

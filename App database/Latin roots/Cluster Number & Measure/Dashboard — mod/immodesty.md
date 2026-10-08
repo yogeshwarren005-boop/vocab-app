@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # immodesty
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being vain and conceited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perverse act of exposing and attracting attention to your own genitals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of modesty; decency, reserve, or moral restraint; shameless or indecent behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presumptuous boldness, arrogance, or lack of humility in speech or artistic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O night, thou furnace of foul reeking smoke, Let not the jealous day behold that face Which underneath thy black all-hiding cloak Immodesty lies martyred with disgrace!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett such a declaration would savour of immodesty, even of arrogance."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"True modesty is an intellectual virtue; mere ignorance of evil must not be confused with absence of **immodesty**."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The moralist cautioned that fashionable vanity easily slides into coarse and frivolous **immodesty**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen angels debated with arrogant **immodesty**, challenging the righteous decree of Heaven."*

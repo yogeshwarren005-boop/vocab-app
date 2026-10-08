@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modern
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contemporary person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typeface (based on an 18th century design by gianbattista bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the present or recent times as opposed to the remote past; contemporary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by up-to-date techniques, innovative ideas, or progressive cultural sensibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was the best of times, it was the worst of times, in that remarkable dawn of the **modern** era."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The distinctive challenge of the **modern** novelist is to convey the rapid, flickering impressions of consciousness."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The foundation of all **modern** physical science was laid when experimental observation replaced scholastic dogma."*

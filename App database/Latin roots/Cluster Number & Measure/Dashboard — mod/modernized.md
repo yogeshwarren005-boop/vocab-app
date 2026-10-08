@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modernized
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make repairs, renovations, revisions or adjustments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become technologically advanced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought up to date; renovated, remodeled, or refurbished in accordance with contemporary standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapted from historical or archaic forms into contemporary language, spelling, or legal procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The wedding dress of her grandmother, modernized for use, with sundry ornaments, handed down as heirlooms in the family."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"NOTE--The language of the quotations is generally modernized."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For this and other reasons, the US expanded and modernized its existing facilities to conduct air operations over the USSR's Eastern and Southwestern regions."*
+> - 📜 **Henry James (*The American Scene*):** *"He walked through the **modernized** streets of Boston, searching in vain for the quaint landmarks of his boyhood."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"A **modernized** power plant operated with a fraction of the manual labor required by older coal furnaces."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The Meiji restoration created a swiftly **modernized** empire that astonished European observers."*

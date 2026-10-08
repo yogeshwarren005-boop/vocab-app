@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preside over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Average in amount, intensity, quality, or degree; neither extreme nor excessive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To preside over a meeting, debate, or discussion; or to mitigate the severity of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While one with moderate haste might tell a hundred."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, be moderate; allay thy ecstasy, In measure rain thy joy; scant this excess!"*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Virtue is a mean between two vices, holding firmly to the **moderate** path in all desires."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men of age object too much, consult too long, adventure too little, and seldom drive business home to the **moderate** end."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Marcus Aurelius exercised a mild and **moderate** authority that endeared his reign to Roman citizens."*

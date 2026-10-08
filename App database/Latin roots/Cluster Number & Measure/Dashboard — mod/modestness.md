@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modestness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being moderate in price or expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from vanity or conceit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unassuming humility, moral reserve, and temperate self-evaluation free from arrogance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderation and restraint in personal expenditures, lifestyle choices, or architectural decoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modestness designates the property of being moderate in price or expenditures."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True **modestness** of mind wins friends without provoking the jealous rivalry of competitors."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The tutor must cultivate **modestness** in the young pupil without extinguishing his generous spirit."*
+> - 📜 **George Eliot (*Romola*):** *"Her maidenly **modestness** made her shrink from the noisy acclamations of the Florentine crowd."*

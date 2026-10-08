@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # postmodernism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A late 20th-century intellectual movement in philosophy and culture rejecting grand narratives and absolute certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic style celebrating pastiche, intertextuality, historical quotation, and fragmentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernism designates genre of art and literature and especially architecture in reaction against principles and practices of established modernism."*
+> - 📜 **Jean-François Lyotard (*The Postmodern Condition*):** *"In the era of **postmodernism**, knowledge is no longer legitimised by grand speculative philosophical systems."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"The triumphant emergence of **postmodernism** coincided with the globalization of consumer markets."*
+> - 📜 **Umberto Eco (*Travels in Hyperreality*):** *"The playful irony of **postmodernism** allows artists to quote classical traditions without naive nostalgia."*

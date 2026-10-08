@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # demode
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of fashion; obsolete in style, dress, etiquette, or aesthetic taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superannuated or old-fashioned in intellectual tone, social attitude, or literary technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demode designates out of fashion."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The dowager clung stubbornly to her **demode** salon gowns, scorning modern Parisian innovations."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Ruffles and powdered wigs seemed quaintly **demode** once the austere nineteenth century arrived."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He smiled at the slightly **demode** elegance of the French apartment with its gilded mirrors."*

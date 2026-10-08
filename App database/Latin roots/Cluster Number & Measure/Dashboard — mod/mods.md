@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # mods
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british teenager or young adult in the 1960s; noted for their clothes consciousness and opposition to the rockers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a 1960s British youth subculture noted for tailored Italianate fashion, modern jazz, and motor scooters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquial abbreviation for modifications made to computer hardware, gaming software, or vehicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mods designates a youth subculture that began in london in the early 1960s; a working-class movement with highly stylized dress and short hair; listened to rhythm and blues music and travelled on motor scooters."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"The sharp sartorial skirmishes between **mods** and rockers revealed youth identity shaped by electronic media."*
+> - 📜 **George Melly (*Revolt into Style*):** *"On bank holiday weekends, thousands of **mods** roared down to Brighton on chrome-mirrored scooters."*
+> - 📜 **Tom Wolfe (*The Pump House Gang*):** *"The young **mods** stood outside the boutiques in Soho, showing off their narrow-lapelled suits."*

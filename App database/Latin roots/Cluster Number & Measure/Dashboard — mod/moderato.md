@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # moderato
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tempo) moderate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tempo) moderate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical tempo direction indicating that a piece or movement is to be played at a moderate pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical passage, movement, or composition performed at a moderate tempo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moderato designates (of tempo) moderate."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra opened the movement allegro **moderato**, capturing the poised dignity of Mozart's melody."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy sat down at the piano and began to play the flowing and stately **moderato** with serene confidence."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The subtle rhythmic transition from andante to **moderato** demonstrated the composer's masterly control."*

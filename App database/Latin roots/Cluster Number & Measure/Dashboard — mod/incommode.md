@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # incommode
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience, discomfort, annoyance, or impediment to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hinder, obstruct, or embarrass an ongoing procedure or domestic arrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"I bring news, or, believe me, I would not incommode you at such a time." "What news, monsieur?" asked madame, still erect."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"We cannot come to see you this summer, nor do I think it advisable to come and incommode you when you for the same expense could come to us."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"For the honour of the family, I could even resolve to incommode you to that extent."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The tiny inhabitants built a platform so that their emperor could address me without fear to **incommode** him."*
+> - 📜 **Jane Austen (*Emma*):** *"She assured Mr. Knightley that the rainy afternoon would not **incommode** her domestic plans in the least."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The unexpected arrival of the foreign embassy threatened to **incommode** the deliberations of the privy council."*

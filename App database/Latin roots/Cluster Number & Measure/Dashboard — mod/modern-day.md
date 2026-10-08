@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # modern-day
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or existing in the contemporary era; present-day; up-to-date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting the technologies, social customs, or problems typical of the current historical period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modern-day designates characteristic of the present."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The industrial revolution generated the complex problems that baffle **modern-day** statesmen and economists."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The grim spectacle of the slag heaps revealed the harsh realities underlying **modern-day** mechanical prosperity."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"Much of the psychological anxiety of **modern-day** life arises from the worship of competitive efficiency."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mod]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # commodore
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commissioned naval officer who ranks above a captain and below a rear admiral; the lowest grade of admiral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval officer ranking above a captain and below a rear admiral, often commanding a squadron of ships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The senior captain of a merchant shipping fleet, or the president of a private yacht club.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The New York Central between Albany and Buffalo was a consolidation, by Commodore Vanderbilt, of sixteen short lines."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale fell directly over him, and probably killed him in a moment.” _“The Whale and his Captors, or The Whaleman’s Adventures and the Whale’s Biography, gathered on the Homeward Cruise of the Commodore Preble.” By Rev."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thirdly: Some eighteen or twenty years ago Commodore J—— then commanding an American sloop-of-war of the first class, happened to be dining with a party of whaling captains, on board a Nantucket ship in the harbor of Oahu, Sandwich Islands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The retired old **commodore** paced his quarterdeck with the firm authority of half a century at sea."*
+> - 📜 **Captain James Cook (*A Voyage to the Pacific Ocean*):** *"Our squadron assembled under the orders of the **commodore** before sailing into the southern latitudes."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Polestar*):** *"The veteran whaler had served under a famous naval **commodore** during the Greenland expeditions."*

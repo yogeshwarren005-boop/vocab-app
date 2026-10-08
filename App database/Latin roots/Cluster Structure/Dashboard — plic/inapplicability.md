@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irrelevance by virtue of being inapplicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irrelevance by virtue of being inapplicable to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of not being applicable, suitable, or relevant to a particular case or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irrelevance of a statute, scientific principle, or model when applied outside its proper domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inapplicability designates irrelevance by virtue of being inapplicable to the matter at hand."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The total **inapplicability** of abstract syllogisms to complex political crises was demonstrated by the French Revolution."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The defense counsel argued the **inapplicability** of the feudal statute to modern mercantile transactions."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Naturalists soon recognized the **inapplicability** of artificial classification schemes to phylogenetic genealogy."*

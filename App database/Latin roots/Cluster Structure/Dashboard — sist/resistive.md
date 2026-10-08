@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to electrical resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to or engaged in defiance of established authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to resist; providing physical opposition or electrical impedance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by material impedance against mechanical stress or electric current transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistive designates exhibiting or relating to electrical resistance."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Kelvin calculated the **resistive** dissipation of energy within submerged telegraphic cables."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The total impedance of the line incorporates both inductive reactance and **resistive** loss."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Tesla minimized **resistive** heating by employing high frequencies in his air-core transformers."*

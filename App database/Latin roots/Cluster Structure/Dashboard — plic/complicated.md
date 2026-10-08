@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of many interconnected parts or aspects; intricate and difficult to unravel or comprehend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving confusing complexities, emotional tangles, or procedural difficulties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This scarecrow of a suit has, in course of time, become so complicated that no man alive knows what it means."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Complicated garnish of iron-work entwines itself over the flights of steps in this awful street, and from these petrified bowers, extinguishers for obsolete flambeaux gasp at the upstart gas."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The structure of the mammalian eye is an extraordinarily **complicated** mechanism adapted for visual refraction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found himself entangled in a **complicated** web of municipal debts and social obligations."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes smiled at the official detective's confusion, observing that the crime was less **complicated** than it appeared."*

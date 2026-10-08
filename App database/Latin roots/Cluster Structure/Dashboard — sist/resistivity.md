@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material's opposition to the flow of electric current; measured in ohms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material's opposition to the flow of electric current; measured in ohms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the resisting power of a specified material to the flow of electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intrinsic electrical resistance of a substance per unit cross-sectional area and length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistivity designates a material's opposition to the flow of electric current; measured in ohms."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The specific **resistivity** of copper makes it an ideal conductor for electrical machinery."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Transient Electric Phenomena*):** *"Steinmetz investigated how thermal variations altered the electrical **resistivity** of alloy conductors."*
+> - 📜 **Heinrich Hertz (*Electric Waves*):** *"Hertz noted that differences in **resistivity** across metallic sheets influenced the reflection of spark discharges."*

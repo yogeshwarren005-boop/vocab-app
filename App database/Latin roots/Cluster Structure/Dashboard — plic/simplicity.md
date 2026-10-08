@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being simple or uncompounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of penetration or subtlety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from complexity, intricacy, or division; clarity and plainness of form or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Naturalness, innocence, or sincerity of character, unadorned by artifice, deceit, or pretension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is the simplicity of man to hearken after the flesh."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou makest the triumviry, the corner-cap of society, The shape of love’s Tyburn, that hangs up simplicity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Simplicity, **simplicity**, simplicity! I say, let your affairs be as two or three, and not a hundred or a thousand."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Nature does nothing in vain, and more is in vain when less will serve; for Nature is pleased with **simplicity**."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"There is no greatness where there is not **simplicity**, goodness, and truth."*

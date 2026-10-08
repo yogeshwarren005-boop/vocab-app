@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a surplice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a surplice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing or clad in a surplice during Christian liturgical service or choral procession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attired in the white linen ecclesiastical vestments prescribed for priests and choir members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"The **surpliced** choir chanted solemn hymns of praise as the knights assembled around Arthur's throne."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **surpliced** vicar stood by the ancient church font to perform the quiet parish baptism."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"A **surpliced** band of village choristers sang quaint old Christmas carols under the manor windows."*

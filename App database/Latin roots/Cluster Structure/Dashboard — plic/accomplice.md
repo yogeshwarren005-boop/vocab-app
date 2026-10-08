@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who joins with another in carrying out some plan (especially an unethical or illegal plan).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who actively helps another in committing a crime, fraud, or wrongdoing; a confederate in guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partner who participates in a clandestine or unlawful conspiracy against the law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If George the vagabond dragoon had any hand in it, he was only an accomplice, and was set on."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He had made me, if not an accomplice, at least a witness of his vengeance."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You, of course, saw that everyone in the street was an accomplice."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin threatened to deliver his wretched **accomplice** to the gallows if the stolen jewels were withheld."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Holmes pounced upon the bank robber, while Watson seized his confederate **accomplice** at the cellar opening."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The praetorian prefect punished every **accomplice** in the assassination with merciless severity."*

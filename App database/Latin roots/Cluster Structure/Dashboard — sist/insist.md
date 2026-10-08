@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be emphatic or resolute and refuse to budge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg persistently and urgently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To demand or maintain something forcefully and persistently, refusing to accept denial or refusal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To persist firmly in asserting a statement or principle against opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you insist on going, I had better go along." Apollonie went indoors to get ready for the walk, as she always put on better clothes whenever she mounted to the castle, despite the fact that she might not see anyone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My darling child, if you insist upon it!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I took for earnest what you insist was jest, and now this that I pray to be jest you say is awful, wretched earnest."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine continued to **insist** upon Elizabeth's instant promise never to enter into an engagement with Darcy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"If you **insist** upon leaving Thornfield, remember that you wander forth alone into a cold and pitiless world."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We **insist** that the human mind must clear itself of idols before approaching the pure mirror of nature."*

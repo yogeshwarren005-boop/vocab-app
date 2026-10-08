@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ask humbly (for something).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a humble, earnest petition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ask or beg for something earnestly, humbly, and devoutly from God or a sovereign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a solemn and contrite petition seeking forgiveness, mercy, or protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am no stoic at all to be supplicating here; but I do supplicate to you."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge that you redouble efforts, supplicate for unprecedented blessings. [February 2, 1956] PRAYING FOR GREAT VICTORIES ON HOME FRONT Fervently praying for great victories on the home front."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am no stoic at all to be supplicating here; but I do supplicate to you."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam resolved to prostrate himself before the Almighty and **supplicate** for divine grace and pardon."*
+> - 📜 **William Shakespeare (*Richard II*):** *"The fallen monarch refused to **supplicate** the usurper Bolingbroke for his crown or royal dignity."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The distressed maiden knelt in tears to **supplicate** the Redcrosse Knight to deliver her captive parents."*

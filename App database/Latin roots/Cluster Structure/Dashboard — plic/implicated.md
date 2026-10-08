@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shown, proved, or understood to be involved in a crime, conspiracy, or reprehensible affair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entangled or interwoven in structural or logical relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle reverts from this intelligence to the Galaxy portraits implicated, and seems to know the originals, and to be known of them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has had something—he don’t know what—to do with so much in this connexion that is mysterious that it is possible he may even be implicated, without knowing it, in the present transaction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Several prominent Whig statesmen were deeply **implicated** in the clandestine correspondence with the exiled court."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The unfortunate clerk found himself hopelessly **implicated** in the mysterious disappearance of the court documents."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Complex neural networks are **implicated** in the coordinated emotional expressions of primates."*

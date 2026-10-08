@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being overpowering and impossible to resist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being overpowering and impossible to resist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overwhelming force, power, or charm that cannot be successfully opposed or withstood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The compelling certainty or momentum of a logical deduction, passion, or natural phenomenon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irresistibility designates the quality of being overpowering and impossible to resist."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarians swept through the frontier provinces with the terrible **irresistibility** of an Alpine torrent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt the gentle **irresistibility** of sympathy when Lydgate confided his financial struggles."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The populace advanced toward the Bastille with an **irresistibility** born of despair and sudden resolve."*

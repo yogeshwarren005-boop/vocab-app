@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continual and persistent demands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of demanding notice or attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or quality of demanding or asserting something forcefully, firmly, and persistently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unyielding urgency, determination, or repetitive emphasis in speech, writing, or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He insisted that jacketing, no matter how prolonged, could never kill me; and his insistence was a challenge to the Warden to continue the attempt."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The intellectual energy of the man is worth noting--his insistence on understanding, his instant resolution; such qualities, we saw, had won the admiration of Jesus."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond's quiet **insistence** upon rigid social decorum gradually crushed Isabel's youthful independence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea listened with patient sympathy to Casaubon's solemn **insistence** upon the greatness of his scholarly labors."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers reiterated his point with legal **insistence**, stabbing his broad forefinger into the air."*

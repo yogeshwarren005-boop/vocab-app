@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsupported by other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking help.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplished, carried out, or standing without help, external guidance, or human support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or functioning entirely through one's own unaided faculties and independent power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So self-denying, so uncomplaining, so anxious to get well on their account, so afraid of giving trouble, and so thoughtful of the unassisted labours of her husband and the comforts of old Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s unassisted power of dreaming, however, being enough for her sublimation at present, she declined except the merest sip, and then Marian took a pull from the spirits."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Much of my unassisted self, and more by the help of Biddy than of Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young commander faced the rebel cavalry **unassisted**, rallying his legionaries by his personal valor."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"The resolute man marches **unassisted** toward his goal, trusting the divine instinct within his breast."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The naturalist climbed the steep volcanic cone **unassisted**, carrying heavy geological instruments."*

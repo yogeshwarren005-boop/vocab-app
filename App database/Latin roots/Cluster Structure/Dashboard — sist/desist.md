@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose not to consume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose not to consume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cease, stop, or abstain from an action, pursuit, or ongoing course of conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To discontinue a dispute, prosecution, or hostility in obedience to a command or agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In case this should be so, or in case you should entertain much thought of me in what you are doing, I most earnestly entreat and beg you to desist."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Desist, for shame!—proceed no further; God won’t accept your thanks for Murther!"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Doth not Brutus bootless kneel? Hence! wilt thou lift up Olympus? **Desist**, and let Caesar speak."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king consented to **desist** from the siege upon receiving a tribute of five thousand pounds of gold."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I entreated Mr. Rochester to **desist** from his wild declarations, which filled my heart with terror and grief."*

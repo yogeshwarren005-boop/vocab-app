@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being applied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being applied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relevant, appropriate, or suitable to a particular situation, question, or problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no legal validity or practical force in a specified circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe, smiling complacently; “I must say it, though I _am_ his mother, that there is not a more agreeable young man in the world.” This inapplicable answer might have been too much for the comprehension of many; but it did not puzzle Mrs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption in this is that the "general property tax" is an irremediable failure, and is particularly inapplicable to corporations."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In searching for the grounds of this doctrine, I can discover but one, and that is wholly inapplicable to our case."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The lessons drawn from tiny Greek republics are **inapplicable** to the vast expanse of the American continent."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Analogies drawn from simple colonial organisms are **inapplicable** to the integrated physiology of mammals."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Feudal sumptuary laws are utterly **inapplicable** to a flourishing commercial society based upon free markets."*

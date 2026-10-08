@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being duplicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being duplicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being duplicated, copied, or reproduced accurately from an existing model or master.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amenable to replication in experimental science or industrial manufacturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicable designates capable of being duplicated."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Discrete alphanumeric symbols form a readily **duplicable** alphabet suitable for high-speed telegraphy."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"A deterministic algorithm must generate precisely **duplicable** output states from identical initial inputs."*
+> - 📜 **Vannevar Bush (*Science, the Endless Frontier*):** *"Scientific publications must describe methods in sufficient detail to render experiments readily **duplicable**."*

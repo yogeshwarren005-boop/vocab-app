@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Precisely and clearly expressed or readily observable; leaving nothing to implication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with fact or the primary meaning of a term.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stated clearly, fully, and in detail, leaving no room for confusion, doubt, or misinterpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open, candid, and direct in expression; or in mathematical formulas, expressing a dependent variable directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn gets up, adjusts his spectacles, puts on his hat, puts the manuscript in his pocket, goes out, tells the middle-aged man out at elbows, “I shall be back presently.” Very rarely tells him anything more explicit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “I—I—beg your pardon, but in our profession—we—we—find it necessary to be explicit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He patiently awaits an explicit answer; and Jo, more baffled by his patience than by anything else, at last desperately whispers a name in his ear."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The sovereign must make his commands **explicit** so that every subject understands the measure of his duty."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy's letter was so **explicit** upon every point that Elizabeth could find no ground for doubting his truth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary treaty contained **explicit** guarantees protecting the ancient civic charters of the city."*

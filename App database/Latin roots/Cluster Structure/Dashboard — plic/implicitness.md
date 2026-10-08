@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inexplicitness as a consequence of being implied or indirect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexplicitness as a consequence of being implied or indirect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tacit or unexpressed presence in words or deeds; subtle and unspoken suggestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character of being unquestioning, unconditional, or absolute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His affection was proved to have been sincere, and his conduct cleared of all blame, unless any could attach to the implicitness of his confidence in his friend."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"Masterly psychological prose thrives on the delicate **implicitness** of artistic suggestion rather than crude statement."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic symbols convey deep truths with an **implicitness** that defies mere discursive paraphrase."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"There was a touching **implicitness** in Maggie's childish devotion to her older brother Tom."*

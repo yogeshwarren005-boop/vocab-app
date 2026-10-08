@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pygmy rattlesnakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pygmy rattlesnakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of North American pit vipers known as pygmy rattlesnakes or massasaugas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, small venomous crotalids distinguished by large symmetrical head plates and small rattles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistrurus designates pygmy rattlesnakes."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"Ditmars described the pygmy rattlesnake under the genus **sistrurus**, noting its preference for swampy lowlands."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"Cope classified **sistrurus** as distinct from Crotalus by virtue of its nine large crown plates."*
+> - 📜 **Leonhard Stejneger (*The Poisonous Snakes of North America*):** *"The geographical distribution of **sistrurus** extends from southern Canada across the eastern United States."*

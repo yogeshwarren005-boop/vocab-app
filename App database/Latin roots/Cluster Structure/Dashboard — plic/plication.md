@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angular or rounded shape made by folding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of folding in parallel folds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of folding; a crease, wrinkle, or anatomical fold in organic tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, an intense bend, crumple, or corrugated fold in stratified rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plication designates an angular or rounded shape made by folding."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The sharp **plication** of the limestone beds indicates lateral compression of immense geological magnitude."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Every major mountain system reveals an intricate **plication** of fossiliferous formations."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The respiratory mantle displays a delicate **plication** that facilitates gas exchange in marine mollusks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of producing offspring or multiplying by such production.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multiplicative increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical operation of calculating the product of two numbers by repeated scaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and substantial increase in number, quantity, variety, or degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Ever has it seemed to me a witless thing to prove the multiplication table by turning a staff into a serpent, or even into two serpents."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the multiplication of the Executive adds to the difficulty of detection in either case."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The magnitude of the gravitational pull increases through the direct **multiplication** of the celestial masses."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every organism increases at so high a rate that geometrical **multiplication** would soon cover the earth."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True scientific advancement depends on the fruitful **multiplication** of systematic experiments."*

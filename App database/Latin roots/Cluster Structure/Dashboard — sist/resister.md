@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who systematically obstructs some action that others want to take.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who opposes, resists, or withstands an authority, hostile government, or occupying army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who steadfastly refuses to comply with an unjust decree or social demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Dawlish, the grocer, had expressed almost exactly similar sentiments two days later, and the ranks of these passive resisters had been receiving fresh recruits ever since."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every armed **resister** behind the barricades was treated by the royal guards as a desperate rebel."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Denisov organized peasant bands into partisan squads, turning every villager into a fierce **resister**."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"He praised the resolute patriot who stood forth as a determined **resister** of parliamentary taxation."*

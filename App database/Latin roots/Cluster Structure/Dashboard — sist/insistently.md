@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insistent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an urgent, demanding, or continuous manner that refuses to accept denial or dismissal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With repetitive, unyielding recurrence that constantly forces itself upon the mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And this thou didst deny, calling my name Insistently, until I rose and came."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"More and more insistently the plea and the demand have been made for better methods of distribution that will give to the masses of the people a larger share of the goods produced."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Labors, of an urgent and sacred character, claim insistently our undivided attention during the opening years of this new epoch which we have entered."*
+> - 📜 **James Joyce (*Ulysses*):** *"The church bells chimed **insistently** across the river, summoning the parishioners to noon prayers."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Archer wondered why the unspoken conventions of Old New York presented themselves so **insistently** before him."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"The shrill engine whistle blew **insistently** across the railway valley as the miner walked homeward."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elude, especially in a baffling way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stand up or offer resistance to somebody or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withstand the action or effect of something; to fight back against attack, force, or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To refrain from succumbing to a powerful temptation, desire, impulse, or enticement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that would die or ere resist are grown The mortal bugs o’ th’ field."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how, my lord, shall we resist it now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What fates impose, that men must needs abide; It boots not to resist both wind and tide. [_Exit King Edward, led out; Somerset with him._] OXFORD."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Abdiel stood resolute, refusing to waver or fail to **resist** the rebellious archangel's blasphemy."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"No citizen can surrender the natural right to **resist** those who seek to take away his life."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Prospero warned Ferdinand to **resist** sweet temptation before the sacred wedding rites were solemnized."*

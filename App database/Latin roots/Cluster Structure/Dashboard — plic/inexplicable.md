@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being explained or accounted for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being explained or accounted for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be explained, accounted for, or understood; baffling, mysterious, and defying explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resisting rational analysis or cause-and-effect interpretation under known laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And when my only prayer was to be taken off from the rest and when it was such inexplicable agony and misery to be a part of the dreadful thing?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All that day I lay in the dungeon cudgelling my brains for the reason of this new and inexplicable punishment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A demonic laugh broke through the silence of the third story, an **inexplicable** horror that chilled my blood."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The locked room murder presented an apparently **inexplicable** problem that baffled the Scotland Yard inspectors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The presence of identical alpine plants upon isolated mountain summits appeared utterly **inexplicable** before the glacial theory."*

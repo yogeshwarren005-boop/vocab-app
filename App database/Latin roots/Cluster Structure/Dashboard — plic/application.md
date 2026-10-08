@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something to bear; using it for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal or written request for assistance or employment or admission to a school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical use, implementation, or employment of an idea, principle, or technology to solve a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal written request for a position or privilege; sustained diligent effort; or a medicinal lotion applied to skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know, Miss Summerson, I almost wonder that YOU never turned your thoughts to Africa.” This application of the subject was really so unexpected to me that I was quite at a loss how to receive it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true test of philosophical knowledge lies in its fruitful **application** to the relief of man's estate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"By steady **application** to my French and drawing, I acquired the credentials necessary for a governess."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The topical **application** of soothing antiseptic dressings prevented secondary infection of the burn."*

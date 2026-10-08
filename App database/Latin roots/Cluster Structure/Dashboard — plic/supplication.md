@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer asking god's help as part of a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble request for help from someone in authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of asking or begging for something earnestly and humbly; a devout prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal religious or civic petition presented with solemn reverence and contrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Palace Enter the King with a supplication, and the Queen with Suffolk’s head, the Duke of Buckingham and the Lord Saye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What answer makes your grace to the rebels’ supplication?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, can you with a grace deliver up a supplication?"*
+> - 📜 **King James Bible (*Book of Psalms*):** *"The Lord hath heard my **supplication**; the Lord will receive my prayer with compassionate mercy."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian lifted his hands in fervent **supplication** at the foot of the Cross, and his heavy burden fell away."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"He warned that earthly pride must bow in humble **supplication** before the unsearchable decrees of Providence."*

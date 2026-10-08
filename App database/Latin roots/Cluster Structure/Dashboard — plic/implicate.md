@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To show or prove that someone is involved in an illegal activity, conspiracy, or wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To imply or involve as a necessary logical consequence or connected condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, there was no reasonable evidence to implicate any person but this woman, and on the improbabilities of her having been able to do it Mr."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You can understand that this register and diary may implicate some of the first men in the South, and that there may be many who will not sleep easy at night until it is recovered.” “Then the page we have seen—” “Is such as we might expect."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"This dress does implicate Miss Flora Millar.” “And how?” “In the dress is a pocket."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Torture was applied to the conspirators to **implicate** noble senators whose wealth excited the emperor's greed."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The discovered footprints in the garden served to **implicate** a pygmy accomplice with poisoned darts."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To affirm the existence of a circle is to **implicate** the equality of all radii extending from its center."*

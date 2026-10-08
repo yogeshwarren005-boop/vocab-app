@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sister of your spouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sister of your spouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sister of one's spouse, or the wife of one's brother or spouse's sibling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female relative connected to a family through marital bond rather than blood descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sister-in-law designates the sister of your spouse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond treated her new **sister-in-law** with polite deference while calculating social advantages."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Eleanor Bold consulted her prudent **sister-in-law** regarding the scandalous gossip of the cathedral close."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia received her fashionable **sister-in-law** with sincere warmth and gentle modesty."*

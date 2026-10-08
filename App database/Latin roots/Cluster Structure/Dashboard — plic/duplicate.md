@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something additional of the same kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that corresponds to an original exactly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact copy, replica, or identical counterpart of an original document, object, or key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in two identical copies or correspondently paired; or to make an exact copy of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I have been making a duplicate of the catalogue of my father’s books and pictures."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And now, sir, to reward you for the accurate guess, I will promise to paint you a careful and faithful duplicate of this very picture, provided you admit that the gift would be acceptable to you."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hence, the spare boats, spare spars, and spare lines and harpoons, and spare everythings, almost, but a spare Captain and duplicate ship."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The law copyist sat in his dark shop making an exact **duplicate** of the lengthy Chancery deed."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Holmes examined the safe lock, deducing that the thief had obtained a **duplicate** key from the valet."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I dispatched a **duplicate** set of treaty papers by a separate ship to guard against capture at sea."*

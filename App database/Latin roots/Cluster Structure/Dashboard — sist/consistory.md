@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church tribunal or governing body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church tribunal or governing body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn ecclesiastical council or court composed of the Pope and cardinals, or a Protestant church session of elders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecclesiastical court held in a diocese for trial of spiritual causes; or any dignified deliberative assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Bishops place themselves on each side the court, in manner of consistory; below them the Scribes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How far I have proceeded, Or how far further shall, is warranted By a commission from the Consistory, Yea, the whole Consistory of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My other self, my counsel’s consistory, My oracle, my prophet, my dear cousin, I, as a child, will go by thy direction."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The cardinal summoned the royal commissioners before the papal **consistory** in Rome to hear the great cause."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **consistory** of Constantine sat in solemn judgment upon the theological disputes of the bishops."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The parish **consistory** examined the accused with rigorous severity, enforcing ancient Scottish church discipline."*

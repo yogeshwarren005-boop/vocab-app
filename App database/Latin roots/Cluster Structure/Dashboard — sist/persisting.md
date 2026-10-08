@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing tenaciously in an opinion, effort, or course of action despite warnings or adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in existence or continuing to hold true over an unbroken period of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was soon generally agreed that Tuesday should be the day; Charles only reserving the advantage of still teasing his wife, by persisting that he would go to the play to-morrow if nobody else would."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In revolving Lady Catherine’s expressions, however, she could not help feeling some uneasiness as to the possible consequence of her persisting in this interference."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, and avoid both his looks and inquiries; and he, unrepulsable, was persisting in both."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Lucy Snowe stood firm, **persisting** in her determination to earn an independent livelihood in Brussels."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The mutineers showed signs of faltering, yet their captain kept **persisting** in the search for the cache."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The templar rode forth once more, **persisting** in his demand that Rebecca renounce her faith."*

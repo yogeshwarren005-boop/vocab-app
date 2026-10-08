@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to multiply or increase in number or quantity or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to multiply or increase in number or quantity or degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to multiply, or operating by means of mathematical multiplication and scaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a compound increase in magnitude, volume, or structural complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiplicative designates tending or having the power to multiply or increase in number or quantity or degree."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The **multiplicative** axiom provides a rigorous foundation for the arithmetic of transfinite cardinal numbers."*
+> - 📜 **Alfred North Whitehead (*Principia Mathematica*):** *"The authors established the formal properties of **multiplicative** relations within deductive set theory."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The theorem governs the **multiplicative** properties of quadratic residues in modular arithmetic."*

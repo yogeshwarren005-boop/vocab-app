@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of insisting on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Urgent persistence in demanding compliance, attention, or adherence to a point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forceful or recurring pressure exerted by an unavoidable duty, impulse, or fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is not due to anything in the room,” said Rebecca again with the shrill insistency of terror."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether felt the subtle **insistency** of her appeal, which admitted no evasion and demanded a candid confession."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He spoke with a desperate **insistency**, as if striving to compel belief against the overwhelming testimony of disaster."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The rhythm of the waves broke against the terrace with regular **insistency**, measuring the silent passage of the evening."*

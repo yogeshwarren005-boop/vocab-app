@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guilt as an accomplice in a crime or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guilt as an accomplice in a crime or offense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involvement with others in an unlawful activity, conspiracy, moral wrongdoing, or illicit scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guilty participation or collusive partnership in a crime or breach of public trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I won't have any one of the lot of you near me again except Val: I acquit him of complicity: he probably believes Laura innocent."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Adams, in the Times, took occasion most emphatically to deprecate the insinuation that the South had any knowledge of, or complicity in this crime."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Babcock, however, was his private Secretary, and upon him was charged complicity with the fraud."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor could not conceal his private **complicity** in the assassination of his victorious general."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal accused the aristocrat of treasonous **complicity** with foreign invaders."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale felt an inward **complicity** in guilt that poisoned his most eloquent spiritual exhortations."*

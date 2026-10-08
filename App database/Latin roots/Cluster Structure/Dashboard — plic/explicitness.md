@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being explicit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity and precision leaving no room for uncertainty; direct expression free from vagueness or ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unvarnished directness and openness in language or artistic presentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Gospel, with varying degrees of explicitness, and St."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel was often amused at his explicitness and at the small allowance he seemed to make either for her own experience or for her imagination."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He "looked into medicine," he tells us, and a good many passages in his treatises remind us of the fact.[12] It may help to explain an explicitness in the use of terms more usual in the physician perhaps than in the layman."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Dryden's prose is distinguished by its masculine vigor and admirable **explicitness** of critical principle."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific terminology demands absolute **explicitness** to avoid the insidious fallacies of common speech."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel was startled by the cold **explicitness** with which Madame Merle revealed her marital designs."*

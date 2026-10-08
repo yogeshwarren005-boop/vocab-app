@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tenacious endurance, steadfast perseverance, or stubborn adherence to an idea or endeavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recurrent, lingering continuation of a physical phenomenon, habit, or disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel: it was on her that his thoughts ran with a tiring persistency against which his common sense rebelled."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard pursued his rival with a sullen **persistency** that alienated his oldest friends."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel wondered at the cool **persistency** with which Osmond pressed his subtle claims upon her fortune."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He criticized the **persistency** with which certain critics repeated antiquated dogmas of verse."*

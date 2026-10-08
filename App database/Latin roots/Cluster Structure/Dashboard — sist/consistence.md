@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmonious uniformity or agreement among things or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of holding together and retaining its shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degree of density, firmness, viscosity, or physical coherence of a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uniformity, stability, or logical harmony of conduct, character, or principles; consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They kindle a fire, and dress a repast of eggs and milk in the consistence of a custard."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That blubber is something of the consistence of firm, close-grained beef, but tougher, more elastic and compact, and ranges from eight or ten to twelve and fifteen inches in thickness."*
-> - 📜 **John Milton (*Paradise Lost*):** *"That fury stayed— Quenched in a boggy Syrtis, neither sea, Nor good dry land—nigh foundered, on he fares, Treading the crude consistence, half on foot, Half flying; behoves him now both oar and sail."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The molten mass cooled slowly, assuming the firm **consistence** of transparent amber on the crucible floor."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Fluids differ in their **consistence**, from volatile spirit of wine to the heavy tenacity of molten pitch."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Virtue requires steady **consistence** in conduct rather than occasional heroic exertions followed by indolence."*

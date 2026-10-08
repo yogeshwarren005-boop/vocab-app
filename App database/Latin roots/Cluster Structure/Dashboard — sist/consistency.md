@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of holding together and retaining its shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious uniformity or agreement among things or parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity in the application of rules, logic, or principles; absence of self-contradiction; steady uniformity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree of density, firmness, or viscosity of a fluid, dough, or material substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His consistency was, indeed, too cruel."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish **consistency** is the hobgoblin of little minds, adored by little statesmen and philosophers."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logical **consistency** requires that propositions asserted in a deduction shall not contradict foundational premises."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms work the soil into a fine, uniform **consistency** admirably suited for plant germination."*

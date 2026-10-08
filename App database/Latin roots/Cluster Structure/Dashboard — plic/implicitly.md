@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubting or questioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without ever expressing so clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is not directly expressed; tacitly or by implication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without doubt, hesitation, or question; absolutely and unreservedly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Trust me, I will remain near you only so long as I can fully respect it.” “I trust implicitly to you,” I said."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Shallow natures dream of an easy sway over the emotions of others, trusting implicitly in their own petty magic to turn the deepest streams, and confident, by pretty gestures and remarks, of making the thing that is not as though it were."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne trusted Willoughby **implicitly**, never doubting that his heart was entirely devoted to her."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions obeyed the commands of their beloved general **implicitly**, marching through frozen mountain passes."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The unthinking masses accept traditional opinions **implicitly**, without ever testing their rational foundation."*

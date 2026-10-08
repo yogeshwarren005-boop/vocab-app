@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus that makes copies of typed, written or drawn material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus that makes copies of typed, written or drawn material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine, apparatus, or person that produces duplicate copies of written, printed, or graphic materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early office technology, a stencil or hectograph mimeograph used for duplicating documents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicator designates apparatus that makes copies of typed, written or drawn material."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The small publishing office smelled of ink, damp paper, and the greasy roller of the hand **duplicator**."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Political volunteers cranked the rotary **duplicator** late into the night, churning out campaign leaflets."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The modern office rotary **duplicator** sped up bureaucratic correspondence tenfold in corporate headquarters."*

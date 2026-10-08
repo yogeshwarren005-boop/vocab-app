@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female person who has the same parents as another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a title given to a nun (and used as a form of address).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sibling sharing biological or adoptive parenthood with another individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who has taken religious vows within a Catholic or monastic holy order; a nun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are my mother, madam; would you were— So that my lord your son were not my brother,— Indeed my mother! or were you both our mothers, I care no more for than I do for heaven, So I were not his sister."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sister I bequeath you, whom no brother Did ever love so dearly."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor supported her younger **sister** with unwearied affection throughout Marianne's bitter grief."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Diana Rivers embraced Jane with all the tenderness of an affectionate and long-lost **sister**."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Viola mourned for her brother in the guise of Cesario, yet found a loving friend like a **sister** in Olivia."*

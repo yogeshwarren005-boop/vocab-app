@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a persistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With persistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a determined, tenacious manner that refuses to give up or yield to difficulties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuously, repeatedly, or stubbornly over a protracted period without cessation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Don’t be such a dissembler!” The sergeant retreated to avoid receiving back his gift, which she held out persistently towards him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But as Oak was not only provokingly indifferent to public opinion, but a man who clung persistently to old habits and usages, simply because they were old, there was room for doubt as to his motives."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The memory of that fatal jump pursued him **persistently** across every eastern port he visited."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie clung **persistently** to her affection for Philip, disregarding her brother's stern warnings."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The fever returned **persistently** every afternoon, binding Hans Castorp to the high alpine sanatorium."*

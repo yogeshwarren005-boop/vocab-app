@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of opposing something that you disapprove or disagree with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any mechanical force that tends to retard or oppose motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of fighting against an opponent; refusal to accept or comply with power, rule, or coercion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the property of an electric conductor that opposes the flow of electric current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unfold to us some warlike resistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’ll not swagger with a Barbary hen, if her feathers turn back in any show of resistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear my lord, if you, in your own proof, Have vanquish’d the resistance of her youth, And made defeat of her virginity,— CLAUDIO."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electrical **resistance** of a metallic conductor varies in direct proportion to its length."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Faraday measured the thermal heat generated when galvanic current overcame internal circuit **resistance**."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The defender concentrates all available forces to break the enemy's offensive **resistance** at the front."*

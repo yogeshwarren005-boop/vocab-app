@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fold into pleats,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold into pleats,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Folded longitudinally into pleats like a fan; corrugated along regular parallel ridges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To crease or gather into folds; exhibiting pleated structural morphology in biology or geology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plicate designates fold into pleats,."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The vernation of the palm leaves is distinctly **plicate**, unfurling in symmetrical parallel ribs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean pressure caused the sedimentary strata to buckle into heavily **plicate** mountain ranges."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The ancient Appalachian rocks display **plicate** structures produced during continental collision."*

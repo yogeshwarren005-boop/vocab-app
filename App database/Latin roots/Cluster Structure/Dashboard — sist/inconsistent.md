@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying a lack of consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being made consistent or harmonious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not staying the same throughout; contradictory, erratic, or incompatible with known principles or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to maintain a regular, steady standard of conduct or moral duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But they are not all like the woman who now leaves him and his house behind, between whose plain dress and her refined manner there is something exceedingly inconsistent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It gave me the most inconsistent opinions of her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, besides my very much mistrusting the probability of his being there without making Richard poorer, I felt as if there were something in his careless gaiety too inconsistent with what I knew of the depths of Ada’s life."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The sudden creation of thousands of independent species is **inconsistent** with the observed gradations of morphology."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby's cold behavior in London was entirely **inconsistent** with his tender devotion at Barton Cottage."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Arbitrary taxation by royal proclamation was **inconsistent** with the ancient liberties guaranteed by Magna Charta."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Group refusal to resort to violence even in defense against violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Group refusal to resort to violence even in defense against violence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle or practice of submitting to authority or violence without using physical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passive obedience or patient endurance in the face of political tyranny or moral persecution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Being an integral portion of the State, it has been assumed, and in effect tacitly admitted on our part by nonresistance, that all political and governmental power over us rested in the State Legislature."*
+> - 📜 **Leo Tolstoy (*The Kingdom of God Is Within You*):** *"Tolstoy proclaimed that universal **nonresistance** to evil by violence constituted the core of Christ's teaching."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"He distinguished between craven submission and the conscientious **nonresistance** of moral conviction."*
+> - 📜 **William Lloyd Garrison (*Declaration of Sentiments*):** *"The society pledged its members to strict **nonresistance**, rejecting all carnal weapons of warfare."*

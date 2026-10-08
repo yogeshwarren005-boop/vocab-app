@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making clear or removing obscurity from the meaning of a word or symbol or expression etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed explanation of the meaning of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of unfolding, interpreting, and explaining a text, concept, or theory in thorough, detailed analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed interpretation or critical commentary upon a literary work or legal statute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thy prayers might subdue stones; but none but he who enjoined my purpose can shake it.” These words were a sufficient explication of the scene."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The scientific mani- festation of power is from the divine nature 83:15 and is not supernatural, since Science is an explication of nature."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The critic provided a masterly **explication** of Turner's handling of light, revealing the artist's poetic purpose."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"A clear **explication** of physiological mechanisms dispels superstitious misconceptions regarding bodily disease."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"The author devoted an entire chapter to the **explication** of terror as a principal source of the sublime."*

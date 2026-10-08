@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for applying a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for applying a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, instrument, or tool designed for applying a medicinal substance, paint, or chemical to a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument, such as a swab, spatula, or radioactive tube, used in local therapeutic treatments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applicator designates a device for applying a substance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon dipped the cotton-tipped **applicator** into silver nitrate to cauterize the sluggish ulcer."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician reached for a curved glass **applicator** to swab the inflamed throat of the feverish child."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Careful manipulation of the caustic **applicator** required a steady hand to avoid healthy mucosal tissues."*

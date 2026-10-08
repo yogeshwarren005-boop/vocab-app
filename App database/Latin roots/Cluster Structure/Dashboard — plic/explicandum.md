@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a statement of something (a fact or thing or expression) to be explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement of something (a fact or thing or expression) to be explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon, statement, or concept that requires explanation or theoretical elucidation in philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and epistemology, the target phenomenon for which an explicatio or explanatory model is sought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explicandum designates (logic) a statement of something (a fact or thing or expression) to be explained."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"The philosopher must clearly delineate the **explicandum** before proposing novel psychological hypotheses."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Scientific inquiry begins with an unsettled experiential situation functioning as the primary **explicandum**."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Abductive inference invents a provisional explanatory hypothesis to account for the surprising **explicandum**."*

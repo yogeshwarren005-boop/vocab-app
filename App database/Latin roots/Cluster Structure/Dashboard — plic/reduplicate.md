@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form by reduplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or do or perform again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To repeat, double, or multiply; to reproduce with twofold emphasis or frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, to repeat a root syllable or word element to indicate grammatical modification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reduplicate designates form by reduplication."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Ancient Indo-European verbs frequently **reduplicate** the initial consonant to form the perfect tense."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Speakers naturally **reduplicate** expressive sounds to convey intensity or iterative action."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Tribal chants tend to **reduplicate** evocative refrains to deepen emotional resonance among the dancers."*

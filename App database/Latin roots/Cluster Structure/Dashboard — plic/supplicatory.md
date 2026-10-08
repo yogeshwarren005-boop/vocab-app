@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Humbly entreating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humbly entreating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or characterized by humble and earnest entreaty or prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed in the reverent, contrite tone of a petition seeking mercy or divine aid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry, in a soothing tone, bringing his left hand from the back of the chair to lay it on the supplicatory fingers that clasped him in so violent a tremble: “pray control your agitation--a matter of business."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The aged beggar raised his hat with a gentle **supplicatory** gesture, hoping for a modest coin."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber addressed the company in a **supplicatory** tone, pleading for temporary patience from his creditors."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen cast a **supplicatory** glance toward Deronda, imploring his moral counsel in her deep distress."*

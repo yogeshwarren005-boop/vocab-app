@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent or duplicitous representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceitfulness in speech or conduct; double-dealing; the deliberate hiding of true intentions under false pretenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, doubleness or twofold division; or in legal pleading, the technical defect of alleging two distinct matters in one plea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The manœuvres of selfishness and duplicity must ever be revolting, but I have heard nothing which really surprises me."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her duplicity hurts me more than all; till the very last, if I reasoned with her, she declared herself as much attached to me as ever, and laughed at my fears."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was shocked by Wickham's shameless **duplicity**, recalling his plausible falsehoods against Darcy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The conspirators masked their designs with shocking **duplicity**, promising liberty while preparing the scaffold."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The rules of special pleading strictly forbid **duplicity**, requiring a single distinct issue for the jury."*

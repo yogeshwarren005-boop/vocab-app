@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of complicating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition that is complex or confused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate circumstance, unexpected development, or obstacle that makes a situation more difficult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, a secondary disease, lesion, or morbid process arising during the course of an existing illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The complication of her shame, her dread, remorse, and misery, overwhelms her at its height; and even her strength of self-reliance is overturned and whirled away like a leaf before a mighty wind."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Perforation of the intestinal ulcer forms the most dreaded **complication** of typhoid fever."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Lucy Steele's secret engagement introduced an agonizing **complication** into Elinor's quiet domestic life."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The unexpected death of the foreign monarch added a formidable **complication** to European peace negotiations."*

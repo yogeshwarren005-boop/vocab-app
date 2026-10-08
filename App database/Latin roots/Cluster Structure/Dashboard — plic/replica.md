@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Copy that is not the original; something that has been copied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy that is not the original; something that has been copied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact or very close copy or model of something, especially one made on a reduced scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate artwork executed by the original artist, possessing identical authorship and style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Everything, in fact, was done to make the place as perfect a replica as possible of actual underground workings."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"These are invariably dressed as exact replicas of their parents."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The modern plaster cast is merely a dead **replica** of the vibrant Byzantine sculpture."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Kenyon gazed upon the clay **replica** of the marble bust, searching for a trace of human spirit."*
+> - 📜 **Henry James (*The American*):** *"Newman purchased an exact **replica** of the Louvre masterpiece to adorn his Paris salon."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without showing consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without showing consistency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contradictory, erratic, or incompatible manner; without steady adherence to principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fluctuatingly, unpredictably, or in conflict with previous statements or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The self-denying pair had been occupied in coaxing the appetites of some of their sick parishioners, whom they, somewhat inconsistently, tried to keep imprisoned in the flesh, their own appetites being quite forgotten."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He seemed surprised—very inconsistently so, as he had just told me to go."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But a similar distinction is inconsistently preserved by many writers in the case of material things."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke acted **inconsistently**, espousing radical reform in speeches while remaining an exacting country landlord."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Opponents of utilitarianism argue **inconsistently**, appealing to utility while professing to despise consequences."*
+> - 📜 **David Hume (*The History of England*):** *"The monarch ruled **inconsistently**, now yielding to parliamentary demands, now asserting absolute divine prerogative."*

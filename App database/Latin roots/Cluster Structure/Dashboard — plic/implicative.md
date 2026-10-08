@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suggest or imply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to suggest or imply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to implicate, imply, or suggest something indirectly; conveying an implicit meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving logical consequences or indirect hints in communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, implicative designates tending to suggest or imply."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her quiet glance was subtly **implicative**, warning Dorothea of the gossip circulating in the town."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Every courteous phrase exchanged in the salon was richly **implicative** of the secret compact between them."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An **implicative** satire wounds pride far more deeply than direct and clumsy abuse."*

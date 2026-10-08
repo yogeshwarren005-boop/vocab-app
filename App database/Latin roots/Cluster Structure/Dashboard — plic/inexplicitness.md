@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of not being explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of not being explicit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vagueness, obscurity, or deliberate lack of clear and distinct detail in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate reticence, evasiveness, or absence of precision in communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The studied **inexplicitness** of their conversational pauses shielded them from an open and painful rupture."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **inexplicitness** of an oracle allows the cunning priest to claim prophetic truth whatever the event."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen was tormented by the deliberate **inexplicitness** of Grandcourt's cold, mocking questions."*

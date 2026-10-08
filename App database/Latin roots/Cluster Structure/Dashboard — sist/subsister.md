@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives through affliction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives through affliction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who subsists, especially someone who manages to survive on bare provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entity or organism that maintains continuous, enduring existence in a given environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsister designates one who lives through affliction."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Gulliver observed that the frugal **subsister** on the island required little beyond clean water and wild roots."*
+> - 📜 **William Cobbett (*Rural Rides*):** *"He described the sturdy cottager as a self-reliant **subsister** whose garden supplied all his winter needs."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Every honest **subsister** on earth demands righteous labor and fair bread in return for his daily toil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make plain and comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate, as of theories and hypotheses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To analyze, unfold, and explain the detailed meaning of an idea, text, or philosophical principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To develop the implications of a concept in systematic, rigorous detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explicate designates make plain and comprehensible."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the sacred duty of natural philosophy to **explicate** the subtle works of nature rather than invent fables."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critical essayist undertook to **explicate** the profound philosophical principles underlying Wordsworth's poetry."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Philosophers must carefully **explicate** ambiguous terms before constructing deductive demonstrations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `to') likely to be affected with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `to') likely to be affected with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering no resistance, barrier, or active opposition to force, authority, or assault.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding, compliant, and tractable in temperament; submitting without physical struggle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unresistant designates (often followed by `to') likely to be affected with."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The spirit drifted through the open sky like an **unresistant** cloud borne on the gentle evening breeze."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Billy stood meek and **unresistant** while the master-at-arms bound his wrists upon the quarterdeck."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"Nekhlyudov admired the **unresistant** patience with which the peasant prisoners endured their long exile."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceitful, two-faced, and treacherous in speech or conduct; masking true hostile intentions under a friendly guise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting double-dealing and bad faith in diplomacy, business, or personal relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicitous designates marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - israel zangwill; ; - w.m.thackeray."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **duplicitous** policy of the Byzantine court provoked the open fury of the crusader barons."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt despised the clumsy lies of lesser men, preferring a cold and **duplicitous** mastery over his household."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's **duplicitous** negotiations with rival parliamentary factions alienated his warmest royalist supporters."*

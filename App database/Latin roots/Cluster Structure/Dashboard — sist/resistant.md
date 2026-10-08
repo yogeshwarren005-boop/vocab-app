@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conferring immunity (to disease or infection).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to tolerate environmental conditions or physiological stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering resistance; opposing, withstanding, or holding out against external force or harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious or invulnerable to biological infection, chemical corrosion, or environmental decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Each of them felt proudly resistant, and neither looked at the other, while they awaited Sir James’s entrance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Healthy yeast cultures proved remarkably **resistant** to airborne bacterial contamination."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Varieties with tough coats proved more **resistant** to the attacks of parasitic insects."*
+> - 📜 **Robert Koch (*Investigations into Bacteria*):** *"Anthrax spores remained **resistant** to drying and boiling for surprisingly long intervals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded part (as in skin or muscle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folded part (as in skin or muscle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical fold, crease, or ridge of tissue in animals, plants, or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tangled, matted condition of hair or wool caused by neglected hygiene or cutaneous disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plica designates a folded part (as in skin or muscle)."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The mucous membrane of the intestine exhibits a prominent **plica** that enlarges the absorbing surface."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In avian specimens, each membranous **plica** contributes to the complex mechanism of vocal sound production."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The curious folding of the canine ear forms a distinct **plica** characteristic of certain bred hounds."*

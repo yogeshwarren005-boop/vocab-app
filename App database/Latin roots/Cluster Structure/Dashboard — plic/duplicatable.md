@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being duplicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being duplicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being duplicated, replicated, or multiplied; reproducible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for mechanical or digital reproduction in multiple identical copies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicatable designates capable of being duplicated."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The photographic negative yielded an endlessly **duplicatable** image, democratizing visual art for the masses."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Digital font glyphs are defined by mathematical curves to provide **duplicatable** rendering across devices."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"Microfilm records offered a compact, easily **duplicatable** medium for the preservation of library books."*

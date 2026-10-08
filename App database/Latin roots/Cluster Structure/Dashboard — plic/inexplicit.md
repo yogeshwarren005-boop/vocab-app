@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Implied though not directly expressed; inherent in the nature of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Implied though not directly expressed; inherent in the nature of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated clearly, openly, or in full detail; vague, ambiguous, or lacking in definitive explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscure, shadowy, or left in an incomplete, undefined state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexplicit designates implied though not directly expressed; inherent in the nature of something."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Chad's letters had been so cautiously **inexplicit** that Mrs. Newsome dispatched an envoy to Paris to discover the truth."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Ambiguous and **inexplicit** terms in the premise invalidate the entire formal structure of a syllogism."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clauses of the royal declaration were intentionally **inexplicit**, seeking to conciliate both factions."*

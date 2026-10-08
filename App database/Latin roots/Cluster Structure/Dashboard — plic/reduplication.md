@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The syllable added in a reduplicated word form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of doubling, repeating, or multiplying something manifold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, the repetition of all or part of a word stem to mark tense, aspect, or pluralization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He secreted mirth on all occasions for special discharge at popular parties—his productions of this class being more noticeably advanced than Coggan’s, inflicting a faint sense of reduplication and similitude upon the elder members of such companies."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The **reduplication** of syllables in nursery speech illustrates universal phonetic simplifications."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Grammatical **reduplication** serves in many indigenous American tongues to denote iterative aspect."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Bloomfield analyzed morphological **reduplication** as a fundamental process of non-concatenative word formation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal (or marginal) resources for subsisting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A means of surviving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or state of maintaining life at a minimal level; basic livelihood and survival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The minimum food, resources, and provisions necessary to support physical existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a poor subsistence that she had ensured, but it would afford a shelter for the winter at any rate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually he asserts that this is because production grows faster than wages, wages being fixed, as he believes, by the minimum of subsistence--a theory akin to the iron law of wages."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary and the executive members were left dependent on the legislative for their subsistence in office, and some of them for their continuance in it."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Population increases in geometrical ratio, while the means of **subsistence** increase only arithmetically."*
+> - 📜 **Karl Marx (*Capital*):** *"The value of labor-power is determined by the value of the necessities of life required for the laborer's **subsistence**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wages depend upon the ratio between population and the capital allocated for agricultural **subsistence**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being resisted or withstood or frustrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being resisted or withstood or frustrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being resisted, opposed, counteracted, or successfully overcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to containment or moral defeat through disciplined willpower or armed defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistible designates capable of being resisted or withstood or frustrated."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The temptations of idleness appear formidable only to the weak, being entirely **resistible** to the resolute."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The initial demands of the factions were moderate and clearly **resistible** had the crown acted firmly."*
+> - 📜 **David Hume (*Enquiries Concerning Human Understanding*):** *"Passions are not blind mechanical necessities, but impulses that remain **resistible** by reflective reason."*

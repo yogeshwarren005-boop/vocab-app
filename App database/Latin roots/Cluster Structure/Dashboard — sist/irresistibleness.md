@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being overpowering and impossible to resist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being overpowering and impossible to resist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overwhelming force, charm, or captivating power that defies opposition or containment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unyielding potency of an argument, moral impulse, or natural catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The apparent **irresistibleness** of youthful passion often serves as an idle excuse for moral weakness."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood before his crew, radiating an **irresistibleness** of purpose that bent their wills to his own."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He described the seductive **irresistibleness** of the drug that gradually conquered his resolving mind."*

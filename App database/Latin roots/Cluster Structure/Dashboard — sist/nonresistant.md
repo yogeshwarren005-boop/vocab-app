@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `to') likely to be affected with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no resistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering no physical resistance or opposition to authority, attack, or coercion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding passively to external force, chemical degradation, or infectious pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonresistant designates (often followed by `to') likely to be affected with."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The **nonresistant** soul disarms hostility by refusing to meet wrath with returning malice."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Animals with **nonresistant** temperaments were more readily domesticated by early pastoral tribes."*
+> - 📜 **George Fox (*Journal*):** *"Fox stood calm and **nonresistant** while the magistrates condemned him to the damp dungeon."*

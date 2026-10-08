@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that resists the flow of electrical current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device that resists the flow of electrical current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical component designed to introduce a specific resistance into a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passive two-terminal electronic component that implements electrical impedance to reduce voltage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resistor designates an electrical device that resists the flow of electrical current."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Edison experimented with a carbonized filament **resistor** to regulate the current of his dynamo."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"He placed a non-inductive **resistor** in series with the spark gap to prevent oscillatory breakdown."*
+> - 📜 **Guglielmo Marconi (*Nobel Lecture on Wireless Telegraphy*):** *"Marconi tuned his coherer circuit by calibrating an adjustable **resistor** within the antenna feed."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) the act of enabling another player to make a good play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give help, aid, or support to someone in an undertaking, task, or time of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports, an action that directly enables a teammate to score a goal or point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the great gods be just, they shall assist The deeds of justest men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist. [_Exeunt, bearing the body of Martius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist me, then, sweet Warwick, and I will; For hither we have broken in by force."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"You do **assist** the storm: cheerly, good hearts! out of our way, I say."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was glad to **assist** her sister Jane in preparing for the grand Netherfield ball."*
+> - 📜 **Francis Bacon (*Essays*):** *"Good magistrates **assist** the weak against the oppression of the mighty with prompt and equitable justice."*

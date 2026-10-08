@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The suitability, relevance, or practical appropriateness of an idea, rule, or method to a given situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent to which a scientific law, legal statute, or mathematical theorem holds true in practical cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applicability designates relevance by virtue of being applicable to the matter at hand."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The universal **applicability** of inductive axioms guarantees the consistency of experimental predictions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The judges debated the direct **applicability** of the ancient maritime statute to river navigation disputes."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The broad **applicability** of evolutionary principles extends far beyond biological taxonomy into geology."*

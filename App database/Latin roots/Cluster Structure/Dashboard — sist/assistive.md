@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving assistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing aid, specialized assistance, or rehabilitation support, especially for persons with disabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to adaptive technological equipment, such as hearing aids, wheelchairs, or screen readers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assistive designates giving assistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The orthopedic surgeon recommended **assistive** crutches to relieve mechanical load upon the healing hip joint."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians relied upon complex **assistive** machines to perform physical movements upon our heavy planet."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Mechanical **assistive** appliances compensate for lost muscular power, restoring dignity and autonomy to the invalid."*

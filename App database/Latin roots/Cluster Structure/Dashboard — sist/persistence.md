@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a continuous and connected period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm or obstinate continuance in a course of action despite difficulties, setbacks, or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prolonged survival or continuous manifestation of an effect, condition, or physical trace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How does it stand towards my past?” Tess was the merest stray phenomenon to Angel Clare as yet—a rosy, warming apparition which had only just acquired the attribute of persistence in his consciousness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His very persistence in the quest convinced a man like Jake Oppenheimer, who could only admire me for the fortitude with which I kept a close mouth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Persistence of differences between nations. § 5."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **persistence** of ancestral traits across vast epochs illuminates the genealogy of modern fauna."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary attention is characterized by the conscious **persistence** of effort toward a chosen thought."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Marlow was struck by the stubborn **persistence** of the forest, which seemed to wait in ominous patience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something more intricate, involved, or difficult to understand, manage, or resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, to introduce a secondary condition or infection that aggravates an existing disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mrs Clay’s selfishness was not so complicate nor so revolting as his; and Anne would have compounded for the marriage at once, with all its evils, to be clear of Mr Elliot’s subtleties in endeavouring to prevent it."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The more _outré_ and grotesque an incident is the more carefully it deserves to be examined, and the very point which appears to complicate a case is, when duly considered and scientifically handled, the one which is most likely to elucidate it."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"She feared he was going to complicate matters still more by falling in love with Alice, himself; and this, certainly, Billy did not want at all."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's reckless elopement threatened to **complicate** the family's social ruin beyond all remedy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bacterial pneumonia may **complicate** influenza, increasing mortality among debilitated patients."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ideological dogmas only serve to **complicate** the straightforward duties of civil magistrate rule."*

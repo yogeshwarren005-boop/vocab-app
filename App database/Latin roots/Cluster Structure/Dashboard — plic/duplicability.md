@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being reproducible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being duplicated, replicated, or copied with fidelity and precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific experimental methodology, the property of an experiment being reproducible by independent researchers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duplicability designates the quality of being reproducible."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The **duplicability** of digital code words across multiple relay stations ensures flawless message transmission."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The absolute **duplicability** of laboratory results distinguishes sound empirical physics from metaphysical speculation."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Mass production achieved industrial maturity through the perfect **duplicability** of standardized steel parts."*

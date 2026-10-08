@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend or turn backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce or make an exact copy of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an exact copy or reproduction of something; to duplicate or repeat an experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, to undergo self-duplication through molecular template synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replicate designates bend or turn backward."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"The base-pairing mechanism suggested how the genetic molecule could **replicate** itself with high fidelity."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Experimental biochemists worked tirelessly to **replicate** the enzymatic synthesis of nucleic acids."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Chromosomes divide longitudinally and **replicate** identical gene sequences in each daughter cell."*

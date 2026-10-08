@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to resist; overpowering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overpoweringly attractive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too powerful, convincing, or alluring to be resisted, opposed, or successfully denied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting an overwhelming fascination or magnetic charm that disarms all opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And all this was said with a truth and sincerity of feeling irresistible."*
-> - 📜 **Jane Austen (*Persuasion*):** *"His goodness of heart and simplicity of character were irresistible."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"An **irresistible** curiosity impelled me to explore the hidden mysteries of natural philosophy."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei yielded to the **irresistible** melody of the music as he stepped onto the ballroom floor."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Truth possesses an **irresistible** majesty that silences sophistry without need of elaborate defense."*

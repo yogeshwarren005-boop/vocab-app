@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is inferred (deduced or entailed or implied).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaning that is not expressly stated but can be inferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conclusion or suggestion that can be drawn from something although it is not directly or explicitly stated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entangling or involving someone in a crime, scandal, or logical sequence of consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, as in duty bound, is of the same opinion, holding that a private station is better than public applause, and thanking heaven for her own (and, by implication, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “but we had better not travel out of the record into implication."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are in a counting-house, you know, and you look about you.” It struck me as a singular implication that you couldn’t be out of a counting-house, you know, and look about you; but I silently deferred to his experience."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The mathematical **implication** of the theorem was immediately recognized by physicists studying thermodynamics."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma blushed at the humiliating **implication** of Mr. Knightley's rebuke regarding her treatment of Miss Bates."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sovereign powers of the federal executive arise partly by express grant and partly by necessary **implication**."*

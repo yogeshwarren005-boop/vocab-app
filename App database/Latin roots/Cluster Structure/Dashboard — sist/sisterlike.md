@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of or befitting a sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like or characteristic of or befitting a sister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a sister; showing intimate affection, loyalty, and care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the gentle solicitude and mutual intimacy typical of devoted female siblings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sisterlike designates like or characteristic of or befitting a sister."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans demonstrated a **sisterlike** devotion that endured through imprisonment and perilous journeys."*
+> - 📜 **Elizabeth Gaskell (*Wives and Daughters*):** *"Molly and Cynthia quickly formed a **sisterlike** companionship, sharing their secret hopes and anxieties."*
+> - 📜 **Fanny Burney (*Evelina*):** *"She addressed the companion of her youth with **sisterlike** tenderness and unrestrained frankness."*

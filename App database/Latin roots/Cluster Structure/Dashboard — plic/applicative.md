@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily applicable or practical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily applicable or practical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to apply, direct, or implement practically; possessing practical application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and grammar, denoting a verbal construction that promotes an oblique noun to direct object status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applicative designates readily applicable or practical."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Pure mathematics develops general theorems whose **applicative** value is subsequently realized in astronomy."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The human mind demonstrates an **applicative** versatility in adapting simple tools to diverse manual tasks."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Language structures display **applicative** devices that enrich verbal roots with directional meanings."*

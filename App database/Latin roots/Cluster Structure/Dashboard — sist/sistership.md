@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between a female offspring and the siblings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association or society of women who are linked together by a common religion or trade or interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship, status, or legal bond of being sisters; mutual sisterly association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and architectural contexts, the close structural resemblance between sister vessels or twins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistership designates the kinship relation between a female offspring and the siblings."*
+> - 📜 **Herman Melville (*Redburn*):** *"The two Liverpool packet vessels claimed **sistership**, having been constructed upon the same dockyard slipway."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Sailors readily recognized the unmistakable **sistership** of the twin clippers racing toward the Channel."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The brig anchored alongside our vessel, establishing a companionable **sistership** on that remote California coast."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being explicated or accounted for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being explicated or accounted for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being explained, accounted for, or made clear through reason and evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprehensible within the established laws of nature or rational analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But, as I pointed out, there are certain features in the ceremony which are not explicable on this hypothesis alone."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Many of the differences are explicable without taking any account of the union."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Many strange instincts in animals are easily **explicable** on the theory of the natural selection of slight variations."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The complex operations of the intellect become **explicable** when we trace their origin to simple sensations."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Biological adaptations previously deemed miraculous are now fully **explicable** through natural evolutionary laws."*

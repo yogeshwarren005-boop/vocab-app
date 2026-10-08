@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily applicable or practical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily applicable or practical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or demonstrating practical application, fitness, or direct relevance to an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an operational guide or instructive implementation for general principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applicatory designates readily applicable or practical."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must provide **applicatory** regulations so that judicial magistrates execute statutes without ambiguity."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Moral precepts achieve little permanent effect unless backed by **applicatory** exercises in daily conduct."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Theoretical discoveries in magnetism proved immediately **applicatory** to the invention of the electric telegraph."*

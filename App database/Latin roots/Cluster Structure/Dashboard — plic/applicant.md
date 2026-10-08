@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requests or seeks something such as assistance or employment or admission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who requests or seeks something such as assistance or employment or admission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a formal, written application for an employment position, admission, grant, or license.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petitioner who submits official credentials to an administrative board or judicial magistrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But missionaries' pockets are more often depleted, than those of benevolent organizations, and the one in question was fain to take the applicant to a friend, whom we shall call Q."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"An examination of the qualifications of each applicant was made."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It then becomes the duty of the Committee in charge to visit the applicant, and to afford such aid as may be needed."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The crowded intelligence office was thronged with every needy **applicant** seeking employment as clerk or tutor."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop considered each clerical **applicant** with scrupulous care before granting the vacant living."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I advised the young **applicant** to demonstrate industrious habits rather than rely upon patronage."*

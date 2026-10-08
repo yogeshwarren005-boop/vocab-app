@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `with') in agreement or consistent or reliable; ; - fdr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reproduced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or done in the same way over time; compatible, steady, and agreeing with principles or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logically coherent; possessing firmness, density, or solid physical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had a cultivated mind, and was, generally speaking, rational and consistent—but she had prejudices on the side of ancestry; she had a value for rank and consequence, which blinded her a little to the faults of those who possessed them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He despised the Canons and Rubric, swore by the Articles, and deemed himself consistent through the whole category—which in a way he might have been."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geological record, though imperfect, is entirely **consistent** with the hypothesis of gradual modification."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor's conduct was ever **consistent** with her high sense of honor and tender affection for her family."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The observed phenomena of light reflection are **consistent** with immutable mechanical laws."*

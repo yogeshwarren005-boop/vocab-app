@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a systematic or consistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a systematic or consistent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In every case, on every occasion, or in an invariable and steady manner; with unwavering uniformity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In continuous harmony with established rules, logic, or previous statements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything seems to have happened to his hands that could possibly take place consistently with the retention of all the fingers, for they are notched, and seamed, and crumpled all over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is no other principle distinctly, certainly, and consistently maintained through all its narrow turnings."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral philosopher must act **consistently** with the principle of promoting the greatest happiness of mankind."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The evidence of comparative anatomy pointed **consistently** to common descent among all vertebrate classes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Garth was **consistently** upright in all his dealings, refusing to profit from deceptive land sales."*

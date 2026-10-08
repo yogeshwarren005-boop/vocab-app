@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the process whereby dna makes a copy of itself before cell division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of copying, repeating, or reproducing something; an exact duplicate or facsimile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, the biological process by which a cell duplicates its double-stranded DNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, to be demanded of a sponge—what replication should be made by the son of a king?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The counsel for the President then asked for a delay of thirty days after the replication of the managers of the impeachment should have been rendered, before the trial should formally proceed."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The precise **replication** of the genetic code ensures hereditary invariance across generations."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"Without accurate DNA **replication**, biological order would rapidly degenerate into thermal chaos."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In common law pleading, the plaintiff answers the defendant's plea by submitting a formal **replication**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an explicit manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an explicit manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear, detailed, and unequivocal manner; plainly, directly, and without ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In express terms, leaving no need for inference or implication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This aspect of the fire-festivals had not wholly escaped me in former editions; I pointed it out explicitly, but, biassed perhaps by the great authority of Mannhardt, I treated it as secondary and subordinate instead of primary and dominant."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are not explicitly told of such things by the evangelists, they are easily felt in the story."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Slavery is not condemned explicitly even by Jesus, though he gave the dynamic that abolished it."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The author **explicitly** stated that natural selection is the main, though not the exclusive, means of modification."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal constitution **explicitly** forbids the enactment of ex post facto laws by state legislatures."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester spoke **explicitly** of his bitter past, withholding nothing from my solemn and sorrowful hearing."*

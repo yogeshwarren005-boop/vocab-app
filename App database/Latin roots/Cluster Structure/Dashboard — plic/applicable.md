@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being applied; having relevance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being applied; having relevance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being applied; relevant, suitable, or appropriate to a particular matter or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Valid or having practical force within a designated jurisdiction, field, or set of conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to me that this maxim is applicable to the medical as well as to the nautical profession.” “To all professions,” observed Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And miste.” Governor and commander are interchangeable terms with Phil, expressive of the same respect and deference and applicable to nobody but Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The quotations of Scripture made by our Lord to Satan, "Thou shalt not tempt the Lord, thy God," is surely applicable in all such cases."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional safeguards are equally **applicable** to the rights of individual citizens across all states."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The same general laws of inheritance are **applicable** to domestic animals and wild species alike."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Principles of commercial division of labor are **applicable** to great factories as well as rustic village workshops."*

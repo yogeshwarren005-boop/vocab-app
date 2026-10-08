@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with logical implication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with logical implication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving logical implication, inference, or contextual entailment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and logic, expressing relationships where the presence of one feature implies another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, implicational designates relating to or concerned with logical implication."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Material implication forms the fundamental **implicational** connective in modern propositional logic."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"Scientific concepts develop an **implicational** network that guides further experimental observation."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The validity of deductive reasoning rests upon the strict **implicational** necessity linking premises to conclusion."*

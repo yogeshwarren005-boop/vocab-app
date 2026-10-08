@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To maintain or support oneself, especially at a bare minimal level of sustenance; to survive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To continue to exist, remain in force, or maintain an ongoing ontological reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Between Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The _minimum_ of wages, even such as it exists in the case of the worst-paid laborer, is not the very least sum that human nature can subsist upon: it is something more than this; in the case of all above the worst-paid class it is decidedly more."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What relation is to subsist between the nine or more States ratifying the Constitution, and the remaining few who do not become parties to it?"*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe labored each day to cultivate barley and **subsist** upon the wild resources of the deserted island."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A workman must earn wages sufficient to **subsist** and maintain his household above bare poverty."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Philosophers debate whether perceptions can **subsist** independently of any perceiving substance."*

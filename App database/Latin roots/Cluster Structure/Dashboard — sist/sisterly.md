@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of or befitting a sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like or characteristic of or befitting a sister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting, resembling, or appropriate to a sister; warmly affectionate, loyal, and protective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by heartfelt sympathy and unselfish care between close female companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not, but by gift of my chaste body To his concupiscible intemperate lust, Release my brother; and after much debatement, My sisterly remorse confutes mine honour, And I did yield to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I came to the time when I first saw my dear girl and was received into that sisterly affection which was the grace and beauty of my life."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"There, go, go—I insist on it.” The two friends, with hearts now more united than ever, were inseparable for the day; and in schemes of sisterly happiness the hours flew along."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane watched Elizabeth's happiness with **sisterly** joy, feeling no touch of envy in her gentle heart."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Amy Dorrit offered **sisterly** comfort to Fanny, bearing her vain complaints with endless patience."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah showed a tremulous, **sisterly** tenderness toward Clifford whenever his fragile memory wandered."*

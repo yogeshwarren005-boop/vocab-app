@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originate (in).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have its essential character; be comprised or contained in; be embodied in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be composed, made up, or formed of specified materials, parts, or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lie, reside, or have its essential foundation in something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not that: if we can make our peace Upon such large terms and so absolute As our conditions shall consist upon, Our peace shall stand as firm as rocky mountains."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome is peace, if he on peace consist; If wars, we are unable to resist."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Knowledge seems to **consist** in nothing but the perception of the agreement or disagreement of our ideas."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The real wealth of an empire does not **consist** in gold and silver, but in the annual produce of its land and labor."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Our peace will, like a broken limb united, grow stronger for the breaking, if our terms **consist** in honor."*

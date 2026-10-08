@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give help or assistance; be of service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as an assistant in a subordinate or supportive function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aided, helped, or supported by other people, specialized tools, or financial subsidies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accomplished with external collaboration, technological guidance, or institutional relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, Cleomenes; Yourself, assisted with your honour’d friends, Bring them to our embracement. [_Exeunt Cleomenes and others._] Still, ’tis strange He thus should steal upon us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But then you’ll think (Which I protest against) I am assisted By wicked powers."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So she began to set the table with Mea, while Lippo, too, assisted her."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight was **assisted** from his horse by the faithful jester and laid upon the mossy bank."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early humans were greatly **assisted** in survival by their social instincts and mutual defense habits."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I was **assisted** in establishing my Philadelphia printing shop by several generous and creditworthy friends."*

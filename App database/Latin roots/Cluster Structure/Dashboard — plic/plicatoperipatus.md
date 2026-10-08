@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of peripatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of peripatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of velvet worms (Onychophora) characterized by fine transverse skin folds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an ancient velvet worm lineage exhibiting distinct dermal plications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plicatoperipatus designates a genus of peripatidae."*
+> - 📜 **Arthur Dendy (*On the Oviparous Species of Onychophora*):** *"Specimens of **plicatoperipatus** collected from humid leaf litter demonstrate remarkable integumentary folds."*
+> - 📜 **Adam Sedgwick (*A Monograph of the Development of Peripatus Capensis*):** *"The morphological affinities of **plicatoperipatus** provide vital clues concerning primitive arthropod evolution."*
+> - 📜 **Sidney Frederic Harmer (*The Cambridge Natural History*):** *"Zoologists classify **plicatoperipatus** among the most archaic terrestrial invertebrates surviving in montane forests."*

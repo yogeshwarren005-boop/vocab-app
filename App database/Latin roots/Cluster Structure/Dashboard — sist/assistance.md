@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resource.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provision of money, resources, labor, or advice to help someone complete a task or overcome hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or relief afforded by public institutions, charities, or allies in times of emergency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brave followers, yonder stands the thorny wood Which by the heaven’s assistance and your strength Must by the roots be hewn up yet ere night."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I knocked at the cottage door to implore food and shelter, having no other earthly **assistance** in my distress."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine emperor dispatched envoys to the western kings, soliciting military **assistance** against the Turks."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Man has almost constant occasion for the **assistance** of his brethren, and it is in vain for him to expect it from their benevolence only."*

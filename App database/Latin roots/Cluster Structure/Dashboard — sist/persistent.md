@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never-ceasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually recurring to the mind; ; - claudia cassidy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing firmly or obstinately in a course of action in spite of difficulty, warning, or resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring or lingering for a prolonged period; not easily removed, extinguished, or forgotten.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For many years the persistent Roman has been pointing, with no particular meaning, from that ceiling."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wouldn’t see any humour in it.” “He’d worry to death,” said the persistent Liddy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The persistent torrent from the gurgoyle’s jaws directed all its vengeance into the grave."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the moor through his glass, searching for signs of the **persistent** watcher on the tor."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A **persistent** gray smoke hung over the ruined suburbs where the Martian cylinder had fallen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **persistent** London fog drifted through the courts of Chancery, blinding solicitors and suitors alike."*

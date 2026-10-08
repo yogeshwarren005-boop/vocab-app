@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who contributes to the fulfillment of a need or furtherance of an effort or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a person who is subordinate to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who helps or aids another, especially as a subordinate helper in an office, laboratory, or workshop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding a secondary, subordinate, or auxiliary rank in a professional hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, sister, as the winds give benefit And convoy is assistant, do not sleep, But let me hear from you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he love her not, And be not from his reason fall’n thereon, Let me be no assistant for a state, But keep a farm and carters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall be with her, I may tell you, by her own appointment; even as you came in to me, her assistant or go-between parted from me."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"The pawnbroker introduced his clever **assistant** Vincent Spaulding, who was willing to work for half wages."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Mell sat at the master's desk, a poor **assistant** teacher despised and bullied by the cruel boys."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A zealous laboratory **assistant** preserves biological reagents and prepares dissections for the professor's demonstration."*

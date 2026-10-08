@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trusted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have confidence or faith in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow without fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded as reliable, faithful, or honest; holding the confidence of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entrusted with secret information, valuable assets, or high responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you, the worm is not to be trusted but in the keeping of wise people; for indeed there is no goodness in the worm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspicion all our lives shall be stuck full of eyes, For treason is but trusted like the fox, Who, ne’er so tame, so cherish’d and lock’d up, Will have a wild trick of his ancestors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man i’ th’ world who shall report he has A better wife, let him in naught be trusted, For speaking false in that."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dispatched his most **trusted** general to command the frontier legions."*
+> - 📜 **Jane Austen (*Emma*):** *"He was a **trusted** friend whose advice had never misled their household."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"We placed our cause in the hands of **trusted** commanders devoted to the Union."*

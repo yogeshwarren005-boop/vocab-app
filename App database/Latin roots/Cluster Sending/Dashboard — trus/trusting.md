@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trusting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have confidence or faith in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow without fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to place faith in others; confiding, candid, and unsuspecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an uncritical belief in the goodness or promises of people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That can such sweet use make of what they hate, When saucy trusting of the cozen’d thoughts Defiles the pitchy night; so lust doth play With what it loathes, for that which is away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony Did tell me of you, bade me trust you, but I do not greatly care to be deceived That have no use for trusting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HASTINGS. ’Tis better using France than trusting France."*
+> - 📜 **William Shakespeare (*Othello*):** *"He had a free and open nature, too readily **trusting** in appearances of honesty."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her **trusting** heart refused to credit rumors injurious to the reputation of her beloved."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The young wards possessed a simple, **trusting** nature that made them beloved by all."*

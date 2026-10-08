@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # derived
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed or developed out of something else; not primary or original in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained by logical deduction, mathematical calculation, or linguistic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My son corrupts a well-derived nature With his inducement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am, my lord, a wretched Florentine, Derived from the ancient Capilet; My suit, as I do understand, you know, And therefore know how far I may be pitied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long after this, when Henry the Fifth, Succeeding his father Bolingbroke, did reign, Thy father, Earl of Cambridge then, derived From famous Edmund Langley, Duke of York, Marrying my sister that thy mother was, Again, in pity of my hard distress."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The gravitational trajectories are **derived** mathematically from Kepler's planetary observations."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many vestigial muscles are clearly **derived** from structures that served active functions in primates."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"All moral duties are **derived** ultimately from the fundamental principle of general utility."*

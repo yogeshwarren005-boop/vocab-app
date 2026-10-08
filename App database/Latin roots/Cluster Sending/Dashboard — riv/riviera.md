@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riviera
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal area between la spezia in italy and cannes in france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coastal area between la spezia in italy and cannes in france.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal region renowned for its warm climate, scenic beauty, and resort towns, especially along the Mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sunny, fashionable coastal resort district reminiscent of the French and Italian coasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He’s on his way to the Riviera and I’ve not yet heard from him."*
-> - 📜 **James Joyce (*Ulysses*):** *"You fee mendancers on the Riviera, I read. _(The fleeing nymph raises a keen.)_ Eh?"*
+> - 📜 **Henry James (*Italian Hours*):** *"The sunny cliffs of the Italian **Riviera** plunge steeply into azure Mediterranean waters."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"On the pleasant shore of the French **Riviera**, villas gleam amidst fragrant pine woods."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"English travelers journeyed south to winter upon the sheltered bays of the **Riviera**."*

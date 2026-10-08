@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riveting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's attention on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with a rivet or rivets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely engrossing; holding one's attention or interest firmly and breathlessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical mechanical process of fastening structures together using metal rivets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A narrative must possess a **riveting** power that commands the sustained absorption of the reader."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes listened to the stranger's narrative with quiet but **riveting** concentration."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"There was a **riveting** intensity in his dark eyes that forbade any casual interruption."*

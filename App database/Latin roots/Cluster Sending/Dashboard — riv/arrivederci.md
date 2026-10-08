@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # arrivederci
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell remark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A farewell remark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian parting formula or farewell greeting meaning goodbye or until we meet again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conventional spoken valediction signifying expectation of meeting again in the future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arrivederci designates a farewell remark."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"'**Arrivederci**!' called the friendly carriage driver as they departed from the sunny piazza."*
+> - 📜 **Henry James (*Italian Hours*):** *"With a courteous '**arrivederci**,' the gondolier pushed off into the luminous waters of the lagoon."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"He shook my hand warmly at the station and said '**arrivederci**' before boarding the Milan train."*

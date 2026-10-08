@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivetter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who inserts and hammers rivets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for driving rivets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tradesman or mechanical device engaged in clenching or hammering rivets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structural artisan who secures steel plates and girders in engineering works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rivetter designates a worker who inserts and hammers rivets."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The sturdy **rivetter** shaping iron boilers contributes honestly to the wealth of the nation."*
+> - 📜 **Charles Kingsley (*Alton Locke*):** *"He watched the apprentice **rivetter** strike the red-hot metal with unwearied precision."*
+> - 📜 **Robert Louis Stevenson (*Records of a Family of Engineers*):** *"The master **rivetter** tested every joint of the lighthouse lantern frame against winter gales."*

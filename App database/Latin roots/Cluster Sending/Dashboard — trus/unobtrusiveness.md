@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unobtrusiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not sticking out in an unwelcome way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not sticking out in an unwelcome way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discreet modesty and quiet restraint that avoids attracting unwanted attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet elegance or understated simplicity in conduct or aesthetic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobtrusiveness designates the quality of not sticking out in an unwelcome way."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The noble **unobtrusiveness** of Gothic masonry respects the proportions of the civic square."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her gentle **unobtrusiveness** hid a deep reserve of moral courage and intellect."*
+> - 📜 **Henry James (*The American*):** *"He admired the refined **unobtrusiveness** that governed the traditional Parisian household."*

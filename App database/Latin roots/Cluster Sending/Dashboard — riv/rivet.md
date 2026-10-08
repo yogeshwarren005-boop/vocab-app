@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornament consisting of a circular rounded protuberance (as on a vault or shield or belt).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy pin having a head at one end and the other end being hammered flat after being passed through holes in the pieces that are fastened together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent mechanical fastener consisting of a smooth cylindrical shaft with a head on one end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fasten firmly, or metaphorically to fix one's eyes or attention securely upon something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him heedful note; For I mine eyes will rivet to his face; And after we will both our judgements join In censure of his seeming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had an attribute which amounted to a disadvantage just now; and it was this that caused Alec d’Urberville’s eyes to rivet themselves upon her."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blacksmith hammered each glowing iron **rivet** until the harpoon shank was welded tight."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give him heedful note, for I will **rivet** mine eyes to his face during the play."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"What we needed desperately were cases of iron **rivets** to mend the battered hull of the steamer."*

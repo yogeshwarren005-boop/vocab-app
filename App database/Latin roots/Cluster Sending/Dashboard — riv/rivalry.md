@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivalry
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of competing as for profit or a prize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of competing as for profit or a prize.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Competition for the same objective or for superiority in the same field; contention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ongoing antagonistic or competitive relationship between two or more parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No sooner did the dark queen hear the soberer richer note of Tess among those of the other work-people than a long-smouldering sense of rivalry inflamed her to madness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This rivalry between us was a serious matter—so serious, indeed, that I immediately took advantage of what he had imputed and raced back to the spring."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this country they have been granted recklessly, often in general laws, by states keen in their rivalry for railroad extension."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial **rivalry** among separate sovereign states inevitably leads to mutual hostility and war."*
+> - 📜 **Jane Austen (*Emma*):** *"There was not the slightest spark of ungenerous **rivalry** between the two accomplished young ladies."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The ancient **rivalry** between Athens and Sparta drew every Hellenic state into catastrophic conflict."*

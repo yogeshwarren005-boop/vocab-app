@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobs
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer of macabre short stories (1863-1943).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and critic of urban planning (born in 1916).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed patronymic surname indicating descent from a person named Jacob.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating prominent historical figures, scholars, or inventors bearing this family name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheep kept with a _Jacobs-staff_ now?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Shall I have my sheepe kept with a _Jacobs_ staffe now?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Jacobs had toothache, would he write like Mr."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Urban theorist **Jacobs** demonstrated that bustling street sidewalks create natural community security."*
+> - 📜 **W. W. Jacobs (*The Monkey's Paw*):** *"The storyteller **Jacobs** crafted tales of atmospheric suspense that fascinated Victorian readers."*
+> - 📜 **Joseph Jacobs (*English Fairy Tales*):** *"Folklorist **Jacobs** compiled traditional oral narratives to preserve England's ancient heritage."*

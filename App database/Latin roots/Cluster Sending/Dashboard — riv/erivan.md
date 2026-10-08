@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # erivan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of armenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of armenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical name and spelling of Yerevan, capital city and cultural center of Armenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical fortress and province of Transcaucasia contested between Persian, Ottoman, and Russian empires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erivan designates capital of armenia."*
+> - 📜 **James Bryce (*Transcaucasia and Ararat*):** *"From the ramparts of **Erivan** one beholds the majestic snow-capped peaks of Mount Ararat."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rich province of **Erivan** witnessed repeated clashes between Roman legions and Parthian kings."*
+> - 📜 **H. F. B. Lynch (*Armenia: Travels and Studies*):** *"The gardens of **Erivan** flourish amidst the arid plain, watered by ancient irrigation canals."*

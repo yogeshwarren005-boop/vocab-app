@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # derivational
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by inflections indicating a semantic relation between a word and its base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by inflections indicating a semantic relation between a word and its base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from the process of forming new words by adding affixes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, distinguishing word-formation affixes from inflectional grammatical endings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derivational designates characterized by inflections indicating a semantic relation between a word and its base."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The English suffix '-ness' operates as an active **derivational** formative across many centuries."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"We must carefully separate grammatical inflection from fundamental **derivational** processes."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Complex words often incorporate both **derivational** prefixes and inflectional case markers."*

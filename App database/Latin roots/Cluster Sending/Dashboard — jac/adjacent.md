@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # adjacent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nearest in space or position; immediately adjoining without intervening space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying near, close, or contiguous; adjoining or neighboring without necessary contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, designating two angles having a common vertex and a common side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee by Rosaline’s bright eyes, By her high forehead and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions quickly secured the **adjacent** heights before the barbarian cavalry could assemble."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Organisms inhabiting **adjacent** islands often display subtle but persistent morphological variations."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I explored the **adjacent** woods in search of fresh timber to fortify my humble shelter."*

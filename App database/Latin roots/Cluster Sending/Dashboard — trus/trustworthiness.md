@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustworthiness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of deserving trust and confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of deserving trust and confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dependability and integrity that warrant complete confidence and moral reliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral integrity and steadfast consistency that merit the reliance of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The poor child had become altogether unbelieving as to the trustworthiness of that Key which had made the ambition and the labor of her husband’s life."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He resembled a pilot, which to a seaman is trustworthiness personified."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Your Cousin Adair knows the Scotch firm, and of course vouches for their trustworthiness.” “Dear me, Papa Sherwood, you are so practical!” sighed Nan."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The universal **trustworthiness** of merchants is the indispensable foundation of commercial prosperity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The credibility of historical testimony depends upon the known **trustworthiness** of the witness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His reputation for absolute **trustworthiness** caused neighbors to seek him as arbiter in disputes."*

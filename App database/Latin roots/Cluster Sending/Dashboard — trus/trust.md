@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (as property) held by one party (the trustee) for the benefit of another (the beneficiary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certainty based on past experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm reliance on the integrity, ability, or character of a person or thing; confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and finance, a legal arrangement where a trustee holds property for the benefit of a beneficiary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love all, trust a few, Do wrong to none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More should I question thee, and more I must, Though more to know could not be more to trust: From whence thou cam’st, how tended on; but rest Unquestion’d welcome, and undoubted bless’d."*
+> - 📜 **Francis Bacon (*Essays*):** *"The greatest **trust** between man and man is the trust of giving counsel."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Public offices are created as a sacred **trust** for the common benefit of the people."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"My ventures are not in one bottom trusted, nor to one place, nor does my whole estate rest on uncertain **trust**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustee
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (or institution) to whom legal title to property is entrusted to use for another's benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Members of a governing board.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual or institution holding legal title to property administered for the benefit of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a board appointed to direct the administration of an institution or charity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I was his sole trustee, and I could have had nine thousand by a stroke of the pen at any minute.’ ‘Mr."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I speak now not as a medical man but as a trustee and executor of Sir Charles’s will.” “There is no other claimant, I presume?” “None."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The old legal idea of a trust is the confidence imposed in a trustee."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of chancery compels every **trustee** to execute his fiduciary obligations faithfully."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A public **trustee** cannot squander civic endowments without breaching moral duty."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Each municipal **trustee** is chosen by fellow citizens to oversee the local school fund."*

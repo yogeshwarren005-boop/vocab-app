@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # deriving
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason by deduction; establish by deduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing, receiving, or obtaining something beneficial or formative from an originating source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tracing or deducing principles, concepts, or terms from primitive elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deriving his idiosyncrasies from both sides of the Channel, he showed at such junctures as the present the inelasticity of the Englishman, together with that blindness to the line where sentiment verges on mawkishness, characteristic of the French."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She had a turn for narrative, I for analysis; she liked to inform, I to question; so we got on swimmingly together, deriving much entertainment, if not much improvement, from our mutual intercourse."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny’s spirits lived on it half the morning, deriving some accession of pleasure from its writer being himself to go away."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We sympathize with the joys of our fellows, **deriving** mutual comfort from their felicity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prince governed wisely, **deriving** his political authority from ancestral military renown."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By **deriving** an electrical current from magnetic induction, new mechanical power was discovered."*

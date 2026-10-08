@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustworthy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of trust or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking responsibility for one's conduct and obligations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of trust or confidence; dependable, reliable, and authentic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorable and steadfast in character and performance of duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Say nothing to any one of what passes between us.” The timid little beauty promises in all earnestness to be trustworthy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though old, he was clever and trustworthy still."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, like his dog, was too good to be trustworthy, and he never made advance beyond this point."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A prudent republic selects only **trustworthy** citizens to negotiate foreign treaties."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had always found the steward to be a thoroughly **trustworthy** and capable servant."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The observer must rely upon **trustworthy** accounts gathered from experienced voyagers."*

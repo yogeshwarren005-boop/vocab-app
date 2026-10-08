@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobi
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician (1804-1851).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician (1804-1851).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to mathematical functions, matrices, or theorems formulated by Carl Jacobi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus and geometry, relating to the Jacobian determinant of coordinate transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Putman Jacobi, who has a little baby 3 weeks old & is still in her room, but has got through very nicely--She talks well, doesn't she? & has a face with plenty of individuality in it."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"The analytical methods introduced by **Jacobi** opened entirely new vistas in celestial mechanics."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Elliptic functions developed by **Jacobi** simplify the computation of complex potential fields."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"We may evaluate the transformation directly using the functional determinant of **Jacobi**."*

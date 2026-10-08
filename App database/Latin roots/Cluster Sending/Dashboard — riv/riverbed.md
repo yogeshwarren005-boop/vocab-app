@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riverbed
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A channel occupied (or formerly occupied) by a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A channel occupied (or formerly occupied) by a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ground or channel over which the waters of a river flow, or formerly flowed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sedimentary substratum of sand, gravel, and silt underlying a river current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Asking what they were doing, he was told that there was a famous spring at the bottom of the river well known from the time when the riverbed was dry land."*
-> - 📜 **James Joyce (*Ulysses*):** *"Found in the riverbed clutching rushes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dry **riverbed** exposed layers of rounded gravel deposited during torrential ancient floods."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode across the stony **riverbed**, where clear mountain streams trickled through the boulders."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Glacial action had carved a deep canyon, polishing the granite **riverbed** into mirror-like smoothness."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonadjacent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjacent; not next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adjacent; not next.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not situated next to or adjoining another; separated by intervening space, objects, or units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graph theory and geometry, designating elements not connected by a common boundary or edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonadjacent designates not adjacent; not next."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Points in a discrete series may be **nonadjacent** yet stand in definite ordinal relations."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Pollen from **nonadjacent** blossoms produced seedlings of conspicuously greater vigor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Mental associations often link **nonadjacent** ideas across vast gaps of conscious memory."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustiness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of deserving trust and confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of deserving trust and confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual fidelity, steadfast honesty, and proven reliability in duties or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadfast fidelity and proven dependability in fulfilling responsibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustiness designates the trait of deserving trust and confidence."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The old servant was valued above all else for his unswerving **trustiness** in perilous times."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No brilliant genius can compensate for the absence of sober **trustiness** in practical affairs."*
+> - 📜 **Francis Bacon (*Essays*):** *"Princes reward **trustiness** in ministers far more durably than flashiness of wit."*

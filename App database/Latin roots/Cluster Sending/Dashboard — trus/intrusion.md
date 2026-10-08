@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intrusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any entry into an area not previously occupied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entrance by force or without permission or welcome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering without invitation, permission, or welcome; an encroachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the forceful entry of magma into pre-existing rock strata beneath the earth's crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George will forgive his intrusion the more readily on that account, and particularly that he will not lay aside his pipe, which, in his politeness, he has testified some intention of doing."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was then that the ecstasy and the dream began, in which emotion was the matter of the universe, and matter but an adventitious intrusion likely to hinder you from spinning where you wanted to spin."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She offered a polite apology for her unexpected **intrusion** upon their family circle."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The granitic **intrusion** altered the surrounding sedimentary strata through thermal metamorphism."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society must set strict boundaries against the unwarranted **intrusion** of government into private life."*

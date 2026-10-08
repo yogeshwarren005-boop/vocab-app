@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustingness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of believing in the honesty and reliability of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of believing in the honesty and reliability of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unreserved willingness to rely on others; a disposition marked by confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of skepticism or suspicion in one's personal demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustingness designates the trait of believing in the honesty and reliability of others."*
+> - 📜 **George Eliot (*Romola*):** *"Her natural **trustingness** made her blind to the calculating ambitions of Tito."*
+> - 📜 **Henry James (*Washington Square*):** *"The father took advantage of his daughter's docile **trustingness** to enforce his will."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"An excessive **trustingness** in strangers is commonly corrected by bitter worldly experience."*

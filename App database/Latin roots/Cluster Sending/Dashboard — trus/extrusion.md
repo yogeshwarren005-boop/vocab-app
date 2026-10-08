@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extrusion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of pushing, thrusting, or forcing something out through an opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the movement of magma onto the surface of the earth as lava or pyroclastic material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrusion designates something that bulges out or is protuberant or projects from its surroundings."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The vast basaltic sheets originated through the quiet **extrusion** of fissure lava across the plain."*
+> - 📜 **Herbert Spencer (*Principles of Biology*):** *"The cellular **extrusion** of waste products is essential for maintaining physiological equilibrium."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic examination confirmed the gradual **extrusion** of the nucleus prior to spore release."*

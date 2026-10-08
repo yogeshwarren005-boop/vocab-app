@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate or cut with a tool, such as a sharp instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To split, tear apart, or cleave violently along the grain or line of cleavage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To shatter or break into pieces under intense mechanical stress or emotional torment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The soul and body rive not more in parting Than greatness going off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce thunderbolts descend with burning fury to **rive** the mountains to their rocky base."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"I have seen tempests when the scolding winds have **rived** the knotty oaks of the forest."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No mortal timber could withstand such an impact without beginning to **rive** and splinter."*

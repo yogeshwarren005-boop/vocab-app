@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # untrusting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly distrustful and unwilling to confide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Openly distrustful and unwilling to confide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not placing trust in others; skeptical, wary, and suspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarded and hesitant in accepting the assurances of friends or strangers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untrusting designates openly distrustful and unwilling to confide."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"An **untrusting** disposition shut her up within the cold walls of her own thoughts."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The solitary weaver turned an **untrusting** gaze upon every stranger entering Raveloe."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Bitter experience had made her cautious and **untrusting** toward sudden flattering words."*

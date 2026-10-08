@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivulet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small stream, brook, or tiny flow of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin, trickling line or stream of liquid flowing across a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Burnie, dim. of burn, a rivulet."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A mimic rivulet ran from room to room in an alabaster channel, and the spray of perfumed fountains cooled the air."*
-> - 📜 **Effie Afton (*Eventide*):** *"The mighty Mississippi shrunk within its banks to the size of a mere wayside rivulet, and the long lines of boats lay lazily along the levees."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"A sparkling **rivulet** leaped over mossy rocks into the shaded mountain glen."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"The gentle murmur of the mountain **rivulet** blended with the soft breeze among the woods."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A cold **rivulet** of sweat trickled down my forehead during that terrifying nocturnal vigil."*

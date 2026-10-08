@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivina
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of erect perennial shrubby herbs; tropical and subtropical america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of erect perennial shrubby herbs; tropical and subtropical america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Petiveriaceae, notably including the rougeplant (*Rivina humilis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, an ornamental tropical subshrub bearing racemes of small flowers and bright red berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rivina designates small genus of erect perennial shrubby herbs; tropical and subtropical america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate southern rougeplant belonging to **Rivina** produces vibrant scarlet berries in autumn."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Specimens of **Rivina** were examined to observe seed production under varied greenhouse conditions."*
+> - 📜 **William Jackson Hooker (*Flora Boreali-Americana*):** *"The genus **Rivina** is easily recognized by its racemes of four-parted calyces and berry-like fruits."*

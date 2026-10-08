@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jactation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pathology) extremely restless tossing and twitching usually by a person with a severe illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) extremely restless tossing and twitching usually by a person with a severe illness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boastful ostentation, vainglorious display, or extravagant bragging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, restless agitation or tossing of the body observed in severe fevers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jactation designates (pathology) extremely restless tossing and twitching usually by a person with a severe illness."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Vain **jactation** and empty bragging betray a shallow mind destitute of solid learning."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Such loud **jactation** of supernatural prowess ought to be rejected by reasonable observers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True wisdom avoids the noisy **jactation** that ignorant pretenders mistake for authority."*

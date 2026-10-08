@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riverside
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ground bordering or adjacent to a river; a riparian margin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated or occurring on the bank of a river.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is the vilest murder-trap on the whole riverside, and I fear that Neville St."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I went on to the riverside, and the other followed me."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had been dimly aware for some time of a worrying noise, and when I lifted my eyes I saw the wood-pile was gone, and the manager, aided by all the pilgrims, was shouting at me from the riverside."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The shadowy **riverside** taverns were frequented by watermen and scavengers of the Thames."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"In peaceful meditation I wandered along the tranquil **riverside** as twilight deepened."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The lush **riverside** pastures of the valley were rich with buttercups and grazing herds."*

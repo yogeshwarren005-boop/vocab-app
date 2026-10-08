@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unrivalled
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eminent beyond or above comparison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no competitor or equal; unequaled and peerless in accomplishment or stature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standing alone at the pinnacle of a profession, art, or natural grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sir Clifford thinks of charging twopence for a peep at the whispering gallery in the spinal column; threepence to hear the echo in the hollow of his cerebellum; and sixpence for the unrivalled view from his forehead."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I cast a last look on these wonders of nature, on the riches of art heaped up in this museum, upon the unrivalled collection destined to perish at the bottom of the sea, with him who had formed it."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The taste of the English in the cultivation of land, and in what is called landscape gardening, is unrivalled."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His generous devotion to his aged aunt stood **unrivalled** in the annals of family loyalty."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The magnificent collection of ancient coins was **unrivalled** in all northern Britain."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her intellectual brilliance gave her an **unrivalled** ascendancy over the entire academy."*

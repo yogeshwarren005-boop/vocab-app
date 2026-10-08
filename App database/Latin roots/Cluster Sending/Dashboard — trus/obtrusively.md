@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # obtrusively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obtrusive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obtrusive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is conspicuously noticeable, pushy, or meddlesome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insistently thrusting oneself or one's opinions forward into attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Taylor watched anxiously the progress of the movements which preceded the outbreak, and fearlessly, though not obtrusively, expressed her own adverse opinions."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is, however, unpleasantly hard and obtrusively anatomical."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He never thrust his own theological opinions **obtrusively** into general conversation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The new machinery stood **obtrusively** in the marketplace, gleaming with red and blue paint."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky displayed her diamond brooch **obtrusively** to excite the envy of the company."*

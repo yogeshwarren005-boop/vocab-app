@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivalrous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eager to surpass others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eager to surpass others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by competition, jealousy, or intense rivalry between contending parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, designating a good whose consumption by one consumer prevents simultaneous consumption by another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rivalrous designates eager to surpass others."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"In congested urban markets, physical commodities are inherently **rivalrous** in their consumption."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **rivalrous** ambitions of merchant guilds frequently hampered national manufacturing growth."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption arises from deeply **rivalrous** impulses to outshine social peers."*

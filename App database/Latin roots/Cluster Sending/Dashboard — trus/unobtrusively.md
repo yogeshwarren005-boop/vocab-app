@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unobtrusively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unobtrusive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unobtrusive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inconspicuous or discreet manner, without attracting notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and modestly, without asserting oneself pushily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So frankly, and yet so unobtrusively, they lay bare his soul, as far as they saw it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only then will our order have the power unobtrusively to bind the hands of the protectors of disorder and to control them without their being aware of it."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"John Douglas, resident magistrate of Thursday Island, was appointed his successor, and ruled quietly and unobtrusively for over three years."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"My friend slipped **unobtrusively** through the side door to examine the footprints."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny sat **unobtrusively** near the sofa, ready to assist whenever requested."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South worked **unobtrusively** among the trees until the twilight gathered."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobinism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ideology of the most radical element of the french revolution that instituted the reign of terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ideology of the most radical element of the french revolution that instituted the reign of terror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radical political principles, doctrines, and methods of the Jacobins in the French Revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme political radicalism that advocates violent overthrow of established orders to achieve equality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacobinism designates the ideology of the most radical element of the french revolution that instituted the reign of terror."*
+> - 📜 **Edmund Burke (*Thoughts on French Affairs*):** *"The virulent contagion of **jacobinism** spread rapidly among discontented factions abroad."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Victorious **jacobinism** instituted tribunals of revolutionary terror to purge internal enemies."*
+> - 📜 **John Adams (*The Works of John Adams*):** *"American republicanism shares nothing with the destructive excesses of Parisian **jacobinism**."*

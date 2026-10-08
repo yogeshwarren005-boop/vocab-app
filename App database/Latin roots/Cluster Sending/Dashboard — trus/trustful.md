@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustful
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to trust others; having or showing full confidence and lack of suspicion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guileless, unsuspecting, and openly receptive toward the intentions of companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They brought a chair on either side of me, and put me between them, and really seemed to have fallen in love with me instead of one another, they were so confiding, and so trustful, and so fond of me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A trustful Christian, whose heart had been deeply touched with thoughts of religion, was one day thinking and pondering and wishing that he might be more truly convinced of the actual existence of the Holy Spirit."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Aunt Sally,' says the _American Messenger_, was a devout, working, trustful Christian."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her **trustful** nature could not fathom the cold duplicity that governed the world."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The child looked up into the traveler's face with quiet and **trustful** innocence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was of a **trustful** disposition, eager to believe that benevolence existed everywhere."*

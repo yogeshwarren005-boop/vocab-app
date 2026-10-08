@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protruding
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend out or project in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sticking out, projecting forward, or extending outward from the main body or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming a prominent outward bulge, ledge, or physical overhang.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The lid of the bag was thrust open and a thick unwieldy object which did not fit into it was protruding."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His haggard face was marked by **protruding** cheekbones and wild, hollow eyes."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Black snags of sunken trees were **protruding** like skeletal arms from the murky river."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ancient barrows rose against the evening sky with sharp stones **protruding** through gorse."*

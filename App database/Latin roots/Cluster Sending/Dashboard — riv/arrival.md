@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # arrival
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplishment of an objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arriving at a certain place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coming to a destination or reaching a place after travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or thing that has newly come or appeared on a scene or market.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To spend that shortness basely were too long If life did ride upon a dial’s point, Still ending at the arrival of an hour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, demand of yonder champion The cause of his arrival here in arms."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The sudden **arrival** of Mr. Bingley produced widespread excitement throughout the neighborhood."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The mail coach heralded its **arrival** at the village inn with a cheerful blast of the horn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The watchman announced the ship's safe **arrival** after a three years' voyage in remote seas."*

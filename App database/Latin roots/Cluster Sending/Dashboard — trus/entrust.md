@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # entrust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into the care or protection of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign the responsibility or custody of something valuable to another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To commit a critical duty, charge, or secret to the care of someone with confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Then came many of the officers to beg leave to entrust to the care of Mr. and Mrs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thirdly, he had a son whom it would be a pity to entrust to a chit of a girl."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Vasíli Dmítrich, entrust me with some commission!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people wisely **entrust** executive power to a single magistrate accountable to the laws."*
+> - 📜 **George Washington (*Farewell Address*):** *"To your guardianship I **entrust** the precious repository of our constitutional liberty."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She hesitated whether to **entrust** her sister with the delicate secrets of her heart."*

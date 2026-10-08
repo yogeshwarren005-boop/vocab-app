@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # superjacent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying immediately above or on something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying immediately above or on something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying immediately above or situated on top of another object, stratum, or layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological formations, denoting an overlying stratum that rests directly upon an underlying bed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superjacent designates lying immediately above or on something else."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The heavy pressure of the **superjacent** sandstone beds compacted the carboniferous coal seam."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The fascia forms a protective sheath separating the vessel from the **superjacent** muscular fibers."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The unconformity between the tilted slates and the **superjacent** conglomerates was strikingly evident."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobinic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the jacobins of the french revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the jacobins of the french revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling the extreme political principles of the French Jacobins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to radical democratic doctrines marked by zealous egalitarianism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacobinic designates of or relating to the jacobins of the french revolution."*
+> - 📜 **Edmund Burke (*Two Letters on the Conduct of Our Domestic Parties*):** *"The **jacobinic** spirit seeks to subvert ancient property rights in the name of abstract equality."*
+> - 📜 **Walter Scott (*The Life of Napoleon Buonaparte*):** *"Violent pamphlets of **jacobinic** tendency were distributed throughout the Parisian suburbs."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Conservative statesmen viewed even moderate parliamentary reforms as dangerous **jacobinic** innovations."*

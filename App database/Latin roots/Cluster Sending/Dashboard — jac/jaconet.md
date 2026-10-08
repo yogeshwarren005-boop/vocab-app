@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jaconet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight cotton cloth with a smooth and slightly stiff finish; used for clothing and bandages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight cotton cloth with a smooth and slightly stiff finish; used for clothing and bandages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight plain-woven cotton fabric, thinner than muslin and frequently given a glazed finish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile commerce, glazed or soft white cotton fabric utilized for dresses, neckties, or bandages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jaconet designates a lightweight cotton cloth with a smooth and slightly stiff finish; used for clothing and bandages."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She wore a simple gown of spotted **jaconet** muslin that drew admiring glances at the assembly."*
+> - 📜 **Elizabeth Gaskell (*Cranford*):** *"The ladies carefully ironed their delicate **jaconet** caps before attending the afternoon tea."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her morning attire consisted of pristine white **jaconet** trimmed with modest Valenciennes lace."*

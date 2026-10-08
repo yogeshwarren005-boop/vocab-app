@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # obtrusiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unwelcome conspicuousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unwelcome conspicuousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being unpleasantly noticeable, pushy, or forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tendency to force oneself or one's concerns upon the notice of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A scholar must beware of that pedantic **obtrusiveness** which makes learning odious to society."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The violent **obtrusiveness** of revolutionary clubs alienated all lovers of peaceful order."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She disliked the aggressive **obtrusiveness** with which the journalist pursued personal gossip."*

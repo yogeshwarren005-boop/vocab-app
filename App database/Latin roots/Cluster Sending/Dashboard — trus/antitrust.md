@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # antitrust
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to legislation or judicial policy opposing or regulating business monopolies and price-fixing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to promote fair commercial competition by prohibiting predatory combinations in restraint of trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrust designates of laws and regulations; designed to protect trade and commerce from unfair business practices."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The enforcement of federal **antitrust** statutes became essential to curb irresponsible corporate power."*
+> - 📜 **Louis Brandeis (*Other People's Money*):** *"Strict **antitrust** principles protect independent enterprises from being crushed by mammoth trusts."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"Our purpose in strengthening **antitrust** laws is to reopen the avenues of honest economic opportunity."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jactitate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or stir about violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or stir about violently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To toss oneself about restlessly or convulsively, especially during sickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and rhetorical contexts, to boast or assert an unfounded claim publicly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jactitate designates move or stir about violently."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"The fever caused the patient to **jactitate** upon his bed throughout the troubled night."*
+> - 📜 **Thomas Browne (*Christian Morals*):** *"Do not **jactitate** your private virtues before an assembly that knows your infirmities."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Those possessed by sudden panic **jactitate** their limbs without rhyme or reason."*

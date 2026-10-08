@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # arriver
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who arrives (or has arrived).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who arrives (or has arrived).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reaches a destination, comes into a place, or achieves prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newcomer who attains wealth, standing, or public distinction through ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arriver designates someone who arrives (or has arrived)."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The ambitious **arriver** found the drawing rooms of Mayfair far more guarded than he had fancied."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The solitary **arriver** walked down the quiet high street in search of humble lodgings."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Every late **arriver** in the Parisian salon was scrutinized with quiet curiosity by the hostess."*

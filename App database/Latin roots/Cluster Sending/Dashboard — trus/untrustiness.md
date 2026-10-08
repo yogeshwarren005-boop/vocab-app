@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # untrustiness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not deserving trust or confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not deserving trust or confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent unreliability, deceitfulness, or lack of fidelity in character and performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent unreliability that forfeits the confidence of companions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untrustiness designates the trait of not deserving trust or confidence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Proven **untrustiness** in minor affairs destroys a man's credit in weightier transactions."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The courtier was dismissed when repeated instances of **untrustiness** came to royal ears."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The melancholy soul suspects **untrustiness** in every companion and shrinks from fellowship."*

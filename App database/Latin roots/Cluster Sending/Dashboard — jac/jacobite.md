@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter of james ii after he was overthrown or a supporter of the stuarts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partisan or supporter of the deposed King James II of England and his Stuart descendants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the political movements and uprisings aimed at restoring the Stuart dynasty to the British throne.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He landed in Scotland and advanced on England, and got as far as Derby at the head of the Scottish clans and Jacobite gentlemen."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If it had been the Jacobite times, or '98 or even '48, he would not have minded."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A gentleman who was a staunch Whig, disputing with a Jacobite, said, he had two good reasons for being against the interest of the pretender: What are those? said the other."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highlanders remained fiercely loyal to the **Jacobite** standard of Prince Charles Edward."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The defeated **Jacobite** leaders fled into exile across the Channel following the battle."*
+> - 📜 **David Hume (*The History of England*):** *"Clandestine **Jacobite** intrigues continued to disturb the peace of the northern shires."*

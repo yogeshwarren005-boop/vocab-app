@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extrude
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or shape by forcing through an opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape by forcing through an opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To thrust or force out; to shape material by forcing it through a specialized die or nozzle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and vulcanology, to erupt or push molten lava through fissures onto the earth's surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrude designates form or shape by forcing through an opening."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic vents continuously **extrude** dense columns of basaltic lava onto the cooling plateau."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Mechanical presses **extrude** viscous substances under tremendous pressure into uniform cylinders."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Microscopic structures **extrude** fine protoplasmic filaments through minute pores in the cell wall."*

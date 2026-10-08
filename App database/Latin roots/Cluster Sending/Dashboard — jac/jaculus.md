@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jaculus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jerboas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jerboas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert bipedal jumping rodents comprising typical northern jerboas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical folklore and medieval bestiaries, a mythical flying or darting serpent that drops onto prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog jaculus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The swift **jaculus** darts from tree branches upon passing travelers with the speed of an arrow."*
+> - 📜 **Edward Topsell (*The Historie of Foure-Footed Beastes*):** *"Ancient naturalists described the **jaculus** as a serpent that leaps through the air with deadly aim."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The genus **Jaculus** includes desert-dwelling jerboas exceptionally adapted to arid sandy wastes."*

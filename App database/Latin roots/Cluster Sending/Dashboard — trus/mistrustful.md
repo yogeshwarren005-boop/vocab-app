@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistrustful
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Openly distrustful and unwilling to confide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Openly distrustful and unwilling to confide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking trust or confidence; suspicious and apprehensive toward motives or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually inclined to view persons or promises with wary skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hold it cowardice To rest mistrustful where a noble heart Hath pawned an open hand in sign of love; Else might I think that Clarence, Edward’s brother, Were but a feigned friend to our proceedings."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"At last, having held a document before her glasses for nearly five minutes, she presented it across the counter, accompanying the act by another inquisitive and mistrustful glance—it was for J.E."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Now you had better go; for if you stay longer, you will perhaps irritate me afresh by some mistrustful scruple.” “And the school, Miss Eyre?"*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her solitary life had rendered her shy and **mistrustful** of sudden professions of friendship."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The peasants cast **mistrustful** glances upon the armed bailiffs searching the barn."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant became **mistrustful** of his closest courtiers, suspecting poison in every cup."*

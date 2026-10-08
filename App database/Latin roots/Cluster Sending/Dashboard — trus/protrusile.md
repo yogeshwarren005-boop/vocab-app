@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protrusile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust forward, as the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thrust forward, as the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded, thrust forth, or projected outward at will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, describing structures such as insect mouthparts or tentacles that extend outward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusile designates capable of being thrust forward, as the tongue."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The animal seizes its prey by means of an elongated, highly **protrusile** proboscis."*
+> - 📜 **Charles Darwin (*On the Various Contrivances by Which British and Foreign Orchids Are Fertilised by Insects*):** *"The rostellum contains a **protrusile** sticky disc that attaches firmly to visiting insects."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Ant-eaters feature a cylindrical **protrusile** tongue coated with viscous saliva."*

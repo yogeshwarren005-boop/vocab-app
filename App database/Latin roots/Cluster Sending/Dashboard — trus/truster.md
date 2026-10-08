@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # truster
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter who accepts something as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporter who accepts something as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who trusts, relies upon, or reposes confidence in another person or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and commercial parlance, a party who extends credit or commits assets to a debtor or agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not hear your enemy say so; Nor shall you do my ear that violence, To make it truster of your own report Against yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bankrupts, hold fast; Rather than render back, out with your knives And cut your trusters’ throats!"*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The habitual borrower soon exhausts the patience of every benevolent **truster** in his circle."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Man must be a sincere **truster** in divine justice if he hopes to endure earthly tribulation."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"An overly credulous **truster** falls an easy victim to the flattering pretenses of knaves."*

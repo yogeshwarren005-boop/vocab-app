@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # underivative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derivative or imitative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derivative or imitative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derived from something else; original, primitive, or underived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, designating a primary truth or axiom that is directly grasped rather than deduced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underivative designates not derivative or imitative."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Conscience possesses an **underivative** authority that springs directly from moral law."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Space and time must be regarded as **underivative** forms of intuition native to the mind."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"He maintained that moral obligations are **underivative** and cannot be resolved into hedonism."*

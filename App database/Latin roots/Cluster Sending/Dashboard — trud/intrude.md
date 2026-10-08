@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intrude
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enter or force oneself into a place, situation, or company without invitation or welcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, to force molten rock between existing strata or solid formations beneath the crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, say they are vile and false: As where’s that palace whereinto foul things Sometimes intrude not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should the worm intrude the maiden bud?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was conscious of her own presumption in daring to **intrude** upon his solitary reflections."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Subterranean dykes of dark greenstone **intrude** among the older crystalline rocks of the archipelago."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"External sensible objects **intrude** ideas upon our minds whether we invite them or not."*

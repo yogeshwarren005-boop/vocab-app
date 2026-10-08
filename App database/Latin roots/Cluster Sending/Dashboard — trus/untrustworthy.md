@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # untrustworthy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of trust or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of trust or belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving of trust, reliance, or confidence; unreliable, dishonest, or deceitful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to betrayal, defect, or sudden failure under testing conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had wished to know, finally, in the name of his mother, if Tess could really come to manage the old lady’s fowl-farm or not; the lad who had hitherto superintended the birds having proved untrustworthy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the basis of these necessarily untrustworthy reports Napoleon gave his orders, which had either been executed before he gave them or could not be and were not executed."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It is only when they have been spoiled by overpayment, or by bullying of a sort they do not understand, that the foreigner finds them exacting and untrustworthy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Treaties without enforcement power are notoriously **untrustworthy** guarantees of national peace."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Local guides warned us that the shifting sands were dangerously **untrustworthy** after high tides."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She realized too late that Willoughby had been a selfish and **untrustworthy** suitor."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intruding
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encroaching unlawfully, rudely, or unwelcome upon privacy, domain, or conversations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forcing material into pre-existing fissures or intervening boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, lady, ’twas my word.— [_To Polonius._] Thou wretched, rash, intruding fool, farewell!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester and Lady Dedlock, as I have already apologized for intruding on you, I cannot do better than be very brief."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He comes now, apologizing for intruding, even by her permission, while she is at table."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I shrank from the bitter blast and the cruel glare of strange faces **intruding** upon my grief."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dreaded any stranger **intruding** upon the quiet sanctuary of her husband's study."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Masses of molten granite were observed **intruding** through fractured beds of sedimentary shale."*

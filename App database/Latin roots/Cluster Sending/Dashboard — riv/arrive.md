@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # arrive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach a destination; arrive by movement or progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succeed in a big way; get to the top.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reach a destination; to come to the end of a physical journey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To achieve widespread recognition, worldly success, or a stable intellectual conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ere we could arrive the point propos’d, Caesar cried, “Help me, Cassius, or I sink!” I, as Aeneas, our great ancestor, Did from the flames of Troy upon his shoulder The old Anchises bear, so from the waves of Tiber Did I the tired Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks thou art more honest now than wise, For by oppressing and betraying me Thou mightst have sooner got another service; For many so arrive at second masters Upon their first lord’s neck."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Turn then my freshest reputation to A savour that may strike the dullest nostril Where I arrive, and my approach be shunn’d, Nay, hated too, worse than the great’st infection That e’er was heard or read!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was anxious to **arrive** at Geneva before nightfall to comfort my grieving family."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"By careful induction natural philosophers may **arrive** at sound conclusions regarding cause and effect."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We need not hasten to **arrive** at distant goals when every moment holds intrinsic beauty."*

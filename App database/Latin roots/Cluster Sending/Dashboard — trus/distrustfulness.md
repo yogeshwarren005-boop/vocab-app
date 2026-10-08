@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distrustfulness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not trusting others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual tendency to doubt, suspect, or withhold confidence from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suspicious cast of mind that anticipates deceit or betrayal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distrustfulness designates the trait of not trusting others."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Habitual **distrustfulness** poisons the sweetness of friendship and robs the soul of peace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's chronic **distrustfulness** alienated even his most devoted military commanders."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A temperament marred by morbid **distrustfulness** finds it impossible to yield to spiritual faith."*

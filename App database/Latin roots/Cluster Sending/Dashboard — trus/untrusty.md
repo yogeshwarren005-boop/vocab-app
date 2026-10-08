@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # untrusty
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of trust or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of trust or belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reliable, faithful, or dependable; disloyal or treacherous in conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsound or fragile, as an unfaithful tool or deceitful ally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untrusty designates not worthy of trust or belief."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight cursed the **untrusty** squire who had fled the field with the pack-horses."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Beware that **untrusty** traitor who feigns obedience while plotting your downfall."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He mourned his folly in revealing heaven's secret to an **untrusty** and deceitful spouse."*

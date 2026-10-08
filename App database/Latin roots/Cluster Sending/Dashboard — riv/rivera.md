@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivera
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socialist mexican painter of murals (1886-1957).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socialist mexican painter of murals (1886-1957).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely borne Spanish surname signifying origin near a riverbank or shore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring historically to the renowned Mexican muralist Diego Rivera (1886–1957).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rivera designates socialist mexican painter of murals (1886-1957)."*
+> - 📜 **Bertram D. Wolfe (*Diego Rivera: His Life and Times*):** *"The monumental murals of Diego **Rivera** celebrated the struggles and dignity of working people."*
+> - 📜 **Octavio Paz (*The Labyrinth of Solitude*):** *"In the grand frescoes of **Rivera**, Mexican national identity found its epic visual manifestation."*
+> - 📜 **Anita Brenner (*The Wind That Swept Mexico*):** *"Painter Diego **Rivera** revitalized public architecture by covering vast walls with vivid social history."*

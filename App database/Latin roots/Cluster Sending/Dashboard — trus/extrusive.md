@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extrusive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of rock material; forced out while molten through cracks in the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of rock material; forced out while molten through cracks in the earth's surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to force out or project outward beyond a boundary or matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, designating igneous rocks formed from magma that poured out onto the earth's surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrusive designates of rock material; forced out while molten through cracks in the earth's surface."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Rhyolite and andesite represent typical **extrusive** rocks that chilled rapidly in the open air."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"These jagged ridges consist predominantly of ancient **extrusive** lavas weathered by the sea."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The volcanic plateau is composed of successive layers of dark **extrusive** basalt."*

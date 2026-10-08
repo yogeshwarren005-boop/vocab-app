@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # truss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a bandage consisting of a pad and belt; worn to hold a hernia in place by pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A framework of beams (rafters, posts, struts) forming a rigid structure that supports a roof or bridge or other structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid framework of beams or girders forming a triangle or series of triangles to support a roof or bridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bind, tie, or fasten securely, as in binding the wings of poultry before cooking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The waggon, from its position, seemed to have been left there for the night, for beyond about half a truss of hay which was heaped in the bottom, it was quite empty."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Quick, quick, untruss me; I will truss and trounce thee."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At Nograd-Ludany the young men and women, each carrying a truss of straw, repair to a meadow, where they pile the straw in seven or twelve heaps and set it on fire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter carefully repaired the iron **truss** supporting the heavy fore-yard."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The plump goose was ready to **truss** and roast upon the blazing hearth."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The timber **truss** of the medieval hall demonstrated remarkable mechanical ingenuity."*

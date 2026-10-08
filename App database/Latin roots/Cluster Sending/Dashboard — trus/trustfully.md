@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustfully
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trustful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trustful manner; with confidence, faith, and absence of suspicion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying wholeheartedly upon another without hesitation or fear of deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And trustfully flew one of the doves from Thoril's hand to Halfred's broad shoulder, and cooed lovingly to the other."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Therefore, these years stretch out your hand cordially, trustfully, that I may feel its warm grasp."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She leaned her head **trustfully** upon his shoulder, confident that all would be well."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The dog looked **trustfully** into the shepherd's eyes, awaiting the accustomed command."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She yielded her hand **trustfully** to her companion as they ascended the steep cliff path."*

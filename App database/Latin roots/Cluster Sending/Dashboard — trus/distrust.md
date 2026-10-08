@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distrust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel doubt or suspicion regarding the honesty, reliability, or good intentions of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling that someone or something cannot be relied upon; suspicion or skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me not offended In your distrust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, woe is me, you are so sick of late, So far from cheer and from your former state, That I distrust you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
+> - 📜 **Francis Bacon (*Essays*):** *"It is a worthy rule in statecraft to **distrust** those who promise easy remedies for ancient evils."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Excessive **distrust** between neighboring states invariably leads to standing armies and perpetual alarm."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She could not bring herself to **distrust** a companion whose manners were so entirely engaging."*

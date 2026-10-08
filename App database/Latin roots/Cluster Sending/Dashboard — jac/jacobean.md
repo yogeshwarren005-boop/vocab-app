@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobean
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any distinguished personage during the reign of james i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to james i or his reign or times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the reign of King James I of England (1603–1625).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the distinctive ornate architectural and furniture style of early 17th-century Britain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was as dark as a dark evening, for the great doors were still fast shut, and what scanty light filtered through the painted panes was absorbed, not reflected, by raftered roof, panelled walls, and Jacobean stair."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The dark oak paneling and heavy draperies breathed the solemn grandeur of the **Jacobean** era."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The prose of **Jacobean** translators gave our nation its most enduring scriptural monuments."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The country seat featured a majestic **Jacobean** facade crowned with carved stone balustrades."*

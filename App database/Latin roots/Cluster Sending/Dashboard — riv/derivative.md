@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # derivative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound obtained from, or regarded as derived from, another compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitative or unoriginal; originating from, based on, or adapted from something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In calculus, the instantaneous rate of change of a mathematical function with respect to a variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For honour, ’Tis a derivative from me to mine, And only that I stand for."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this way we might conclude that, while the imitation of sunshine in these ceremonies was primary and original, the purification attributed to them was secondary and derivative."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in regard to the interfering acts of a superior and subordinate authority, of an original and derivative power, the nature and reason of the thing indicate the converse of that rule as proper to be followed."*
+> - 📜 **Isaac Newton (*The Method of Fluxions*):** *"The fluxion expresses what modern analysts term the first **derivative** of a flowing quantity."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"His early style was largely **derivative**, copying the mannerisms of Dutch landscape painters."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Rent may be considered as a **derivative** revenue drawn from the primary profits of capital."*

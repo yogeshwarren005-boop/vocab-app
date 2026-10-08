@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # obtrude
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Push to thrust outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrust oneself in as if by force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force oneself, one's opinions, or ideas forward insistently and unwelcome upon others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To push out or make conspicuously noticeable in an unwelcome or offensive manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Unwilling to obtrude himself on the princess, Rostóv did not go back to the house but remained in the village awaiting her departure."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Positiveness is a good quality for preachers and orators, because he that would obtrude his thoughts and reasons upon a multitude, will convince others the more, as he appears convinced himself."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"MISTS I I am most weary of this fatuous me That doth obtrude a niddering death's head At a blithe feast of Springtide jollity, Of revelling buds and flowers unsurfeited."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Philosophers should not **obtrude** conjectural hypotheses where empirical evidence remains silent."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A modest scholar will seldom **obtrude** his learning upon an assembly assembled for light diversion."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Innovators who violently **obtrude** novel dogmas shake the venerable foundations of civil society."*

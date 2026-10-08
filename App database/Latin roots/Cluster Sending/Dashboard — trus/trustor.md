@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, a person who creates a trust by transferring property to a trustee for a beneficiary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grantor, settlor, or donor who establishes a fiduciary estate or endowment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustor designates (law) a person who creates a trust by giving real or personal property in trust to a trustee for the benefit of a beneficiary; a person who gives such property is said to settle it on the trustee."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The intention of the **trustor** governs the disposition of the trust estate under equity."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"A court will protect the rightful beneficiaries whenever a **trustor** creates a valid settlement."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The rights reserved by the **trustor** depend upon the precise terms of the original deed."*

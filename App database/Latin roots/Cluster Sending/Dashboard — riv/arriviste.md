@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # arriviste
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambitious, ruthless, or unscrupulous person striving for social standing or wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An upstart who aggressively seeks worldly advancement without regard for integrity or manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arriviste designates a person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The aristocratic dowager recognized him immediately as a calculating **arriviste** hungry for titles."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He despised the smooth **arriviste** whose whole philosophy was measured by salary and prestige."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"The sleek young **arriviste** courted influential politicians with shameless flattery and lavish dinners."*

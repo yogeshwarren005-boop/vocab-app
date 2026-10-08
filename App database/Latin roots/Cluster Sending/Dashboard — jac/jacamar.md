@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacamar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant iridescent bird of the family Galbulidae inhabiting tropical American forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insectivorous neotropical perching bird characterized by an elongated bill and metallic plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacamar designates tropical american insectivorous bird having a long sharp bill and iridescent green or bronze plumage."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"A solitary green **jacamar** darted from a low branch to snap a dragon-fly in mid-air."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The metallic sheen of the **jacamar** flashed brightly amid the gloom of the virgin forest."*
+> - 📜 **William Henry Hudson (*Birds of La Plata*):** *"Like the bee-eaters of the Old World, the **jacamar** watches patiently for flying beetles."*

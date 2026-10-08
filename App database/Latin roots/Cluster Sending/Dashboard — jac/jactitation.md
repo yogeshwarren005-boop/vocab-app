@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jactitation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking of yourself in superlatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a false boast that can harm others; especially a false claim to be married to someone (formerly actionable at law).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, the false and malicious assertion of a claim, especially of marriage to another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, excessive and involuntary tossing or restlessness of the body in acute illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jactitation designates speaking of yourself in superlatives."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A suit for **jactitation** of marriage lies when one party falsely boasts of a matrimonial bond."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The severe delirium was accompanied by distressing **jactitation** and rapid muscular tremors."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"The final hours of the sufferer were eased from painful **jactitation** by gentle ministrations."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intrusiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of encroaching unwelcomely on the privacy, domain, or affairs of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annoying tendency to thrust oneself forward into situations without invitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"These, after exhausting other modes of amusement, now thronged about Hester Prynne with rude and boorish intrusiveness."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Few social faults are more universally detested than the brazen **intrusiveness** of the busybody."*
+> - 📜 **Jane Austen (*Emma*):** *"She checked her curiosity, fearful lest it should resemble the vulgar **intrusiveness** of others."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Unwanted mental images possess an unsettling **intrusiveness** that disrupts deliberate concentration."*

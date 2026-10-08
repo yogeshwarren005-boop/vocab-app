@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mistrust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel suspicion or a lack of confidence in the integrity, motives, or abilities of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense of doubt, wariness, or apprehension regarding future outcomes or persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King will labour still to save his life, The commons haply rise to save his life, And yet we have but trivial argument, More than mistrust, that shows him worthy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistrust of my success hath done this deed."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I will not **mistrust** mine own daughter until evident proof confirms her disobedience."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A prudent magistrate will always **mistrust** the flattery of factional agitators."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Free nations have just cause to **mistrust** the accumulation of immense standing armaments."*

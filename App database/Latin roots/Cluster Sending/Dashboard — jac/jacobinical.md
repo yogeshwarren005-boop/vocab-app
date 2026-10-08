@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacobinical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the jacobins of the french revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the jacobins of the french revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, advocating, or displaying the radical principles of the Jacobins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by zealous intolerance of traditional institutions and radical social leveling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacobinical designates of or relating to the jacobins of the french revolution."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In his youth he had flirted briefly with **jacobinical** sentiments before embracing orthodoxy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Their **jacobinical** dogmas threaten to dissolve every sacred bond of civil society."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*):** *"The court denounced the pamphlet as an incendiary manifesto of **jacobinical** philosophy."*

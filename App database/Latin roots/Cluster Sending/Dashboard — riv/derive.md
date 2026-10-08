@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # derive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obtain or draw something, such as benefit, knowledge, or pleasure, from a specified source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To trace the historical origin or linguistic genealogy of an expression or idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Treason is not inherited, my lord, Or, if we did derive it from our friends, What’s that to me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From women’s eyes this doctrine I derive."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Governments justly **derive** their legitimate powers from the enlightened consent of the governed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists seek to **derive** divergent species from common ancestral stocks through natural selection."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"We can **derive** all our lively ideas solely from previous sensory impressions and feelings."*

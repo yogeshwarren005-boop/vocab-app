@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # underived
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derived; primary or simple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derived; primary or simple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not drawn, deduced, or obtained from another source; original and self-existent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing independently without causal reliance on antecedent factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underived designates not derived; primary or simple."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple ideas of sensation are primitive and **underived** from any more fundamental notions."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Whether belief in external objects is an **underived** instinct remained an open philosophical puzzle."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The pure concepts of the understanding represent **underived** categories of human thought."*

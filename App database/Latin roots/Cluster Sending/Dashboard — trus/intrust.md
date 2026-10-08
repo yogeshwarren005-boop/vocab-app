@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intrust
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer a trust upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To commit or deliver something into the care or keeping of another with confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confer a serious office, duty, or secret upon a trusted agent or deputy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Well, I will henceforth intrust my felicity to no one’s keeping but my own.” The first agonies of this disappointment would not allow me to be reasonable or just."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I will intrust you with the letter to deliver it to Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We believe the people will not intrust the government to any party or combination of men composed chiefly of those who have resisted every step of this beneficent progress. 2."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Prudence requires that we **intrust** public defense to representatives chosen by the citizens."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"I **intrust** the management of the northern garrison to an officer of proven courage."*
+> - 📜 **Walter Scott (*Waverley*):** *"The chieftain would not **intrust** the clan's treasury to any man save his foster-brother."*

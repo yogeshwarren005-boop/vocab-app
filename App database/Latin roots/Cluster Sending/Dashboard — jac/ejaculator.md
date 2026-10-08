@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # ejaculator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who ejaculates semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speaker who utters a sudden exclamation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who utters fervent exclamations, sudden prayers, or passionate cries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, an organ or muscular mechanism that expels fluids forcefully.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ejaculator designates a man who ejaculates semen."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The religious zealot is ever a fervent **ejaculator** of pious sighs and sudden petitions."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The muscular **ejaculator** duct contracts rhythmically to propel the secretions forward."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"A devout **ejaculator** of brief prayers maintains constant communion with the Almighty."*

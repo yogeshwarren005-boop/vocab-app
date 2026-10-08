@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trusty
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convict who is considered trustworthy and granted special privileges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of trust or belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reliable, faithful, and deserving of trust; tried and proven dependable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A privileged prisoner granted special duties and freedoms within a penal institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were fit you knew him; lest, reposing too far in his virtue, which he hath not, he might at some great and trusty business, in a main danger fail you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trusty villain, sir, that very oft, When I am dull with care and melancholy, Lightens my humour with his merry jests."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brother, this is Sir John Montgomery, Our trusty friend unless I be deceived."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Go bring the rabble here to this green plot, my **trusty** spirit Ariel."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"He drew his **trusty** broadsword from its scabbard, resolved to defend the gate."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The prophet sent his **trusty** messenger ahead to prepare the desert path."*

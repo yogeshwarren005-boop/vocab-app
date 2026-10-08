@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riveter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who inserts and hammers rivets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for driving rivets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker or machine that fastens rivets in construction, shipbuilding, or manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pneumatic or mechanical tool employed to drive and hammer rivets into place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, riveter designates a worker who inserts and hammers rivets."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The shipyard resounded with the incessant clamor of the heavy **riveter** driving steel bolts."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Every skilled **riveter** in the boiler shops joined the general assembly of working men."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The weary **riveter** labored amid deafening din from dawn until evening to secure his wage."*

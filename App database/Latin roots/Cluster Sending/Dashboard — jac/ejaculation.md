@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # ejaculation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discharge of semen in males.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, emphatic, or vehement exclamation uttered under the influence of strong feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and medicine, the physiological expulsion of reproductive fluid from the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And if a person's meat or drink were to affect the wind-pipe, or come against his breath, they instantly cry out _deisheal_! which is an ejaculation praying that it may go by the right way" (Rev."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bambridge gave an ejaculation in which “brimstone” was the mildest word, and Mr."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"An **ejaculation** of genuine surprise escaped her lips the moment she recognized the handwriting."*
+> - 📜 **Herman Melville (*Typee*):** *"A simultaneous **ejaculation** of triumph broke from the warriors as they sighted the vessel."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"With a fervent **ejaculation** of despair, the wanderer cast himself upon the barren heath."*

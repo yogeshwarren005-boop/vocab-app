@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # adjacency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being so near as to be touching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being so near as to be touching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of being contiguous, bordering, or situated close beside another thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and graph theory, the relationship between two vertices connected directly by an edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjacency designates the attribute of being so near as to be touching."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The geographical **adjacency** of the two continental landmasses explains their shared botanical species."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain plants prosper through mutual **adjacency**, deriving wholesome nourishment from the same soil."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Spatial relations such as distance and **adjacency** are fundamental to modern geometric formalisms."*

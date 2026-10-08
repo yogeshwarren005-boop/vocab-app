@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distrustfully
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distrust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distrust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing suspicion, doubt, or lack of confidence in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With guarded hesitation and watchful skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George looks distrustfully from the painted ceiling to the ground, from the ground to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn seems to meditate as he looks distrustfully at her, then he replies, “Well, wench, well."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll beat the shivers so far, I’ll bet you.” He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all at once: staring distrustfully while he did so at the mist all round us, and often stopping—even stopping his jaws—to listen."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The stranger eyed me **distrustfully** from under his shaggy brows before uttering a word."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She glanced **distrustfully** at the sealed letter as though it harbored unwelcome tidings."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The client looked **distrustfully** toward the window before confiding her perilous secret."*

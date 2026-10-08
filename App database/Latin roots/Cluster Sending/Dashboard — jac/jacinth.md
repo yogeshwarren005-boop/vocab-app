@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacinth
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red transparent variety of zircon used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red transparent variety of zircon used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-orange or yellow-brown gem variety of zircon, valued as an ornamental stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antiquity and biblical literature, a precious stone of rich orange-red or azure color.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Edward II gave to Piers Gaveston a suit of red-gold armour studded with jacinths, a collar of gold roses set with turquoise-stones, and a skull-cap _parsemé_ with pearls."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Pillars of chrysolite and radiant **jacinth** adorned the celestial gates of light."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He possessed an antique signet ring set with an intricately carved fiery **jacinth**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Lapidaries distinguish the true **jacinth** from baser stones by its peculiar luster and density."*

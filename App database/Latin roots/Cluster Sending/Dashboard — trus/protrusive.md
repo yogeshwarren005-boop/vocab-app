@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protrusive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrusting outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrusting outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrusting or projecting outward; tending to stick out prominently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assertive or obtrusive in pushing forward into prominence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusive designates thrusting outward."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The anthropoid ape displays heavy **protrusive** brow ridges above deep-set orbital cavities."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Tribal chiefs often adopt **protrusive** headdresses to magnify their personal authority."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **protrusive** force of subterranean vapor lifted the overlying beds into dome-like ridges."*

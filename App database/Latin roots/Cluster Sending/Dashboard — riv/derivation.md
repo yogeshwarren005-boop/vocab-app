@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # derivation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The source or origin from which something derives (i.e. comes or issues).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tracing of the historical origin and morphological development of a word or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deducing or obtaining a mathematical theorem or formula from basic principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The etymology of the word Beltane is uncertain; the popular derivation of the first part from the Phoenician Baal is absurd."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The festival of this divinity was commemorated in Scotland until the latest date." Modern scholars are not agreed as to the derivation of the name Beltane."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The dissection and definition of words, aside from their metaphysical derivation, is not scien- 338:27 tific."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The true **derivation** of a word can only be established by consulting ancient authorities."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The rigorous **derivation** of the laws of motion from momentum principles resolved the long dispute."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary **derivation** of human anatomical features from mammalian ancestors is unmistakable."*

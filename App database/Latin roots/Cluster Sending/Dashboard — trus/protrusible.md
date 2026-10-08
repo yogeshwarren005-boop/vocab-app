@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protrusible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust forward, as the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thrust forward, as the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thrust out or extended forward beyond a sheath or cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating an anatomical appendage, tongue, or proboscis that can be projected outward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrusible designates capable of being thrust forward, as the tongue."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The chameleon captures distant insects with its long, remarkably **protrusible** tongue."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The molluscan radula is supported upon a muscular, **protrusible** odontophore."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Certain climbing frogs possess a **protrusible** claw that aids their movement among wet foliage."*

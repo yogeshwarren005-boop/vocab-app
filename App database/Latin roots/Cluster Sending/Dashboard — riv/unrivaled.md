@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unrivaled
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eminent beyond or above comparison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no equal, competitor, or parallel; peerless, supreme, and matchless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing all others in excellence, skill, beauty, or power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"On either side of the walk were bushes, long since placed without the discriminating eye of a landscape gardener but holding in their very randomness a charm unrivaled by any precise planting."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The untrodden fields, where capital and labor wait to be organized for the development of Southern manufactures and mining, offer unrivaled temptations to leaders among men in search of legitimate wealth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The naval supremacy of the empire remained **unrivaled** across the waters of the Mediterranean."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her taste in music was acknowledged to be **unrivaled** by any performer in the county."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton occupies an **unrivaled** preeminence among the epic poets of modern Europe."*

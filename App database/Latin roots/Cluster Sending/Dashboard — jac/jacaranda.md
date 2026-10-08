@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacaranda
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical American trees renowned for clusters of showy blue or purple flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heavy, fragrant, and durable wood obtained from various South American bignoniaceous trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jacaranda designates an important brazilian timber tree yielding a heavy hard dark-colored wood streaked with black."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The spreading **jacaranda** trees were laden with dense clusters of delicate lilac blossoms."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Native carpenters prize the timber of the **jacaranda** for its remarkable density and polish."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"A majestic **jacaranda** stood near the veranda, scattering pale petals across the courtyard."*

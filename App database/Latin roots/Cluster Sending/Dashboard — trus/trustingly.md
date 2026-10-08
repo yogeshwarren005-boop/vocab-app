@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustingly
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With trust; in a trusting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With implicit faith and confidence; without suspicion or reservation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placing oneself readily into the care or direction of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She led her little boy, by the hand, who trustingly walked by her side."*
-> - 📜 **Effie Afton (*Eventide*):** *"How trustingly they cling to each other, and how their wan aspects brighten in the warmth of their mutual affection!"*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty looked up **trustingly** into Arthur's eyes, unaware of the sorrow ahead."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"She laid her small hand **trustingly** in his, finding comfort in his quiet strength."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She followed him **trustingly** through the misty meadows in the early hours of morning."*

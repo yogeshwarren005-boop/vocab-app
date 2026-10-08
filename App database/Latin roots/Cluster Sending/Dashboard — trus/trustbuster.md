@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustbuster
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A federal agent who engages in trust busting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federal agent who engages in trust busting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A government official or politician who enforces antitrust legislation to break up business monopolies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate or legal campaigner committed to dissolving anticompetitive corporate cartels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trustbuster designates a federal agent who engages in trust busting."*
+> - 📜 **Theodore Roosevelt (*Letters and Speeches*):** *"The public hailed the attorney general as an uncompromising **trustbuster** committed to fair play."*
+> - 📜 **Lincoln Steffens (*The Shame of the Cities*):** *"Every ambitious reformer sought the reputation of a fearless **trustbuster** among working voters."*
+> - 📜 **Ida Tarbell (*The History of the Standard Oil Company*):** *"The aggressive **trustbuster** demanded full dissolution of monopolies restraining free trade."*

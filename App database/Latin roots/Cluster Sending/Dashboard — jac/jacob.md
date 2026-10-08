@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — jac]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # jacob
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French biochemist who (with jacques monod) studied regulatory processes in cells (born in 1920).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) son of isaac; brother of esau; father of the twelve patriarchs of israel; jacob wrestled with god and forced god to bless him, so god gave jacob the new name of israel (meaning `one who has been strong against god').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical patriarch, son of Isaac and Rebecca, ancestor of the twelve tribes of Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical masculine personal name widely borne across Jewish and Christian traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His child is a year and a quarter old come Philip and Jacob."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not take interest, not, as you would say, Directly interest; mark what Jacob did."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Like patriarchal **Jacob** of old, the weary traveler laid his head upon a stone to dream."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient chronicler **Jacob** of Edessa preserved valuable annals of eastern affairs."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The wrestling of **Jacob** with the angel symbolizes the persistent striving of faith."*

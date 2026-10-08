@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intrusive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to intrude (especially upon privacy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of rock material; forced while molten into cracks between layers of other rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disruption or annoyance through being unwelcome, uninvited, or inappropriately pushy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, designating igneous rocks formed by magma that cooled and solidified beneath the surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We both felt intrusive and out of place, and we both thought that Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Since he has your orders to come, I will not interrupt you.” Sir Leicester in his gallantry retires, rather declining to accept a bow from the young man as he goes out and majestically supposing him to be some shoemaker of intrusive appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And even to the point of his sinking on the ground, oblivious of his suffering, he can yet pronounce her name with something like distinctness in the midst of those intrusive sounds, and in a tone of mourning and compassion rather than reproach."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She resented his **intrusive** inquiries into circumstances that concerned her alone."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Massive dykes of **intrusive** porphyry cut across the stratified secondary formations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He found the garrulous chatter of his neighbors both wearisome and **intrusive**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trud]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intruder
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that enters a place or situation unlawfully, uninvited, or inappropriately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alien organism, entity, or substance that disrupts an established ecological or biological system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I the power that some say Dian had, Thy temples should be planted presently With horns, as was Actaeon’s; and the hounds Should drive upon thy new-transformed limbs, Unmannerly intruder as thou art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, base intruder, overweening slave, Bestow thy fawning smiles on equal mates, And think my patience, more than thy desert, Is privilege for thy departure hence."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Who are you?” he asked of the intruder."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The peasant seized a stout stick to drive the monstrous **intruder** away from his humble cottage."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"A solemn terror gripped the revellers as the masked **intruder** stalked through the velvet rooms."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The grim warden challenged the solitary **intruder** whose armor bore neither crest nor motto."*

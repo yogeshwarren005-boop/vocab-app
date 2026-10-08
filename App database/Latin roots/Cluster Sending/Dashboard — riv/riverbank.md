@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # riverbank
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bank of a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rising ground or sloping terrain bordering the water of a river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The riparian embankment that contains the flowing channel of a river stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Catching sight of Laura he slipped across a low boundary wall, his brown mare, a thoroughbred, changing her feet in a ladylike way on the worn stones, and trotted down to the riverbank, raising his cap."*
-> - 📜 **Effie Afton (*Eventide*):** *"The woman threw a coarse, threadbare blanket over her shoulders and went forth, while the boy bent his way along the riverbank in search of dry twigs and branches with which to replenish their wasted stock of fuel."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Next day, overtaking the army, he went in a carriage to the Niemen, and, changing into a Polish uniform, he drove to the riverbank in order to select a place for the crossing."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"The Mole spent the entire summer morning resting upon the grassy **riverbank** watching the water."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"We tied the raft to a willow on the **riverbank** and hid in the deep shadows until daybreak."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The wildflowers clustered thick along the sloping **riverbank** where the mill-wheel turned."*

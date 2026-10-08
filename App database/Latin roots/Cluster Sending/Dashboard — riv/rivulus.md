@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — riv]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rivulus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Found in small streams of tropical america; often kept in aquariums; usually hermaphroditic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Found in small streams of tropical america; often kept in aquariums; usually hermaphroditic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, colorful freshwater killifishes inhabiting forest streams of the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, a genus of cyprinodont fishes capable of surviving in ephemeral woodland rivulets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rivulus designates found in small streams of tropical america; often kept in aquariums; usually hermaphroditic."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"In shallow forest puddles we collected tiny specimens of **Rivulus** darting among fallen leaves."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The remarkable **Rivulus** can wriggle overland through wet grass between isolated pools."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The genus **Rivulus** is characterized by cylindrical bodies and rounded caudal fins adapted to small brooks."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trustfulness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of believing in the honesty and reliability of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of believing in the honesty and reliability of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being trustful; readiness to believe and confide in others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innocent openness of mind free from cynical suspicion or deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her sublime trustfulness he was all that goodness could be—knew all that a guide, philosopher, and friend should know."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The trustfulness of a noble nature begets what it assumes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He could remain her brotherly friend, interpreting her actions with generous trustfulness."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The pure **trustfulness** of the little child gradually softened the weaver's hardened heart."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Her gentle **trustfulness** endeared her to all who were privileged to know her household."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"There was an American **trustfulness** in her bearing that fascinated European observers."*

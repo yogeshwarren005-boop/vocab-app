@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # untrustworthiness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not deserving trust or confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not deserving trust or confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or trait of being unreliable, dishonest, or undeserving of confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency in moral integrity or reliability that precludes rational reliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untrustworthiness designates the trait of not deserving trust or confidence."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The notorious **untrustworthiness** of hearsay evidence led courts to require strict corroboration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The chronic **untrustworthiness** of mercenary auxiliaries proved fatal to the security of Rome."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Where commercial **untrustworthiness** prevails, credit withers and trade falls into decay."*

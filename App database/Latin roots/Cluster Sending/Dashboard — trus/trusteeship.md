@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trusteeship
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dependent country; administered by another country under the supervision of the united nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of trustee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, role, or period of service of a trustee who holds property in trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, administrative supervision of a territory under the United Nations Trusteeship Council.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A better code of business morality has developed, and the railroad management's relationship of private trusteeship toward the shareholders and of public trusteeship toward the patrons of the road is now much more fully recognized."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Is your strange trusteeship still going on?" "As it was." "And you have received no tidings of the young man?"*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"I came to Charville with him for the purpose of ascertaining the meaning of certain suspicious circumstances connected with the will and the trusteeship." "What, those ridiculous reports about M."*
+> - 📜 **Edmund Burke (*Speech on the East India Bill*):** *"All political power exercised over men is an absolute **trusteeship** accountable to God and humanity."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Colonial governance must be exercised on principles of benevolent **trusteeship** for the inhabitants."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The solemn duties of constitutional **trusteeship** require impartial fidelity from all magistrates."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — trus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distrustful
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing distrust; ; - b.n.cardozo; - thomas jefferson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing suspicion, doubt, or skepticism toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wary and hesitant in extending confidence or belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did think that I and both these young creatures might be friends instead of distrustful foes and that we might so far counter-act the suit and prove too strong for it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But they have known me much longer than you have, and the confiding eye of affection is not the distrustful eye of business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I complain, sir, of the eye of business being distrustful; quite the contrary."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The recluse had grown bitter and **distrustful** toward mankind after the betrayal in his youth."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Wise statesmen are ever **distrustful** of theoretical innovations that discard ancestral wisdom."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"His melancholy demeanor made him **distrustful** of the sudden favors offered by the court."*

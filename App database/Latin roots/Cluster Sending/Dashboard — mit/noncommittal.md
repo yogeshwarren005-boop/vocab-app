@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # noncommittal
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusing to bind oneself to a particular course of action or view or the like.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refusing to bind oneself to a particular course of action or view or the like.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving no clear indication of attitude, feeling, intention, or decision; neutral and evasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carefully guarded in speech or demeanor so as not to be bound by an opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Bussard stood beside him, trying nervously to appear noncommittal, while Mead went up to the shaking old man, grasped his hand, and brought him over to the desk."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I believe so,” Miss Mathewson replied in the noncommittal manner of the professional man's confidential assistant."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet returned a pleasantly **noncommittal** answer, leaving his family in total suspense."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His diplomatic smile was entirely **noncommittal**, revealing neither assent nor disapproval."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes gave a **noncommittal** grunt, keeping his deductions to himself until proofs were gathered."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitchella
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creeping evergreen herbs of north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creeping evergreen herbs of north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of creeping North American evergreen herbs, notably the partridgeberry (*Mitchella repens*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a rubiaceous woodland groundcover bearing paired fragrant white flowers and scarlet berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitchella designates creeping evergreen herbs of north america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The twin flowers of **Mitchella** repens unite their ovaries to form a single scarlet edible berry."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"**Mitchella** repens is heterostyled, displaying distinct long-styled and short-styled floral forms."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The forest floor was carpeted with the shining dark green leaves of **Mitchella** and wintergreen."*

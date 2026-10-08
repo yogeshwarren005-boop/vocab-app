@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remittal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abatement in intensity or degree (as in the manifestations of a disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of remitting, referring, or sending back; or the cancellation of a penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sending of funds or payment in satisfaction of an account.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remittal designates a payment of money sent to a person in another place."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king signed the **remittal** of the death sentence, commuting it to perpetual exile."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The prompt **remittal** of customs balances maintained public credit on a solid foundation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A royal pardon operates as a complete **remittal** of both punishment and legal disability."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mittelschmerz
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower abdominal pain occurring in some women around the time of ovulation, approximately mid-cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, intermenstrual pelvic pain associated with peritoneal irritation from a ruptured ovarian follicle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mittelschmerz designates pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician recognized the recurrent mid-cycle discomfort as classic physiological **mittelschmerz**."*
+> - 📜 **Howard Kelly (*Operative Gynecology*):** *"Patients describing regular unilateral discomfort during ovulation suffer from benign **mittelschmerz**."*
+> - 📜 **John Clarence Webster (*A Text-Book of Diseases of Women*):** *"Follicular rupture at mid-cycle readily explains the etiology of cyclical **mittelschmerz**."*

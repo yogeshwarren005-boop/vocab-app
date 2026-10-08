@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admittedly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As acknowledged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As is widely acknowledged or conceded; by general consent or confession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to introduce a concession that qualifies a broader argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus is admittedly her eldest son, and is bred to be a carpenter; and a carpenter he undoubtedly was up to, we are told, about thirty years of age (Luke 3:23)."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never seen such panelling in my life, and the gardens are admittedly the most beautiful in Dorsetshire."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That was the past and, admittedly, a poor foundation upon which to build; let us now look to a more positive future."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record is **admittedly** imperfect, but it preserves profound evolutionary evidence."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"His personal ambitions were **admittedly** vast, yet they were subordinated to national honor."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The mathematical problem was **admittedly** difficult, challenging the greatest minds of the century."*

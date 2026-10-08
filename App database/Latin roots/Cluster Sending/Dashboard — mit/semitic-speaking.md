@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitic-speaking
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in a semitic language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in a semitic language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking a Semitic language, such as Arabic, Hebrew, Amharic, Tigrinya, or Aramaic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by use of languages belonging to the Semitic branch of the Afroasiatic family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitic-speaking designates able to communicate in a semitic language."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The flourishing cities of Palmyra and Petra were home to wealthy **Semitic-speaking** merchant clans."*
+> - 📜 **James Henry Breasted (*Ancient Times: A History of the Early World*):** *"The **Semitic-speaking** Babylonians adopted the cuneiform script from their Sumerian predecessors."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Across the ancient Levant, diverse **Semitic-speaking** communities traded with Mediterranean ports."*

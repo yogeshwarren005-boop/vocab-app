@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmitted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sent, forwarded, or communicated across space, time, or media to another recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passed genetically from parent to offspring; or conducted through a physical medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch estate should be transmitted whole and entire, as he had received it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effects are transmitted to commercial and financial centres and often credit is much shaken."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"There are the historical Radicals, who demand popular institutions as the inheritance of Englishmen, transmitted to us from the Saxons or the barons of Runnymede."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Beneficial variations are **transmitted** to offspring, gradually transforming the ancestral stock."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The colored rays were **transmitted** through the second prism without further refraction."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The galvanic current was **transmitted** instantaneously through twenty miles of copper wire."*

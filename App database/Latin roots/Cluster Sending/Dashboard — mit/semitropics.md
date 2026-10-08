@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitropics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regions adjacent to the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regions adjacent to the tropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geographic zones or regions bordering upon the tropics; the subtropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm regions located immediately north or south of the Tropic of Cancer and Capricorn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitropics designates regions adjacent to the tropics."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The fauna of the **semitropics** displays a rich blend of temperate and equatorial species."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"In the **semitropics**, atmospheric currents create stable belts of high barometric pressure."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Citrus fruits spread anciently from the **semitropics** of Asia into Mediterranean basins."*

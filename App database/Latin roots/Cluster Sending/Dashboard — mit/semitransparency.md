@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitransparency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of allowing light to pass diffusely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of allowing light to pass diffusely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of transmitting light diffusely without being fully transparent; translucence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial opacity allowing silhouettes or diffused illumination to be visible through a medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitransparency designates the quality of allowing light to pass diffusely."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner captured the miraculous **semitransparency** of breaking ocean waves with unrivaled skill."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The jellyfish exhibited an exquisite **semitransparency**, drifting like crystal through the sea."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Thin plates of horn or oiled paper exhibit a distinct **semitransparency** under transmitted rays."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitransparent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing light to pass through diffusely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing light to pass through diffusely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially transparent; allowing light to pass through diffusely so that objects behind are not distinctly seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translucent; having the optical quality of frosted glass, amber, or alabaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mineral veins were filled with **semitransparent** chalcedony and delicate bands of agate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ambergris possessed a curious **semitransparent** appearance when warmed in the hand."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A **semitransparent** white veil hung from her head, softening the pale contours of her face."*

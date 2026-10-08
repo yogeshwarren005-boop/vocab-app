@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dimity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong cotton fabric with a raised pattern; used for bedcovers and curtains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong cotton fabric with a raised pattern; used for bedcovers and curtains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, sheer, durable cotton fabric with raised woven stripes or checks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Textile fabric traditionally employed for curtains, bed-hangings, and summer dresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In removing the light towards the bedstead its rays fell upon the tester of white dimity; something was hanging beneath it, and she lifted the candle to see what it was."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"This morning I waited behind the old purple lilac at the gate, which immediately got into the game by sweeping its purple-plumed arms all around me, so that not a tag of my dimity alarmed him as he came slowly down the street."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Uncle Peter refused, because he said that he felt a smooth walk around the Square would call out what he called "a dimity parade" every afternoon."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her room was furnished with cheerful white **dimity** curtains that fluttered in the morning breeze."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A neat bed draped in white **dimity** stood in the corner of the small cottage chamber."*
+> - 📜 **Elizabeth Gaskell (*Cranford*):** *"The ladies covered their parlor tables with pristine covers of patterned **dimity**."*

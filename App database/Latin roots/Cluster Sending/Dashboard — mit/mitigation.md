@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To act in such a way as to cause an offense to seem less serious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of reducing the severity, seriousness, or painfulness of something; alleviation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, circumstances that lessen the blameworthiness of an illegal act, justifying a reduced penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, How now for mitigation of this bill Urged by the Commons?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, behold, where Madam Mitigation comes!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do ye make an ale-house of my lady’s house, that ye squeak out your coziers’ catches without any mitigation or remorse of voice?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The defendant's counsel pleaded extreme destitution in **mitigation** of the statutory punishment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judicial independence provides a vital **mitigation** of the severity of unjust legislative enactments."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"True sympathy brings sweet **mitigation** to the heaviest calamities of mortal life."*

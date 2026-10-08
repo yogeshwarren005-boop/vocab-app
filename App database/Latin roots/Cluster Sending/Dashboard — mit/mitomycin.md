@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitomycin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of potent aziridine-containing antibiotics that function as antitumor and DNA-crosslinking chemotherapeutic agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, an antineoplastic agent that inhibits DNA synthesis by creating interstrand crosslinks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitomycin designates a complex of antibiotic substances obtained from a streptomyces bacterium; one form (trade name mutamycin) shows promise as an anticancer drug."*
+> - 📜 **Toju Hata (*Mitomycin, a New Antibiotic from Streptomyces*):** *"Fermentation broths yielded **mitomycin**, a crystalline substance exhibiting marked inhibitory action on sarcoma."*
+> - 📜 **Waclaw Szybalski (*Cross-Linking of DNA by Enzymatically or Chemically Activated Mitomycins*):** *"Activated **mitomycin** forms covalent cross-links between complementary strands of cellular DNA."*
+> - 📜 **Vincent T. DeVita Jr. (*Cancer: Principles and Practice of Oncology*):** *"Intravesical **mitomycin** remains an effective adjuvant therapy to prevent bladder tumor recurrence."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # manumit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from slavery or servitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from slavery or servitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release or emancipate a person from slavery or bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set free legally from involuntary servitude under formal deed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manumit designates free from slavery or servitude."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman masters frequently chose to **manumit** faithful slaves in their testamentary dispositions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A lord who granted a charter of land to his villein was held in law to **manumit** him."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"He advocated legislative measures empowering citizens to **manumit** their bondsmen without penalty."*

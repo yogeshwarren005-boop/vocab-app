@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmittance
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that passes through a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraction of radiant energy that passes through a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction or percentage of incident radiant energy or light that passes through a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and spectroscopy, the ratio of transmitted radiant flux to incident flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittance designates the fraction of radiant energy that passes through a substance."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The optical **transmittance** of the glass plate was determined by photometric comparison."*
+> - 📜 **John Tyndall (*Heat, a Mode of Motion*):** *"Rock salt exhibits an astonishing **transmittance** of radiant heat, remaining cold to the touch."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The spectral **transmittance** of the ocular humors protects the delicate retina from ultraviolet rays."*

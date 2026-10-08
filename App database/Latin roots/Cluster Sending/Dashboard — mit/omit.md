@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # omit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from being included or considered or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave undone or leave out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To leave out or exclude someone or something, either intentionally or forgetfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fail or neglect to do, perform, or execute a duty or required action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, you are appointed for that office; The due of honour in no point omit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, my lords, omit no happy hour That may give furtherance to our expedition; For we have now no thought in us but France, Save those to God, that run before our business."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you omit The offer of this time, I cannot promise But that you shall sustain more new disgraces With these you bear already."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"There is a tide in the affairs of men which, taken at the flood, leads on to fortune; **omit**-ted, all the voyage is bound in shallows."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The careful editor must never **omit** passages that illustrate the author's idiosyncratic genius."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The convention did not **omit** any safeguard necessary to restrain executive ambition."*

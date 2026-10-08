@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitochondrion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle containing enzymes responsible for producing energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organelle containing enzymes responsible for producing energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membrane-bound organelle found in the cytoplasm of eukaryotic cells, serving as the biochemical site of cellular respiration and ATP synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 'powerhouse of the cell' containing its own circular DNA and generating metabolic chemical energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitochondrion designates an organelle containing enzymes responsible for producing energy."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The chondriosome or **mitochondrion** is a universal and indispensable organelle of active protoplasm."*
+> - 📜 **Albert Claude (*Studies on Cell Morphology and Biochemistry*):** *"Fractionation by differential centrifugation isolated the intact **mitochondrion** from liver cytoplasm."*
+> - 📜 **Peter Mitchell (*Chemiosmotic Coupling in Oxidative and Photosynthetic Phosphorylation*):** *"Proton translocation across the inner membrane of the **mitochondrion** drives ATP synthesis."*

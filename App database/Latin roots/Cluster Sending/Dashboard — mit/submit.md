@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer for judgment or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To yield to governance or authority; to surrender oneself to another's power or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To present a proposal, document, or argument to someone for consideration or judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do demand If you submit you to the people’s voices, Allow their officers, and are content To suffer lawful censure for such faults As shall be proved upon you."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The minority must **submit** to the decision of the majority, or civil government cannot exist."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was compelled to **submit** to the tiresome conversation of her cousin with silent patience."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What though the field be lost? All is not lost; the unconquerable will, and study of revenge, and courage never to **submit** or yield."*

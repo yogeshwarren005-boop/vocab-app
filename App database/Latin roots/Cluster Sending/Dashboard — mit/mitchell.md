@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitchell
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English aeronautical engineer (1895-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states aviator and general who was an early advocate of military air power (1879-1936).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed English and Scottish surname derived from the name Michael.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating prominent historical figures, such as astronomer Maria Mitchell or aviator Billy Mitchell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mitchell, in Bulletin 173 of the U.S."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, writing in the year 1862, Sir Arthur Mitchell tells us that "for the cure of the murrain in cattle, one of the herd is still sacrificed for the good of the whole."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Verses To Collector Mitchell Friend of the Poet, tried and leal, Wha, wanting thee, might beg or steal; Alake, alake, the meikle deil Wi’ a’ his witches Are at it skelpin jig and reel, In my poor pouches?"*
+> - 📜 **Maria Mitchell (*Life, Letters, and Journals*):** *"Astronomer Maria **Mitchell** swept the Nantucket night skies, discovering a new comet in 1847."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood*):** *"Dr. **Mitchell** pioneered the rest cure for severe nervous exhaustion and hysterical conditions."*
+> - 📜 **Margaret Mitchell (*Gone with the Wind*):** *"Author Margaret **Mitchell** portrayed the turbulent collapse of the plantation South in her epic novel."*

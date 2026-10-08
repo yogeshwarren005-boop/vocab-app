@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being alleviated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being alleviated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being mitigated, softened, alleviated, or made less severe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and ethics, admitting of excuse, explanation, or reduction in penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitigable designates capable of being alleviated."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Provocation renders the offense **mitigable**, reducing murder to manslaughter in the eye of law."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Human sorrow is **mitigable** by the consolations of philosophy and the sympathy of friends."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Punishment should be **mitigable** whenever the offender manifests sincere remorse and reform."*

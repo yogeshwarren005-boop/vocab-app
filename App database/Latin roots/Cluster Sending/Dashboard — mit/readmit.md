@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # readmit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admit anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admit again or anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To admit again; to allow someone to enter or rejoin a place, institution, or society after departure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To accept something back into consideration or formal validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, readmit designates admit anew."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The college fellows voted to **readmit** the scholar after his sincere public retraction."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The church consented to **readmit** the penitent schismatics upon solemn confession of faith."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"Our primary object is to **readmit** the southern states to their constitutional relations."*

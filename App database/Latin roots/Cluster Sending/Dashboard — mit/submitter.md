@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submitter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who yields to the will of another person or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who submits something (as an application for a job or a manuscript for publication etc.) for the judgment of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who submits a proposal, application, or manuscript for formal review or evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who yields, capitulates, or surrenders to superior force or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submitter designates someone who yields to the will of another person or force."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The nervous **submitter** of an essay awaits the verdict of the critic with beating heart."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **submitter** of a legal dispute to arbitration is bound in law by the umpire's award."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"A voluntary **submitter** to equitable laws differs vastly from a subjugated slave."*

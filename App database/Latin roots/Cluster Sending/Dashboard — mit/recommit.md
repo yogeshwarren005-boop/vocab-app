@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # recommit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit once again, as of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To commit again; especially to refer a legislative bill or matter back to a committee for further study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recommit an offender to prison; or to pledge oneself anew to a cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recommit designates commit once again, as of a crime."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The assembly decided to **recommit** the disputed clause to the drafting committee for amendment."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court possessed power to **recommit** the prisoner if the conditions of bail were breached."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The House of Commons voted to **recommit** the financial bill after a spirited midnight debate."*

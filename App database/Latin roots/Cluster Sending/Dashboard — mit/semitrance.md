@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitrance
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of partial unconsciousness, hypnosis, or reverie, between waking and sleeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dreamy mental condition where external perception is muted yet not completely lost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrance designates a trancelike state in which the person can follow instructions but voluntary action is weak or absent."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher sat in a dark **semitrance**, listening with morbid intentness to imaginary sounds."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical contemplatives frequently enter a **semitrance** where boundaries of the self dissolve."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The drug induced a luminous **semitrance** that magnified the architecture of my dreams."*

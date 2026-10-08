@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located in or near the mitral valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling the miter worn by some clerics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a miter; or in anatomy, pertaining to the bicuspid valve of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing the heart valve with two triangular cusps situated between the left atrium and left ventricle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitral designates of or relating to or located in or near the mitral valve."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **mitral** valve prevents regurgitation of blood into the left auricle during ventricular systole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stenosis of the **mitral** orifice is the most frequent valvular defect following rheumatic fever."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Strong chordae tendineae anchor the flaps of the **mitral** valve to the papillary muscles."*

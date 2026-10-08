@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semiterrestrial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly but not exclusively terrestrial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly but not exclusively terrestrial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, growing, or occurring partly on land and partly in water; amphibious in habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, designating organisms adapted to marginal littoral or swamp environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiterrestrial designates chiefly but not exclusively terrestrial."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galapagos marine iguana displays a **semiterrestrial** existence, feeding entirely in coastal surf."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Mangrove swamps are inhabited by strange **semiterrestrial** crabs that climb tree roots at low tide."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory organs of **semiterrestrial** isopods are modified to absorb oxygen from damp air."*

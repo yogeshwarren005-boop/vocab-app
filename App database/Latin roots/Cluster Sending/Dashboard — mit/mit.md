@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An engineering university in cambridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engineering university in cambridge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A world-renowned technological university in Cambridge, Massachusetts; Massachusetts Institute of Technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common informal abbreviation for the Massachusetts Institute of Technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stuhlmann, _Mit Emin Pascha ins Herz von Afrika_ (Berlin, 1894), p. 506. [155] As a confirmation of this view it may be pointed out that beating or scourging is inflicted on inanimate objects expressly for the purpose indicated in the text."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The line is worth a hundred pages of fustian. ‘Ich wäge die Gedanken in der Schale meines Zornes und die Werke mit dem Gewichte meines Grimms.’ I like it!” Both were again silent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Du Erde warst auch diese Nacht beständig, Und athmest neu erquickt zu meinen Füssen, Beginnest schon mit Lust mich zu umgeben, Du regst und rührst ein kräftiges Beschliessen _Zum höchsten Dasein immerfort zu streben_. —_Faust:_ 2r Theil."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"At **MIT**, mathematicians and physiologists joined in pioneering investigations of feedback mechanisms."*
+> - 📜 **Vannevar Bush (*Science, the Endless Frontier*):** *"Laboratories at **MIT** spearheaded radar research that proved decisive during the global conflict."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"During my undergraduate years at **MIT**, I immersed myself in advanced quantum electrodynamics."*

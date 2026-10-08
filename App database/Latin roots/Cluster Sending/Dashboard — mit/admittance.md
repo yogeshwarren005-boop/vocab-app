@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admittance
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone to enter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right, permission, or privilege to enter a physical premises, society, or assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reception or acceptance of an idea, principle, or claim into consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give first admittance to th’ambassadors; My news shall be the fruit to that great feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, lo, within a ken our army lies, Upon mine honour, all too confident To give admittance to a thought of fear."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I knocked loudly at the gloomy courtyard gate, demanding **admittance** to Satis House."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The stranger claimed **admittance** to the castle hall under the sacred laws of hospitality."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Prejudices gain easy **admittance** into uncultivated minds through early tradition."*

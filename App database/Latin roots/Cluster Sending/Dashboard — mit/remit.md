@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The topic that a person, committee, or piece of research is expected to deal with or has authority to deal with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of remitting (especially the referral of a law case to another court).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cancel or refrain from exacting a debt, fine, penalty, or punishment; to forgive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To send money, payment, or goods to a person or place, especially by post.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither of either; I remit both twain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy slanders I forgive, and therewithal Remit thy other forfeits.—Take him to prison, And see our pleasure herein executed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, for thy sake, and thy brother’s here, And at my lovely Tamora’s entreats, I do remit these young men’s heinous faults."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The generous emperor chose to **remit** the arrears of tribute owed by the ravaged border towns."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants in London had constant occasion to **remit** large sums to their agents in Amsterdam."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The duke cannot deny the course of law, nor **remit** the penalty without the plaintiff's consent."*

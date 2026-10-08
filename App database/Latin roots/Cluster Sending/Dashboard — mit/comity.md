@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # comity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or atmosphere of harmony or mutual civility and respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or atmosphere of harmony or mutual civility and respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Courtesy and considerate behavior toward others; mutual civility and respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, the friendly recognition by nations of each other's laws and judicial decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*
+> - 📜 **Joseph Story (*Commentaries on the Conflict of Laws*):** *"The **comity** of nations permits foreign judgments to take effect in domestic courts of justice."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neighboring sovereign states cannot preserve peace without mutual forbearance and reciprocal **comity**."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"International **comity** rests upon ancient shared moral standards that temper the rivalries of empires."*

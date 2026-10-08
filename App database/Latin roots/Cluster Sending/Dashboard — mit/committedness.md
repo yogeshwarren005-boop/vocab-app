@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # committedness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of sincere and steadfast fixity of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of sincere and steadfast fixity of purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadfast loyalty, dedication, and resolute devotion to a cause, duty, or partner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earnest and unwavering engagement that persists through adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, committedness designates the trait of sincere and steadfast fixity of purpose."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"A deep and silent **committedness** to truth characterizes every genuine reformer."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The convert displayed an extraordinary **committedness** that transformed his everyday conduct."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her passionate **committedness** to the restoration of her people gave purpose to her solitary life."*

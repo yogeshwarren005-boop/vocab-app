@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # uncommitted
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or pledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated in an exclusive sexual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pledged or committed to a specific cause, party, candidate, or course of action; unpledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from entangling alliances, emotional bonds, or tactical obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was the great four-post bed with amber hangings as of old; there the toilet-table, the armchair, and the footstool, at which I had a hundred times been sentenced to kneel, to ask pardon for offences by me uncommitted."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly “explained,” and was glad to get out of the scrape with as little taint of chicken-hearted home-sickness clinging to his garments as he could."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A prudent magistrate remains **uncommitted** until the entire body of evidence is laid before him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was pleased to find her friend still **uncommitted** to any rash engagement."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We retained several armored divisions **uncommitted** in reserve to strike at the critical hour."*

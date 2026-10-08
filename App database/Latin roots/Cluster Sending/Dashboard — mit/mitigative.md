@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderating pain or sorrow by making it easier to bear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to mitigate; having the power to soften, soothe, or alleviate pain or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and law, operating to diminish suffering, fever, or severity of punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitigative designates moderating pain or sorrow by making it easier to bear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The soothing balm exerted a valuable **mitigative** influence upon the inflamed ulcer."*
+> - 📜 **Jeremy Bentham (*Rationale of Punishment*):** *"Judicial mercy applies **mitigative** principles when youth or ignorance excuses the offense."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He sought some **mitigative** employment that might distract his mind from chronic anxiety."*

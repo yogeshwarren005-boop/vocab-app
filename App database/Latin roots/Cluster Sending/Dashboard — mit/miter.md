@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall liturgical headdress with two peaks and fringed lappets, worn by bishops and abbots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint made by beveling each of two parts to be joined, usually at a 45-degree angle, to form a corner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miter designates joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious prelate aspired to exchange the simple tonsure for an episcopal **miter**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's carpenter accurately planed the corner **miter** of the oak chart-table."*
+> - 📜 **John Milton (*Lycidas*):** *"Last came, and last did go, the pilot of the Galilean lake; two massy keys he bore, his **miter** was adorned with sorrow."*

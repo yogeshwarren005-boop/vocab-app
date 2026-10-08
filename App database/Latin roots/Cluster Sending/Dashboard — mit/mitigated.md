@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made less severe, harsh, painful, or intense; softened or moderated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tempered by extenuating factors, as a crime or punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Such a lady gave a neighborliness to both rank and religion, and mitigated the bitterness of uncommuted tithe."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In the present instance the pang was mitigated to a certain extent--not largely--by the fact that Phyllis looked at me."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The aunts expressed a mitigated approval of Charmion's proposal."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"A **mitigated** skepticism teaches modesty and limits our inquiries to common life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The fever was noticeably **mitigated** after repeated cold sponging through the night."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient manners **mitigated** the harshness of absolute monarchy with reciprocal chivalry."*

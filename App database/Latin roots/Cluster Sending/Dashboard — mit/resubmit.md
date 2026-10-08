@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # resubmit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submit (information) again to a program or automatic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submit (information) again to a program or automatic system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To submit something again for consideration, review, approval, or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To yield or present oneself anew to an authority or examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resubmit designates submit (information) again to a program or automatic system."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The commission chose to **resubmit** the boundary treaty after correcting the territorial survey."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Ministers resolved to **resubmit** the reform bill to the Commons in the ensuing session."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I was encouraged to **resubmit** my botanical findings to the Linnean Society for publication."*

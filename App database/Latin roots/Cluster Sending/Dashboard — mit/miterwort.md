@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miterwort
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus *Mitella* in the family Saxifragaceae, especially the bishop's cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woodland wildflower characterized by delicate fringed petals resembling snowflakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miterwort designates any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common two-leaved **miterwort** blooms in rich woods in early May alongside the hepaticas."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I found the delicate **miterwort** flowering in the mossy shade of the deep hemlock ravine."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Among the spring wildflowers, the fringed blossoms of the **miterwort** repay close inspection with a lens."*

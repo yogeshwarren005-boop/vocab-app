@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # committee
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-constituted organization to promote something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people appointed for a specific function by a larger group and typically consisting of members of that group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a person or guardian to whom the custody of a lunatic or infant is legally committed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A standing **committee** of congress was entrusted with managing foreign relations during the recess."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The chancellor appoints a **committee** of the person and estate to protect the property of the lunatic."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary **committee** examined the naval accounts with rigorous impartiality."*

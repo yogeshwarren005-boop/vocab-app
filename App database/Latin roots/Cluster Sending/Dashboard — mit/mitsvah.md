@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitsvah
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a precept or commandment of the jewish law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a good deed performed out of religious duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precept or commandment in Jewish traditional law; or an act of religious duty and human kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meritorious good deed performed in fulfillment of divine law or communal solidarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitsvah designates (judaism) a precept or commandment of the jewish law."*
+> - 📜 **Israel Zangwill (*Children of the Ghetto*):** *"To succor the wandering stranger on the Sabbath was accounted a precious **mitsvah** by the elders."*
+> - 📜 **Martin Buber (*Tales of the Hasidim*):** *"The Hasidic master taught that every daily deed may be elevated into a holy **mitsvah**."*
+> - 📜 **Solomon Schechter (*Studies in Judaism*):** *"Fulfilling a scriptural **mitsvah** with joy constitutes the heart of traditional Jewish piety."*

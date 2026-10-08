@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitterrand
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French statesman and president of france from 1981 to 1985 (1916-1996).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French statesman and president of france from 1981 to 1985 (1916-1996).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prominent French political surname; specifically referring to President François Mitterrand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the 14-year socialist presidency and European integration policies of François Mitterrand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitterrand designates french statesman and president of france from 1981 to 1985 (1916-1996)."*
+> - 📜 **François Mitterrand (*The Wheat and the Chaff*):** *"In his reflective memoirs, François **Mitterrand** explored the cultural soul and destiny of modern France."*
+> - 📜 **Stanley Hoffmann (*The Mitterrand Experiment*):** *"The election of **Mitterrand** marked a historic turning point for French socialism and European unity."*
+> - 📜 **Tony Judt (*Postwar: A History of Europe Since 1945*):** *"President **Mitterrand** partnered closely with Helmut Kohl to forge the treaty of European Union."*

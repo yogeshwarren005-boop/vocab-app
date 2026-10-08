@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # pretermit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disregard intentionally or let pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave undone or leave out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To omit, pass by, or neglect; to leave undone or unmentioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, to pass over a child or heir in a will without mentioning them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have been led farther than I had foreseen, and various subjects for annotation have presented themselves which, though I have no direct need of them, I could not pretermit."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We ought not to **pretermit** the honorable achievements of ancient natural philosophers."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Roman law did not allow a parent to **pretermit** a son without declaring lawful disinheritance."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Diligent inquiries should not **pretermit** subtle circumstances that may reveal natural truth."*

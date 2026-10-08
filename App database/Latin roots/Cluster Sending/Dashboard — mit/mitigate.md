@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make less severe, serious, painful, or damaging; to alleviate or moderate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lessen the gravity of an offense or mistake through extenuating circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, uncle Gloucester, mitigate this strife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have spoke thus much To mitigate the justice of thy plea, Which if thou follow, this strict court of Venice Must needs give sentence ’gainst the merchant there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor sought to **mitigate** the rigors of taxation by granting relief to exhausted provinces."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A firm executive can **mitigate** the sudden passions of factional majorities in the assembly."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor attempted to **mitigate** her sister's anguish with gentle arguments of reason."*

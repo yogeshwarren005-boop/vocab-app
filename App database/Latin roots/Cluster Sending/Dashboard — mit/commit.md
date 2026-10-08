@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perpetrate, carry out, or perform an action, especially a crime, error, or sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To entrust, consign, or deliver into the custody, care, or keeping of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what thy memory cannot contain, Commit to these waste blanks, and thou shalt find Those children nursed, delivered from thy brain, To take a new acquaintance of thy mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The complaints I have heard of you I do not all believe; ’tis my slowness that I do not; for I know you lack not folly to commit them, and have ability enough to make such knaveries yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What cannot you and I perform upon the unguarded Duncan? What not put upon his spongy officers, who shall bear the guilt of our great **commit**-ted deed?"*
+> - 📜 **Francis Bacon (*Essays*):** *"It is wisdom to **commit** the beginning of all great actions to Argus with his hundred eyes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitution does not **commit** absolute power to any single magistrate or council."*

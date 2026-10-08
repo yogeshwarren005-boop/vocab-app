@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitten
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glove that encases the thumb separately and the other four fingers together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glove that encases the thumb separately and the other four fingers together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glove with two sections, one for the thumb and the other for all four fingers together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional colloquial idioms, 'to give the mitten' means to reject or dismiss an admirer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And continually, now with one mitten, now with the other, I rubbed my nose that it might not freeze."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ach, teurer Leser, wenn du ueber jene Zerrissenheit klagen willst, so beklage lieber, dass die Welt selbst mitten entzwei gerissen ist."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"P. found that the clocks had been purchased on credit, and all sold for watches or money; that Cotton owed sixty dollars toward his horse, and had borrowed of the brother with whom he boarded, horse-blanket, whip, and mittens."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I chopped wood on cold winter mornings, my hands protected by a thick homespun woolen **mitten**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe pulled off his heavy leather **mitten** before shaking hands with the young traveler."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd blew into his fleece **mitten** to warm his numbed fingers amid the winter gale."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remitment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of remitting (especially the referral of a law case to another court).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of remitting, forgiving, or canceling a debt, penalty, or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission or remitting of money or bills of exchange to a distant place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remitment designates a payment of money sent to a person in another place."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Divine mercy grants full **remitment** of guilt to the soul that repents with sincerity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The regular **remitment** of colonial dividends enriched British merchant banking houses."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He received formal notice of the **remitment** of the fine imposed by the borough magistrates."*

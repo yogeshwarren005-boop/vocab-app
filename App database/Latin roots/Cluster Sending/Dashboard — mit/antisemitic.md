@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # antisemitic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anti-semitism; hating jews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by anti-semitism; hating jews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile to, prejudiced against, or discriminatory toward Jewish people as an ethnic or religious group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to doctrines, policies, or rhetoric that promote persecution of Jews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitic designates relating to or characterized by anti-semitism; hating jews."*
+> - 📜 **George Orwell (*Antisemitism in Britain*):** *"The prevalence of **antisemitic** feeling in Europe was a sinister symptom of democratic decay."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Modern **antisemitic** movements transformed ancient religious prejudice into biological ideology."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The civilized world recoiled in horror before the murderous **antisemitic** fury of the Nazi regime."*

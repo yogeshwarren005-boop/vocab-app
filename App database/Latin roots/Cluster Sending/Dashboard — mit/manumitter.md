@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # manumitter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who frees others from bondage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who frees others from bondage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who manumits or frees a slave or bonded servant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emancipator who executes legal instruments liberating captive persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manumitter designates someone who frees others from bondage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The grateful freedman retained perpetual obligations of respect toward his former **manumitter**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient civil law granted the **manumitter** certain hereditary rights over freedmen."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"The conscientious **manumitter** broke the legal shackles that held fellow humans in bondage."*

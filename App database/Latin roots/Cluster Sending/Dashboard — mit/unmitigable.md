@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unmitigable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being mitigated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being mitigated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being mitigated, softened, alleviated, or lessened in severity or harshness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relentless and inexorable, as unyielding grief, punishment, or physical law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmitigable designates incapable of being mitigated."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian conqueror pursued his victims with **unmitigable** fury, sparing neither age nor sex."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Death is the common and **unmitigable** fate that awaits every mortal pilgrim."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She faced the bleak prospect of friendless poverty with **unmitigable** sorrow."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intromit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allow to enter; grant entry to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert, introduce, or allow to enter into something; to let in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, to take possession of or intermeddle with property, especially of a deceased person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intromit designates allow to enter; grant entry to."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain glasses are designed to **intromit** light while excluding injurious solar heat."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The factor had no lawful warrant to **intromit** with the rents of the sequestered estate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The male is equipped with specialized modified appendages to **intromit** seminal packets."*

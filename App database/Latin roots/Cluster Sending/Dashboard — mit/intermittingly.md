@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermittingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mit within the domain of Sending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mit in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With recurrent pauses or interruptions; in an intermitting fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ceasing and resuming repeatedly at varied intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermittingly designates pertaining to, derived from, or characteristic of latin mit within the domain of sending."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The storm blew **intermittingly**, shaking the ancient rafters of the hall with sudden gusts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dismal church bells tolled **intermittingly** through the damp London fog."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"A devout soul does not pray **intermittingly**, but preserves an abiding sense of divine presence."*

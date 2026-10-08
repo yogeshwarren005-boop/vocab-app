@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous very small to minute arachnids often infesting animals or plants or stored foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute arachnid of the subclass Acari, typically living in soil, plant litter, or parasitic on animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very small coin or modest contribution; or a tiny creature or affectionate term for a small child.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll show you those in troubles reign, Losing a mite, a mountain gain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put down my mite first; then my young family enrol their contributions, according to their ages and their little means; and then Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In a poor room with a sloping ceiling and containing very little furniture was a mite of a boy, some five or six years old, nursing and hushing a heavy child of eighteen months."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Microscopic examination of forest soil revealed teeming populations of minuscule **mite** species."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The poor widow offered her humble **mite** with tears of genuine, heartfelt devotion."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The cheese **mite** viewed through the compound glass appears as a formidable armored monster."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitogen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that triggers mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that triggers mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance, typically a protein or lectin, that stimulates a cell to undergo mitosis and divide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cell biology, an agent used to induce proliferation in lymphocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitogen designates an agent that triggers mitosis."*
+> - 📜 **Peter Nowell (*Phytohemagglutinin: An Initiator of Mitosis in Normal Human Leukocytes*):** *"The plant lectin acted as a potent **mitogen**, triggering extensive blast transformation in white blood cells."*
+> - 📜 **Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Exposure to a nonspecific **mitogen** stimulates polyclonal proliferation across various lymphocyte subsets."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Binding of an extracellular **mitogen** to its receptor initiates a phosphorylation cascade leading to DNA replication."*

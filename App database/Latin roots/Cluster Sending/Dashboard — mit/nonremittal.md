@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonremittal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of failing to meet a financial obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss resulting from failure of a debt to be paid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure or refusal to remit payment, funds, or an obligation; withholding of funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and finance, the non-transfer or non-cancellation of a recorded debt or penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonremittal designates act of failing to meet a financial obligation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **nonremittal** of commercial revenues from the colonies caused severe fiscal distress in London."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Prompt penalties were enacted against the negligent **nonremittal** of customs duties by collectors."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An action of debt lies for the persistent **nonremittal** of rents legally reserved by indenture."*

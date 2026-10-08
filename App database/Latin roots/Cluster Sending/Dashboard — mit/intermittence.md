@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermittence
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intermittent; subject to interruption or periodic stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intermittent; subject to interruption or periodic stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of periodic cessations or recurring interruptions between intervals of activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the characteristic of a disease having regular pauses between recurring paroxysms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermittence designates the quality of being intermittent; subject to interruption or periodic stopping."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rhythmic **intermittence** of the fever was characteristic of quartan malarial infection."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A rapid **intermittence** of the primary electric current induces intense secondary tension."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **intermittence** of his labors allowed him leisure to cultivate friendship and scholarship."*

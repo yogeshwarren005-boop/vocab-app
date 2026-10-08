@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # semitropic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of conditions in the subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of conditions in the subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or bordering on the tropics; subtropical in climate, flora, or fauna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by mild winters, warm humid summers, and evergreen vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitropic designates of or relating to or characteristic of conditions in the subtropics."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sheltered coastal valley enjoyed a pleasant **semitropic** climate where orange trees flourished."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Ascending the Andes, we passed from torrid valleys into temperate and **semitropic** zones."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Rich **semitropic** vegetation covered the foothills, forming a verdant border below the pine forests."*

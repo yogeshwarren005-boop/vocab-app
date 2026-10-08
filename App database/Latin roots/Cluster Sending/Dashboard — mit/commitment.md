@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commitment
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of sincere and steadfast fixity of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of binding yourself (intellectually or emotionally) to a course of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An engagement, pledge, or obligation that restricts freedom of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the official consignment of a person to prison or a psychiatric facility under a warrant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The awful discretion which a court of impeachments must necessarily have, to doom to honor or to infamy the most confidential and the most distinguished characters of the community, forbids the commitment of the trust to a small number of persons."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You know your commitment period."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A lawful warrant of **commitment** must specify the particular crime alleged against the prisoner."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"Our sacred **commitment** to the preservation of the Union demands unflinching sacrifice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She entered into the solemn **commitment** of marriage with ardent and self-forgetting devotion."*

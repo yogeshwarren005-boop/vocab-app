@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmitting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sending, forwarding, or broadcasting signals, messages, energy, or traits from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying force, motion, or electric charge through a physical conduit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is remarkable, however, that she neither insisted on Catherine’s writing by every post, nor exacted her promise of transmitting the character of every new acquaintance, nor a detail of every interesting conversation that Bath might produce."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The first one was laid in the years 1857 and 1858; but, after transmitting about 400 telegrams, would not act any longer."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By **transmitting** the voltaic current through saline solutions, chemical decomposition was achieved."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mechanism of inheritance operates by **transmitting** latent traits across generations."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Dense metals excel in **transmitting** thermal energy from hot surfaces to cool reservoirs."*

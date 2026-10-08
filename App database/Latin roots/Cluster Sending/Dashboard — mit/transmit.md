@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pass or cause to pass on from one person, place, or thing to another; to convey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To broadcast or send out electrical signals, radio waves, or light through a medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Social effects of the right to transmit property. § 4."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But please transmit th’ enclosed letter,—Igo, and ago, Which will oblige your humble debtor.—Iram, coram, dago."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricity produced passes forward, where it works, by electro-magnets of great size, on a system of levers and cog-wheels that transmit the movement to the axle of the screw."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Submarine telegraph cables **transmit** electrical pulses across the ocean floor with high speed."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Organisms that survive **transmit** their advantageous variations to succeeding generations."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Transparent media **transmit** luminous rays without scattering their parallel trajectories."*

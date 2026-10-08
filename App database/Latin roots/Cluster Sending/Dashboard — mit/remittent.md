@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remittent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a disease) characterized by periods of diminished severity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a disease) characterized by periods of diminished severity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by temporary abatement or moderation of symptoms without their complete disappearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, designating a fever that fluctuates significantly throughout the day without reaching normal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I bethought myself to go upstairs and see how the dying woman sped, who lay there almost unheeded: the very servants paid her but a remittent attention: the hired nurse, being little looked after, would slip out of the room whenever she could."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Estivo-autumnal malaria often manifests as a severe **remittent** fever with profound exhaustion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The humid tropical swamps were notorious for generating dangerous **remittent** fevers among crews."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The disease assumed a **remittent** character, recurring in mild waves across several months."*

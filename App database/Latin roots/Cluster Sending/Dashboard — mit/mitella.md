@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitella
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small woodland herbs in the family Saxifragaceae, known commonly as miterwort or bishop's cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, an archaic term for a triangular sling or bandage supporting a wounded arm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitella designates genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate pinnatifid petals of **Mitella** diphylla resemble miniature crystalline snowflakes."*
+> - 📜 **William Jackson Hooker (*Flora Boreali-Americana*):** *"Species of **Mitella** flourish along shaded damp rocky banks in northern North America."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Beside the rushing brook grew lovely clusters of **Mitella**, nodding their starry green blossoms."*

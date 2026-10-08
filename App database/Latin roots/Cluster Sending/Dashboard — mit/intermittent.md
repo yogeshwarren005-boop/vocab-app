@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermittent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stopping and starting at irregular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stopping and starting at irregular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at irregular or periodic intervals; not continuous or steady.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, designating a fever characterized by paroxysms alternating with normal temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It must be remembered that for convenience I have assembled my intermittent and repetitional jacket experiences into coherent and consecutive narratives."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal inefficiency" may explain a chronic low wage or absolute unemployability in a particular case, but it does not explain intermittent lack of work for those willing and able to work."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quinine exerts a specific therapeutic power against the paroxysms of **intermittent** fever."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic eruptions were **intermittent**, with long pauses of tranquil slumber between bursts."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"An **intermittent** moan came drifting across the grim darkness of the Dartmoor mire."*

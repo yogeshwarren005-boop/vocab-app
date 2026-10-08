@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document giving official permission to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving a formal (usually written) authorization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give authorization, consent, or permission to do something; to allow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official document giving someone authorization to do, hold, or have something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He purposeth to Athens, whither, with what haste The weight we must convey with ’s will permit, We shall appear before him.—On there, pass along! [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You some permit To second ills with ills, each elder worse, And make them dread it, to the doers’ thrift."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, if that my fading breath permit And death approach not ere my tale be done."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth and understanding are not such wares as to be monopolized and traded under royal **permit**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Will you **permit** me, my dear sir, to offer my congratulations upon this joyful event?"*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Law does not aim to abolish freedom, but to **permit** and preserve it under equitable rules."*

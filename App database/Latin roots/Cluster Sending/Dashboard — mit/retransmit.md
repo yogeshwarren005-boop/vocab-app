@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retransmit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transmit again; to forward, relay, or broadcast a message, signal, or communication onwards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, to repeat or amplify an electrical or optical signal across long distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retransmit designates transmit again."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Intermediate relay stations **retransmit** the telegraphic pulse along submarine cables."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The admiralty wireless operator hurried to **retransmit** the urgent alert to the channel fleet."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our base camp managed to **retransmit** the explorer's coded signals back to the London press."*

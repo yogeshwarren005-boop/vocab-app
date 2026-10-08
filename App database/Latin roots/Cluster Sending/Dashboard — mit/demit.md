@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # demit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mit within the domain of Sending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mit in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To resign, relinquish, or give up an office, charge, or position voluntarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fraternal orders such as Freemasonry, to resign formally from lodge membership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demit designates pertaining to, derived from, or characteristic of latin mit within the domain of sending."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The venerable abbot resolved to **demit** his sacred office in favor of a younger brother."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian chose to **demit** the imperial purple and retire to his cabbage gardens at Salona."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"He was summoned to **demit** his military command into the hands of Parliament."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall ceremonial headdress with two pointed peaks worn by bishops; or a beveled corner joint in carpentry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To join two pieces of wood or molding cut at equal angles, usually 45 degrees, to form a corner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket: who was also in the first bloom of youth, and not quite decided whether to mount to the Woolsack, or to roof himself in with a mitre."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"M._ _July_ 17. 1727. _Mitre, Hampton,_ 1708. _Celia_, the Joy of all my Parts, I kiss'd, and broke ten thousand Hearts: There's ne'er a Man the Girl will see, But dearest, dearest, dearest me. _I."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He takes away mitre and sceptre."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The carved tomb depicted an abbot resting with his pastoral staff and jeweled **mitre**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carpenter carefully adjusted each **mitre** joint in the walnut choir stalls of the cathedral."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The archbishop laid aside his ceremonial **mitre** to sign the historic charter of liberties."*

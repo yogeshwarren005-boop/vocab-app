@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # committeewoman
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a member of a committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a member of a committee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a committee, particularly in political, civic, or charitable organizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman elected or appointed to serve on a deliberative board or party council.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, committeewoman designates a woman who is a member of a committee."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The energetic **committeewoman** organized relief kitchens and child-care centers across the district."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The leading civic **committeewoman** coordinated the community campaign for a public library."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She served as an influential **committeewoman** for the benevolent societies of old New York."*

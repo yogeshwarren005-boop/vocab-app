@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitigatory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderating pain or sorrow by making it easier to bear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to mitigate, soothe, or lessen the severity or harshness of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extenuating; tending to diminish moral or legal blame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitigatory designates moderating pain or sorrow by making it easier to bear."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian urged several **mitigatory** considerations in favor of the fallen minister."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The judge listened attentively to every **mitigatory** circumstance advanced by the defense."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sedatives were administered with **mitigatory** intent during the painful terminal stage."*

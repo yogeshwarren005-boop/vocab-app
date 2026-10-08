@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unmitigated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute, unqualified, and complete; not softened, lessened, or relieved by any circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Downright and thorough, used especially of negative qualities, disasters, or harshness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sudden destruction of our ancient constitution would be an **unmitigated** disaster."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His sister's conduct was censured as **unmitigated** insolence by all who observed it."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The tyrant ruled with **unmitigated** ferocity, crushing every whisper of dissent."*

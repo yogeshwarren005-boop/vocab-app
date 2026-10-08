@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitosis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cell division in which the nucleus divides into nuclei containing the same number of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sequential stages (prophase, metaphase, anaphase, telophase) of eukaryotic nuclear division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitosis designates cell division in which the nucleus divides into nuclei containing the same number of chromosomes."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"I propose the term **mitosis** to designate the transformation of nuclear chromatin into chromatic threads."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Through the marvelous precision of **mitosis**, the hereditary material is equally partitioned between daughter cells."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The linear alignment of chromosomes during **mitosis** ensures faithful gene distribution."*

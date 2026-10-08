@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # committed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform an act, usually with a negative connotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dedicated, pledged, and loyal to a cause, belief, or course of action; resolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpetrated or executed, as a crime; or legally remanded to custody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What wretched errors hath my heart committed, Whilst it hath thought it self so blessed never!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once did I get him bound and sent him home, Whilst to take order for the wrongs I went, That here and there his fury had committed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, here comes the nobleman that committed the Prince for striking him about Bardolph."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We are here dedicated to the great task remaining before us, **committed** to government of the people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The atrocious crimes **committed** by the tyrant alienated every loyal subject in the empire."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The reformer remained firmly **committed** to freedom of conscience throughout his public career."*

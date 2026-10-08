@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # emitter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode in a transistor where electrons originate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electrode in a transistor where electrons originate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, device, or object that discharges or emits radiation, sound, light, or substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, the region in a bipolar junction transistor that emits charge carriers into the base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emitter designates the electrode in a transistor where electrons originate."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"A good absorber of radiant heat is necessarily an equally powerful **emitter** of thermal radiation."*
+> - 📜 **John Tyndall (*Heat, a Mode of Motion*):** *"Lampblack is celebrated as the most energetic **emitter** of radiant heat known to experimental physics."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A curious parabolic mirror functioned as an **emitter** of the deadly invisible heat-ray."*

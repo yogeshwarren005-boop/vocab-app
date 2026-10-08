@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermittency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intermittent; subject to interruption or periodic stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intermittent; subject to interruption or periodic stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pattern or characteristic of stopping and starting at irregular or periodic intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and engineering, the alternation between phases of activity and quiescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermittency designates the quality of being intermittent; subject to interruption or periodic stopping."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The spark discharge exhibited an extraordinary **intermittency** when viewed in a rotating mirror."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The natural **intermittency** of conscious attention is disguised by continuous associative currents."*
+> - 📜 **John Tyndall (*Sound*):** *"The siren generates musical pitch through the rapid **intermittency** of an air blast through holes."*

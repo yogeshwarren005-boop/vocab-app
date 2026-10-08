@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # committeeman
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of committee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a committee, especially an administrative or political organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A party functionary or precinct organizer managing electoral affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Ilyá, again thrusting his way through the crowd, went out of the drawing room and reappeared a minute later with another committeeman, carrying a large silver salver which he presented to Prince Bagratión."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Each active **committeeman** exerted himself to rally voters for the annual town meeting."*
+> - 📜 **Lincoln Steffens (*The Shame of the Cities*):** *"The ward **committeeman** distributed patronage jobs to reward loyal precinct workers."*
+> - 📜 **Booth Tarkington (*The Gentleman from Indiana*):** *"The veteran county **committeeman** counseled prudence before challenging the party machine."*

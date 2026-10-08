@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subcommittee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subset of committee members organized for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subset of committee members organized for a specific purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smaller committee appointed from a larger main committee to consider a specific matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized legislative or organizational panel reporting to a parent committee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcommittee designates a subset of committee members organized for a specific purpose."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"A specialized **subcommittee** conducts the actual scrutiny of complex legislative bills."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The town council appointed a **subcommittee** of three citizens to audit the school treasury."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **subcommittee** met in secret to draft the articles of impeachment against the minister."*

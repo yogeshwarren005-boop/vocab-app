@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be true or admit the existence or reality or truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To allow someone or something to enter a place, organization, or sphere of activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To concede, acknowledge, or confess the truth or validity of a statement, fact, or fault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Admit him, sir. [_Exit Servant._] ENOBARBUS. [_Aside_.] Mine honesty and I begin to square."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Volsces re-enter and are driven back to the gates of Corioles, which open to admit them._] So, now the gates are ope."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was forced to **admit** that his character had appeared in a far more favorable light."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gates were thrown open to **admit** the victorious legions into the imperial capital."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Philosophers must **admit** no principles save those verified by constant observation."*

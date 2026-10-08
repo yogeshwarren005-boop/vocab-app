@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitchum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film actor (1917-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film actor (1917-1997).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An English surname of geographic origin; famously borne by American screen actor Robert Mitchum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to prominent 20th-century American cinematic cultural figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitchum designates united states film actor (1917-1997)."*
+> - 📜 **Graham Greene (*Mornings in the Dark*):** *"The laconic presence of Robert **Mitchum** defined the atmospheric dread of post-war film noir."*
+> - 📜 **Raymond Chandler (*Selected Letters*):** *"The actor **Mitchum** possessed that weary, cynical charm essential to a hard-boiled detective."*
+> - 📜 **James Agee (*Agee on Film*):** *"In The Night of the Hunter, **Mitchum** delivered a chilling performance of charismatic menace."*

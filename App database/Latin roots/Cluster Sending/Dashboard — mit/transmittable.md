@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmittable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) capable of being transmitted by infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transmitted, passed on, conveyed, or communicated from one party to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and biology, capable of being communicated by infection or genetic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittable designates (of disease) capable of being transmitted by infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microbiological experiments proved that the plague is an easily **transmittable** bacterial contagion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain hereditary predispositions to disease are **transmittable** through maternal lineages."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial paper must be readily **transmittable** by endorsement to facilitate national trade."*

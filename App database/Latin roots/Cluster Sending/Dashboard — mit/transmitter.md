@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmitter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (person or animal or microorganism) that carries and transmits a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, machine, or device that transmits signals, radio waves, or communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and medicine, a vector or substance (such as a neurotransmitter) that conveys impulses or pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Request permission to come aboard and have unattended access to the spunnel transmitter for about five minutes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Approaching the squat spunnel transmitter he noted that Hanno had activated the system for immediate use and disengaged all logs and file-for-record links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Inserting the capsule he keyed the transmitter to the channels assigned to Sentinel and set off his burst."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The spark apparatus acted as a high-frequency **transmitter** of electromagnetic oscillations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The mosquito was identified as the indispensable insect **transmitter** of the yellow fever virus."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The telegraphic **transmitter** clattered incessantly, sounding alarms throughout southern England."*

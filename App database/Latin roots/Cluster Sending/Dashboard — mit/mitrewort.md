@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitrewort
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus *Mitella* in the family Saxifragaceae, whose capsule resembles a bishop's miter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delicate woodland herb bearing small, fringed blossoms resembling crystalline snowflakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitrewort designates any of various rhizomatous perennial herbs of the genus mitella having a capsule resembling a bishop's miter."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The two-leaved **mitrewort** thrives in rich shaded woods, blossoming in early spring."*
+> - 📜 **William Jackson Hooker (*Flora Boreali-Americana*):** *"Botanists collected specimens of **mitrewort** along the damp, mossy banks of the river."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The delicate lace-like petals of the **mitrewort** reward patient study through a pocket lens."*

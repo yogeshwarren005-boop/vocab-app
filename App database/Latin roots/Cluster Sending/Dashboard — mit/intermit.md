@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermit
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cease an action temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease an action temporarily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suspend or cease temporarily; to discontinue for a time, leaving an interval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pause or stop recurrently, as a periodic pulse or cyclical fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run to your houses, fall upon your knees, Pray to the gods to intermit the plague That needs must light on this ingratitude."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Salomon did not intermit her efforts for the good of the soldiers; her duty had become a privilege, and she continued her efforts for their relief and assistance, according to her opportunity till the end of the war."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their hymns of adoration did not **intermit** by day or night around the altar."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A wise student will not **intermit** his studies, but vary his subjects to refresh his powers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cardiac pulse began to **intermit** every fourth beat as exhaustion deepened."*

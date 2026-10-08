@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmittal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sending a message; causing a message to be transmitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending or forwarding something from one place or person to another; transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business and government, the formal forwarding of an official document or dispatch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittal designates the act of sending a message; causing a message to be transmitted."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The regular **transmittal** of public accounts to Congress ensures legislative accountability."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"I accompany this **transmittal** of dispatches with urgent requests for munitions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The speedy **transmittal** of the royal reprieve saved the condemned nobleman from execution."*

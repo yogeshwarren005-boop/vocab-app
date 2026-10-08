@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admittable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be allowed to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be allowed to enter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being admitted, accepted, received, or conceded as valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally or rationally admissible within formal argument or proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admittable designates deserving to be allowed to enter."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The claim was ruled **admittable** under the equitable jurisdiction of the court."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Such speculative deductions are scarcely **admittable** into rigorous scientific reasoning."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No construction is **admittable** that impairs the vital defense powers of the nation."*

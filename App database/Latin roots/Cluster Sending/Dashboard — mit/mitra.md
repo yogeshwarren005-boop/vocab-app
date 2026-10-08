@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitra
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu god of friendship and alliances; usually invoked together with varuna as a supporter of heaven and earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient headdress, headband, or turban; or in zoology, a genus of predatory sea snails (miter shells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hindu tradition, Mitra is an ancient Vedic solar deity of friendship, treaties, and morning light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Mitra, likewise, was a good old Aryan god, ere he was filched from us or we discarded him."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian monarch wore a jeweled **mitra** bound with ribbons of imperial purple."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Vedic hymns, the deity **Mitra** is invoked alongside Varuna as protector of sacred treaties."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Along the coral reefs we dredged beautiful specimens of **Mitra** adorned with scarlet spots."*

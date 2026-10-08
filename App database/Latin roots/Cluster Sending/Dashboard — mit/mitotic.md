@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mit]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mitotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or undergoing mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or undergoing mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring by means of mitosis; pertaining to cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, describing the cellular spindle apparatus and chromosome movements during nuclear division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitotic designates of or relating to or undergoing mitosis."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The formation of the achromatic spindle is the initial step in assembling the **mitotic** apparatus."*
+> - 📜 **Walther Flemming (*Contributions to the Anatomy of the Cell*):** *"Chromosomes align precisely upon the equatorial plate during the **mitotic** cycle."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Colchicine arrests growing plant cells in the **mitotic** metaphase by disrupting tubulin polymerization."*

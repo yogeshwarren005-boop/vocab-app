@@ -9,6 +9,7 @@ function walk(dir) {
   for (const ent of entries) {
     const full = path.join(dir, ent.name);
     if (ent.isDirectory()) {
+      if (ent.name === '03_Reference_and_Rules') continue;
       res.push(...walk(full));
     } else if (
       ent.name.endsWith('.md') &&

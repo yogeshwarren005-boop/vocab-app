@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objector
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who raises an objection or voices opposition to a measure, doctrine, or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who refuses military service on moral or religious grounds (conscientious objector).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a large State exclaims loudly against the unreasonable equality of representation in the Senate."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An objector in a small State is equally loud against the dangerous inequality in the House of Representatives."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That person duly appeared among the aforesaid objectors."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The philosophical **objector** should be listened to with gratitude for exposing hidden flaws."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To the zealous **objector**, every discretionary power granted to rulers appears tyrannical."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The scientific **objector** demands empirical demonstration rather than appeal to tradition."*

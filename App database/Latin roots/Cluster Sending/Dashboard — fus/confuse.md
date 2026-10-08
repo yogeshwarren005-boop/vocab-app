@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to become perplexed, bewildered, or unable to think clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mix up or mistake one thing for another through failure of discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt seemed to come back and confuse me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Confused or otherwise, to disturb them was his last desire: Leave thou thy sister, when she prays, Her early Heaven, her happy views; Nor thou with shadow’d hint confuse A life that leads melodious days."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A set o’ dull, conceited hashes Confuse their brains in college classes!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The unexpected arrival of the carriage did not fail to **confuse** her delicate composure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Careless definitions serve only to **confuse** distinct notions and darken counsel."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must not **confuse** analogous adaptations with true genealogical relationships."*

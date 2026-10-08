@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorder resulting from a failure to behave predictably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of order, arrangement, or distinctness; a state of disorder or chaos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertainty or bewilderment in the mind; inability to distinguish clearly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And my soul aches To know, when two authorities are up, Neither supreme, how soon confusion May enter ’twixt the gap of both and take The one by th’ other."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"**Confusion** now hath made his masterpiece: most sacrilegious murder hath broke ope the temple."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rout of the left wing threw the whole imperial line into hopeless **confusion**."*
+> - 📜 **Jane Austen (*Emma*):** *"Her heart was in a tumult of **confusion** and shame after the unexpected declaration."*

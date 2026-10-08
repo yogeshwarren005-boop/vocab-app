@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # effusive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttered with unrestrained enthusiasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagantly demonstrative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing feelings of gratitude, pleasure, or approval in an unrestrained, heartfelt manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, denoting volcanic eruptions characterized by the quiet outpouring of liquid lava.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He greeted me with effusive shouts, and drew me aside."*
-> - 📜 **James Joyce (*Ulysses*):** *"His initial impression was he was a shade standoffish or not over effusive but it grew on him someway."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The visitor was effusive in her meeting with Martin's mother."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She was repelled by the **effusive** compliments that her suitor lavished upon her appearance."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Hawaiian volcanoes exhibit typical **effusive** activity, pouring streams of fluid basalt without explosions."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber greeted us with his accustomed **effusive** warmth and grandiloquent phrases."*

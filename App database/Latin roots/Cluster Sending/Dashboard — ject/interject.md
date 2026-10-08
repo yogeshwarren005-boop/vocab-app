@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # interject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert between other elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To insert between other elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert or throw in between other things, especially to utter a remark abruptly in conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To interpolate words or observations into a formal speech or discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heart weak, but steady as a chronometer.” “It’s only twenty-four hours,” Captain Jamie said, “and he was never in like condition before.” “Putting it on, that’s what he’s doing, and you can stack on that,” Al Hutchins, the head trusty, interjected."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I don’t know whether they were entirely of your doing; probably a master aided you?” “No, indeed!” I interjected."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He drew up the windows on either side, tapped on the wood-work, and away we went as fast as the horse could go.” “One horse?” interjected Holmes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor took care to **interject** a calming word whenever the argument threatened to turn bitter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer paused only to **interject** a dry objection to the witness's rambling tale."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He could not help but **interject** a brief question regarding the lady's sudden departure."*

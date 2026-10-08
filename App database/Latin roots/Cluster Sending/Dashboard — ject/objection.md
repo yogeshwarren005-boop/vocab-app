@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of objecting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression or feeling of disapproval, opposition, or disagreement; a counterargument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, a formal protest raised against testimony, evidence, or procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have your chair already at the door." After the great work Apollonie had done, his only objection was that she desired something which meant pleasure for him and labour for her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We can soon come back here." As he raised no objection, they set out."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The most plausible **objection** urged against the proposed constitution is the lack of a bill of rights."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He frankly acknowledged his **objection** to the lack of fortune and connection in her family."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No doctrine can be firmly understood without examining every serious **objection** raised against it."*

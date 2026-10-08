@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectionableness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hateful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hateful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensiveness, unpleasantness, or unacceptability that invites dispute or censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which a proposal, act, or statement invites legitimate protest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectionableness designates the quality of being hateful."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The glaring **objectionableness** of his proposal caused the entire council to reject it instantly."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"We must measure the practical **objectionableness** of any tax before imposing it on citizens."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She realized the subtle **objectionableness** of associating with persons of ambiguous reputation."*

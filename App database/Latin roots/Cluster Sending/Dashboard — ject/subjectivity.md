@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjectivity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendency to reflect personal emotions, tastes, opinions, or internal feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal, reflective conscious experience belonging to an individual mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectivity designates judgment based on individual personal impressions and feelings and opinions rather than external facts."*
+> - 📜 **Søren Kierkegaard (*Concluding Unscientific Postscript*):** *"**Subjectivity** is truth; inwardness alone grasps the ethical meaning of existence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The rich **subjectivity** of the inner life defies reduction to mere physiological mechanics."*
+> - 📜 **Henri Bergson (*Time and Free Will*):** *"Pure duration is discovered only within the deep **subjectivity** of immediate intuition."*

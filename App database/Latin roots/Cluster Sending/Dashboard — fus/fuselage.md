@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuselage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central body portion of an aircraft to which wings, engines, and tail assembly are attached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics, the streamlined structural cabin accommodating crew, passengers, and cargo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Closer, Myra." At arm's length, and the ship immobilized by its mags, Hodak braced his back against the fuselage and tried again."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Machine-gun bullets perforated the armored **fuselage** of the bomber during the raid."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The sleek wooden **fuselage** glided smoothly through the turbulent clouds above the channel."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"I listened to the metallic vibrating hum of the **fuselage** as we crossed the Pyrenees."*

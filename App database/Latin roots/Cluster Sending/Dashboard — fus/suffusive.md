@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # suffusive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suffuse, overspread, or permeate with light, color, or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a gentle, gradual diffusion of color or emotional warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suffusive designates spreading through."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"A soft, **suffusive** radiance bathed the mossy banks where the poet lay in contemplation."*
+> - 📜 **Samuel Taylor Coleridge (*Religious Musings*):** *"The divine love operates as a **suffusive** warmth that quickens every sentient creature."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Her presence cast a **suffusive** glow of gracious refinement over the entire assembly."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectivity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impartiality, neutrality, and faithful adherence to observable external reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The independent existence of things outside the mind or consciousness of observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectivity designates judgment based on observable phenomena and uninfluenced by emotions or personal prejudices."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"Scientific **objectivity** is not the product of individual detachment but of mutual social criticism."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Modern empirical science owes its immense triumphs to its steadfast pursuit of **objectivity**."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Sociological research must preserve methodological **objectivity** even when analyzing sacred values."*

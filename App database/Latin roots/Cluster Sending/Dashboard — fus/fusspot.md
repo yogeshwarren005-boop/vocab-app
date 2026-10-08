@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusspot
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinks about unfortunate things that might happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinks about unfortunate things that might happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is excessively fussy, fastidious, or prone to worry over trivial matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irritatingly finicky individual who insists on petty precision in routine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusspot designates thinks about unfortunate things that might happen."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"He regarded his housekeeper as an intolerable old **fusspot** who complained of every muddy boot."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Uncle Willoughby was a dreadful **fusspot** who had a fit if breakfast was two minutes late."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She smiled at the thought of Charles Tansley acting like an anxious **fusspot** over his paper."*

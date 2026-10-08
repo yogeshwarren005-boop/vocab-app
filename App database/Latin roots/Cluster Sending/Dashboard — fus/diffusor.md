@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffusor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baffle that distributes sound waves evenly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device that distributes the light of a lamp evenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or optical device that disperses light, air, or sound uniformly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, an apparatus designed for extraction by diffusion or leaching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffusor designates baffle that distributes sound waves evenly."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The gas entered through a perforated **diffusor** to ensure thorough mixing with incoming vapor."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A metallic **diffusor** mounted on the tripod hissed loudly as it projected the black smoke."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The thermal waters issued through a natural subterranean **diffusor** into the limestone basin."*

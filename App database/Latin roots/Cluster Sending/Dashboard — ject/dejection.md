@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dejection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of melancholy depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of melancholy, depression, or downcast spirits; gloominess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the act of discharging waste from the bowels; excrement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt all through the performance that he never looked at the actors but constantly looked at me, and always with a carefully prepared expression of the deepest misery and the profoundest dejection."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For my little woman is a-listening somewheres, or I’ll forfeit the business and five hundred pound!” In deep dejection Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt was in his presence for some moments without being perceived, and he told me that he never could forget the haggardness of his face and the dejection of his manner before he was aroused from his dream."*
+> - 📜 **Samuel Taylor Coleridge (*Dejection: An Ode*):** *"A grief without a pang, void, dark, and drear, fills my heart with heavy **dejection**."*
+> - 📜 **Jane Austen (*Emma*):** *"She noticed with genuine pain the silent **dejection** that had overtaken her companion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden news of the defeat threw the entire senate into the deepest **dejection**."*

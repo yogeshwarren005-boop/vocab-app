@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonobjective
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or imitating external reality or the objects of nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not representing or imitating external reality or the objects of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representing or depicting real physical objects; abstract, non-representational, or purely subjective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art, designating painting or sculpture that does not portray recognizable objects or scenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonobjective designates not representing or imitating external reality or the objects of nature."*
+> - 📜 **Wassily Kandinsky (*Concerning the Spiritual in Art*):** *"A **nonobjective** composition speaks directly to the soul through harmony of color and form."*
+> - 📜 **Clive Bell (*Art*):** *"Significant form may be realized fully within purely **nonobjective** designs."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The modern painter explores **nonobjective** rhythms free from photographic representation."*

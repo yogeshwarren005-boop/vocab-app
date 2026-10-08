@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuscous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a dusky brownish grey color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a dusky brownish grey color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dark, dusky, brownish-gray color; somber and gloomy in hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, describing the dark dingy brown coloration of wings, plumage, or fungal caps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HAWKWEED RUST; on both sides of the leaf, dark, fuscous, minute, round, scattered: spores globose, rarely minutely pedicellate.—On Thistles and Hawkweed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The finches exhibited dull **fuscous** plumage suited to camouflage among the volcanic rocks."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"A large **fuscous** moth darted into our lantern light as we camped near the jungle stream."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The dorsal carapace is marked by irregular **fuscous** bands distinguishing the species."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # profusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being extremely abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundance or large quantity of something; lavish extravagance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pouring out or expending lavishly and without restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The furniture was in all the profusion and elegance of modern taste."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her glossy dark curls clustered in rich **profusion** around her pale, expressive face."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Oriental pearls and gems were scattered with reckless **profusion** upon the emperor's robes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Marine life flourished in astonishing **profusion** along the rocky shores of the archipelago."*

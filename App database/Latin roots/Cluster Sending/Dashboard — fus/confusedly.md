@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusedly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confused manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confused manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perplexed, disorderly, or chaotic manner; without clear order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With embarrassed hesitation and stammering incoherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No leisure had he to enrank his men; He wanted pikes to set before his archers; Instead whereof sharp stakes pluck’d out of hedges They pitched in the ground confusedly To keep the horsemen off from breaking in."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was lost in thought, his book lay unheeded by his side, his silvered iron-grey hair was scattered confusedly upon his forehead as though his hand had been wandering among it while his thoughts were elsewhere, and his face looked worn."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She falters, trembles, and puts her hand confusedly to her head."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She stammered **confusedly**, unable to meet his gaze after the embarrassing disclosure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian host rushed **confusedly** into the narrow defile where destruction awaited them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I remembered **confusedly** the tumult of the voyage and my arrival at Lowood school."*

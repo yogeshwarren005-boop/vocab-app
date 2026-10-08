@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # infusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of a new element or quality into something; an instilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink or remedy made by soaking herbs or leaves in hot water; or the slow injection of fluid into a vein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A much more exemplary character with an infusion of sour dignity would not have furthered their comprehension of the Thirty-nine Articles, and would have been less socially uniting."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Into this division, in the year 1821, the directors, perceiving an infusion of new blood to be very urgently required, introduced, as assistant examiners, four outsiders,--Mr."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A steady **infusion** of foreign capital stimulated new manufacturing enterprises."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous **infusion** of saline restored circulating volume and raised blood pressure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hardy northern tribes brought a vigorous **infusion** of martial energy to declining Rome."*

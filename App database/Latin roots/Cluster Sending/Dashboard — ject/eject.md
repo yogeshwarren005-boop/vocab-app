@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # eject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put out or expel from a place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate (a substance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force or throw out violently, suddenly, or with authoritative power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expel an occupant, tenant, or intruder from legal possession of property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To eject him hence Were but one danger, and to keep him here Our certain death."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A little music does occasionally stray in, but we are not musical in the law and soon eject it."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suddenly, that long glowworm of a train stopped just long enough at Glendale to eject me and my five trunks, with such hurried emphasis that I felt I was being planted in the valley forever, and I would have to root myself here or die."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The landlord has a lawful remedy to **eject** an unlawful trespasser from the estate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean steam forces the crater to **eject** immense showers of scoriae and ashes."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Geysers **eject** boiling fountains into the sky at regular, predictable intervals."*

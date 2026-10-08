@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # projected
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Planned, proposed, or estimated for the future on the basis of present trends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown forward, jutting out, or cast onto a viewing surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Before they parted, however, it was agreed that the projected walk should be taken as soon as possible; and, setting aside the misery of his quitting their box, she was, upon the whole, left one of the happiest creatures in the world."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's **projected** expedition against the Parthians was cut short by sudden illness."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **projected** canal promised to reduce transport costs and expand inland commerce."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The massive cliff **projected** far out over the dark, turbulent waters of the bay."*

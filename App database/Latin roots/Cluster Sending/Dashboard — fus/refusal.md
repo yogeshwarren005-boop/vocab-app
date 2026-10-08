@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # refusal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of refusing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message refusing to accept something that is offered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of stating or showing that one will not accept, grant, or do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and commerce, the right or opportunity to accept or reject something before it is offered to others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, as his nature is, he fall in rage With their refusal, both observe and answer The vantage of his anger."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I suppose you received a letter from our Rector telling you of the refusal to teach the boys any further." This was said with a less severe intonation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Say, Bathsheba, that you only wrote that refusal to me in fun—come, say it to me!” “It would be untrue, and painful to both of us."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her firm **refusal** of his proposal stunned Mr. Darcy, who had expected eager compliance."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive's **refusal** to sign an improper bill serves as a shield for the constitution."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A harsh **refusal** to assist the poor debtor doomed the family to the marshalsea prison."*

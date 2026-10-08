@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusillade
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with fusillade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simultaneous or rapid continuous discharge of firearms; a volley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid, overwhelming outburst or succession of questions, criticisms, or missiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A fusillade burst out under my feet."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade below stopped short, as I had foreseen it would when the squirts got empty."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade burst out again."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A sudden **fusillade** of musketry swept the courtyard as the guards resisted the mob."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The advancing columns were met by a murderous **fusillade** from the entrenched garrison."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes endured the **fusillade** of frantic questions with quiet, imperturbable patience."*

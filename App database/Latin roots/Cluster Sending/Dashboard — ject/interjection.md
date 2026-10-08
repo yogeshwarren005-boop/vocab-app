@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # interjection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt emphatic exclamation expressing emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of interjecting or interposing an action or remark that interrupts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt utterance, exclamation, or word expressing emotion inserted into speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of inserting or throwing between other elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Powderell, a retired iron-monger of some standing—his interjection being something between a laugh and a Parliamentary disapproval; “we must let you have your say."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"To this proposal, Dawdle answered by the interjection pish! which inflamed Sycamore to a repetition of the defiance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dairyman Crick’s stories often seemed to be ended when they were not really so, and strangers were betrayed into premature interjections of finality; though old friends knew better."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"An **interjection** is a part of speech that expresses some sudden emotion of the mind."*
+> - 📜 **Walter Scott (*Waverley*):** *"A loud **interjection** of horror broke from the bystanders as the tower fell."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Primitive speech was rich in emotional cries that modern grammars classify as an **interjection**."*

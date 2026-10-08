@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # profusely
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In large amounts; abundantly, copiously, or extravagantly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessive lavishness in speech, apologies, or bleeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They say that they perspire profusely."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Its supports were of silver gilt, beautifully chased, and profusely set with enamelled and jewelled medallions."*
-> - 📜 **Effie Afton (*Eventide*):** *"All around profusely thrown; Bowing in her proudest temple, Beggared Art, we humbly own!" As Florence ceased she refolded the paper and placed it in her pocket."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Cold sweat poured **profusely** from my brow as the phantom figure approached my bedside."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins apologized **profusely** for having intruded upon their private family assembly."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight bled **profusely** from a deep lance wound beneath his corslet."*

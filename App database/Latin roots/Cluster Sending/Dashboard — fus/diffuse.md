@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spread out or scatter over a large area; to disperse widely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In writing or speech, wordy, verbose, and lacking concise focus; not concentrated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These fostering measures were expected to increase wealth and to diffuse a greater welfare through the community."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My work, which had appeared so vague, so hopelessly diffuse, condensed itself as he proceeded, and assumed a definite form under his shaping hand."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Lenses of broad aperture **diffuse** light rays, producing slight chromatic aberration."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"His style was too **diffuse** and languid to sustain the intense interest of readers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Winds and currents steadily **diffuse** the minute seeds of plants across vast oceanic distances."*

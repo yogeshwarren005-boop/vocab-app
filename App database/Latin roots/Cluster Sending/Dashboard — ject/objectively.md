@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With objectivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With objectivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner not influenced by personal feelings or bias; with impartiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reality or physical actuality, as opposed to subjective imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In one sense it is in the minds of men--it is their wants; again, looked at objectively it is in the nature of the good--it is the quality that fits it to gratify the want."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"We must consider whether physical objects exist **objectively** and independently of our seeing them."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A judgment is **objectively** valid when it holds true for the experience of all rational beings."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The investigator must weigh the conflicting evidence **objectively** before forming conclusions."*

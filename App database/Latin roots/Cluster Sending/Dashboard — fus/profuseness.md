@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # profuseness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being extremely abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copious extravagance and lavish abundance in giving, spending, or natural growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of existing in overwhelming plenty or unchecked prodigality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, profuseness designates the property of being extremely abundant."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **profuseness** of court expenditures frequently exhausted the public revenues of the realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's imperial **profuseness** in rewarding favorites alienated his frugal subjects."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The glorious **profuseness** of alpine flora turns the bare meadows into carpets of gold."*

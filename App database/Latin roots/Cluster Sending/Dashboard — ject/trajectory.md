@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # trajectory
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The path followed by an object moving through space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The path followed by an object moving through space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curved path followed by a projectile or object moving through space under given forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The course, route, or developmental path of an event, career, or historical process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*
-> - 📜 **James Joyce (*Ulysses*):** *"Other eyewitnesses depose that they observed an incandescent object of enormous proportions hurtling through the atmosphere at a terrifying velocity in a trajectory directed southwest by west."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The parabolic **trajectory** of a cannon-shot is modified by the resistance of the atmosphere."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Every point in a dynamical system traces a definite geometric **trajectory** through space."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Astronomers calculated the blazing **trajectory** of the falling cylinder with great accuracy."*

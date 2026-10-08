@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # injectable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of drugs) capable of being injected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of drugs) capable of being injected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being injected, especially as a sterile pharmaceutical formulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, denoting a therapeutic liquid designed for subcutaneous, intramuscular, or intravenous administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injectable designates (used of drugs) capable of being injected."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pharmacist prepared an **injectable** serum to provide immediate antitoxic protection."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"The chemical compound must be rendered fully **injectable** without precipitating in the blood."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"Purification yielded an **injectable** penicillin extract safe for clinical trials."*

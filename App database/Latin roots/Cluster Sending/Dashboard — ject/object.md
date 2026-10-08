@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # object
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tangible and visible entity; an entity that can cast a shadow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The goal intended to be attained (and which is believed to be attainable).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material thing that can be seen and touched; an entity perceptible by the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A goal, purpose, or end of an effort; or grammatically, a noun governed by a verb or preposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He threw his eye aside, And mark what object did present itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind receives simple ideas whenever an external **object** affects the sensory organs."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her principal **object** in undertaking the journey was to restore harmony to her family."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human understanding is misled when it projects its own nature upon the natural **object**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuscoboletinus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family boletaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family boletaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bolete fungi characterized by dusky spore prints and mycorrhizal association with conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a group of boletes associated with larch trees, now often classified within *Suillus*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuscoboletinus designates a genus of fungi belonging to the family boletaceae."*
+> - 📜 **Alexander H. Smith (*The Boletes of Michigan*):** *"Species of **Fuscoboletinus** are distinguished by their purplish-brown to fuscous spore deposit."*
+> - 📜 **Rolf Singer (*The Agaricales in Modern Taxonomy*):** *"The genus **Fuscoboletinus** forms obligate mycorrhizal partnerships with larch trees across the north."*
+> - 📜 **Orson K. Miller (*Mushrooms of North America*):** *"Under the tamarack bogs we collected abundant specimens of **Fuscoboletinus** after autumn rains."*

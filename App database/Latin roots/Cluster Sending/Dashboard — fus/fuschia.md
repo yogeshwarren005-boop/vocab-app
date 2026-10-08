@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuschia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark purplish-red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark purplish-red color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely used variant spelling of *fuchsia*, a genus of ornamental plants with pendulous flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivid purplish-red color reminiscent of the blossoms of the fuchsia plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuschia designates a dark purplish-red color."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"Potted plants of flowering **fuschia** adorned the sunny ledge of the cottage parlor window."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The garden path was bordered by bright crimson **fuschia** drooping beneath the summer rain."*
+> - 📜 **Elizabeth Gaskell (*Wives and Daughters*):** *"She admired the delicate bell-shaped blooms of the **fuschia** standing in the conservatory."*

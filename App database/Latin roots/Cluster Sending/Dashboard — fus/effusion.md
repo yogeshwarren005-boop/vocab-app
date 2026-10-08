@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # effusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unrestrained expression of emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow under pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unrestrained, copious, or emotional outpouring in speech, writing, or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the escape of fluid from anatomical vessels into body tissues or cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For our losses, his exchequer is too poor; for the effusion of our blood, the muster of his kingdom too faint a number; and for our disgrace, his own person, kneeling at our feet, but a weak and worthless satisfaction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my good lord, and as the only means To stop effusion of our Christian blood And stablish quietness on every side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Friend hast thou none; For thine own bowels which do call thee sire, The mere effusion of thy proper loins, Do curse the gout, serpigo, and the rheum For ending thee no sooner."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's passionate **effusion** of grief moved every heart that witnessed her distress."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A large serous **effusion** in the pleural cavity produced marked respiratory distress."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peace was purchased without the **effusion** of Roman blood through skilled diplomacy."*

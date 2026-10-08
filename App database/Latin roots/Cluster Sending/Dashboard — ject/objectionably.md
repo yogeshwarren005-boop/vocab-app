@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectionably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obnoxious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obnoxious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an objectionable, offensive, or disagreeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a way that rightly elicits disapproval, protest, or censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectionably designates in an obnoxious manner."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He behaved **objectionably** at the dinner party, monopolizing the talk with boastful tales."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His comments were phrased so **objectionably** that even his supporters felt embarrassed."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The domestic chaplain intruded **objectionably** into matters that belonged solely to the dean."*

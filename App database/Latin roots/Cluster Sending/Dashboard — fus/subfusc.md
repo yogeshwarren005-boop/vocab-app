@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subfusc
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of brightness or appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of brightness or appeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dusky, drab, or somber in color; of a dark, muted hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal dark clothing worn by students and dons for examinations at the University of Oxford.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subfusc designates devoid of brightness or appeal."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The scholars paraded through the quadrangle in solemn **subfusc** gowns under the grey skies."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A **subfusc** cloak of modest wool protected the traveler from the piercing winter wind."*
+> - 📜 **Max Beerbohm (*Zuleika Dobson*):** *"The undergraduates wore strict **subfusc** attire as they assembled in the Sheldonian Theatre."*

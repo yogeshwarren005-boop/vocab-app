@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # perfusion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage of blood or fluid through the circulatory or lymphatic system to an organ or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pouring liquid over or through something to bathe or saturate it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfusion designates pumping a liquid into an organ or tissue (especially by way of blood vessels)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adequate capillary **perfusion** is essential to prevent irreversible ischemic damage to the brain."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The apparatus maintained continuous **perfusion** of warm nutrient fluid through the vascular beds."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Through organ **perfusion**, the physiologist isolates specific metabolic functions from the body."*

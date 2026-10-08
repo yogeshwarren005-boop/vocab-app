@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fustian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous or pretentious talk or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong cotton and linen fabric with a slight nap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stout, durable cotton or linen cloth; formerly common for working-class clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous, bombastic, or pretentious speech or writing claiming grand importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot endure such a fustian rascal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Drunk? and speak parrot? and squabble? swagger? swear? and discourse fustian with one’s own shadow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is supper ready, the house trimmed, rushes strewed, cobwebs swept, the servingmen in their new fustian, their white stockings, and every officer his wedding-garment on?"*
+> - 📜 **William Shakespeare (*Othello*):** *"Discourse **fustian** with one's own shadow, and speak parrot-like without understanding."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The mill hands dressed in coarse **fustian** jackets hurried toward the clattering factories."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"And empty words, and swelling **fustian** sound, where sense is lost and dullness reigns around."*

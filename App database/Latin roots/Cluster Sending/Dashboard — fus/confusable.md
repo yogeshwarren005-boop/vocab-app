@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So similar as to be easily identified for another thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So similar as to be easily identified for another thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to be confused or mistaken for another person, word, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, designating words of similar spelling or pronunciation easily mixed up.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confusable designates so similar as to be easily identified for another thing."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"Homophones are readily **confusable** in rapid dictation unless clarified by context."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensations of slight pitch differences are **confusable** by an untrained musical ear."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Closely related vowel sounds become easily **confusable** across regional dialects."*

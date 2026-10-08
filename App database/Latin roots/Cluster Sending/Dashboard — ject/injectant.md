@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # injectant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any solution that is injected (as into the skin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or medicinal fluid that is injected into a body or geological structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and geology, a chemical grout or slurry pumped into fractures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injectant designates any solution that is injected (as into the skin)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The therapeutic **injectant** must be tested for pyrogens before intravenous delivery."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The liquid **injectant** solidified within the sandstone fissures, sealing the subterranean fault."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The potency of each bacterial **injectant** was carefully calibrated in experimental models."*

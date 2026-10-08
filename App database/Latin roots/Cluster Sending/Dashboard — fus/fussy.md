@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fussy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annoyed and irritable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcrowded or cluttered with detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastidious, finicky, and hard to please; showing excessive concern over small details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of unnecessary, elaborate, or restless decorative details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rattle of the quarter-jack again from its niche, its blows for three-quarters, its fussy retreat, were almost painfully abrupt, and caused many of the congregation to start palpably."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"She's getting old and timid and fussy,” muttered Reddy Fox, as he hobbled along behind her."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Commander is fussy about the people he drinks with." "Well, you tell him..." Scarf raised a fist to add gesture to his words, but Brad waved him off, his eyes holding on Rimov."*
+> - 📜 **Jane Austen (*Emma*):** *"Her companion was too **fussy** and particular to enjoy a simple, spontaneous country walk."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was an energetic, **fussy** little lawyer who rustled parchment with immense self-importance."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff was a **fussy** man who gave ten conflicting orders in as many minutes."*

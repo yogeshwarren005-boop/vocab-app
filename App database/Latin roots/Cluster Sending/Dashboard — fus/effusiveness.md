@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # effusiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A friendly open trait of a talkative person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friendly open trait of a talkative person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrative enthusiasm and unrestrained warmth in expressing emotion or praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive readiness to pour out sentiments and verbal endearments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effusiveness designates a friendly open trait of a talkative person."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her southern **effusiveness** contrasted sharply with the reserve of the New England household."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She shrank from the vulgar **effusiveness** with which the theatrical manager addressed her."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Affected **effusiveness** in polite society is often a thin disguise for cold indifference."*

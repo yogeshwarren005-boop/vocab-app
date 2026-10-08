@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # projectionist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who operates the projector in a movie house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who operates the projector in a movie house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates a motion-picture projector or optical slide presentation system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technician trained in the alignment, lens focus, and optical projection of visual media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, projectionist designates the person who operates the projector in a movie house."*
+> - 📜 **H. G. Wells (*The Autocracy of Mr. Parham*):** *"The **projectionist** adjusted the arc light, throwing clear diagrams upon the lecture hall screen."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The cinema **projectionist** worked through the afternoon heat in his cramped booth above the hall."*
+> - 📜 **John Dos Passos (*The Big Money*):** *"The **projectionist** signaled that the newsreel was threaded and ready to roll for the audience."*

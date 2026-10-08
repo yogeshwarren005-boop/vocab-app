@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rejected
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to accept or acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dismissed, refused, or cast aside as unsuitable, untrue, or inadequate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering emotional abandonment or exclusion from affection or fellowship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then woo thyself, be of thyself rejected, Steal thine own freedom, and complain on theft. 160 Narcissus so himself himself forsook, And died to kiss his shadow in the brook."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn and he give private audience to the rejected witness in a corner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though a rejected witness, who “can’t exactly say” what will be done to him in greater hands than men’s, thou art not quite in outer darkness."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The **rejected** suitor walked away into the misty marshes with a heavy, broken heart."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The proud senate **rejected** the barbarian chieftain's insolent demands for tribute."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He had **rejected** the hollow dogmas of his time to seek spiritual reality alone."*

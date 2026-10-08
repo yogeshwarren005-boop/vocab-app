@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # adjectival
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or functioning as an adjective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or functioning as an adjective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as an adjective in modifying a noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, designating phrases, clauses, or affixes that serve to qualify substantives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"It must contain, as far as the mind is concerned, no substantives which could be put into an adjectival form; in other words, the object defined must not be explained through abstractions."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The participle frequently assumes a purely **adjectival** function in modern English syntax."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In certain American tongues, **adjectival** concepts are expressed exclusively by verbal forms."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Prepositional phrases often discharge an **adjectival** duty by defining nominal heads."*

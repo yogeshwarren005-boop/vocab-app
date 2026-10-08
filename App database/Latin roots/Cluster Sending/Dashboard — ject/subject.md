@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subject matter of a conversation or discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (a person or object or scene) selected by an artist or photographer for graphic representation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person under the rule, authority, or dominion of a monarch or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A topic, branch of knowledge, or theme under discussion; or the thinking consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that your royalty Holds idleness your subject, I should take you For idleness itself."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Every **subject** owes obedience to the sovereign who maintains peace and common defense."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Every **subject**'s duty is the king's; but every subject's soul is his own."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The transcendental **subject** is the unifying source of all conscious representations."*

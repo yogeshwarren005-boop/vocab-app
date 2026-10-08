@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fused
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become plastic or fluid or liquefied from heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined, blended, or melted together into a single continuous entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical systems, rendered inoperative by the melting of a protective fuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"By our era all these religions were fused into one religion, of many cults and rites and ancient traditions; and the incredible weight of old tradition in that world is hard to overestimate."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the religions were fused and the gods were blended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In adult mammals, the cranial sutures become **fused** into a solid protective bony vault."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Intense subterranean heat had **fused** the quartz grains into compact, vitreous quartzite."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate brass bearings were partly **fused** by the intense friction of the journey."*

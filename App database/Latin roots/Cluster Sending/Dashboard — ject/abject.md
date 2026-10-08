@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the most contemptible kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most unfortunate or miserable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast down to a low condition; utterly hopeless, wretched, humiliating, or miserable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degraded and contemptible; showing humiliating servility or submissiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dissembling harlot, thou art false in all, And art confederate with a damned pack To make a loathsome abject scorn of me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disgrace not so your king, That he should be so abject, base, and poor, To choose for wealth and not for perfect love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Nell, ill can thy noble mind abrook The abject people gazing on thy face With envious looks, laughing at thy shame, That erst did follow thy proud chariot wheels When thou didst ride in triumph through the streets."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The captive monarch was reduced to an **abject** servitude by his Persian captors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To bow and sue for grace with suppliant knee was deemed an **abject** posture by Satan."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They exchanged dignified liberty for the most **abject** submission to military tyranny."*

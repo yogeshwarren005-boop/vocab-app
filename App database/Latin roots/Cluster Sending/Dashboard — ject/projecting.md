@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # projecting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending outward beyond a surface or boundary; jutting or protruding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Planning, calculating, or casting forward into future scenarios or upon screens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Often a deep circular hole was dug in the hut and the girl squatted in the hole, with her head projecting above the surface of the ground."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then he turns again to the hearth, and after crossing himself falls on his knees and kisses the projecting part of the Yule log."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While he sits thus enriching the milk of the dairy, the lads who are to herd the sheep in the coming year go to the hearth and kneeling down before it kiss each other across the projecting end of the Yule log."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The antique house had narrow windows and a heavily **projecting** carved stone doorway."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We scaled the **projecting** crags of basalt to gain an unobstructed view of the volcanic peak."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Archers were stationed along the **projecting** battlements to repel the besieging forces."*

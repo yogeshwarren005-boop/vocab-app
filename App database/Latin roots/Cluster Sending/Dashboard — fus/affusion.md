@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # affusion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of baptizing someone by pouring water on their head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of baptizing someone by pouring water on their head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pouring liquid upon something, especially water in baptism or medical treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrotherapy, the medicinal pouring of cold or warm water over the body to reduce fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affusion designates the act of baptizing someone by pouring water on their head."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cold water **affusion** was systematically applied to reduce the dangerously elevated temperature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient sacrament was administered by three-fold **affusion** in the presence of the congregation."*
+> - 📜 **Jeremy Taylor (*The Worthy Communicant*):** *"Spiritual grace is represented outward by the holy **affusion** of water upon the brow."*

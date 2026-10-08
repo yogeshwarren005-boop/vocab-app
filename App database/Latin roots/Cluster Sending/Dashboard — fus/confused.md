@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confused
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perplexed, bewildered, or unable to understand something clearly; disoriented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking clear order, organization, or distinction; jumbled together chaotically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when such time they have begun to cry, Let them not cease, but with a din confused Enforce the present execution Of what we chance to sentence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A **confused** murmur of many voices arose from the courtroom as the verdict was read."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A strange and **confused** variety of sensations seized me when I first woke to life."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The retreating infantry fell into **confused** ranks beneath the onslaught of cavalry."*

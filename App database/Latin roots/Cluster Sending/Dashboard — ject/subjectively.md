@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjectively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subjective way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subjective way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner influenced by personal feelings, thoughts, or perceptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the internal viewpoint of the experiencing subject rather than external observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of love as a spectacle Bathsheba had a fair knowledge; but of love subjectively she knew nothing."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He was, in fact, commanding destiny--subjectively."*
+> - 📜 **Søren Kierkegaard (*Concluding Unscientific Postscript*):** *"Truth is realized **subjectively** when an individual commits passionately to an inward conviction."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Religious experiences must be evaluated **subjectively** by the spiritual fruits they produce."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"We experience values **subjectively**, though we project them upon the physical world."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # infusoria
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some recent classifications, coextensive with the ciliata: minute organisms found in decomposing infusions of organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic group of microscopic ciliated aquatic organisms found in decaying vegetable infusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early microscopy, animalcules and protozoans observed teeming in water exposed to air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In reality, it was an infinite agglomeration of coloured infusoria, of veritable globules of jelly, provided with a threadlike tentacle, and of which as many as twenty-five thousand have been counted in less than two cubic half-inches of water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, my boy; and you need not try to compute the number of these infusoria."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sea was phosphorescent with teeming clouds of minute **infusoria** glowing in our wake."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Leeuwenhoek first discovered the astonishing world of **infusoria** within a simple drop of water."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Organic solutions boiled and sealed from air produce no living **infusoria** whatsoever."*

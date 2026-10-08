@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rejection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rejecting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being rejected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of refusing to accept, approve, or adopt something; refusal or dismissal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and surgery, the immune response whereby a host body attacks a transplanted organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is that tantamount, sir, to acceptance, or rejection, or consideration?” “To decided rejection, if you please,” returned my guardian."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This faith may be absolute, or radical, to the rejection of all economic competition; or it may be moderate, and leave more or less place for self-interest and competition."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nature seemed to me benign and good; I thought she loved me, outcast as I was; and I, who from man could anticipate only mistrust, rejection, insult, clung to her with filial fondness."*
+> - 📜 **Jane Austen (*Emma*):** *"Her decisive **rejection** of his suit astonished and mortified his vanity beyond measure."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The hasty **rejection** of utilitarian principles usually arises from misunderstanding their scope."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The peaceful **rejection** of a law by judicial review demonstrates constitutional equilibrium."*

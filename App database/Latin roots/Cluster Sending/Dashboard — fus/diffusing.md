@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffusing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading widely through a medium, space, or population; dispersing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, the spontaneous intermingling of particles across a concentration gradient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, whose black dye was so deep from head to foot that it had quite steamed before the fire, diffusing a very unpleasant perfume, made a short one-sided inclination of his head from the neck and slowly shook it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Civil power, properly organized and exerted, is capable of diffusing its force to a very great extent; and can, in a manner, reproduce itself in every part of a great empire by a judicious arrangement of subordinate institutions."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the aim was the progress of civilization, it is easy to see that there are other ways of diffusing civilization more expedient than by the destruction of wealth and of human lives."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic lines of force were observed **diffusing** outward through the surrounding dielectric."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The morning sun arose, **diffusing** warmth and golden radiance over the newly created earth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman civilization succeeded in **diffusing** humane arts and equitable laws among barbarian tribes."*

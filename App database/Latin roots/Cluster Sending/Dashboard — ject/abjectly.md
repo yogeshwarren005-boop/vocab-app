@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abjectly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hopeless resigned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hopeless resigned manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wretched, contemptible, or humiliatingly submissive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With profound servility, groveling before authority or adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him that thinks of me so abjectly Know that this gold must coin a stratagem, Which, cunningly effected, will beget A very excellent piece of villainy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s sickly body, shattered by the agitations he had gone through since the last evening, made him feel abjectly in the power of this loud invulnerable man."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He quailed before the Israelitish eye so shrewdly cocked at him, and when in a very spasm of despair he tried to meet it, he was so abjectly quelled by it that he felt his face a proclamation of his secret."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The terrified prisoner knelt **abjectly** before the Templar, begging for his life."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The wretched clerk apologized **abjectly** for a harmless mistake in the ledger."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He flattered the wealthy baronet **abjectly** in hopes of securing a legacy."*

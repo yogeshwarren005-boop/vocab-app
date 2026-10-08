@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # introjected
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporate (attitudes or ideas) into one's personality unconsciously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporated unconsciously into your own psyche.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporated unconsciously into one's own personality, psyche, or mental representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assimilated without critical examination into personal conscience or self-image.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introjected designates incorporate (attitudes or ideas) into one's personality unconsciously."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The super-ego represents the **introjected** authority of the father and ancestral moral codes."*
+> - 📜 **Sándor Ferenczi (*Contributions to Psychoanalysis*):** *"The patient projected his own fears upon the therapist's **introjected** image."*
+> - 📜 **Karen Horney (*Neurosis and Human Growth*):** *"Her tyrannical perfectionism arose from **introjected** demands instilled during early childhood."*

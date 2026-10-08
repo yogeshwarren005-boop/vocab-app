@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # infuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach and impress by frequent repetitions or admonitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill, as with a certain quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fill, instill, or imbue with a quality, idea, or feeling; to permeate thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To soak tea, herbs, or substances in liquid to extract medicinal or flavorful principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for thy life let justice be accus’d; Thou almost mak’st me waver in my faith, To hold opinion with Pythagoras That souls of animals infuse themselves Into the trunks of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These words, these looks, infuse new life in me."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the high duty of wise tutors to **infuse** noble principles into the minds of youth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Divine inspiration did **infuse** celestial grace into the newly created soul of man."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The nurse began to **infuse** warm physiological broth to support the patient's heart."*

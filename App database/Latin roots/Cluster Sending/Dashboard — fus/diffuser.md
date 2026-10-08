@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffuser
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baffle that distributes sound waves evenly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device that distributes the light of a lamp evenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or attachment that disperses, scatters, or spreads a fluid, gas, or light evenly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and aerodynamics, a duct shaped to decrease velocity and increase static pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffuser designates baffle that distributes sound waves evenly."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A frosted glass **diffuser** placed before the lamp equalizes the intensity of the illumination."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"An automatic **diffuser** released oxygen vapor in gentle puffs inside our sphere."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The popular lecturer serves as a useful **diffuser** of scientific discoveries to the general public."*

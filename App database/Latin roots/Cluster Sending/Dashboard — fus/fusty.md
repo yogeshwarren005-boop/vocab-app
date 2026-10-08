@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusty
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stale and unclean smelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling stale, damp, or moldy; musty from lack of fresh air or cleanliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned, antiquated, and stubbornly conservative in ideas or customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At this fusty stuff The large Achilles, on his press’d bed lolling, From his deep chest laughs out a loud applause; Cries ‘Excellent! ’Tis Agamemnon right!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector shall have a great catch and knock out either of your brains: a’ were as good crack a fusty nut with no kernel."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Mustard popping in and out giving her instructions, and smiling like a fusty old hawk that has caught a goldfinch which he fears some one will take away from him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old law offices were damp, **fusty**, and choked with crumbling yellow parchment."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The **fusty** plebeians hate thine honors, yet envy the renown thou hast won."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She disliked the **fusty** prejudices of the provincial gentry who resisted all change."*

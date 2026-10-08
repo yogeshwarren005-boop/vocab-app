@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # suffusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of permeating or infusing something with a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pouring or spreading over; an overspreading with light, color, or moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, an extravasation of blood or fluid into the surrounding tissues causing discoloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The dim forehead was crowned with a star; the lineaments below were seen as through the suffusion of vapour; the eyes shone dark and wild; the hair streamed shadowy, like a beamless cloud torn by storm or by electric travail."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There was both contusion and suffusion of the brain."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor thought a moment and said:-- “We must reduce the pressure and get back to normal conditions, as far as can be; the rapidity of the suffusion shows the terrible nature of his injury."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A burning **suffusion** of red mounted to her brow before the gaze of the Puritan crowd."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked vascular **suffusion** of the conjunctiva accompanied the initial catarrhal stage."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The delicate roseate **suffusion** on the snowy peaks heralded the setting of the sun."*

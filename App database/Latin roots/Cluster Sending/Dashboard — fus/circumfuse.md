@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # circumfuse
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread something around something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread something around something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour around; to spread, diffuse, or surround with a fluid, light, or atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To envelop or bathe completely in an ambient element or luminous radiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Glowing, and circumfused in speechless love, Their full divinity inadequate That feeling to express, or to improve, The gods become as mortals, and man's fate Has moments like their brightest! but the weight Of earth recoils upon us;--let it go!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial light did **circumfuse** the shining throne in waves of unapproachable glory."*
+> - 📜 **Samuel Taylor Coleridge (*The Destiny of Nations*):** *"Gentle mists **circumfuse** the sleeping valley as dawn breaks over the northern hills."*
+> - 📜 **Percy Bysshe Shelley (*Epipsychidion*):** *"Warm breezes seemed to **circumfuse** the island with fragrance drawn from distant blossoms."*

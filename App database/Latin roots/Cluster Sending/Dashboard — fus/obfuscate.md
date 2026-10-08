@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # obfuscate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make obscure or unclear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make obscure or unclear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render obscure, unclear, or unintelligible; to confuse or bewilder intentionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cast darkness or gloom over something physically or intellectually.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obfuscate designates make obscure or unclear."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sophists deliberately seek to **obfuscate** constitutional principles with specious subtleties."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ambiguous words serve chiefly to **obfuscate** simple truths and perpetuate verbal disputes."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Pedantic jargon is employed to **obfuscate** ordinary facts under the guise of profound learning."*

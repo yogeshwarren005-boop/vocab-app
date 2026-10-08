@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # projectile
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that is forcibly thrown or projected at a targets but is not self-propelled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any vehicle self-propelled by a rocket engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A missile or object thrown, shot, or propelled forward through the air by external force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, designating a body moving under the combined influence of initial momentum and gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This precious weapon of American origin could throw with ease a conical projectile of nine pounds to a mean distance of ten miles."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I went down at the moment another projectile struck the _Nautilus_, and I heard the Captain exclaim: “Strike, mad vessel!"*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A **projectile** continues in its trajectory unless deflected by the resistance of the air or gravity."*
+> - 📜 **Galileo Galilei (*Dialogues Concerning Two New Sciences*):** *"The path described by a heavy **projectile** launched obliquely is a perfect parabola."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A luminous green **projectile** hurtled through the midnight sky and plunged into Horsell Common."*

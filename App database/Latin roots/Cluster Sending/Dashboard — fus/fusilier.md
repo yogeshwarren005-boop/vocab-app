@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusilier
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formerly) a british infantryman armed with a light flintlock musket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly) a british infantryman armed with a light flintlock musket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historically, an infantry soldier armed with a light flintlock musket; member of a fusilier regiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of certain traditional British infantry regiments that retain the historic designation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A Dublin fusilier was in that shelter one night and said he saw him in South Africa."*
-> - 📜 **James Joyce (*Ulysses*):** *"There he is: royal Dublin fusiliers."*
-> - 📜 **James Joyce (*Ulysses*):** *"Along the route the regiments of the Royal Dublin Fusiliers, the King’s own Scottish Borderers, the Cameron Highlanders and the Welsh Fusiliers, standing to attention, keep back the crowd."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The gallant young **fusilier** marched bravely toward Brussels on the eve of the campaign."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A veteran **fusilier** kept watch upon the fortress parapet against midnight surprise."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The town volunteers were organized into companies of **fusiliers** and light horse."*

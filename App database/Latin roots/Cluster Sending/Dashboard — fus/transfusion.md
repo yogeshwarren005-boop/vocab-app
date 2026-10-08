@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transfusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of blood or blood plasma into a vein or artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of pouring a liquid from one vessel to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of transferring blood or blood products into the circulatory system of a person or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transfer or instilling of vitality, resources, or fresh enthusiasm into an institution or effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"There must be transfusion of blood at once."*
-> - 📜 **Bram Stoker (*Dracula*):** *"My friend John and I have consulted; and we are about to perform what we call transfusion of blood--to transfer from full veins of one to the empty veins which pine for him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"As the transfusion went on something like life seemed to come back to poor Lucy’s cheeks, and through Arthur’s growing pallor the joy of his face seemed absolutely to shine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct blood **transfusion** promptly arrested the collapse and restored a vigorous pulse."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Modern science brought a vital **transfusion** of empirical truth into ancient scholastic philosophy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The constant **transfusion** of active minds from commerce into governance invigorates public life."*

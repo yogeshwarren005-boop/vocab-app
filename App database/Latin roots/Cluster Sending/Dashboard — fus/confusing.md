@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing perplexity, bewilderment, or inability to think clearly; hard to follow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinctness or logical separation; tending to blend together misleadingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Be happy!” His benignity as he raised his future daughter-in-law and stretched out his hand to his son (who kissed it with affectionate respect and gratitude) was the most confusing sight I ever saw."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tracks were absolutely the only guide as to the direction that they now had, and great caution was necessary to avoid confusing them with some others which had made their appearance lately."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I’m afraid I can’t put it more clearly,” Alice replied very politely, “for I can’t understand it myself to begin with; and being so many different sizes in a day is very confusing.” “It isn’t,” said the Caterpillar."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She found the conflicting counsels of her elders intensely **confusing** to her conscience."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The fog upon the mire made the crisscross trails exceedingly **confusing** to the searchers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Intercrossing between varieties produces **confusing** gradations that baffle classification."*

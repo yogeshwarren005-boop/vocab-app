@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # injector
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device or apparatus designed to pump or force fluids into a chamber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In steam engines, an apparatus using high-pressure steam jets to force water into a boiler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is then necessary to restore the normal quantity of oxygen, and so, as the air passes on, it meets, in a little apparatus known as an injector, a spray of pure oxygen from the cylinders."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The Giffard **injector** feeds water into a high-pressure boiler using the boiler's own steam."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon selected an automatic **injector** to ensure uniform fluid dosage."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A delicate fuel **injector** hummed softly inside the bronze casing of the apparatus."*

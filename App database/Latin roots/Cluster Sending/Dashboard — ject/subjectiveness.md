@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjectiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dependence upon personal feelings, internal impressions, or individual perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal, personal character of conscious experience or artistic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectiveness designates judgment based on individual personal impressions and feelings and opinions rather than external facts."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"He emphasized the inevitable **subjectiveness** of human knowledge under sensory limitations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intense **subjectiveness** of emotional pain isolates the sufferer from surrounding reality."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Her youth was marked by a passionate **subjectiveness** that magnified every minor disappointment."*

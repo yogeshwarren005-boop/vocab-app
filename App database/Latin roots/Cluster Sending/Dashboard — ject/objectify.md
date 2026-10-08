@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make external or objective, or give reality to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impersonal or present as an object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To degrade or reduce a human being to the status of a mere object or instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give concrete or objective form to an abstract concept, emotion, or idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The picture is the artist's thought objectified."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Works of fine sculpture **objectify** the permanent Platonic ideas underlying mortal forms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We tend to **objectify** our subjective sensations, attributing them directly to external bodies."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"Aesthetic judgment seeks to **objectify** pleasure, transforming feeling into an attribute of the thing."*

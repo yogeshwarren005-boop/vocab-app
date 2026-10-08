@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # conjectural
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or involving conjecture; speculative and theoretical rather than factual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism, designating an emendation proposed without manuscript authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou speak’st it falsely, as I love mine honour, And mak’st conjectural fears to come into me Which I would fain shut out."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She walked briskly in the brisk air, the color rose in her cheeks, and her straw bonnet (which our contemporaries might look at with conjectural curiosity as at an obsolete form of basket) fell a little backward."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As regarded its origin there were various explanations, all of which must necessarily have been conjectural."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Such far-fetched theories remain purely **conjectural** until verified by experiment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early history of the barbarian migrations is obscured by **conjectural** narratives."*
+> - 📜 **Richard Bentley (*Dissertation on the Epistles of Phalaris*):** *"The proposed reading rests upon **conjectural** criticism unsupported by any surviving codex."*

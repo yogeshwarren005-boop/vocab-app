@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # adjectively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As an adjective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As an adjective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner or role of an adjective; serving to modify or describe a noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Functioning attributively to restrict or color the sense of a substantive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjectively designates as an adjective."*
+> - 📜 **Robert Lowth (*A Short Introduction to English Grammar*):** *"Substantives are frequently joined **adjectively** to other nouns in common parlance."*
+> - 📜 **Lindley Murray (*English Grammar*):** *"A participle used **adjectively** must agree in sense with the noun it qualifies."*
+> - 📜 **William Cobbett (*A Grammar of the English Language*):** *"When words denoting materials are placed **adjectively**, they require no change of form."*

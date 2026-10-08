@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # projection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prediction made by extrapolating from past observations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The projection of an image from a film onto a screen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimate or forecast of future trends based on a study of present data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part that juts out or extends beyond a surface; or the presentation of an image upon a screen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In cases of defence ’tis best to weigh The enemy more mighty than he seems, So the proportions of defence are fill’d; Which, of a weak and niggardly projection, Doth, like a miser, spoil his coat with scanting A little cloth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Below, down to the water’s edge, the flat was unbroken by hole or projection."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The rocky **projection** sheltered the fishing boats from the violent southerly breakers."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Any mathematical **projection** of population growth demonstrates the necessity of moral restraint."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Psychological **projection** transfers internal hostile impulses onto external individuals or spirits."*

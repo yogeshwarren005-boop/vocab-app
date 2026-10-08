@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusedness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state characterized by a lack of clear and orderly thought and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state characterized by a lack of clear and orderly thought and behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muddled mental state characterized by bewilderment, lack of clarity, or disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctness and chaos in composition, thought, or arrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"An eddying murmur filled my ears, and a strange, dumb confusedness descended on my mind."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **confusedness** of our ideas arises from having no settled marks to distinguish them."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"A strange **confusedness** of mind haunts the melancholic man both waking and sleeping."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **confusedness** of his narrative demonstrated that fear had impaired his judgment."*

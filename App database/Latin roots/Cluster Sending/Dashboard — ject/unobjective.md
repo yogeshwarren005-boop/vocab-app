@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unobjective
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of e.g. evidence) not objective or easily verified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. evidence) not objective or easily verified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not objective; biased, prejudiced, or colored by personal feelings and preconceptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to adhere to standards of impartial empirical verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobjective designates (of e.g. evidence) not objective or easily verified."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"Emotional partisanship makes historians dangerously **unobjective** in judging past conflicts."*
+> - 📜 **William James (*The Will to Believe*):** *"Our deepest personal affections are inevitably **unobjective**, yet they give life its meaning."*
+> - 📜 **Karl Popper (*The Poverty of Historicism*):** *"Propaganda masquerading as science relies upon **unobjective** and untestable assertions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dejectedness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of low spirits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of low spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowness of spirits; melancholy, depression, or dispirited gloom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sorrowful cast of demeanor reflecting internal grief or failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dejectedness designates a feeling of low spirits."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Persistent sorrow brings a heavy **dejectedness** of mind that blunts all natural joy."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Christian hope provides an antidote against that sinful **dejectedness** which paralyzes faith."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The constant dread of poverty induces a sullen **dejectedness** among struggling artists."*

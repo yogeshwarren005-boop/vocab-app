@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # introjection
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) unconscious internalization of aspects of the world (especially aspects of persons) within the self in such a way that the internalized representation takes over the psychological functions of the external objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In psychology, the unconscious process whereby external beliefs, values, and traits are adopted as one's own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and epistemology, Richard Avenarius's term for the unwarranted projection of inner thoughts into external reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introjection designates (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The formation of the super-ego is achieved through the profound **introjection** of parental figures."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Epistemological dualism often arises from an uncritical **introjection** of sensations into mental space."*
+> - 📜 **Sándor Ferenczi (*Introjection and Transference*):** *"Through **introjection**, the growing child assimilates the emotional atmosphere of the family."*

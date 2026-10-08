@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # uninjectable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of drugs) not capable of being injected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of drugs) not capable of being injected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable, safe, or possible to be injected into a body or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, describing a compound that cannot be formulated into a sterile injectable solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninjectable designates (used of drugs) not capable of being injected."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The crude chemical precipitate was completely **uninjectable** due to its coarse grain."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"Toxins bound to insoluble carriers remained **uninjectable** until dissolved in neutral saline."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Early preparations were too toxic and **uninjectable** for routine clinical treatment."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # injection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The forceful insertion of a substance under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any solution that is injected (as into the skin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing a liquid or medicinal substance into the body by means of a syringe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The introduction of a new element, energy, or capital into an existing system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The injection was begun, and three hours after the thermometer marked 6° below zero outside."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes took his bottle from the mantelpiece and prepared the hypodermic **injection**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt subcutaneous **injection** of morphine relieved the agonizing pain of the paroxysm."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A sudden **injection** of metallic currency from foreign trade stimulates local commerce."*

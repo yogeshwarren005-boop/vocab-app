@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # ejector
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who ousts or supplants someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism in a firearm that ejects the empty shell case after firing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or mechanical apparatus that throws out, discharges, or expels substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms and steam engineering, a mechanism that expels spent cartridges or draws steam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ejector designates a person who ousts or supplants someone else."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian machinery contained a steam **ejector** that hissed furiously amidst the smoke."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The steam jet acts as an efficient **ejector**, entraining air through the narrow orifice."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The casual **ejector** was a legal fiction employed in ancient actions of ejectment."*

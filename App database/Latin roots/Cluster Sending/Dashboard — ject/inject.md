@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # inject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an injection to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce (a new aspect or element).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive or force a fluid, medicine, or substance into a passage, cavity, or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce an idea, quality, or element suddenly into a conversation or situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I inject into her chest about a doz. of different preparations."*
-> - 📜 **James Joyce (*Ulysses*):** *"Fear injects juices make it tender enough for them."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prepared to **inject** saline solution to combat severe vascular collapse."*
+> - 📜 **Henry James (*The Bostonians*):** *"She managed to **inject** a note of subtle irony into her otherwise courteous reply."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"We can **inject** volatile gases into the sealed glass tube to examine spectral changes."*

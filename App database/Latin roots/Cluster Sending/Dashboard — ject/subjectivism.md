@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjectivism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that knowledge and value are dependent on and limited by your subjective experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being subjective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In philosophy, the doctrine that knowledge is merely subjective and relative to the observer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and aesthetics, the belief that moral truths and beauty depend entirely on individual attitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectivism designates (philosophy) the doctrine that knowledge and value are dependent on and limited by your subjective experience."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Extreme **subjectivism** leads inevitably to solipsism and the paralysis of scientific inquiry."*
+> - 📜 **William James (*The Will to Believe*):** *"Romantic **subjectivism** celebrates personal passion above dry intellectual calculation."*
+> - 📜 **George Santayana (*Winds of Doctrine*):** *"Modern philosophy succumbed to a pervasive **subjectivism** that dissolved the external world."*

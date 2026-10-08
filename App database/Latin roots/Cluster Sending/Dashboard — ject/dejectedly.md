@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dejectedly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dejected manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dejected manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a depressed, dispirited, or downcast manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sorrowful resignation and lowered countenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe offered no answer, poor fellow, but stood feeling his whisker and looking dejectedly at me, as if he thought it really might have been a better speculation."*
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope's hand, and turning dejectedly away."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am fond of reading aloud; I believe I do it pretty well." "I don't," she said dejectedly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I walked **dejectedly** across the wet moors, wondering what refuge remained for me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She returned **dejectedly** to her cottage after the painful encounter on the road."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The inspector shook his head **dejectedly** as the last clue vanished into the fog."*

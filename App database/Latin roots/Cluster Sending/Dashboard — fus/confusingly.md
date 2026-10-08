@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # confusingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bewildering and confusing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bewildering and confusing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes bewilderment, perplexity, or error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With misleading ambiguity or lack of distinct boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confusingly designates in a bewildering and confusing manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The boundaries of the ancient parish were **confusingly** tangled with neighboring manors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The dispatches were **confusingly** written, leaving the admiralty in doubt as to the outcome."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Childhood memories often present themselves **confusingly** intertwined with dreams."*

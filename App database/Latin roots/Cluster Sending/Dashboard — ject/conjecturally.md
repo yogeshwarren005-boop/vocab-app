@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # conjecturally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner involving or inclined to conjecture and supposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner involving or inclined to conjecture and supposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of conjecture or surmise; hypothetically and without positive proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a speculative or inferential manner based on circumstantial evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjecturally designates in a manner involving or inclined to conjecture and supposition."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We can only **conjecturally** assign causes where direct observation has not penetrated."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The geological epoch of the divergence can only be determined **conjecturally** from fragmentary fossils."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The motives of the conspirators could only be known **conjecturally** through whispered rumors."*

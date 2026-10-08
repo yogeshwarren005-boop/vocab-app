@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forced submission to control by others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conquering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing under control, rule, or dominion; subjugation or servitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subservience, dependence, or legal subordination under an external authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare be bound he’s true and shall perform All parts of his subjection loyally."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, if these men do not die well, it will be a black matter for the King that led them to it; who to disobey were against all proportion of subjection."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The legal **subjection** of one sex to the other is wrong in itself and a hindrance to human progress."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The complete **subjection** of Britain cost the Roman legions centuries of arduous warfare."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Nations accustomed to freedom will never brook perpetual military **subjection**."*

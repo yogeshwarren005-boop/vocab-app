@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # perfuse
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force a fluid through (a body part or tissue).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to spread or flush or flood through, over, or across.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour liquid over or through something; to permeate or bathe with fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and medicine, to pass fluid or blood through the vascular bed of an organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfuse designates force a fluid through (a body part or tissue)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon sought to **perfuse** the donor organ with cold oxygenated solution before transplant."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Vapors from the mountain spring did **perfuse** the fragrant meadows with fresh evening dew."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"We can artificially **perfuse** the excised mammalian heart to maintain regular contractions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being melted and fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being melted and fused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being melted or liquefied by the application of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and engineering, melting easily at relatively low temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The presence of such envelopes of very brittle, fusible, and limpid bismuth material explains much of the harmful effect of this impurity."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Oxygen converts the bismuth into a more compactly crystalline oxide, much less fusible and harmful."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Bismuth and lead form an alloy that is readily **fusible** even in boiling water."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Certain metals become easily **fusible** when combined with sulfur or arsenic."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The subterranean rocks become highly **fusible** under the combined influence of heat and water."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # conjecture
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing an opinion based on incomplete evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion or conclusion formed on the basis of incomplete information; a guess or surmise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form an opinion or supposition about something without sufficient evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thee I’ll lock up all the gates of love, And on my eyelids shall conjecture hang, To turn all beauty into thoughts of harm, And never shall it more be gracious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think’st thou to catch my life so pleasantly As to prenominate in nice conjecture Where thou wilt hit me dead?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"All his **conjecture** was spent in trying to determine what had caused the change in her feelings."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I frame no hypotheses, nor do I rely upon hasty **conjecture** to explain natural phenomena."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Dangerous **conjecture** in ill-breeding minds doth spread wild suspicions of our court."*

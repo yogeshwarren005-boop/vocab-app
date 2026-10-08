@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abjection
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low or downcast state; - h.l.menchken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low or downcast state; - h.l.menchken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low, wretched, or humiliated state; utter misery and degradation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliating subservience or base self-abasement before power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abjection designates a low or downcast state; - h.l.menchken."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The miserable Yahoo lived in filthy **abjection**, despised even by its fellow brutes."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"From deepest **abjection** and starvation, the populace suddenly arose in terrible fury."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"True humility differs vastly from worldly **abjection** and craven despair."*

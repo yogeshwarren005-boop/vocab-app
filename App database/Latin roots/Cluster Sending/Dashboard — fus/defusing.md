@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # defusing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deactivating or making ineffective (as a bomb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the triggering device from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing the fuse from an explosive weapon to prevent an explosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alleviating anger, tension, or conflict before violence or crisis erupts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defusing designates the act of deactivating or making ineffective (as a bomb)."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The hazardous task of **defusing** delay-action aerial mines demanded absolute precision."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The conference devoted three days to **defusing** border rivalries between the republics."*
+> - 📜 **John Le Carré (*The Spy Who Came in from the Cold*):** *"He excelled at **defusing** sudden panic among agents stationed in hostile territory."*

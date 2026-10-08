@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusanus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quandong trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quandong trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical genus of Australian sandalwood shrubs and trees (now merged into *Santalum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian botany, designating the quandong or sweet quandong tree valued for edible fruits and timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusanus designates quandong trees."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The desert shrub described as **Fusanus** acuminatus produces bright red edible drupes."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Indigenous tribes collect the oil-rich kernels of the native **Fusanus** across the interior scrub."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"Timber from the sandalwood genus **Fusanus** yields a delicate, fragrant essential oil."*

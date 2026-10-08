@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fustigate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with a cudgel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with a cudgel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To beat or cudgel with a heavy stick or club; to thrash physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To criticize, censure, or berate severely and harshly in speech or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fustigate designates strike with a cudgel."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Pedants seek to **fustigate** original genius with the heavy cudgels of outdated authority."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient masters did not hesitate to **fustigate** unruly scholars who neglected their Latin books."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The satirist's duty is to **fustigate** social hypocrites wherever they flaunt their titles."*

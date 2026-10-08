@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # effusively
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effusive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effusive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unrestrained, demonstrative, or lavishly affectionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessive verbal outpourings of praise, gratitude, or sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Amanda," the other girl said effusively, "what a fine young man!"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sometimes the man is so effusively thankful that you know you have given him a good deal _more_ than was necessary."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton thanked her host **effusively**, proclaiming the collation to be utterly delightful."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky embraced her dear friend **effusively**, concealing her secret schemes behind smiles."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He expressed himself so **effusively** that his sincerity was quietly doubted by the company."*

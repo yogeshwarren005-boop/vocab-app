@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unobjectionable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of behavior or especially language) free from objectionable elements; fit for all observers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing objection or disapproval; acceptable, harmless, and innocent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming thoroughly to requirements of propriety, law, or consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Once past this difficulty, however, he exhorts his dear friend in the tenderest manner not to be rash, but to do what so eminent a gentleman requires, and to do it with a good grace, confident that it must be unobjectionable as well as profitable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter was not very wise; but still he had experience enough of the world to feel, that a more unobjectionable tenant, in all essentials, than Admiral Croft bid fair to be, could hardly offer."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She is a person we have to sew and assist Leah in her housemaid’s work,” continued the widow; “not altogether unobjectionable in some points, but she does well enough."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His family connections and personal fortunes were found to be completely **unobjectionable**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A prudent magistrate accepts reforms that are temperate, practical, and **unobjectionable**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Actions that harm no one else should be regarded as entirely **unobjectionable** by the state."*

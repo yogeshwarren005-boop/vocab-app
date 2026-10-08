@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffuseness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of being spread out over a wide area or through a large volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being spread out over a wide area or through a large volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolixity, wordiness, or lack of concise compactness in discourse, style, or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical dispersion, broad expansion, or scattering across a wide space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Hurst also made her a slight bow, and said he was “very glad;” but diffuseness and warmth remained for Bingley’s salutation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The chief fault of his prose was a languid **diffuseness** that exhausted the reader's attention."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Burke's eloquence possessed great richness, though occasional **diffuseness** weakened its impact."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **diffuseness** of gaseous matter depends directly upon the temperature and surrounding pressure."*

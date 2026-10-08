@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # adjectivally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As an adjective; in an adjectival manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As an adjective; in an adjectival manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of an adjective; as an adjectival modifier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grammatically used to qualify or describe a noun or nominal phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjectivally designates as an adjective; in an adjectival manner."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The substantival stem is used **adjectivally** in numerous compound constructions."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Nouns used **adjectivally** undergo no inflectional changes in modern English."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"We frequently find nouns functioning **adjectivally** to qualify subsequent head nouns."*

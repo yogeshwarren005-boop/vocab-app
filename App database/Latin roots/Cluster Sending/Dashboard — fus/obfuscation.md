@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # obfuscation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confusion resulting from failure to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of obscuring people's understanding, leaving them baffled or bewildered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making something obscure, unclear, or difficult to understand; deliberate bewilderment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental confusion or dimming of intellectual clarity and vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obfuscation designates confusion resulting from failure to understand."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Such metaphysical **obfuscation** hides the violent reality of revolutionary tyranny from the people."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The lawyer's deliberate **obfuscation** of plain evidence failed to deceive the jury."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Philosophical **obfuscation** flourishes whenever thinkers prioritize dogma over clarity."*

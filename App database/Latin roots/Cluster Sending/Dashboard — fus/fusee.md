@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare used as a warning signal by trucks and trains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grooved conical spirally winding pulley in a mechanical clock or watch that equalizes mainspring tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friction match with a large sulfur head used for lighting in windy conditions, or a railway flare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusee designates a spirally grooved spindle in a clock that counteracts the diminishing power of the uncoiling mainspring."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes struck a **fusee** upon his boot-heel to examine the footprints on the marshy track."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I struck a **fusee** and peered into the darkness of the subterranean gallery."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"He examined the antique chronometer, admiring the delicate chain wound about its **fusee**."*

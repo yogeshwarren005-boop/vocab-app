@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subjectivist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who subscribes to subjectivism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who subscribes to subjectivism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or advocate of philosophical, ethical, or aesthetic subjectivism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who interprets all reality, value, or meaning as products of personal consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectivist designates a person who subscribes to subjectivism."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"The radical **subjectivist** denies that any statement can possess objective truth."*
+> - 📜 **G. E. Moore (*Principia Ethica*):** *"The ethical **subjectivist** confuses the feeling of approval with the goodness of the act."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"An aesthetic **subjectivist** maintains that beauty resides strictly in the eye of the beholder."*

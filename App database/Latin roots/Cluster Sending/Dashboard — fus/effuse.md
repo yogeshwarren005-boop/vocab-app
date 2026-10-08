@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # effuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pour out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow or spill forth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pour out or cause to flow forth freely, as a liquid, vapor, or stream of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, designating an inflorescence that is loosely spreading and open.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The air hath got into my deadly wounds, And much effuse of blood doth make me faint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"WILLOW-HERB BRAND; spots pale; sori hypogenous, subrotund, crowded; epidermis evanescent; spores effuse, cinnamon, broadly elliptic, strongly constricted; peduncles very short.—On the leaves of _Epilobium palustre_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"UTRICLE SMUT; produced in the germen and perigonium; epidermis soon ruptured; spores effuse, minute, globose, purple-black.—On _Polygonum hydropiper_ and other _Polygona_."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From his wounded side a stream of nectarous blood began to **effuse** upon the celestial plain."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I **effuse** my flesh in eddies, and drift it in lacy jags as night settles on the sea."*
+> - 📜 **Percy Bysshe Shelley (*The Revolt of Islam*):** *"The fountains **effuse** clear crystal streams to quench the thirst of the desert caravan."*

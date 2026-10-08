@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # ejection
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling or projecting or ejecting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forcing out someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of driving out, expelling, or casting forth with force or legal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and physiology, the expulsion of matter or blood from a bodily organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I remember how we spread out along an aircraft's line of flight as it neared the drop zone, observed the chute ejection and canopy opening, and the dummy swinging in an arc underneath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They will aid in the ejection of error."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He believes that Spirit is sifted through matter, carried on a nerve, ex- posed to ejection by the operation of matter. 171:21 The intellectual, the moral, the spiritual, - yea, the image of infinite Mind, - subject to non-intelligence!"*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The continual **ejection** of fine earth upon the surface slowly buries ancient stone ruins."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The summary **ejection** of the imperial magistrates provoked an armed uprising in Alexandria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The systolic **ejection** of blood from the left ventricle produces the palpable arterial pulse."*

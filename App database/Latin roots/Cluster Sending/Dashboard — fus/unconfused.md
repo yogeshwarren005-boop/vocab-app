@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unconfused
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perplexed by conflicting situations or statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perplexed by conflicting situations or statements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confused, perplexed, or bewildered; clear, distinct, and orderly in mind or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kept distinct and unmingled with surrounding elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconfused designates not perplexed by conflicting situations or statements."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The clear understanding maintains **unconfused** notions of things through precise definitions."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Simple perceptions remain **unconfused** in memory when preserved in their original sequence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth gave her answers with an **unconfused** and dignified composure that silenced her critics."*

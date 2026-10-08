@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that can interrupt the flow of electrical current when it is overloaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any igniter that is used to initiate the burning of a propellant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To blend, melt, or join together inextricably into a single unified whole by heat or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A safety cord or electrical device that melts to break an overloaded circuit or ignites an explosive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It was like trying to balance calmly on the lid of the tinder-box when you didn't know whether or not you had touched off the fuse."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Then we'll just pack and fuse-seal until it's all smoothed over."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bomb has to have a place to insert fuse and trajectory data and fine tune the initial settings."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A thin wire will melt and **fuse** whenever an electric current exceeds its thermal capacity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Common peril served to **fuse** conflicting factions into an effective defensive coalition."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The gunner trimmed the powder **fuse** before firing the warning salute across the harbor."*

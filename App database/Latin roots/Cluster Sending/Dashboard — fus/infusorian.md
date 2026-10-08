@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # infusorian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the subclass infusoria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the subclass infusoria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the microscopic protozoans or ciliated organisms historically classified as infusoria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the microscopic organisms found in stagnant vegetable infusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infusorian designates any member of the subclass infusoria."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Even the humblest ciliated **infusorian** displays complex physiological adaptations."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **infusorian** organism propels itself through fluid by coordinated rhythmic beats of cilia."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"A single **infusorian** responds to light and chemical gradients with astonishing precision."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffusely
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diffuse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a diffuse manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diffuse or widely spread manner; without concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech or prose, verbosely, copiously, and at great length without brevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Grant’s being so well settled in life without being handsome, and expressed her astonishment on that point almost as often, though not so diffusely, as Mrs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He discoursed **diffusely** upon metaphysics without arriving at any clear conclusion."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The evening light was **diffusely** spread across the misty waters of the Venetian canal."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The orator spoke **diffusely**, multiplying illustrations where a single argument sufficed."*

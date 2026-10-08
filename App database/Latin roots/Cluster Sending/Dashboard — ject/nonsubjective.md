@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonsubjective
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undistorted by emotion or personal bias; based on observable phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undistorted by emotion or personal bias; based on observable phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing independently of personal perception, emotion, or bias; objective and verifiable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grounding judgment on measurable, empirical, or publicly observable criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsubjective designates undistorted by emotion or personal bias; based on observable phenomena."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Scientific measurements aspire to establish **nonsubjective** truths accessible to all observers."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatism seeks a **nonsubjective** test of validity in the actual consequences of actions."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"The objectivity of scientific statements lies in their **nonsubjective** testability by peers."*

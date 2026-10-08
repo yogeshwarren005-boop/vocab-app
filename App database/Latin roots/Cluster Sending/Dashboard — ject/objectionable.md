@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectionable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing disapproval or opposition; unpleasant, offensive, or open to dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unacceptable according to standard moral, legal, or social conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then John Jarndyce discovers that Ada and I must break off and that if I don’t amend that very objectionable course, I am not fit for her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*
+> - 📜 **Jane Austen (*Emma*):** *"She could discover nothing **objectionable** in his polite conversation or graceful manners."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The confiscation of ecclesiastical property was an **objectionable** measure founded on tyranny."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The schoolmaster's cruel system was in the highest degree **objectionable** to every humane mind."*

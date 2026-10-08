@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # infuscate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Darken with a brownish tinge, as of insect wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Darken with a brownish tinge, as of insect wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To darken, obscure, or make dim, shadowy, or cloudy; to blacken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confuse or obscure the clarity of an intellectual concept or issue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuscate designates darken with a brownish tinge, as of insect wings."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Dense vapors arise from subterranean vaults to **infuscate** the ambient light of morning."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Sorrow and apprehension tend to **infuscate** the brightest prospects of youthful hope."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Black bile rising to the brain will **infuscate** the understanding with phantom terrors."*

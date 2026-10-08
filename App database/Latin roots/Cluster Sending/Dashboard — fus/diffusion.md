@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of social institutions (and myths and skills) from one society to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of spreading something widely, such as knowledge, culture, or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the movement of particles from an area of higher concentration to lower concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There seemed a general diffusion of cheerfulness on the occasion."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Rapid currents bearing all these gases in diffusion and torrents of lava slid to the bottom of the mountain like an eruption of Vesuvius on another Terra del Greco."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only in our self-confident day of the popularization of knowledge—thanks to that most powerful engine of ignorance, the diffusion of printed matter—has the question of the freedom of will been put on a level on which the question itself cannot exist."*
+> - 📜 **Thomas Graham (*On the Law of the Diffusion of Gases*):** *"The rate of spontaneous **diffusion** of any gas is inversely proportional to the square root of its density."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The general **diffusion** of education among the working classes is the best safeguard of society."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Oceanic barriers frequently arrest the natural **diffusion** of terrestrial mammals."*

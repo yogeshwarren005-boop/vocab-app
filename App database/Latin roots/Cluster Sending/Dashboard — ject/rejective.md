@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rejective
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or tending to reject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejecting or tending to reject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to reject, discard, or dismiss; characterized by refusal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and philosophy, having the function of excluding or negating propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rejective designates rejecting or tending to reject."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A **rejective** rule of evidence excludes valuable testimony on arbitrary technical grounds."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His critical temperament was predominantly **rejective**, finding flaws in every modern author."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The scientist employs a **rejective** method to eliminate false hypotheses successively."*

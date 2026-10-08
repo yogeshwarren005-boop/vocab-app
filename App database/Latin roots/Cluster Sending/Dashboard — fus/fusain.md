@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusain
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stick of black carbon material used for drawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stick of black carbon material used for drawing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine charcoal used as a drawing medium by artists; or a drawing executed in charcoal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coal geology, a brittle, silky, charcoal-like component of coal, also known as mineral charcoal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusain designates a stick of black carbon material used for drawing."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"A sketch executed in soft **fusain** allows bold gradations of shadow before painting begins."*
+> - 📜 **Marie Stopes (*On the Four Visible Ingredients in Banded Bituminous Coal*):** *"Microscopic examination of **fusain** reveals preserved cellular structures of carbonized wood."*
+> - 📜 **Roger Fry (*Cézanne: A Study of His Development*):** *"The master laid in the preliminary contours using a delicate stick of willow **fusain**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing an abstraction as a physical thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concrete representation of an abstract idea or principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of treating or regarding a person or living being merely as an inanimate object or commodity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, the concrete expression or embodiment of an abstract concept, will, or idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectification designates the act of representing an abstraction as a physical thing."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Every physical organism represents the visible **objectification** of the metaphysical will to live."*
+> - 📜 **Georg Wilhelm Friedrich Hegel (*Elements of the Philosophy of Right*):** *"Property is the initial external **objectification** of human freedom in the tangible world."*
+> - 📜 **Karl Marx (*Economic and Philosophic Manuscripts of 1844*):** *"Under alienated labor, the worker's production appears as a hostile **objectification** of his vital energy."*

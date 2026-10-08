@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # defuse
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the triggering device from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the triggering device from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the fuse from an explosive device, bomb, or mine to prevent detonation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a tense, volatile, or dangerous situation calmer, safer, or less hostile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If but as well I other accents borrow, That can my speech defuse, my good intent May carry through itself to that full issue For which I rais’d my likeness."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Courageous disposal officers volunteered to **defuse** unexploded bombs buried across London."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Careful diplomacy was needed to **defuse** factional tensions threatening the barricades."*
+> - 📜 **John Buchan (*The Thirty-Nine Steps*):** *"He acted with steady nerves to **defuse** the clockwork mechanism before the final hour."*

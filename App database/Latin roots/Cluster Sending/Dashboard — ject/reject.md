@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # reject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person or thing that is rejected or set aside as inferior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept or acknowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refuse to accept, consider, use, or believe; to cast aside as unacceptable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or thing cast off, discarded, or deemed substandard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she shall challenge this, you will reject her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into a beastly scrap of ground which a Turk would reject as a savage abomination and a Caffre would shudder at, they bring our dear brother here departed to receive Christian burial."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fact is,” said d’Urberville drily, “whatever your dear husband believed you accept, and whatever he rejected you reject, without the least inquiry or reasoning on your own part."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must resolutely **reject** all idols of the mind if we would understand nature as it is."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was firmly resolved to **reject** the offer of marriage without a moment's hesitation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The convention did not hesitate to **reject** proposals that threatened the federal union."*

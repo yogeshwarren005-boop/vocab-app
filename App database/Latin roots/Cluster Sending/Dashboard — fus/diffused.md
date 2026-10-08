@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffused
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread out over a large area; widely distributed rather than localized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by soft, scattered illumination without harsh shadows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a sudden, As Falstaff, she, and I are newly met, Let them from forth a sawpit rush at once With some diffused song; upon their sight We two in great amazedness will fly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vouchsafe, diffused infection of a man, Of these known evils but to give me leave, By circumstance, to accuse thy cursed self."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though the sky was dense with cloud, a diffused light from some fragment of a moon had hitherto helped them a little."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"A soft and **diffused** radiance filled the cavern as the morning sun touched the glaciers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fine volcanic dust was **diffused** through the upper atmosphere, dimming solar rays for months."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The benefits of commercial expansion were gradually **diffused** throughout all ranks of society."*

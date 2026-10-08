@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fuss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excited state of agitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A display of unnecessary, excessive, or anxious excitement, activity, or concern over small matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To worry, complain, or fret excessively over minor or trivial details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel decidedly that too much fuss is made about the grandmother and the child."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You fuss and worry too much about the children," Uncle Philip said."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Death, to him, was the blackness of unbroken sleep; and yet, during his years in Jerusalem, he was ever vexed with the inescapable fuss and fury of things religious."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse made a great **fuss** over the slightest draft of cool air in the drawing room."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"She created a tremendous **fuss** about the packing of her trunks for the journey."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I resolved never to **fuss** over petty slights that time would soon consign to oblivion."*

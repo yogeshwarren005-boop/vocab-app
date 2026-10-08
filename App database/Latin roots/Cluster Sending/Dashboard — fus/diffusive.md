@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # diffusive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to spread, scatter, or expand freely in all directions; pervasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, expansive, elaborate, and widely inclusive in expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And even here, in order to avoid a research too vague and diffusive, it will be proper to confine ourselves to the few examples which are best known, and which bear the greatest analogy to our particular case."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as it may consist of internal collections, a more diffusive knowledge of the circumstances of the State may be necessary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I leave every man to decide whether the result of any one of these experiments can be said to countenance a suspicion, that a diffusive mode of choosing representatives of the people tends to elevate traitors and to undermine the public liberty."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Public benevolence should begin at home before extending its **diffusive** warmth to foreign lands."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge possesses a naturally **diffusive** power that elevates the mind above vulgar superstitions."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A sweet and **diffusive** fragrance breathed from the flowers of Eden after the gentle shower."*

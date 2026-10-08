@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objective
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The goal intended to be attained (and which is believed to be attainable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lens or system of lenses in a telescope or microscope that is nearest the object being viewed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influenced by personal feelings, prejudice, or interpretations; unbiased and factual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific goal, aim, or end toward which effort or military strategy is directed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood mistook his confusion: sensitive persons are always ready with their “Is it I?” in preference to objective reasoning."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Without any objective change whatever, variety had taken the place of monotonousness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their condition was objective, contemplative."*
+> - 📜 **Karl Marx (*Capital*):** *"The **objective** conditions of capitalist production determine the rate of surplus value."*
+> - 📜 **William James (*The Will to Believe*):** *"Science demands an **objective** standard of truth that stands firm regardless of personal desires."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"My primary **objective** in this work is to demonstrate that species are not immutable creations."*

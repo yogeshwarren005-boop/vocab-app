@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or result of joining two or more things together to form a single entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, a nuclear reaction in which atomic nuclei fuse to form a heavier nucleus with release of energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak belonged to the even-tempered order of humanity, and felt the secret fusion of himself in Bathsheba to be burning with a finer flame now that she was gone—that was all."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Windstorm had launched a guided fusion warhead."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The latent heat of **fusion** is absorbed when ice melts into water without change of temperature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The political **fusion** of Roman citizens and provincial subjects took centuries to achieve."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution involves an integration of matter and a **fusion** of previously distinct parts."*

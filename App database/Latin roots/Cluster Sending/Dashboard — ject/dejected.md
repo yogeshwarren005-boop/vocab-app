@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dejected
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected or marked by low spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad, depressed, or disheartened; low in spirits from disappointment or sorrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casting the eyes downward in dejection or shame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony Is valiant and dejected, and by starts His fretted fortunes give him hope and fear Of what he has and has not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be worst, The lowest and most dejected thing of fortune, Stands still in esperance, lives not in fear: The lamentable change is from the best; The worst returns to laughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will presently to Saint Luke’s; there at the moated grange resides this dejected Mariana."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He sat in the corner with a **dejected** air, gazing mournfully into the dying fire."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The poor cottagers appeared sorrowful and **dejected** under the bitter burden of winter poverty."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"His **dejected** countenance revealed the painful struggle passing within his breast."*

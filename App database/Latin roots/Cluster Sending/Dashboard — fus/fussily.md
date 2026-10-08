@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fussily
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fussy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fussy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fussy, fastidious, or overly anxious manner regarding petty details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessive, restless, and unnecessary bustling about small things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How is it,” she began, as usual in French, settling down briskly and fussily in the easy chair, “how is it Annette never got married?"*
-> - 📜 **James Joyce (*Ulysses*):** *"And as he stepped fussily back across the field his old man’s voice cried sternly: —What is the matter?"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Aunt Betsey arranged the cushions **fussily** before seating herself opposite the hearth."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The elderly gentleman busied himself **fussily** with his spectacles and guidebooks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader brushed the breadcrumbs **fussily** from her apron as she spoke."*

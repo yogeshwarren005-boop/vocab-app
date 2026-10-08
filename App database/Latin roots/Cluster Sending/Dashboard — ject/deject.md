@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # deject
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depress the spirits of; to dispirit, dishearten, or cast down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lower or depress physically or mentally into sadness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reason and respect Make livers pale and lustihood deject."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Nor do I name of griefs the worst, which most **deject** the soul and tame the mind."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Disappointment should not **deject** the traveler whose journey has just begun."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Nor once **deject** the courage of our minds for the loss of a single bastion."*

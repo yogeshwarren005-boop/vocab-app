@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # rediffusion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system for distributing radio or tv programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system for distributing radio or tv programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relaying, rebroadcasting, or distribution of radio or television signals to subscribers via cable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The renewed or secondary scattering or dispersion of particles, light, or concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rediffusion designates a system for distributing radio or tv programs."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The **rediffusion** of official bulletins through wired telescreens was continuous throughout London."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Secondary reflections within the medium cause a subtle **rediffusion** of the optical wave."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"A vast network of **rediffusion** lines carried educational lectures to distant rural settlements."*

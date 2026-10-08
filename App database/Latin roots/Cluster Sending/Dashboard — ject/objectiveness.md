@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ject]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # objectiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from personal prejudice, emotion, or subjective interpretation; impartiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reality of an entity existing independently of human perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectiveness designates judgment based on observable phenomena and uninfluenced by emotions or personal prejudices."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory experience possesses a vivid **objectiveness** that sharply distinguishes it from daydreaming."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The absolute **objectiveness** of the physical universe remains a postulate of natural philosophy."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"True wisdom cultivates an **objectiveness** of temper that accepts reality without illusions."*

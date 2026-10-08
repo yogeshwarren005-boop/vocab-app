@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusil
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light flintlock musket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light flintlock musket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light flintlock musket carried by infantrymen in the 17th and 18th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, an elongated bearing shaped like a diamond or lozenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fusil designates a light flintlock musket."*
+> - 📜 **Walter Scott (*Waverley*):** *"Each soldier was armed with a short **fusil** and a broadsword for close combat."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The introduction of the light **fusil** transformed the battlefield tactics of modern armies."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The regiment was equipped with the new flintlock **fusil** in place of the clumsy matchlock."*

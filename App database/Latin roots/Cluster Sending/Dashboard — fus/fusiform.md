@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # fusiform
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tapering at each end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tapering at each end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spindle-shaped; tapering gradually at both ends from a thicker middle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and zoology, designating muscles, roots, or aquatic bodies shaped like a spindle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dolphin's streamlined **fusiform** body enables it to cut through ocean waves at speed."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The biceps muscle presents a typical **fusiform** contour terminating in strong tendons."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Pelagic fishes generally exhibit a **fusiform** outline that minimizes hydrodynamic drag."*

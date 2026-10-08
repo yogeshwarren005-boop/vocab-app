@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — fus]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transfuse
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart gradually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out of one vessel into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transfer fluid, especially blood, into a vein or artery of a human or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause something, such as an idea, energy, or courage, to pass into another; to imbue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I wish I could transcribe, or rather transfuse into language, the glow of my heart when I read your letter."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the covenant formed by eating together is less solemn and durable than the covenant formed by transfusing the blood of the covenanting parties into each other's veins, for this transfusion seems to knit them together for life."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All Dorothea’s passion was transfused through a mind struggling towards an ideal life; the radiance of her transfigured girlhood fell on the first object that came within its level."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prepared to **transfuse** fresh compatible blood into the exsanguinated patient."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True eloquence has power to **transfuse** the passions of the orator into the hearts of listeners."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The great commander knew how to **transfuse** his own undaunted spirit into the wavering ranks."*

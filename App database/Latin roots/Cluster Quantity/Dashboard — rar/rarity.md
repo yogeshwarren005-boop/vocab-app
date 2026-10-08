@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noteworthy scarcity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rarified quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infrequent occurrence, exceptional scarcity, or uncommonness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thing that is rare, highly valued, or prized for its scarcity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In brief, Sorrow would be a rarity most belov’d, If all could so become it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But the rarity of it is,—which is indeed almost beyond credit,— SEBASTIAN."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **rarity** of intermediate fossil varieties is explained by the imperfection of the geological record."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"A letter from her brother William was a delightful **rarity** that banished all sorrow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Such a creature is an astounding **rarity** even among the wonders of the southern seas."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarebit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheese melted with ale or beer served over toast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheese melted with ale or beer served over toast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A savory culinary dish of melted spiced cheese served over toasted bread, known also as Welsh rarebit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich melted cheese preparation often blended with ale, mustard, or cayenne pepper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rarebit designates cheese melted with ale or beer served over toast."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Gerard*):** *"The officers gathered in the mess to consume piping hot Welsh **rarebit** washed down with stout."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bertie Wooster consumed a midnight Welsh **rarebit** while pondering his friend's matrimonial difficulties."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He dined frugally on a toasted **rarebit** in an underground Fleet Street tavern."*

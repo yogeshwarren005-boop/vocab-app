@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnibus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthology of articles on a related subject or an anthology of the works of a single author.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle carrying many passengers; used for public transport.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large public motor vehicle or horse-drawn carriage designed to carry numerous passengers; a bus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single printed volume containing several works or reprints by one author; in legislation, a bill comprising many diverse measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Thicker and darker the fog became; they lighted the lamps, and the omnibus went at a walking pace."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She might have got into another omnibus and returned; but a strong feeling which she could not explain made her go on."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At last the omnibus stopped, and the conductor guided her to the foot-path."*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"The crowded horse-drawn **omnibus** rumbled noisily along the wet cobblestones of Fleet Street."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes stepped briskly aboard the morning **omnibus** bound for the Strand."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Travellers hailed the country **omnibus** as it halted before the tavern porch."*

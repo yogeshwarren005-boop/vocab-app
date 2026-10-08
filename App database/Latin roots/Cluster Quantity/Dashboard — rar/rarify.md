@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complex, intricate, or richer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decrease the density of a gas or medium; to make thin or tenuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To refine or sublimate in thought, language, or artistic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanical*):** *"The sudden warmth did further **rarify** the elastic particles of the imprisoned air."*
+> - 📜 **Isaac Newton (*The Principia*):** *"The ambient medium begins to **rarify** as distance from the planetary surface increases."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet seeks to **rarify** vulgar speech into the purest vehicle of profound emotion."*

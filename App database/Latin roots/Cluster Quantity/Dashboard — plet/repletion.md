@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # repletion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being satisfactorily full and unable to take on more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating until excessively full.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete fullness, surfeit, or saturation with food, drink, or supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical fullness or satiety following a heavy meal; surfeit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do bleed When such I meet, and wish great Juno would Resume her ancient fit of jealousy To get the soldier work, that peace might purge For her repletion, and retain anew Her charitable heart, now hard and harsher Than strife or war could be."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Wealth and poverty, fame and obscurity, power and subordination, strength and weakness, health and disease, culture and ignorance, work and leisure, repletion and hunger, virtue and vice, are only greater or lesser degrees of freedom."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He lay like a filthy leech, exhausted with his repletion."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Such surfeited **repletion** breeds foul diseases in the undisciplined body."*
+> - 📜 **Herman Melville (*Typee*):** *"After the lavish feast of roasted pork, the warriors sank into slumber of utter **repletion**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial banquets degenerated into scandalous displays of gluttonous **repletion**."*

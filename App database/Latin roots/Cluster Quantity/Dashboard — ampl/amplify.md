@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # amplify
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in size, volume or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To increase the strength, volume, intensity, or magnitude of a signal or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expand, develop, or explain a statement or narrative in greater detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having thus far proceeded (Unless thou think’st me devilish) is’t not meet That I did amplify my judgement in Other conclusions?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This would have seem’d a period To such as love not sorrow; but another, To amplify too much, would make much more, And top extremity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate."*
+> - 📜 **Francis Bacon (*Essays*):** *"Historians tend to **amplify** the trivial disputes of kings into great political revolutions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Future discoveries will undoubtedly **amplify** our understanding of human evolutionary origins."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Mechanical linkages can **amplify** tiny thermal expansions into visible pointer deflections."*

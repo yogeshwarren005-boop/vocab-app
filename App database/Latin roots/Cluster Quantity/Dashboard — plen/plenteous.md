@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenteous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording an abundant supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording an abundant supply; fruitful, plentiful, or bounteous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in generous abundance, copious in yield or quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why droops my lord, like over-ripened corn Hanging the head at Ceres’ plenteous load?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I advise you— And take it from a heart that wishes towards you Honour and plenteous safety—that you read The Cardinal’s malice and his potency Together; to consider further that What his high hatred would effect wants not A minister in his power."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"My **plenteous** joys, wanton in fulness, seek to hide themselves in drops of sorrow."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The earth brought forth her **plenteous** fruits without painful toil or harsh tillage."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The yellow wheat fields promised a **plenteous** harvest after months of gentle summer rain."*

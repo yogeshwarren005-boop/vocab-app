@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — pauc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # pauciloquy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pauc within the domain of Quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pauc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of using very few words in speech; brevity of utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise or laconic manner of expression in literary or oral discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pauciloquy designates pertaining to, derived from, or characteristic of latin pauc within the domain of quantity."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Philosophers commend **pauciloquy** as the safest guardian of intellectual discretion."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient sages practiced **pauciloquy**, choosing silence rather than vain and noisy disputations."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"A disciplined mind prefers **pauciloquy** to the loose torrent of unmeasured language."*

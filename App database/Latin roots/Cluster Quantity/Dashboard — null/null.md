@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # null
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of no importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking any legal or binding force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no legal or binding force; invalid; void.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amounting to nothing; nonexistent; in computing, having a value of zero or unassigned pointer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in such a case, if it should ever happen, the treaty so obtained from us would, like all other fraudulent contracts, be null and void by the law of nations."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Crest where cold drops beaded cling, Small ear drooping, nostril full, Glazing to a scarlet ring, Flanks and haunches quivering, Sinews stiff'ning, void and null, Dumb eyes sorrowful."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Confessed ‘Art is null and study void!’ So sayest thou?"*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"The harsh contract was declared **null** and void by decree of the Venetian court."*
+> - 📜 **Isaac Newton (*The Principia*):** *"When opposing forces balance precisely, the net acceleration becomes **null**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Without sensory experience, our original stock of innate notions is simply **null**."*

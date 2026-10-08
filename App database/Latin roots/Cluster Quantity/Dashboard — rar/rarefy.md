@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarefy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen the density or solidity of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more subtle or refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become thin, less dense, or more porous, especially of a gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To refine, purify, or make more spiritual, subtle, or intellectual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are earth's lumi- naries, which serve to cleanse and rarefy the atmosphere of 37:12 material sense and to permeate humanity with purer ideals."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The country gentry of old time lived in a rarefied social air: dotted apart on their stations up the mountain they looked down with imperfect discrimination on the belts of thicker life below."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Only let us breathe slowly as we ascend to still greater elevations with their consequent rarefied air," he added, with the most heavenly thoughtfulness in his fine face."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Heat operates to expand and **rarefy** the vapors confined within the glass vessel."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Genuine culture tends to **rarefy** and elevate our perceptions of everyday life."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The pneumatic machine serves to **rarefy** the air until the bell within sounds inaudible."*

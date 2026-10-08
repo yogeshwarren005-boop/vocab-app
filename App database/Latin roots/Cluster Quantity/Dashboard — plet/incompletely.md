@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # incompletely
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to a full degree or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not to a full degree or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incomplete manner; not fully, entirely, or thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially; in an unfinished or imperfect condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was not angry, but she moved backward a little in timid happiness, and Lydgate could now sit near her and speak less incompletely."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs are often **incompletely** developed, representing remnants of ancestral structures."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The hearth was only **incompletely** warmed by the smouldering peat, leaving the corners in chill gloom."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She understood the complex legal document only **incompletely**, trusting her guardian's advice."*

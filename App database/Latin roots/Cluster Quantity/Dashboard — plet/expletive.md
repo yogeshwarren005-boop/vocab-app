@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # expletive
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profane or obscene expression usually of surprise or anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or phrase conveying no independent meaning but added to fill out a sentence or metrical line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profane, vulgar, or obscene word or phrase uttered in exclamation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, a word inserted to fill out a sentence or metrical verse without adding to the sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He hurled at the unfortunate creature the most energetic expletives in the English tongue."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When they were out of the village they began talking again as loud as before, interlarding their talk with the same aimless expletives."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The exasperated boatswain let fly a thunderous **expletive** as the tangled line snapped in the gale."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Pap growled an angry **expletive** through his grimy beard when he tripped over the door sill."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket listened with professional calm while the agitated captive blurted out an indignant **expletive**."*

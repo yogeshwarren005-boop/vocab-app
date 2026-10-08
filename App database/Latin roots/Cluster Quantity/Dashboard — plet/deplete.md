@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # deplete
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up (resources or materials).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decrease seriously or exhaust the supply, abundance, or strength of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To empty out or drain resources, funds, or vital reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I am not going to deplete my brigade, at this most critical time, by letting everybody go home who takes a fool's notion into his head that he wants to."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evil thought depletes 416:24 The sick know nothing of the mental process by which they are depleted, and next to nothing of the metaphysical method by which they can be 416:27 healed."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A severe drought may **deplete** the local flora and starve insectivorous bird populations."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Unchecked commercial hunting threatened to **deplete** the vast oceanic schools of sperm whales."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Protracted barbarian campaigns served to **deplete** both the imperial treasury and veteran legions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — pauc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # paucispiral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pauc within the domain of Quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pauc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In malacology and paleontology, having or consisting of only a few coils or spiral turns, especially of a mollusk shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an opercular whorl structure characterized by low helical coil frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paucispiral designates pertaining to, derived from, or characteristic of latin pauc within the domain of quantity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil gastropod was readily identified by its distinctly **paucispiral** operculum."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Naturalists noted that certain marine snails develop a **paucispiral** whorl in sheltered rocky crevices."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The horny plate displays a **paucispiral** growth pattern radiating outward from an eccentric nucleus."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenarily
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plenary manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plenary manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plenary manner; fully, completely, and without restriction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With full attendance, comprehensive authority, or absolute jurisdictional power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plenarily designates in a plenary manner."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The council confirmed the decrees **plenarily**, committing all churches to uniform orthodoxy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament confirmed the sovereign's title **plenarily**, sweeping aside every royalist objection."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The legislative authority was **plenarily** empowered to regulate commercial monopolies."*

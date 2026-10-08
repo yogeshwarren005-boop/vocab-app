@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnipresence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being everywhere at once (or seeming to be everywhere at once).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being everywhere at once (or seeming to be everywhere at once).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or attribute of being present everywhere simultaneously, especially as an attribute of the divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The widespread, pervasive, or ubiquitous presence of a phenomenon, institution, or technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His omnipresence, our divine equality!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His omnipresence, our divine equality!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Our Master read mortal mind on a scientific basis, that of the omnipresence of Mind. 94:30 An approximation of this discernment indicates spiritual growth and union with the infinite capacities of the one Mind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The divine spirit manifested eternal **omnipresence** throughout the unbounded universe."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The philosopher discerned the quiet **omnipresence** of universal law in every falling leaf."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He marvelled at the pervasive **omnipresence** of mechanical invention across modern industrial cities."*

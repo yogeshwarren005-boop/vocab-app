@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarefaction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decrease in the density of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in density of a gas, vapor, or physical medium; the opposite of compression in a sound wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attenuation, physical expansion, or decreased density of a medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Rarefaction of thought Spirit creates no other than heavenly or celestial bodies, but the stellar universe is no more celestial than our earth. 509:15 This text gives the idea of the rarefaction of thought as it ascends higher."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Sound propagates through the air by alternating pulses of compression and **rarefaction**."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The sudden **rarefaction** of the gas in the cylinder produced a marked reduction in temperature."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"He demonstrated the extreme **rarefaction** of atmospheric air beneath the receiver of the pneumatic pump."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnirange
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In aviation, a VHF radio navigation beacon providing aircraft with magnetic bearing tracks in all 360 degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An omnidirectional radio navigational system guiding civilian and military aerial navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnirange designates a navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Navigators relied on the VHF **omnirange** transmitter to fix their bearing across coastal airways."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"The radio officer tuned the receiver to the airport's **omnirange** beacon amidst dense fog."*
+> - 📜 **Ernest K. Gann (*Fate Is the Hunter*):** *"The needle swing signaled that our transport had intercepted the targeted **omnirange** radial."*

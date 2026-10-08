@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uncompleted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet finished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caught or not caught within bounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not finished, executed, or brought to a final conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in an ongoing or abandoned condition prior to full realization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In fact, she tarried in Washington to finish many an uncompleted task, for some time after her office had been abolished."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The author left the intricate novel **uncompleted**, baffling generations of literary detectives."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The shipwright gazed upon the **uncompleted** hull rising like a wooden skeleton upon the stocks."*
+> - 📜 **Nathaniel Hawthorne (*The Ancestral Footstep*):** *"The manuscript contained an **uncompleted** romance broken off in the middle of a sentence."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarely
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not often.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not often.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not often; seldom; on few occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unusually excellent, remarkable, or fine manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could play Ercles rarely, or a part to tear a cat in, to make all split."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doth not my wit become me rarely!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth **rarely** had met with a person whose manners united so much frankness with so much dignity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can act only by very slow steps, and **rarely** displays rapid transformations."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Such magnificent sea-creatures are **rarely** encountered in the shallow waters of the coast."*

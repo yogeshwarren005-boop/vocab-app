@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullifier
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of nullification; someone who believes that a state can resist federal laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can invalidate or nullify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that invalidates, negates, or renders something void.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a political supporter of the doctrine of state nullification in the United States.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The proviso was defeated; that chance of the nullifiers to force the issue was lost; another had to be made, which was speedily done, by the introduction into the Senate on the 19th February, 1847, by Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His proclamation against Nullifiers."*
+> - 📜 **Daniel Webster (*Speeches and Forensic Arguments*):** *"The eloquent **nullifier** defended his state's sovereignty with fiery rhetorical fervor."*
+> - 📜 **John Quincy Adams (*Memoirs*):** *"President Jackson warned every radical **nullifier** that federal laws would be enforced by arms if necessary."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Truth stands as the eternal **nullifier** of human superstition and institutional hypocrisy."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenitude
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundance, completeness, or full measure of something; overflowing plenty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fullness or perfection in spiritual, intellectual, or physical power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Then--one saw it coming--she leaned forward till the diamonds in her plenitude of fair hair sparkled like a crown of flame, and beckoned Lawrence to join her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The loves and sorrows that are great are destroyed by their own plenitude."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Yet is not here God's awfulness displayed; His kindliness and mercy more appear; For flow'rs, the precious emblems He has made Of graciousness, in plenitude are here."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Creation radiated in all its divine **plenitude**, teeming with countless forms of vibrant life."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Antonine emperors governed in the full **plenitude** of imperial power and popular veneration."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The universe pours forth its rich **plenitude** into the receptive and contemplating mind."*

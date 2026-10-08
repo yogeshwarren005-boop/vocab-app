@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uncomplete
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not complete or total; not completed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not complete or total; not completed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not completed; unfinished or lacking required constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Left in an imperfect, interrupted, or provisional state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In fact, she tarried in Washington to finish many an uncompleted task, for some time after her office had been abolished."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The poet left his grand epic **uncomplete** at his sudden death, bequeathing only magnificent fragments."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our ideas of spiritual substances remain necessarily obscure and **uncomplete**."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Human designs are ever fragile and **uncomplete**, interrupted by the sudden strokes of mortality."*

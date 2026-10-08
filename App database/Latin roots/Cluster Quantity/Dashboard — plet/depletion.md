@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # depletion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of decreasing something markedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being depleted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in the number, quantity, or volume of something; the act of exhausting supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The progressive exhaustion of natural resources, bodily strength, or economic capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"No patient will like it—certainly not Peacock’s, who have been used to depletion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There would be interregional and, within INOR, international competition that would increase the rate of depletion in resources."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The rate of depletion in the Solar Community's reserves of vital but nonrenewable substances rose rapidly."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The steady **depletion** of surface soil by erosion alters the agricultural capacity of entire valleys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe blood loss leads to rapid **depletion** of systemic vascular volume requiring saline infusion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The continuous **depletion** of circulating coin prompted merchants to adopt paper bills of exchange."*

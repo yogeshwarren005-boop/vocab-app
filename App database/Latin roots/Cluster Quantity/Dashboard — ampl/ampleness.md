@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ampleness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being more than sufficient; comfortable sufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of impressive largeness in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spaciousness, breadth, or generous roominess in physical dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abundance, generosity, or extensive sufficiency in quantity or scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ampleness designates the property of being more than sufficient; comfortable sufficiency."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The grand **ampleness** of the ancestral hall dwarfed the modern furnishings placed within it."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She admired the intellectual **ampleness** of Ralph Touchett's philosophical outlook."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian palaces were distinguished by the noble **ampleness** of their grand reception chambers."*

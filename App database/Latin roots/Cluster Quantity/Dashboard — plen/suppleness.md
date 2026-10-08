@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # suppleness
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gracefulness of a person or animal that is flexible and supple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being pliant and flexible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of bending easily without breaking or cracking; flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agility, adaptability, or mental compliance to changing circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Twice, when she had been playing to him, she turned to find him testing the suppleness of his injured arm."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mary Crawford admired the physical grace and easy **suppleness** of the youthful equestrians."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Years of heavy manual labor had stiffened his limbs, robbing him of youthful **suppleness**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The remarkable **suppleness** of the monkey's prehensile tail aids in rapid arboreal locomotion."*

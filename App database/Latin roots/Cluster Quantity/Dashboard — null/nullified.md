@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullified
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be invalid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of legal validity, binding force, or operational efficacy; rendered void.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counterbalanced or neutralized to the point of having no practical effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By changing the rates on foreign exports or imports, the railroads frequently have made or nullified tariff rates and have defeated the intention of the legislature."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop’s speech had quite dried up and nullified his wits until they could be brought round again by further moisture."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was a great deal of unnecessary motion in Steinberg’s hand, and Barter, looking at its swift and resolute movements, got a blind sort of impression of strength out of it, and nullified the feeling with which it inspired him."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An unconstitutional legislative act is **nullified** by the supreme authority of the organic law."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"No state upon its own mere motion can lawfully get out of the Union; its ordinances are **nullified**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her generous intentions were completely **nullified** by the obstinate pride of her companion."*

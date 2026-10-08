@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cresc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # crescentia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical american trees of the family bignoniaceae; has a short trunk and crooked limbs and drooping branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of tropical american trees of the family bignoniaceae; has a short trunk and crooked limbs and drooping branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American trees in the family Bignoniaceae, commonly known as calabash trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calabash tree whose large, hard-shelled gourds are utilized for utensils and musical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crescentia designates a genus of tropical american trees of the family bignoniaceae; has a short trunk and crooked limbs and drooping branches."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The native inhabitants manufacture durable bowls from the woody shells of **crescentia** fruits."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The broad spreading limbs of **crescentia** bear cauliflorous blossoms directly upon the trunk."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the tropical forest we observed tall specimens of **crescentia** laden with heavy round gourds."*

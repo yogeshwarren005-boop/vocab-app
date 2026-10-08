@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ample
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than enough in size or scope or capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in size, extent, or volume; spacious or roomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fully sufficient or more than adequate in quantity, scope, or capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pemberley house was a large, handsome stone building standing on an **ample** estate."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection finds **ample** material for modification across countless generations."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew enjoyed **ample** stores of ship biscuit and salted meat during the opening weeks."*

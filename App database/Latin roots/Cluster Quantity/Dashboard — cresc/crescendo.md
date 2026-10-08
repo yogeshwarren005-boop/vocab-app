@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cresc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # crescendo
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual increase in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow louder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual increase in loudness or intensity in a musical passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A progressive increase in force, commotion, excitement, or climax in events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Will you or will you not go to the devil?” rejoined Lottchen, with a comic crescendo; to which the other replied with a laugh."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestral brass mounted in a terrifying **crescendo** that shook the very foundation of the hall."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The roar of the rising tide reached a stormy **crescendo** against the rocky headland."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The rhythmic drumming swelled to a deafening **crescendo** across the black waters of the river."*

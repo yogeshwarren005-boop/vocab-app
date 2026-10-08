@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # complete
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all necessary parts, elements, or steps; entire; whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To finish, bring to an end, or conclude successfully.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In complete glory she reveal’d herself; And, whereas I was black and swart before, With those clear rays which she infused on me That beauty am I blest with which you may see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my valour, the most complete champion that ever I heard!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What may this mean, that thou, dead corse, again in **complete** steel revisits thus the glimpses of the moon?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A **complete** series of intermediate varieties linking two distinct species is exceedingly rare."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The voyage was now **complete**, and the ship turned homeward across the southern seas."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cresc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # excrescence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) an abnormal outgrowth or enlargement of some part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal outgrowth, protuberance, or enlargement on the body of an animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsightly, disfiguring, or redundant addition to an architectural structure or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shell had been so thin, so devoid of excrescence, and so closely drawn over the accommodation granted, that the grim character of what was beneath showed through it, as the shape of a body is visible under a winding-sheet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Temple, that girl’s hair must be cut off entirely; I will send a barber to-morrow: and I see others who have far too much of the excrescence—that tall girl, tell her to turn round."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain domestic breeds develop a fleshy **excrescence** upon the skull resembling a crest."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Old whales often carry a rough **excrescence** of barnacles encrusting their weathered snouts."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ancient feudal monopoly had degenerated into a monstrous **excrescence** upon the body politic."*

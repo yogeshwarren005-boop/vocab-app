@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rare-roasted
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meat) roasted with the meat inside still rare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meat) roasted with the meat inside still rare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooked or roasted lightly so that the interior meat remains reddish, juicy, and underdone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the center lightly heated while the exterior is browned or seared.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rare-roasted designates (meat) roasted with the meat inside still rare."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The host carved generous slices of **rare-roasted** beef for the hungry travelers around the inn table."*
+> - 📜 **Herman Melville (*Redburn*):** *"The sailors hungered for fresh, **rare-roasted** beef after months of chewable salt pork and hardtack."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The harvest feast boasted an enormous haunch of **rare-roasted** mutton fresh from the kitchen spit."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # appleton
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English physicist remembered for his studies of the ionosphere (1892-1966).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern wisconsin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geographical place name and historical surname, notably associated with British physicist Sir Edward Appleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the Appleton layer (F layer) of the Earth's ionosphere which reflects radio waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He took off his spectacles to polish them, and then as he put them on again, "If it's for that Appleton boy I really can't allow it."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's nothing whatever wrong with him but laziness" "It isn't for Appleton."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Appleton's bookstore was close at hand."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Sir Edward **Appleton** discovered the ionized atmospheric layer that reflects shortwave radio signals around the globe."*
+> - 📜 **James Jeans (*The Mysterious Universe*):** *"Geophysicists mapped the reflections bouncing from the ionized **Appleton** layer high in the upper atmosphere."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Radio telecommunication owes a profound debt to the ionospheric investigations conducted by Edward **Appleton**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rarified
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having low density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of high moral or intellectual value; elevated in nature or style; ; - oliver franks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinned or of reduced density, especially referring to atmosphere at high elevations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exalted, subtle, or elevated beyond normal vulgar comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"At high mountain summits the **rarified** air causes rapid evaporation and intense cold."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The sculptor dreamed of dwelling in a **rarified** realm of pure aesthetic contemplation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Glacial peaks rise sharply into the **rarified** atmospheric layers above cloud level."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # amplifier
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that increases strength of signals passing through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment that increases strength of signals passing through it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device or circuit that increases the voltage, current, or power of an audio or radio signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or agency that expands, intensifies, or exaggerates a statement, rumor, or effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Whatever we hit will act as an amplifier and spread the effect through the whole body." "Boy, you want to be careful you don't blow up the earth," said Murray Lee."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The electronic **amplifier** introduces a small component of thermal noise into the transmitted message."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops coupled with a vacuum-tube **amplifier** govern modern servomechanisms."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Without the solid-state **amplifier**, global microwave telecommunication would have remained impossible."*

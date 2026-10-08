@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rariora
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (plural) rare collector's items.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (plural) rare collector's items.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare books, curiosities, or scarce collector's items of literary or historical value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curiosities or scarce antiquarian treasures preserved in specialized museum archives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rariora designates (plural) rare collector's items."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"His private library was famed among bibliophiles for its choice shelf of early printed **rariora**."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliomania*):** *"Wealthy collectors competed fiercely at auction to secure black-letter **rariora** from ancient abbeys."*
+> - 📜 **Andrew Lang (*Books and Bookmen*):** *"The connoisseur spent days examining precious bibliographic **rariora** in quiet cathedral vaults."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rare
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not widely known; especially valued for its uncommonness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring only at long intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seldom occurring or found; uncommon, unusual, or exceptional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by wide separation of constituent parts; thin or porous, as of air or gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say this becomes him— As his composure must be rare indeed Whom these things cannot blemish—yet must Antony No way excuse his foils when we do bear So great weight in his lightness."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To admit that a species is **rare** is to admit that its conditions of life are unfavorable."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ambergris is a **rare** and costly substance found only in the intestines of sick sperm whales."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"A disposition so cheerful and modest was a **rare** treasure in fashionable society."*

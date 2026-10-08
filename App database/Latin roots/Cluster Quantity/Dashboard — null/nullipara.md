@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullipara
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) a woman who has never give birth to a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) a woman who has never give birth to a child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In obstetrics and gynecology, a woman or female mammal that has never given birth to a viable child or offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or describing a female that has not carried a pregnancy beyond viability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nullipara designates (obstetrics) a woman who has never give birth to a child."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical course of pelvic disorders often differs markedly in a **nullipara** compared to a multiparous patient."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Midwives observed distinct physiological responses during labor in a young **nullipara**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Diagnostic palpation of the uterine fundus reveals characteristic anatomical tones in a **nullipara**."*

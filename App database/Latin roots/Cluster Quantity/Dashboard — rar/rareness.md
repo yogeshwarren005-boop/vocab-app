@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # rareness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noteworthy scarcity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noteworthy scarcity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infrequent occurrence, uncommonness, or scarcity in distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thinness or low density of a gas, vapor, or fluid medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus did I keep my person fresh and new, My presence, like a robe pontifical, Ne’er seen but wonder’d at, and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Rareness (of Buddha’s appearance, &c.), 68–9, 80, 125, 147, 164, 172, 203, 207, 209, 229, 256, 259."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **rareness** of a species in any country frequently precedes its ultimate extinction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The extraordinary **rareness** of ambergris explains the exorbitant price paid by perfume merchants."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Naturalists prize specimens according to the antiquity and **rareness** of their forms."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # amplification
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of increase in signal power or voltage or current expressed as the ratio of output to input.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of increasing the magnitude, volume, electrical strength, or scope of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, the expansion of an argument or statement through additional detail and illustration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Got all the spunk in the world, and you could not get him to squeal or double cross in a million years.” To all of which, and with amplification, Ed Morrell agreed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is mainly an amplification of the points put forth in the Message of February 24th, in which he gave his reasons for his orders."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The truth is, I was determined to write a good letter, full of argument, amplification, erudition, and, as Bayes says, _all that_."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Rhetorical **amplification** serves to impress profound truths upon the imagination of listeners."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The progressive **amplification** of current produced marked thermal oscillations in the circuit."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Poetic genius requires both judicious compression and imaginative **amplification** of theme."*

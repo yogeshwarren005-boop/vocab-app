@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # depletable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being depleted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being depleted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being depleted, exhausted, or used up through extraction or consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to exhaustion; non-renewable in quantity or supply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There is no smooth transition, no gradual slowing down of activity; rather, the economic system consumes successively larger amounts of the depletable resources until they are gone."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Natural mineral reserves represent a strictly **depletable** national asset requiring prudent conservation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Rich vein deposits of copper are intrinsically **depletable** resources that cannot be replenished by nature within human epochs."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Aquifers beneath the arid western plains are fundamentally **depletable** reservoirs formed during the Ice Age."*

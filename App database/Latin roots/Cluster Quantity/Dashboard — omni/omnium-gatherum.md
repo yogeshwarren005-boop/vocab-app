@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnium-gatherum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motley assortment of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motley assortment of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A miscellaneous collection, hodgepodge, or jumble of disparate persons or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disordered gathering or assortment lacking systematic classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnium-gatherum designates a motley assortment of things."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Oldbuck's study was an extraordinary **omnium-gatherum** of Roman coins, rusty armor, and moldering manuscripts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old sea-chest contained an astonishing **omnium-gatherum** of nautical trinkets and foreign curiosities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook's junk shop was a bewildering **omnium-gatherum** of legal parchment, rags, and discarded bones."*

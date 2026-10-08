@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omniscience
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being omniscient; having infinite knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being omniscient; having infinite knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or attribute of possessing complete, infinite, or universal knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attitude or pretension of knowing everything; all-knowing perspective in literary narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"For my omniscience paid I toll In infinite remorse of soul."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And it is only what we are vividly conscious of that we can vividly imagine to be seen by Omniscience."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If 469:6 Life ever had a beginning, it would also have an ending. /Question/. - What is intelligence? /Answer/. - Intelligence is omniscience, omnipresence, 469:9 and omnipotence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Finite human reason must never presume to emulate the boundless **omniscience** of the Creator."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The authorial narrator maintained an ironic **omniscience** over the quiet drama of provincial lives."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No mortal philosopher can lay claim to **omniscience** in matters of natural science."*

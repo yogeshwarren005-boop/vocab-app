@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # incomplete
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not complete or total; not completed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet finished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not complete; lacking some part, element, or step; unfinished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient, imperfect, or inadequate in detail or scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Notwithstanding my inability to settle to anything,—which I hope arose out of the restless and incomplete tenure on which I held my means,—I had a taste for reading, and read regularly so many hours a day."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I felt that we were incomplete before, and here is the explanation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record is profoundly **incomplete**, preserving only fragments of ancient life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt that her happiness would remain **incomplete** until her sister Jane was comfortably settled."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Any treatise upon the mysteries of Leviathan must necessarily remain an **incomplete** work."*

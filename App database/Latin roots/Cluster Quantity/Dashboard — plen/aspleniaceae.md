@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # aspleniaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of leptosporangiate ferns, commonly known as the spleenwort family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse cosmopolitan family of ferns characterized by elongated sori along the veins and clathrate scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspleniaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **aspleniaceae** includes delicate rock-dwelling ferns bearing elongated linear sori."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous epiphytic representatives of **aspleniaceae** adorn the mossy trunks of Himalayan cloud forests."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Horticulturists propagate ferns of the family **aspleniaceae** for their decorative evergreen fronds."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — copi]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # cornucopia
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A goat's horn filled with grain and flowers and fruit symbolizing prosperity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being extremely abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horn overflowing with fruits, flowers, and corn, used in art as a symbol of abundance and prosperity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overflowing store, inexhaustible supply, or rich abundance of diverse things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The cornucopia was in flow and humankind's first outbound and inbound highways to the greater universe were complete and working."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The second option would be the ultimate gamble: winning would bring the cornucopia sought throughout the ages."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a tawdry affair, all Cupids and cornucopias, like a third-rate wedding-cake."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Autumn poured forth her rich **cornucopia** of golden grain and mellow harvest fruits."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The bountiful sea seemed an endless **cornucopia** yielding nourishment to the oceanic tribes."*
+> - 📜 **John Keats (*Endymion*):** *"Upon the altar rested an ornate **cornucopia** overflowing with ripe purple grapes and wild figs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — copi]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # coping
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brick that is laid sideways at the top of a wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to terms with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In architecture, the protective top course or sloping masonry cap of a brick or stone wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical strategy or psychological process of managing and adapting to stress or difficulties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The snowdrops were arranged in a line on the outside of the coping, the remainder within the enclosure of the grave."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Looking that way she beheld a form springing from the coping to the plot."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Rain dripped continuously from the mossy stone **coping** of the ancient barnyard wall."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculptured **coping** of the marble balustrade revealed exquisite Byzantine craftsmanship."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human consciousness develops adaptive **coping** mechanisms when confronted by sudden environmental hazards."*

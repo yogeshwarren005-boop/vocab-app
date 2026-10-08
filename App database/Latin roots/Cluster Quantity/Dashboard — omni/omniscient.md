@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omniscient
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infinitely wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infinitely wise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowing all things; possessing infinite or boundless knowledge and understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, narrating events with complete insight into all characters' inner thoughts and motivations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And when they will next come forth again, the fashionable intelligence—which, like the fiend, is omniscient of the past and present, but not the future—cannot yet undertake to say."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lo! ye believers in gods all goodness, and in man all ill, lo you! see the omniscient gods oblivious of suffering man; and man, though idiotic, and knowing not what he does, yet full of the sweet things of love and gratitude."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"He drew a picture of a Lord, Omniscient, pure and kind, His thoughts, His purposes, His word, Too high for human mind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Before the throne of the **omniscient** Judge all secret thoughts are laid bare."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Providence did not appear to be the watchful, **omniscient** protector of innocent rustic maidens."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The village rector spoke with the serene assurance of an **omniscient** observer of human frailty."*

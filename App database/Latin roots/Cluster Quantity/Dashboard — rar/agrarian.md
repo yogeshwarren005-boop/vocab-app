@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # agrarian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to rural matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to rural matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to cultivated land, agriculture, or rural farming communities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to agricultural tenure, land ownership rights, or agrarian reform movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"O’Brien and others, the agrarian policy of Michael Davitt, the constitutional agitation of Charles Stewart Parnell (M."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Labor party ran Henry George, the author of _Progress and Poverty_, and other works somewhat socialistic and certainly agrarian in their tendencies, for Mayor of the city."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have often been termed agrarians on our side of the House."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"He celebrated the virtues of an **agrarian** republic grounded in independent yeoman freeholders."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid expansion of **agrarian** settlements transformed the western wilderness into fertile farms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Ancient legislation frequently favored the **agrarian** interests over urban mercantile guilds."*

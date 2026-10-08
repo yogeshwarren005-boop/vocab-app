@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullah
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine or gully in southern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine or gully in southern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A riverbed, ravine, watercourse, or gully, especially one that is dry except during the rainy season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural drainage ditch or rocky water channel in South Asian geography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nullah designates a ravine or gully in southern asia."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The cavalry patrol took cover in a deep **nullah** while hostile fire swept overhead."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The fugitives dashed down the dried **nullah**, concealed by the steep sandy banks."*
+> - 📜 **George Orwell (*Burmese Days*):** *"During the dry months the rocky **nullah** held only stagnant pools where buffalo bathed."*

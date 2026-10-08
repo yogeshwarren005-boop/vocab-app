@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnipresent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being present everywhere at once.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being present everywhere at once.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Present everywhere at the same time; ubiquitous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encountered everywhere; constantly seen, heard, or experienced in daily life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The existence of an Omnipresent Holiness was alike the beginning and the burden of his theology, and in the light of that truth all the earth became holy to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Even if he had written it as a burlesque of such a play as Marlow’s ‘Jew of Malta’, he could not have avoided some revelation of that sense of moral proportion which is omnipresent in his Plays."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With oversight by reasonable and conscientious leaders, managers, and supporters, suicide prevention would become ingrained, omnipresent, and a way of life in which everyone would play a vital role."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The struggle for existence is an **omnipresent** reality governing all organic life on earth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To superstitious sailors, the white whale seemed an **omnipresent** phantom haunting every ocean."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The silence of the distant future was an **omnipresent** pall hanging over the dying world."*

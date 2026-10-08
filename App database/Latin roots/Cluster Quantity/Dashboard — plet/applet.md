@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # applet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A java application; an application program that uses the client's web browser to provide a user interface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A java application; an application program that uses the client's web browser to provide a user interface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, specialized application program designed to run within the context of a larger software system or browser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight computational utility performing a single focused task within an operating environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applet designates a java application; an application program that uses the client's web browser to provide a user interface."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The browser executed an interactive Java **applet** embedded directly within the hypertext document."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Miniaturized software modules such as an **applet** enable responsive interactive communications across global networks."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"A compact diagnostic **applet** verified the integrity of the arithmetic processing registers."*

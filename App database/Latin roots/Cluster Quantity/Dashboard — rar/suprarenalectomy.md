@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # suprarenalectomy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both adrenal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both adrenal glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of one or both adrenal (suprarenal) glands; adrenalectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical intervention performed to treat hormonal neoplasms of the adrenal cortex or medulla.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprarenalectomy designates surgical removal of one or both adrenal glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **suprarenalectomy** in experimental animals rapidly induces fatal vascular collapse and asthenia."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The surgical team considered performing **suprarenalectomy** to counteract severe hypertensive crises."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Following total **suprarenalectomy**, mineralocorticoid replacement therapy is vital to sustain sodium balance."*

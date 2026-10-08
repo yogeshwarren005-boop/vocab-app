@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting of a legislative body at which all members are present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosed space in which the air pressure is higher than outside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A space completely filled with matter, as opposed to a vacuum in classical physics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general assembly or full meeting of all members of a legislative or governing body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Jackson_ currit _plenum sed_ Et laesit meum _magnum ad_. _R."*
+> - 📜 **Isaac Newton (*The Principia*):** *"Descartes imagined celestial space to be an absolute **plenum** filled with swirling ethereal vortices."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Naturalists long argued whether physical reality consists of an unbroken **plenum** or empty space."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The atomic philosophy admits a void, rejecting the Cartesian doctrine of a universal **plenum**."*

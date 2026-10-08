@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # counterexample
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refutation by example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refutation by example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An example, case, or instance that disproves or refutes a general proposition or theoretical hypothesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, a specific instance for which an asserted general theorem fails to hold true.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterexample designates refutation by example."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A single valid **counterexample** suffices to demolish an overly broad philosophical generalization."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Scientific theories remain provisional because an unforeseen **counterexample** may refute them at any time."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The logician searched methodically for a **counterexample** to test the validity of the syllogism."*

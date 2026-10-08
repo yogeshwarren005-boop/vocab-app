@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ampl]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # amply
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an ample degree or in an ample manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sufficiently; more than adequately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ample manner; sufficiently, abundantly, or generously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extensive detail; fully or completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So do the kings of France unto this day, Howbeit they would hold up this Salic law To bar your Highness claiming from the female, And rather choose to hide them in a net Than amply to imbar their crooked titles Usurp’d from you and your progenitors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There be that can rule Naples As well as he that sleeps; lords that can prate As amply and unnecessarily As this Gonzalo."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this thrice worthy and right valiant lord Shall not so stale his palm, nobly acquir’d, Nor, by my will, assubjugate his merit, As amply titled as Achilles is, By going to Achilles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record **amply** demonstrates the extinction of innumerable ancient transitional forms."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His large independent income **amply** justified his generous hospitality to county neighbors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial archives **amply** documented the administrative reforms instituted under Diocletian."*

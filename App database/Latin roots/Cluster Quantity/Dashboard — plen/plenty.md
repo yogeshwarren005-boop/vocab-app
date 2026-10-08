@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenty
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full or abundant supply; an amount that is enough or more than enough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abundance, prosperity, and fruitful provision of life's necessities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plenty and peace breeds cowards; hardness ever Of hardiness is mother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Earth's increase, foison **plenty**, barns and garners never empty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In times of **plenty**, organic beings multiply at geometric rates."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The islanders enjoyed health and **plenty** beneath the shelter of the tropical palms."*

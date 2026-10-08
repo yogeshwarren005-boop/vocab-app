@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # raring
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') full of eagerness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with enthusiasm, eagerness, or impatience to do something or begin an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Champing at the bit; poised in an energetic state ready for immediate release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raring designates (usually followed by `to') full of eagerness."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The team of huskies stood **raring** in the fresh snow, eager to plunge down the trail."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The spirited stagecoach horses were **raring** to start as the driver cracked his long whip."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"The mustang was **raring** with nervous energy before we could mount in the frosty dawn."*

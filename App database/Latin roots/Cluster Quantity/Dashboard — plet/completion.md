@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # completion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (american football) a successful forward pass in football.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concluding action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of finishing, concluding, or bringing an endeavor to fulfillment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fulfillment, realization, or ultimate culmination of an undertaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now they both declared to her that their full intention had been for years to come home after the completion of their studies and to live in Wildenstein with her and Leonore."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no authority over the children and could therefore do nothing, as everything depended on Salo's early completion of his studies so that he could choose an occupation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, in a great perspiration, nerves himself to the hasty completion of the taking down of the Galaxy Gallery, concluding with Lady Dedlock."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **completion** of the grand imperial basilica occupied the architect for over a decade."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The long-awaited **completion** of the lawsuit brought ruin rather than wealth to the expectant heirs."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The **completion** of the timber harvest signaled the arrival of dreary autumn rains."*

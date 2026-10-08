@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — copi]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # copious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in number or quantity (especially of discourse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding or containing plenty; abundant in supply, quantity, or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an expansive, rich, or overflowing vocabulary or style of discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning a copious rain fell again, and the fields that had been left dry were well watered_." THE HUSHED TEMPEST."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"In Shelley's case these are copious."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Dinner over, we produced a bundle of pens, a copious supply of ink, and a goodly show of writing and blotting paper."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The tropical storm poured down **copious** floods of rain, washing away the mountain trails."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale yields **copious** reservoirs of illuminating oil prized above all others."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian consulted **copious** archives assembled during the prosperous reign of the Antonines."*

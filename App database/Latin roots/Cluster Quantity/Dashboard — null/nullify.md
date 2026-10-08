@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullify
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be invalid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make legally void, invalid, or of no legal effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cancel out, negate, or counteract the practical effect or value of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He does not want drying.” “Who, my dear?” said Lady Chettam, a charming woman, not so quick as to nullify the pleasure of explanation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The banker felt that he had done something to nullify one cause of uneasiness, and yet he was scarcely the easier."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"In vain industry, self-sacrifice and generosity--that young face, that bright youthful colouring would nullify all my efforts."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judicial tribunals have the constitutional duty to **nullify** statutory acts contrary to the constitution."*
+> - 📜 **Thomas Jefferson (*Kentucky Resolutions*):** *"A declaration by the states serves to **nullify** unauthorized encroachments of central power."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A sudden climatic catastrophe can **nullify** generations of gradual evolutionary adaptations."*

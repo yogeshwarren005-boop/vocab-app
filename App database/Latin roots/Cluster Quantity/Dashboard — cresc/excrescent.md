@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — cresc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # excrescent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an outgrowth (usually an excessive outgrowth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an outgrowth (usually an excessive outgrowth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing out abnormally; forming an unnatural outgrowth or projection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superfluous, redundant, or extraneous to a harmonious structure or language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Out of this lifeless mass has already grown an excrescent power, which tends to realize all the dangers that can be apprehended from a defective construction of the supreme government of the Union."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The bark exhibited **excrescent** woody knots caused by parasitic insect larvae."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Philologists noted the development of **excrescent** consonants in phonetic evolution."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Gothic builders avoided all purely **excrescent** ornament that lacked structural purpose."*

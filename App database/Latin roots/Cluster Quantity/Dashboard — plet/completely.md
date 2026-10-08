@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # completely
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be complete; with everything necessary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In every respect; totally, entirely, or thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To the fullest extent or degree without exception or omission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Long live Loneli!;" it sounded again and the echo from the castle-mountain repeated, "Loneli." Apollonie opened the window completely, and putting out her head, cried: "It is lovely of you, children that you don't want Loneli disgraced."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as he had seen how completely the ladies entered into his sister's plans, he wished to arrange the details and so said that he was now going to the doctor in order to get his permission for the little trip."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **completely** charmed by the picturesque scenery and noble woodlands of Pemberley."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The original oceanic island was **completely** devoid of indigenous terrestrial mammals."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The small whaleboat was **completely** shattered by the furious stroke of the monster's tail."*

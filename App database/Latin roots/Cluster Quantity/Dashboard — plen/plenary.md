@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # plenary
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full in all respects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full in all respects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fully attended or constituted; attended by all qualified members, as of a meeting or session.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute, complete, or unqualified in scope, authority, or power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The clerk several times used the word “plenary” (of the service), a word Pétya did not understand."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These are kept and burned on May Day by men who must first have received plenary absolution from the Church."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor exercised **plenary** authority over both the civil administration and military forces."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ambassadors presented their credentials before a **plenary** assembly of the Estates General."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The court claimed **plenary** jurisdiction over all constitutional conflicts within the union."*

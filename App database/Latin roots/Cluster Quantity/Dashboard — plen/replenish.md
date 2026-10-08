@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # replenish
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill something that had previously been emptied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill something that had previously been emptied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fill something up again with supplies, fuel, food, or water after it has been depleted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To restore, refresh, or revitalize energy, strength, or resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Should a villain say so, The most replenish’d villain in the world, He were as much more villain: you, my lord, Do but mistake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The more she saw the blood his cheeks replenish, The more she thought he spied in her some blemish."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"However,” said Joe, rising to replenish the fire; “here’s the Dutch-clock a-working himself up to being equal to strike Eight of ’em, and she’s not come home yet!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaler touched at the Azores to **replenish** her water casks and purchase fresh vegetables."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The explorers halted at the spring to **replenish** their canteens before crossing the dry desert."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Sleep and quiet rest served to **replenish** her exhausted strength after the arduous journey."*

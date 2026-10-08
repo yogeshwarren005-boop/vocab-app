@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — copi]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # copiousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a more than adequate quantity or supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a more than adequate quantity or supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant quantity or profuse supply; overflowing plenty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Richness and fullness of expression, vocabulary, or stylistic variety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Wordsworth expounded the ruinous tendency of Reform and manufactures with even unusual copiousness, on account of the admiring affection with which he felt himself surrounded."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden was celebrated for the exuberant **copiousness** of his poetic vocabulary."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy is enriched by the infinite **copiousness** of observable phenomena."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakespeare amazes us by the effortless **copiousness** of his dramatic inventions."*

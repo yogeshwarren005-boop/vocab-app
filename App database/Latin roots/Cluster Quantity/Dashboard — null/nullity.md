@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullity
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of nonexistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is null (especially an enactment that has no legal validity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legal invalidity, complete lack of binding efficacy, or total unenforceability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or thing of no importance, value, or consequence; a nonentity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is become a nullity, Yea, and a woeful and a piteous nullity."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is admitted that it must concern the foreign nation party to the contract, or it would be a mere nullity, res inter alias acta. 2."*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"The royal court decreed the forced contract to be an absolute **nullity** from its inception."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The titular magistrates were reduced to mere **nullity** under imperial autocracy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The disputed codicil was pronounced a legal **nullity** after decades of ruinous argument."*

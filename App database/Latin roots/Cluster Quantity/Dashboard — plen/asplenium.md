@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # asplenium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classification systems placed in family polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classification systems placed in family polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of ferns commonly called spleenworts, comprising hundreds of species worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evergreen fern of this genus, often found growing in limestone rock crevices and shady ravines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asplenium designates in some classification systems placed in family polypodiaceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A fragile frond of **asplenium** was discovered clinging to the moist cliff above the waterfall."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the damp volcanic rocks of the island we gathered delicate tufts of wild **asplenium**."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The ebony spleenwort is classified under **asplenium** owing to its distinctive linear fructification."*

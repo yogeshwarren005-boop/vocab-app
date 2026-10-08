@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — rar]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # raree-show
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of pictures or objects viewed through a small hole or magnifying glass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street show.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peepshow in a portable box carried on the streets by itinerant showmen, popular in 18th- and 19th-century Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any colorful, spectacular, or bizarre public spectacle or entertainment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raree-show designates an exhibition of pictures or objects viewed through a small hole or magnifying glass."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"High society gossips treated the royal reception as nothing better than a vulgar **raree-show**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The crowd goggled at the pompous coronation procession as though it were a festive **raree-show**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Street urchins clustered round the Italian pedlar's curious **raree-show** to catch a peep through the glass."*

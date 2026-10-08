@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # incompleteness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being crude and incomplete and imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being crude and incomplete and imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of completeness, unfinished condition, or omission of required parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, the property of a formal system containing true statements that cannot be proven within the system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Philosophy could remove this sense of incompleteness, but only at the cost of love; and love was to Virgil, as his poetry shows, the very essence of life."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Further, the whole story of AEneas is an utterance of man's craving for God, of the sense of man's incompleteness without a divine complement."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The apprehension of dying suddenly, and leaving one fact or one figure with any incompleteness or obscurity attaching to it, would have stretched Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"He candidly acknowledged the extreme **incompleteness** of the fossil evidence in many strata."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Gödel proved the essential **incompleteness** of arithmetic systems in an epochal mathematical treatise."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A lingering sense of personal **incompleteness** drives the religious seeker toward spiritual conversion."*

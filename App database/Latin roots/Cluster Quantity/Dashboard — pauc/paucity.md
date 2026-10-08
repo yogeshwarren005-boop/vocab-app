@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — pauc]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # paucity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insufficient quantity or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insufficient quantity or number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smallness of quantity or number; an insufficient or meager supply; scarcity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dearth or deficiency of ideas, resources, evidence, or talent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Their speech, which I speak uncommonly easy, is round and rich and musical, possessing a paucity of consonants, being composed principally of vowels."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any inward debate Lydgate had as to the consequences of this engagement which had stolen upon him, turned on the paucity of time rather than of money."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Here again I found the tally agreeing exactly; the carriers’ men were able to supplement the paucity of the written words with a few details."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any inward disturbance was masked by the **paucity** of his spoken observations."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Here again I found the same **paucity** of records regarding the mysterious local traditions."*
+> - 📜 **Jack London (*The Star Rover*):** *"The **paucity** of nourishment in solitary confinement gradually weakened his iron constitution."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plen]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # replenishment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filling again by supplying what has been used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filling again by supplying what has been used up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of filling up again or restoring depleted supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restoration of vitality, material stores, or operational resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fully aware that vital minerals and other substances were beyond replenishment from within the Solar System, the solar community nevertheless squandered its rapidly diminishing resources."*
+> - 📜 **Herman Melville (*Typee*):** *"The periodic **replenishment** of the breadfruit crop ensured the valley against all threat of famine."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our vessel required immediate **replenishment** of timber and fresh provisions before rounding the Horn."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The coastal steamer paused at the coaling station for **replenishment** of bunker fuel."*

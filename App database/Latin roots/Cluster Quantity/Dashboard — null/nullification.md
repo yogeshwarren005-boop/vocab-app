@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — null]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nullification
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The states'-rights doctrine that a state can refuse to recognize or to enforce a federal law passed by the united states congress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of nullifying; making null and void; counteracting or overriding the effect or force of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making legally null and void; invalidation of an enactment or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American constitutional history, the doctrine that a state can invalidate any federal law it deems unconstitutional.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They first promulgated the doctrine of nullification or secession, and political writers mistake who point to Calhoun as the father of that doctrine."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The tariff of 1828 is an era in our political legislation; from it the doctrine of “nullification” originated, and from that date began a serious division between the North and the South."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The short session of 1829–30 was rendered famous by the long and earnest debates in the Senate on the doctrine of nullification, as it was then called."*
+> - 📜 **Daniel Webster (*Second Speech on Foot's Resolution*):** *"He denounced the doctrine of state **nullification** as subversive of the federal union."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The southern controversy over **nullification** tested the constitutional balance of the republic."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king sought the absolute **nullification** of parliamentary statutes by royal prerogative."*

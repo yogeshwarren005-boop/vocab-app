@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # completeness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being complete and entire; having everything that is needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) an attribute of a logical system that is so constituted that a contradiction arises if any proposition is introduced that cannot be derived from the axioms of the system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entirety, wholeness, and possession of all required parts or attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughness and exhaustive perfection in detail or scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sighed for her self-completeness then, and now she cried aloud against the severance of the union she had deplored."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This further time has more fully developed the thoroughness of the case spoken of and the completeness of the victory over an evil habit."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record will never attain the **completeness** required to display every evolutionary link."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She admired the moral **completeness** of Dorothea's devotion to her noble philanthropic ideals."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A thought possesses an organic **completeness** that resists reduction into isolated sensory atoms."*

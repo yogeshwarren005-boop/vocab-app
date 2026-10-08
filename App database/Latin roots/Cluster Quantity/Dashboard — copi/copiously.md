@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — copi]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # copiously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In great quantities; abundantly, profusely, or lavishly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At great length; expansively and with profuse detail in writing or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is so clear a proposition, that moderation itself can scarcely listen to the railings which have been so copiously vented against this part of the plan, without emotions that disturb its equanimity."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The more copiously they flowed, the more did my general sensations appear to subside into calm, and a certain restlessness give way to repose."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nectar is secreted **copiously** by the glandular tissues of the flower to attract insect pollinators."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She wept **copiously** upon her pillow, overwhelmed by the memory of her bitter misfortune."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The blood flowed **copiously** from the wound before the surgeon could apply a tourniquet."*

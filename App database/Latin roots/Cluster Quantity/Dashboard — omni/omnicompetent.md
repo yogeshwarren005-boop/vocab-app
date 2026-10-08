@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — omni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # omnicompetent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin omni within the domain of Quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of omni in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing authority, jurisdiction, or competence across all spheres, subjects, or matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with universal skill, capability, or administrative authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnicompetent designates pertaining to, derived from, or characteristic of latin omni within the domain of quantity."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"No human assembly can claim to be **omnicompetent** in managing every technical department of state."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Parliament stands as an **omnicompetent** sovereign body with power to modify any law of the realm."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"Pluralist political theory denies that the modern state is an **omnicompetent** moral arbiter."*

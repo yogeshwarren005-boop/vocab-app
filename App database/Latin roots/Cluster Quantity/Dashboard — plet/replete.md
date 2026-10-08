@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plet]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # replete
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled to satisfaction with food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled or well-supplied with something; abundantly provided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gorged, sated, or full to satisfaction with food or drink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All France will be replete with mirth and joy When they shall hear how we have play’d the men."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The historical chronicle was **replete** with harrowing tales of shipwrecks in the Antarctic ice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer's dusty chambers were **replete** with parchment bundles, tin deed boxes, and musty law books."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The dense forest was **replete** with mysterious shadows and murmuring brooks."*

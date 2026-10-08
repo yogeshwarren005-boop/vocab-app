@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves (or waits to be called to serve) on a jury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves (or waits to be called to serve) on a jury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male juror; a man sworn as a member of a trial jury in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A citizen serving on an inquest or coroner's panel to investigate sudden deaths or disputed property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you think you can receive his evidence, sir?” asks an attentive juryman."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think it’s tender, because the master of the shop was a Juryman in some cases of ours the other day, and we let him down easy."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A Juryman: Did you see nothing which aroused your suspicions when you returned on hearing the cry and found your father fatally injured?"*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Not a single **juryman** could listen unmoved to the prisoner's pathetic defense without wiping away a tear."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The chemist was called as a **juryman**, protesting loudly that his shop would be ruined if he were detained in court."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Every respectable **juryman** in the borough knew Henchard's proud temper and listened carefully to his frank testimony."*

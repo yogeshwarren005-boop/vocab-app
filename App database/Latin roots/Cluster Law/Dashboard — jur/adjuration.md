@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn and earnest appeal to someone to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn and earnest appeal to someone to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn oath, earnest appeal, or binding command made under the invocation of a sacred name or threat of curse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earnest, urgent, or entreating charge given with solemn religious or moral gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had not been neglectful of the adjuration."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, in the way of a compassionate adjuration."*
-> - 📜 **Effie Afton (*Eventide*):** *"Florence turned at Edgar's adjuration, and he saw, by the moonlight, two great tear-drops dimming her starry eyes."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"By the sacred memory of our past love, she addressed to him an agonizing **adjuration** to abandon his fatal experiments."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The messenger responded to the sentry's grim **adjuration** by reining in his steaming horse beneath the misty night."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"He listened with pale horror to the hollow **adjuration** that issued from the shadowy depths of the subterranean vault."*

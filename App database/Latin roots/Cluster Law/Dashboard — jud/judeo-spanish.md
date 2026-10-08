@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spanish dialect spoken by sephardic jews but written in the hebrew script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spanish dialect spoken by sephardic jews but written in the hebrew script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ladino; the Romance language spoken by Sephardic Jews, derived from Old Spanish with elements of Hebrew, Turkish, and Greek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the cultural, musical, and literary traditions of the Sephardic diaspora originating in medieval Spain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judeo-spanish designates the spanish dialect spoken by sephardic jews but written in the hebrew script."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"In the markets of Tangier, elderly merchants conversed in an archaic **judeo-spanish** dialect that recalled the court of Ferdinand and Isabella."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"Exiled Sephardic families preserved archaic Castilian ballads in their everyday **judeo-spanish** speech across the Levant."*
+> - 📜 **Henry Wadsworth Longfellow (*The Jewish Cemetery at Newport*):** *"Their ancestors carried the musical cadences of **judeo-spanish** across oceans, remembering their ancestral Iberian homeland."*

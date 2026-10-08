@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking official approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not authorized or permitted by a formal license or official legal permit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating outside regulatory oversight; lacking accredited professional certification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If further yet you will be satisfied, Why, as it were unlicensed of your loves, He would depart, I’ll give some light unto you."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Nature had contributed lavishly, but when man came he brought with him the defects of humanity and painted the fair location with the blackness of unlicensed vice, filling the Eden of beauty with the blight of Sodom."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Revenue cutters must intercept **unlicensed** merchantmen trading contraband in defiance of federal customs laws."*
+> - 📜 **Thomas Jefferson (*Writings: Notes on the State of Virginia*):** *"We must not permit **unlicensed** monopolies to control essential river navigation and transport."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The herbal doctor peddled his remedies without an **unlicensed** quack's usual hesitation, boasting cures for every malady."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin litig within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of litig in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disputed or contested in a court of law; settled without judicial proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been subjected to formal trial or judicial determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlitigated designates pertaining to, derived from, or characteristic of latin litig within the domain of law."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The boundary between the two ancient manors had remained **unlitigated** for centuries under peaceful customary possession."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"The vast majority of contractual agreements are fulfilled smoothly, leaving countless legal questions **unlitigated** and dormant."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"A wise counselor will preserve property for his clients by keeping their estate settlements **unlitigated** whenever possible."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorize officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given official approval to act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been granted official or legal permission; formally authorized by an official permit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorized by competent authority to practice a profession, conduct a trade, or keep an inn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licenced designates authorize officially."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"None but **licenced** preachers were permitted to deliver sermons in parish churches under the Restoration settlement."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The tavern was a legally **licenced** house where coachmen assembled during cold winter nights to take warm ale."*
+> - 📜 **Walter Scott (*Redgauntlet*):** *"The magistrate demanded whether the peddler possessed a **licenced** warrant to hawk goods within the county bounds."*

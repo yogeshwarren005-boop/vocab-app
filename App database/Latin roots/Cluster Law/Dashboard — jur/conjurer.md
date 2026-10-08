@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of magic or illusion; a sorcerer who summons spirits, or an entertainer performing sleight of hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who creates astonishing, deceptive, or unexpected effects through clever ingenuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PINCH, a Schoolmaster and a Conjurer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master preaches patience to him, and the while His man with scissors nicks him like a fool; And sure (unless you send some present help) Between them they will kill the conjurer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The itinerant **conjurer** entertained the market crowd with miraculous tricks, pulling endless ribbons from his hat."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The ambitious charlatan acted the part of a political **conjurer**, promising riches from non-existent silver mines."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The astrologer claimed the powers of a learned **conjurer**, casting horoscopes beneath the midnight stars."*

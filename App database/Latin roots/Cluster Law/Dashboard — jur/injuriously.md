@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injurious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injurious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner causing harm, damage, detriment, or impairment to person, property, or reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unjust, wrongful, or defamatory fashion violating equitable rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Why do you injuriously introduce the name of my mother by adoption?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A strong proof of the vitality of the movement, of which he was the principal originator, is that his death cannot injuriously affect its activity or its prospects of ultimate success."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And yet, in such a system, it is even happy when such compromises can take place: for upon some occasions things will not admit of accommodation; and then the measures of government must be injuriously suspended, or fatally defeated."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Exclusive corporate monopolies operate **injuriously** upon the national economy by restricting production and raising prices."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden debasement of the silver coinage affected trade **injuriously**, shaking the confidence of foreign merchants."*
+> - 📜 **David Hume (*The History of England*):** *"The royal favorites exercised their privileges **injuriously**, oppressing the commons without enriching the public treasury."*

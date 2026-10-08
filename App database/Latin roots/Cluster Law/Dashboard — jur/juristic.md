@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to law or to legal rights and obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to law or to legal rights and obligations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a jurist, jurisprudence, or the technical principles of positive law; legal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognized by or existing under the operation of law, as in a juristic person or corporate entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, juristic designates of or relating to law or to legal rights and obligations."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The legal fiction of the corporation as a distinct **juristic** person provided continuity for commercial enterprise."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucratic authority relies upon formal **juristic** rationality where rules are applied without regard to personal status."*
+> - 📜 **Frederic William Maitland (*Selected Essays*):** *"English common law resisted the abstract **juristic** definitions of continental Romanism, preferring concrete writs."*

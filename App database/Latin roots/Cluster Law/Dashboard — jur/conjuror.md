@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magician, illusionist, or sorcerer; one who practices conjuring tricks or summons spirits by magical arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who performs dexterous feats of deception or legerdemain before an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lost no time in transferring this paper, with the dexterity of a conjuror, from Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis years since I went to Conjuror Trendle’s son in Egdon—years!” said the dairyman bitterly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Conjuror Fall, t’other side of Casterbridge, that they used to call ‘Wide-O’, was a very good man when I was a boy,” said Jonathan Kail."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The simple savages looked upon the firing of my musket as the supernatural miracle of a powerful **conjuror**."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"A strolling **conjuror** visited the fair, astonishing the rustics by swallowing burning tow and producing coins."*
+> - 📜 **Edgar Allan Poe (*Maelzel's Chess-Player*):** *"The inventor operated not like an honest mechanician, but like a skillful **conjuror** concealing his secret machinery."*

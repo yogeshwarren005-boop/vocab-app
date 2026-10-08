@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely delicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely delicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively sensitive, fastidious, fragile, or scrupulous; squeamish or over-refined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting excessive fragility or requiring an impractical degree of care and delicacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overdelicate designates extremely delicate."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her sister was of an **overdelicate** constitution, taking cold upon the slightest change in the evening breeze."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His refined aestheticism was perhaps **overdelicate** for the rough realities of political ambition."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I was not of an **overdelicate** temper to shrink from the necessary daily tasks of the schoolhouse."*

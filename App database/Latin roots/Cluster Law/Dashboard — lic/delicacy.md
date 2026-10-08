@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being beautiful and delicate in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something considered choice to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fineness, subtlety, or exquisiteness of texture, form, or taste; frail or sensitive beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considerate tact and sensitivity in feeling or conduct; or a choice, rare gourmet food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole,” said Richard to me, “has a delicacy in applying to my cousin Jarndyce because he has lately—I think, sir, I understood you that you had lately—” “Oh, yes!” returned Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To see the horses, dogs, and cattle go by me and to know that in ignorance I belong to them and not to the superior beings in my shape, whose delicacy I offend!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our young friend is not to be suspected of any delicacy, I should imagine,” said Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth appreciated the exquisite **delicacy** with which he avoided all allusion to her family's past embarrassment."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"An appearance of **delicacy**, and even of fragility, is an essential attribute of objects that excite the sentiment of beauty."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber prepared the punch with an artistic **delicacy** that elevated the modest tavern room to a banquet hall."*

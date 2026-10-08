@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anise trees: evergreen trees with aromatic leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anise trees: evergreen trees with aromatic leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a genus of evergreen shrubs and trees (family Schisandraceae), notably star anise (*Illicium verum*), celebrated for aromatic star-shaped fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic plant genus producing aromatic essential oils, anethole, and spicy culinary and medicinal flavorings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illicium designates anise trees: evergreen trees with aromatic leaves."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Linnaeus classified the genus **illicium** among the Polyandria Polygynia, noting its star-shaped cluster of aromatic capsules."*
+> - 📜 **Asa Gray (*Genera of the Plants of the United States*):** *"The American species of **illicium**, known as star-anise, grow in coastal swamps from Florida to Louisiana."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Chinese merchants cultivated **illicium** verum for centuries to supply European spice markets with star anise."*

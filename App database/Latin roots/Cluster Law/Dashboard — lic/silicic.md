@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lic within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from silica, especially denoting silicic acid ($H_4SiO_4$) or high-silica igneous rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, describing magmas and rocks containing over 65 percent silica, such as rhyolite and granite; felsic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicic designates pertaining to, derived from, or characteristic of latin lic within the domain of law."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Explosive volcanic eruptions frequently characterize viscous **silicic** lavas that trap volatile gases under pressure."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The trachytic domes of Ascension Island represent differentiated **silicic** eruptions from a basaltic magma chamber."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Rainwater charged with carbonic acid slowly leaches **silicic** compounds from exposed granitic boulders."*

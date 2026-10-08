@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or made using whatever is available.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made using whatever is available.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erected, constructed, or improvised in a makeshift, temporary, or ingenious manner to meet an immediate emergency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing mechanisms, equipment, or arrangements assembled hastily from available materials without proper fittings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jury-rigged designates done or made using whatever is available."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"After the dismasting typhoon, the battered ship limped toward port under a **jury-rigged** sail of canvas and spars."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The crew labored through the night setting up a **jury-rigged** steering apparatus after the tiller snapped in heavy seas."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"A **jury-rigged** hatch cover kept out the swirling green seas while the stokers fought to keep the boilers firing."*

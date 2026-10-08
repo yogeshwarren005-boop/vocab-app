@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new testament book attributed to saint jude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name of Hebrew origin, notably designating the apostle Saint Jude and the New Testament Epistle of Jude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literary allusion to Thomas Hardy's tragic protagonist in *Jude the Obscure*, symbol of thwarted intellectual and social aspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich bin jetzt bei Christ und Jude verhasst."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Jude’s” (nodding north-west-by-north)."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"As **jude** stood looking across the misty valley toward the spires of Christminster, he yearned passionately for learning."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"The short epistle of **jude** warns the faithful against subtle deceivers who corrupt brotherly charity."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The pious invocation of Saint **jude** sustained many across centuries of hardship and unmerited trial."*

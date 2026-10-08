@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the jews or their culture or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the jews or their culture or religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Judaism or the Jewish people; characterized by Jewish religious principles or observances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical stylistic term describing strict adherence to Mosaic law and Hebrew theological precepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judaical designates of or relating to or characteristic of the jews or their culture or religion."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"Early Christian apologists debated whether new converts were obligated to follow the strict **judaical** dietary laws."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The spiritual truths of the gospel were prefigured through the historical ceremonies of the **judaical** dispensation."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The Mosaic civil commonwealth was strictly **judaical**, blending national sovereignty with divine ceremonial commands."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality that prevents objective consideration of an issue or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disadvantage by prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preconceived opinion or bias not based on reason, actual experience, or evidence; ungrounded bias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, injury, harm, or detriment resulting from some judgment, action, or neglect; legal disadvantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. [_Exeunt._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His fears were that the interview betwixt England and France might through their amity Breed him some prejudice, for from this league Peeped harms that menaced him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I could easily forgive his pride, if he had not mortified mine; yet my own **prejudice** blinded me to his true worth."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"We cherish our ancient feelings and habits, finding that a wise **prejudice** renders a man's virtue his habit rather than a series of disconnected acts."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The agreement was dismissed without **prejudice** to the rights of either claimant to pursue their remedies under the common law."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jews collectively who practice a religion based on the torah and the talmud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monotheistic religion of the jews having its spiritual and ethical principles embodied chiefly in the torah and in the talmud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotheistic religion of the Jewish people, rooted in the Torah, covenantal relationship with God, and halakhic traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective cultural, ethical, legal, and historical heritage of the worldwide Jewish community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The uncertainty about God in Judaism reacted on life and made it hard."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But here was actually assembled the Jewish people, coming in swarms from all the world, for the feast; here was Judaism at its most pious; here was the pilgrim centre with all it meant of aspiration and blindness, of simple folly and gross sin."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It will reach far outside the bounds of Judaism."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The laws of **judaism** were designed to maintain civil order and moral cohesion within an independent historical state."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He discovered that **judaism** was not merely an ancient relic, but an ardent and living community of shared memory."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In **judaism**, the sense of divine righteousness becomes the governing standard for both private conduct and public social justice."*

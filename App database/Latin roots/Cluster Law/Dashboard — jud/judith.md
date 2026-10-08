@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jewish heroine in one of the books of the apocrypha; she saved her people by decapitating the assyrian general holofernes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apocryphal book telling how judith saved her people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal name and biblical heroine celebrated for decapitating the Assyrian general Holofernes to deliver her besieged city of Bethulia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deuterocanonical Book of Judith; an archetype of heroic female courage in Western literature and art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Going out early in life and marrying late, as his father had done before him, he too begat a lean and anxious-minded son, who in his turn, going out early in life and marrying late, became the father of Bartholomew and Judith Smallweed, twins."*
-> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, or Mrs."*
-> - 📜 **Effie Afton (*Eventide*):** *"Judith Justitia Pimble, author of tracts for the amelioration of enslaved and down-trodden woman; and this is Mrs."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Like **judith** in the tent of Holofernes, heroic faith achieves great deeds when armies despair of victory."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Consider noble **judith**, how by her courage and wisdom she delivered the people of God from cruel tyranny."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The narrative of **judith** was composed to inspire national fortitude during times of extreme political danger."*

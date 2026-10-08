@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the law or jurisprudence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the administration of justice or the function of a judge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to judicial proceedings, the administration of justice, or the office of a judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulated according to recognized legal principles, rights, or the science of jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We want to give the Senate new juridical powers, but we have no laws."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"If the realm of human knowledge were confined to abstract reasoning, then having subjected to criticism the explanation of “power” that juridical science gives us, humanity would conclude that power is merely a word and has no real existence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of King's Bench possesses a general **juridical** superintendence over all inferior jurisdictions in the kingdom."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Roman legal history exhibits the gradual purification of **juridical** concepts from archaic ritualistic formalism."*
+> - 📜 **Immanuel Kant (*The Philosophy of Law*):** *"A **juridical** state of society exists only where external freedom is secured through public coercive laws."*

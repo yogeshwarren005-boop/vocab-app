@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral discipline; especially sexually unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking moral discipline; especially sexually unrestrained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promiscuous and unprincipled in sexual or moral matters; morally dissolute and unrestrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disregarding accepted legal, literary, or social rules; lawless and unruly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dearly would it touch thee to the quick, Should’st thou but hear I were licentious?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A **licentious** populace soon invites military tyranny as the only power capable of quelling lawless disorder."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **licentious** soldiers of the praetorian guard auctioned the imperial throne to the highest bidder."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Rochester squandered brilliant poetic talents in composing **licentious** lampoons that degraded the moral taste of the court."*

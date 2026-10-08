@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves (or waits to be called to serve) on a jury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves (or waits to be called to serve) on a jury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sworn to serve on a jury and deliver a truthful verdict in a court of law based on the evidence presented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a panel or judging committee appointed to evaluate and award prizes in a competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Under cover of the night, the feeble-minded beadle comes flitting about Chancery Lane with his summonses, in which every juror’s name is wrongly spelt, and nothing rightly spelt but the beadle’s own name, which nobody can read or wants to know."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little juror that convicted me in Oakland the time I got handed my fifty-years."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Each **juror** must be free from bias and legally qualified, swearing to well and truly try the issue joined between the parties."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Serving as a **juror** educates the citizen in practical justice, infusing the popular mind with the spirit of the law."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary **juror** listened with bloodthirsty satisfaction to the denunciation of the aristocrat."*

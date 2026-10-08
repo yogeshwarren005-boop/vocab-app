@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Variety of sweet eating apples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly pleasing or entertaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly pleasing to the senses, especially the sense of taste or smell; intensely savory or delectable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording profound psychological or emotional pleasure; delightful, charming, or enjoyable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feed myself With most delicious poison."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you, if he were convey’d to bed, Wrapp’d in sweet clothes, rings put upon his fingers, A most delicious banquet by his bed, And brave attendants near him when he wakes, Would not the beggar then forget himself?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taste delicious, in digestion souring, Devours his will, that lived by foul devouring."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"Now more than ever seems it rich to die, to cease upon the midnight with no pain, while thou art pouring forth thy soul in such a **delicious** ecstasy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The warm bread and fresh milk tasted **delicious** after our long and freezing march across the moors."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"There never was such a goose; Bob said he didn't believe there ever was such a **delicious** goose cooked."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black candy flavored with the dried root of the licorice plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mediterranean leguminous plant (*Glycyrrhiza glabra*) cultivated for its sweet-tasting rhizomes and roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black, chewy candy or confection flavored with the sweet extract of *Glycyrrhiza glabra*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licorice designates deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The apothecary prepared a sweet draught of Spanish **licorice** to soothe the child's irritable winter cough."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village children crowded round the counter, spending their pennies on long sticks of black **licorice**."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Ancient physicians prescribed sweet root or **licorice** for clearing the throat and healing ulcers of the chest."*

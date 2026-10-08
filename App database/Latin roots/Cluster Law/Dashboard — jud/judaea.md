@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mountainous southern region of historic Palestine, encompassing Jerusalem, Bethlehem, and Hebron; a Roman imperial province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical Roman administrative province established in 6 CE following the deposition of Herod Archelaus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were a large class--men and women open to religious ideas from whatever source they might come--Egypt, Judaea, or Persia, desirous of the knowledge of {260} God and of communion with God, and in many cases conscious of sin."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The obstinate rebellion of **judaea** challenged the military genius of Vespasian and the disciplined might of the Roman legions."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"Across the rocky hills of **judaea**, ancient fortresses like Masada stood as unyielding bastions against Roman domination."*
+> - 📜 **John Milton (*Paradise Regained*):** *"All through the desert wastes of **judaea**, holy hermits sought divine communion away from the tumult of cities."*

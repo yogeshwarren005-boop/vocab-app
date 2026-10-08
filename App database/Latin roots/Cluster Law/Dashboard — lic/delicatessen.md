@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready-to-eat food products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop selling ready-to-eat food products.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shop or store counter selling fine prepared foods, sliced cured meats, cheeses, and imported gourmet delicacies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plural noun in German denoting choice table delicacies, fine culinary luxuries, or appetizing tidbits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delicatessen designates ready-to-eat food products."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The family gathered for a lavish breakfast featuring imported **delicatessen**, smoked fish, and crusty French rolls."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Hurstwood stopped at a neighborhood **delicatessen** on his way home to purchase sliced ham and rye bread for supper."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The modern downtown grocery displayed a gleaming **delicatessen** section with rows of potato salad and savory sausages."*

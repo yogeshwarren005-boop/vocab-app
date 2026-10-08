@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decreed by or proceeding from a court of justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging or appropriate to the office of a judge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appropriate to a court of law, legal administration, or the office of a judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting critical discrimination, balance, and impartial fairness akin to a magistrate's deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is received with distinction and seated near the coroner between that high judicial officer, a bagatelle-board, and the coal-box."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is done both in common speech and in judicial decisions, with inevitable ambiguity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In Great Britain and the United States, indeed, by judicial interpretation the law grew more strict as against the claims of the workers, until about 1880 in Great Britain and 1910 in the United States."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **judicial** power of the United States is to be vested in one supreme court, and in such inferior courts as congress may ordain."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"There is almost no political question in America that is not resolved sooner or later into a **judicial** question."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Civil society requires an established, known law, and a known and indifferent **judicial** authority to determine all differences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in legal proceedings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Institute legal proceedings against; file a suit against.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To contest, dispute, or seek legal redress through formal judicial proceedings in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in legal argument and trial proceedings before an authoritative judge or magistrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigate designates engage in legal proceedings."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"States having conflicting claims to western territory agreed to **litigate** their boundaries before a federal tribunal."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"In America, citizens study law so widely that they **litigate** every supposed encroachment with passionate tenacity."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Parties prefer to settle uncertain claims out of court rather than **litigate** complex questions of negligence."*

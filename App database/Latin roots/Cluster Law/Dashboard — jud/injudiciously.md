@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injudicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injudicious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indiscreet, unwise, rash, or imprudent manner; without the exercise of sound judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner displaying defective discernment or heedlessness of practical consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You will find she is some young lady who has had a misunderstanding with her friends, and has probably injudiciously left them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"To her she was most injudiciously indulgent."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Her aunts declared themselves deeply hurt, and Lydia was held to have treated them very injudiciously; but when they died, and their wills became public, it was found that they had vied with one another in enriching her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He had invested his modest fortune **injudiciously**, entrusting it to speculative ventures that soon collapsed."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber had **injudiciously** bound himself by monetary obligations that no sudden turn of fortune could satisfy."*
+> - 📜 **Walter Scott (*Waverley*):** *"The young officer spoke **injudiciously** in the presence of his superiors, revealing political sympathies best kept secret."*

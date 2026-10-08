@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being indelicate and offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impolite act or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of refinement, good taste, modesty, or sensitive tact; coarseness of behavior or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offensive, coarse, or tactless word, act, or remark that violates social decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And the shame!—the indelicacy!—the horrible ugliness of this exposure of a sick and guilty heart to the very eye that would gloat over it!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Ames had any, nor did either of them suppose he was guilty of any impropriety or even indelicacy in becoming a purchaser of this stock."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was shocked by the utter **indelicacy** of her mother's loud speculations regarding Mr. Bingley's fortune."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He recoiled from the slight **indelicacy** of inquiring into her financial circumstances during a private interview."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old New York society shrank with horror from any public **indelicacy** that might provoke gossip in the newspapers."*

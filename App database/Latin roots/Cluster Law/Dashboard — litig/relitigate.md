@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin litig within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of litig in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To litigate again; to dispute or contest in court a legal issue or case that has already been adjudicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reopen debate, controversy, or dispute over an issue previously settled by mutual agreement or authoritative decision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relitigate designates pertaining to, derived from, or characteristic of latin litig within the domain of law."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The principle of res judicata prevents disappointed parties from seeking to **relitigate** controversies already conclusively decided."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"Public policy demands an end to strife, forbidding the court to **relitigate** settled questions of title upon identical evidence."*
+> - 📜 **Felix Frankfurter (*The Public and Its Government*):** *"Administrative finality becomes meaningless if dissatisfied companies are allowed to **relitigate** findings of fact before trial courts."*

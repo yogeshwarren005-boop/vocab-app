@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up a spirit or devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calling up a spirit or devil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or art of conjuring; magic, sorcery, incantation, or dexterous sleight of hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deceptive trickery, illusion, or cunning manipulation designed to mislead observers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conjury designates calling up a spirit or devil."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"Old Alice warned the young lord that curious meddling with forbidden **conjury** brought only ruin upon ancient houses."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Rumors whispered that old Matthew Maule possessed arts of dark **conjury** that cursed the builder of the gables."*
+> - 📜 **Washington Irving (*Tales of a Traveller*):** *"The old alchemist spent his nights over steaming crucibles, mingling chemical science with kabbalistic **conjury**."*

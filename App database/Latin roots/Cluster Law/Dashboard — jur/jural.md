@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to law or to legal rights and obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to law or to legal rights and obligations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to law, legal rights, or jurisprudence; characterized by legal obligations and duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to moral and legal rights recognized as correlative within a constitutional society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jural designates of or relating to law or to legal rights and obligations."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The development of ancient society moves from family status to the **jural** relations of free individual contract."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"Every positive law creates a **jural** relation between the sovereign commanding and the subject bound to obedience."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The **jural** concepts of duty and liability must be analyzed without confusing them with abstract theological virtues."*

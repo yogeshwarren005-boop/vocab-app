@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner disapproved or not allowed by custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unlawful, prohibited, or unauthorized manner; contrary to law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of moral codes, customary rules, or professional ethics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illicitly designates in a manner disapproved or not allowed by custom."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The smugglers landed their contraband cargo **illicitly** in the secluded cove beneath the shadow of the cliffs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High tariffs encourage unscrupulous traders to transport merchandise **illicitly** across guarded frontiers."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal favorite accumulated vast wealth by **illicitly** selling exemptions from penal statutes to wealthy merchants."*

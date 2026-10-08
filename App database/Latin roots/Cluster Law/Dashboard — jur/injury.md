@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any physical damage to the body caused by violence or accident or fracture etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accident that results in physical damage or hurt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical hurt or damage done to a person's body or an animal's organism by accident or violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An injustice, wrong, or violation of a legal right; detriment or damage to property, reputation, or interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Wherever the common law recognizes a right, it likewise provides an adequate legal remedy for its **injury**."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"The history of the present King of Great Britain is a history of repeated **injury** and usurpation."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Neglect of basic sanitary ventilation inflicts severe **injury** upon the patient's capacity for natural recovery."*

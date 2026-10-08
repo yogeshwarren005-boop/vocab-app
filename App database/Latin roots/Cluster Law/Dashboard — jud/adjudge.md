@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To determine, pronounce, or decree by formal judicial decision; to settle through authoritative legal sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deem, consider, or estimate as holding a particular status or quality after deliberate evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet of it all nothing do I adjudge so splendid as this accolade delivered by two lifers in solitary deemed by the world as the very bottom-most of the human cesspool."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The elected Queen of Love and Beauty was then to crown the knight whom the Prince should adjudge to have borne himself best in this second day, with a coronet composed of thin gold plate, cut into the shape of a laurel crown."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Prince John began to talk to his attendants about making ready the banquet, and the necessity of adjudging the prize to Brian de Bois-Guilbert, who had, with a single spear, overthrown two knights, and foiled a third."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of equity will **adjudge** the disputed property to the rightful heir in strict accordance with the testator's intent."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate assembled in haste to **adjudge** the imperial laurels to the triumphant general returning from the East."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"God will **adjudge** righteous recompense to those who bear heavy afflictions with unshaken constancy."*

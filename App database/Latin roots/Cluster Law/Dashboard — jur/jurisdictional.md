@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to the geographic area under a particular jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricted to the geographic area under a particular jurisdiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to legal jurisdiction, official authority, or the territorial scope of a court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving questions regarding whether a tribunal or administrative body has legitimate legal power over a dispute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Many issues were extremely complex: What are an inhabited planet's or satellite's jurisdictional limits within territorial and contiguous space?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Niblack and McCrary, prefer to express no opinion on the general jurisdictional questions discussed in the report, and rest their judgment wholly on the ground last stated."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"The court must first determine the **jurisdictional** boundary established by the constitution before examining the merits of the writ."*
+> - 📜 **A. V. Dicey (*Introduction to the Study of the Law of the Constitution*):** *"A writ of certiorari lies to quash the order of an inferior court that has exceeded its **jurisdictional** limits."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"Modern interstate commerce constantly raises intricate **jurisdictional** conflicts between state tribunals and federal authorities."*

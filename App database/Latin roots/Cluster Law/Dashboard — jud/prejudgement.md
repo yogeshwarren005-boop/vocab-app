@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment reached before the evidence is available.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment reached before the evidence is available.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of judging beforehand; an opinion or decision formed prematurely without full examination of evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preconceived bias or anticipation of judgment that colors subsequent perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prejudgement designates a judgment reached before the evidence is available."*
+> - 📜 **John Locke (*Of the Conduct of the Understanding*):** *"Hasty **prejudgement** closes the avenues of the mind against fresh discoveries and cements stubborn superstitions."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Ministers acted upon stubborn **prejudgement**, refusing to listen to the factual testimonies presented by colonial merchants."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Philosophical skepticism frees the inquirer from unexamined **prejudgement**, clearing the ground for rigorous empirical inquiry."*

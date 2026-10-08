@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disadvantage by prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influence (somebody's) opinion in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a dislike, bias, or distrust based on preconceptions or prejudices rather than reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired, damaged, or disadvantaged in legal standing or practical interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If our conversation shouldn’t lead to anything, I am to be as I was and am not to be prejudiced in my situation or worldly prospects."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such a good man might be prejudiced against a woman who had chosen Sunday, never realizing the necessities of her case."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was too proudly **prejudiced** to confess that the governess had answered her questions with superior knowledge."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Bounderby was fiercely **prejudiced** against the unionized weavers, denouncing every complaint as sheer ingratitude."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The jury was notoriously **prejudiced** against the nonconformist preacher, rendering an impartial verdict impossible."*

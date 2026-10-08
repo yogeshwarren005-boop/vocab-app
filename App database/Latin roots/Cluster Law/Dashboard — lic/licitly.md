@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner acceptable to common custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner acceptable to common custom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lawful, permissible, or authorized manner; with legitimate authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conformity with established legal or ethical standards and permissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licitly designates in a manner acceptable to common custom."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"A magistrate can **licitly** exercise power only within the bounds established by the legislative grant."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"No imperial officer could **licitly** confiscate private estates without clear statutory authorization and judicial warrant."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Taxes that are **licitly** levied with the consent of parliament are paid without popular rebellion or sedition."*

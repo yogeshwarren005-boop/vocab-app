@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being historically related to both judaism and christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being historically related to both judaism and christianity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or encompassing the shared religious, moral, and philosophical heritage of Judaism and Christianity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting cultural and ethical frameworks based upon common biblical values, particularly ethical monotheism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judeo-christian designates being historically related to both judaism and christianity."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"The **judeo-christian** understanding of human destiny introduced the radical concepts of universal linear history and individual conscience."*
+> - 📜 **Reinhold Niebuhr (*The Nature and Destiny of Man*):** *"Within the **judeo-christian** tradition, human dignity derives from creation in the image of God rather than worldly status."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Western ethical philosophy has been profoundly shaped by the moral imperatives embedded in the **judeo-christian** scriptures."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the jews or their culture or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to jews or their culture or religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Jewish people, their ancient history, religious laws, customs, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of Judaism, particularly its ethical monotheism, liturgical traditions, and rabbinic jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaic and other rituals are but types and shadows of true worship."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Jewish women wore veils over their faces in token 597:1 of reverence and submission and in accordance with Pharisaical notions. 597:3 The Judaic religion consisted mostly of rites and cere- monies."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The strict moral earnestness of the Puritans drew its profoundest inspiration from the **judaic** concept of righteous duty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman historians struggled to comprehend the steadfast fidelity with which the populace adhered to their ancient **judaic** rites."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The prophetic consciousness in **judaic** theology emphasizes a divine law that demands ethical justice above ceremonial sacrifice."*

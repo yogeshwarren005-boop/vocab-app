@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling silica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling silica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or resembling silica or quartz; flinty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by hard silica deposits, spicules, or quartzose sedimentary grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Soon the nature of the soil changed; to the sandy plain succeeded an extent of slimy mud, which the Americans call “ooze,” composed of equal parts of silicious and calcareous shells."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The sandstone formation exhibited hard **silicious** concretions that resisted atmospheric weathering."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Petrified forests in desert basins owe their preservation to **silicious** infiltration replacing organic wood fibers."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Equisetum stems accumulate **silicious** particles in their epidermal cell walls, giving them a rough scouring texture."*

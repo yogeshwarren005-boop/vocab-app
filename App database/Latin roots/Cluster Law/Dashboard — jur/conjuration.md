@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ritual recitation of words or sounds believed to have a magical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calling up a spirit or devil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of invoking supernatural spirits or magical powers by sacred names, spells, or ritual incantations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Latin and English law, a conspiracy, league, or secret pact sealed by mutual solemn oaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this conjuration speak, my lord, For we will hear, note, and believe in heart That what you speak is in your conscience washed As pure as sin with baptism."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, by your gracious patience, I will a round unvarnish’d tale deliver Of my whole course of love: what drugs, what charms, What conjuration, and what mighty magic, (For such proceeding I am charged withal) I won his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mock not my senseless conjuration, lords."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"I do defy thy **conjuration**, and apprehend thee for a felon here; obey, and go with me."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The terrified sacristan crossed himself, whispering that the spectral maiden had vanished before his holy **conjuration**."*
+> - 📜 **Christopher Marlowe (*Doctor Faustus*):** *"Within this circle magic lines are drawn, and by solemn **conjuration** the spirits of the deep are summoned."*

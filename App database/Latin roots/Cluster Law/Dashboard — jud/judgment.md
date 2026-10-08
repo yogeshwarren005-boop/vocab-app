@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed by judging something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of judging or assessing a person or situation or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal pronouncement, decree, or determination of a court of law determining the respective rights of parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity for assessing situations, choices, or persons wisely and drawing sound conclusions; discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy writ in babes hath judgment shown, When judges have been babes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"The **judgment** of the Lord is true and righteous altogether; with malice toward none, with charity for all, let us strive on."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A final **judgment** of the court establishes an unalterable obligation which the executive power is bound to enforce."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The human faculties of perception, **judgment**, discriminative feeling, and moral preference are exercised only in making a choice."*

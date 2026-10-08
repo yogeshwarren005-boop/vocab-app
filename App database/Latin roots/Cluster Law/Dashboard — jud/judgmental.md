@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depending on judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depending on judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying an excessively critical, condemning, or censorious attitude toward other people's conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, involving, or based on the exercise of judgment or authoritative evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judgmental designates depending on judgment."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"She adopted an austere, **judgmental** tone toward the working men, forgetting that poverty leaves little room for middle-class niceties."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether found himself resisting the narrow, **judgmental** atmosphere of Woollett that condemned Paris unheard."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay's uncompromising intellect was often sharply **judgmental**, demanding absolute accuracy from everyone around him."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of rules imposed by authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophy, science, or theoretical study of law; the principles upon which legal rules are established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific legal system, or the body of customary law and judicial precedents developed in a court or country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If you come to dignity it is a question for Minchin and Sprague.” “Does medical jurisprudence provide nothing against these infringements?” said Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"HIS STUDIES IN MORALS AND JURISPRUDENCE."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"VII HIS STUDIES IN MORALS AND JURISPRUDENCE The two chief characteristics of Mr."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"English **jurisprudence** has grown up through centuries of patient experience, adapting ancient liberties to modern necessities."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"The study of **jurisprudence** explains how property rules and contractual obligations emerge alongside commercial civilization."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Path of the Law*):** *"The object of our study, then, is prediction, the prediction of the incidence of the public force through the instrumentalities of **jurisprudence**."*

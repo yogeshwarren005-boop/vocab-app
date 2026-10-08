@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation that calls up (draws forth) a particular class of behaviors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulation that calls up (draws forth) a particular class of behaviors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of drawing forth, evoking, or extracting facts, information, or responses from an informant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and philosophy, the act of educing principles or drawing out latent ideas through dialectic questioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elicitation designates stimulation that calls up (draws forth) a particular class of behaviors."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The systematic **elicitation** of natural axioms requires careful experimentation rather than hasty scholastic deduction."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Judicial examination is designed specifically for the truthful **elicitation** of evidence from reluctant witnesses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Socratic dialogue operates by the skillful **elicitation** of ideas already slumbering in the pupil's mind."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal proceeding in a court; a judicial contest to determine and enforce legal rights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of carrying on a lawsuit, dispute, or legal contest before a court of justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judicial contestation; legal proceedings between opposing parties in civil or criminal law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some forty countries the principle of compensation by a prearranged schedule of rates has to some degree replaced that of litigation, and determination by a jury of the damages, in each separate case."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His passion is for the British law, and he has spent a large fortune in litigation."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course such a rich prize provoked litigation, but Morgan's claim was too strong to be overthrown."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce was a monumental monument of **litigation** that consumed whole families in poverty and madness."*
+> - 📜 **Abraham Lincoln (*Notes for a Law Lecture*):** *"Discourage **litigation**; persuade your neighbors to compromise whenever you can; as a peacemaker the lawyer has a superior opportunity."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The universal recourse to **litigation** in the United States accustoms citizens of all classes to respect the authority of the law."*

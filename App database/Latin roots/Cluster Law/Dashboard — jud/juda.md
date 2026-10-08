@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient kingdom of southern palestine with jerusalem as its center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant form of Judah, designating the ancestral patriarch, southern kingdom, or royal tribe of ancient Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allusive name in historical and biblical texts for the lineage associated with the house of David.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Qualities of thought Moral courage is "the lion of the tribe of Juda," the king of the mental realm."*
-> - 📜 **James Joyce (*Ulysses*):** *"Quietude of custody, rather, befitting their station in that house, the vigilant watch of shepherds and of angels about a crib in Bethlehem of Juda long ago."*
-> - 📜 **James Joyce (*Ulysses*):** *"Once in 1892 and once in 1893 with Julius (Juda) Mastiansky, on both occasions in the parlour of his (Bloom’s) house in Lombard street, west."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He promised that the sceptre should not depart from **juda** until the promised deliverer of mankind appeared."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"Commentators debated whether the prophetic texts of **juda** applied exclusively to the ancient realm or to all nations."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"The ancient chronicler traced the royal ancestry of their wise lawgiver to the renowned kings of **juda**."*

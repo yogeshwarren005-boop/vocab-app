@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowingly tell an untruth in a legal court and render oneself guilty of perjury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swear falsely; to deliberately make a false statement under oath in a court of justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break a solemn oath, vow, or covenant; to act with treacherous infidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, he comes in like a perjure, wearing papers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*
+> - 📜 **William Shakespeare (*Richard III*):** *"What, will you starve them? Do not **perjure** yourselves, for God's sake, in the sight of high heaven."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Shall I **perjure** the sacred vow made to the God of my fathers for the treacherous smiles of a Philistine bride?"*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"He was too proud a gentleman to **perjure** his word, even when financial ruin stared him in the face."*

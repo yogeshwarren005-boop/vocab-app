@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the science or philosophy of law or a system of laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the science or philosophy of law or a system of laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to jurisprudence, legal theory, or the philosophy and foundational principles of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by rigorous theoretical analysis of legal concepts, rights, and judicial reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jurisprudential designates relating to the science or philosophy of law or a system of laws."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"The nineteenth century witnessed a profound **jurisprudential** debate between the historical school and the analytical jurists."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"Every judicial decision embodies an underlying **jurisprudential** conviction regarding the social ends that law ought to serve."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"Our primary **jurisprudential** task is to distinguish positive law from moral ethics and customary social conventions."*

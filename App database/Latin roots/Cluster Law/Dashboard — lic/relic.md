@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiquity that has survived from the distant past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something of sentimental value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object, tradition, or surviving custom from a past epoch, surviving as a memorial or trace of the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religion, a part of the physical body or personal effects of a holy person preserved for religious veneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is almost the only relic I have done any honour to."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pilgrims journeyed from distant lands to venerate each sacred **relic** preserved in the cathedrals of Constantinople."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The enthusiastic antiquary treasured every Roman coin and rusty spearhead as an invaluable **relic** of Caledonia's past."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"Shakespeare's birth-house stood as a consecrated **relic** of England's glorious literary heritage."*

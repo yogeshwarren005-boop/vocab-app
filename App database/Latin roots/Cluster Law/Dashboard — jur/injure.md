@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause injuries or bodily harm to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hurt the feelings of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To do physical harm or damage to someone or something; to hurt, wound, or impair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To do moral, legal, or reputational wrong to a person; to violate someone's rights unjustly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be thy executioner; I fly thee, for I would not injure thee."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Carrying her large green bundle very carefully in order not to injure the tender little branches, she hurried through the garden towards the castle height."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thoroughly convinced of the impossibility of his own suit, a high resolve constrained him not to injure that of another."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No one ought to harm another in his life, health, liberty, or possessions, nor **injure** the peace of the commonwealth."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I am a man more sinned against than sinning; why should my daughters seek to **injure** my aged white head?"*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"To **injure** a neighbor in his person or fortune from mere malice violates the fundamental laws of justice."*

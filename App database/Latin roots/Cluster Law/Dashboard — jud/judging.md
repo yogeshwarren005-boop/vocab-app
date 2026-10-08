@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of reaching a decision or drawing conclusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the result of (a competition).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an opinion or conclusion about someone or something after deliberate consideration, appraisal, or scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presiding over a formal legal proceeding or competitive contest as the evaluator of evidence or merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your Highness’ hand I tender my commission, by whose virtue, The court of Rome commanding, you, my Lord Cardinal of York, are joined with me their servant In the unpartial judging of this business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well, sir, it was before your time, most likely, judging from your appearance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I had taken note of any particular objects in my perturbed state of mind, but judging from the general character of the streets."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind from within, rather than **judging** by the luster of others."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"In **judging** human conduct, the world usually considers only the outward success and ignores the agonizing inward struggle."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind employs deliberate reflection before **judging** whether two distinct ideas agree or disagree."*

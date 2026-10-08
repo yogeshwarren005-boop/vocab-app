@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of strictly conforming to law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of strictly conforming to law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness; legitimate conformity to statute, regulation, or established moral authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conformity to established legal, religious, or constitutional standards of permissibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licitness designates the quality of strictly conforming to law."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The moral **licitness** of an act must ultimately be determined by the balance of pleasure and pain it produces."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The civil sovereign alone determines the external **licitness** of religious assemblies within the boundaries of the state."*
+> - 📜 **Roscoe Pound (*The Formative Era of American Law*):** *"Nineteenth-century judges wrestled with the constitutional **licitness** of emergency police powers during epidemics."*

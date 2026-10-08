@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) the apostle who betrayed jesus to his enemies for 30 pieces of silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traitor, betrayer, or treacherous person who deceives under the guise of friendship or loyalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and prison design, a small peephole or aperture in a door through which occupants may be observed covertly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something browner than Judas’s."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, his kisses are Judas’s own children."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, that I love the tree from whence thou sprang’st, Witness the loving kiss I give the fruit. [_Aside_.] To say the truth, so Judas kissed his master And cried “All hail!” when as he meant all harm."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"So **judas** kissed his Master, and cried 'All hail!' when as he meant all harm."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"I could not endure the deceitful smile of that false confidante, who acted the part of a smooth **judas**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prison turnkey slid back the brass cover of the **judas** to inspect the prisoner sleeping upon the straw pallet."*

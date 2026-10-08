@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European shad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European shad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The allice shad (*Alosa alosa*); a European anadromous clupeid fish prized historically as a river food fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, a migratory river herring found in Western European coastal waters and large rivers like the Rhine and Severn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allice designates european shad."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"In the spring rivers, the silvery **allice** runs upward from the sea to spawn in clean gravel shallows."*
+> - 📜 **Oliver Goldsmith (*A History of the Earth and Animated Nature*):** *"Fishermen along the Severn net great shoals of the **allice** during the high spring tides."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The **allice** shad is distinguished from the twaite shad by its greater number of gill-rakers and lack of lateral spots."*

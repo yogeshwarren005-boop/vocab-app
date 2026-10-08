@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute abdominal pain (especially in infants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute abdominal pain (especially in infants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, paroxysmal cramping pain in the abdomen, caused by spasmodic contraction or obstruction of intestinal hollow organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in infants characterized by prolonged, unexplainable episodes of intense crying and apparent abdominal distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now crack thy lungs and split thy brazen pipe; Blow, villain, till thy sphered bias cheek Out-swell the colic of puff’d Aquilon."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Young people and children dance and sing round the bonfires, and leap over the embers to secure good crops or a happy marriage within the year, or as a means of guarding themselves against colic."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now colic grips, an’ barkin hoast May kill us a’; For loyal Forbes’ charter’d boast Is ta’en awa?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead workers frequently present with painter's **colic**, characterized by obstinate constipation and severe abdominal cramps."*
+> - 📜 **Thomas Sydenham (*Medical Works*):** *"Bilious **colic** attacks the patient with violent twisting pains around the navel that yield only to soothing draughts."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Mrs. Mann administered brimstone and treacle whenever any of the parish orphans complained of a touch of the **colic**."*

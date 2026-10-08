@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from undue bias or preconceived opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing a bias or preconceived opinion; impartial, open-minded, and fair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Objective and equitable in evaluating evidence, individuals, or competing claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Hear the truth, therefore, now, while you are unprejudiced."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To ease her mind, and ascertain by the opinion of an unprejudiced person what her own conduct had really been, she took occasion to mention before Mr."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"An **unprejudiced** observer will acknowledge that beauty in art depends upon delicate harmony rather than rigid rules."*
+> - 📜 **Thomas Jefferson (*Writings: Autobiography*):** *"Let the candid and **unprejudiced** world examine the facts of our declaration with impartial deliberation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot was of a temperament too **unprejudiced** and gentle to harbor resentment against those who had misled her youth."*

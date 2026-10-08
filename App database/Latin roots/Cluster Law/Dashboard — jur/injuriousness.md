@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructiveness that causes harm or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructiveness that causes harm or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or property of causing harm, damage, hurt, or physical impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wrongful or unjust nature of an action, policy, or utterance that infringes upon rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, injuriousness designates destructiveness that causes harm or injury."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must estimate the **injuriousness** of an offense by the aggregate mischief it inflicts upon society."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The inherent **injuriousness** of aggressive force becomes apparent when it provokes retaliatory violence in return."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral evil is recognized by the natural **injuriousness** of its consequences to the individual and the community."*

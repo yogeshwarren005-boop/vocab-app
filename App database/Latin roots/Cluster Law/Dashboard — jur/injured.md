@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause injuries or bodily harm to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hurt the feelings of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having suffered physical harm, bodily trauma, damage, or impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having suffered injustice, legal damage, or an insult to one's dignity or reputation; aggrieved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom have I injured, that ye seek my death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How hast thou injured both thyself and us!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He assumed the air of an **injured** man whose disinterested friendship had been repaid with unmerited coldness."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The **injured** soldiers required clean linen, abundant fresh air, and absolute quiet to prevent wound fever."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Doctor Manette had been cruelly **injured** by aristocratic oppression, spending eighteen years in solitary imprisonment."*

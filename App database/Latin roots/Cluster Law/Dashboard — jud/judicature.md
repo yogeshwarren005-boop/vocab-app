@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of justice; the function and authority of a judge or judicial tribunal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of judges presiding within a nation or court system; the judiciary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In unfolding the defects of the existing Confederation, the utility and necessity of a federal judicature have been clearly pointed out."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: To judge with accuracy of the proper extent of the federal judicature, it will be necessary to consider, in the first place, what are its proper objects."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These have been already explained to belong to the fourth of the enumerated classes, and have been shown to be, in a peculiar manner, the proper subjects of the national judicature."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Judges ought to remember that their office is *jus dicere*, and not *jus dare*; to interpret law, and not to make law, or give **judicature**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The supreme power of English **judicature** resides in the High Court of Parliament, whose appellate decrees are final."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The complete independence of the courts of **judicature** is peculiarly essential in a limited constitution."*

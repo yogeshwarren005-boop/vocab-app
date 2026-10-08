@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injured physically or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not injured physically or mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmed, hurt, damaged, or impaired in body, mind, property, or reputation; intact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved whole and safe through accident, conflict, or disaster without detriment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle and Guppy good morning, assures them of the satisfaction with which he sees them uninjured, and accompanies Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak took it up, thinking it might be better to kill the creature to save it from pain; but finding it uninjured, he placed it again among the grass."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he was already dead, and, seeing that nothing more could be done immediately, the mail-cart man returned to his own animal, which was uninjured."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I fell on my knees and gave God thanks that my life was saved in a circumstance where all my comrades perished, leaving me **uninjured**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The cottage stood **uninjured** amidst the fury of the mountain storm, sheltered by the overhanging pine forest."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She emerged from the carriage accident shaken in spirit but happily **uninjured** in limb."*

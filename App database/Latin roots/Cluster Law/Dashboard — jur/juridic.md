@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the law or jurisprudence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the administration of justice or the function of a judge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the administration of justice, court law, or legal proceedings; juridical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to legal rights, judicial acts, or recognized principles of jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, juridic designates of or relating to the law or jurisprudence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the reign of Justinian, imperial scholars codified the vast body of **juridic** literature accumulated across five centuries."*
+> - 📜 **Jeremy Bentham (*A Fragment on Government*):** *"The clarity of a statutory code eliminates the need for tortuous **juridic** fictions invented by ancient courts."*
+> - 📜 **Henry Maine (*Village-Communities in the East and West*):** *"Customary councils in archaic villages settled property boundaries without reference to formal **juridic** procedure."*

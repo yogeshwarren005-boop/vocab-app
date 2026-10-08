@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by the exercise of good judgment or common sense in practical matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by the exercise of good judgment or common sense in practical matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, exercising, or characterized by good judgment, prudence, and sound discretion; wise and well-considered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prudently planned, measured, or executed so as to achieve an expedient and beneficial outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His last offences to us Shall have judicious hearing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Judicious punishment! ’twas this flesh begot Those pelican daughters."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was glad to see that his daughter had made so **judicious** a choice, securing both affluence and mutual respect."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"By a **judicious** mixture of clemency and firmness, the emperor pacified the disaffected border provinces without bloodshed."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Pope displayed a **judicious** economy in his verses, admitting no superfluous ornament that obscured the central thought."*

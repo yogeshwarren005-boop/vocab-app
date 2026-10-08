@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorize officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given official approval to act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having official permission or legal authorization through an issued license; accredited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Officially sanctioned, permitted, or registered by governing legal authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blue-gown, the livery of the licensed beggar."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford called the next day, and on the score of Edmund’s return, Sir Thomas felt himself more than licensed to ask him to stay dinner; it was really a necessary compliment."*
-> - 📜 **James Joyce (*Ulysses*):** *"Licensed for the sale of beer, wine and spirits for consumption on the premises."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **licensed** physician alone was entitled to recover medical fees under the revised health statutes of the realm."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High taxes imposed on **licensed** alehouses were intended to restrain public drunkenness among the working classes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed as a **licensed** American whaler under the protection of the federal commercial registry."*

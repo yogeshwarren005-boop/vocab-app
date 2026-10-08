@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abjures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abjures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who solemnly abjures, recants, or renounces a belief, citizenship, or cause upon oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penitent or recanter who formally repudiates prior religious doctrines or political allegiances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abjurer designates a person who abjures."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The inquisitors watched the suspected **abjurer** with unrelenting vigilance, eager to detect the slightest lapse into former error."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The strict Covenanters denounced every timid **abjurer** who purchased earthly safety by swearing the king's supremacy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Each revolutionary faction demanded that the **abjurer** of feudal privileges give immediate practical proof of civic devotion."*

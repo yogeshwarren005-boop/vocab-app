@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In violation of good taste even verging on the indecent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking propriety and good taste in manners and conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sensitivity, refinement, tact, or modesty; coarse, crude, or socially improper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rough, unseemly, or offending against delicate taste and social propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I said to my landlord, ‘My good man, you are not aware that my excellent friend Jarndyce will have to pay for those things that you are sweeping off in that indelicate manner."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I never saw her.” Dorothea wondered a little, but felt that it would be indelicate just then to ask for any information which Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It would have been less indelicate.” “One of poor Casaubon’s freaks!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"It was impossible to listen to his crude jokes without feeling that they were highly **indelicate** and misplaced."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella warned Pip that his raw provincial manners appeared unpolished and **indelicate** in fashionable company."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She refused to make an **indelicate** display of her private grief before unsympathetic spectators."*

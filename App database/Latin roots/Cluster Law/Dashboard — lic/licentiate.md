@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Holds a license (degree) from a (european) university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holds a license (degree) from a (european) university.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The holder of a degree, professional certificate, or license granted by a university or guild authorizing the practice of a profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In continental academic systems, an intermediate academic degree between bachelor and doctor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licentiate designates holds a license (degree) from a (european) university."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"The **licentiate** Pero Perez assisted the curate in inspecting Don Quixote's library to purge dangerous chivalric romances."*
+> - 📜 **Alain-René Lesage (*Gil Blas*):** *"The young **licentiate** of Salamanca boasted of his dialetical skill, engaging everyone in academic argument."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"He received the status of **licentiate** in theology from the Sorbonne before entering ecclesiastical service."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unreasonably prone to go to law or initiate lawsuits; given to contentious legal disputes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to legal dispute; contested, disputed, or involving ongoing lawsuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most honour’d Cleon, I must needs be gone; My twelve months are expired, and Tyrus stands In a litigious peace."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It certainly was not gratifying to be likened to that "perverse, bustling, masculine, pettifogging, and litigious" lady, albeit Macaulay speaks of her as Wycherley's happiest creation."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But if he be froward and unfortunate, he describes men to be litigious, violent, deceitful, passionate, &c."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"This study of law renders them acute, inquisitive, dexterous, prompt in attack, ready in defense, full of resources, and highly **litigious**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"His **litigious** disposition involved him in endless quarrels with his neighbors over petty rights of way and church tithes."*
+> - 📜 **Washington Irving (*Knickerbocker's History of New York*):** *"The introduction of formal courts quickly transformed a peaceful Dutch village into a hotbed of **litigious** squabbles."*

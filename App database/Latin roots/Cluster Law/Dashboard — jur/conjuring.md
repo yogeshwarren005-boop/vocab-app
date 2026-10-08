@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up a spirit or devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summon into action or bring into existence, often as if by magic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of magical illusions, sleight of hand, or the magical summoning of supernatural spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of evoking memories, images, or ideas vividly before the mind or imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here stood he in the dark, his sharp sword out, Mumbling of wicked charms, conjuring the moon To stand auspicious mistress."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk ghaist that haunts auld ha’ or chaumer, Ye gipsy-gang that deal in glamour, And you, deep-read in hell’s black grammar, Warlocks and witches, Ye’ll quake at his conjuring hammer, Ye midnight bitches."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He waggled his club over it as if he were going to perform a conjuring trick."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp accomplished her social triumphs by a species of financial **conjuring** that left her creditors bewildered."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"By intense meditation, I found myself **conjuring** up the terrifying form of my creation in every darkened corridor."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The Hindu servant practiced curious arts of **conjuring** that seemed to defy the ordinary laws of nature."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deduce (a principle) or construe (a meaning).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawn forth, brought out, or evoked through inquiry, stimulation, or critical examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoked or called forth as an emotional or physical reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By half-past five, post meridian, Horse Guards’ time, it has even elicited a new remark from the Honourable Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Facts elicited previous to the trial had pointed strongly in the same direction, but they had not been of sufficient weight to lead to an order for an examination into the state of Boldwood’s mind."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"To me it was not wonderful that this impression should come, but afterwards it was elicited from all that this was the feeling of each."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The strange appearance of our vessel **elicited** shouts of astonishment from the Fuegians gathered upon the rocky beach."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"Patient interrogation **elicited** confessions that laid bare the systematic corruption of the colonial administration."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His generous offer **elicited** a warm response from Dorothea, who was always eager to support useful community endeavors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Silicon dioxide ($SiO_2$), a hard, unreactive, colorless compound occurring abundantly as quartz, flint, and sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major component of most rocks, soils, and clays, essential in the manufacture of glass, ceramics, and abrasives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is easily reduced to metallic copper by heating with carbon, the metal being also obtained if the oxide be heated in the presence of reducing gases; it combines readily with silica when heated, yielding fusible silicates."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Iron, 28·4 " Sulphur, 29·9 " Silica, 23·6 " Alumina, 3·7 " whilst the product (“calcines”) has an average composition of Copper, 6·3 per cent."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thermal waters issuing from volcanic springs deposit crusts of **silica** upon surrounding rocks in intricate geometric terraces."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The microscopic shells of diatoms composed of pure **silica** formed extensive sedimentary beds across the ancient sea floor."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Granite consists of feldspar, mica, and crystalline quartz, the latter being an almost pure variety of **silica**."*

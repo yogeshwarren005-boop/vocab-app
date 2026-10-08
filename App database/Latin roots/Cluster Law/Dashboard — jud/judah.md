@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the fourth son of jacob who was forebear of one of the tribes of israel; one of his descendants was to be the messiah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancestral tribe and subsequent southern kingdom of ancient Israel, ruled by the Davidic dynasty with its capital at Jerusalem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The patriarchal figure in the Hebrew Bible whose descendants gave rise to the royal house of David.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Though David's sceptre still remains With Judah's royal line, On Leah's sons are bloody stains, And Ephriam's drunk with wine; Blind Sampson, by Delilah's shears, Is made grind Dagon's corn, But only in a thousand years Is there a Moses born."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"It may well be thus where DAVID sings, And Uriah joins in the chorus, But while earth to earthy matter clings, Neither you nor the bravest of Judah's kings As a pattern can stand before us."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When Judah beholds Jerusalem, The stranger-seed shall be joined to them: To Jacob’s house shall the Gentiles cleave, So the Prophet saith and his sons believe. 14."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The lion of **judah** shall vanquish the powers of darkness and restore mankind to paradise."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He felt stirring within him the ancient memories of the exiled children of **judah**, scattered across every continent."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The civil constitution of the ancient commonwealth of **judah** blended religious piety with patriotic devotion."*

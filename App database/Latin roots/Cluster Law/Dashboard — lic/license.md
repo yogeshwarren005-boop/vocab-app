@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document giving official permission to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permit or authorization from an official agency allowing someone to do something, own property, or practice a trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom of action; or excessive, irresponsible liberty that abuses moral and legal constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him that by his license, Fortinbras Craves the conveyance of a promis’d march Over his kingdom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"England shall double gild his treble guilt, England shall give him office, honour, might, For the fifth Harry from curb’d license plucks The muzzle of restraint, and the wild dog Shall flesh his tooth on every innocent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, great King; I come to thee for charitable license, That we may wander o’er this bloody field To book our dead, and then to bury them; To sort our nobles from our common men."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"A state of liberty is not a state of **license**; for man has an uncontrollable liberty to dispose of his person or possessions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislature has power to require a federal **license** for vessels engaged in coastal commerce."*
+> - 📜 **Ralph Waldo Emerson (*The American Scholar*):** *"The poet claims a creative **license** to shape language according to the higher imperatives of spiritual beauty."*

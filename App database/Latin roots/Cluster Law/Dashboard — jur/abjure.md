@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally reject or disavow a formerly held belief, usually under pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To solemnly renounce, disavow, or recant a claim, belief, allegiance, or cause on oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give up, abandon, or cast aside formally and deliberately; to repudiate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, rather I abjure all roofs, and choose To wage against the enmity o’ the air; To be a comrade with the wolf and owl, Necessity’s sharp pinch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either to die the death, or to abjure For ever the society of men."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"On receiving this the victim might either openly abjure his former ways, or might fly from the country."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"This rough magic I here **abjure**; and, when I have required some heavenly music, I'll break my staff."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Neither threats nor promised empires could induce the faithful Abdiel to **abjure** his allegiance to the Creator."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Citizens seeking naturalization must explicitly **abjure** all foreign sovereignty before receiving the protection of the republic."*

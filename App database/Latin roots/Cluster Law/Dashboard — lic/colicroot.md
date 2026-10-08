@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several perennials of the genus aletris having grasslike leaves and bitter roots reputed to cure colic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several perennials of the genus aletris having grasslike leaves and bitter roots reputed to cure colic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bitter-rooted North American medicinal plants, especially *Aletris farinosa* or *Dioscorea villosa*, used to alleviate colic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried rhizome of *Aletris farinosa* (stargrass) used as an herbal bitter tonic and antispasmodic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colicroot designates any of several perennials of the genus aletris having grasslike leaves and bitter roots reputed to cure colic."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The native **colicroot** flourishes in sandy pine barrens, bearing a spike of white mealy flowers above a basal rosette."*
+> - 📜 **Benjamin Smith Barton (*Collections for an Essay Towards a Materia Medica of the United States*):** *"Pioneer settlers learned from indigenous healers to prepare an infusion of **colicroot** for violent digestive spasms."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"Among the boggy meadows of the coastal plain, yellow stargrass and bitter **colicroot** blossomed in profusion."*

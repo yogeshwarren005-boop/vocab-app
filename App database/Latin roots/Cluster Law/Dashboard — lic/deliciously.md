@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very pleasurable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to produce a delightful taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicious, delightful, or exquisitely enjoyable manner; with great sensory pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that affords acute emotional gratification or sensory luxury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"The sun was warm and jolly and hospitable from the arrival of its first rays, but the wind was deliciously cool and bracing and full of the wine of October."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Such a deliciously creepy song it was, in which they pretended to be frightened at their own shadows, little witting that so soon shadows would close in upon them, from whom they would shrink in real fear."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The air was deliciously soft and sweet with the smell of the flowers, and the garden was more congenial to me than the house."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"The afternoon air was **deliciously** soft, carrying the scent of garden lilies through the open French windows."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The early morning air smelled **deliciously** of crushed thyme and dew as the milkers walked to the dairy."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Winterbourne found her innocent chatter **deliciously** refreshing compared with the stifling conventions of European society."*

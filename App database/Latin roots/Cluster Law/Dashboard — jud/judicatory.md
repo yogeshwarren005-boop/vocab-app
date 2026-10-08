@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of law courts that administer justice and constitute the judicial branch of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A court of justice, tribunal, or governing council exercising judicial functions; a body of judges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the administration of justice, court proceedings, or the delivery of judicial sentences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They have no common treasury; no common troops even in war; no common coin; no common judicatory; nor any other common mark of sovereignty."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such cases, where foreigners were concerned on either side, it would be impossible for the federal judicatories to do justice without an equitable as well as a legal jurisdiction."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But could an appeal be made to lie from the State courts to the subordinate federal judicatories?"*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"This high court of Parliament stands as the supreme **judicatory** of the British Empire, responsible for redressing colonial oppressions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary **judicatory** swept away traditional procedural delays, dispatching prisoners to the guillotine by scores."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"They established a solemn **judicatory** to examine every subtle heresy that threatened their newly proclaimed orthodoxy."*

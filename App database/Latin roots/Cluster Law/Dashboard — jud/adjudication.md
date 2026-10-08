@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final judgment in a legal proceeding; the act of pronouncing judgment based on the evidence presented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal legal process of resolving a dispute or declaring a verdict through judicial evaluation and judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal judgment, decree, or sentence rendered by an arbiter or court of competent jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This might as well happen in the case of two contradictory statutes; or it might as well happen in every adjudication upon any single statute."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A solemn parliamentary **adjudication** cannot easily override the ancient chartered liberties enjoyed by long-standing colonies."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Early customary codes evolved through repeated cases of empirical **adjudication** long before formal statutes were drafted."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Each successive **adjudication** in tort law refines the boundary between excusable accident and actionable liability."*

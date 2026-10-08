@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful to living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful to living things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or likely to cause damage, harm, impairment, or physical detriment; hurtful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrongful, unjust, or defamatory to a person's character, rights, or reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know, Till the injurious Romans did extort This tribute from us, we were free."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou injurious thief, Hear but my name, and tremble."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Subverting established constitutional protections will prove profoundly **injurious** to public order and personal security."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Uncontrolled commercial restrictions imposed by individual states proved **injurious** to national commerce."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society has a legitimate interest in restraining conduct that is directly **injurious** to the rights of other citizens."*

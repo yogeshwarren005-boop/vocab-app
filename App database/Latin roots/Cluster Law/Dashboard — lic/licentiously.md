@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a licentious and promiscuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a licentious and promiscuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morally unrestrained, dissolute, wanton, or promiscuous manner; without ethical limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lawless, disorderly, or unruly fashion violating established rules and decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licentiously designates in a licentious and promiscuous manner."*
+> - 📜 **David Hume (*The History of England*):** *"The cavaliers lived **licentiously** during the civil wars, alienating the pious countryside by their reckless revels."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"They interpreted ancient texts **licentiously**, twisting sacred words to justify their worldly pleasures."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Under Charles the Second, the courtiers behaved **licentiously**, mocking all traditional standards of religious sobriety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a license is granted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a license is granted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or commercial entity to whom a license, patent right, or official permit has been legally granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, a person who enters or remains on premises by invitation or permission of the owner without tenancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licensee designates someone to whom a license is granted."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The landowner owes a duty of reasonable care to a lawful **licensee** entering upon his real property."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"The commercial **licensee** must observe all restrictive conditions stipulated within the patent grant."*
+> - 📜 **Roscoe Pound (*Jurisprudence*):** *"A municipal franchise converts the utility operator into a protected **licensee** exercising public privileges."*

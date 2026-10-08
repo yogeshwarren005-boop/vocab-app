@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester derived from silicic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester derived from silicic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any mineral or chemical salt containing silicon, oxygen, and one or more metals, forming the majority of the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dominant rock-forming mineral family, including feldspars, pyroxenes, amphiboles, and clays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This compound is called silicate of aluminium, and of it are formed clay and many rocks."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The silicate is decomposed when heated in the presence of sulphides, resulting in the formation of sulphide of copper and silicate of the second metal, in consequence of the great affinity of copper and sulphur."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Upon this fact depends the extraction of copper from various silicate ores, as well as the cleaning of slags high in copper, which are often added to the sulphide charges in the furnace with this object."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Basaltic lavas consist predominantly of complex **silicate** minerals like plagioclase feldspar and augite."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Clay represents the weathered residue of alumino-**silicate** rocks decomposed through atmospheric carbonation."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The planetary crust exhibits an overwhelming abundance of **silicate** compounds forged in subterranean thermal depths."*

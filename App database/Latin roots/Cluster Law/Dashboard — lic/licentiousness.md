@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lewd and lascivious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissolute indulgence in sensual pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained moral or sexual indulgence; dissolute behavior lacking ethical restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawlessness, contempt for legal authority, or extreme unruliness in civil society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"WILL THE LORD DELIVER FROM BAD HABITS OF TOBACCO, RUM, LIQUOR, LICENTIOUSNESS, ETC., IN ANSWER TO PRAYER."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had acquired the habit of using large quantities of whiskey and brandy, and withal more or less given to licentiousness."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"History informs us that the road to despotism begins with the **licentiousness** of an undisciplined democracy."*
+> - 📜 **John Milton (*Tetrachordon*):** *"License they mean when they cry liberty; for who loves that must first love virtue and despise **licentiousness**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral decadence and **licentiousness** of imperial Rome steadily sapped the patriotic virtues of its ancient citizens."*

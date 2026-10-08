@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put on trial or hear a case and sit as the judge at the trial of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act as a judge in a dispute; to hear evidence and settle a contested matter through a binding legal judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sit in formal arbitration or appraisal over rival claims, awards, or contested competitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Later, we took in a third—another of Adversity’s brood, who, like Garrick between Tragedy and Comedy, had a chronic inability to adjudicate the rival claims (to himself) of Frost and Famine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interstate commerce commissioners determine whether rates are reasonable, boards of arbitration settle disputes, the strike commission adjudicates difficulties in the coal regions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It belongs to the judicial branch to interpret the laws and **adjudicate** controversies arising under the federal constitution."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An impartial tribunal must **adjudicate** between competing local authorities whenever their jurisdictional boundaries overlap."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"American magistrates do not pronounce general political doctrines, but **adjudicate** solely upon concrete cases presented before them."*

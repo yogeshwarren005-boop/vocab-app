@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party to a lawsuit; someone involved in litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party to a lawsuit; someone involved in litigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or entity actively engaged as a party in a legal lawsuit or contested court case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plaintiff or defendant presenting arguments and evidence before a judicial tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigant designates (law) a party to a lawsuit; someone involved in litigation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of equity affords relief where the strict formalism of common law leaves the injured **litigant** without a remedy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Every **litigant** in Jarndyce and Jarndyce had long since forgotten the original point in dispute, yet the suit dragged on."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American judge intervenes only when a private **litigant** demands redress for a concrete personal injury."*

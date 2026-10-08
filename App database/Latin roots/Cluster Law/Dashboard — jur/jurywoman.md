@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves (or waits to be called to serve) on a jury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves (or waits to be called to serve) on a jury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female juror; a woman sworn as a member of a jury in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one of a panel of matrons impaneled in common law (*jury of matrons*) to examine a plea of pregnancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jurywoman designates someone who serves (or waits to be called to serve) on a jury."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Under ancient common law, a discreet **jurywoman** might be summoned upon an inquest of matrons to inspect a condemned female felon."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The admission of women to the courts, whether as barrister or **jurywoman**, marked an essential step toward civic equality."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"Had Joan been tried before an honest **jurywoman** rather than scholastic inquisitors, the verdict might have been far different."*

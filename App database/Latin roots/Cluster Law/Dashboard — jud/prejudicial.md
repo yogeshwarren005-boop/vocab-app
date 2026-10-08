@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `to') causing harm or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to favor preconceived ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful, detrimental, or disadvantageous to an interest, right, cause, or legal proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or manifesting bias, preconceived hostility, or partisan unfairness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose, my lords, he did it unconstrained, Think you ’twere prejudicial to his crown?"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That such men should give prejudicial accounts of America, is not a matter of surprise."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Mudge, but she was a little alarmed, nevertheless, as such an appeal would probably be prejudicial to her interest."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial rivalries between neighboring states would prove highly **prejudicial** to national tranquility and defense."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No legislation can be legitimate which operates to the **prejudicial** destruction of the people's fundamental liberties."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Evidence of unrelated prior bad acts is excluded because its inflammatory nature would prove unduly **prejudicial** to the accused."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a delicate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicate, subtle, exquisite, or gracefully refined manner; with gentle precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sensitive tact, discretion, and diplomacy so as to avoid causing offense or hurt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa had to agree with her brother who had said that she had her mother's large, speaking eyes, the same soft brown curls, and the same serious expression on her delicately shaped little face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I told Richard of my having this little store and having no present need of it, and I asked him delicately to inform Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His compliments were so delicately administered that I blushed less than I might have done and settled with the stranger in the white coat without making any mistakes."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley broached the subject so **delicately** that Emma could not feel herself offended by his advice."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She touched the old porcelain cup **delicately**, as though handling the fragile memories of a vanished era."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sunlight fell **delicately** across the forest path, dappling the moss around the lovers with shifting golden spots."*

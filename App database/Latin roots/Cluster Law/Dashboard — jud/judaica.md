@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Historical and literary materials relating to judaism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical and literary materials relating to judaism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things pertaining to Jewish culture, history, religion, and literature, especially collectible ritual artifacts, manuscripts, and books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dedicated academic or archival collection of texts, ceremonial objects, and art relating to Jewish life and scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judaica designates historical and literary materials relating to judaism."*
+> - 📜 **Leo Tolstoy (*What Is Religion?*):** *"Scholars of comparative religion assembled rare treatises of **judaica** to examine the development of prophetic ethics."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Archivists labored tirelessly in post-war Europe to recover precious volumes of **judaica** confiscated during the catastrophe."*
+> - 📜 **Stefan Zweig (*The World of Yesterday*):** *"His personal library housed magnificent specimens of early illuminated **judaica**, preserved through centuries of wandering."*

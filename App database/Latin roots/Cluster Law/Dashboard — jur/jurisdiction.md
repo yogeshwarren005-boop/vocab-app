@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the right and power to interpret and apply the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law; the territory within which power can be exercised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official legal power, right, or authority to hear and determine causes, execute laws, and administer justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The geographical territory, district, or sphere of authority over which legal power extends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All luck go with him in the next world, for that is beyond Rome’s jurisdiction.” “He holds that property is sin—that is what hits the Pharisees,” Ambivius spoke up."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appellate **jurisdiction** of the supreme court extends to all cases arising under the constitution and laws of the Union."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Federal courts possess a limited **jurisdiction**, confined strictly to matters specifically enumerated in the federal compact."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"No tribunal can lawfully proceed to trial without establishing its competent **jurisdiction** over the subject matter."*

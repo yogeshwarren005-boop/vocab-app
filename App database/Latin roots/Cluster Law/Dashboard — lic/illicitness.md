@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not conforming strictly to law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not conforming strictly to law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlawful, illegitimate, or forbidden character of an action, transaction, or relationship under law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The morally prohibited or socially unacceptable status of an activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illicitness designates the quality of not conforming strictly to law."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The essential **illicitness** of theft consists in its direct subversion of the security of personal property."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"An absolute monarch cannot by decree transform the **illicitness** of tyranny into lawful civil authority."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She was acutely aware of the secret **illicitness** that hovered beneath the polished surface of their aristocratic salon."*

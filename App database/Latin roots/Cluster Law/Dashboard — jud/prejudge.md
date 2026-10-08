@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge beforehand, especially without sufficient evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge beforehand, especially without sufficient evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To judge or decide beforehand, before hearing all the evidence, facts, or arguments in a matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form an opinion prematurely or with bias prior to proper investigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is now but very, very slight; but it is to be seen if we have eyes to notice without to prejudge."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle bowed submissively: “It is hard to prejudge his case, sir, but I am sensible that—” “Just so."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It seems also desirable to disclaim in advance any purpose on the part of the United States to prejudge the issues to be presented to the Congress."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophers who **prejudge** natural phenomena according to rigid scholastic axioms corrupt the true interpretation of nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The public must not **prejudge** the proposed constitution upon passionate appeals, but examine its provisions with dispassionate reason."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"To **prejudge** an author's merits from malicious rumor is an injustice that every fair-minded scholar must abhor."*

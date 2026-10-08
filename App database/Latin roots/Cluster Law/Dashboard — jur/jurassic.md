@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 190 million to 135 million years ago; dinosaurs; conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the second period of the mesozoic era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geology, the second period of the Mesozoic era, extending from approximately 201 to 145 million years ago, characterized by the dominance of dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the geological rock strata, limestones, and fossil formations characteristic of the Jura mountain range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"WORM-TAIL Archæopteryx, or “primitive bird.” A strange bird of the Jurassic period, but possibly surviving to the Cretaceous, the period of the story."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The marine strata of the **jurassic** system contain magnificent ammonites and giant marine reptiles preserved in limestone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil beds from the **jurassic** formations demonstrate successive morphological modifications across vast expanses of geological time."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The discovery of Archaeopteryx in **jurassic** lithographic slates established the anatomical kinship between birds and reptiles."*

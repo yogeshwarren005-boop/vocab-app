@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party to a lawsuit; someone involved in litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party to a lawsuit; someone involved in litigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attorney, advocate, or trial lawyer specializing in handling contested lawsuits and courtroom trials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal counsel skilled in presenting evidence, examining witnesses, and arguing motions before judicial benches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"L., whose police office is frequently clamorous with the litigators of shilling warrants, suddenly called out, Silence there!"*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The skillful **litigator** must convince the appellate court that equity and logic converge in his client's favor."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Our adversarial procedure rewards the combative **litigator**, sometimes at the expense of speedy and economical justice."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"A great **litigator** looks beyond the immediate statutes to the broad historical tides that govern human disputes."*

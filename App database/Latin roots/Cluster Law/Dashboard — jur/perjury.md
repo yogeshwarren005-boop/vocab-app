@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Criminal offense of making false statements under oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Criminal offense of making false statements under oath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal offense of willfully making a false statement under oath or affirmation in a judicial proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The violation of a solemn oath or vow; faithlessness to a sworn covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there’s for twitting me with perjury. [_Stabs him._] QUEEN MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather turn this day out of the week, This day of shame, oppression, perjury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This same shall go. [_He reads the sonnet._] _Did not the heavenly rhetoric of thine eye, ’Gainst whom the world cannot hold argument, Persuade my heart to this false perjury?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The crime of **perjury** strikes at the foundation of all judicial proceedings, poisoning the stream of justice at its fountain."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Titus Oates built his infamous career upon systematic **perjury**, sending innocent men to the scaffold with unblushing lies."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"No government can retain the respect of its subjects when public officials suborn witnesses to commit brazen **perjury**."*

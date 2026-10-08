@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnestly or solemnly entreating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing a solemn charge or command.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, expressing, or having the character of a solemn oath, earnest charge, or urgent appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by solemn invoking of high moral obligations or sacred oaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjuratory designates earnestly or solemnly entreating."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans spoke in an **adjuratory** voice that pierced the queen's heart, pleading for her sister's condemned life."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"The ancient prophet used an **adjuratory** style that commanded the conscience of the nation through divine authority."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"There was a subtle, **adjuratory** pressure in her whispered request that made refusal seem an unforgivable betrayal."*

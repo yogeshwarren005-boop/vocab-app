@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public official authorized to decide questions brought before a court of justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who is able to estimate worth or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public officer authorized to hear and determine causes and controversies in a court of law; a magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person qualified by expertise to form critical opinions, evaluate quality, or decide merits in arts or competitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither his daughter, if we judge by manners, But yet indeed the smaller is his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have said, but whether wisely or no, let the forest judge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A Daniel come to judgment! yea, a Daniel! O wise young **judge**, how do I honour thee!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Lord High Chancellor sat as supreme **judge** in Lincoln's Inn Hall, surrounded by a fog as dense as the suits before him."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Let such teach others who themselves excel, and censure freely who have written well; a perfect **judge** must read each work with equal spirit."*

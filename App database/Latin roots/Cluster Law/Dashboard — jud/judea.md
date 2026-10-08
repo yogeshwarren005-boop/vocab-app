@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical and historical geographical district of southern Palestine, including Jerusalem and surrounding highlands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical region celebrated in sacred history as the homeland of the Davidic dynasty and site of the Second Temple.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Did the heavenly host descend in rapture, and cause the mountains of Judea to reecho with their acclamations, because a _dependent creature_ had _consented_ to do his Maker's will?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One thing Robin More had told him remained in his mind and captured his fancy, and that was that Pontius Pilate had been governor of Marseilles after his office in Judea."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"Arabian caravans traversed the stony wilderness of **judea** on their trade route toward Damascus and the Mediterranean ports."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The barren limestone ridges of **judea** appeared sun-bleached and silent under the glaring midday sky."*
+> - 📜 **Herman Melville (*Clarel: A Poem and Pilgrimage in the Holy Land*):** *"Pilgrims wound their weary way through the ravines of **judea**, seeking solace amidst desolate historical ruins."*

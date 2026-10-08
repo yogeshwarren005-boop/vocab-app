@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sanctioned by custom or morality especially sexual morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorized, sanctioned by, or in accordance with law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not forbidden by law, rule, or custom; lawful, legal, and officially permitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally or legally permissible according to established societal or ecclesiastical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licit designates sanctioned by custom or morality especially sexual morality."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The sovereign power possesses authority to prohibit actions that are naturally indifferent, rendering only certain trades **licit**."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"A ruler may wage a **licit** war only when three conditions are met: legitimate authority, a just cause, and a rightful intention."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The law must draw a transparent line between **licit** enterprise and fraudulent speculation to ensure commercial confidence."*

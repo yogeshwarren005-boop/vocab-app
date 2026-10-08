@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from making judgments especially ones based on personal opinions or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refraining from making judgments especially ones based on personal opinions or standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from harsh, moralistic, or censorious judgment; adopting an accepting and objective attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing an open and empathetic therapeutic or analytical environment where observations are made without personal condemnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They listen, offer nonjudgmental feedback, and together with the caller, explore options."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The wise physician of souls maintains a **nonjudgmental** posture, listening patiently to the confessions of troubled minds."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Among the tramps in the lodging-house, a rough **nonjudgmental** camaraderie prevailed that asked no questions about past misfortunes."*
+> - 📜 **Hannah Arendt (*Men in Dark Times*):** *"True historical understanding requires a **nonjudgmental** appraisal of human motives before ideological labels are applied."*

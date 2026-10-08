@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of judge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of judge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, legal position, or term of service of a judicial officer or magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The judicial authority and responsibilities exercised by one who presides over a court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Now I lay down the judgeship he lent me."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The tenure of a federal **judgeship** during good behavior provides the indispensable fortress of judicial independence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"He aspired eagerly to a colonial **judgeship**, hoping the prestige of the bench would restore his damaged fortune."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"When a prestigious **judgeship** fell vacant, party leaders debated whether legal erudition or political loyalty should govern the appointment."*

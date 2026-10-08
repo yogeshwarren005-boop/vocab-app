@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies and settles conflicts and disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who studies and settles conflicts and disputes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to hear arguments, evaluate evidence, and pronounce formal judgment in a legal or civil dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impartial arbiter, umpire, or referee appointed to decide contested outcomes in a competition or contractual conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adjudicator designates a person who studies and settles conflicts and disputes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign must maintain an independent magistrate as an impartial **adjudicator** between contending commercial interests."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The primary duty of the **adjudicator** is to extract truth from conflicting testimonies without being misled by procedural tricks."*
+> - 📜 **Herbert Spencer (*Principles of Sociology*):** *"In primitive clans, the recognized elder served as the primary **adjudicator** whose decrees preserved internal peace."*

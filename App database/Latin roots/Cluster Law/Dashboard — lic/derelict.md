@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without a home, job, or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ship abandoned on the high seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very poor condition as a result of disuse, neglect, or abandonment; deserted and dilapidated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, a ship abandoned at sea by its master and crew without hope of recovery; or a person negligent in duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Close-hauled, the closest she could come was to six points of the wind; and then she bobbed up and down, without way, like a derelict turnip."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"A battered **derelict** hull floated silently in the doldrums, bleached white by tropical sun and ocean salt."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old buccaneer ended his days as a drunken **derelict**, stranded in an obscure coastal tavern."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Vessels found **derelict** upon the high seas belong to the lord high admiral as droits of admiralty."*

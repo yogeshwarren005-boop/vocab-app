@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking official approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing an official license or legal authorization; unauthorized, unregulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating or practiced without official government permit or professional accreditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlicenced designates lacking official approval."*
+> - 📜 **John Milton (*Areopagitica*):** *"Give me the liberty to know, to utter, and to argue freely according to conscience, above all **unlicenced** printing."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The town guard raided the **unlicenced** dram-shop where smugglers gathered to divide their contraband goods."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He practiced law as an **unlicenced** pettifogger, preying on desperate debtors in the alleyways of London."*

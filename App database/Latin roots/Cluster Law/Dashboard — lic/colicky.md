@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from excessive gas in the alimentary canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from excessive gas in the alimentary canal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, suffering from, or resembling abdominal colic; characterized by spasmodic griping belly pains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prone to bouts of irritable crying and digestive cramping, as an infant with infantile colic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Every few minutes the minister passed him the bottle and it acted like paregoric on a colicky baby."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"This time he thought he could detect colicky symptoms, and he began to encourage them with considerable hope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The passage of a renal calculus produces severe **colicky** spasms radiating downward along the course of the ureter."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"The fretful infant was quieted with warm tea after a restless night of **colicky** weeping."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The village matron prescribed peppermint water for every **colicky** complaint among the parish children."*

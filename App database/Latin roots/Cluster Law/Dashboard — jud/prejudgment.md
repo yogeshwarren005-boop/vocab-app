@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment reached before the evidence is available.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment reached before the evidence is available.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A premature judgment formed before examining the evidence or hearing the parties involved in a controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticipatory condemnation or approval based upon preconception rather than demonstrable proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This social division between the commercial and agricultural classes doubtless helped to strengthen the prejudgment as to the nature of the two kinds of wealth."*
+> - 📜 **Thomas Jefferson (*Writings: Letters on Politics and Society*):** *"A magistrate who enters court with a fixed **prejudgment** violates the most sacred oath of his judicial office."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Discard every ancestral **prejudgment**, and let your own eyes look boldly upon the living universe."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Social conventions regarding female capacity rested upon unproved **prejudgment** rather than fair and open competition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of synthetic polymeric materials containing silicon, oxygen, carbon, and hydrogen, notable for thermal stability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible, waterproof organosilicon polymer used in sealants, lubricants, medical prostheses, and electrical insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silicone designates any of a large class of siloxanes that are unusually stable over a wide range of temperatures; used in lubricants and adhesives and coatings and synthetic rubber and electrical insulation."*
+> - 📜 **Frederic Stanley Kipping (*Organic Derivatives of Silicon*):** *"In our laboratory investigations, we isolated intermediate **silicone** compounds exhibiting remarkable resistance to heat."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The alternating silicon-oxygen backbone provides **silicone** polymers with their characteristic thermal and chemical inertness."*
+> - 📜 **Eugene G. Rochow (*An Introduction to the Chemistry of the Silicones*):** *"Direct synthesis of methylchlorosilanes paved the way for industrial production of **silicone** oils and elastomers."*

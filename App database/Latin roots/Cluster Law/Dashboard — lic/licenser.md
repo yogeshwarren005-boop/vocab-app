@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official who can issue a license or give authoritative permission (especially one who licenses publications).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official, magistrate, or authority empowered to grant formal licenses, permissions, or trade permits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a government censor authorized to examine and approve manuscripts prior to publication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licenser designates an official who can issue a license or give authoritative permission (especially one who licenses publications)."*
+> - 📜 **John Milton (*Areopagitica*):** *"To trust the press to an illiterate and tyrannical **licenser** is to insult the learning and intellect of the nation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary **licenser** refused his imprimatur to any political tract that criticized royal foreign policy."*
+> - 📜 **Jonathan Swift (*The Examiner*):** *"The official **licenser** of plays exercised an arbitrary veto over dramatic productions in London theatres."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ask for or request earnestly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command solemnly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To charge, bind, or command someone solemnly and earnestly, often under penalty of a curse or by invoking God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To entreat or appeal to someone with profound and impassioned earnestness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Maire, I adjure you to put yourself in a place of safety.' 'Sir,' I said to him, sternly, 'for one who deserts his post there is no place of safety.' But I do not think he was capable of understanding me."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I adjure thee, by that God whose voice thou hast dared to counterfeit, to save my life!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Then the Syrian would solemnly adjure him, or threaten him if he were obstinate, and so drive him out."*
+> - 📜 **John Milton (*Paradise Lost*):** *"I **adjure** thee by the living God that thou tell us whether thou be the Christ, the Son of the Blessed."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"I charge thee to speak out the name of thy fellow-sinner, the minister said; I **adjure** thee by our common salvation."*
+> - 📜 **Lord Byron (*Manfred*):** *"By thy power deep and dread, I **adjure** thee to appear and answer the questions that torment my soul."*

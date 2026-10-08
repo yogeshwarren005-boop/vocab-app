@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in japan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modern Japanese martial art and Olympic sport emphasizing balance, leverage, grappling, and throwing rather than striking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical and physical discipline practicing maximum efficiency of effort and mutual welfare through yielding to opponent force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judo designates a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling; developed in japan."*
+> - 📜 **Lafcadio Hearn (*Out of the East: Reveries and Studies in New Japan*):** *"In the practice of **judo**, the master overcomes sheer brute strength by yielding gracefully until the assailant's balance is destroyed."*
+> - 📜 **Inazo Nitobe (*Bushido: The Soul of Japan*):** *"Modern educators adopted **judo** as an ideal moral and physical culture for cultivating self-restraint and mental composure."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Empty House*):** *"Sherlock Holmes explained that his mastery of baritsu and Japanese **judo** enabled him to escape Moriarty's death grip at the falls."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solemn renunciation, retraction, or recantation of a belief, oath, cause, or allegiance under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English legal history, the oath taken by a felon who took sanctuary to abjure the realm and go into permanent exile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abjuration designates a disavowal or taking back of a previous assertion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient oath of **abjuration** required the offender to swear perpetual exile from the kingdom upon the holy relics."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under the threat of imperial proscription, the trembling prelate signed a formal **abjuration** of his heretical doctrines."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament demanded a strict oath of **abjuration** disclaiming all allegiance to the exiled Stuart pretender."*

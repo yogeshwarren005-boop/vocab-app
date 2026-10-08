@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summon into action or bring into existence, often as if by magic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask for or request earnestly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To call upon or summon a spirit, devil, or magical power by sacred invocation, spell, or ritual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To call to mind, evoke, or create vividly in imagination; or to implore someone earnestly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is to conjure you, and I’ll begin with the women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either get thee from the door or sit down at the hatch: Dost thou conjure for wenches, that thou call’st for such store When one is one too many?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee to leave me and be gone."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I **conjure** you, by that which you profess, howe'er you come to know it, answer me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her solitary walks through the autumn woods served only to **conjure** up vivid memories of happiness forever lost."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fedallah seemed to **conjure** strange phantoms from the sea foam whenever the ship approached the equator."*

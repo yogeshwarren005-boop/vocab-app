@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling silica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling silica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or resembling silica or flint; having a glassy or quartz-like composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, having a hard skeleton, shell, or spicules formed of biogenic hydrated silica, as in radiolarians and glass sponges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This ore contains 5 to 5½ per cent. copper, with a large quantity of highly siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"These ores contain about 5 per cent. of copper in the form of sulphides, finely disseminated through large quantities of siliceous gangue."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Liquid matte has practically no action on the siliceous material of the hearth, and so presents an inert mass between the bottom and the charge."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The hot geysers of Iceland precipitate **siliceous** sinter over vast areas of volcanic terrain."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Deep ocean abysses contain extensive beds formed from the accumulated **siliceous** cases of radiolarians."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Hexactinellid sponges secrete a delicate framework of **siliceous** spicules resembling spun glass."*

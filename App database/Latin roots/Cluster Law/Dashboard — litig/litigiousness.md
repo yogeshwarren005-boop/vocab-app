@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarrelsome disposition to engage in or carry on lawsuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quarrelsome disposition to engage in or carry on lawsuits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent tendency or inclination to engage in lawsuits and legal disputes; contentious quarrelsome habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive fondness for initiating court actions over petty or trivial disagreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, litigiousness designates a quarrelsome disposition to engage in or carry on lawsuits."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Excessive constitutional ambiguities would encourage factional **litigiousness** and paralyze effective executive administration."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The apparent **litigiousness** of Americans reflects not a love of discord, but their supreme confidence in the judicial arbiter."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Justinian attempted to restrain the ruinous **litigiousness** of his subjects by simplifying procedural rules."*

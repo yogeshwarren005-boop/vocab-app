@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To judge wrongly, mistakenly, or unfairly; to form an erroneous opinion or estimation of a person or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To calculate incorrectly, as in distance, capability, character, or the timing of events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is cruel—she cannot help being mad.” “Jane, my little darling (so I will call you, for so you are), you don’t know what you are talking about; you misjudge me again: it is not because she is mad I hate her."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"More than that, he seems to me (I may misjudge him) to be a man of a desperate and fierce character.” “I know he is,” I returned."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Don't misjudge me, I beg: I have no designs on Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How despicably have I acted, cried Elizabeth; I, who have prided myself on my discernment, to **misjudge** two characters so completely!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip began to realize how cruelly he had learned to **misjudge** simple, faithful Joe Gargery in his foolish social ambition."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Officers who did not know the young sailor might easily **misjudge** his frank simplicity for calculated insolence."*

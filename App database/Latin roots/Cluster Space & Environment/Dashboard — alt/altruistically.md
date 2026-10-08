@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altruistically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an altruistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an altruistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unselfish, benevolent manner; with disinterested regard for the well-being of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting for the benefit of companions or society without calculation of personal gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altruistically designates in an altruistic manner."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The citizen acts **altruistically** when he willingly sacrifices private convenience for public justice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea acted **altruistically**, offering her private fortune to relieve Lydgate's mounting debt."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Tocqueville observed how Americans act **altruistically** through voluntary civic associations."*

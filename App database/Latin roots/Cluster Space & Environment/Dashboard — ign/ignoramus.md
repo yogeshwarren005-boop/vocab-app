@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignoramus
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ignorant person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ignorant person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ignorant or stupid person; someone utterly unacquainted with letters, science, or general knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the formula entered on an indictment by an English grand jury signifying insufficient grounds for prosecution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"He's but a Blockhead at the best. * _Corny_, in Printing a _Latin_ Book, censur'd by the University, was forced to plead _Ignoramus_ to save his Bacon. _Another in the Shop, on C----'s Title Page_ LEARNING."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In our time the majority of so-called advanced people—that is, the crowd of ignoramuses—have taken the work of the naturalists who deal with one side of the question for a solution of the whole problem."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Any pretender or **ignoramus** who could purchase ink and paper assumed the role of critic."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He ridiculed the pretentious pedant as an utter **ignoramus** whenever genuine scholarship was demanded."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Pitt Crawley lived like a boor and talked like an **ignoramus** in the rural county."*

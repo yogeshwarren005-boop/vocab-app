@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignition
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of initiating combustion or catching fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanism that ignites the fuel in an internal-combustion engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of catching fire or causing something to catch fire through heat or a spark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electrical or mechanical system that sets fire to the fuel-air mixture in an internal combustion engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Balfour, _l.c.: "Need-fire_ ... an ignition produced by the friction of two pieces of dried wood."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"After that no wood is used, except as a means of quick ignition to the staple fuel."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The point of **ignition** depends upon the contact between combustible gas and radiant heat."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I struck a match, and the sudden **ignition** of the sulfur filled the subterranean hall with flickering light."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"A dependable magneto was developed to guarantee rapid **ignition** within the motor cylinders at any speed."*

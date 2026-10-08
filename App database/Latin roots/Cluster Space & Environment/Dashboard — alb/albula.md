@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albula
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the family albulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the family albulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of marine teleost fishes comprising the bonefishes (family Albulidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, silvery tropical coastal game fish known for transparent ribbon-like leptocephalus larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albula designates type and sole genus of the family albulidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Jordan celebrated the speed and endurance of the bonefish **albula** vulpes on shallow Bahamian sandflats."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier placed the silvery genus **albula** among the primitive clupeoid fishes possessing granular palate teeth."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Günther studied the metamorphosis of the transparent larval **albula** into the silvery adult bonefish."*

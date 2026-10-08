@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuminuria
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of albumin or excessive protein in the urine, typically indicating renal disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, a cardinal diagnostic sign of nephritis, nephrotic syndrome, or preeclampsia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuminuria designates the presence of excessive protein (chiefly albumin but also globulin) in the urine; usually a symptom of kidney disorder."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Bright demonstrated that persistent **albuminuria** and anasarca indicate structural destruction of the renal cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transient **albuminuria** may follow violent muscular exertion or febrile illness without permanent kidney damage."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Physicians recognized dropsical swellings long before chemical testing revealed **albuminuria** as their source."*

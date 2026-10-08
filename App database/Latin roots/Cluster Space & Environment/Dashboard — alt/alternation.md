@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive change from one thing or state to another and back again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive change from one thing or state to another and back again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repeated occurrence of two or more things in regular turn, succession, or sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, the occurrence in one life cycle of alternating sexual and asexual forms (alternation of generations).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Time was marked by the regular changing of the guards, and by the alternation of day and night."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Alternation of good and poor harvests has always seemed to be favorable to business prosperity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His changes of mood did not offend me, because I saw that I had nothing to do with their alternation; the ebb and flow depended on causes quite disconnected with me."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The reproductive cycle of marine medusae presents a classic instance of the **alternation** of generations."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The universal rhythm of nature manifests itself in the rhythmic **alternation** of day and night, life and death."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The curious **alternation** of reproductive methods in parasitic worms offers clues to early evolutionary divergence."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unalterably
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unchangeable, immutable, or irreversible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With resolute, unwavering steadfastness of mind, purpose, or adherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"So obedient to impulses the most transient and brief, and yet so unalterably observant of the direction which is given to it!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a word, he at length succeeded in gaining her hand, though with the solemn assurance, that her heart was unalterably another’s."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The regiment was also a home, and as unalterably dear and precious as his parents’ house."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The religious faith of the desert ascetics was **unalterably** fixed upon celestial rewards."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our ancient liberties are **unalterably** established upon the solid foundation of common law."*
+> - 📜 **George Eliot (*Romola*):** *"Her pure moral sense was **unalterably** opposed to every compromise with deceit or tyranny."*

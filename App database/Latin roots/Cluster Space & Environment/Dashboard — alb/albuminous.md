@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuminous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or resembling albumin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or resembling albumin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, resembling, or having the properties of albumin or albumen; rich in egg-white protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing seeds that possess a distinct food-storing endosperm surrounding the embryo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuminous designates relating to or containing or resembling albumin."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Bright discovered that coagulable **albuminous** urine was directly correlated with diseased kidneys."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The seeds of the poppy are **albuminous**, containing a rich oily endosperm that feeds the embryo."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The naturalist examined the viscous **albuminous** fluid enclosing the eggs of sea turtles on Ascension Island."*

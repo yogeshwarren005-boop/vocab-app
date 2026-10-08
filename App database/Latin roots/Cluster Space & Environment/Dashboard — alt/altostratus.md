@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altostratus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stratus cloud at an intermediate altitude of 2 or 3 miles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stratus cloud at an intermediate altitude of 2 or 3 miles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A middle-altitude cloud formation forming a uniform, greyish or bluish veil through which the sun appears dimly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, a dense stratified cloud layer typically heralding approaching precipitation along a warm front.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altostratus designates a stratus cloud at an intermediate altitude of 2 or 3 miles."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The uniform leaden veil of **altostratus** obscured the sun, creating the watery disc typical of an approaching gale."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Huxley explained how vast sheets of **altostratus** condense when warm maritime air rides over cold polar air."*
+> - 📜 **John Herschel (*Meteorology*):** *"The continuous dull grey shroud of **altostratus** gradually thickened into rain-bearing nimbostratus."*

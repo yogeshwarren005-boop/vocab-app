@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # nonalignment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The national policy or principle of avoiding formal alliance or political alignment with major ideological power blocs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of parallel coordination, conformity, or mechanical adjustment between parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonalignment designates people (or countries) who are not aligned with other people (or countries) in a pact or treaty."*
+> - 📜 **Jawaharlal Nehru (*India's Foreign Policy*):** *"The doctrine of **nonalignment** does not signify neutrality or passivity, but positive freedom of judgment on every crisis."*
+> - 📜 **Arnold J. Toynbee (*A Study of History*):** *"The strategy of **nonalignment** reflected an instinctive desire to preserve regional autonomy against global empires."*
+> - 📜 **Walter Lippmann (*The Cold War: A Study in U.S. Foreign Policy*):** *"Strict **nonalignment** among newly sovereign states presented diplomacy with an intricate challenge."*

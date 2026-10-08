@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # realty
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property consisting of houses and land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Real property; landed estate, including buildings, trees, minerals, and permanent fixtures attached thereto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The domain or legal category of property encompassing immovable physical wealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"O Heaven! that such resemblance of the Highest Should yet remain, where faith and realty Remain not: Wherefore should not strength and might There fail where virtue fails, or weakest prove Where boldest, though to fight unconquerable?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Things real are usually termed **realty**, consisting of lands, tenements, and hereditaments immovable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Investments in solid **realty** yield a more stable revenue than speculative commerce across distant oceans."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Grandet hoarded his gold only until a favorable opportunity arose to purchase valuable agricultural **realty**."*

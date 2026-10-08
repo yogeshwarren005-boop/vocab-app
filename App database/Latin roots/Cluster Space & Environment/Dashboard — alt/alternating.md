@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternating
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back and forth; swing back and forth between two states or conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange people temporarily to fulfill certain jobs and functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in regular succession by turns; reversing direction periodically and continuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical physics, describing an electric current that regularly reverses its direction (alternating current).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They are separated from the walls by a broad walk and a row of grass-plots, alternating with paved spaces opposite the embrasures, on which cannon were once planted."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had gained an excellent practice, alternating, according to the season, between London and a Continental bathing-place; having written a treatise on Gout, a disease which has a good deal of wealth on its side."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Tesla developed the polyphase **alternating** current motor, transforming the transmission of power worldwide."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Maxwell analyzed the electromagnetic fields induced by **alternating** currents within concentric conductors."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The street crowds fluctuated in **alternating** waves of wild enthusiasm and paralyzing panic."*

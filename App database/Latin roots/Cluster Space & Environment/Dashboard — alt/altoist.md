@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altoist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the alto saxophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the alto saxophone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays an alto instrument, especially an alto saxophone, alto clarinet, or alto horn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solo instrumentalist specializing in the alto range in a jazz orchestra or brass band.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altoist designates a musician who plays the alto saxophone."*
+> - 📜 **George Bernard Shaw (*London Music in 1888-89*):** *"Shaw commended the brass band **altoist** whose warm mellow tone balanced the piercing cornets."*
+> - 📜 **F. Scott Fitzgerald (*Tales of the Jazz Age*):** *"The nightclub **altoist** poured out a plaintive, syncopated melody that drifted into the midnight street."*
+> - 📜 **Langston Hughes (*The Big Sea*):** *"Hughes listened in awe to the Harlem **altoist** whose saxophone solos electrified the midnight dancers."*

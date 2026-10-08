@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # igniter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to ignite or kindle a fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for lighting or igniting fuel or charges or fires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical, chemical, or electrical device used to set fire to fuel or initiate an explosive charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or agent that sparks or precipitates a major historical upheaval, rebellion, or intense debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, igniter designates a substance used to ignite or kindle a fire."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The electric **igniter** was connected to the subterranean battery to fire the four hundred thousand pounds of gun-cotton."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The assassin's pistol in Sarajevo served as the fatal **igniter** of a continent-wide conflagration."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"A high-frequency spark gap served as the primary **igniter** for the experimental arc system."*

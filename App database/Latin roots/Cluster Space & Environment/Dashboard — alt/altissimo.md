@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altissimo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very high.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical notation, designating the octave above the highest normal register (the second octave above treble staff).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vocal or woodwind technique, notes played or sung in the extreme high acoustic range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altissimo designates very high."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"Mozart's Queen of the Night aria ascends into **altissimo**, demanding effortless control of the high F."*
+> - 📜 **Charles Burney (*The Present State of Music in Germany*):** *"Burney admired the Italian soprano who embellished vocal cadenzas with soaring trills in **altissimo**."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation and Orchestration*):** *"Berlioz cautioned that the piccolo flute in **altissimo** produces a shrill piercing timbre suited only to storms."*

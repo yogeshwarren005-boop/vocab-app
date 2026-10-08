@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # misalign
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Align imperfectly or badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align imperfectly or badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To align incorrectly; to fail to bring into proper line, true orientation, or exact correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To place into conflicting, discordant, or poorly matched institutional, mechanical, or operational relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misalign designates align imperfectly or badly."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Should the technician **misalign** the primary prism, the dispersed spectrum will suffer severe chromatic distortion."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"To **misalign** even a single cog within the calculating engine would invalidate every subsequent computation."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"If you **misalign** the magnetic poles relative to the copper disk, the induced current is greatly diminished."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuquerque
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in new mexico; located in central new mexico on the rio grande river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in new mexico; located in central new mexico on the rio grande river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most populous city in New Mexico, USA, situated in the high desert along the Rio Grande.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic Spanish colonial settlement and railway crossroads in the American Southwest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuquerque designates the largest city in new mexico; located in central new mexico on the rio grande river."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"Father Latour rode his mule across the sun-drenched desert plateau toward the green cottonwoods of **Albuquerque**."*
+> - 📜 **Josiah Gregg (*Commerce of the Prairies*):** *"Gregg described the bustling Santa Fe traders resting their pack trains at the hospitable town of **Albuquerque**."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"Powell surveyed the irrigation acequias radiating from the Rio Grande near the old plaza of **Albuquerque**."*

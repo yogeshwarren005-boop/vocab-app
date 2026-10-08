@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albugo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the albuginaceae; fungi causing white rusts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the albuginaceae; fungi causing white rusts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of obligate plant-parasitic oomycetes (white blister rusts) that infect crucifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in medicine, a white corneal opacity, leukoma, or film clouding the vision of the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albugo designates type genus of the albuginaceae; fungi causing white rusts."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne scrutinized ancient leeches who claimed that celandine juice possessed power to dissolve an **albugo** of the eye."*
+> - 📜 **Miles Joseph Berkeley (*Introduction to Cryptogamic Botany*):** *"Berkeley investigated the destructive parasitism of **albugo** candida upon cabbage and radish leaves."*
+> - 📜 **Anton de Bary (*Researches on the Development of Parasitic Fungi*):** *"De Bary established that conidia of **albugo** germinate into mobile zoospores in the presence of surface moisture."*

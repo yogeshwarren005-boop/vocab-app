@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altarpiece
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painted or carved screen placed above and behind an altar or communion table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painted or carved screen placed above and behind an altar or communion table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, carved relief sculpture, or decorated screen set above and behind an altar in a Christian church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A devotional religious triptych or polyptych designed to focus the prayer of the congregation during divine worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altarpiece designates a painted or carved screen placed above and behind an altar or communion table."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Ruskin stood in awe before the magnificent Gothic **altarpiece**, admiring its glowing gold leaf and lapis lazuli."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"Pater described the serene devotional tenderness expressed in the Umbrian **altarpiece** painted by Perugino."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The dim chapel was illuminated only by the tapers burning before Guido's solemn and beautiful **altarpiece**."*

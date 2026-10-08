@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuginea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whitish tunic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whitish tunic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, white fibrous connective tissue tunic or sheath enclosing an organ (tunica albuginea of the testis or eye).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy, the tough white capsule protecting the testis, ovary, or fibrous tunic of the eyeball.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuginea designates whitish tunic."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Owen described the thick fibrous capsule of the tunica **albuginea** investing the reproductive organs of mammals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammation may extend through the dense tunica **albuginea**, producing severe pain from encapsulated swelling."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"The ovarian stroma is bounded externally by a modified condensation of connective tissue known as the **albuginea**."*

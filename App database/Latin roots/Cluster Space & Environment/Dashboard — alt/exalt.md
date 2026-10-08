@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # exalt
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, glorify, or honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with sublime emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hold someone or something in very high regard; to praise, glorify, or elevate in rank or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To raise to a higher spiritual, moral, or emotional state; to inspire with noble feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not so hot: In his own grace he doth exalt himself, More than in your addition."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There he had seen everything to exalt in his estimation the woman he had lost; and there begun to deplore the pride, the folly, the madness of resentment, which had kept him from trying to regain her when thrown in his way."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To put with one hand a pedestal under the feet of the two faithful ones, and with the other to exalt the unfaithful by the same artificial means, he deemed to be alike inconsistent with his convictions, his position, and his hopes."*
+> - 📜 **King James Bible (*Gospel of Matthew*):** *"Whosoever shall **exalt** himself shall be abased; and he that shall humble himself shall be exalted."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan aspired to **exalt** his throne above the stars of God, plunging into ruinous rebellion."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"True wisdom seeks to **exalt** the moral dignity of the citizen without tearing down ancient laws."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # seigneur
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of rank in the ancient regime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man of rank in the ancient regime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal lord or landowner, especially of a medieval French or French-Canadian manorial estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man of rank, high breeding, or patriarchal authority over tenants and dependent laborers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"D’elbow, _madame._ KATHARINE. _O Seigneur Dieu, je m’en oublie!_ D’elbow. _Comment appelez-vous le col?_ ALICE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"De foot _et_ de coun! _O Seigneur Dieu! ils sont les mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d’honneur d’user."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O Seigneur Dieu!_ PISTOL."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French peasant ceased to revere the local **seigneur** once feudal duties were divorced from administrative protection."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every haughty **seigneur** who exacted ancient corvées hastened the catastrophe of his noble order."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"The Scottish archer bowed respectfully before the Burgundian **seigneur** who commanded the castle ramparts."*

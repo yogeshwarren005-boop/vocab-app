@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albumin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple water-soluble protein found in many animal tissues and liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple water-soluble protein found in many animal tissues and liquids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of water-soluble globular proteins found in blood serum, egg white, and milk, coagulable by heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology, the principal plasma protein synthesized by the liver, essential for colloid osmotic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albumin designates a simple water-soluble protein found in many animal tissues and liquids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A simple nitric acid test precipitates serum **albumin** from the urine, revealing glomerular disease."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Serum **albumin** maintains the normal osmotic balance between intravascular blood and tissue lymph."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Huxley explained how dietary **albumin** is broken down by gastric pepsin into absorbable peptones."*

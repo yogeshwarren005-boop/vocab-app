@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # aligning
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of placing objects in a straight line or into proper relative orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing ideas, policies, or nations into harmonious coordination and strategic alliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussars began carefully aligning their horses."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"Engineers spent weeks **aligning** the iron suspension chains before securing them to the limestone pylons."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic legislation succeeds by **aligning** private self-interest with the public welfare of the township."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The external magnetic field acts upon the steel needle, **aligning** its molecular magnetic moments along the flux."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altruism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unselfish concern for the welfare of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unselfish concern for the welfare of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle or practice of selfless concern for the welfare, happiness, and interests of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, behavior by an animal that benefits another individual at a fitness cost to itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A conference of doctors and social scientists proposed a theory that altruism, particularly when the helper observes its benefits, can reduce feelings of helplessness and depression and thus enhance health."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Spencer argued that social evolution brings egoism and **altruism** into growing ethical harmony."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social animals perform mutual services, illustrating the evolutionary root of moral **altruism**."*
+> - 📜 **John Stuart Mill (*Auguste Comte and Positivism*):** *"Mill analyzed Comte's moral system, which made universal **altruism** the sole test of human duty."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignoble
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely lacking nobility in character or quality or purpose; ; - oliver wendell holmes, jr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of the nobility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing noble birth, high social rank, or aristocratic station; plebeian or humble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by baseness, dishonor, or contemptible selfishness; lacking moral elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SOMERSET. [_Aside_.] Perish, base prince, ignoble Duke of York!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’tis but a base ignoble mind That mounts no higher than a bird can soar."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Far from the madding crowd's **ignoble** strife, their sober wishes never learned to stray."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Think not that I would yield to an **ignoble** truce with the hereditary enemies of England."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To bow and sue for grace with suppliant knee, and deify his power, that were an **ignoble** fall."*

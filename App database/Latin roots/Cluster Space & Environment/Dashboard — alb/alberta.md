@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alberta
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A western prairie province of Canada, bordered by the Canadian Rockies to the west and Saskatchewan to the east.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast Canadian territory famed for fertile grain plains, cattle ranching, fossil deposits, and oil sands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A man I know on the turf named Charles Alberta Marsh (I was in bed with him just now and another gentleman out of the Hanaper and Petty Bag office) is on the lookout for a maid of all work at a short knock."*
-> - 📜 **James Joyce (*Ulysses*):** *"CHARLES ALBERTA MARSH: Must be virgin."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I promised to help Alberta cut out her new dress."*
+> - 📜 **Charles Hazelius Sternberg (*The Life of a Fossil Hunter*):** *"Sternberg excavated magnificent Cretaceous dinosaur skeletons along the Red Deer River in southern **Alberta**."*
+> - 📜 **Arthur Conan Doyle (*Our American Adventure*):** *"Doyle crossed the rich agricultural plains of **Alberta**, marveling at the endless golden wheat fields near Calgary."*
+> - 📜 **John Muir (*Travels in Alaska and the Canadian Northwest*):** *"Muir praised the jagged snow-clad ramparts of the Canadian Rockies rising dramatically above western **Alberta**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignobility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being ignoble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being ignoble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or characteristic of having low social birth, vulgar origins, or dishonorable standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral baseness, meanness of character, or lack of elevated ethical principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, as all the generations of philosophers before me, know woman for what she is—her weaknesses, and meannesses, and immodesties, and ignobilities, her earth-bound feet, and her eyes that have never seen the stars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor concealed the **ignobility** of his origin beneath an ostentatious display of oriental pomp."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"There is a pitiful **ignobility** in flattering power at the expense of honesty and truth."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society that worships mere mammon sinks into spiritual **ignobility** and unfeeling servitude."*

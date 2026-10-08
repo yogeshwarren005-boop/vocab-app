@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altitudinal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to altitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to altitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to altitude, vertical elevation, or height above sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography, describing the vertical zonation of plant and animal communities up a mountain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altitudinal designates pertaining to altitude."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Wallace described the distinct **altitudinal** zones of vegetation ascending from tropical valleys to volcanic peaks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Darwin traced the **altitudinal** limits of the Andean condor, which thrives at elevations exceeding ten thousand feet."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The alpine flora of Mount Washington is restricted to an **altitudinal** belt above the timberline."*

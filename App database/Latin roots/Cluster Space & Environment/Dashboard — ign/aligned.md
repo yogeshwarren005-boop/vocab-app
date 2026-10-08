@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # aligned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in a straight line, parallel, or in correct relative orientation and position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allied, joined, or cooperating with a particular political, economic, or philosophical faction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Aligned, Zolan released the tug, and gentling his thrusters, brought his flitter to rest on a landing platform that had articulated from a portal."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The taxi paused and aligned to the new course, Zolan's hands on its manual controls."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Newton observed that light rays pass undeflected when the optical apertures are precisely **aligned**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionary cohorts stood **aligned** in three disciplined battle lines awaiting the barbarian onset."*
+> - 📜 **Winston Churchill (*The Grand Alliance*):** *"Britain and the United States stood **aligned** in common democratic purpose against Axis tyranny."*

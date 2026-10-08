@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albinal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or affected by albinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or affected by albinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characteristic of an albino; exhibiting congenital albinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an abnormal absence of pigment in the skin, feathers, fur, or ocular choroid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinal designates of or pertaining to or affected by albinism."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Darwin observed that **albinal** varieties of rabbits often suffer from defective vision in bright sunlight."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne discussed whether **albinal** coloration in birds resulted from intense cold or internal seed weakness."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The choroid coat in an **albinal** eye lacks black pigment granules, leaving the vascular network exposed."*

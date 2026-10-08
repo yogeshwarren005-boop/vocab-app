@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altar
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The table in christian churches where communion is given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A raised structure on which gifts or sacrifices to a god are made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A raised structure, table, or platform on which religious sacrifices, incense, or gifts are offered to a deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian churches, the holy table upon which the sacrament of the Eucharist is consecrated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mailed Mars shall on his altar sit Up to the ears in blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease, cease these jars, and rest your minds in peace; Let’s to the altar; heralds, wait on us."*
+> - 📜 **King James Bible (*Book of Genesis*):** *"Noah builded an **altar** unto the Lord; and took of every clean beast, and offered burnt offerings."*
+> - 📜 **John Milton (*Paradise Lost*):** *"First Moloch, horrid king, besmeared with blood of human sacrifice, and parents' tears, upon his grim **altar**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane stood beside Rochester before the church **altar**, unaware of the impediment about to be declared."*

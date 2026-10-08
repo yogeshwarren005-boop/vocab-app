@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albinism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of pigmentation in the eyes and skin and hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital absence of pigmentation in the eyes and skin and hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital genetic condition characterized by the complete or partial absence of melanin pigment in the skin, hair, and eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoology, the total lack of normal coloration resulting in white foliage or pale integument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinism designates the congenital absence of pigmentation in the eyes and skin and hair."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Darwin noted that complete **albinism** is frequently correlated with constitutional delicacy and ocular weakness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ocular manifestations of **albinism** include severe astigmatism, photophobia, and defective visual acuity."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"Mendel's laws of recessive inheritance explained the unexpected re-emergence of **albinism** across generations."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # align
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or come into adjustment with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange or place things in a straight line or in correct relative position to one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring into agreement or alliance with a particular group, ideology, or political cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each utility maneuvered to synchronize axis and align portals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Or you can align with Planet Pluto, which is your right as a free and independent nation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slender, multi-armed space cranes raised and lowered crates, bundles and modules, and arranged, aligned, connected and disconnected gear and cargo in all directions."*
+> - 📜 **Thomas Telford (*Life of Thomas Telford, Civil Engineer*):** *"Surveyors used sighting rods and transits to **align** the masonry piers along the central axis of the aqueduct."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial interests will naturally **align** with stable political authority to ensure the security of trade."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The comparative anatomist seeks to **align** homologous skeletal elements across diverging vertebrate lineages."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuginaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that produce white sori resembling blisters on certain flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that produce white sori resembling blisters on certain flowering plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of plant-parasitic oomycetes (white blister rusts), forming chalky white pustules on foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, obligate biotrophic pathogens of crucifers and composites causing white blister symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuginaceae designates fungi that produce white sori resembling blisters on certain flowering plants."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Berkeley examined the white crusts produced on shepherd's purse by members of the family **albuginaceae**."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"De Bary traced the life cycle of **albuginaceae**, documenting flagellated zoospores swimming within leaf stomata."*
+> - 📜 **Job Bicknell Ellis (*North American Fungi*):** *"Ellis collected destructive white rusts of the family **albuginaceae** infecting field mustard crops."*

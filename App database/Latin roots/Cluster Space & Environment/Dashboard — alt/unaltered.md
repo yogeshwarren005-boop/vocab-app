@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unaltered
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in an original state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in an original state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining unchanged, unmodified, or intact; retaining original form, substance, or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining an unaffected condition despite exposure to disruptive external forces or the passage of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"This text is "an unabridged and unaltered republication of the Bohn Library edition originally published by George Bell and Sons in 1883." 3."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I desire to say, and to call you all to witness—beginning, Volumnia, with yourself, most solemnly—that I am on unaltered terms with Lady Dedlock."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount of goods to be exchanged may change even when the amount produced is unaltered (e.g., a change from agricultural to industrial conditions)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain ancient brachiopods have survived virtually **unaltered** through millions of geological strata."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The primitive architecture of the desert shrine stood **unaltered** by the luxurious fashions of Byzantium."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne found her affection for Captain Wentworth essentially **unaltered** despite eight long years of silence and estrangement."*

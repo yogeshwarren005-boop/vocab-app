@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altaic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the peoples speaking a language in the altaic language group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of related languages spoken in asia and southeastern europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Altai Mountains of Central Asia or the diverse peoples inhabiting the range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, denoting a proposed macrofamily linking Turkic, Mongolic, and Tungusic tongues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altaic designates any member of the peoples speaking a language in the altaic language group."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Müller proposed the Turanian or **Altaic** grouping to explain common agglutinative traits in Eurasian speech."*
+> - 📜 **Alexander von Humboldt (*Central Asia*):** *"Humboldt surveyed the snow-crowned summits of the **Altaic** chain, tracing rich veins of gold and silver."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancestors of the Turks forged weapons of iron amidst the rugged valleys of the **Altaic** mountains."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albigenses
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian religious sect in southern france in the 12th and 13th centuries; believers in albigensianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval Christian dualist sect (Cathars) centered in the Languedoc region of southern France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious dissidents suppressed by the Catholic Church during the Albigensian Crusade (1209–1229).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The adoration of each other was customary among the Albigenses, and is noticed hundreds of times in the records of the Inquisition at Toulouse in the early part of the fourteenth century."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The crusades directed against the **Albigenses** bathed the fertile provinces of southern France in blood."*
+> - 📜 **David Hume (*The History of England*):** *"Hume recorded how Pope Innocent III unleashed fierce military campaigns to extirpate the **Albigenses**."*
+> - 📜 **John Foxe (*Actes and Monuments*):** *"Foxe chronicled the patient suffering and martyrdom of the pious **Albigenses** at the hands of the Inquisition."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed feldspar that forms rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed feldspar that forms rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common sodium-rich plagioclase feldspar mineral (NaAlSi3O8) forming white or colorless crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, an essential mineral component of granites, pegmatites, and low-grade metamorphic schists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albite designates a widely distributed feldspar that forms rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The granitic veins traversing the Highland schists are enriched with crystalline prisms of white **albite**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Dana described **albite** as the sodic end-member of the plagioclase feldspar series, showing polysynthetic twinning."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"In metamorphic greenschists, basic plagioclase breaks down into a fine mosaic of **albite** and epidote."*

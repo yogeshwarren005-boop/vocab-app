@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albinic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or affected by albinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or affected by albinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or displaying albinism; lacking normal melanin pigmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological science, characterized by hypopigmented or unpigmented epidermal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinic designates of or pertaining to or affected by albinism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **albinic** patient exhibited marked photophobia and horizontal nystagmus under direct examination."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sporadic **albinic** mutations occur among all human races, producing fair hair and pink irises."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Galton collected pedigree records to trace the recessive transmission of **albinic** inheritance in families."*

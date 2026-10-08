@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albino
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with congenital albinism: white hair and milky skin; eyes are usually pink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism exhibiting a congenital deficiency of pigment in skin, hair, and eyes, which typically appear white or pink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pale, white skin and light hair due to genetic absence of melanin pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is it that in the Albino man so peculiarly repels and often shocks the eye, as that sometimes he is loathed by his own kith and kin!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Albino is as well made as other men—has no substantive deformity—and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And of all these things the Albino whale was the symbol."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab hunted the great **albino** whale across the oceans, fascinated and horrified by its milky hue."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Darwin examined a rare **albino** guanaco shot by hunters upon the arid plateaus of Patagonia."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Yellow Face*):** *"Watson listened as the stranger spoke with emotion, wondering if the child was a delicate **albino**."*

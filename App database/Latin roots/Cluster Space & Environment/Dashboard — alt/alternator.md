@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternator
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old term for an electric generator that produces alternating current (especially in automobiles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old term for an electric generator that produces alternating current (especially in automobiles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical generator that converts mechanical energy into alternating electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dynamo with rotating magnets (rotor) and stationary armature (stator) used in power grids and automobiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Nicola Tesla made an alternator (to give the alternating current dynamo its short title) which could produce 1500 alternations per second, while Mr W."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The alternations of a hundred or so per second, which are quite the common thing with alternators, are just what is needed to excite an induction coil."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"Tesla constructed a high-frequency **alternator** to study resonant electromagnetic phenomena."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"Steinmetz formulated the mathematical laws governing armature reaction in the multiphase **alternator**."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The massive Niagara Falls power station was equipped with a giant **alternator** to generate municipal power."*

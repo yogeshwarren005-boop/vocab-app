@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albizzia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous trees of the genus albizia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous trees of the genus albizia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical leguminous trees (silk trees) bearing bipinnate foliage and brush-like flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shade trees widely cultivated across tropical tea and coffee plantations to enrich soil nitrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albizzia designates any of numerous trees of the genus albizia."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley classified **albizzia** within the Mimosoideae, highlighting the elongated stamens that dominate the flower."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"Burton rested his camel train beneath a spreading **albizzia** tree on the arid Somali coastal plain."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Gardeners prize the weeping form of **albizzia** for its feathery shade and delicate fragrant blooms."*

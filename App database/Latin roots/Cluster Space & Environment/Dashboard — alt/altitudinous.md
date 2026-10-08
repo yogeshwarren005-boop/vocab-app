@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altitudinous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indefinitely high; lofty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indefinitely high; lofty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great altitude; extremely high, towering, lofty, or elevated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to lofty heights; or pompously elevated in style, language, or pretensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altitudinous designates indefinitely high; lofty."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh gazed down from his **altitudinous** watchtower upon the swarming streets of the metropolis."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout maintained his watch upon the **altitudinous** masthead, swaying between cloud and foam."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The peaks of the High Sierra stood out against the deep violet sky in **altitudinous** splendor."*

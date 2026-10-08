@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coigne
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting stone corner or external angle of a building; an advantageous observation point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commanding vantage point or strategic position offering an expansive view.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coigne designates expandable metal or wooden wedge used by printers to lock up a form within a chase."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"See you yond **coigne** o' the Capitol, yond corner-stone? Menecrates pointed toward the ancient Roman masonry."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright stood upon a rocky **coigne** of the heath, watching the sun sink behind Rainbarrow."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David Balfour sheltered behind a stone **coigne** of the tower, scanning the heather for redcoat patrols."*

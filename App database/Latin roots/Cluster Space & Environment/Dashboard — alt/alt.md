@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alt
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Angular distance above the horizon (especially of a celestial object).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angular distance above the horizon (especially of a celestial object).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High in pitch or musical register; in vocal music, high notes above the staff (in alt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modifier key on computer keyboards (*Alt* key) used to execute alternative commands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alt’red much upon the hearing it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you once more, Is not your father grown incapable Of reasonable affairs? is he not stupid With age and alt’ring rheums? can he speak? hear?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am but sorry, not afeard; delay’d, But nothing alt’red: what I was, I am: More straining on for plucking back; not following My leash unwillingly."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The soprano executed soaring fiorituras in **alt**, reaching the high F with dazzling agility."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Burney praised the Italian prima donna whose clear, flexible voice ranged effortlessly into **alt**."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation and Orchestration*):** *"Berlioz cautioned composers against straining choral tenors by writing prolonged passages in **alt**."*

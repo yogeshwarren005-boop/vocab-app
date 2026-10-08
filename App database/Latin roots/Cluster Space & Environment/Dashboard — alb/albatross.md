@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albatross
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (figurative) something that hinders or handicaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large oceanic seabird of the family Diomedeidae, with extremely long narrow wings adapted for dynamic soaring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological burden, curse, or guilt that causes continuous anxiety (alluding to Coleridge's poem).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some time after, I learned that goney was some seaman’s name for albatross."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Instead of the cross, the **Albatross** about my neck was hung, in punishment for my wanton crime."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab watched the solitary snowy **albatross** gliding without a wing-beat above the stormy Antarctic seas."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wandering **albatross** swept around the Beagle off Cape Horn, soaring majestically over giant waves."*

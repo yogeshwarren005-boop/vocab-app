@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignominiously
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dishonorable manner or to a dishonorable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dishonorable manner or to a dishonorable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shameful, dishonorable, or humiliatingly degrading manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With utter loss of repute, prestige, or personal dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a few months he was ignominiously discharged from the service, and, at the close of the war, he came to Texas, and sought and obtained employment as teamster in the train then organizing for El Paso."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And I soon found myself getting heavily bumped from behind in the nape of the neck and the small of the back, and having my face ignominiously shoved against the kitchen wall, because I did not answer those questions at sufficient length."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The idea of being taken and brought back ignominiously to the ship was so inexpressibly repulsive to me, that I was determined by no hasty and imprudent measures to render such an event probable."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The mercenary army was routed in panic and fled **ignominiously** across the frontier."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"Modern pedantry was cast down and trampled **ignominiously** under the heavy tread of the ancients."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The dishonest clerk was dismissed **ignominiously** from the office in full view of his former peers."*

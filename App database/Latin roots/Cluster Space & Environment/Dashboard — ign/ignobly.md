@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignobly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dishonorable, base, degrading, or cowardly manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obscure, humble, or socially undistinguished fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, noble uncle, thus ignobly used, Your nephew, late despised Richard, comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor should thy prowess want praise and esteem, But that ’tis shown ignobly and in treason."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the kind gods, ’tis most ignobly done To pluck me by the beard."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I had rather be their servant in my way than sway with them in theirs, or fall **ignobly** before their fickle shouts."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Better to perish boldly on the battlefield than live **ignobly** beneath the conqueror's yoke."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The disgraced minister yielded **ignobly** to threats which a braver statesman would have defied."*

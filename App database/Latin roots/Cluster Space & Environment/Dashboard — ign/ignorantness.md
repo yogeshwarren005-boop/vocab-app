@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignorantness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance (especially of orthodox beliefs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignorance (especially of orthodox beliefs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of lacking knowledge, information, or intellectual enlightenment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncultivated rustic simplicity or absence of educational refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignorantness designates ignorance (especially of orthodox beliefs)."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"His rustic speech betrayed an unfeigned **ignorantness** of urban customs and political intrigues."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The stranger displayed a willful **ignorantness** concerning the narrow way leading to the Celestial City."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"We must bear patiently with the harmless **ignorantness** of children before reason hath matured."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuca
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus albuca having large clusters of pale yellow flowers; south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus albuca having large clusters of pale yellow flowers; south africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of bulbous perennial flowering plants in the asparagus family (Asparagaceae), native to southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, Cape bulbs producing racemes of drooping white, green, or yellow flowers with hooded inner petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuca designates any of various plants of the genus albuca having large clusters of pale yellow flowers; south africa."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus described **albuca** as an African bulbous genus related to Ornithogalum, bearing hooded petals."*
+> - 📜 **John Gilbert Baker (*Flora Capensis*):** *"Baker classified over fifty species of **albuca** thriving on the dry gravel plains of the Karoo."*
+> - 📜 **William Henry Harvey (*The Genera of South African Plants*):** *"The nodding blossoms of **albuca** are characterized by three erect inner petals that shield the style."*

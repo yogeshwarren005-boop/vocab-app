@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # reignite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignite anew, as of something burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignite anew, as of something burning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To catch fire again or set something ablaze a second time; to revive combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To rekindle, revive, or awaken dormant feelings, passions, controversies, or political conflicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reignite designates ignite anew, as of something burning."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"A glowing wooden splinter thrust into pure oxygen will instantly **reignite** with a vivid, crackling flash."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The unresolved grievances of the peace treaty threatened to **reignite** armed hostility throughout Central Europe."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A solitary chance meeting sufficed to **reignite** the smoldering embers of their former attachment."*

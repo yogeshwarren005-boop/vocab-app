@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albert
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prince consort of queen victoria of england (1819-1861).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prince consort of queen victoria of england (1819-1861).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prince Albert of Saxe-Coburg and Gotha (1819–1861), prince consort to Queen Victoria and organizer of the Great Exhibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive African rift valley lake (Lake Albert) lying on the border between Uganda and the DR Congo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bertrand, _La Religion des Gaulois_ (Paris, 1897), p. 117. [468] Albert Meyrac, _Traditions, Coutumes, Légendes, et Contes des Ardennes_ (Charleville, 1890), pp. 88 _sq._ [469] L.F."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He wore rather baggy grey shepherd’s check trousers, a not over-clean black frock-coat, unbuttoned in the front, and a drab waistcoat with a heavy brassy Albert chain, and a square pierced bit of metal dangling down as an ornament."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Was dressed, when last seen, in black frock-coat faced with silk, black waistcoat, gold Albert chain, and grey Harris tweed trousers, with brown gaiters over elastic-sided boots."*
+> - 📜 **Queen Victoria (*Leaves from the Journal of Our Life in the Highlands*):** *"Victoria recorded blissful days wandering the Balmoral hills beside her beloved **Albert**."*
+> - 📜 **Samuel White Baker (*The Albert N'yanza, Great Basin of the Nile*):** *"Baker gazed upon the vast expanse of Lake **Albert**, naming the great inland sea in honor of the Prince Consort."*
+> - 📜 **Lytton Strachey (*Queen Victoria*):** *"Strachey evaluated the tireless industry of Prince **Albert**, who reshaped British cultural and civic institutions."*

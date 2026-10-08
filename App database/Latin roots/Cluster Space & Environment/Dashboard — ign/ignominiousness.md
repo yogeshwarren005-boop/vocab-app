@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignominiousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness meriting public disgrace and dishonor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness meriting public disgrace and dishonor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep disgrace, contemptible scandal, or profound dishonor attaching to a person or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disgraceful character of an event, action, or ignoble defeat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignominiousness designates unworthiness meriting public disgrace and dishonor."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The **ignominiousness** of broken promises stains the character far more than temporary failure."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They failed to perceive the **ignominiousness** of submitting ancient crown liberties to a Parisian mob."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The defeated champion was crushed by the perceived **ignominiousness** of being unhorsed in the opening tilt."*

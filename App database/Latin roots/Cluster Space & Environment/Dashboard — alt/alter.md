@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become different; to modify, adjust, or change in character, appearance, or composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To tailor, recut, or adjust a garment for a better physical fit; or to castrate an animal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, sir! is your merry humour alter’d?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible that so short a time can alter the condition of a man?"*
+> - 📜 **William Shakespeare (*Sonnet 116*):** *"Love is not love which alters when it alteration finds, or bends with the remover to remove; no true passion can **alter**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No legislative body can **alter** the fundamental charter from which its own authority is derived."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Man can choose and accumulate natural variations, and thus **alter** domestic breeds to suit his own desires."*

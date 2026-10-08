@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altering
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sterilization of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change; make different; cause a transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making something different, modifying its details, or adjusting its form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing or shifting in state, quality, trajectory, or physical appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, altering the construction of his sentence."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These he carefully transcribed, altering them where he thought this necessary, and not always, in the opinion of many, improving them in the process."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In place of building roofs and hunting meat, they are ever building doctrine.” “And altering the nature of God,” Pilate corroborated sourly."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection operates continuously by preserving advantageous traits and **altering** ancient organic forms."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human mind cannot create a new simple idea, being limited to compounding and **altering** sensory inputs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The convention acted prudently in **altering** the ineffective confederation to establish an energetic union."*

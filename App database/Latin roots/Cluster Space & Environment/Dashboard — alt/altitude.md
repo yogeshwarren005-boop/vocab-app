@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altitude
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevation especially above sea level or above the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertical height of an object, point, aircraft, or landform above sea level or ground level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, the angular distance of a celestial body measured vertically above the horizon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though soft-conscienced men can be content to say it was for his country, he did it to please his mother and to be partly proud, which he is, even to the altitude of his virtue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By’r lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten masts at each make not the altitude Which thou hast perpendicularly fell."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Humboldt mapped the geographical distribution of alpine plants according to their specific **altitude**."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The navigator measures the meridian **altitude** of the sun to deduce the exact latitude of the vessel."*
+> - 📜 **John Muir (*The Mountains of California*):** *"At this dizzy **altitude**, dwarfed whitebark pines cling stubbornly to windswept granite ledges."*

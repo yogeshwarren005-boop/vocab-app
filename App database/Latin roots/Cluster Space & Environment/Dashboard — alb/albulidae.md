@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albulidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bonefish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bonefish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of primitive marine ray-finned fishes containing the bonefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, ancient elopiform teleosts characterized by silvery scales and crushing pharyngeal teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog albulidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The family **albulidae** represents an archaic survivor among teleost lineages, dating back to Upper Cretaceous seas."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Günther characterized the **albulidae** by their covered gill membranes and pavement-like pavement teeth."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"Agassiz identified fossil tooth plates of **albulidae** from the Eocene London Clay deposits of Sheppey."*

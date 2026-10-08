@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altimeter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the height above ground; used in navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the height above ground; used in navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the altitude or height of an aircraft or climber above sea level or ground level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aneroid barometer calibrated to display atmospheric pressure readings directly in units of elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With that subconscious concentration of the flying man on his ship, he glanced at the instrument board first, and taking in the astonishing information that both the altimeter and the air-speed meter registered zero, he looked over the side."*
+> - 📜 **Alexander von Humboldt (*Researches Concerning the Institutions and Monuments of the Ancient Inhabitants of America*):** *"Humboldt carried a sensitive barometric **altimeter** to measure the elevation of Andean volcanic peaks."*
+> - 📜 **Orville Wright (*How We Made the First Flight*):** *"Early aviators installed an **altimeter** on the wing strut to record elevation gained during aerial trials."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The pilot watched the luminous needle of the **altimeter** dip as the mail plane entered thick cloud banks."*

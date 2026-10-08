@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albitic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to albite feldspar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to albite feldspar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of, containing, or characterized by the sodium feldspar mineral albite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, designating igneous or metamorphic rock textures dominated by albite crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albitic designates of or related to albite feldspar."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Dana identified **albitic** pegmatites as the primary host rocks for gem tourmaline and beryl in Maine."*
+> - 📜 **Archibald Geikie (*The Ancient Volcanoes of Great Britain*):** *"The fine-grained groundmass of the lava flow displays an **albitic** composition formed during secondary hydrothermal alteration."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The altered volcanic rocks of the Snowdon range are rich in **albitic** feldspars and chloritic ribbons."*

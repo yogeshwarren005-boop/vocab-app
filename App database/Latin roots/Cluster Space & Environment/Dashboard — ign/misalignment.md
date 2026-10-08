@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # misalignment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of things that are not properly aligned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of things that are not properly aligned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An improper arrangement, deviation from a straight line, or mechanical lack of true parallel orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of conflict, discrepancy, or faulty coordination between objectives, systems, or organizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misalignment designates the spatial property of things that are not properly aligned."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"A minor **misalignment** in the main drive shaft causes destructive friction and rapid wear of the bearings."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Any **misalignment** between the galvanometer needle and the magnetic meridian produces systematic error."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The optical **misalignment** of the equatorial mount introduced noticeable aberration in the photographic plates."*

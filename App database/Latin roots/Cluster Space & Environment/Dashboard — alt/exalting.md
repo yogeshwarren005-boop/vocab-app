@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # exalting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, glorify, or honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with sublime emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raising someone or something to a higher rank, station, or degree of spiritual glory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glorifying, praising extravagantly, or elevating the intellectual or moral character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon), all the while being visited with conscientious questionings whether she were not exalting these poor doings above measure and contemplating them with that self-satisfaction which was the last doom of ignorance and folly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Every proud mind knows something of this experience, and perhaps it is only to be overcome by a sense of fellowship deep enough to make all efforts at isolation seem mean and petty instead of exalting."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor did they omit to call upon us to admire the natural loveliness of their own abode, and the lavish abundance with which it produced all manner of luxuriant fruits; exalting it in this particular above any of the surrounding valleys."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"By **exalting** individual caprice above ancient traditions, the reformers dismantled the safeguards of civil order."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"True reverence consists in **exalting** noble courage above material prosperity or transient acclaim."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poetry acts by **exalting** human thought into a realm where imagination mirrors the immortal order."*

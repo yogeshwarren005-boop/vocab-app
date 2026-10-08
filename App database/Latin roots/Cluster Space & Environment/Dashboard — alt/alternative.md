@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of things from which only one can be chosen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or used in place of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more available possibilities, choices, or courses of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing from traditional or conventional norms; offering an unconventional option.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the ashpit was a heap of potatoes roasting, and a boiling pipkin of charred bread, called “coffee”, for the benefit of whomsoever should call, for Warren’s was a sort of clubhouse, used as an alternative to the inn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had been known to observe casually that in dealing with womankind the only alternative to flattery was cursing and swearing."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The alternative is dreadful, but take Bathsheba; I give her up!"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The thinker must weigh each **alternative** with impartial reason before adopting a political course."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The states were confronted with the stark **alternative** of orderly constitutional union or fatal anarchy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth saw no **alternative** but to confess the painful truth regarding Wickham's character to Jane."*

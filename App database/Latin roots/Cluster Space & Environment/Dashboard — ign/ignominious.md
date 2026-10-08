@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignominious
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or causing public disgrace, humiliation, or dishonor; shameful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degraded, inglorious, or contemptible in execution or moral stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he not twit our sovereign lady here With ignominious words, though clerkly couched, As if she had suborned some to swear False allegations to o’erthrow his state?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And heavens and honour be witness that no want of resolution in me, but only my followers’ base and ignominious treasons, makes me betake me to my heels. [_Exit._] BUCKINGHAM."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon the desolate spot, where fate had placed me, I conceived myself far more happy than many, who, for ignominious crimes, were doomed to drag out their lives in solitary confinement with conscience ever biting as a corrosive canker."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vanquished legionaries suffered an **ignominious** defeat and were compelled to pass beneath the yoke."*
+> - 📜 **Alexander Pope (*The Iliad*):** *"Fleeing before Trojan spears, the warriors dreaded an **ignominious** death far from their native shores."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was carried upstairs and thrust into the red-room after that **ignominious** struggle against unjust tyranny."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albatrellus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family polyporaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family polyporaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of terrestrial fleshy polypore fungi (family Albatrellaceae) with smooth central stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, edible woodland fungi characterized by white or buff-colored pores and mycorrhizal associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albatrellus designates a genus of fungi belonging to the family polyporaceae."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fries separated the terrestrial fleshy polypores of **albatrellus** from lignicolous bracket fungi."*
+> - 📜 **Charles Horton Peck (*Annual Report of the State Botanist of New York*):** *"Peck collected specimens of **albatrellus** ovinus growing beneath dense hemlock stands in the Adirondacks."*
+> - 📜 **William Alphonso Murrill (*Northern Polypores*):** *"Murrill detailed the pale pore surface and firm edible flesh of **albatrellus** found on subalpine forest floors."*

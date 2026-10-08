@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altercate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a disagreement over something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a disagreement over something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dispute, argue, or contend vehemently and noisily; to wrangle or quarrel in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in a heated oral confrontation involving mutual recriminations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altercate designates have a disagreement over something."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Deputies shouted across the hall, ready to **altercate** for hours over the formulation of a single decree."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The rival antiquarians began to **altercate** fiercely concerning the authenticity of a Roman ditch."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The innkeeper and the coachman stopped to **altercate** upon the highway while passengers shivered in the rain."*

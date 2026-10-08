@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altercation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy quarrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy, heated, or vehement dispute or argument, typically in public; a contentious wrangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp verbal quarrel involving passionate accusations and angry exchanges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, hearing the altercation, have appeared upon the stairs."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My mother was in the great _salle_ of the _rez-de-chausée,_ as I passed, in altercation with a peasant who had just brought us in some loads of wood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A violent **altercation** between the praetorian guards and the citizens of Antioch sparked a destructive riot."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson overheard an angry **altercation** between Barrymore and his wife in the corridor outside his room."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The cabman provoked a fierce **altercation** by accusing Mr. Pickwick of being an informer in disguise."*

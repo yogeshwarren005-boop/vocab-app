@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albigensian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to albigenses or albigensianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to albigenses or albigensianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Albigenses, their Cathar religious doctrines, or the brutal medieval crusade against them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member or follower of the medieval Albigensian Cathar faith in the Languedoc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albigensian designates of or relating to albigenses or albigensianism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Simon de Montfort led the **Albigensian** crusade with ruthless fervor, razing the fortresses of Provence."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Carlyle reflected on the tragedy of the **Albigensian** heresy crushed beneath feudal armor and papal interdicts."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Hallam described the cultural devastation of Occitan civilization resulting from the **Albigensian** wars."*

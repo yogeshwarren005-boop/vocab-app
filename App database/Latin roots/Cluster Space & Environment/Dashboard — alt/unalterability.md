@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unalterability
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being alterable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fixed and unchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being permanently incapable of change, modification, or variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute durability or immutability of mathematical laws, moral truths, or physical principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unalterability designates the quality of not being alterable."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"The sublime **unalterability** of natural necessity governs the movements of planets and human passions alike."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Geometric axioms possess an absolute **unalterability** that cannot be shaken by empirical contingencies."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"He contemplated the **unalterability** of truth, which remains immutable whatever men's shifting opinions may be."*

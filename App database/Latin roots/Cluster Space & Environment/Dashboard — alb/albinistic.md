@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albinistic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or affected by albinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or affected by albinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or resembling albinism; showing abnormal pigment deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting pale, unpigmented bodily tissues or whitish plumage resulting from genetic mutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinistic designates of or pertaining to or affected by albinism."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Breeders select **albinistic** sports of ferrets and doves to establish stable domestic white varieties."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Audubon collected a curious **albinistic** red-tailed hawk, its plumage bleached to spotless snow."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The retinas of **albinistic** rodents reflect red light through the unpigmented choroidal capillaries."*

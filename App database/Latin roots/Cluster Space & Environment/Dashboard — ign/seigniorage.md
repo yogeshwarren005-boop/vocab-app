@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # seigniorage
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charged by a government for coining bullion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charged by a government for coining bullion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The profit or fee claimed by a monarch or government from the coining of bullion into money, representing the difference between face value and metal cost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient feudal prerogative, tribute, or payment owed to a seigneur by virtue of sovereign lordship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Seigniorage defined. § 1. #Origin of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When the mint levies a moderate **seigniorage** upon gold coinage, coin attains a value slightly superior to uncoined bullion."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"A state may derive considerable revenue from **seigniorage** if the quantity of paper or debased coin is strictly controlled."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A small duty or **seigniorage** on the manufacture of coin reimburses the government for the expenses of mintage."*

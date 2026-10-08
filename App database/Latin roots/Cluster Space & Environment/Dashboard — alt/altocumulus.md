@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altocumulus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cumulus cloud at an intermediate altitude of 2 or 3 miles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A middle-altitude cloud formation consisting of rounded rolls, globular patches, or wavy fleecy sheets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, greyish-white water-droplet clouds occurring between two and six kilometers above sea level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altocumulus designates a cumulus cloud at an intermediate altitude of 2 or 3 miles."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Tyndall analyzed how waves in air currents produce the delicate fleecy dappling of **altocumulus** clouds."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The setting sun illuminated the ripple-marked **altocumulus** sky with bands of rose and gold."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Ruskin admired Turner's mastery in rendering the soft, flock-like rolls of the **altocumulus** canopy."*

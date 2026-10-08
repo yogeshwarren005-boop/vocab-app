@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albinotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or affected by albinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or affected by albinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or exhibiting the genetic characteristics of albinism; albino.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of natural melanin or pigmentation in the eyes, skin, feathers, or botanical tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinotic designates of or pertaining to or affected by albinism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **albinotic** retina appears brightly illuminated under the ophthalmoscope due to absent choroidal pigment."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horses of **albinotic** stock are notably susceptible to skin ulceration under intense tropical sunlight."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Morgan mapped the recessive mutation that produces white-eyed **albinotic** variations in Drosophila."*

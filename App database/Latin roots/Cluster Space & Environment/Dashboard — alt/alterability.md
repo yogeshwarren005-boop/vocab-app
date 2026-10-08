@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alterability
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being alterable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being alterable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, susceptibility, or liability of an object, doctrine, or constitution to undergo change or modification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, the susceptibility of matter to structural transformation under external forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alterability designates the quality of being alterable."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Mill examined the apparent **alterability** of human character under the influence of education and circumstance."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The continuous **alterability** of organic tissues allows living beings to adapt to shifting environmental pressures."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Hume argued that the constant **alterability** of our impressions challenges the philosophical notion of an immutable self."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignatius
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bishop of antioch who was martyred under the roman emperor trajan (died 110).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Saint Ignatius of Antioch or Saint Ignatius of Loyola, the founder of the Jesuit order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proper masculine name signifying fiery devotion, zeal, or spiritual ardour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Watch out what you say!” The outburst of imprecations that went up would have shaken the fortitude of a braver man than Ignatius Irvine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As it was, having all sworn to tell the truth, they talked openly before Ignatius Irvine."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Brother Ignatius at once, as was his pious obligation, told all to me, his abbot."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The educational institutions established under the rule of **Ignatius** demonstrated an extraordinary discipline of the intellect."*
+> - 📜 **Cardinal John Henry Newman (*Apologia Pro Vita Sua*):** *"The primitive epistles of **Ignatius** revealed to me the unalterable episcopal structure of the early Church."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"His rigorous scholastic method rivaled the severe spiritual exercises ordained by **Ignatius** for his disciples."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # nonaligned
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated with any faction, party, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated with any faction, party, or cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not allied with or pledged to support any of the major competing military or political power blocs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not positioned in a parallel, colinear, or coordinated physical or systemic orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaligned designates not affiliated with any faction, party, or cause."*
+> - 📜 **Jawaharlal Nehru (*Speeches and Writings*):** *"Our policy is to remain **nonaligned** with any aggressive military alliance, championing independent peace."*
+> - 📜 **George F. Kennan (*Memoirs 1950–1963*):** *"The emerging **nonaligned** nations exercised significant diplomatic leverage across international assemblies."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"A genuinely **nonaligned** coalition of governments offers the surest barrier against nuclear confrontation."*

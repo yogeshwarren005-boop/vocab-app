@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # inalterable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed or altered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed or altered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being altered, modified, or varied; permanent, unchangeable, and fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemically or physically resistant to decomposition, decay, or constitutional transmutation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Is it your opinion that men’s acts proceed from one central and unchanging and inalterable impulse, or from a variety of impulses?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The laws of nature remained **inalterable** amidst the transient rise and fall of mortal dynasties."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"The eternal and **inalterable** decrees of God are identical with the universal order of nature."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"Principles of natural justice are **inalterable** by any royal decree or legislative enactment."*

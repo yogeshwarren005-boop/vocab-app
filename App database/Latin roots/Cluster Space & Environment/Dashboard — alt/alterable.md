@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alterable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed or altered in some characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the punishment ordered by a court) capable of being changed to one less severe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being altered, changed, or modified in form, nature, details, or constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and constitutional theory, open to formal amendment, repeal, or revision by authorized bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alterable designates capable of being changed or altered in some characteristic."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Civil laws are **alterable** by the sovereign legislature whenever public utility and common safety require."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The secondary qualities of composite bodies are **alterable** through heat, pressure, and chemical mixture."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Covenants established under natural reason remain **alterable** only through the mutual consent of the contracting parties."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuminuric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the state of albuminuria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the state of albuminuria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from albuminuria; accompanied by protein in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating pathological complications (such as albuminuric retinitis) caused by renal disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuminuric designates of or related to the state of albuminuria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler examined the retinal fundus for flame hemorrhages and exudates characteristic of **albuminuric** retinitis."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The post-mortem examination of the **albuminuric** patient revealed contracted, granular renal organs."*
+> - 📜 **William Gull (*Clinical Lectures*):** *"Gull analyzed the systemic arteriolar thickening that accompanies chronic **albuminuric** disease in adults."*

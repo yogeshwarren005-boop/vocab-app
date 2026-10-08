@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alignment
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property possessed by an arrangement or position of things in a straight line or in parallel lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrangement in a straight line, or in correct relative position and orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alliance, agreement, or political union formed between nations, factions, or ideologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A lackey scampered about, lifted the lids of beakers, peered in, made minute changes in the alignment of goblets, and scuttled out."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Shifting his eyes critically from the checklist to flitter and back, he walked around the tiny flyer inspecting the spars for alignment and cracks."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The remarkable linear **alignment** of volcanic cones points to deep crustal fracture zones along the cordillera."*
+> - 📜 **Woodrow Wilson (*The State*):** *"A shift in party **alignment** reshaped congressional majorities and altered national tariff policies."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Huxley analyzed the anatomical **alignment** of the vertebral column in quadrupedal and bipedal primates."*

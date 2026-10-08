@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignitible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of burning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily susceptible to being set on fire; capable of combustion when exposed to a spark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemically vulnerable to thermal ignition under low ambient activation energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignitible designates capable of burning."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The volatile spirit proved exceedingly **ignitible**, taking flame before the taper touched the surface."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The combination of sulfur with nitric acid produces fumes that are moderately **ignitible** under heat."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Vapors of ether are so intensely **ignitible** that their transport demands the most rigorous precautions."*

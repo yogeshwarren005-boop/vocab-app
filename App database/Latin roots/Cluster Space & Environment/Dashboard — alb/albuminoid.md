@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuminoid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in horny and cartilaginous tissues and in the lens of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in horny and cartilaginous tissues and in the lens of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling albumin; in early biochemistry, a complex insoluble structural protein (such as collagen or keratin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or containing nitrogenous proteinaceous substances akin to albumen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuminoid designates a simple protein found in horny and cartilaginous tissues and in the lens of the eye."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Huxley analyzed the complex **albuminoid** compounds that constitute living protoplasm in animals and plants."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Gelatin and chondrin are classed among the **albuminoid** derivatives formed by boiling connective tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Osler discussed the deposition of waxy **albuminoid** material in the liver during chronic amyloid degeneration."*

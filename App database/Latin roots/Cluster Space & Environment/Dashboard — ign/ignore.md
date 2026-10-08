@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignore
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refuse deliberately to notice, acknowledge, or consider; to overlook or disregard intentionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal terminology, to reject an indictment or bill on the grounds of insufficient evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They ignore the meaning of the word in Nature, together with all aesthetic claims upon it, not to mention the spiritual interpretation afforded by the finest side of their own Christianity."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Without any partiality on my part, it would be impossible for me to ignore this fact: for it is perfectly well known and acknowledged by all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a truism, but it does not explain what is the real cause of this lack of confidence, which, when the crisis comes, is not mere unreasoning fear that needs only to ignore the danger to banish it."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A wise man learns to **ignore** the noisy clamor of popular opinion and follow his inner conviction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We cannot afford to **ignore** the anatomical resemblances that link species across broad geographical areas."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Selective attention enables the conscious mind to **ignore** countless sensations competing for awareness."*

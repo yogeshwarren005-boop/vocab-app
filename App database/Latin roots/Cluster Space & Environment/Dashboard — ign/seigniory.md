@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # seigniory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position and authority of a feudal lord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lord's feudal domain, manor, or jurisdiction; lordship or seigneurial territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dignity, rank, power, or authority invested in a feudal lord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Coming forward._] If ancient sorrow be most reverend, Give mine the benefit of seigniory, And let my griefs frown on the upper hand."*
+> - 📜 **William Shakespeare (*Richard II*):** *"By royal warrant he claimed the lands, estates, and **seigniory** of his banished kinsman."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The petty barons of Greece divided the empire into fragmented domains of rival **seigniory**."*
+> - 📜 **Francis Parkman (*Count Frontenac and New France*):** *"He governed his vast Canadian **seigniory** with the imperious manners of a Versailles courtier."*

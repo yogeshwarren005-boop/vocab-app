@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altogether
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for nakedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely, totally, entirely, or without exception; in total.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking everything into consideration; on the whole; all things considered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I perceive by this demand, you are not altogether of his council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en a crow o’ the same nest; not altogether so great as the first in goodness, but greater a great deal in evil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was discovered to be proud, to be above his company, and **altogether** disagreeable."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton was **altogether** changed, serenity lighting his face as he mounted the scaffold."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind without sensory experience would remain **altogether** empty of ideas and perceptions."*

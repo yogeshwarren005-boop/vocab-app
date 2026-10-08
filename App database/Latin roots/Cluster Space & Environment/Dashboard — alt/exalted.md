@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # exalted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, glorify, or honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with sublime emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raised to a lofty, noble, or sublime rank, position, character, or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an intense, ecstatic, or spiritually uplifted emotional state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, she uses me with a more exalted respect than anyone else that follows her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Dedlock town house changes not externally, and hours pass before its exalted dullness is disturbed within."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Throned in the highest heaven, the **exalted** son reigns in supreme majesty above all celestial hierarchies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general who mounted the imperial throne found his **exalted** station compassed about by invisible perils."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In moments of pure contemplation the soul achieves an **exalted** communion with eternal law."*

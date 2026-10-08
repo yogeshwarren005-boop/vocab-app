@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altair
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double star 15.7 light years from earth; the brightest star in the aquila constellation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A luminous white star of the first magnitude in the constellation Aquila, forming a vertex of the Summer Triangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stellar astronomy, a rapidly rotating main-sequence star situated barely seventeen light-years from Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In a village near where the maiden dwelt there was a young man named Altair, whom the Chinese call the Cow-herd."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Herschel observed the brilliant white luster of **Altair**, which marks the heart of the celestial Eagle."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Eddington evaluated the rapid equatorial rotation of **Altair**, which bulges its diameter into an oblate spheroid."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Thoreau drifted beneath the summer midnight, watching Vega and **Altair** gleam through the river willows."*

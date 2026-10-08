@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alb
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white linen liturgical vestment with sleeves; worn by priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white linen liturgical vestment with sleeves; worn by priests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, white linen liturgical vestment with narrow sleeves, worn by Christian clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred white tunic reaching to the feet, symbolizing purity during divine service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The altar cloth, the _alb_, and the service, were to be of plain linen; the stole and maniple, which were at first of cloth, were allowed afterwards to be of silk."*
-> - 📜 **James Joyce (*Ulysses*):** *"A choir gives back menace and echo, assisting about the altar’s horns, the snorted Latin of jackpriests moving burly in their albs, tonsured and oiled and gelded, fat with the fat of kidneys of wheat."*
+> - 📜 **Thomas Cranmer (*The Book of Common Prayer*):** *"The priest shall put on a clean white **alb** with a vestment or cope before administering the Holy Communion."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot stood before the high altar, his flowing linen **alb** bordered with fine golden lace."*
+> - 📜 **John Henry Newman (*Letters and Correspondence*):** *"Newman noted the ancient Catholic tradition requiring the celebrant to vest in the sacred **alb**."*

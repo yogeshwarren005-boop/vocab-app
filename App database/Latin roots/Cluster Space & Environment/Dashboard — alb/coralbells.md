@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coralbells
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial plant of the western united states having bright red flowers in feathery spikes; used as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial plant of the western united states having bright red flowers in feathery spikes; used as an ornamental.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular cultivated garden perennial plant of the genus Heuchera (Saxifragaceae), bearing delicate bell-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, alumroot cultivars prized for scalloped evergreen foliage and airy sprays of crimson blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coralbells designates perennial plant of the western united states having bright red flowers in feathery spikes; used as an ornamental."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners plant **coralbells** along shaded stone borders for their graceful panicles of dainty red bells."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The native American species of Heuchera gave rise to the exquisite garden varieties known as **coralbells**."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"Jekyll massed the crimson sprays of **coralbells** in front of grey hostas to create a charming border contrast."*

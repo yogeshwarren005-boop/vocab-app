@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altace
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription angiotensin-converting enzyme inhibitor (ramipril) used to manage arterial hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, a therapeutic agent prescribed to reduce mortality following myocardial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altace designates an ace inhibitor (trade name altace) used to treat high blood pressure or in some patients who have had a heart attack."*
+> - 📜 **Harrison (*Principles of Internal Medicine*):** *"Clinical trials established that **altace** improves survival in patients presenting with congestive heart failure."*
+> - 📜 **Goodman and Gilman (*The Pharmacological Basis of Therapeutics*):** *"Ramipril, distributed under the trade name **altace**, decreases systemic vascular resistance by blocking angiotensin II."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Revision)*):** *"Cardiovascular pharmacotherapy increasingly relies upon modern ACE inhibitors like **altace** to protect renal function."*

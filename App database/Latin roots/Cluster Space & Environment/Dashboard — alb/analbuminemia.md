@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # analbuminemia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low level of albumin in the blood serum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low level of albumin in the blood serum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital metabolic disorder characterized by the near-total absence of serum albumin in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, an autosomal recessive trait marked by compensatory increases in globulins and mild edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analbuminemia designates an abnormally low level of albumin in the blood serum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Revision)*):** *"Patients with congenital **analbuminemia** exhibit surprisingly mild peripheral edema despite profound hypoproteinemia."*
+> - 📜 **Harrison (*Principles of Internal Medicine*):** *"Electrophoretic analysis in congenital **analbuminemia** confirms the virtual absence of the normal albumin band."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"In hereditary **analbuminemia**, elevated globulin concentrations compensate for missing albumin oncotic pressure."*

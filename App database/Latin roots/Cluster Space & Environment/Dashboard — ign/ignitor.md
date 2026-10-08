@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignitor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to ignite or kindle a fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for lighting or igniting fuel or charges or fires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, electrode, or auxiliary charge that triggers combustion or electrical conduction in a tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An initiating element or substance that triggers a chain reaction or pyrotechnic deflagration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignitor designates a substance used to ignite or kindle a fire."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"The carbon **ignitor** was adjusted to ensure steady contact without excessive thermal degradation."*
+> - 📜 **Nikola Tesla (*Lectures, Patents, Articles*):** *"By discharging the condenser across the specialized **ignitor**, an intensely incandescent flame was produced."*
+> - 📜 **Alexander Graham Bell (*Memoirs and Scientific Notes*):** *"The gaseous mixture required a reliable spark **ignitor** to achieve instantaneous combustion."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # deign
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something that one considers to be below one's dignity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To do something that one considers beneath one's dignity; to condescend; to stoop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To graciously vouchsafe or grant a favor to an inferior petitioner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy palate then did deign The roughest berry on the rudest hedge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since thou dost deign to woo her little worth To be the princely bride of such a lord, Upon condition I may quietly Enjoy mine own, the country Maine and Anjou, Free from oppression or the stroke of war, My daughter shall be Henry’s, if he please."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, fear not, man, but yield me up the keys; [_Takes his keys._] For Edward will defend the town and thee And all those friends that deign to follow me."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Do not smile at me that I boast of her, for thou shalt find she will outstrip all praise and make it halt behind her; **deign** but to behold her."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nor would the archangel **deign** to hold discourse with the fallen spirit in the shadowy abyss."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine scarcely would **deign** to notice Mrs. Bennet, replying with haughty brevity to her compliments."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albescent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming or shading into white.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming or shading into white.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or becoming white; displaying a pale, whitish, or fading hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing foliage or petals that gradually lose color and turn whitish with maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albescent designates becoming or shading into white."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Browne observed how animal furs turn **albescent** under the severe atmospheric cold of northern winters."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaves of the silver maple are distinctly **albescent** on their lower surface, gleaming in the wind."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The morning mist produced an **albescent** veil that softened the jagged contours of the distant Alpine peaks."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # reigning
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sovereign power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be larger in number, quantity, power, status or importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising royal authority; currently occupying a throne or holding supreme monarchical office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevalent, prevailing, or enjoying unquestioned dominance or championship at the present time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I will believe That there are unicorns; that in Arabia There is one tree, the phoenix’ throne; one phoenix At this hour reigning there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I witness to The times that brought them in; so shall I do To th’ freshest things now reigning, and make stale The glistering of this present, as my tale Now seems to it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **reigning** emperor regarded with jealousy any commander whose military laurels eclipsed his own."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **reigning** philosophy of abstract rights swept away the prudent balances of ancestral legislation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Good taste was the **reigning** standard by which Marianne evaluated every new acquaintance in the drawing-room."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignorance
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of knowledge or education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of knowledge or education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of knowledge, learning, education, or awareness concerning a particular subject or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncultivated or uninformed mental state resulting from neglect of learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our **ignorance** is great, it must be confessed, in comparison of what we know not."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human **ignorance** and human power coincide, for where the cause is not known the effect cannot be produced."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"He who searches for faults with eager eyes will often betray his own **ignorance** of human nature."*

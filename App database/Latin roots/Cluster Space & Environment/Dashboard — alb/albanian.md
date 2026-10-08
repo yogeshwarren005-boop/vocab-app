@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albanian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of albania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken by the people of albania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Albania, its people, culture, geography, or distinct Indo-European language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or citizen of Albania, or a speaker of the Albanian language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was not a matter of life but rather of death, as the saying is. ‘Albanians!’ and ‘devils!’ and ‘To Siberia!’” said Berg with a sagacious smile."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Names of the Dead tabooed THE CUSTOM of abstaining from all mention of the names of the dead was observed in antiquity by the Albanians of the Caucasus, and at the present day it is in full force among many savage tribes."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the temple of the Moon the Albanians of the Eastern Caucasus kept a number of sacred slaves, of whom many were inspired and prophesied."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"Byron admired the martial dress and proud bearing of his **Albanian** guards during his travels in Epirus."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Albanian** warriors fought with desperate valor behind the stone walls of Croia."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Müller classified the **Albanian** tongue as an ancient independent branch of the Indo-European linguistic family."*

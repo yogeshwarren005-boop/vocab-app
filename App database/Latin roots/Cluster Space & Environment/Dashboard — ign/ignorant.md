@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignorant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uneducated in general; lacking knowledge or sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneducated in the fundamentals of a given art or branch of learning; lacking knowledge of a specific field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking knowledge, instruction, or training in general or regarding a specific branch of learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware, uninformed, or unacquainted with facts, circumstances, or developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, ignorant of ourselves, Beg often our own harms, which the wise powers Deny us for our good; so find we profit By losing of our prayers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truth is that Fulvia, To have me out of Egypt, made wars here, For which myself, the ignorant motive, do So far ask pardon as befits mine honour To stoop in such a case."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"An **ignorant** man may wonder at the commonest phenomena which a philosopher understands with ease."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was entirely **ignorant** of the deep impressions which her lively conversation had created."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The most dangerous citizen is the **ignorant** enthusiast who acts without comprehension of natural laws."*

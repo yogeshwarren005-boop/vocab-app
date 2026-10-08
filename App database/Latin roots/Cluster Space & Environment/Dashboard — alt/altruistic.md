@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altruistic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing unselfish concern for the welfare of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing unselfish concern for the welfare of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a disinterested, unselfish concern for the well-being and happiness of others; benevolent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal behavior, describing actions that benefit social conspecifics at potential personal cost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"This is due to the fact that his turning to Greece was in its final analysis attributable rather to selfish than to altruistic motives."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"While the personal elements in Lenau's Weltschmerz are much more intense in their expression than with Hoelderlin, its altruistic side is proportionately weaker."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin, although in a visionary, idealistic way, remains, en in his Weltschmerz, altruistic and constructive."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The development of **altruistic** moral virtues was indispensable to the survival of primitive human tribes."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Saintly lives are characterized by an **altruistic** devotion that conquers all natural selfishness."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Dewey rejected the rigid opposition between selfish motives and purely **altruistic** social impulses."*

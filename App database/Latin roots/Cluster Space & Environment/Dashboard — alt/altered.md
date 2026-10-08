@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altered
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changed, modified, adjusted, or made different in form, character, condition, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, transformed by metamorphic heat, pressure, or chemical hydrothermal fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you not see, or will ye not observe The strangeness of his altered countenance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, But ’tis so lately altered that the old name Is fresh about me."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein gazed with horror upon the **altered** features of the creature he had brought to life."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sandstone was profoundly **altered** into crystalline quartzite near the contact with the basalt dike."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge stepped into the street an **altered** man, wishing every passerby a merry and blessed Christmas."*

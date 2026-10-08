@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignited
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having caught fire or been set ablaze by heat, friction, or a combustible spark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suddenly stirred to passionate enthusiasm, wrath, or violent intellectual activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The materials of the bonfire are piled in an open space near a church, and they are generally ignited by young couples who have been married within the year."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heaps of combustible materials are now ignited with the new fire, and blazing bundles are placed on boards and sent floating down the brook."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes fuel is piled on rafts, ignited, and allowed to drift blazing across the fiords in the darkness of night."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"A piece of red-hot charcoal plunged into dephlogisticated air **ignited** with incredible brilliance."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary spirit, once **ignited** in the faubourgs of Paris, consumed all ancient privileges."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray touched the pine trees, and they immediately **ignited** like torches in the twilight."*

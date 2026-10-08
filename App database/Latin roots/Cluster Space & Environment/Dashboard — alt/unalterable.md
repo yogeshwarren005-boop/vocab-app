@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # unalterable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed or altered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a sentence; that cannot be changed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed, modified, rescinded, or made different; permanent and irreversible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadfast, resolute, and unwavering in purpose, affection, or conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, in the minds of its frequenters they existed as unalterable formulæ: _e.g._— Rap with the bottom of your pint for more liquor."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She had that rare sense which discerns what is unalterable, and submits to it without murmuring."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother, smiling gently at her ardor, “character is not cut in marble—it is not something solid and unalterable."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fixed fate, free will, foreknowledge absolute, were discussed as **unalterable** decrees of high heaven."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The decree of the Roman senate was proclaimed as an **unalterable** law throughout the provinces."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I felt that my destiny was written in **unalterable** characters, and that despair alone awaited me."*

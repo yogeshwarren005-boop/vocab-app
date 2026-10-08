@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coalbin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bin for holding coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bin for holding coal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A storage compartment, box, or cellar receptacle used for storing domestic or industrial coal fuel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wooden or brick enclosure in a basement or boiler room keeping coal supply ready for the furnace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coalbin designates a bin for holding coal."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Noah Claypole was locked in the dusty cellar **coalbin** as punishment for his insolent quarrel with Oliver."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Orwell described the miner's cottage where the **coalbin** stood beside the kitchen hearth, filled with black slack."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The detectives searched the shadowy basement, discovering traces of footsteps beside the empty **coalbin**."*

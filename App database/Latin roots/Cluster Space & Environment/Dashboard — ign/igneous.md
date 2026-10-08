@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # igneous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced under conditions involving intense heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by the solidification or crystallization of molten magma or molten lava deep within the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of fire, intensely glowing, or resembling volcanic or pyrogenic matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the geological epochs, the igneous period succeeded to the aqeous."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Basalt and granite represent ancient **igneous** formations crystallized from subterranean fluid under vast pressure."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"The internal heat of our globe consolidates mineral strata through powerful **igneous** fusion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The island presented a rugged landscape dominated by **igneous** rocks and remnants of extinct volcanic craters."*

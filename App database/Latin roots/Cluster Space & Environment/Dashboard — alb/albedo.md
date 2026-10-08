@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albedo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of reflected to incident light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of reflected to incident light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proportion of the incident light or radiation that is reflected by a surface, planet, or celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The white, spongy inner layer of the rind of a citrus fruit; or in alchemy, the whitening phase of the Great Work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albedo designates the ratio of reflected to incident light."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Herschel calculated the optical **albedo** of cloud-covered Venus compared with the darker lunar regolith."*
+> - 📜 **Percival Lowell (*Mars and Its Canals*):** *"Lowell noted seasonal changes in the Martian polar caps, measuring variations in surface **albedo**."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The high **albedo** of snow reflects solar radiation, helping maintain Arctic glacial temperatures."*

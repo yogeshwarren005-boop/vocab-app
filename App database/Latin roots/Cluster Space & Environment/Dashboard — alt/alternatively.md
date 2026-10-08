@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternatively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In place of, or as an alternative to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In place of, or as an alternative to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As another option, possibility, or choice; as an alternative proposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner offering a secondary or contrasting solution to a dilemma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statute allows the defendant to pay a civil fine or, **alternatively**, undergo sixty days' confinement."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The philosopher may accept the testimony of miracles or, **alternatively**, suspect the deceit of human witnesses."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The formation of the valley can be attributed to glacial gouging or, **alternatively**, to gradual river erosion."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albania
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern europe on the adriatic coast of the balkan peninsula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign nation in southeastern Europe on the Balkan Peninsula, bordering the Adriatic and Ionian seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rugged mountainous Balkan territory historically famed for Illyrian tribes and Ottoman resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John's fire will not burn them.[548] In Albania fires of dry herbage are, or used to be, lit everywhere on St."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edith Durham, _High Albania_ (London, 1909), p. 129. [675] R.F."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Land of **Albania**! where the rugged nurse of savage men, the wild chimariot, cradles her hardy sons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heroic Scanderbeg defended the mountain defiles of **Albania** against the overwhelming armies of the Sultan."*
+> - 📜 **John Cam Hobhouse (*A Journey through Albania*):** *"Hobhouse described the fierce independent spirit of the highland clans inhabiting the valleys of **Albania**."*

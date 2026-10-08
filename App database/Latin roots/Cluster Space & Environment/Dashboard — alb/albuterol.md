@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albuterol
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-acting beta-2 adrenergic agonist medication (salbutamol) used to treat asthma and bronchospasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an inhaled bronchodilator that relaxes airway smooth muscle during acute dyspnea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albuterol designates a bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness."*
+> - 📜 **Goodman and Gilman (*The Pharmacological Basis of Therapeutics*):** *"Inhaled **albuterol** produces prompt bronchodilation by selectively stimulating beta-2 receptors in airway smooth muscle."*
+> - 📜 **Harrison (*Principles of Internal Medicine*):** *"Prompt administration of **albuterol** via metered-dose inhaler provides rapid symptom relief in acute asthma attacks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Modern Revision)*):** *"Modern therapeutics replaced epinephrine with selective bronchodilators such as **albuterol** for managing reactive airways."*

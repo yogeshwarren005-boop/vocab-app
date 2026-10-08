@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignitable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of burning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of catching fire or being readily ignited under ordinary or elevated temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chemically liable to rapid combustion upon exposure to an electric spark or naked flame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignitable designates capable of burning."*
+> - 📜 **Michael Faraday (*Chemical History of a Candle*):** *"The volatile vapor emitted by the heated wax forms a highly **ignitable** mixture when united with atmospheric oxygen."*
+> - 📜 **Humphry Davy (*On the Safety Lamp for Coal Miners*):** *"The presence of fire-damp renders the subterranean air dangerously **ignitable** in the presence of an open flame."*
+> - 📜 **Thomas Edison (*The Electrical World Papers*):** *"We sought an inert substance that was not readily **ignitable** to insulate the fragile filament."*

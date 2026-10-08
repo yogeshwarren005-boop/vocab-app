@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignominy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of dishonor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of dishonor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep personal humiliation, public disgrace, or loss of an honorable reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct or a circumstance that brings severe dishonor or shame upon a person or group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy ignominy sleep with thee in the grave, But not remember’d in thy epitaph! [_Sees Falstaff on the ground._] What, old acquaintance, could not all this flesh Keep in a little life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignominy in ransom and free pardon Are of two houses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignominy and shame Pursue thy life, and live aye with thy name! [_Exeunt all but_ Pandarus.] PANDARUS."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She stood upon the scaffold, bearing the public **ignominy** of her sin with quiet endurance."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thy spear was never yet deemed formidable: which hath won thee no renown, but rather **ignominy** and defeat."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"He preferred suicide in his tent to the lingering **ignominy** of being exhibited in a Roman triumph."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternately
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alternating sequence or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alternating sequence or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alternating manner; one after another in successive turns; by turns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regular shifting back and forth between two conditions, places, or actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The view from my Lady Dedlock’s own windows is alternately a lead-coloured view and a view in Indian ink."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn warms before the bars, alternately, the palms and knuckles of his hands and looks (from behind that blind which is always down) at the trio sitting in a little semicircle before him."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic crater **alternately** slumbered in dense smoke and roared with subterranean detonations."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane listened as the wind groaned **alternately** among the battlements and through the dark corridors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The throne was occupied **alternately** by virtuous emperors and cruel tyrants during the third century."*

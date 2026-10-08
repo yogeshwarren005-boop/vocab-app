@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # reign
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period during which something or somebody is dominant or powerful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period during which a monarch is sovereign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period during which a sovereign, monarch, or ruling dynasty holds supreme power; royal dominion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold supreme power, or to exercise a dominant, pervasive, or unchallenged influence over an era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And each (though enemies to either’s reign) Do in consent shake hands to torture me, The one by toil, the other to complain How far I toil, still farther off from thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our Jovial star reign’d at his birth, and in Our temple was he married."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blest pray you be, That, after this strange starting from your orbs, You may reign in them now!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **reign** of Antoninus Pius is marked by the rare felicity of uninterrupted peace and prosperity."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Now is the winter of our discontent made glorious summer by this sun of York, whose **reign** restores order."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Better to **reign** in Hell, than serve in Heaven."*

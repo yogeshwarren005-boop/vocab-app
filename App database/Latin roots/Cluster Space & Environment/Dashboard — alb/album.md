@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # album
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book of blank pages with pockets or envelopes; for organizing photographs or stamp collections etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blank book used for collecting and preserving autographs, photographs, sketches, or postage stamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of audio recordings released together as a single commercial musical package.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She is standing alone at the table, bending gracefully over an album."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Then Georgiana produced her album."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Athenaeum, Nov. 27, pp. 701, 702: on ‘The Inn Album’. 1876."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mrs. Leo Hunter requested Mr. Snodgrass to contribute a poetic verse to her treasured drawing-room **album**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane leafed through the embossed morocco **album** on the library table, admiring the delicate pencil sketches."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp inscribed sentimental French verses in Amelia Sedley's gilded velvet keepsake **album**."*

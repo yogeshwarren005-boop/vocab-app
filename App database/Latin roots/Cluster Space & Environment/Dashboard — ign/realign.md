@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # realign
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Align anew or better.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align anew or better.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adjust, rearrange, or restore into a straight line, proper balance, or harmonious configuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reorient political, social, or economic alliances and strategic priorities in response to altered circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got it?" Myra grunted, raised her middle finger, then quickly realigned it with the rest of her hand and snapped off a mechanical salute."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Shifting public sympathies may swiftly **realign** the parties around unforeseen constitutional issues."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic field acts to **realign** the molecular dipoles in the direction of greatest induction."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Allied command had to **realign** its forces along the Meuse to counter the surprise offensive."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # seignior
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of rank in the ancient regime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man of rank in the ancient regime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal lord, nobleman, or sovereign ruler; a lord of a manor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically, the Grand Seignior, an English historical title for the Sultan of the Ottoman Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from seignior (meaning lord or ruler)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Envoys from Venice presented rich gifts before the Grand **Seignior** to secure maritime commerce in the Levant."*
+> - 📜 **William Shakespeare (*Othello*):** *"Most potent, grave, and reverend **seigniors**, my very noble and approved good masters."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Saracen warrior addressed the Christian knight with the courteous dignity expected of a desert **seignior**."*

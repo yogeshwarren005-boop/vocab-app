@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altazimuth
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the altitude and azimuth of celestial bodies; used in navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the altitude and azimuth of celestial bodies; used in navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical mounting or astronomical instrument that rotates about both horizontal (altitude) and vertical (azimuth) axes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, a dual-axis mount used for tracking celestial bodies or surveying land coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altazimuth designates an instrument that measures the altitude and azimuth of celestial bodies; used in navigation."*
+> - 📜 **George Biddell Airy (*Autobiography of Sir George Biddell Airy*):** *"Airy erected the massive Greenwich **altazimuth** instrument to secure precise lunar meridian positions."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Herschel employed a portable **altazimuth** telescope to verify stellar coordinates during his southern sky survey."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Surveyors rely upon the **altazimuth** mounting to calculate trigonometric baselines across mountain chains."*

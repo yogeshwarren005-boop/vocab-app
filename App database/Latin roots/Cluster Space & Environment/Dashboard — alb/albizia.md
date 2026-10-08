@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albizia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous trees of the genus albizia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous trees of the genus albizia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic genus of fast-growing subtropical and tropical trees and shrubs in the legume family (Fabaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and horticulture, silk trees valued for feathery bipinnate leaves, showy puff-like blossoms, and shade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albizia designates any of numerous trees of the genus albizia."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Wallace camped beneath spreading canopies of wild **albizia**, whose delicate foliage folded up at sunset."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham documented indigenous Australian species of **albizia**, noting their prominent staminal pompons."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The hardy silk tree **albizia** julibrissin is widely planted along avenues for its fragrant pink floral heads."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albacore
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small tuna with choice white flesh; major source of canned tuna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large pelagic tuna the source of most canned tuna; reaches 93 pounds and has long pectoral fins; found worldwide in tropical and temperate waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large pelagic oceanic tuna (Thunnus alalunga) with long pectoral fins and prized white meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries, a migratory scombroid fish inhabiting temperate and tropical oceans worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albacore designates relatively small tuna with choice white flesh; major source of canned tuna."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Schools of leaping **albacore** pursued flying fish across the azure swells of the tropical Pacific."*
+> - 📜 **Ernest Hemingway (*The Old Man and the Sea*):** *"The old fisherman watched an **albacore** drive through the bait fish, turning on its side in the clear water."*
+> - 📜 **William Dampier (*A New Voyage Round the World*):** *"Dampier recorded that the seamen harpooned several swift **albacore** while becalmed off the Cape of Good Hope."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # subaltern
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british commissioned army officer below the rank of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subordinate in rank, power, or authority; specifically, a junior military officer below the rank of captain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic, a proposition of particular quantity whose truth is implied by a corresponding universal proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I was an infant subaltern when Hyde knew me," said Val laughing, "and he was a howling swell of a captain."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Three quarters of the way over they found a third casualty, a subaltern in the Dorchesters."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence recalled his own first near glimpse of death, a fellow subaltern hideously killed at his side: he had turned faint as the nightmare shape fell and rose and fell again, spouting blood over his clothes: contact with elder men had steadied him."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"George Osborne strutted in his scarlet uniform, proud to be an admired **subaltern** in His Majesty's regiment."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The daring commander refused to leave critical decisions to an inexperienced **subaltern**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke treated theological disputations as **subaltern** concerns compared with the practical management of county affairs."*

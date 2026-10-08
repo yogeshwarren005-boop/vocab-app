@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignescent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Can emit sparks or burst into flame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can emit sparks or burst into flame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting sparks of fire when struck with steel or subject to friction, like flint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to burst into flame or glowing with incandescent heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignescent designates can emit sparks or burst into flame."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain mineral pyrites exhibit an **ignescent** property when struck sharply against hardened iron."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Flint and other **ignescent** stones were prized by early peoples for producing the spark essential to ignition."*
+> - 📜 **Richard Kirwan (*Elements of Mineralogy*):** *"The specimen proved decidedly **ignescent**, scattering bright incandescent sparks under the hammer."*

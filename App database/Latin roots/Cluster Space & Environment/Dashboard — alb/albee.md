@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albee
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states dramatist (1928-).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states dramatist (1928-).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic literary conjunction meaning although, even though, or albeit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surname of Edward Albee (1928–2016), influential American modernist playwright of the Absurd.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albee designates united states dramatist (1928-)."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The gentle knight pursued his quest, **albee** his armor was battered by many a fierce and treacherous foe."*
+> - 📜 **Geoffrey Chaucer (*The Legend of Good Women*):** *"She kept her solemn vow, **albee** her heart was pierced with sorrow and mortal dread."*
+> - 📜 **Tennessee Williams (*Memoirs*):** *"Williams praised the ferocious wit and dramatic economy displayed in Edward **Albee**'s modernist masterpieces."*

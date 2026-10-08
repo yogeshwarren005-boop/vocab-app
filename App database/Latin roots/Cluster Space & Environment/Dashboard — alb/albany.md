@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albany
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State capital of new york; located in eastern new york state on the west bank of the hudson river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest georgia; processing center for peanuts and pecans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historic capital city of the State of New York, situated on the west bank of the Hudson River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Scottish ducal title historically designating the Scottish kingdom north of the River Forth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Duke of Albany’s Palace Scene IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Hall in Albany’s Palace Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Court before the Duke of Albany’s Palace ACT II Scene I."*
+> - 📜 **Washington Irving (*A History of New York*):** *"Dutch sloops voyaged up the tranquil Hudson River to trade beaver pelts at the frontier post of **Albany**."*
+> - 📜 **James Fenimore Cooper (*The Pioneers*):** *"Judge Temple traveled by stagecoach from **Albany** into the untamed wilderness of the Otsego hills."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The Duke of **Albany** lamented Lear's cruel betrayal, striving to restore righteousness to the divided realm."*

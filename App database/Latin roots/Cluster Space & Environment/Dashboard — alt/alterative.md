@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alterative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cure or restore to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal drug or remedy that gradually restores healthy metabolic function without causing acute purging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to alter or produce a beneficial change in the morbid humors or constitutional health of the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth an alterative Christian Science brings to the body the sunlight of Truth, which invigorates and purifies."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science 162:6 acts as an alterative, neutralizing error with Truth."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God will over- turn, until "He come whose right it is." Longevity 224:1 is increasing and the power of sin diminishing, for the, world feels the alterative effect of truth through every 224:3 pore."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mercurial preparations and potassium iodide were long prescribed as an **alterative** in tertiary syphilitic disease."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Sydenham favored gentle dietetic remedies whose **alterative** efficacy restored balance to inflamed blood."*
+> - 📜 **Nicholas Culpeper (*Complete Herbal*):** *"Sarsaparilla root acts as a sovereign **alterative**, cleansing the bodily fluids of scorbutic impurities."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altricial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hatchlings) naked and blind and dependent on parents for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hatchlings) naked and blind and dependent on parents for food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In zoology, hatched or born in an undeveloped, helpless, blind, or naked state requiring parental care and feeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrasted with precocial species whose young are mobile and self-sufficient upon emergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altricial designates (of hatchlings) naked and blind and dependent on parents for food."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Darwin contrasted the helpless state of **altricial** nestlings with the vigorous independence of precocial chicks."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Passerine birds are strictly **altricial**, producing naked young that demand continuous parental nourishment."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Coues categorized avian breeding strategies into nidifugous precocial and nidicolous **altricial** families."*

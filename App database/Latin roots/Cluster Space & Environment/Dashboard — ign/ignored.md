@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignored
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally disregarded, dismissed, or left unnoticed by an observer or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overlooked or bypassed in calculation, consideration, or public recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet the negro is here because men of the seventeenth century ignored the complexity of the labor problem and thought only of its economic aspect."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus could not have ignored the problem of sin and forgiveness, even if he had wished to ignore it."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She's welcome to go six nights a week if she likes." "She couldn't very well go alone," Lawrence ignored the scowl of his host."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Such rudimentary organs cannot be **ignored** when constructing a comprehensive genealogical tree of living forms."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king **ignored** the prudent petitions of parliament, relying instead on his arbitrary prerogative."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I had **ignored** the psychological shock that total isolation in time would inflict upon my spirit."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albigensianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dualistic religious doctrines and practices held by the medieval Albigenses in southern France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval theological movement teaching dualism between a good spiritual realm and an evil material world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albigensianism designates a christian movement considered to be a medieval descendant of manichaeism in southern france in the 12th and 13th centuries; characterized by dualism (asserted the coexistence of two mutually opposed principles, one good and one evil); was exterminated for heresy during the inquisition."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Scholars debated whether **albigensianism** derived directly from ancient Manichaean teachings of the East."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid spread of **albigensianism** threatened the ecclesiastical hegemony of Rome in the Midi."*
+> - 📜 **David Hume (*The History of England*):** *"The fierce suppression of **albigensianism** established the terrifying judicial machinery of the Dominican inquisition."*

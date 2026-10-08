@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coign
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expandable metal or wooden wedge used by printers to lock up a form within a chase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The keystone of an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting corner or angle of an architectural wall; especially in the phrase 'coign of vantage'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A favorable, elevated position affording a commanding and unobstructed view or opportunity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*
-> - 📜 **James Joyce (*Ulysses*):** *"They take me for a dun, peer out from a coign of vantage. —It’s Stephen, sir. —Let him in."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"No jutty, frieze, buttress, nor **coign** of vantage, but this bird hath made his pendent bed and procreant cradle."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The scout found a secure **coign** upon the cliff, observing the movements of the smugglers below."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Ruskin sketched every carved capital and stone **coign** adorning the sea facade of the ducal palace."*

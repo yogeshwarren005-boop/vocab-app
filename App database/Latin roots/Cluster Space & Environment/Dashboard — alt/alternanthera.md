@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternanthera
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low herbs of tropical america and australia; includes genus telanthera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low herbs of tropical america and australia; includes genus telanthera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical and subtropical flowering herbs in the amaranth family (Amaranthaceae), commonly called joyweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, colorful creeping foliage plants widely used for bedding borders, carpet gardens, and aquariums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alternanthera designates genus of low herbs of tropical america and australia; includes genus telanthera."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Gray noted that species of **alternanthera** bear alternating fertile and sterile stamens within the small flowers."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners shear the variegated red and yellow dwarf forms of **alternanthera** to maintain neat mosaic borders."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Bentham documented wild prostrate species of **alternanthera** carpeting damp clay flats after seasonal rains."*

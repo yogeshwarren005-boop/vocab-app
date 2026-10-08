@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alternate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes the place of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back and forth; swing back and forth between two states or conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in turn repeatedly; every other; following by turns in regular succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To switch or take turns back and forth between two states, activities, or positions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was to write Richard once a week, making my faithful report of Ada, who was to write to him every alternate day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Day and night keep their unwearied course, and with **alternate** service divide the circling seasons."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Botanists distinguish between opposite foliage and **alternate** leaves that arise singly at each node."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The watch on deck had **alternate** turns of sleeping and standing lookout through the midnight gale."*

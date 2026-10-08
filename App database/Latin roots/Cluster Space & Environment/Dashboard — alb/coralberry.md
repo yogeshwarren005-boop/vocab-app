@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # coralberry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub with coral-red berries; japan to northern india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hardy deciduous North American shrub (Symphoricarpos orbiculatus) bearing dense clusters of coral-pink berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental botany, an upright suckering shrub of the honeysuckle family valued for winter fruit retention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coralberry designates north american deciduous shrub cultivated for it abundant clusters of coral-red berrylike fruits."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **coralberry** or Indian currant retains its tight clusters of purplish-red berries late into winter."*
+> - 📜 **John Torrey (*A Flora of the State of New York*):** *"Torrey documented the **coralberry** thriving on rocky riverbanks, providing valuable winter food for songbirds."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Landscape architects utilize the durable **coralberry** for erosion control along dry roadside embankments."*

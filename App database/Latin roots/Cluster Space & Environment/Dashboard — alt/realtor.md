@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # realtor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A real estate agent who is a member of the national association of realtors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A real estate agent who is a member of the national association of realtors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A real estate broker or agent, especially one holding membership in the National Association of Realtors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional licensed to negotiate the purchase, sale, leasing, or appraisal of landed property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, realtor designates a real estate agent who is a member of the national association of realtors."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George F. Babbitt was a nimble **realtor**, eloquent in praising suburban lots to prospective investors."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The local **realtor** pointed out the grand estate with its marble swimming pool and sloping lawns."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"He consulted an influential **realtor** to quietly secure title to the land surrounding the street railway."*

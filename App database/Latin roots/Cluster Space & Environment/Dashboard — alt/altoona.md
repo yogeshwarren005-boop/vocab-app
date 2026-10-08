@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altoona
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central pennsylvania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central pennsylvania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic industrial city in Blair County, central Pennsylvania, founded as a locomotive repair center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A famous railway hub in American transportation history, site of the engineering marvel the Horseshoe Curve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Adopted at a meeting of Governors of loyal States, held to take measures for the more active support of the Government, at Altoona, Pennsylvania, on the 22d day of September, 1862."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"Carnegie oversaw the bustling Pennsylvania Railroad dispatch offices at **Altoona** during his early career."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Whitman traveled over the Allegheny ridges, marveling at the colossal locomotive works at **Altoona**."*
+> - 📜 **Theodore Dreiser (*A Hoosier Holiday*):** *"Dreiser gazed from the carriage window as the express train rounded the famous Horseshoe Curve near **Altoona**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alberti
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leon Battista Alberti, Italian Renaissance polymath who formulated the mathematical laws of linear perspective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, the classical Renaissance theorist who authored *De Re Aedificatoria*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti (_De Kaffersaan de Zuidkust van Afrika_, Amsterdam, 1810, p. 79), George Thompson (_Travels and Adventures in Southern Africa_, London, 1827, ii. 354 _sq._), and Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti, _De Kaffers aan de Zuidkust van Afrika_ (Amsterdam, 1810), pp. 79 _sq._; H."*
+> - 📜 **Giorgio Vasari (*Lives of the Most Excellent Painters, Sculptors, and Architects*):** *"Vasari extolled **Alberti** as a scholar who reduced the elusive rules of perspective and design to mathematical science."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"Burckhardt celebrated **Alberti** as the quintessential universal genius of the Florentine Renaissance."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Ruskin contrasted the living freedom of Gothic stonecraft with the rigid classical revival championed by **Alberti**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alt]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # altruist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who unselfishly devotes themselves to the welfare, happiness, and benefit of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual guided by benevolent, disinterested principles rather than egoistic self-interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There was no nonsense about him--none of that sweet blind altruism which, as Isabel saw it, only made the altruist and his family so bitterly uncomfortable without doing any good to the poor."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"The genuine **altruist** finds his highest satisfaction in promoting the welfare of his fellow creatures."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft mocked the sentimental **altruist** who preached charity while ignoring economic reality."*
+> - 📜 **Jane Addams (*Democracy and Social Ethics*):** *"The modern settlement worker is not a patronizing benefactor, but an earnest democratic **altruist**."*

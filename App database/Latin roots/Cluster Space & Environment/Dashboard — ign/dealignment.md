@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # dealignment
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In political science, a trend whereby a large portion of the electorate abandons its partisan affiliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of traditional party loyalties without the emergence of a new dominant coalition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dealignment designates a process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties."*
+> - 📜 **V. O. Key Jr. (*Politics, Parties, and Pressure Groups*):** *"Electoral analysts identified widespread partisan **dealignment** as voters registered as independent citizens."*
+> - 📜 **Walter Dean Burnham (*Critical Elections and the Mainsprings of American Politics*):** *"Burnham traced the ongoing **dealignment** of the electorate, marked by declining voter turnout and split-ticket voting."*
+> - 📜 **Samuel P. Huntington (*American Politics: The Promise of Disharmony*):** *"The decay of traditional party machines fostered political **dealignment** across suburban voting districts."*

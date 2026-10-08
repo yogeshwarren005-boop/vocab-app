@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # alborg
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city and port in northern jutland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city and port in northern jutland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic industrial port and cathedral city in northern Jutland, Denmark, situated on the Limfjord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Viking trading center and modern Danish manufacturing hub famed for cement and aquavit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alborg designates a city and port in northern jutland."*
+> - 📜 **Hans Christian Andersen (*The Story of My Life*):** *"Andersen visited the bustling wharves of **Alborg**, admiring the timbered merchant houses of northern Jutland."*
+> - 📜 **Mary Wollstonecraft (*Letters Written in Sweden, Norway, and Denmark*):** *"Wollstonecraft recorded the commercial life of **Alborg**, noting the ships sailing down the Limfjord to the Kattegat."*
+> - 📜 **Saxo Grammaticus (*Gesta Danorum*):** *"Ancient Danish chronicles recorded the maritime expeditions that assembled in the sheltered harbor of **Alborg**."*

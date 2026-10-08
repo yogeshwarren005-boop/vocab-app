@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — alb]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # albumen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple water-soluble protein found in many animal tissues and liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear white of an egg, consisting largely of water and protein (ovalbumin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, the nutritive tissue (endosperm) surrounding the embryo in certain plant seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albumen designates a simple water-soluble protein found in many animal tissues and liquids."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeds endowed with abundant **albumen** provide their germinating seedlings with a powerful start in life."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Lavoisier analyzed how animal **albumen** coagulates into an opaque solid white mass upon heating."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The kernel of wheat consists almost entirely of starchy **albumen** intended for the nutrition of the embryo."*

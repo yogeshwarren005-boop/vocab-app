@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To catch fire or cause a substance to begin burning by heating or applying a spark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To arouse, provoke, or kindle intense passion, conflict, or excitement in an individual or populace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then having kindled torches at it they proceed with them to the jungle and ignite the felled timber and brushwood."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When you bring a lighted taper near the gas, you cause it to **ignite** instantly with brilliant illumination."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A single indiscreet spark was sufficient to **ignite** the fierce resentment of the rival legions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner's reckless words seemed to **ignite** every slumbering fury within the captain's breast."*

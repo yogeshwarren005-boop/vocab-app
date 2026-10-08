@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ignobleness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being ignoble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being ignoble.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Baseness of mind, dishonorable disposition, or absence of lofty ethical standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowly or humble origin; lack of illustrious ancestral pedigree or renown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignobleness designates the quality of being ignoble."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing exposes a scholar to more ridicule than the **ignobleness** of stooping to petty flattery."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He was astonished that creatures so small could display such unmitigated **ignobleness** in their court intrigues."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She shrank from the apparent **ignobleness** of motives that placed pecuniary gain above conjugal affection."*

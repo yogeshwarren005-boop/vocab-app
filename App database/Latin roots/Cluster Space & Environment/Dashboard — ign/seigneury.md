@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — ign]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # seigneury
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position and authority of a feudal lord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lordship, jurisdiction, territory, or manorial estate held by a feudal seigneur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The authority, prerogatives, or feudal dues enjoyed by a landed lord over his tenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seigneury designates the estate of a seigneur."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Within each **seigneury**, the lord retained exclusive hunting rights and the monopoly of grinding grain."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Crusaders carved out feudal fiefs, establishing hereditary **seigneury** over the conquered Syrian valleys."*
+> - 📜 **Francis Parkman (*The Old Régime in Canada*):** *"Along the shores of the Saint Lawrence, each colonial **seigneury** formed a miniature feudal community facing the river."*

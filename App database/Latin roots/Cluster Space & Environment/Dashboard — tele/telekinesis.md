@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telekinesis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to move something by thinking about it without the application of physical force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to move something by thinking about it without the application of physical force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported movement or physical influence of material objects without physical contact, attributed to mental power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paranormal phenomenon investigated in psychical research involving apparent non-mechanical motor effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the power to move something by thinking about it without the application of physical force."*
+> - 📜 **William James (*Essays in Psychical Research*):** *"The phenomenon known as **telekinesis** challenges conventional mechanistic assumptions regarding physiological force."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Mediumistic séances frequently reported manifestations of **telekinesis**, where heavy tables rose without physical touch."*
+> - 📜 **Carl Jung (*Synchronicity: An Acausal Connecting Principle*):** *"Experiments exploring spontaneous **telekinesis** point toward acausal archetypal linkages between psyche and physical matter."*

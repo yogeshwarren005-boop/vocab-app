@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telepathise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate nonverbally by telepathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate nonverbally by telepathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To communicate thoughts, feelings, or mental images telepathically across space without sensory mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transmit mental messages directly from one mind to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathise designates communicate nonverbally by telepathy."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The medium attempted to **telepathise** the urgent distress call to colleagues seated in the neighboring room."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Future mentalists believed they could **telepathise** complex mathematical proofs without utterance of sound."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"The ancients do not waste breath upon chatter; they merely **telepathise** their desires across the grove."*

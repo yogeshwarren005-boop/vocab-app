@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleconferencing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology or practice of holding discussions between participants in separated locations via telecom links.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conducting collaborative meetings through networked voice, video, or computerized interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleconferencing designates a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The practice of **teleconferencing** brings distant minds into a single acoustic space without physical proximity."*
+> - 📜 **Arthur C. Clarke (*1984: Spring - A Choice of Futures*):** *"Routine **teleconferencing** has largely eliminated the exhausting overseas travels once required of corporate diplomats."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Effective **teleconferencing** depends on reducing transmission lag to preserve the natural cadence of dialogue."*

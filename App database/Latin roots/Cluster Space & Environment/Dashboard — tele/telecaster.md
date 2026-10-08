@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecaster
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A television broadcaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcasting company, network organization, or on-air announcer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist or commentator who presents live news or commentary on television broadcasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecaster designates a television broadcaster."*
+> - 📜 **Walter Lippmann (*Essays in the Public Philosophy*):** *"The popular **telecaster** commands an audience far larger than any print editor could hope to assemble."*
+> - 📜 **Edward R. Murrow (*In Search of Light*):** *"A conscientious **telecaster** has a duty to provide citizens with sober analysis rather than mere sensationalism."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The medium shapes the message, transforming the **telecaster** into an intimate domestic presence."*

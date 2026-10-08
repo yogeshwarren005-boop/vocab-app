@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telethermometer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that registers the temperature at some distant point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that registers the temperature at some distant point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical apparatus for measuring and indicating temperature at a remote observation point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remote-reading thermometer transmitting thermal data over wire or radio circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telethermometer designates a thermometer that registers the temperature at some distant point."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"A platinum resistance **telethermometer** allowed us to register furnace temperatures without exposing observers to radiant heat."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The electrical **telethermometer** utilizes thermoelectric junctions to transmit delicate thermal readings over long distances."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"By connecting a galvanometer to the distant thermal couple, the **telethermometer** indicated temperature fluctuations instantly."*

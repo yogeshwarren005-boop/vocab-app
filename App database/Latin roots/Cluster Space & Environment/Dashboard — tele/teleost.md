@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleost
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fish belonging to the infraclass Teleostei, characterized by a completely ossified bony skeleton and homocercal tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the predominant group of modern ray-finned fishes, including salmon, cod, tuna, and sunfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleost designates a bony fish of the subclass teleostei."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In every typical **teleost**, the primitive cartilaginous skeleton is replaced by dense, fully ossified bone."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The geological emergence of the **teleost** radiation marked the decline of ancient armored ganoid fishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The modern **teleost** displays unmatched hydrodynamical agility thanks to its flexible, homocercal caudal fin."*

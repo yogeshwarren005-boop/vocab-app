@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teletype
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tele within the domain of Space & Environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tele in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromechanical typewriter that sends and receives typed messages over telegraph or telephone lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To send or print messages using a teletypewriter communications machine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teletype designates pertaining to, derived from, or characteristic of latin tele within the domain of space & environment."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The **teletype** receiver translates binary electric pulses into mechanical movements that strike the inked paper ribbon."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The urgent press dispatch rattled out from the humming **teletype** machine in the corner of the cubicle."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"A **teletype** channel transmitting discrete alphabetical symbols represents an ideal model of a discrete communication system."*

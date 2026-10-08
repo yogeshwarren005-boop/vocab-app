@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # decentralized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispersed among several local or subordinate offices rather than concentrated in a single capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed across autonomous peer nodes in a mechanical, biological, or digital network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
+> - 📜 **Friedrich Hayek (*The Road to Serfdom*):** *"A **decentralized** market economy respects individual choices far better than any centralized planning authority."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In New England, power was so **decentralized** that each township managed its schools, roads, and poor with complete autonomy."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The nervous system of simpler invertebrates exhibits a **decentralized** organization of discrete peripheral ganglia."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telegrapher
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits messages by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transmits messages by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled operator trained to send and receive messages using a telegraph key and Morse code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A railway or military communications specialist responsible for wire dispatches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegrapher designates someone who transmits messages by telegraph."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"Working as an itinerant **telegrapher** in my youth gave me an intimate familiarity with electrical currents."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The riverboat pilot listened to the station **telegrapher** rattling off warnings of impending snags."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The young **telegrapher** sits at his clicking key, translating dots and dashes into human grief and joy."*

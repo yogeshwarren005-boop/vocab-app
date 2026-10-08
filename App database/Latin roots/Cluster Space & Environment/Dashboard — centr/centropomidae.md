@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centropomidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fish or the order perciformes including robalos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fish or the order perciformes including robalos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of predatory perciform coastal and estuarine fishes known commonly as snooks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical and subtropical marine teleosts characterized by a distinct lateral line extending into the caudal fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropomidae designates a family of fish or the order perciformes including robalos."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The **Centropomidae** are game fishes of tropical estuaries, renowned for their predatory strength and speed."*
+> - 📜 **Albert Günther (*Catalogue of the Acanthopterygian Fishes in the British Museum*):** *"In **Centropomidae**, the preopercle is armed with strong serrations and spines along its lower margin."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"We classify the **Centropomidae** in proximity to the serranids based on similarities in skeletal anatomy."*

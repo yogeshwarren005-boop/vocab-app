@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentrical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a common center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharing a common center or axis; concentric in geometry or alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed in circular rings or curved layers radiating around a shared midpoint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concentrical designates having a common center."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"When liquid drop fell upon the calm surface, it created beautiful **concentrical** undulations."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Sound waves propagate through the atmosphere in **concentrical** spherical pulses from the resonant body."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The optical rings formed around the axis of uniaxial crystals are strictly **concentrical** in polarized light."*

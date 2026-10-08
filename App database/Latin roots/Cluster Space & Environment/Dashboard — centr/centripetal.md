@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centripetal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to move toward a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to unify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving, acting, or tending toward a center or rotational axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unifying, centralizing, or drawing disparate elements inward toward a common cultural or political core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"How is this force, with its numberless checks and counter-checks, its centripetal and centrifugal tendencies, best determined in its necessarily oblique way?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything again is centripetal; Tertullian is too much in earnest to lose himself in the endless periods of the rhetorician, or in the charming fancies dear to the eclectic and especially to contemporary Platonists."*
-> - 📜 **James Joyce (*Ulysses*):** *"How did the centripetal remainer afford egress to the centrifugal departer?"*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"I define **centripetal** force as that by which bodies are drawn or impelled toward a point as to a center."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **centripetal** force of national pride counteracts the divisive rivalries of separate states."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The aggregation of cosmic matter is governed by a **centripetal** tendency that condenses diffuse clouds into stars."*

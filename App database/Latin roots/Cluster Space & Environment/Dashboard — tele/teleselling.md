@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleselling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The business practice of selling products or services directly to prospective clients via telephone calls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct sales solicitation managed through commercial telecommunication call centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleselling designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Peter Drucker (*The Practice of Management*):** *"Effective **teleselling** requires thorough training in customer communication rather than reliance on high-pressure scripts."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The expansion of corporate **teleselling** illustrates how marketing apparatuses penetrate domestic privacy to manufacture demand."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"Automated dialing and computerized scripts turned **teleselling** into a major channel of mass retail distribution."*

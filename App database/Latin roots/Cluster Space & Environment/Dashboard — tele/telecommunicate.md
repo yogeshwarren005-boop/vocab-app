@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecommunicate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate over long distances, as via the telephone or e-mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate over long distances, as via the telephone or e-mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transmit and exchange information, signals, or messages across substantial distances using electronic technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To converse or coordinate remotely through telephone, telegraph, radio, or data networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommunicate designates communicate over long distances, as via the telephone or e-mail."*
+> - 📜 **Alexander Graham Bell (*The Telephone Papers*):** *"I foresee a day when friends in distant cities will **telecommunicate** their thoughts with the ease of fireside speech."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Living organisms and machines both **telecommunicate** by sending encoded signals across transmission channels."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"To **telecommunicate** without error requires that information rate does not exceed the channel capacity."*

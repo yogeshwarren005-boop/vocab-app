@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # eccentrically
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or bizarre manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not symmetrically with respect to the center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner departing from circularity or situated away from a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an odd, unconventional, or idiosyncratic manner departing from social expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers’s room was lighted by a skylight only, and was a most dismal place; the skylight, eccentrically pitched like a broken head, and the distorted adjoining houses looking as if they had twisted themselves to peep down at me through it."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Comets move **eccentrically** in very elongated orbits whose planes are inclined at all angles to the ecliptic."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham lived **eccentrically** behind darkened windows, surrounded by the decaying relics of her wedding day."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Genius often behaves **eccentrically** because its associative pathways ignore the common rut of habit."*

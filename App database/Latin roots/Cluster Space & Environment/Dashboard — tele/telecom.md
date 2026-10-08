@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecom
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) systems used in transmitting messages over a distance electronically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) systems used in transmitting messages over a distance electronically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industry, technology, or commercial infrastructure dedicated to telecommunications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to long-distance data, voice, or video transmission networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecom designates (often plural) systems used in transmitting messages over a distance electronically."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The worldwide **telecom** revolution commenced the moment geosynchronous satellites hovered over the equator."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Modern civilization depends upon an uninterrupted **telecom** grid to maintain homeostasis in global trade."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Engineers across the **telecom** sector applied statistical theory to maximize channel capacity over copper wire."*

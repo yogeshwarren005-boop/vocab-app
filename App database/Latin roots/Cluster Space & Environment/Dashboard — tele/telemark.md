@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telemark
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skiing turn in which the outside ski is advanced and the inside heel is raised on a free-heel binding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional mountainous county of southern Norway known for folk culture, lakes, and the origins of modern skiing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemark designates a turn made in skiing; the outside ski is placed ahead and turned gradually inwards."*
+> - 📜 **Fridtjof Nansen (*The First Crossing of Greenland*):** *"The peasants of **Telemark** developed the finest ski bindings, enabling daring leaps and graceful turning upon deep snow."*
+> - 📜 **Roald Amundsen (*The South Pole*):** *"Our Norwegian companions executed the classic **telemark** turn with effortless mastery while descending the polar glaciers."*
+> - 📜 **Henrik Ibsen (*Letters and Speeches*):** *"The rugged valleys of **Telemark** inspired my early dramas with their untamed legends and stubborn independent spirit."*

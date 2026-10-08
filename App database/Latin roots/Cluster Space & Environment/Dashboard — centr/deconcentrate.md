@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # deconcentrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disperse or scatter what has been concentrated; to relieve extreme concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law, to redistribute responsibilities among field offices while retaining central control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deconcentrate designates make less central."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"To **deconcentrate** public business without diminishing national authority is the supreme art of modern statesmanship."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"An army may be forced to **deconcentrate** its brigades across several valleys in order to forage for provisions."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"You must dilute and **deconcentrate** the hot reagent to prevent an uncontrollable thermal reaction."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleological
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to teleology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to teleology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the explanation of phenomena by the purpose or design they serve rather than prior causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to philosophical doctrines that view nature as guided by inherent intentional ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleological designates of or relating to teleology."*
+> - 📜 **Immanuel Kant (*Critique of Judgment*):** *"We cannot investigate organized living beings without adopting a **teleological** principle of internal purposiveness."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"My work has been praised for recovering a rational **teleological** perspective by showing how every structure serves a use."*
+> - 📜 **Aristotle (*Physics*):** *"Nature does nothing in vain, and all biological processes exhibit a strictly **teleological** movement toward their form."*

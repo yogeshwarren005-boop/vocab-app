@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telemarketing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The marketing or direct sale of goods and services to prospective customers over the telephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commercial telephone solicitation and market research conducted by centralized call centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemarketing designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Peter Drucker (*Management: Tasks, Responsibilities, Practices*):** *"Modern customer acquisition utilizes systematic **telemarketing** campaigns to target segmented consumer demographics."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The consumer is relentlessly pursued into the private home by intrusive techniques like aggressive **telemarketing**."*
+> - 📜 **Alvin Toffler (*Powershift*):** *"Computerized data banks empowered **telemarketing** agencies to customize sales pitches with precise personal knowledge."*

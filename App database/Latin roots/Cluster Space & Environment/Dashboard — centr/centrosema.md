@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrosema
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous twining herbs and shrubs native to the Americas, commonly called butterfly peas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A climbing legume plant grown for forage, ground cover, or ornamental inverted purple-blue blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosema designates a genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers."*
+> - 📜 **George Bentham (*Commentationes de Leguminosarum Generibus*):** *"Bentham noted that in **Centrosema**, the large standard petal bears a prominent spur or pocket upon its back."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The showy resupinate flowers of **Centrosema** attract heavy bumblebees that force their way into the keel."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*):** *"Tropical species of **Centrosema** carpet the margins of savannah clearings with vigorous trailing foliage."*

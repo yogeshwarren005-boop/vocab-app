@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # eccentric
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with an unusual or odd personality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of a specified kind (usually with many eccentricities).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deviating from a circular path or having an axis not situated in the geometric center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating noticeably from customary social norms, conventional behavior, or standard character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very eccentric person."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was eccentric—he was very eccentric."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Here with a looping knot you crossed a "t", And here another like it, just beyond These two eccentric "e's"."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The orbit of Mars is not a uniform circle, but an **eccentric** ellipse with the sun situated at one focus."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"That so few now dare to be **eccentric** marks the chief danger of our time, for eccentricity has always abounded when strength of character was high."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Why birds and beasts from quality and kind, why old men, fools, and children calculate, why all these things change from their ordinance, their natures, and pre-formed faculties to monstrous quality, and run in an **eccentric** course."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleostei
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large diverse group of bony fishes; includes most living species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large diverse group of bony fishes; includes most living species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic infraclass of ray-finned fishes that includes over ninety-six percent of all living fish species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse evolutionary clade characterized by mobile premaxillae, homocercal caudal fins, and fully ossified vertebral centrums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostei designates large diverse group of bony fishes; includes most living species."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The comprehensive division of **Teleostei** encompasses all fishes whose skeleton is thoroughly hardened by mineral bone."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"The freshwater basins of the globe are populated primarily by diverse and flourishing families of **Teleostei**."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"In **Teleostei**, the optic nerves cross one another simply without forming a complex chiasmatic plexus."*

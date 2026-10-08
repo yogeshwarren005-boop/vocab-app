@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telegram
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message transmitted by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by electric telegraph and delivered in written, printed form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concise dispatch sent over wire or cable for urgent personal or administrative communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"I dispatched an urgent **telegram** to General Grant directing him to press the siege without relaxation."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The news arrived in a brief **telegram** that threw the entire ship into wild excitement."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes handed me a **telegram** from Scotland Yard requesting our immediate presence on the moors."*

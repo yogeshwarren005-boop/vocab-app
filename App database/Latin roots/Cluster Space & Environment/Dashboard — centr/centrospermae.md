@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrospermae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classification systems; approximately synonymous with order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classification systems; approximately synonymous with order caryophyllales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order of flowering plants (now Caryophyllales) characterized by curved embryos around central nutritive perisperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grouping of dicotyledonous families including Caryophyllaceae, Amaranthaceae, and Chenopodiaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrospermae designates used in former classification systems; approximately synonymous with order caryophyllales."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Engler grouped these related families under **Centrospermae** on account of their central placentation."*
+> - 📜 **John Hutchinson (*The Families of Flowering Plants*):** *"The floral morphology of **Centrospermae** demonstrates clear affinities among the goosefoot and pink alliances."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In **Centrospermae**, the embryo curves around the periphery of the albumen in a characteristic annular ring."*

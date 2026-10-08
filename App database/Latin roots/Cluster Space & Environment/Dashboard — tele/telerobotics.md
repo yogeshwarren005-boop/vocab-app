@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telerobotics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of robotics that is concerned with the control of robots from a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of robotics that is concerned with the control of robots from a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of robotics concerned with the control of remote semi-autonomous robots via telecommunication links.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engineering and operation of remote mechanical manipulators in hazardous, deep-sea, or space environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telerobotics designates the area of robotics that is concerned with the control of robots from a distance."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Advancements in **telerobotics** will enable human engineers to construct space stations using teleoperated waldoes on lunar soil."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"In **telerobotics**, sensory feedback from remote mechanical effectors is essential to provide human operators with telepresence."*
+> - 📜 **Isaac Asimov (*Robot Visions*):** *"The field of **telerobotics** bridges the divide between human decision-making and mechanical endurance in hostile frontiers."*

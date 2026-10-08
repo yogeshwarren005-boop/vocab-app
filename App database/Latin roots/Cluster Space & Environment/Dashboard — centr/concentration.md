@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength of a solution; number of molecules of a substance in a given volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of being crowded together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The focusing of undivided mental attention, willpower, or intellectual faculties upon an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative amount of a given substance contained within a specified volume or mass of mixture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But though I liked him more and more the better I knew him, I still felt more and more how much it was to be regretted that he had been educated in no habits of application and concentration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the strenuousness of his concentration he treadled fitfully on the floor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary **concentration** of consciousness upon an idea is the essential phenomenon of will."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The supreme rule of military strategy is the **concentration** of maximum force at the decisive point."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **concentration** of atmospheric oxygen determines the rapidity with which phosphorus burns."*

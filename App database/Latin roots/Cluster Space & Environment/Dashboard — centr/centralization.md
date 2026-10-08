@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralization
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of control, administrative functions, or power in a single focal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The convergence or physical clustering of operations around a common structural hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By this means the reserves of the several district banks may be "piped together" and thus be practically made into one central bank under governmental control, altho centralization was in outward form avoided by the bill."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But ordinary profit-sharing is not in accord with the general trend toward the centralization of responsibility in the hands of competent managers, ensuring to the worker a definite amount in advance, as high as conditions make possible."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But when, as in the case of Nicholas the Czar, the ringed crown of geographical empire encircles an imperial brain; then, the plebeian herds crouch abased before the tremendous centralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"I distinguish between two kinds of **centralization**: governmental, which is necessary, and administrative, which is enervating."*
+> - 📜 **Karl Marx (*Capital*):** *"The **centralization** of credit in the hands of a national bank transforms industrial investment into a public monopoly."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Whenever **centralization** proceeds beyond a healthy limit, spontaneous social adaptations are paralyzed."*

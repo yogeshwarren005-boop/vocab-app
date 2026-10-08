@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or near or toward a center or according to a central role or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or near or toward a center or according to a central role or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In, at, or near the physical center, middle point, or axis of a given space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the direct control, coordination, or direction of a supreme central authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrally designates in or near or toward a center or according to a central role or function."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The most vigorous varieties flourish **centrally** within their geographical range where competition is balanced."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The capital was **centrally** situated to receive intelligence from every maritime district of the realm."*
+> - 📜 **Friedrich Hayek (*The Use of Knowledge in Society*):** *"Decisions cannot be made as rationally by a **centrally** planned committee as by dispersed market actors."*

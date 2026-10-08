@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centroid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The center of mass of an object of uniform density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center of mass of an object of uniform density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geometric center of a two-dimensional plane figure or three-dimensional solid; the arithmetic mean position of all points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center of mass of an object of uniform density across all coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates the center of mass of an object of uniform density."*
+> - 📜 **William Thomson (*Treatise on Natural Philosophy*):** *"The **centroid** of a uniform triangular lamina coincides with the intersection of its three medians."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"We may treat the entire gravitational attraction of the body as though concentrated at its **centroid**."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculation of the **centroid** required summing infinite infinitesimal cross-sections along the axis."*

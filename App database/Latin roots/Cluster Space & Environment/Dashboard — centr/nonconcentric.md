@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # nonconcentric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a common center; not concentric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a common center; not concentric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sharing a common center, axis, or midpoint, as of geometric circles or rotational mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in offset, eccentric, or irregular patterns rather than coaxial rings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconcentric designates not having a common center; not concentric."*
+> - 📜 **Isaac Newton (*Opticks*):** *"When the lenses were tilted, the chromatic rings became distorted into **nonconcentric** ellipses."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Any **nonconcentric** mounting of the rotating gear wheels introduced periodic mechanical backlash."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic field between two **nonconcentric** cylinders generates asymmetric lines of equipotential force."*

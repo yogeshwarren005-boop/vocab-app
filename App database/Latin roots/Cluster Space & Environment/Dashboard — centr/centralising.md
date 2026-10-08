@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralising
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to draw to a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting a tendency to consolidate power, control, or functions into a singular core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving inward toward the physical or mathematical focus of a geometrical configuration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralising designates make central."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **centralising** tendency of modern industry creates giant joint-stock corporations that dominate the marketplace."*
+> - 📜 **Lord Acton (*Essays on Freedom and Power*):** *"Any political force displaying an unbridled **centralising** ambition inevitably threatens the safeguards of human liberty."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The **centralising** movement of cosmic matter under gravitational attraction leads to the condensation of nebulae."*

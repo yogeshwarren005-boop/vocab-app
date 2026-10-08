@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrosomic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a centrosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a centrosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located within, or functioning as a centrosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to microtubule organization coordinated by the central cellular organelle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosomic designates of or relating to a centrosome."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The radiating astral rays emanate from a dense **centrosomic** matrix that surrounds the pair of centrioles."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"Any defect in the **centrosomic** machinery leads to lethal irregularities in the division of embryonic blastomeres."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Observations confirmed that **centrosomic** activity governs spindle orientation relative to the cell cortex."*

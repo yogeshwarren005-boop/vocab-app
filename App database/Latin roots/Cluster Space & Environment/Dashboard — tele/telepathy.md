@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telepathy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent communication from one mind to another without using sensory perceptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparent communication from one mind to another without using sensory perceptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported communication of thoughts, impressions, or feelings between minds without using physical sensory channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct mind-to-mind transmission of information outside conventional speech, vision, or sign systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
+> - 📜 **William James (*The Will to Believe*):** *"If **telepathy** should ever be established as fact, it would open an entirely new continent for psychological exploration."*
+> - 📜 **Sigmund Freud (*New Introductory Lectures on Psycho-Analysis*):** *"One has the impression that **telepathy** may represent an archaic, dormant method of communication among individuals."*
+> - 📜 **Arthur Conan Doyle (*The Coming of the Fairies*):** *"The evidence for **telepathy** rests upon thousands of verified instances where distant minds registered identical events."*

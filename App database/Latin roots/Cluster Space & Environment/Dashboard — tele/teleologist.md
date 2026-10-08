@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleologist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocate of teleology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocate of teleology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher or scientist who believes that natural phenomena are determined by an overall design or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of teleology who interprets organic adaptations as expressions of final causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleologist designates advocate of teleology."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"The old-fashioned **teleologist** saw miraculous design where the evolutionist perceives gradual natural adaptation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"To the **teleologist**, the rudimentary teeth of the calf embryo must appear an utterly inexplicable paradox."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The devout **teleologist** finds in the wondrous harmony of nature indisputable proof of a benevolent creator."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecast
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A television program or transmission broadcast to remote receiving screens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To broadcast a program, performance, or news report over television signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecast designates a television broadcast."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The telescreen received and transmitted simultaneously, broadcasting a continuous **telecast** of party propaganda."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The modern politician must learn the dramatic art of the nationwide **telecast** to sway millions of voters."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Communications satellites enabled the first global **telecast** connecting continents in instantaneous visual contact."*

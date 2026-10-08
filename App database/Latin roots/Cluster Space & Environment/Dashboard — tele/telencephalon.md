@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telencephalon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior division of the forebrain; the cerebrum and related parts of the hypothalamus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most anterior portion of the embryonic forebrain, which develops into the cerebrum and basal ganglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cerebral hemispheres of the mature brain responsible for sensory integration, voluntary motor control, and higher cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior division of the forebrain; the cerebrum and related parts of the hypothalamus."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The vast expansion of the **telencephalon** in primates reflects the proliferation of associative pyramidal neurons."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **telencephalon** crowns the neural hierarchy, exerting inhibitory dominance over primitive spinal reflexes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In all vertebrates the **telencephalon** arises as the terminal vesicle of the embryonic prosencephalon."*

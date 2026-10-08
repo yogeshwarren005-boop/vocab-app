@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralizing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to draw to a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gathering administrative operations or authority together into a single executive nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending toward the center or midpoint in spatial, geometrical, or mechanical dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of socialism is the abolition of private property, the centralizing under the control of the state of all wealth, except the simple personal belongings, clothing and other consumption goods."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **centralizing** zeal of the National Assembly dissolved ancient provincial rights with reckless haste."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"Every new regulatory statute adds to the **centralizing** momentum of the state at the expense of private liberty."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"He criticized the **centralizing** instincts of continental jurists who undervalued local municipal traditions."*

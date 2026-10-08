@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telepathist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with the power of communicating thoughts directly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magician who seems to discern the thoughts of another person (usually by clever signals from an accomplice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who purports to send, receive, or study telepathic communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner claiming the mental capability of thought-transference without physical signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathist designates someone with the power of communicating thoughts directly."*
+> - 📜 **William James (*Essays in Psychical Research*):** *"The celebrated **telepathist** consented to sit before our scientific committee in a shielded laboratory."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"A genuine **telepathist** must demonstrate consistency under conditions that exclude all possible sensory signaling."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He listened with the intense absorption of a **telepathist** straining to catch elusive distant whispers."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telegraphy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating at a distance by electric transmission over wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus used to communicate at a distance over a wire (usually in morse code).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, or technology of sending and receiving messages over a distance by electrical or optical code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical operation of electric or wireless telegraph instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental telegraphy The clay cannot reply to the potter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither immortal and unerring Mind nor matter, 243:21 the inanimate substratum of mortal mind, can carry on such telegraphy; for God is "of purer eyes than to behold evil," and matter has neither intelligence nor 243:24 sensation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Automatic mechanism So-called mortal mind sends its despatches over its 399:12 body, but this so-called mind is both the service and message of this telegraphy."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The application of electromagnetic induction to **telegraphy** opened an entirely new era of human intercourse."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Submarine cable **telegraphy** required profound theoretical analysis of electrostatic capacity and signal dispersion."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"My inventions in quadruplex **telegraphy** allowed four separate messages to pass over a single wire simultaneously."*

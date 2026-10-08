@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescopic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible only with a telescope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of discerning distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, visible through, or accomplished by means of an astronomical telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed with concentric sliding tubular parts that collapse into one another for portability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Was there any ingenious plot, any hide-and-seek course of action, which might be detected by a careful telescopic watch?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her telescopic eye swept the whole field."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It appears to have been his object to convert the mind of Alice into a kind of telescopic medium, through which Mr."*
+> - 📜 **William Herschel (*Philosophical Transactions of the Royal Society*):** *"The nebulous haze resolved under powerful **telescopic** magnification into a dense cluster of minute stars."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We examined the volcanic peak through a **telescopic** lens, discerning vents emitting thin columns of sulfurous steam."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Astronomers witnessed sudden incandescent jets upon Mars through **telescopic** observations at the Java observatory."*

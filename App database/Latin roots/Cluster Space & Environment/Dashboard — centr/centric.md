@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or situated at or near a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or situated at or near a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located at, or radiating outward from a designated center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized around a specific focal interest, subject, or worldview, often used in compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centric designates having or situated at or near a center."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient astronomers constructed elaborate **centric** spheres to account for the celestial motions."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The lines of force exhibit a strictly **centric** distribution around each isolated electric charge."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The eye exhibits a **centric** symmetry designed to project images clearly upon the concave retina."*

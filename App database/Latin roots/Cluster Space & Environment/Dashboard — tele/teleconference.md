@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleconference
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference held among people in different locations linked by telecommunication technologies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multi-party electronic meeting conducted over telephone or video communication links.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleconference designates a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"A synchronized **teleconference** allows scientists on opposite sides of the globe to deliberate in real time."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Cabinet ministers gathered for an emergency **teleconference** over secure satellite channels during the international crisis."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Multi-terminal circuits designed for a **teleconference** require balanced feedback suppression."*

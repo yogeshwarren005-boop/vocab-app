@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # decentralization
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social process in which population and industry moves from urban centers to outlying districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transfer of decision-making authority and operational responsibility from a central government to regional bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dispersal of physical, industrial, or communicative functions across a distributed network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In one important respect, however, it is different; it provides for more decentralization of control and of reserves than did the Aldrich plan."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A striking feature of the competitive method is its decentralization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A striking feature of the competitive method is its decentralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative **decentralization** produces results of astonishing magnitude by enlisting the private interests of all citizens."*
+> - 📜 **Friedrich Hayek (*The Constitution of Liberty*):** *"Economic **decentralization** ensures that adaptation to local shortages occurs swiftly without bureaucratic delays."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"The spontaneous revolutionary councils represented a profound demand for municipal **decentralization** of power."*

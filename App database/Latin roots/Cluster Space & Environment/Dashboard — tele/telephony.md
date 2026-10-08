@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telephony
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting speech at a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmitting speech at a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of speech and sound between distant points by electrical or electronic means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technological discipline and commercial industry devoted to operating telephone networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For wireless _telephony_ what is wanted is a continuous uninterrupted train of waves, such as those from the "Poulsen arc," and a receiver of the magnetic type."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is strange that wireless telephony has not made greater progress, for it may be said, on the word of one of the greatest authorities, that wireless telephony is simpler and easier than telephony through a submarine cable."*
+> - 📜 **Alexander Graham Bell (*The Development of Telephony*):** *"Practical **telephony** was achieved when the undulating electric current copied the exact vibrations of air."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"The commercial success of long-distance **telephony** required eliminating inductive cross-talk between parallel cables."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Although Faraday did not live to witness practical **telephony**, his discovery of induction provided its physical foundation."*

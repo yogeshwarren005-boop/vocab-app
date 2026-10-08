@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # proteles
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aardwolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aardwolf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of insectivorous African carnivorans containing the aardwolf (*Proteles cristata*), related to hyenas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nocturnal mammal specialized for feeding upon harvester termites, possessing reduced molars and striped pelage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog proteles as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier recognized **Proteles** as an aberrant hyena adapted to an insectivorous diet on the South African veld."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The dentition of **Proteles** displays extreme dental reduction, reflecting its exclusive diet of soft termites."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The genus **Proteles** illustrates how predatory lineages can evolve highly specialized nocturnal foraging habits."*

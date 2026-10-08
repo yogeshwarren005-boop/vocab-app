@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentrated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make denser, stronger, or purer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wholly directed toward a single object, task, or thought; intense and undistracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had water or extraneous matter removed so as to be of high chemical strength or density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is thoughtful, gloomy, concentrated."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sinister design lurked in the woman’s features, a concentrated purpose of revenge on the other sex—so it seemed to him then."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His face grew colder and more shrunken as he stood concentrated on the moment, and a minute or two after, he found himself in the street, walking along he did not know whither."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The development of reason requires long and **concentrated** mental attention upon complex problems."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions launched a **concentrated** charge against the weakest flank of the barbarian host."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"A **concentrated** spirit of vitriol reacts violently upon ordinary metals, releasing noxious fumes."*

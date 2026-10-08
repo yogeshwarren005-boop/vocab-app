@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telemetered
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to telemetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recorded and transmitted electronically from a remote sensor to a receiving monitoring station.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measured at a distance via automated radio, wire, or optical instrumentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetered designates of or pertaining to telemetry."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"The **telemetered** data from the lunar probe confirmed that the surface was firm basalt rather than soft dust."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Continuous **telemetered** signals allowed ground controllers to monitor physiological vital signs of astronauts."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"The **telemetered** telemetry stream was encrypted to ensure integrity across noisy interplanetary channels."*

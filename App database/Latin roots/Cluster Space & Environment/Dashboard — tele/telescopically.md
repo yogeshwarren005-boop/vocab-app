@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescopically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a telescopic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a telescopic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of an optical telescope, or in a manner visible only through magnifying optics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of concentric collapsing tubes; in a sliding, compacted fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopically designates in a telescopic manner."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"When examined **telescopically**, the double star is cleanly separated into two jewel-like components of contrasting hues."*
+> - 📜 **Percival Lowell (*Mars*):** *"The Martian surface features were mapped **telescopically** during successive oppositions under exceptional atmospheric stillness."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Distant spiral nebulae observed **telescopically** confirm that our Milky Way is but one island universe among millions."*

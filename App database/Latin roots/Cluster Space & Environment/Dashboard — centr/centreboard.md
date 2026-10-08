@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centreboard
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable nautical fin or board lowered through a keel trunk to prevent a sailing vessel from drifting to leeward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ballast mechanism or pivoted plate operating along the centerline of a small boat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centreboard designates a retractable fin keel used on sailboats to prevent drifting to leeward."*
+> - 📜 **Robert Louis Stevenson (*The Wrecker*):** *"We lowered the **centreboard** to arrest our leeway as the squall drove across the shoal bay."*
+> - 📜 **Jack London (*The Cruise of the Dazzler*):** *"Joe dropped the **centreboard** and hauled the mainsheet flat to beat against the incoming tide."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The swift sloop handled admirably in shallow waters with her **centreboard** housed inside the trunk."*

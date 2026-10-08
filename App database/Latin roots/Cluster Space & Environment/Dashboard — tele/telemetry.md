@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telemetry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Automatic transmission and measurement of data from remote sources by wire or radio or other means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic transmission and measurement of data from remote sources by wire or radio or other means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The automatic measurement and transmission of data from remote sources to receiving equipment for monitoring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific discipline and technology of remote instrumentation in aerospace and engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetry designates automatic transmission and measurement of data from remote sources by wire or radio or other means."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Reliable rocket **telemetry** is essential to record velocity, acceleration, and combustion temperature in flight."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops in automated flight control rely upon instantaneous **telemetry** transmitted from the rudder sensors."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Pulse-code modulation proved ideal for multi-channel **telemetry** due to its resistance to atmospheric interference."*

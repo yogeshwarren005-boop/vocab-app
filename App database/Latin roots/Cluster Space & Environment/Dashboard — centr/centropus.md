@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centropus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cuculidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cuculidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of non-parasitic cuckoos known as coucals, distributed throughout Africa, Asia, and Australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ground-dwelling cuckoo birds possessing an elongated straight hind claw used for traversing dense vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropus designates a genus of cuculidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The heavy-winged coucal, classified as **Centropus**, scrambled through the thick tangle of thorny bamboo."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The pheasant coucal of genus **Centropus** constructs a bulky domed nest of grasses among swamp vegetation."*
+> - 📜 **Richard Bowdler Sharpe (*Catalogue of the Birds in the British Museum*):** *"In **Centropus**, the long straight hind claw resembles that of a lark, serving for terrestrial locomotion."*

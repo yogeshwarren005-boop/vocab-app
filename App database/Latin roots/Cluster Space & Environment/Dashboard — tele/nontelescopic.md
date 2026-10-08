@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # nontelescopic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not telescopic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not telescopic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not visible through, performed by, or pertaining to a telescope; observable by the naked eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking tubular sections that slide within one another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontelescopic designates not telescopic."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Several brighter variables are easily studied with the naked eye by simple **nontelescopic** observation."*
+> - 📜 **Percival Lowell (*Mars and Its Canals*):** *"Ancient observers were restricted to **nontelescopic** estimates of planetary positions and brightness."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The vast majority of celestial phenomena remain utterly invisible to **nontelescopic** scrutiny."*

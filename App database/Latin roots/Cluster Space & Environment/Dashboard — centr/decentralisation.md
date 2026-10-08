@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # decentralisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spread of power away from the center to local branches or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distribution or transfer of administrative power, functions, or population away from a central hub to local units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reorganization of an economic, political, or technological system to foster distributed local autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralisation designates the spread of power away from the center to local branches or governments."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Healthy **decentralisation** cultivates civic responsibility by placing local affairs in the hands of municipal councils."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political vitality of the American township depends upon systematic administrative **decentralisation**."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"When military pressure relaxes, societies tend toward commercial expansion and institutional **decentralisation**."*

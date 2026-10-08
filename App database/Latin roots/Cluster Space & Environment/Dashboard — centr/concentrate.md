@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentrate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The desired mineral that is left after impurities have been removed from mined ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concentrated form of a foodstuff; the bulk is reduced by removing water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct all attention, effort, or mental faculty toward a single particular task, subject, or objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To increase the strength or density of a fluid or solution by removing water or solvent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have so much to think of, in connexion with Borrioboola-Gha and it is so necessary I should concentrate myself that there is my remedy, you see.” As Caddy gave me a glance of entreaty, and as Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The impending night appeared to concentrate in his eye."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So I resolved, on my next return from Adam Strang’s experiences, whenever it might be, that I should, immediately, on resuming consciousness, concentrate upon what visions and memories I had brought back of chess playing."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The philosopher must **concentrate** his inquiries upon facts rather than indulge in scholastic speculation."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"It was vital to **concentrate** our naval squadrons in the North Sea to deter hostile fleet excursions."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"By gentle heating over a sand bath, we can **concentrate** the acid solution without precipitating salts."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrosome
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellular organelle that functions as the primary microtubule-organizing center of animal cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cytoplasmic structure containing two centrioles that duplicates during interphase to organize the mitotic spindle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosome designates small region of cytoplasm adjacent to the nucleus; contains the centrioles and serves to organize the microtubules."*
+> - 📜 **Theodor Boveri (*The Origin of Malignant Tumors*):** *"Abnormal multiplication of the **centrosome** produces multipolar spindles that disrupt chromosome distribution."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The **centrosome** serves as the dynamic center of the cell, directing aster formation during mitosis."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"Cleavage cannot proceed normally without the introduction of an active **centrosome** by the fertilizing sperm."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telemeter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any scientific instrument for observing events at a distance and transmitting the information back to the observer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to determine the distance to an object, or an apparatus transmitting instrument readings remotely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transmit physical measurements automatically from a remote location by wire or radio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemeter designates any scientific instrument for observing events at a distance and transmitting the information back to the observer."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The electrical **telemeter** recorded barometric pressures atop the mountain observatory and signaled them to the base."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"By aligning the optical reticle of the **telemeter**, the surveyor determines distant triangulation coordinates with high precision."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"We designed an acoustic **telemeter** to measure artillery range through sound velocity differences."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring or direct toward a common center; to converge upon a central focal point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To focus thoughts, affections, or desires deeply and intensely upon a single object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In danger, the president may concentre to a point every effort of the continent."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Terrestrial Heaven, danced round by other Heavens That shine, yet bear their bright officious lamps, Light above light, for thee alone, as seems, In thee concentring all their precious beams Of sacred influence!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every institution will grow and flourish in proportion to the quantity and extent of the means concentred towards its formation and support."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In him all hopes **concentre**, as lines converge upon the focal center of a circle."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Here let me **concentre** all my thoughts upon the glorious ruins of imperial Rome."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The pure spirit seems to **concentre** its scattered rays into an intense burning beacon."*

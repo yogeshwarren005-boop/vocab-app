@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # decentralizing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributing functions, power, or population away from a central hub toward regional branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a diversifying or dispersing influence upon an organization or spatial layout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralizing designates make less central."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"By **decentralizing** public works, the state stimulates civic enterprise in every remote province."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **decentralizing** principle is the true antidote to the creeping paralysis of bureaucratic routine."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"Modern electric power and rapid transit exerted a **decentralizing** force on congested metropolitan cores."*

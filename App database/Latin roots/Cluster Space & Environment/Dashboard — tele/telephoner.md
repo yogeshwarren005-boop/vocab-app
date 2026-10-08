@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telephoner
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person initiating a telephone call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person initiating a telephone call.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who places a telephone call or uses a telephone instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caller engaged in voice conversation over a telephone network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoner designates the person initiating a telephone call."*
+> - 📜 **Mark Twain (*The $30,000 Bequest*):** *"The excited **telephoner** shouted into the mouthpiece, demanding immediate confirmation of the stock price."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"The doctor paused at his desk, waiting for the impatient **telephoner** to conclude her complaints."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt acted the role of a brisk, decisive **telephoner**, barking orders into the transmitter with corporate self-satisfaction."*

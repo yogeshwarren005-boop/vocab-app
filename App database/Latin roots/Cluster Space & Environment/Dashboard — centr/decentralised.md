@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # decentralised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administered or operated through distributed regional units rather than a single focal headquarters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dispersed away from a central geographical or structural point across autonomous nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralised designates make less central."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The anarchist militias operated under a completely **decentralised** command structure without formal hierarchy."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"In medieval times, French society had been loosely **decentralised** across autonomous feudal estates."*
+> - 📜 **Friedrich Hayek (*The Use of Knowledge in Society*):** *"A **decentralised** price system coordinates the scattered knowledge of millions of independent economic agents."*

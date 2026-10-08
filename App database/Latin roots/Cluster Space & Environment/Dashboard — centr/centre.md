@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centre
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-lying region in central france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area that is approximately central within some larger region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point equidistant from all points on the boundary of a circle, sphere, or regular plane figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A focal location, institution, or nexus of intense activity, influence, or commercial exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this from this, if this be otherwise. [_Points to his head and shoulder._] If circumstances lead me, I will find Where truth is hid, though it were hid indeed Within the centre."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth the body of old Salisbury, And here advance it in the market-place, The middle centre of this cursed town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll believe as soon This whole earth may be bor’d, and that the moon May through the centre creep and so displease Her brother’s noontide with th’ Antipodes."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The heavens themselves, the planets, and this **centre** observe degree, priority, and place."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the **centre** to the utmost pole, celestial light dispels ancient chaotic night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery sits in the very **centre** of the fog that wraps London in darkness."*

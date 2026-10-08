@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telephonist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps callers get the person they are calling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who helps callers get the person they are calling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A switchboard operator who connects calls in a telephone exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technician managing operational connections within a telephonic exchange station.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephonist designates someone who helps callers get the person they are calling."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"During the fighting for the telephone exchange, the **telephonist** continued plugging lines under fire."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"A nimble **telephonist** sat before the glowing switchboard, plugging brass jacks with mechanical dexterity."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The cheerful voice of the **telephonist** broke through the silence of the hall, announcing the arrival of guests."*

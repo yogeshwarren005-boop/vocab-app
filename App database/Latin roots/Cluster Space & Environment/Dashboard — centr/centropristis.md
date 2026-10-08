@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centropristis
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea basses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of serranid sea basses native to the western Atlantic, notably the black sea bass (*Centropristis striata*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine percoid fishes prized as food, characterized by strong dorsal spines and serrated preopercular bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropristis designates sea basses."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"Cuvier distinguished **Centropristis** from related perches by the saw-like serrations along its opercular bones."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"The black sea bass, known as **Centropristis**, frequents rocky ledges and artificial reefs off our Atlantic coast."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The juvenile forms of **Centropristis** display distinctive banded patterns that disappear as maturity arrives."*

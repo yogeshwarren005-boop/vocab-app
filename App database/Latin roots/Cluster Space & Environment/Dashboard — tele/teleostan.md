@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleostan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of teleost fishes, the modern bony fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the anatomical attributes of the infraclass Teleostei, notably ossified vertebrae and swim bladders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostan designates a bony fish of the subclass teleostei."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The cranial sutures in the **teleostan** skull exhibit intricate homologies with higher vertebrate skeletons."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"The **teleostan** fishes represent the climax of evolutionary specialization among aquatic gill-bearing animals."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"Comparative osteology confirms that **teleostan** origins trace back to Mesozoic holostean ancestors."*

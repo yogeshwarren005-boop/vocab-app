@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrarchid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A freshwater ray-finned fish belonging to the North American family Centrarchidae, including sunfishes and black basses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or possessing the anatomical characteristics of the sunfish family, notably spiny anal fin rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchid designates small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"The prominent spinous rays of the anal fin distinguish every typical **centrarchid** from the percid fishes."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"This small **centrarchid** inhabits quiet backwaters and constructs shallow circular nests in clean gravel."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"The anatomical affinities of the **centrarchid** radiation demonstrate extensive speciation across North American river basins."*

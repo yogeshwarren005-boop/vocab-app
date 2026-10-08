@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrosymmetric
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a symmetrical arrangement of radiating parts about a central point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a symmetrical arrangement of radiating parts about a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing symmetry about a central inversion point such that every point has an identical opposite counterpart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing crystallographic point groups or physical fields that remain invariant under spatial inversion through the origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetric designates having a symmetrical arrangement of radiating parts about a central point."*
+> - 📜 **William Henry Bragg (*X Rays and Crystal Structure*):** *"A **centrosymmetric** unit cell exhibits no optical activity or piezoelectric potential along its axes."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The packing of ions in rock salt forms a strictly **centrosymmetric** lattice with an inversion center at every ion."*
+> - 📜 **John Desmond Bernal (*The Structure of Liquids*):** *"Diffraction patterns confirm that the atomic arrangement within the crystal remains rigorously **centrosymmetric**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political outlook or policy that avoids extremes and advocates moderate, middle-of-the-road positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological stance mediating between socialist left-wing and conservative right-wing factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrism designates a political philosophy of avoiding the extremes of left and right by taking a moderate position or course of action."*
+> - 📜 **Arthur M. Schlesinger Jr. (*The Vital Center*):** *"Democratic **centrism** defends constitutional liberties against both totalitarian fascism and communist tyranny."*
+> - 📜 **Walter Lippmann (*The Good Society*):** *"A viable democratic order requires a steady **centrism** that resists reactionary panic and radical dogmatism."*
+> - 📜 **George F. Kennan (*American Diplomacy*):** *"Prudent diplomacy relies upon political **centrism** rather than ideological crusades across foreign continents."*

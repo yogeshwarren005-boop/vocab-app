@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centranthus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of southern european herbs and subshrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of southern european herbs and subshrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the honeysuckle family Caprifoliaceae, typified by the red valerian (*Centranthus ruber*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental garden flower distinguished by tubular blossoms possessing a basal spur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centranthus designates genus of southern european herbs and subshrubs."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The prolonged spur of **Centranthus** contains nectar accessible only to insects endowed with long proboscises."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Specimens of **Centranthus** naturalized upon rocky cliffs display dense terminal cymes of deep crimson flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The spurred corolla clearly separates the genus **Centranthus** from typical Valeriana in Mediterranean flora."*

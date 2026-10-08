@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # entelea
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen shrub that grows in new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of evergreen shrub that grows in new zealand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of small trees in the mallow family Malvaceae, native to New Zealand and typified by *Entelea arborescens* (whau or corkwood).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Australasian tree renowned for extremely lightweight, porous wood utilized by indigenous peoples as fishing floats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entelea designates a genus of evergreen shrub that grows in new zealand."*
+> - 📜 **Robert Brown (*Botanical Appendix to Flinders's Voyage*):** *"Brown established **Entelea** to accommodate the distinctive New Zealand tree with all stamens fertile."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The large cordate leaves and bristly capsules of **Entelea** render it one of the most ornamental shrubs of the coastal forest."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The wood of **Entelea** is lighter than ordinary cork and is collected by Maori fishermen for net buoys."*

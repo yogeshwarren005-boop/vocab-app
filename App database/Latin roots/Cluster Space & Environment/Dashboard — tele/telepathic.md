@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telepathic
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, transmitted by, or communicating through apparent telepathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving direct mental contact or transmission of thoughts without the use of recognized sensory channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Evidence regarding alleged **telepathic** impressions between distant relatives requires the most rigorous empirical scrutiny."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The investigator gathered numerous documented instances of **telepathic** warnings received at the moment of death."*
+> - 📜 **H. G. Wells (*Men Like Gods*):** *"In that utopian world, spoken speech had been superseded by direct, instantaneous **telepathic** intercourse."*

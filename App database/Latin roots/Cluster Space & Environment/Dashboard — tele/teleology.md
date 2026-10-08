@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teleology
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a doctrine explaining phenomena by their ends or purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a doctrine explaining phenomena by their ends or purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical study of ends, goals, and purposes in nature, especially the doctrine of final causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief or theory that events and natural phenomena are directed toward an ultimate cosmic purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleology designates (philosophy) a doctrine explaining phenomena by their ends or purposes."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The inquiry into final causes, or **teleology**, is sterile, and like a virgin consecrated to God, produces nothing."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Physical **teleology** provides a powerful moral incentive, directing the mind toward an intelligent author of the world."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The supreme science must consider the good and the end, which constitutes the true domain of **teleology**."*

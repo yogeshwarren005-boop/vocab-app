@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrum
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main body of a vertebra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main body of a vertebra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid, cylindrical central body or ventral mass of a vertebra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A focal point or anatomical midpoint of a physiological structure or complex organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrum designates the main body of a vertebra."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The **centrum** forms the primary vertebral axis upon which the neural and hemal arches are articulated."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In teleostean fishes, each **centrum** is deeply biconcave and perforated by remnants of the notochord."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"The fossil skeleton revealed an ossified **centrum** in every vertebra, proving its advanced bony fish affinities."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centropomus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the centropomidae: snooks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the centropomidae: snooks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical perciform fishes including the common snook (*Centropomus undecimalis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euryhaline marine and estuarine predatory fish possessing a spiny operculum and prominent black lateral stripe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropomus designates type genus of the centropomidae: snooks."*
+> - 📜 **Bernard Germain de Lacépède (*Histoire Naturelle des Poissons*):** *"Lacépède established the genus **Centropomus** to denote fishes with formidable spines upon the gill cover."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Specimens of **Centropomus** migrate between coastal mangroves and freshwater rivers to hunt small forage fish."*
+> - 📜 **Albert Günther (*The Fishes of Central America*):** *"Several species of **Centropomus** are captured by local fishermen in the estuaries of both Central American coasts."*

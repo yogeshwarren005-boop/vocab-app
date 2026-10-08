@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentric
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a common center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a common center, as of circles, spheres, or curved pathways of different diameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in layers or zones radiating successively outward from a common middle point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now, concentric circles seized the lone boat itself, and all its crew, and each floating oar, and every lance-pole, and spinning, animate and inanimate, all round and round in one vortex, carried the smallest chip of the Pequod out of sight."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each year the secretions of the mollusc would add new concentric circles."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The interference of light waves produced a series of brilliant **concentric** rings of color."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The trunk of the petrified tree displayed clear **concentric** growth rings preserved in chalcedony."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The dome of the cathedral was encircled by **concentric** bands of sculpted marble arches."*

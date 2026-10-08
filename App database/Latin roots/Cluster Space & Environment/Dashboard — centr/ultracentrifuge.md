@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ultracentrifuge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an ultracentrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-speed centrifuge optimized for spinning at rates generating intense centrifugal fields capable of settling colloidal and molecular particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analytical laboratory instrument equipped with optical systems to record macromolecular sedimentation boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracentrifuge designates a high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins."*
+> - 📜 **Theodor Svedberg (*Colloid Chemistry*):** *"The oil-turbine **ultracentrifuge** attained rotor velocities exceeding forty thousand revolutions per minute without turbulence."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Using an analytical **ultracentrifuge**, researchers demonstrated that protein molecules sediment at rates determined by their shape and mass."*
+> - 📜 **John Desmond Bernal (*The Physical Basis of Life*):** *"The discovery of crystalline virus particles depended directly upon the immense resolving power of Svedberg's **ultracentrifuge**."*

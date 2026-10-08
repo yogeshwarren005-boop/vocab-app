@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centriscidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrimpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrimpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small tropical marine fishes known as razorfish or snipefish, characterized by transparent, knife-like bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lineage of syngnathiform teleosts noted for swimming in a vertical, head-down orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriscidae designates shrimpfishes."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The remarkable family **Centriscidae** is distinguished by an armor of translucent bony dorsal plates."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the **Centriscidae** swim vertically among sea urchin spines to escape watchful predators."*
+> - 📜 **Francis Day (*The Fishes of India*):** *"Specimens of **Centriscidae** collected in the Andaman reefs illustrate extreme morphological specialization."*

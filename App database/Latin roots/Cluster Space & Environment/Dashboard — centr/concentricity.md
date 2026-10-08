@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # concentricity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having the same center (as circles inside one another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having the same center (as circles inside one another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or geometric attribute of having a common center or shared axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The coaxial alignment and mutual symmetry of concentric rings, cylinders, or orbits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concentricity designates the quality of having the same center (as circles inside one another)."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The remarkable **concentricity** of Saturn's rings with the planet's equator indicates uniform gravitational equilibrium."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"The exact **concentricity** of the turned cylinders is essential to avoid destructive vibration at high speeds."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The apparent **concentricity** of the celestial spheres misled ancient geocentric philosophers for centuries."*

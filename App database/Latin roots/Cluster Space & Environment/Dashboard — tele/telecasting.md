@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecasting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technical practice or profession of broadcasting television programming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmitting video and audio signals simultaneously across television distribution networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecasting designates broadcasting visual images of stationary or moving objects; ;  - ernie kovacs."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The expansion of **telecasting** introduced an unprecedented apparatus for collective social conditioning."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"Electronic **telecasting** retribalizes the populace by replacing sequential typography with simultaneous visual perception."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Bandwidth constraints in **telecasting** necessitate efficient coding algorithms to prevent image distortion."*

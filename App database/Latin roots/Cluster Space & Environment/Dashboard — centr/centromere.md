@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centromere
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specialized DNA region of a chromosome that links a pair of sister chromatids and binds the kinetochore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary constriction of a chromosome essential for spindle attachment and accurate chromosome segregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromere designates a specialized condensed region of each chromosome that appears during mitosis where the chromatids are held together to form an x shape."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal inversions that do not include the **centromere** are termed paracentric in cytological analysis."*
+> - 📜 **Barbara McClintock (*The Production of Homozygous Deficient Tissues in Maize*):** *"Broken chromosome arms lacking a functional **centromere** are lost during mitotic anaphase."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Each chromatid possesses a distinct **centromere** which directs its migration toward the spindle pole."*

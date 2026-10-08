@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescope
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnifier of images of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crush together or collapse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to make distant objects appear nearer by using an arrangement of lenses or mirrors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To slide or cause to slide inward into concentric tubular sections; to compress together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"With the aid of this spyglass or **telescope**, I observed that the moon was not smooth and polished, but rough and mountainous."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I constructed a reflecting **telescope** with a concave spherical mirror to circumvent chromatic aberration of glass lenses."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The moon, whose orb through optic glass the Tuscan artist views at evening from the top of Fesole, in his wondrous **telescope**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrifugate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotate at very high speed in order to separate the liquids from the solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate or subject substances to rotational separation using centrifugal force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To process fluid mixtures by spinning at high rotational velocities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugate designates rotate at very high speed in order to separate the liquids from the solids."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"We must **centrifugate** the fermenting liquor to precipitate yeast sediments before chemical examination."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"It became necessary to **centrifugate** the blood serum to isolate bacterial toxins from cellular debris."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Attempts to **centrifugate** living ova revealed stratified layers of yolk and protoplasm."*

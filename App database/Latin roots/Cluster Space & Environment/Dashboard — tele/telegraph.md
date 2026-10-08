@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telegraph
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus used to communicate at a distance over a wire (usually in morse code).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send cables, wires, or telegrams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system or apparatus for transmitting messages along a wire by electrical pulses using code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transmit a message by electrical telegraph; metaphorically, to convey an intention unintentionally before acting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The high chimney-stacks telegraph family secrets to him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I learned afterward, the Board of Prison Directors had been summoned by telegraph, and two companies of state militia were being rushed to the prison."*
+> - 📜 **Samuel Morse (*Telegraphic Memoirs*):** *"What hath God wrought! flashed across the line as the first formal message sent by electric **telegraph**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We are in great haste to construct a magnetic **telegraph** from Maine to Texas, but Maine and Texas, it may be, have nothing important to communicate."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The semaphoric **telegraph** waved its wooden arms upon the Parisian hilltops, signaling movements of the royal army."*

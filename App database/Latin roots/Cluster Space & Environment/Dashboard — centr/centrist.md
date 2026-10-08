@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a position in the political center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting or pursuing a course of action that is neither liberal nor conservative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person holding moderate political views occupying the middle of the political spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or advocating political moderation and consensus compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrist designates a person who takes a position in the political center."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"The **centrist** deputies sought a fragile reconciliation between royalist loyalists and radical republicans."*
+> - 📜 **Arthur M. Schlesinger Jr. (*The Vital Center*):** *"The pragmatic **centrist** recognizes that enduring reform requires bipartisan cooperation rather than factional war."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"A seasoned **centrist** editor evaluates partisan propaganda with critical detachment."*

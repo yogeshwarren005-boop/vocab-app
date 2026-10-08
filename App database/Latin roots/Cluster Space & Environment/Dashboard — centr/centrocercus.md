@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrocercus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sage grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sage grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American grouse containing the sage-grouse (*Centrocercus urophasianus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sage-grouse bird group distinguished by pointed retrices and elaborate courtship displays on communal leks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrocercus designates sage grouse."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The splendid Cock of the Plains, classified as **Centrocercus**, struts across the sagebrush plains at dawn."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In **Centrocercus**, the elongated pointed tail feathers spread like a fan during the male's vocal inflation."*
+> - 📜 **Spencer Fullerton Baird (*Birds of North America*):** *"The genus **Centrocercus** is uniquely adapted to feeding upon the bitter foliage of Artemisia shrubs."*

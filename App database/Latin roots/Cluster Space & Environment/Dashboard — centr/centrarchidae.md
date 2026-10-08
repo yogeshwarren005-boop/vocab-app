@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrarchidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sunfish family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sunfish family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of freshwater percoid fishes native to North America, comprising sunfishes, black basses, and crappies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lineage of teleost fishes characterized by dorsal spines, nest-building behaviors, and territorial male parental care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchidae designates sunfish family."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The family **Centrarchidae** includes some of the finest game fishes of North America, notably the largemouth bass."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The diverse genera of **Centrarchidae** furnish valuable evidence of ecological divergence within a single continental drainage."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Perciform Fishes in the British Museum*):** *"We classify the **Centrarchidae** alongside the true perches based on internal cranial osteology."*

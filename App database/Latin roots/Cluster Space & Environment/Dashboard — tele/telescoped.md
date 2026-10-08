@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescoped
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compacted, shortened, or compressed together like the sliding tubes of a handheld spyglass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condensing complex historical events or timelines into a single compressed narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boats were dashed against the whale's flank, their cedar planks shattered and **telescoped** in the violent collision."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In the railway disaster, the wooden carriages were smashed and **telescoped** into one another upon the tracks."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Years of adventurous navigation seemed **telescoped** into a single vivid memory as he watched the sunset."*

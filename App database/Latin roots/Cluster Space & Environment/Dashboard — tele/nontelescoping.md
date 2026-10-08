@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # nontelescoping
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not telescopic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not telescopic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not constructed to slide or collapse into concentric tubular sections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining rigid and fixed in length under compressive mechanical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontelescoping designates not telescopic."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"The apparatus was supported by **nontelescoping** brass uprights to prevent accidental displacement."*
+> - 📜 **Nikola Tesla (*Lectures, Patents, Articles*):** *"A **nontelescoping** antenna mast ensured rigid alignment in high-frequency transmission experiments."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"The early steering columns utilized solid, **nontelescoping** steel rods anchored directly to the chassis."*

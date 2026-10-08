@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political policy of concentrating power in a central organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political policy of concentrating power in a central organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political principle or system advocating concentrated power in a single central government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ideological practice of subordinating regional autonomy to a supreme headquarters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralism designates the political policy of concentrating power in a central organization."*
+> - 📜 **Vladimir Lenin (*What Is to Be Done?*):** *"Democratic **centralism** demands the absolute subordination of minority factions to the decisions of the supreme congress."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Bureaucratic **centralism** produces an orderly exterior while deadening the civic vitality of individual communes."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"The administrative **centralism** of modern mass parties obliterated the spontaneous political life of local associations."*

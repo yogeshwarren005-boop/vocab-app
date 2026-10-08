@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To concentrate administrative power, decision-making, or operational control in one central head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring scattered components or lines of communication to a single convergence point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of socialism is the abolition of private property, the centralizing under the control of the state of all wealth, except the simple personal belongings, clothing and other consumption goods."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To **centralize** the revenue collection under federal inspectors was indispensable to maintain national solvency."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"If you **centralize** every municipal decision in Whitehall, local citizens will lose all capacity for self-government."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The growth of national commerce tended inevitably to **centralize** legislative oversight within congressional committees."*

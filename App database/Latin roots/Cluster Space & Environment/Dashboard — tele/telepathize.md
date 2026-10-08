@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telepathize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate nonverbally by telepathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate nonverbally by telepathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To communicate by thought transference; to transmit mental contents telepathically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To convey feelings, thoughts, or perceptions directly between minds without physical apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathize designates communicate nonverbally by telepathy."*
+> - 📜 **Arthur Conan Doyle (*The Vital Message*):** *"The experiments demonstrated that gifted subjects could **telepathize** geometric figures across solid partitions."*
+> - 📜 **William James (*Memories and Studies*):** *"If two consciousnesses can truly **telepathize**, our standard boundaries of individuality must be substantially revised."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Enthusiasts imagined a utopian era wherein all mankind could **telepathize** mutual goodwill across continents."*

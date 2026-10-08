@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centroidal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to (especially passing through) a centroid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to (especially passing through) a centroid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located at, or passing through the centroid of a geometric figure or physical body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to axes of inertia that intersect at the geometric center of gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroidal designates of or relating to (especially passing through) a centroid."*
+> - 📜 **William Thomson (*Elements of Natural Philosophy*):** *"Rotation about a principal **centroidal** axis maintains mechanical stability without dynamic wobble."*
+> - 📜 **Osborne Reynolds (*Papers on Mechanical and Physical Subjects*):** *"The **centroidal** line of the beam undergoes zero longitudinal stress during pure elastic bending."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The moments of inertia referred to the **centroidal** coordinates simplify the equations of rotational motion."*

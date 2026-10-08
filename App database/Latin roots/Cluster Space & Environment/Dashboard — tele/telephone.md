@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telephone
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmitting speech at a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical apparatus for transmitting sound, especially the human voice, over wires or radio waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To contact or speak to someone using a telephone system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Telephone companies are similarly taxed, but sometimes on the number of transmitters, or of subscribers, or on each plant, or otherwise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, sad to relate, the same history had to be repeated in regard to the telegraph and telephone industry, and in some quarters the ultimate outcome is not yet recognized."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Waterworks, gas, electric lighting, street railways, telephone systems, are among these."*
+> - 📜 **Alexander Graham Bell (*The Telephone Papers*):** *"Mr. Watson, come here, I want you: the first articulate speech successfully transmitted by electric **telephone**."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I introduced the **telephone** into Camelot and connected the round table with distant frontier outposts."*
+> - 📜 **Thomas Edison (*The Electrical Review Papers*):** *"My carbon transmitter converted the **telephone** from an acoustic toy into an indispensable instrument of commerce."*

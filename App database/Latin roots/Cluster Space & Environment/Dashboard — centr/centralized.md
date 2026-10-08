@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centralized
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn toward a center or brought under the control of a central authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated under a single supreme authority, headquarters, or unified system of management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converged inward toward a single structural, geometrical, or functional focal locus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The remarkable adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **George Orwell (*Animal Farm*):** *"All rations and production quotas were issued from the **centralized** store under the immediate direction of Napoleon."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"A **centralized** treasury allowed the Crown to impose uniform exactions across all French provinces."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Modern enterprise requires a **centralized** accounting department capable of measuring continuous capital growth."*

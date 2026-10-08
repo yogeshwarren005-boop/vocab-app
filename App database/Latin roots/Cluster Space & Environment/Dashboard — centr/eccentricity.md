@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # eccentricity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strange and unconventional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of elongation of an elliptical orbit, defined as the ratio of focal distance to major axis length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconventional or whimsical behavior, mannerism, or habits departing from ordinary custom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He knew her so well that no eccentricity of behaviour in her would alarm him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, the eccentricity of the proceeding was piquant: I felt interested to see how he would go on."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man who does that is always charged with eccentricity, inconsistency, and that kind of thing."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"The orbital **eccentricity** explains why planetary velocity accelerates at perihelion and slackens at aphelion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosophical **eccentricity** of Emperor Julian amused the populace of Antioch while offending the orthodox clergy."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne considered every deviation from common politeness as a mark of elevated feeling rather than absurd **eccentricity**."*

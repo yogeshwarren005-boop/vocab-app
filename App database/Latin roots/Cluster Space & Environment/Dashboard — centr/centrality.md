@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centrality
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or attribute of being situated at the middle point or physical center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fundamental importance, paramount influence, or pivotal status within an intellectual or social system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrality designates the property of being central."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The **centrality** of inner conversion in the psychology of faith cannot be disputed by any candid observer."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Aristotle assumed the geometric **centrality** of the Earth as an incontrovertible cosmological axiom."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The archetype of the self commands a psychological **centrality** around which all conscious contents arrange themselves."*

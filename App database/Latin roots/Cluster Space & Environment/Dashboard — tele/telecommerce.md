@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecommerce
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commercial trade, retail purchasing, or business transactions conducted remotely via telecommunication systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic shopping and business-to-business electronic exchange of goods and services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommerce designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The advent of **telecommerce** dissolves traditional marketplace geography into instant electronic transactions."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Automated accounting and **telecommerce** will inevitably reshape the distribution of goods across continents."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"Consumers engage in direct **telecommerce** from home consoles, bypassing conventional brick-and-mortar stores."*

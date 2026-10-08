@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescopy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making and using telescopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making and using telescopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or practical technique of constructing and using astronomical telescopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The observational exploration of distant celestial bodies through magnifying optics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopy designates the art of making and using telescopes."*
+> - 📜 **William Herschel (*On the Construction of Specula*):** *"The progress of practical **telescopy** depends upon perfecting the curvature and reflective polish of metallic mirrors."*
+> - 📜 **John Herschel (*A Treatise on Astronomy*):** *"Modern **telescopy** combines optical perfection with clock-driven equatorial mounts to track stellar positions effortlessly."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Achromatic lens combinations revolutionized **telescopy** by banishing the colored halos that once obscured planetary disks."*

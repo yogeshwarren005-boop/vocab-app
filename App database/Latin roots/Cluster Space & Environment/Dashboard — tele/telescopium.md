@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telescopium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near ara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near ara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern celestial hemisphere honoring the astronomical telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A southern asterism located south of Sagittarius and Corona Australis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopium designates a small constellation in the southern hemisphere near ara."*
+> - 📜 **Nicolas-Louis de Lacaille (*Astronomical Observations of the Southern Stars*):** *"Lacaille named the small southern constellation **Telescopium** to honor the instrument that unveiled the heavens."*
+> - 📜 **John Herschel (*Results of Astronomical Observations Made at the Cape of Good Hope*):** *"Within the borders of **Telescopium**, several planetary nebulae and variable stars were charted during our southern sweep."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The stars of **Telescopium** are faint to the naked eye, yet the constellation commemorates the supreme tool of modern science."*

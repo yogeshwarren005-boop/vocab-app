@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # teletypewriter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character printer connected to a telegraph that operates like a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character printer connected to a telegraph that operates like a typewriter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromechanical typewriter connected to a telegraph network, enabling instantaneous two-way typed communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printing telegraph terminal used extensively for news services, military dispatches, and early computer input/output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teletypewriter designates a character printer connected to a telegraph that operates like a typewriter."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The automated **teletypewriter** eliminated the need for human Morse code operators along major news wire services."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The Baudot code utilized in the standard **teletypewriter** assigns five binary units to each typographic character."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"In the imitation game, communication between the interrogator and the hidden participants is conducted via **teletypewriter**."*

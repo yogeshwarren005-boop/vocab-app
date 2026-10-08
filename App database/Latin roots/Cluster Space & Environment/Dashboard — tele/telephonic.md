@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telephonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to telephony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to telephony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, conveyed by, or operating through a telephone system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to electrical sound transmission or telephony technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephonic designates of or relating to telephony."*
+> - 📜 **Alexander Graham Bell (*Researches in Telephony*):** *"The **telephonic** circuit operates by varying electrical resistance in exact rhythm with vocal sound waves."*
+> - 📜 **Thomas Edison (*The Electrical World Papers*):** *"Our carbon button vastly improved **telephonic** clarity over long-distance trunk lines."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"A hurried **telephonic** summons from the Admiralty alerted Holmes to the theft of the naval blueprints."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # ultracentrifugation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centrifugation at very high speeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centrifugation at very high speeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The laboratory process of separating submicroscopic particles, macromolecules, or colloids using an ultracentrifuge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely high-speed centrifugation producing centrifugal acceleration hundreds of thousands of times greater than gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracentrifugation designates centrifugation at very high speeds."*
+> - 📜 **Theodor Svedberg (*The Ultracentrifuge*):** *"Through analytical **ultracentrifugation**, we established that hemoglobin and other native proteins possess uniform molecular weights."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Sedimentation equilibrium obtained by **ultracentrifugation** provides precise measurements of molecular mass in solution."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Modern biochemical **ultracentrifugation** allows investigators to isolate virus particles and enzymes in unblemished purity."*

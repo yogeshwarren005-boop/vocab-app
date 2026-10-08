@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — centr]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # centriole
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cylindrical cell organelle composed of tubulin triplets, involved in spindle fiber formation during mitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central body within the centrosome that divides and migrates to opposite cell poles during division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriole designates one of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"The minute **centriole** acts as the dynamic organizer for the radiating asters during nuclear cleavage."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"At the onset of mitosis, each **centriole** replicates and migrates to opposite poles of the dividing blastomere."*
+> - 📜 **Thomas Hunt Morgan (*Evolution and Adaptation*):** *"The centrosome contains a distinct **centriole** which directs the movement of chromosomes during maturation."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecommuting
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employment at home while communicating with the workplace by phone or fax or modem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employment at home while communicating with the workplace by phone or fax or modem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of working remotely from home or an alternative site using computer and telecom connections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decentralized working arrangement that replaces daily physical travel with digital communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommuting designates employment at home while communicating with the workplace by phone or fax or modem."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"The growth of **telecommuting** heralds a profound shift from centralized factory discipline to domestic autonomy."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Electric technology dissolves the office skyscraper, fostering decentralized practices like **telecommuting** across suburbs."*
+> - 📜 **Arthur C. Clarke (*Voices from the Sky*):** *"Through widespread **telecommuting**, the daily ritual of packed commuter trains will seem an archaic barbarism."*

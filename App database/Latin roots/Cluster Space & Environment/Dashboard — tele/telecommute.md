@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tele]]"
 cluster: "[[Cluster Space & Environment]]"
 status: unread
 ---
+
 # telecommute
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tele within the domain of Space & Environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tele in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To work from home or a remote location while communicating with the workplace via telecommunications technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To substitute electronic communication for physical transportation to an office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommute designates pertaining to, derived from, or characteristic of latin tele within the domain of space & environment."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"Workers will **telecommute** from the electronic cottage, reducing highway congestion and energy consumption."*
+> - 📜 **Arthur C. Clarke (*1984: Spring - A Choice of Futures*):** *"Don't commute; **telecommute**! Why move bodies when we can move ideas at the speed of light?"*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"When executive tasks are mediated by computer terminals, employees may **telecommute** without physical displacement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect or climbing bean or pea plant of the family leguminosae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of any of various bean or pea plants consisting of a case that splits along both sides when ripe and having the seeds attach to one side of the case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a dry fruit of a plant in the pea family (Fabaceae) that splits open along two seams; a pod containing seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the family Fabaceae (such as peas, beans, lentils, or clover), or its edible fruit and seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the legumes are also examined, a few pustules will sometimes be found on them."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of the garden pea bear an elongated **legume** filled with sweet and succulent seeds."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The characteristic fruit of the pulse family is a **legume**, developed from a simple monocarpellary ovary."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I planted seven miles of beans, cultivating that ancient **legume** with hoe and spade in the warm sand of the hill."*

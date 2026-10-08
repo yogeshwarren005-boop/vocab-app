@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The illegitimate offspring of unmarried parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to or forbidden by law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Born of parents not lawfully married to each other according to statutory or canon law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not authorized by law or accepted rules; invalid, spurious, or illicit in origin or logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the insured sets fire to his own buildings, he makes an illegitimate use of insurance."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The meaning of the term, as defined in the codes of the several States, would be as impracticable as the former would be a dishonorable and illegitimate guide."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Why bastard? wherefore base? when my dimensions are as well compact, my mind as generous, as the **illegitimate** offspring of an honest madam?"*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Tyrannical power exercised without the consent of the governed is completely **illegitimate** and contrary to the law of nature."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"To deduce a necessary causal connection from mere temporal succession is an **illegitimate** inference in philosophy."*

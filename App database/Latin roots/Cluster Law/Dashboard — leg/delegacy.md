@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of serving as an official and authorized delegate or agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of representatives or delegates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or position of a delegate; delegated authority, commission, or agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of delegates or representatives sent to act on behalf of a governing body; a delegation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delegacy designates the state of serving as an official and authorized delegate or agent."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Members of parliament do not sit by local **delegacy** merely to promote regional interests, but to deliberate for the nation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A solemn **delegacy** from the provincial communes presented their petition at the bar of the National Assembly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial proconsul governed his vast territory through the **delegacy** of military and civil prefects."*

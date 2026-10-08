@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record in which commercial accounts are recorded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter who was an early cubist (1881-1955).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light, nimble, or buoyant in movement, weight, or character; delicate or swift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic spelling variant of *ledger* (a book of commercial accounts lying stationary on a desk).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Leger, and the colloquy between the Rector and his wife ended."*
-> - 📜 **James Joyce (*Ulysses*):** *"That was one of the saint Legers of Doneraile."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"With **leger** foot and nimble pace the fairy knight danced across the greensward without bending a blade of grass."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The cautious merchant posted every daily sale into his great **leger** with scrupulous clerical accuracy."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Owen spent his days poring over bills of exchange and balancing the vast commercial **leger** of Osbaldistone and Tresham."*

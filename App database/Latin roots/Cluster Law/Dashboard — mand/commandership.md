@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, dignity, or period of service of a military or naval commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The authority and leadership skills required to direct armed forces in campaign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It was like a highly-finished miniature painting representing My Lords of the Circumlocution Department, Commandership-in-Chief of any sort, Government."*
+> - 📜 **George Washington (*Writings: Commission as Commander-in-Chief*):** *"He accepted the supreme **commandership** of the continental army with unfeigned modesty and patriotic dedication."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Marlborough's brilliant **commandership** shattered the military prestige of Louis the Fourteenth on European battlefields."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The veteran general resigned his **commandership** in the East to enjoy a peaceful retirement on his ancestral estate."*

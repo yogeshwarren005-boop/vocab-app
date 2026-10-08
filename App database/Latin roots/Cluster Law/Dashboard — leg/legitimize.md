@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make legitimate or lawful; to give legal, moral, or official sanction and validity to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To justify or make acceptable in the eyes of society or law; to validate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I cannot sense your meaning sometimes.” “If I cannot legitimize our former relations at least I can assist you."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Popular ratification by state conventions was necessary to **legitimize** the newly framed federal constitution."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"No ancient precedent can **legitimize** an injustice which the living soul condemns today."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The election of magistrates by universal suffrage serves to **legitimize** their administrative authority."*

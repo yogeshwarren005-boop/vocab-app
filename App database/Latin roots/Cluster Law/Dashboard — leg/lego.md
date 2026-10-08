@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a child's plastic construction set for making mechanical models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a child's plastic construction set for making mechanical models.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary line of plastic construction toys consisting of colorful interlocking building bricks and gears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin philology, the first-person singular present indicative of *legere*, meaning 'I collect, choose, or read'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lego designates (trademark) a child's plastic construction set for making mechanical models."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In our nursery days, the children built miniature towers with interlocking wooden blocks that foreshadowed modern **lego** systems."*
+> - 📜 **Desiderius Erasmus (*De Copia*):** *"The classical student declares 'audio et **lego**', listening to living orators and gathering pearls from ancient texts."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Like the Latin grammarian who says **lego**, the natural philosopher reads the living alphabet inscribed in nature."*

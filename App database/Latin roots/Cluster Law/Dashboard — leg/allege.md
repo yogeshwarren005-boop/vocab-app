@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Report or maintain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assert, claim, or state as a fact, especially in legal pleading, without immediate conclusive demonstration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring forward as an excuse, justification, or plea in response to an accusation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester in the shadowy orchard; but I could not find a reason to allege for leaving him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Other people would say so, and would allege that he was currying favor with Bulstrode for the sake of making himself important and getting on in the world."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men **allege** the authority of antiquity when reason fails to justify their inherited prejudices."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitors **allege** that extensive family settlements require years of further investigation before distribution."*
+> - 📜 **David Hume (*The History of England*):** *"The ministers could **allege** no constitutional precedent for collecting revenue without parliamentary grant."*

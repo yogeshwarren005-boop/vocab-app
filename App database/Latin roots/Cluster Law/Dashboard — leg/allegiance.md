@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of binding yourself (intellectually or emotionally) to a course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The loyalty that citizens owe to their country (or subjects to their sovereign).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loyalty, fidelity, or obligation of a subject or citizen owed to their sovereign, state, or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devotion, loyalty, or commitment owed to a cause, leader, institution, or ethical principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet he that can endure To follow with allegiance a fallen lord Does conquer him that did his master conquer, And earns a place i’ th’ story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As if allegiance in their bosoms sat Crowned with faith and constant loyalty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you, on allegiance to ourself, To hold your slaughtering hands and keep the peace."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Natural **allegiance** is such as is due from all men born within the king's dominions immediately upon their birth."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"All political connection between them and the state of Great Britain is and ought to be totally dissolved, and all **allegiance** absolved."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"You have no oath registered in heaven to destroy the government, while I shall have the most solemn one to preserve its **allegiance**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as an allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into an allegory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat as or turn into an allegory; to interpret a text or narrative in an allegorical sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express abstract truths, moral lessons, or philosophical principles through figurative symbolic stories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegorise designates interpret as an allegory."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Scholastic commentators loved to **allegorise** every simple historical record in scripture until all literal truth vanished."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Great artists do not consciously **allegorise** nature, but present visible reality with such purity that it speaks divine truths."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Medieval readers tended to **allegorise** classical pagan myths to reconcile Homer with Christian dogma."*

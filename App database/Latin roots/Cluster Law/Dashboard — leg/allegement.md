@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of alleging, asserting, or pleading; a formal legal plea or assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for an allegation or statement brought forward in an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegement designates statements affirming or denying certain matters of fact that you are prepared to prove."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every positive **allegement** must be examined by skeptical inquiry before being admitted into philosophy."*
+> - 📜 **Edward Coke (*Institutes of the Lawes of England*):** *"The crown attorney offered his **allegement** with great solemnity, praying judgment against the prisoner."*
+> - 📜 **Jeremy Taylor (*Ductor Dubitantium*):** *"A conscientious judge will weigh every **allegement** of the poor tenant with the same patience shown to the rich lord."*

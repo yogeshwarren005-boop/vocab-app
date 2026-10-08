@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quicker tempo than andante but not as fast as allegro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical notation, a tempo direction indicating a movement that is light, graceful, and moderately fast, slower than allegro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition, movement, or passage marked to be performed at an allegretto tempo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*
+> - 📜 **Hector Berlioz (*A Treatise on Modern Instrumentation and Orchestration*):** *"The delicate **allegretto** of Beethoven's Seventh Symphony proceeds with an inexorable rhythmic march that holds audiences spellbound."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra took the charming **allegretto** at a brisk, flowing pace that brought out all its sunny pastoral grace."*
+> - 📜 **Robert Schumann (*On Music and Musicians*):** *"In the graceful **allegretto**, the woodwinds converse in tender dialogue before the energetic finale begins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates in allegories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates in allegories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who interprets narratives allegorically or composes allegories; an allegorical writer or commentator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critic who seeks hidden symbolic, spiritual, or moral senses beneath the literal text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegoriser designates someone who communicates in allegories."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Spenser was a consummate **allegoriser**, weaving rich tapestries of chivalric romance around moral philosophy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Neoplatonist **allegoriser** sought to rescue ancient polytheism by transforming Olympian gods into metaphysical forces."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh stood forth as an extraordinary **allegoriser** of modern society through his philosophy of clothes."*

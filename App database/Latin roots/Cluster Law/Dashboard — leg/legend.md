@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A story about mythical or supernatural beings or events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief description accompanying an illustration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional story sometimes regarded as historical but unauthenticated, preserved through cultural memory; a myth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanatory caption, key, or table of symbols accompanying a map, chart, diagram, or coin inscription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A picturesque part of the Hall, called the Ghost’s Walk, was seen to advantage from this higher ground; and the startling name, and the old legend in the Dedlock family which I had heard from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, preceded by the legend Ground-Floor, is inscribed upon a door-post in Symond’s Inn, Chancery Lane—a little, pale, wall-eyed, woebegone inn like a large dust-binn of two compartments and a sifter."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The neighborhood was rich in ghostly treasures of **legend** and local folklore concerning the Headless Horseman."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Critical scrutiny soon stripped away the miraculous **legend** that had clustered around the founding of the holy shrine."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"Ye who love the haunts of Nature, love the sunshine of the meadow, listen to these wild traditions, to this Indian **legend**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a legation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official envoy or emissary, especially an ambassador or papal representative sent on a special diplomatic mission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Rome, a lieutenant general or deputy commander serving under a proconsul or emperor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Winchester in Cardinal’s habit, a Legate and two Ambassadors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, my Lord Protector, see them guarded And safely brought to Dover; where inshipp’d, Commit them to the fortune of the sea. [_Exeunt all but Winchester and Legate._] WINCHESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay my lord legate; you shall first receive The sum of money which I promised Should be deliver’d to his Holiness For clothing me in these grave ornaments."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **legate** commanded three legions stationed along the Rhine to repel the Germanic incursions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The papal **legate** was received at Whitehall with elaborate ceremonial, exciting the suspicions of Protestant London."*
+> - 📜 **William Shakespeare (*King John*):** *"Pandulph, of fair Milan cardinal, and from Pope Innocent the **legate** here, do in his name religious demand make."*

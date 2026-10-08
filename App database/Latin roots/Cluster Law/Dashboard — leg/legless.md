@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having legs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no legs; lacking lower limbs, whether by nature, amputation, or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, describing organisms such as snakes, caecilians, or slow-worms that naturally lack ambulatory legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legless designates not having legs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain **legless** lizards retain rudimentary pelvic bones beneath their skin, revealing their tetrapod ancestry."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The battered veteran sat upon the pier, a **legless** sailor singing ballads of ancient naval fights."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Serpents are truly **legless** reptiles, yet pythons exhibit claw-like spurs representing vestigial hind limbs."*

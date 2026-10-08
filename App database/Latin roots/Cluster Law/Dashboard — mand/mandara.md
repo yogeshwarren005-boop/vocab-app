@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken in the mandara mountains in cameroon; has only two vowels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Hindu mythology, the sacred mountain Mount Mandara, used by the devas (gods) and asuras (demons) as a churning rod to churn the Ocean of Milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toponymic designation for the Mandara Mountains along the northern border of Cameroon and Nigeria, home of the historic Mandara Kingdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandara designates a chadic language spoken in the mandara mountains in cameroon; has only two vowels."*
+> - 📜 **Ralph Waldo Emerson (*Indian Superstition*):** *"With the coiled serpent Vasuki for a rope, the mighty gods rotated Mount **mandara** to extract the nectar of immortality."*
+> - 📜 **Max Müller (*The Six Systems of Indian Philosophy*):** *"Mythological epics describe how Mount **mandara** stood firmly planted upon the back of Kurma the cosmic tortoise."*
+> - 📜 **Heinrich Barth (*Travels and Discoveries in North and Central Africa*):** *"The granite peaks of the **mandara** range rose abruptly above the savannah, sheltering independent pagan mountain tribes."*

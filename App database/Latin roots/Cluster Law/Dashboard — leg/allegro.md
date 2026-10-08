@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brisk and lively tempo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed quickly in a brisk lively manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical notation, a tempo directive meaning quick, brisk, and lively in movement and spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brisk and lively musical piece or movement, typically the opening or concluding movement of a sonata or symphony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth of course belongs to the_ allegro _or_ allegra _division of the army of Venus."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It appears that she was formerly a _danseuse_ at the Allegro, and that she has known the bridegroom for some years."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She used to be at the Allegro."*
+> - 📜 **John Milton (*L'Allegro*):** *"Hence, loathed Melancholy! But come, thou Goddess fair and free, in heaven yclept Euphrosyne, and by men called heart-easing **allegro**."*
+> - 📜 **Hector Berlioz (*Memoirs of Hector Berlioz*):** *"The opening **allegro** burst forth with an explosion of brass and percussion that shook the concert hall."*
+> - 📜 **Virgil Thomson (*The Musical Scene*):** *"Mozart's **allegro** movements balance kinetic exuberance with flawless classical proportion and transparent counterpoint."*

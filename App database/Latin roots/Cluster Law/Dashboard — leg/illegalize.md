@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare illegal; outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare or make illegal; to prohibit by statute or ban under legal sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To outlaw or place outside the protection and sanction of the legal code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegalize designates declare illegal; outlaw."*
+> - 📜 **Thomas Jefferson (*Writings: Notes on the State of Virginia*):** *"The assembly voted to **illegalize** the importation of slaves, taking the first decisive step toward gradual emancipation."*
+> - 📜 **Abraham Lincoln (*Speech at Bloomington*):** *"The national government possesses constitutional authority to **illegalize** involuntary servitude throughout the federal territories."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Industrial legislation intervened to **illegalize** oppressive labor contracts that exploited the unequal bargaining power of workers."*

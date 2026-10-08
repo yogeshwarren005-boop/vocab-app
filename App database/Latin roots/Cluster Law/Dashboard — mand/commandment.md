@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is commanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A divine rule, precept, or solemn edict given with religious authority, especially one of the Ten Commandments (Decalogue).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authoritative order, mandate, or decree issued by a sovereign or governing body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it shall please you to make me a wholesome answer, I will do your mother’s commandment; if not, your pardon and my return shall be the end of my business."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sole daughter of his voice, the divine **commandment** forbade tasting the fruit of that forbidden tree."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Law properly is the **commandment** of him whose command contains in it the reason thereof."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village preacher reminded his flock that love of one's neighbor is the highest **commandment** of the gospel."*

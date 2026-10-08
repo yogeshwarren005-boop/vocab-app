@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without elegance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without elegance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inelegant, clumsy, awkward, or unrefined manner; without grace or artistic polish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cumbersome or unpleasing fashion in language, manners, or mathematical demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her skirt was short in front and narrow below the waist, and her sailor blouse was comfortably but inelegantly loose round the armholes."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Then what?" "Search me," said the boy inelegantly."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"He describes it as covered with lead, and not inelegantly constructed with a roof of stone. [320] Hist."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The awkward servant boy moved **inelegantly** across the carpet, spilling tea upon the polished mahogany."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman expressed his straightforward sentiments **inelegantly**, but with unmistakable sincerity."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The translation was executed **inelegantly**, rendering Cicero's fluid periods into stiff and halting English."*

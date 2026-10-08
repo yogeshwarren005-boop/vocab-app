@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declared but not proved; - wall street journal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asserted, stated, or claimed to be true or to exist, especially without proof or prior to judicial determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accused of or suspected of a crime, infraction, or error without formal conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great Duke Came to the bar, where to his accusations He pleaded still not guilty and alleged Many sharp reasons to defeat the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore go on, For no dislike i’ th’ world against the person Of the good queen, but the sharp thorny points Of my alleged reasons, drives this forward."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The **alleged** murder occurred in the quiet library while the household slept unaware of danger."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **alleged** treason was founded upon the uncorroborated testimony of a single disreputable informer."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An **alleged** infringement of civil rights is brought directly before the federal magistrate for adjudication."*

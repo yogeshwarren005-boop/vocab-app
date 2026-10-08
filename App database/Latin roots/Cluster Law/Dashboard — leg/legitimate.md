@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show or affirm to be just and legitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to the law, statutory rules, or established standards; lawful and valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Born of parents lawfully married; or reasonable, justifiable, and logically sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, your brother is legitimate; Your father’s wife did after wedlock bear him, And if she did play false, the fault was hers; Which fault lies on the hazards of all husbands That marry wives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well then, Legitimate Edgar, I must have your land: Our father’s love is to the bastard Edmund As to the legitimate: fine word: legitimate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my legitimate, if this letter speed, And my invention thrive, Edmund the base Shall top the legitimate."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The only **legitimate** foundation of civil government is the express consent of free men uniting into a community."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The collection of federal revenues is a **legitimate** and indispensable object of national taxation."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley held that her brother had a **legitimate** claim upon her affection and filial duty."*

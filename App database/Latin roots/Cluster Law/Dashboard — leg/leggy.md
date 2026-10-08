@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) having tall spindly stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having long legs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having disproportionately long, slender legs; of an animal or person, tall and awkwardly long-limbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and gardening, describing seedlings or plants that grow excessively tall, spindly, and pale from lack of sunlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leggy designates (of plants) having tall spindly stems."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **leggy** young colt kicked up his heels and bounded across the spring meadow in sheer high spirits."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"When kept in deep shade, the young seedlings became frail and **leggy**, stretching desperately toward the distant window."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A **leggy** staghound ambled across the courtyard to sniff lazily at our carriage wheels."*

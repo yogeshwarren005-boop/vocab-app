@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students of a college.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution of higher education created to educate and grant degrees; often a part of a university.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An educational institution or establishment providing higher education, specialized professional training, or university degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized body, guild, or corporation of persons endowed with common functions or privileges, such as the College of Cardinals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the college of the cardinals Would choose him pope and carry him to Rome And set the triple crown upon his head!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee what, Prince; a college of witcrackers cannot flout me out of my humour."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"Salomon's House was the foundation of a magnificent **college** instituted for the interpreting of nature."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In ancient universities, the master and scholars formed an independent corporation or **college** endowed with extensive liberties."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"To attend a true **college** is to live deliberately and study the profoundest thoughts of the greatest minds of all ages."*

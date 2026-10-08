@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or functioning like a leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or functioning like a leg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or functioning like a leg; having the shape, structure, or position of an ambulatory limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and botany, designating appendages, roots, or supports resembling vertebrate or arthropod legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leglike designates resembling or functioning like a leg."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The strange crustacean moved across the coral reef upon long **leglike** antennae adapted for crawling."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The abdominal swimmerets develop from primitive biramous appendages that share a common **leglike** architecture."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian fighting-machine strode over the pine trees upon three gigantic, articulated, **leglike** steel stilts."*

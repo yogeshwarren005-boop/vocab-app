@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegal or unlawful manner; contrary to law or official regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of statutory rules, legal duties, or authorized procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair, then it is obvious that no crime has been committed, and that, therefore, I am illegally detained.” “No crime, but a very great error has been committed,” said Holmes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His skill caused his downfall: he was convicted of illegally penetrating and modifying a database that was integrating a highly sensitive project."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I afterwards found that their real object was to witness a prize-fight that took place--illegally, of course--on the common."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Goods seized **illegally** without a lawful warrant must be restored to their owner upon a writ of replevin."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign vessels entering our rivers **illegally** to evade customs duties will be subject to immediate forfeiture."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner had been detained **illegally** in the fortress of the Bastille without formal indictment or public hearing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post or office of legate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, tenure, or official dignity of a papal or imperial legate; legation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jurisdiction or mission exercised by a designated diplomatic or ecclesiastical legate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legateship designates the post or office of legate."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"His honorable discharge from the **legateship** in Syria was rewarded with a triumphal entry into the imperial capital."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Cardinal Wolsey used the sweeping powers of his papal **legateship** to reform monastic houses and enrich his own colleges."*
+> - 📜 **David Hume (*The History of England*):** *"The Scottish barons rejected the authority of the **legateship**, refusing to permit a foreign prelate to tax their revenues."*

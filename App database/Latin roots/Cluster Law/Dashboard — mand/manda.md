@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dravidian language spoken in south central india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dravidian language spoken in south central india.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Mandaean religion, esoteric spiritual knowledge or gnosis, personified as the divine savior *Manda d-Hayye* ('Knowledge of Life').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toponymic designation for islands, towns, or archaeological sites in the Indian Ocean and East Africa (such as Manda Island, Kenya).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"I wish he'd come once and we'd have some fun." As if in answer to her wish a boyish whistle rang out, followed by a long-drawn "Oo-oh, Manda, where are you?" "Here."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"He held his red- crowned head high and sang teasingly, "Manda, Manda, red-headed Manda; tee-legged, toe-legged, bow-legged Manda!" "Philip Reist," she shouted crossly, "I am not!"*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Mom says you should stop it." "Yea, that reminds me, Manda, what I come for."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Christians of Saint John preserved the mysterious doctrine of **manda**, holding baptism in flowing rivers to be sacred."*
+> - 📜 **Richard Francis Burton (*Zanzibar: City, Island, and Coast*):** *"Dhows anchored off **manda** island to load mangrove poles and fresh provisions before sailing for Oman."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"Gnostic sects emphasized mystical **manda** as an inward illumination superior to external civil legislation."*

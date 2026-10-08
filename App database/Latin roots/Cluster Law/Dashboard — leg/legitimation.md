@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering a person legitimate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making lawful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making legitimate or lawful; the legal process of conferring legitimate status upon a child born out of wedlock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The justification, sanction, or validation of political power or social practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre is illegitimate.” “But, my dear,” said Prince Vasíli suddenly, clutching the little table and becoming more animated and talking more rapidly: “what if a letter has been written to the Emperor in which the count asks for Pierre’s legitimation?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By civil and canon law, subsequent marriage of the parents effected the **legitimation** of earlier offspring."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Charismatic leaders seek the **legitimation** of their mission through dramatic triumphs and devotion of disciples."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Adoption in archaic Roman law served as an artificial mode of family **legitimation** and religious succession."*

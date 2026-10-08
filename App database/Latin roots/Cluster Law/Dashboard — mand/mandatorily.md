@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be evaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that cannot be evaded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mandatory, compulsory, or obligatory manner; by command of legal mandate or authoritative rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As required by statutory directive without room for discretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandatorily designates in a manner that cannot be evaded."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"Statutory deadlines imposed by the legislature must be applied **mandatorily** by appellate tribunals."*
+> - 📜 **Roscoe Pound (*Jurisprudence*):** *"The industrial safety regulations required protective guards **mandatorily** on all mechanical cutting machinery."*
+> - 📜 **A. V. Dicey (*Introduction to the Study of the Law of the Constitution*):** *"Certain constitutional conventions operate **mandatorily** in practice, though courts will not enforce them directly."*

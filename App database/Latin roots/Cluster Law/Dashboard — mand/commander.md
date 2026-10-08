@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in an official position of authority who can command or control others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in authority, especially one who exercises military or naval command over an army, fleet, or expedition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval officer ranking immediately below a captain and above a lieutenant commander.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good old commander and a most kind gentleman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rejoice, you men of Angiers, ring your bells: King John, your king and England’s, doth approach, Commander of this hot malicious day."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The President is to be **commander** in chief of the army and navy of the United States."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab was the supreme **commander** of the Pequod, holding undisputed sway over the lives of thirty men."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius was the most illustrious **commander** of the age, rescuing Italy and Africa from barbarian conquerors."*

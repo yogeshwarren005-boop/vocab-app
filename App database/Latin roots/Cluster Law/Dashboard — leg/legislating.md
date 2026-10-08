@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making or enacting laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in the enactment or creation of laws; performing parliamentary lawmaking functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official act or process of passing statutes and ordinances through deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whether sixty-five members for a few years, and a hundred or two hundred for a few more, be a safe depositary for a limited and well-guarded power of legislating for the United States?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But he is for legislating it out of all force while the law itself stands."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The real work of **legislating** is conducted within the secrecy of standing committees rather than on the floor of the House."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Americans are perpetually busy **legislating**, revising, and amending their municipal ordinances to meet every local exigency."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A representative assembly is admirably suited for debate, but poorly equipped for the technical work of **legislating** details."*

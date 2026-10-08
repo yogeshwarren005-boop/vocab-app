@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare illegal; outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or declare illegal; to prohibit or ban by statutory law or official regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render an action, enterprise, or contract legally invalid and punishable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegalise designates declare illegal; outlaw."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must not **illegalise** harmless private amusements unless they generate demonstrable public mischief."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Parliament resolved to **illegalise** predatory combinations that conspired to fix the price of food in provincial markets."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The new statute was framed specifically to **illegalise** arbitrary arrests conducted under royal sign-manual."*

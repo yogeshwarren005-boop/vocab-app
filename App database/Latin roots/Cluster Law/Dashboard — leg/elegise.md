@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose an elegy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose an elegy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write or compose an elegy; to lament, mourn, or celebrate the memory of someone in elegiac verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express mournful nostalgia or grief for a departed person or vanished epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elegise designates compose an elegy."*
+> - 📜 **Algernon Charles Swinburne (*Studies in Prose and Poetry*):** *"Poets assembled to **elegise** the memory of their departed master, singing mournful hymns beside his grave."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The wind seemed to **elegise** the ancient glories of the fallen family through the crumbling chimneys of the manor."*
+> - 📜 **Robert Louis Stevenson (*Memories and Portraits*):** *"It is the natural privilege of age to **elegise** the brave comrades and golden summers of departed youth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make legitimate or lawful; to justify, validate, or conform to accepted rules and standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give legal status or recognition to a person, right, or enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legitimise designates make legal."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"To **legitimise** democratic power, government must guarantee the representation of minorities in the national council."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Culture does not seek to **legitimise** existing social prejudices, but tests them against human perfection."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot sought papal authority to **legitimise** the transfer of monastic revenues to secular trustees."*

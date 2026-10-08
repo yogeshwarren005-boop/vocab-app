@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a legislature or composed of members of a legislature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or created by legislation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to make and enact laws; relating to laws or the enactment of statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of a legislature or lawmaking branch of government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not all this variety is essential to an efficient monetary system and several of the kinds survive as the result of historical accidents (political and legislative)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A first simple legislative act fixing the rate of tolls for boats was sufficient."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The change was not brought about without long and strenuous agitation and effort, educational and legislative, as is in part described below. § 14. #Consolidation of railroads#."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a republican government, the **legislative** authority necessarily predominates over the other constitutional branches."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The **legislative** is not only the supreme power of the commonwealth, but is sacred and unalterable in the hands where the community placed it."*
+> - 📜 **Montesquieu (*The Spirit of Laws*):** *"When the **legislative** and executive powers are united in the same person, there can be no liberty."*

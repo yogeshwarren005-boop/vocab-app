@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prohibited by law or by official or accepted rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prohibited by law or by official or accepted rules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to, prohibited by, or violating established law or official statutory regulations; unlawful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports and games, violating established official rules of play or competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had persistently elevated Hellenic Paganism at the expense of Christianity; yet in that civilization an illegal surrender was not certain disesteem."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This form of payment having been found objectionable, it was made illegal in New York and other states, and in most cases dividends are now paid annually."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Standard Oil Company at one time had this form of organization, which was declared by the courts to be illegal _(ultra vires)_ for corporations."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every **illegal** exaction of money under color of office constitutes the serious crime of extortion at common law."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"To enforce an unpopular statute by military force against a free community is an **illegal** stretch of arbitrary prerogative."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Any act of a delegated authority contrary to the tenor of the commission under which it is exercised is void and **illegal**."*

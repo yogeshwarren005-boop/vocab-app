@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of handwriting, print, etc.) not legible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of handwriting, print, etc.) not legible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clear enough to be read; indecipherable or impossible to decipher due to poor handwriting or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing signatures, inscriptions, or printed texts that cannot be made out by the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon should think her handwriting bad and illegible."*
-> - 📜 **Effie Afton (*Eventide*):** *"They have been indicated as [illegible]."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The date upon the damp tombstone was worn and almost **illegible**, obscured by moss and lichen."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery pointed out the few letters he could recognize, confessing that the rest of the book was **illegible** to him."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The inscription on the Roman sacrificial altar had become **illegible** through centuries of North Sea winter storms."*

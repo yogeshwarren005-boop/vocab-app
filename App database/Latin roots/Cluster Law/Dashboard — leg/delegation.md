@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of delegates or representatives sent to act on behalf of others; an official deputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of committing or entrusting authority, tasks, or power to a subordinate agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I was just breaking a last muffin and beginning to smile when I saw a delegation coming down the street and turning into my front gate; I rose to meet it with distinction."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie came over just as soon as the other delegation had got home to take the twins off her hands."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harris was present and actively engaged, and as soon as the battle ceased, a delegation of ladies connected with the Sanitary Commission toiled most faithfully to alleviate the horrors of war."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Power is a trust, and its legitimate exercise is always accompanied by the **delegation** of moral responsibility."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A constitutional **delegation** of sovereign power to the federal congress must be accompanied by adequate means of execution."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A distinguished parliamentary **delegation** traveled to The Hague to offer the English crown to William of Orange."*

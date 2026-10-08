@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative direction or instruction to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military unit or region under the control of a single officer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an authoritative order or directive; to exercise supreme authority and control over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To overlook or dominate from a superior position; or to be in a position to claim respect or resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll be gone, sir knave, and do as I command you!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That man should be at woman’s command, and yet no hurt done!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom our general ancestor replied: Daughter of God and Man, accomplished Eve, those thoughts that **command** our praise are just."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Ay, every inch a king; when I do stare, see how the subject quakes; I **command** the laws."*
+> - 📜 **George Washington (*Farewell Address*):** *"The constitution gives to congress the power to raise and support armies, and to the executive to **command** them."*

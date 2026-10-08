@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an allegorical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an allegorical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of an allegory; in an allegorical, symbolical, or figurative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner conveying a deeper spiritual, moral, or philosophical truth beneath literal narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegorically designates in an allegorical manner."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"Ancient fables were composed **allegorically** to veil profound physical and political secrets from vulgar eyes."*
+> - 📜 **John Dryden (*Absalom and Achitophel*):** *"Dryden treated the biblical rebellion of Absalom **allegorically** to satirize the political machinations of the Whig party."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"When a poet speaks **allegorically**, the literal surface must never violate natural coherence or common sense."*

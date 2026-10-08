@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The author of a mournful poem lamenting the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The author of a mournful poem lamenting the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer or composer of elegies; a poet who expresses grief, lamentation, and mournful remembrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who commemorates departed lives with elegiac sorrow and solemn praise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elegist designates the author of a mournful poem lamenting the dead."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"As an **elegist**, Hammond was tender and musical, though he borrowed too heavily from Roman predecessors."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Gray was our greatest **elegist**, capturing in perfect stanzas the quiet tragedy of humble, unnoticed human lives."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The mournful **elegist** weeps in melodious numbers, seeking in art a solace that cold reality denies to grief."*

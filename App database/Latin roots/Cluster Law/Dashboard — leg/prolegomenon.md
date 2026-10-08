@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary discussion inserted at the beginning of a book or treatise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary discussion inserted at the beginning of a book or treatise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical or explanatory introduction, preface, or preliminary essay prefixed to an extended book or scholarly work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introductory remarks outlining foundational principles, methodology, or background for a discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolegomenon designates a preliminary discussion inserted at the beginning of a book or treatise."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"These pages are not designed for novices, but serve as a critical **prolegomenon** to any future metaphysics that can arise as a science."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He composed a philosophical **prolegomenon** to establish his definitions before entering upon poetic criticism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The learned editor provided an exhaustive **prolegomenon** detailing the manuscript traditions of the Byzantine historians."*

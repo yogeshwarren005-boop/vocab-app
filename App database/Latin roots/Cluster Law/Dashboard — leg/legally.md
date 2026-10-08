@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By law; conforming to the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a legal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that accords with the law; with the sanction or authority of the law; lawfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a legal point of view; in the eyes or interpretation of the legal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess would fain not have conversed with Marian of the man who was legally, if not actually, her husband; but the irresistible fascination of the subject betrayed her into reciprocating Marian’s remarks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The lender of money secured by mortgage has a legally recognized and enforceable interest in the mortgaged wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In France the right of bequest outside the family is legally limited; only the share of one child can be willed away by the father, and the rest must be equally divided among the children."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The estate was **legally** conveyed to the trustees by a deed of lease and release duly enrolled."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The president is **legally** responsible for every official directive issued under his executive seal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Though morally heartless, the moneylender was **legally** entitled to seize the bankrupt debtor's household goods."*

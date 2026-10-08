@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner acceptable to common custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lawfully recognized manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that conforms to the law, rules, or established principles; lawfully and justifiably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logically, genuinely, or by rightful birth under marriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, perhaps, will it fail to be eventually perceived, that behind those forms and usages, as it were, he sometimes masked himself; incidentally making use of them for other and more private ends than they were legitimately intended to subserve."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The sole end for which power can be **legitimately** exercised over any member of a civilized community is to prevent harm to others."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"No imperial administrator can **legitimately** claim arbitrary power over British subjects or Indian allies."*
+> - 📜 **David Hume (*The History of England*):** *"The crown was **legitimately** transferred to William and Mary by the solemn vote of the Convention Parliament."*

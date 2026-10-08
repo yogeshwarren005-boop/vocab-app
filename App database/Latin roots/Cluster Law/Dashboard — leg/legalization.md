@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making lawful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making lawful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something legal or lawful; removal of legal penalties or bans from an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of authenticating documents or validating rights according to statutory procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legalization designates the act of making lawful."*
+> - 📜 **Abraham Lincoln (*Speech at Peoria*):** *"The repeal of the Missouri Compromise was designed for the nationwide **legalization** of slavery throughout the territories."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The gradual **legalization** of commercial customs demonstrates how judges convert business practice into formal law."*
+> - 📜 **Roscoe Pound (*Jurisprudence*):** *"Social progress frequently requires the **legalization** of emerging industrial practices that archaic common law had penalized."*

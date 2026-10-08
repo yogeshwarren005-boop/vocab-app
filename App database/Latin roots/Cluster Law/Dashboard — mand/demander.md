@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes demands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes demands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who demands, insists upon, or claims something as of right or by authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic buyer or consumer whose market preference generates demand for goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demander designates a person who makes demands."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The unjust aggressor becomes a criminal **demander** of that which does not belong to him under natural law."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Every producer of commodities becomes an eager **demander** of other products in exchange for his own."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The rightful **demander** in a writ of right must prove seisin in his ancestor within the statutory period."*

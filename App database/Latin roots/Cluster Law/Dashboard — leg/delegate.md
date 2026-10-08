@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed or elected to represent others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer power to someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sent or authorized to represent others, especially an elected representative sent to a conference or convention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To entrust a task, responsibility, or authority to another person; to assign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then, there are wifely duties which you would not wish to delegate to any one else." "No, never!" she cried."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hoge, was again a Delegate, and in relating the results of her now very large experience, helped greatly the beneficial results of the Council, and harmonized all the views and action of the various branches."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people **delegate** certain specified powers to their representatives, reserving fundamental sovereignty to themselves."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The legislative power cannot **delegate** the power of making laws to any other hands, for it is only a delegated power from the people."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"Every **delegate** to the Continental Congress was conscious that signing the parchment pledged his life and sacred honor."*

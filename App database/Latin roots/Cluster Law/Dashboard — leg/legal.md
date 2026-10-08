@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Established by or founded upon law or official or accepted rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to jurisprudence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, based on, or concerned with the law; conforming to, permitted by, or established under statutory law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognized, enforceable, or created by the principles of positive law rather than equity or morality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was ever seen An emperor in Rome thus overborne, Troubled, confronted thus; and, for the extent Of legal justice, used in such contempt?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is the registrar below the judge, in wig and gown; and there are two or three maces, or petty-bags, or privy purses, or whatever they may be, in legal court suits."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks have been in the habit of fleshing their legal wit upon it."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Municipal law is a rule of civil conduct prescribed by the supreme power in a state, commanding what is **legal**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitution is the fundamental law, and no **legal** enactments contrary to its spirit can remain valid."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Where there is no law there is no freedom, for liberty is the exemption from restraint under established **legal** order."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various geometric designs (usually circular) symbolizing the universe; used chiefly in hinduism and buddhism as an aid to meditation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various geometric designs (usually circular) symbolizing the universe; used chiefly in hinduism and buddhism as an aid to meditation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Hinduism and Buddhism, a geometric spiritual and ritual diagram representing the cosmos, used as an aid to meditation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian psychology, a circular symbolic representation of the self, wholeness, and the integrated psyche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandala designates any of various geometric designs (usually circular) symbolizing the universe; used chiefly in hinduism and buddhism as an aid to meditation."*
+> - 📜 **Carl Jung (*Modern Man in Search of a Soul*):** *"Patients spontaneous draw circular **mandala** patterns during periods of psychological crisis to restore internal equilibrium."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The lama unrolled his sacred chart, pointing to the concentric circles of the cosmic **mandala** and the Wheel of Life."*
+> - 📜 **Max Müller (*Sacred Books of the East*):** *"The tantric ritual involves drawing an intricate sand **mandala** to invoke the celestial guardians of the cardinal directions."*

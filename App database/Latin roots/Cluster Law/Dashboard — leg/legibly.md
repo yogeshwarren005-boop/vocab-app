@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a legible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a legible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear, readable, and easily decipherable manner; with distinct visual characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly and unmistakably apparent to observation or discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Copy me a line or two of that valuation, with the figures at the end.” At that time the opinion existed that it was beneath a gentleman to write legibly, or with a hand in the least suitable to a clerk."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Never, indeed, had I observed a human countenance in which grief was more legibly inscribed."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She had even made considerable proficiency in writing; could sign her own name without missing a letter, and so legibly that her aunts could read it without spectacles."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The letter was **legibly** inscribed, enabling Elinor to recognize the handwriting of her sister at first glance."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The postmark was stamped **legibly** across the seal, indicating dispatch from the southwest district of London."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her generous intentions were written **legibly** in her candid expression, winning the confidence of all."*

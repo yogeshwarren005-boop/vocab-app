@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or enacts laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or enacts laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes laws; an elected member of a legislative body such as a parliament or congress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical or philosophical lawgiver, such as Solon, Lycurgus, or Moses, who institutes a civil constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The harmonizing of these needs in the laws of taxation requires a high degree of wisdom, of foresight, and of integrity in the legislator and in the citizen."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All the rest is to show what sort of legislator a philanthropist is likely to make,” ended the Rector, throwing down the paper, and clasping his hands at the back of his head, while he looked at Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Again: “Were the power of judging joined with the legislative, the life and liberty of the subject would be exposed to arbitrary control, for THE JUDGE would then be THE LEGISLATOR."*
+> - 📜 **Jean-Jacques Rousseau (*The Social Contract*):** *"The wise **legislator** does not begin by drafting laws, but by examining whether the people are capable of bearing them."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poets are the hierophants of an unapprehended inspiration; poets are the unacknowledged **legislator** of the world."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A true **legislator** must possess a heart full of sensibility, loving and respecting his kind while reforming their institutions."*

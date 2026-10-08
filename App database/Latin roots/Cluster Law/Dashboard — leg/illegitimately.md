@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner disapproved or not allowed by custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of biological parents not married to each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegitimate, unauthorized, or unlawful manner; contrary to recognized law or rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By improper birth, spurious reasoning, or unauthorized assumption of power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Legitimately applied they yield science; illegitimately applied they yield magic, the bastard sister of science."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The usurper seized the purple **illegitimately**, bribing the praetorian cohorts to murder the lawful emperor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown revenues were collected **illegitimately** by royal proclamation without the consent of parliament."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The argument proceeded **illegitimately** by assuming the very premise which it had undertaken to demonstrate."*

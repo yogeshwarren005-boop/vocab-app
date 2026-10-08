@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to what has been alleged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to what has been alleged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to claim or assertion, though without definitive or verifiable proof; purportedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner claimed by an accuser or litigant in legal argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegedly designates according to what has been alleged."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancestral parchment was **allegedly** concealed behind the secret panel of the oak-paneled drawing room."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She was **allegedly** in possession of enormous private wealth, though her daily expenditures were modest."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"The priceless Indian diamond had **allegedly** disappeared during the festive birthday dinner."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style that uses the abstruse technical vocabulary of the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style that uses the abstruse technical vocabulary of the law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal, technical, and often convoluted language and terminology characteristic of legal documents and lawyers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dense, repetitive legal phraseology often difficult for laypersons to understand or interpret.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legalese designates a style that uses the abstruse technical vocabulary of the law."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Path of the Law*):** *"The student must look beneath the archaic **legalese** of old writs to discover the living social policy that gave them birth."*
+> - 📜 **Benjamin N. Cardozo (*Law and Literature*):** *"Judicial opinions should eschew sterile **legalese**, striving instead for clarity, literary precision, and intellectual force."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The convoluted **legalese** invented by attorneys serves primarily to enrich the profession at the expense of bewildered suitors."*

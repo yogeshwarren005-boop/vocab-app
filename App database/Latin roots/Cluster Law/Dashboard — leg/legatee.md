@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a legacy is bequeathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a legacy is bequeathed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or institution to whom a legacy or personal property is bequeathed in a last will and testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of an inheritance or charitable bequest under an estate settlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed: his intention to adopt me and make me his legatee."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such conversation paused suddenly, like an organ when the bellows are let drop, if Mary Garth came into the room; and all eyes were turned on her as a possible legatee, or one who might get access to iron chests."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here, clearly, was a new legatee; else why was he bidden as a mourner?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If the testator die in debt, the executor must satisfy creditors before distributing any property to a **legatee**."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was his sole executor, his sole administrator, his sole assign, his sole residuary **legatee**, his sole friend."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The hospital was endowed for the perpetual support of twelve aged bedesmen, each named as a **legatee** under the founder's will."*

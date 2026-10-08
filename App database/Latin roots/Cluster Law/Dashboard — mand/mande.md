@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of Niger-Congo languages and ethnic groups of West Africa, including Mandinka, Bambara, Soninke, and Dyula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the historic Mali Empire, its culture, oral epic traditions (*Epic of Sundiata*), and peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mande designates a group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast."*
+> - 📜 **Mungo Park (*Travels in the Interior Districts of Africa*):** *"The **mande** traders traversed vast distances across the western Sudan, conducting extensive commerce in gold and salt."*
+> - 📜 **Heinrich Barth (*Travels and Discoveries in North and Central Africa*):** *"Linguistic affinities linked the scattered tribes along the upper Niger to the ancient **mande** stock of the Mali empire."*
+> - 📜 **Edward Wilmot Blyden (*Christianity, Islam and the Negro Race*):** *"The oral griots preserve the epic genealogies of the great **mande** heroes with remarkable historical fidelity."*

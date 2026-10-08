@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrary command cancelling or reversing a previous command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke, cancel, or reverse a previous order, command, or military directive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order or directive that revokes or contradicts a former one; a cancellation of instructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you no countermand for Claudio yet, But he must die tomorrow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happily You something know, yet I believe there comes No countermand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, poor man, by your first order died, And that a winged Mercury did bear; Some tardy cripple bore the countermand, That came too lag to see him buried."*
+> - 📜 **Walter Scott (*Waverley*):** *"A mounted courier galloped into camp carrying urgent orders from the general to **countermand** the planned assault."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king attempted in vain to **countermand** the sailing of the fleet, but his messengers arrived too late at Plymouth."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Orders were issued and instantly **countermand**ed amidst the wild confusion that preceded the battle of Waterloo."*

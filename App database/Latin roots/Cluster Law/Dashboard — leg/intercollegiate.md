@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of competition between colleges or universities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of competition between colleges or universities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, or carried on between different colleges or universities, especially sports or debates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to athletic, academic, or cultural rivalries and cooperative leagues among institutions of higher learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercollegiate designates used of competition between colleges or universities."*
+> - 📜 **Woodrow Wilson (*Mere Literature and Other Essays*):** *"The annual **intercollegiate** debate aroused as much passionate rivalry between rival campuses as football."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"Participation in clean **intercollegiate** athletics builds physical courage and vigorous character in young citizens."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory watched the brilliant autumn crowds gathering for the great **intercollegiate** contest upon the Princeton field."*

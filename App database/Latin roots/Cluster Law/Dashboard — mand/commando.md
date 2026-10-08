@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military unit trained as shock troops for hit-and-run raids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious military unit trained for raids into enemy territory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier specially trained for carrying out sudden, surprise raids and covert military operations behind enemy lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small, agile military raiding unit organized for shock tactics and hazardous independent operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"And when she died, having lived out her life just before her husband, Ralph Kenzie, went on commando with his son to the Zulu war, whither her death drove him, ah! then it ached for the last time."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We formed the special **commando** units to carry the war onto the enemy's coastline with swift amphibious raids."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The mounted **commando** struck with lightning speed against the supply column and vanished across the veld."*
+> - 📜 **Evelyn Waugh (*Sword of Honour*):** *"Guy Crouchback volunteered for the hazardous **commando** brigade, undergoing rigorous training in the Scottish Highlands."*

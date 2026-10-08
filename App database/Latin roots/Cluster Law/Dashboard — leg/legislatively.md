@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By legislation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By legislation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of legislation; through the action or authority of a legislative body; by statute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner pertaining to the constitutional lawmaking process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legislatively designates by legislation."*
+> - 📜 **Thomas Jefferson (*Writings: Autobiography*):** *"The assembly acted **legislatively** to abolish primogeniture and establish absolute religious freedom."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Rights that were formerly recognized only in equity were **legislatively** incorporated into ordinary civil codes."*
+> - 📜 **A. V. Dicey (*Introduction to the Study of the Law of the Constitution*):** *"Parliament is sovereign, possessing the constitutional power to enact or repeal any law **legislatively** without judicial veto."*

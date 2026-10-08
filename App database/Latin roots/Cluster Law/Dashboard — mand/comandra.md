@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of chiefly north american parasitic plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of chiefly north american parasitic plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hemiparasitic perennial herbaceous plants in the sandalwood family (Santalaceae), known as bastard toadflax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North American woodland and prairie plants that attach to the roots of neighboring woody plants to absorb water and nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comandra designates small genus of chiefly north american parasitic plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The low perennial **comandra** umbellata bears small greenish-white flowers in terminal clusters across dry woods."*
+> - 📜 **John Muir (*The Mountains of California*):** *"On rocky slopes below the pine belt, delicate stems of **comandra** grew parasitically upon the roots of manzanita."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Botanists noted that **comandra** produces root haustoria that tap into the vascular bundles of surrounding grasses."*

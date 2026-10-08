@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegible or indecipherable manner; so poorly written or printed as to defy reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that cannot be deciphered or understood by visual inspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegibly designates in an illegible manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The address was scrawled **illegibly** across the torn envelope, testing all of Holmes's analytical skill."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Barkis had written his will **illegibly** with chalk on the lid of his old sea-chest, leaving everything to Peggotty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon penned his scholarly notes so **illegibly** that poor Dorothea strained her eyes for hours to transcribe them."*

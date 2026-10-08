@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Staying power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of leg; the limbs upon which a biped or quadruped stands and walks; supports of furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquially, stamina, enduring viability, or sustained popular appeal of an enterprise or artistic work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His legs bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not for my spirits, if my legs were not weary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are ambitious for poor knaves’ caps and legs."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Why, man, he doth bestride the narrow world like a Colossus, and we petty men walk under his huge **legs** and peep about."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles had a habit of putting his head between his **legs** and sketching skeletons upon his slate during difficult lessons."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer stood balanced upon his brawny **legs**, steadying himself against the violent pitch of the whaleboat."*

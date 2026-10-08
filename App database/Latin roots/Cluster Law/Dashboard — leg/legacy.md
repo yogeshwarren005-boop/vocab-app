@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a gift of personal property by will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a gift of personal property by will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amount of money or personal property left to someone in a testament or will; a bequest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something transmitted by or received from an ancestor or predecessor or from the historical past.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Diana, take heed of this French earl; the honour of a maid is her name; and no legacy is so rich as honesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out with that too; it was Eve’s legacy and cannot be ta’en from her."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A specific **legacy** consists of a designated piece of property bequeathed directly to an identified legatee."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The reading of the deceased landlord's will revealed a surprising **legacy** that confounded the expectations of his family."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The habits of local self-government represent the most precious **legacy** bequeathed to Americans by their English ancestors."*

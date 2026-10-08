@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to another person for decision or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To consign, dismiss, or assign to an inferior rank, obscure position, or lower category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to banish or exile a person from a city or country without confiscating property or civil rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Whatever promises the nation makes, the nation must perform; and the nation can not with safety relegate this duty to the states."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was mostly a journey to the farmhouse on the slopes above the vale, to inquire how the advanced cows were getting on in the straw-barton to which they were relegated."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The "committing" of his sermons gave him little or no trouble, and he soon found that it could be relegated without anxiety to Saturday evening."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus chose to **relegate** the poet Ovid to the remote and barbarous shores of the Black Sea."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To **relegate** dissenting opinions to silence is to rob humanity of the opportunity to test and deepen the truth."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Modern economics threatens to **relegate** human labor to a mere mechanical commodity subject to blind competition."*

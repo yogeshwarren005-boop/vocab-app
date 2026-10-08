@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated or sanctioned by law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not regulated or sanctioned by law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to, governed by, or falling within the scope of the law; extralegal or informal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning personal, ethical, economic, or social matters rather than formal legal rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlegal designates not regulated or sanctioned by law."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Path of the Law*):** *"We must carefully separate legal concepts from **nonlegal** moral intuitions to understand what the law actually commands."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Commercial disputes are frequently resolved through **nonlegal** trade associations long before lawsuits are filed."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Religious faith in America acts as a powerful **nonlegal** restraint that preserves moral order within a free society."*

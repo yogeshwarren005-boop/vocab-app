@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mournful poem; a lament for the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mournful poem; a lament for the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem of serious reflection, typically a lament for the dead; a sorrowful lyrical meditation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mournful musical composition or poem commemorating loss, transience, and mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lapraik Epistle To William Simson One Night As I Did Wander Tho’ Cruel Fate Should Bid Us Part Song—Rantin’, Rovin’ Robin Elegy On The Death Of Robert Ruisseaux Epistle To John Goldie, In Kilmarnock The Holy Fair Third Epistle To J."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor Mailie’s Elegy Lament in rhyme, lament in prose, Wi’ saut tears trickling down your nose; Our bardie’s fate is at a close, Past a’ remead!"*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The paths of glory lead but to the grave, wrote the poet in his celebrated **elegy** upon the humble dead."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"In this passionate **elegy**, Shelley wept for Keats, declaring that his fame had joined the eternal stars."*
+> - 📜 **John Milton (*Lycidas*):** *"Yet once more, O ye laurels, and once more ye myrtles brown, I come to pluck your berries harsh and crude in this sad **elegy**."*

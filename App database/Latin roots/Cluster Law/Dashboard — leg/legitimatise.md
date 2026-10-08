@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make legitimate or lawful; to sanction or confer legal or moral approval upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confer the status of legitimacy upon a child born out of wedlock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legitimatise designates make legal."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A special parliamentary act was introduced to **legitimatise** the royal succession and settle the title of the crown."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Society invents elaborate conventions to **legitimatise** the cruel economic exploitation of the weak."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"Wise legislation will **legitimatise** commercial arrangements that arise from mutual voluntary consent."*

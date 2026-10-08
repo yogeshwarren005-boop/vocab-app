@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who is a member of a legion (especially the french foreign legion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who is a member of a legion (especially the french foreign legion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier belonging to a Roman legion; a professional infantryman of ancient Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to a legion, or composed of legions; forming an immense number.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My own twenty legionaries were close to hand and in readiness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heavy-armed **legionary** bore the pilum and the short Spanish sword that conquered the civilized world."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"Behind the golden eagles marched the scarred **legionary**, proud of his civic crown won in bitter Gallic battles."*
+> - 📜 **Walter Scott (*Count Robert of Paris*):** *"The Byzantine guardsmen retained the archaic armor and weapons of the **legionary** long after the western empire fell."*

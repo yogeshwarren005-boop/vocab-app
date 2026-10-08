@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to another person for decision or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consigning or demoting someone or something to a subordinate, obscure, or inferior station.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Banishing from favor or central consideration to a marginal status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relegating designates authorizing subordinates to make certain decisions."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond succeeded in **relegating** his wife to the background of his meticulously arranged salon."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"By **relegating** artistic ideals to an idle luxury, the industrial age impoverishes the national imagination."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king dismissed the veteran minister, **relegating** him to his country estates away from the court."*

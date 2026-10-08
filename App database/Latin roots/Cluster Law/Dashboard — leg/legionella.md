@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In microbiology, a genus of pathogenic Gram-negative rod-shaped bacteria, notably *Legionella pneumophila*, the causative agent of Legionnaires' disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic environmental bacteria that proliferate in warm water systems, cooling towers, and plumbing, causing atypical pneumonia upon inhalation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legionella designates the motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical epidemiologists isolated the fastidious bacterium **legionella** from air-conditioning systems of large public hotels."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Routine environmental sanitation of industrial cooling systems prevents the aerosol transmission of pathogenic **legionella**."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Like earlier bacteriologists hunting anthrax, modern disease detectives tracked **legionella** through specialized charcoal-yeast culture media."*

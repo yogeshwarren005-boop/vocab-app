@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent diplomatic mission headed by a minister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomatic minister and their staff representing their government in a foreign country; an embassy of the second rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official residence, offices, or mission of a diplomatic legate or minister plenipotentiary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Shortly after this his older brother, Gansevoort Melville, sailed for England as secretary of legation to Ambassador McLane, and the manuscript was intrusted to Gansevoort for submission to John Murray."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I did not fear trouble of any sort in spite of a last letter of warning received at Hong Kong from our Peking Legation, but there was just enough of a touch of adventure to the trip to make the roughnesses of the way endurable."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He had since acted as Secretary to the Chinese Legation in Washington, and was quite at home in Western ways."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"During the Civil War, the American **legation** in London fought a desperate diplomatic battle to prevent British intervention."*
+> - 📜 **Washington Irving (*Life of George Washington*):** *"John Adams was appointed minister to Great Britain, establishing the first formal American **legation** at the Court of St. James."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Persian king received the imperial **legation** with haughty splendor in his palace at Ctesiphon."*

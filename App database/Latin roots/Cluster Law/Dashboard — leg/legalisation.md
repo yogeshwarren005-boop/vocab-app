@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making lawful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making lawful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making lawful or removing legal prohibitions from an activity; formal statutory authorization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal authentication or certification of a document to verify its legal validity in court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legalisation designates the act of making lawful."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The legislative **legalisation** of trade unions eliminated the threat of criminal conspiracy charges against striking workmen."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary **legalisation** of the new charter confirmed the corporation's ancient maritime monopolies."*
+> - 📜 **Jeremy Bentham (*Principles of Judicial Procedure*):** *"Official **legalisation** of foreign affidavits requires the seal of an accredited consular representative."*

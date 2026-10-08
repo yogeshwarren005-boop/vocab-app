@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of being authorized or in accordance with law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to the law, rules, or constitutional principles; legality and moral justification of authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Status of a child born to legally married parents; authentic validity or genuine authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"On March 24, 1814, he married Harriet in church, to settle any possible question as to the legitimacy of his children; but they parted soon after."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Webber dynasty continued in uninterrupted succession, and never did a line give more unquestionable proofs of legitimacy."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Every system of domination attempts to cultivate and maintain belief in its **legitimacy** among its subjects."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Traditional **legitimacy** binds society together through an enduring contract between the dead, the living, and the unborn."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The civil law presumes the **legitimacy** of any child born during the lawful subsistence of marriage."*

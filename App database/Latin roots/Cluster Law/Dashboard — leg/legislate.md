@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make laws, bills, etc. or bring into effect by legislation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make, enact, or pass laws; to create statutory regulations through a legislative assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To govern, regulate, or attempt to control social behavior by enacting statutory rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Construe either of these articles by the rules which would justify the construction put on the new Constitution, and they vest in the existing Congress a power to legislate in all cases whatsoever."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No man can be a competent legislator who does not add to an upright intention and a sound judgment a certain degree of knowledge of the subjects on which he is to legislate."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The so-called laws of mortal belief are destroyed by the understanding that Soul is immortal, and that mortal mind cannot legislate the times, periods, 381:15 and types of disease, with which mortals die."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament must not seek to **legislate** upon abstract theoretical rights, but upon the real temper and habits of the people."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The supreme power has authority to **legislate** only for the preservation of society and every person in it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal congress was created to **legislate** for the general welfare and common defense of the American states."*

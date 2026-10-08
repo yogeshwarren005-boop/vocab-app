@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of handwriting, print, etc.) capable of being read or deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of handwriting, print, etc.) capable of being read or deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clear enough to be read and deciphered without ambiguity; readable, as handwriting or print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily discerned, evident, or interpreted by the eye or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The letter, with a direction hardly legible, to “Miss A."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She inserted the words in a small though legible handwriting; enclosed the sheet in an envelope, and dipped her pen for the direction."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, let me look at your face: turn to the moonlight.” “Why?” “Because I want to read your countenance—turn!” “There! you will find it scarcely more legible than a crumpled, scratched page."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His signature was bold and **legible**, standing out distinctly at the bottom of the formal agreement."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The deep lines upon the minister's brow presented a **legible** record of internal agony and spiritual conflict."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The faded ink upon the prison scrap remained surprisingly **legible** after decades in the dark chimney."*

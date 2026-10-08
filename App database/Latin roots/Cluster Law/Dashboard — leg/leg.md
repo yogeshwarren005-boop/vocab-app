@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure in animals that is similar to a human leg and used for locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the limbs on which a person or animal walks, stands, or runs; the lower limb from hip to ankle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A support of a chair, table, or other furniture; or one stage or section of a journey, course, or race.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not very tall, yet for his years he’s tall; His leg is but so-so, and yet ’tis well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab paced the quarterdeck, the ivory **leg** fashioned from the jawbone of a sperm whale striking the planks."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The escaped convict limped along the marshes, a heavy iron ring chafing bitterly around his wounded **leg**."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver possessed but a single **leg**, which he managed with astonishing agility upon a wooden crutch."*

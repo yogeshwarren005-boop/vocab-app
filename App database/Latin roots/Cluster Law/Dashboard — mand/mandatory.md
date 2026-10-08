@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of a mandate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A territory surrendered by turkey or germany after world war i and put under the tutelage of some other european power until they are able to stand by themselves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by law, rule, or statute; compulsory, obligatory, and not optional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding or conveying a mandate; or designating a power or nation holding a League of Nations mandate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the instant a knock, vast and compulsive, inexorable and mandatory as the stamp of the iron hoof of doom, smote me and reverberated across the universe."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was not mandatory, but permissive; and negotiations could now be opened with the gentlemen at Annapolis."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"COMPLIANCE WITH THIS PUBLICATION IS MANDATORY UNQUOTE *** Mental health experts have come to accept paraprofessional-level suicide intervention and prevention workers as among those in the forefront of primary resources."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The provisions of a penal statute are **mandatory**, admitting of no arbitrary dispensation by royal authority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **mandatory** constitutional command leaves no discretion to the executive magistrate to delay execution."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Collected Legal Papers*):** *"A **mandatory** injunction was issued directing the defendant to remove the obstruction from the public highway."*

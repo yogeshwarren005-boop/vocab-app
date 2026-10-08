@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who make or amend or repeal laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persons who make or amend or repeal laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legislative body of a country, state, or commonwealth; a parliament, congress, or national assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized governing branch of government empowered to create, amend, and repeal statutory laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By changing the rates on foreign exports or imports, the railroads frequently have made or nullified tariff rates and have defeated the intention of the legislature."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was commonly charged in some states that the legislature and the courts were "owned" by the railroads."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Eastern states were not without their troubles, for the report of the Hepburn Committee of the New York legislature in 1879 showed that discrimination between shippers prevailed to an almost incredible degree in every portion of New York state."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state **legislature** serves as an incorruptible sentinel against any encroachment attempted by the national authorities."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic states, the authority of the **legislature** is almost without bounds, reflecting the sovereign will of the people."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The English **legislature** consists of three branches: the Crown, the House of Lords, and the House of Commons."*

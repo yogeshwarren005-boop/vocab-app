@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking refinement and good taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking refinement and good taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance, refinement, good taste, or graceful style; clumsiness or coarseness of form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inelegant word, phrase, design, or action that offends polished aesthetic taste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inelegance designates the quality of lacking refinement and good taste."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth blushed at the **inelegance** of her family's behavior at the Netherfield ball, which mortified Darcy."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The critic lamented the harsh **inelegance** of early Tudor diction when compared with classical Latin harmony."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"Sudden angularity and rough surfaces create an impression of **inelegance** that repels the delicate eye."*

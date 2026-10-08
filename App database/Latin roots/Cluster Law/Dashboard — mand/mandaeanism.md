@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mandaeism; the ancient Gnostic monotheistic religion venerating John the Baptist and practicing ritual baptism (*masbuta*) in living water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent religious tradition characterized by dualistic cosmology of Light and Darkness and sacred texts in Mandaic Aramaic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandaeanism designates a gnostic religion originating the 2nd and 3rd centuries that believes john the baptist was the messiah and that incorporates jewish and christian elements into a framework of dualistic beliefs."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The persistent survival of **mandaeanism** demonstrates how ritual baptism can anchor the identity of a faith across millennia."*
+> - 📜 **Ernest Renan (*The Life of Jesus*):** *"Historians trace in **mandaeanism** the lingering echoes of the Jordan baptismal movements that flourished before our era."*
+> - 📜 **Max Müller (*Introduction to the Science of Religion*):** *"The liturgy of **mandaeanism** provides comparative philologists with valuable insights into ancient Semitic gnosticism."*

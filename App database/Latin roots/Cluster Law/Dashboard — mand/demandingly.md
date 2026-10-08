@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demanding manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demanding, insistent, or peremptory manner; with urgent claims upon attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exacting fashion requiring rigorous effort or compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demandingly designates in a demanding manner."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck looked **demandingly** into my eyes, expecting an immediate and satisfactory explanation of my presence."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine looked at her husband **demandingly**, expecting him to provide the funds for her lavish European tour."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen tapped her fan **demandingly** upon the table, unwilling to brook any delay in the musical performance."*

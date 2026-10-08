@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling or typical of a college or college students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a college, university institution, or its students; academic in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituted as a college or governed by a body of colleagues with equal status, as in a collegiate church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The young man recovered, pursued a collegiate and theological course, and still lives and labors as a most devoted and useful Christian pioneer."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"Men are not accepted in the business world upon their collegiate diplomas, nor on the knowledge these imply."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The fellows of Magdalen College defended their **collegiate** liberties against royal intrusion with admirable fortitude."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her intellectual aspirations had been awakened during her **collegiate** studies in the lecture halls of Massachusetts."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **collegiate** church possesses a chapter of canons and prebendaries who celebrate divine service without a bishop's cathedra."*

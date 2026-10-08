@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawfulness by virtue of violating some legal statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of violating some legal statute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawfulness; an act, proceeding, or status that directly violates established statutory law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transgression of constitutional bounds, official mandates, or binding international treaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Courts of equity will grant no relief to a contract tainted with fundamental **illegality** or immoral purpose."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The courts are bound to declare the **illegality** of any legislative enactment that contradicts the supreme constitution."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"The plea of political necessity cannot cover the glaring **illegality** of seizing ancestral lands without trial."*

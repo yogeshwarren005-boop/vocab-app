@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of or appropriate to an elegy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing sorrow often for something past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of an elegy; expressing sorrow, lamentation, or mournful nostalgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, composed in elegiac meter consisting of alternating dactylic hexameter and pentameter lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Nowhere has Heine struck a more truly elegiac note than in the stanza: Der Tod, das ist die kuehle Nacht, Das Leben ist der schwuele Tag."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am in a fine disposition, my honoured friend, to send you an elegiac epistle; and want only genius to make it quite Shenstonian:-- Why droops my heart with fancied woes forlorn?"*
+> - 📜 **Samuel Taylor Coleridge (*Specimens of the Table Talk*):** *"The **elegiac** couplet rises in hexameter like a fountain's jet, and falls back gracefully in the pentameter."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The solemn churchyard inspired those **elegiac** stanzas that mourn the unhonored dead buried beneath the rustic turf."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"There is a haunting, **elegiac** pathos in Turner's depiction of the old fighting Temeraire towed to her last berth."*

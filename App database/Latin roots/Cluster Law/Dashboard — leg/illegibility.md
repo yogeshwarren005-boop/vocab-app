@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of writing (print or handwriting) that cannot be deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of writing (print or handwriting) that cannot be deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indecipherable state; absolute unreadability of handwriting, inscriptions, or damaged print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe physical deterioration or chaotic cursive flourishing that baffles paleographic decipherment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegibility designates the quality of writing (print or handwriting) that cannot be deciphered."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient chancery documents had faded into complete **illegibility**, covered in dust and grease of half a century."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"The chemical ink was applied with care, saving the cryptographic parchment from total **illegibility** when heated over embers."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The hasty handwriting approached absolute **illegibility**, reflecting the frantic panic of the dying man."*

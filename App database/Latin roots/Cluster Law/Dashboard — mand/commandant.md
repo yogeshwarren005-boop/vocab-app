@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer in command of a military unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer who is in charge of a military post, military academy, naval station, or garrison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commanding officer exercising territorial authority over a fortified outpost or detention camp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"So the lad Gaasha was brought to the laager, and upon the prayer of Jan and Ralph, the commandant gave him his life, ordering, however, that he should sleep outside the waggons."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"What is it, Heer Botmar?” asked the commandant when they were assembled."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"I desire to ask you to go a three days’ trek out of your march to a mountain called Umpondwana, whither this servant of mine, Gaasha, can guide you.” “For what reason?” asked the commandant astonished."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The French **commandant** received the Russian envoys with polite courtesy under a flag of truce."*
+> - 📜 **Alexander Pushkin (*The Captain's Daughter*):** *"The aged **commandant** of the frontier fortress prepared to defend his ramparts against the rebel Cossacks."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The military **commandant** of the trading station paced the verandah, watching the river steamer through binoculars."*

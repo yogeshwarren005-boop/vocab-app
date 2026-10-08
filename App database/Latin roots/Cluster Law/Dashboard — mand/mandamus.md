@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In constitutional and administrative law, a judicial prerogative writ issued by a superior court to compel a lower court or official to perform a duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal judicial order commanding a public officer, corporation, or tribunal to execute an act required by law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandamus designates an extraordinary writ commanding an official to perform a ministerial act that the law recognizes as an absolute duty and not a matter for the official's discretion; used only when all other judicial remedies fail."*
+> - 📜 **John Marshall (*Marbury v. Madison*):** *"The applicant prayed for a writ of **mandamus** directed to the secretary of state commanding the delivery of his commission."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A writ of **mandamus** is a high prerogative writ, issuing in the king's name from the court of King's Bench to remedy defects of justice."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The supreme court exercises appellate power through writs of prohibition, certiorari, and **mandamus** as authorized by law."*

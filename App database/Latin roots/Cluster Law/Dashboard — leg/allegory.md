@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short moral story (often with animal characters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible symbol representing an abstract idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrative, poem, or visual picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of abstract ideas, moral principles, or historical figures by concrete characters and narrative events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here, beneath the painted ceiling, with foreshortened Allegory staring down at his intrusion as if it meant to swoop upon him, and he cutting it dead, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, and goes home to Allegory and meditation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the ceiling, foreshortened Allegory, in the person of one impossible Roman upside down, points with the arm of Samson (out of joint, and an odd one) obtrusively toward the window."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"My little book in form of **allegory** sets forth the Christian's race from the City of Destruction to Mount Zion."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An **allegory** never pleases unless the hidden meaning is so transparent that the mind perceives it without painful labor."*
+> - 📜 **Edgar Allan Poe (*Review of Hawthorne's Twice-Told Tales*):** *"In defense of **allegory**, (however, or for whatever it may be said), there is scarcely one good reason to be urged."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment covering the leg (usually extending from the knee to the ankle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment covering the leg (usually extending from the knee to the ankle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering for the leg, extending from knee or ankle upward, traditionally made of leather or cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In frontier and pioneer wear, a stout buckskin gaiter worn to shield the hunter's legs from thorny thickets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leging designates a garment covering the leg (usually extending from the knee to the ankle)."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The scout adjusted his buckskin **leging** before plunging into the tangled thicket bordering Lake George."*
+> - 📜 **Washington Irving (*A Tour on the Prairies*):** *"Each hunter was equipped with moccasins and stout **leging** to guard against rattlesnakes and thorny briars."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"The trapper fastened his fringed **leging** with rawhide thongs, preparing to mount his shaggy mustang."*

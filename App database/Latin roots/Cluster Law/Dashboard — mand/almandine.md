@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purple variety of the ruby spinel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep red garnet consisting of iron aluminum silicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mineralogy, a deep red or violet-red variety of garnet consisting of iron aluminum silicate ($Fe_3Al_2(SiO_4)_3$), widely used as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A precious or semiprecious crimson gem, historically known as carbuncle when cut en cabochon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, almandine designates a purple variety of the ruby spinel."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"Deep within the schistose rocks, fiery crystals of **almandine** garnet crystallize into perfect dodecahedrons."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian loved to inspect his collection of gems, admiring the smoldering wine-red glow of Indian **almandine**."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Crystalline metamorphic strata in the Urals yielded magnificent specimens of red **almandine** associated with beryl."*

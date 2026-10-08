@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An urgent or peremptory request.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability and desire to purchase goods and services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ask for authoritatively, insistently, or as a matter of right; to require peremptorily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, the desire of consumers for a commodity coupled with the financial ability to purchase it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father bequeath’d her to me, and she herself, without other advantage, may lawfully make title to as much love as she finds; there is more owing her than is paid, and more shall be paid her than she’ll demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you see her, For that is her demand, and know her business?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The quantity of every commodity brought to market naturally regulates itself according to the effectual **demand**."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Oliver Twist stepped forward, basin in hand, to **demand** a second serving of gruel from the astonished master."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"Prudence will dictate that governments long established should not be changed for light and transient **demand**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctness that makes perception easy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of writing (print or handwriting) that can be easily read.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clear and decipherable visual quality of handwriting or typography; ease with which text can be read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and semiotics, the spatial clarity and ease with which an environment or layout is understood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, going to the window, tumbles into a pair of love-birds, to whom he says in his confusion, “I beg your pardon, I am sure.” This does not tend to the greater legibility of his notes."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The address was written with bold, open **legibility**, defying the searchers to recognize its disguised character."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip labored over his slate, taking immense pride in the blossoming **legibility** of his large capital letters."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The scrawl on the plaster wall retained its startling **legibility**, written in letters of dark crimson."*

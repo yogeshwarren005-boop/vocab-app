@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates in allegories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates in allegories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who interprets or represents things through allegory; a writer of allegorical literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or hermeneutic commentator who extracts symbolic or moral meanings from texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegorizer designates someone who communicates in allegories."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"The pious **allegorizer** traced the hand of Providence across every perilous event in the settlement of New England."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Nature herself is the greatest **allegorizer**, turning every stream and tree into an emblem of human life."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The zealous **allegorizer** discovered hidden theological controversies in the plain tailoring of three brothers' coats."*

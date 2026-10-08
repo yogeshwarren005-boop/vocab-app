@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose an elegy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose an elegy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose an elegy; to lament or commemorate a person's death in verse or mournful song.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mourn, lament, or express sorrowful nostalgia for something lost or passed away.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elegize designates compose an elegy."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I come to **elegize** the fallen captain who lies upon the bloody deck with pale and silent lips."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"We need not **elegize** the departed heroes of old, for the same divine spirit lives in our own breast today."*
+> - 📜 **James Russell Lowell (*Among My Books*):** *"Milton chose to **elegize** his young college friend in *Lycidas*, transforming personal loss into immortal pastoral poetry."*

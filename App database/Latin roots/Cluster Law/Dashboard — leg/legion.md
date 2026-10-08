@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic terms for army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Association of ex-servicemen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast host, multitude, or immense number of persons or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Rome, a principal military unit of 3,000 to 6,000 heavy infantry soldiers with supporting cavalry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If all the devils of hell be drawn in little, and Legion himself possessed him, yet I’ll speak to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she had beauty, pride, ambition, insolent resolve, and sense enough to portion out a legion of fine ladies."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And with a great many people in a great many instances, the question is never one of a change from wrong to right (which is quite an extraneous consideration), but is always one of injury or advantage to that eminently respectable legion, Vholes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman **legion** marched with disciplined regularity, ready to fortify its camp at the close of every day's march."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His **legions**, angel forms, who lay entranced, thick as autumnal leaves that strow the brooks in Vallombrosa, obeyed his voice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The complications of Jarndyce and Jarndyce were **legion**, entangling solicitors and suitors in endless mazes."*

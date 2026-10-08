@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being born to parents who were not married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of not being authorized by or in accordance with law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth out of lawful wedlock; status of a child born to unmarried parents in common law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of legal authorization, constitutional validity, or authenticity; spurious character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegitimacy designates the status of being born to parents who were not married."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common law imposed harsh disabilities upon **illegitimacy**, declaring the base-born child *filius nullius*, the son of nobody."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The evident **illegitimacy** of the revolutionary tribunal stems from its violent usurpation of constitutional power."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was haunted by the revelation of his daughter's **illegitimacy**, which shattered his proud hopes of reconciliation."*

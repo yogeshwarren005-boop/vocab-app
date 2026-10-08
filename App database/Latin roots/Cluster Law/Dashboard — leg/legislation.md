@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Law enacted by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or enacting laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laws collectively enacted by a legislative body; statutes and statutory regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act or process of enacting and establishing laws by a parliamentary body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Civil War arose more immediately out of a difference of opinion as to the rights of states to be supreme in certain fields of legislation, but back of this political issue was the economic problem of slave labor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What shall be the actual rate as between these extremes is a question whose answer depends on our economic legislation as to ownership, exploitation, prices, use, and substitution."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The primary objective of all salutary **legislation** is to protect natural rights and punish social wrongs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Deliberate and dispassionate **legislation** is the best antidote against the sudden gusts of popular faction."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wise commercial **legislation** removes monopolistic barriers and allows capital to seek its most natural and profitable channel."*

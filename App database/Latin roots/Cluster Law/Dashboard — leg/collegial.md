@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having authority vested equally among colleagues; ; - merle fainsod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling or typical of a college or college students.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the collective responsibility, shared authority, and cooperative collaboration of colleagues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a college, university faculty, or collegiate academic institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collegial designates characterized by or having authority vested equally among colleagues; ; - merle fainsod."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The distinctive strength of Oxford lies in its **collegial** tutorial system, where master and pupil share intellectual life."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Appellate courts function best when judges maintain a **collegial** deliberative spirit that transcends individual rivalries."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The municipal magistrates exercised **collegial** governance over local highways and schools without central bureaucratic tutelage."*

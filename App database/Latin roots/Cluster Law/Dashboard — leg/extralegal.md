@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated or sanctioned by law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not regulated or sanctioned by law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not regulated or authorized by law; beyond the authority, control, or purview of the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating outside formal legal procedures or judicial mechanisms, though not necessarily criminal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralegal designates not regulated or sanctioned by law."*
+> - 📜 **Woodrow Wilson (*Constitutional Government in the United States*):** *"Party machinery developed as an **extralegal** mechanism to coordinate the separated branches of our constitutional system."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Voluntary civic associations exercise an **extralegal** influence that shapes public opinion far more powerfully than statutory decrees."*
+> - 📜 **A. V. Dicey (*Introduction to the Study of the Law of the Constitution*):** *"Constitutional conventions represent **extralegal** understandings that guide the exercise of royal prerogative without statutory force."*

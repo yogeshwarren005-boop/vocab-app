@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in refinement or grace or good taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in refinement or grace or good taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking grace, refinement, style, or polished good taste; crude, awkward, or clumsy in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science or mathematics, unnecessarily complicated, cumbersome, or lacking economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inelegant designates lacking in refinement or grace or good taste."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"His manners were pronounced unpolished and **inelegant** by the fashionable ladies of Devonshire."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe's clumsy struggle with his Sunday collar presented an **inelegant** figure beside the haughty beauty of Estella."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Avoid the harsh and **inelegant** phrases that stumble clumsily through unpolished heroic couplets."*

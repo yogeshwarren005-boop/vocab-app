@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in command of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make someone do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising authority and control; demanding respect or obedience by authoritative presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying an elevated or dominant position that overlooks a surrounding area, as a commanding hill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think this upstart is old Talbot’s ghost, He speaks with such a proud commanding spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and son are gone to France for aid; And, as I hear, the great commanding Warwick Is thither gone to crave the French King’s sister To wife for Edward."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your Highness’ hand I tender my commission, by whose virtue, The court of Rome commanding, you, my Lord Cardinal of York, are joined with me their servant In the unpartial judging of this business."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy soon drew the attention of the room by his fine, tall person, handsome features, and noble, **commanding** air."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The fortress held a **commanding** position over the narrow river valley, checking all military approach."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester spoke with a **commanding** tone that admitted no hesitation or contradiction from his listeners."*

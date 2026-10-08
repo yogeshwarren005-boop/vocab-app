@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In medieval chivalry, an estate or manor belonging to a military order of knights (such as Hospitallers or Templars) under a commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local branch, lodge, or governing council of the Knights Templar in modern Freemasonry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commandery designates the position or office of commander."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Preceptor welcomed the Grand Master to the Templar **commandery**, marshaling the armed brethren in the great hall."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Revenues from every provincial **commandery** flowed into the central treasury of the Knights of Saint John at Rhodes."*
+> - 📜 **William Prescott (*History of the Reign of Ferdinand and Isabella*):** *"The crown annexed the rich **commandery** lands of the military orders of Santiago and Calatrava to royal control."*

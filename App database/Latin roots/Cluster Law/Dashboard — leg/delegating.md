@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer power to someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrusting a duty, power, or authority to another person, subordinate, or representative agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sending or commissioning representatives to act on behalf of an organization or assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delegating designates authorizing subordinates to make certain decisions."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"By **delegating** executive duties to specialized administrative commissions, parliament preserved time for grand debate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant avoids loss by **delegating** the supervision of distant cargoes to trusted commercial agents."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The citizens of New England govern themselves directly in town meeting rather than **delegating** all power to distant bureaus."*

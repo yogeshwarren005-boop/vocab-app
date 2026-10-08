@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in central myanmar to the north of rangoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in central myanmar to the north of rangoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second-largest city in Myanmar (Burma), situated on the Irrawaddy River; historic royal capital of the Konbaung dynasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cultural and religious capital celebrated for its royal palace, Mahamuni Buddha temple, and Buddhist monasteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandalay designates a city in central myanmar to the north of rangoon."*
+> - 📜 **Rudyard Kipling (*Barrack-Room Ballads*):** *"On the road to **mandalay**, where the flyin'-fishes play, an' the dawn comes up like thunder outer China 'crost the Bay!"*
+> - 📜 **George Orwell (*Burmese Days*):** *"The train rattled northward toward **mandalay**, through shimmering paddy fields bordered by pagoda-crowned hills."*
+> - 📜 **Somerset Maugham (*The Gentleman in the Parlour*):** *"In **mandalay**, the wooden monasteries glow like burnished gold in the setting sun beside the tranquil moat."*

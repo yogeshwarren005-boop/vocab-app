@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the american legion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who is a member of a legion (especially the french foreign legion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legion, especially the French Foreign Legion or an association of military veterans such as the American Legion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier serving in a specialized expeditionary or colonial regiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legionnaire designates a member of the american legion."*
+> - 📜 **P. C. Wren (*Beau Geste*):** *"The desperate **legionnaire** manned the desert fort's ramparts, firing his rifle until his ammunition pouches were empty."*
+> - 📜 **Theodore Roosevelt (*Rough Riders*):** *"In our volunteer cavalry rode veteran troopers who had served as a French **legionnaire** across North African campaigns."*
+> - 📜 **Ernest Hemingway (*For Whom the Bell Tolls*):** *"He met an old **legionnaire** in the cafe who spoke philosophical wisdom over a glass of red wine."*

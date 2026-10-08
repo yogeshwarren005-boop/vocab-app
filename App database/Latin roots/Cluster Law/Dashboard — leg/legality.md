@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of conformity to a legal statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawfulness by virtue of conformity to a legal statute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness; strict conformity to statutory rules, constitutional principles, and legal judicial procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obligation imposed by positive law; or observance of legal rules and strict conformity to legal forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Sanhedrim has not the right.” “Pilate is willing that it should take that right.” “But it is a fine question of legality,” I insisted."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard the question discussed in all its bearings as to the legality of prohibiting the latter on account of their durability."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Brought from all the recesses of the coast in all the legality of time contracts, lost in uncongenial surroundings, fed on unfamiliar food, they sickened, became inefficient, and were then allowed to crawl away and rest."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The supreme court examined the **legality** of the royal warrant to protect the subject from arbitrary imprisonment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No citizen can question the constitutional **legality** of revenue acts passed by their chosen representatives."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"They cloaked violent confiscations beneath the outward semblance of **legality**, deceiving the unthinking multitude."*

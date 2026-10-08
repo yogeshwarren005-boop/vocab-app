@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of legislator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of legislator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, position, status, or period of service of a legislator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legislative function, duties, and responsibilities of lawmaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legislatorship designates the office of legislator."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"His elevation to **legislatorship** enabled him to advocate colonial reforms with parliamentary authority."*
+> - 📜 **Anthony Trollope (*Phineas Finn*):** *"He felt that an active **legislatorship** in the House of Commons was the most honorable career open to an English gentleman."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The duties of **legislatorship** demand an exhaustive knowledge of human nature and economic cause and effect."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of legumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of legumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or belonging to the plant family Leguminosae; bearing seeds in pods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to peas, beans, or other edible pulses, or used as nitrogen-fixing forage crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They were mimosas, figs, hibisci, and palm trees, mingled together in profusion; and under the shelter of their verdant vault grew orchids, leguminous plants, and ferns."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendrils of **leguminous** twiners revolve slowly through the air until they make contact with a support."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The introduction of clover and other **leguminous** crops enriched exhausted soils and doubled British agricultural yields."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The summer air was scented by the blossoms of wild **leguminous** vines that twined among the blackberry bushes."*

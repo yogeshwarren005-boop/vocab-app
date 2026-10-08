@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group that defends a principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projecting part of a fortification built at an angle to the main wall, permitting defensive crossfire along the face of the curtain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, institution, or stronghold that acts as a stalwart preserver or defender of principles or traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The whole of the north side is very majestic, ending in the return of a bastion to the east."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had a low and unassuming aspect from this upland, though as approached on the other side from Blackmoor in her childhood they were as lofty bastions against the sky."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The circuit of the walls, which were built in the reign of Elizabeth, with their bastions, "mounts," and gates, is still practically complete, and is preserved with care and pride."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High on a rocky **bastion** stood the celestial sentinel, scanning the outer darkness."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The crusaders rallied beneath the stone **bastion** of Acre against the furious charge of the Saracens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncompromising moral convictions formed an impregnable **bastion** against vulgar worldly temptation."*

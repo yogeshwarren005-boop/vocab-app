@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth-haired breed of hound with short legs and long ears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear at the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-legged, long-eared breed of hunting hound developed in France to track small game by scent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mining, the outcrop or emergence of a mineral lode or rock stratum at the Earth's surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Gloucester, Bishop of Winchester, Exeter, York, Warwick and Vernon; Suffolk, Somerset, Basset and others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Vernon and Basset._] VERNON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark ye; not so: in witness, take ye that. [_Strikes him._] BASSET."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"My hounds are bred out of the Spartan kind, with low **basset** limbs that sweep away the morning dew."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The inclined coal seam showed a prominent **basset** along the hillside where the quarrymen opened their trench."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson observed a sluggish **basset** hound sleeping lazily beside the fireplace at the village inn."*

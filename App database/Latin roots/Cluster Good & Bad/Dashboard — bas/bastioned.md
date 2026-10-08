@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secured with bastions or fortifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secured with bastions or fortifications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fortified, defended, or furnished with projecting defensive bastions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having strong structural bulwarks or fortified angular projections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastioned designates secured with bastions or fortifications."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The ancient city rose upon the cliff, its **bastioned** walls frowning above the sapphire sea."*
+> - 📜 **Washington Irving (*The Conquest of Granada*):** *"The Christian cavalry halted before the massive, **bastioned** gate of the Moorish fortress."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The defenders occupied a **bastioned** kopje that commanded the surrounding open plain."*

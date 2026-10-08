@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity for adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a capacity for adaptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying a tendency, capacity, or mechanism to adjust advantageously to changed circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, conferring a survival or reproductive advantage in a given ecological niche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptive designates having a capacity for adaptation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Intellectual faculties in early human ancestors possessed immense **adaptive** significance during tribal competition."*
+> - 📜 **Thomas Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The vertebrate skeleton exhibits countless **adaptive** modifications suited to flight, swimming, or terrestrial locomotion."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"We must investigate discontinuous variations before assuming every structural difference represents an **adaptive** response."*

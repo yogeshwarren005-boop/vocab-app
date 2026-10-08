@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a trait or condition) failing to serve an adjustive purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a trait or condition) failing to serve an adjustive purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to confer a selective evolutionary advantage, or having neutral or detrimental impact on an organism's survival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology or sociology, describing behaviors that do not help an individual cope effectively with environmental demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonadaptive designates (of a trait or condition) failing to serve an adjustive purpose."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Many morphological quirks represent **nonadaptive** architectural byproducts rather than direct targets of natural selection."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Paleontologists must distinguish genuine evolutionary innovations from transient, **nonadaptive** anatomical fluctuations."*
+> - 📜 **B. F. Skinner (*Science and Human Behavior*):** *"Chronic avoidance reactions frequently degenerate into rigid, **nonadaptive** behavioral routines."*

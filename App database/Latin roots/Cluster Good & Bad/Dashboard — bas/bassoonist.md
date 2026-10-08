@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the bassoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the bassoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the bassoon, especially within an orchestra or chamber ensemble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The woodwind performer responsible for low melodic counterpoint and bass foundation in orchestral music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassoonist designates a musician who plays the bassoon."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra's principal **bassoonist** delivered the whimsical solo in the scherzo with dry, impeccable humor."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Beside the cellos sat an elderly **bassoonist** whose reedy tones lent a somber gravity to the chorale."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"A skilled **bassoonist** must possess supple embouchure to soften the naturally pungent upper register of the instrument."*

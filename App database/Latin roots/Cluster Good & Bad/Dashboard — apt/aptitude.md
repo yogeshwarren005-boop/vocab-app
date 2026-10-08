@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherent ability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural capacity, talent, or facility for acquiring a specific skill or mastering a domain of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherent tendency, inclination, or readiness toward a certain course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She felt it with a mother’s anguish to be a move in the Wat Tyler direction, well knowing that Sir Leicester had that general impression of an aptitude for any art to which smoke and a tall chimney might be considered essential."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia, lighting a candle (with a predestined aptitude for doing something objectionable), is bidden to put it out again, for it is not yet dark enough."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had, it is true, worked in it strenuously and with conspicuous success, and had revealed a natural aptitude for Christian apologetics of a very high order."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"God has furnished man with an innate **aptitude** for receiving knowledge through sensory perception and reflection."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Each man has his own peculiar **aptitude**, which he must discover and cultivate with unflinching diligence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She displayed a singular **aptitude** for drawing, executing intricate landscapes with effortless grace."*

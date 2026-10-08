@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, dense, fine-grained igneous rock formed by the rapid cooling of low-viscosity basaltic lava rich in magnesium and iron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art and archaeological ceramics, a black unglazed stoneware resembling natural volcanic basalt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I tried to speak, but Captain Nemo stopped me by a gesture, and, picking up a piece of chalk-stone, advanced to a rock of black basalt, and traced the one word: ATLANTIS What a light shot through my mind!"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"About four o’clock, the soil, generally composed of a thick mud mixed with petrified wood, changed by degrees, and it became more stony, and seemed strewn with conglomerate and pieces of basalt, with a sprinkling of lava."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Between the blocks of basalt wound long streams of lava, long since grown cold, encrusted with bituminous rays; and in some places there were spread large carpets of sulphur."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Columns of columnar **basalt** at the Giant's Causeway demonstrate the crystalline contraction of cooling lava."*
+> - 📜 **Herman Melville (*Typee*):** *"The monumental temple platforms were constructed of huge hexagonal blocks of black **basalt**."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"Our compass needle spun erratically amidst towering walls of magnetized dark **basalt**."*

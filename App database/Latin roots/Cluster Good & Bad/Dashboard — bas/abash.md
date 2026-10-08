@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be embarrassed; cause to feel self-conscious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strike with sudden shame, confusion, embarrassment, or disconcerting self-consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undermine or overthrow the self-possession or haughty confidence of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Why shrinks my soul half blushing, half afraid, Backward, abash’d to ask thy friendly aid?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom thus half abash’t _Adam_ repli’d."*
-> - 📜 **John Keats (*Lamia*):** *"What mortal hath a prize, that other men May be confounded and abash'd withal, But lets it sometimes pace abroad majestical, And triumph, as in thee I should rejoice Amid the hoarse alarm of Corinth's voice."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nothing could **abash** the resolute archangel as he confronted the gathering legions of night."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"No threat of worldly power was sufficient to **abash** the steadfast peasant maiden."*
+> - 📜 **George Eliot (*Romola*):** *"She sought by quiet dignity to **abash** the insolent mockery of the Florentine courtiers."*

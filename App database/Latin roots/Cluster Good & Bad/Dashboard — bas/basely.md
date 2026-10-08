@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable, ignoble manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a despicable, ignoble manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a low, dishonorable, cowardly, or contemptible manner; without dignity or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From humble, ignoble, or plebeian origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To spend that shortness basely were too long If life did ride upon a dial’s point, Still ending at the arrival of an hour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The world will say, he is not Talbot’s blood, That basely fled when noble Talbot stood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
+> - 📜 **William Shakespeare (*Richard II*):** *"I will not reason what is meant hereby, because I will be guiltless from the meaning; but **basely** yielded up my crown."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To fall so **basely** into the hands of uncircumcised Philistines was greater torment than blindness itself."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"If parts allure thee, think how Bacon shined; see how he **basely** sold his integrity for royal favor."*

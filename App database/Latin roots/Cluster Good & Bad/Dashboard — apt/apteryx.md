@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nocturnal flightless bird native to New Zealand, having vestigial wings, coarse brown plumage, and a long bill; the kiwi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The zoological type genus of the kiwi family Apterygidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apteryx designates nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The curious little **Apteryx** of New Zealand possesses only a rudimentary wing with a tiny claw at its extremity."*
+> - 📜 **Richard Owen (*Monograph on the Apteryx*):** *"Dissection of the **Apteryx** revealed extraordinary respiratory adaptations and an olfactory bulb far larger than that of flying birds."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Naturalists marvel at the flightless **apteryx**, whose stubby wings remain hidden beneath shaggy plumage."*

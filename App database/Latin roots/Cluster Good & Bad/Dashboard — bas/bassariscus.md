@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cacomistles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cacomistles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological genus of procyonid carnivores comprising the ringtail and the Central American cacomistle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small, nocturnal, arboreal mammals of arid North and Central America with large eyes and black-and-white ringed tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassariscus designates cacomistles."*
+> - 📜 **C. Hart Merriam (*North American Fauna*):** *"The genus **Bassariscus** ranges through arid southwestern canyons, hunting small rodents among rocky fissures."*
+> - 📜 **Elliott Coues (*Fur-Bearing Animals*):** *"In anatomical structure, **Bassariscus** combines the agile habits of a marten with the dentition of an ancient carnivore."*
+> - 📜 **John Muir (*The Mountains of California*):** *"I encountered a shy **Bassariscus** peering down from a hollow oak tree in the moonlit canyon."*

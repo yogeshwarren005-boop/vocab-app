@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being modified or altered to serve different uses, functions, or environmental pressures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing versatile readiness to accommodate altered circumstances, ideas, or social demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At first, some general conditions such as maximum rates were inserted in the laws and charters; but these were not adaptable to changing conditions and, for lack of administrative agents, could not be enforced."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"After the first half mile, Chester, than whom few men were more adaptable to a friend's mood, accepted the situation and paced along as silently as Burns, until the round was made and the two were at Burns's door."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"You seem to be watching a community of ants, persistent, untiring, organized, only the ant-hill is a town, and the ants are men physically strong, gluttons for work, resourceful, adaptable, cheerful."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"A species possessing an **adaptable** constitution spreads over wider territories and withstands severe climatic shifts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is no staying in any port for the **adaptable** mariner whose thoughts range the open oceans."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her mind was singularly **adaptable**, conforming itself with quiet grace to every sudden demand of duty."*

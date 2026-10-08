@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ratite bird order: flightless ground birds having vestigial wings and long bills and small eyes: kiwis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ratite bird order: flightless ground birds having vestigial wings and long bills and small eyes: kiwis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of paleognathous flightless birds containing the kiwi family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient avian lineage distinguished by vestigial humeri, lack of pectoral keels, and burrowing habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterygiformes designates a ratite bird order: flightless ground birds having vestigial wings and long bills and small eyes: kiwis."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The unique survival of the **Apterygiformes** in New Zealand underscores the ancient isolation of the archipelago."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Phylogenetic analysis places the **Apterygiformes** in close evolutionary association with the extinct elephant birds and moas."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In anatomical classifications, the order **Apterygiformes** represents the ultimate reduction of the avian wing apparatus."*

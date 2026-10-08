@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriateness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriateness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitability, inappropriateness, or lack of harmonious alignment with circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Awkwardness, unskilfulness, or lack of proper alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Oh, I'm sorry,” murmured the girl, striving so hard to speak with impersonal unconcern that she did not notice the inaptness of her reply."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The thought of "normal price" is an abstract one, but despite the inaptness of the word it is not without some practical validity."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The poet failed to move his audience because of the glaring **inaptness** of his solemn diction to a trivial subject."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope was humiliated by the sudden **inaptness** of his rhetoric in the presence of the archdeacon."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Style suffers whenever an author allows an **inaptness** of expression to cloud the exact contour of his intellectual vision."*

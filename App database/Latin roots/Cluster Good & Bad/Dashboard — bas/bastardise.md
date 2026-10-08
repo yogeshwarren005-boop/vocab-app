@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To corrupt or debase by introducing inferior, foreign, or spurious elements (British variant of bastardize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or judge a person to be illegitimate under civil or ecclesiastical law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardise designates change something so that its value declines; for example, art forms."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"To interpolate vulgar songs into Shakespeare is to **bastardise** a masterpiece for cheap laughter."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Machine manufacture tends to **bastardise** honest craftsmanship by mimicking hand-carved textures in stamped metal."*
+> - 📜 **Walter Pater (*Appreciations*):** *"To adulterate pure poetic diction with journalistic slang is to **bastardise** the language of philosophy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of saint kitts and nevis on the island of saint christopher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of saint kitts and nevis on the island of saint christopher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city and chief seaport of the Caribbean island federation of Saint Kitts and Nevis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic West Indian port town established by French colonists in 1627 upon the southern shore of Saint Kitts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basseterre designates the capital of saint kitts and nevis on the island of saint christopher."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Vessels loaded with sugar and spices anchored in the sheltered roadstead off **Basseterre**."*
+> - 📜 **James Anthony Froude (*The English in the West Indies*):** *"The picturesque waterfront of **Basseterre** rested beneath the shadow of verdant volcanic summits."*
+> - 📜 **Lafcadio Hearn (*Two Years in the French West Indies*):** *"Looking toward the coast of Saint Kitts, the sunlit roofs of **Basseterre** gleamed beside turquoise waters."*

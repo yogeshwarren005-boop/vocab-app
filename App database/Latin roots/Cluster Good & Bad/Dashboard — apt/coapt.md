@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to adhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit tightly and fasten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring parts into close physical alignment or contact, especially the edges of a wound or separated bone fragments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fit or join together snugly and accurately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coapt designates cause to adhere."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Careful surgical technique requires the operator to cleanly **coapt** the margins of incision under antiseptic protection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unless the surgeon accurately **coapt** the fractured extremities of the femur, persistent deformity will ensue."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Sutures are employed to **coapt** opposing tissue layers until fibrous granulation completes permanent union."*

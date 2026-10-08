@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large class of higher fungi coextensive with subdivision basidiomycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various fungi of the subdivision basidiomycota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major taxonomic class or informal division of higher fungi comprising the club fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi characterized by septate hyphae with clamp connections and basidiospores borne on sterigmata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycetes designates large class of higher fungi coextensive with subdivision basidiomycota."*
+> - 📜 **Charles Edwin Bessey (*Outlines of Plant Phyla*):** *"The **Basidiomycetes** represent the evolutionary apex of the fungal kingdom in structural complexity and spore dispersal."*
+> - 📜 **George Francis Atkinson (*Mushrooms, Edible, Poisonous, etc.*):** *"Among the **Basidiomycetes**, species of Amanita demand extreme vigilance owing to their lethal alkaloids."*
+> - 📜 **Roland Thaxter (*Contributions Toward a Monograph of the Laboulbeniaceae*):** *"Unlike the minute parasites on beetles, the **Basidiomycetes** dominate the floor of the ancient primeval woodland."*

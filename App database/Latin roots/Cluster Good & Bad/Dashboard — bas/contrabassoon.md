@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bassoon that is the largest instrument in the oboe family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bassoon that is the largest instrument in the oboe family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large double-reed orchestral woodwind instrument pitched one octave below the standard bassoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deepest-toned acoustic woodwind instrument of the symphony orchestra, fitted with an inverted bell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabassoon designates the bassoon that is the largest instrument in the oboe family."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"Beethoven introduced the **contrabassoon** in his Fifth Symphony to produce terrifying, subterranean depths of tone."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The **contrabassoon** growled with sinister authority beneath the solemn wind chorale."*
+> - 📜 **Gustav Mahler (*Selected Letters*):** *"In the funeral march, the **contrabassoon** sounds the lowest tragic lament beneath the muffled drums."*

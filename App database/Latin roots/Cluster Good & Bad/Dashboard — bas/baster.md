@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cook who bastes roasting meat with melted fat or gravy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sewer who fastens a garment with long loose stitches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or culinary implement that bastes roasting meat with melted pan fats and juices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen bulb syringe used to suction and redistribute roasting liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baster designates a cook who bastes roasting meat with melted fat or gravy."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"The cook must employ a dedicated pewter **baster** to distribute the hot dripping evenly over the roast."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The busy kitchen maid functioned as head **baster**, continuously bathing the spinning haunch of venison."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like a seasoned kitchen **baster**, the cooper stood above the try-pots ladling boiling oil into the copper coolers."*

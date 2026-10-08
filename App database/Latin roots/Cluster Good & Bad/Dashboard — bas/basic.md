@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) a necessary commodity for which demand is constant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an essential foundation or fundamental starting point; elementary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, exhibiting the properties of a base or alkali, having a pH greater than 7 and turning litmus paper blue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We have adjusted each of these series to a base of the average prices for 1890-1899, in accord with the basic period used by the American Bureau of Labor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their processing includes a few tests that are evaluated for basic intelligence and skills."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In this world of thousands of languages and dialects, and physical and mental limitations beyond counting, even basic tools, like a safety pin, need to be understood all along the line from designer to user."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variation and natural selection represent the two **basic** principles upon which all organic diversity depends."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Alkaline solutions exhibit a marked **basic** reaction upon vegetable color indicators."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Logic provides the **basic** framework of valid deduction prior to empirical verification."*

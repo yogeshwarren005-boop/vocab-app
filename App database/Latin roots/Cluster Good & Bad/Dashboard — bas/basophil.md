@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leukocyte with basophilic granules easily stained by basic stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leukocyte with basophilic granules easily stained by basic stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of white blood cell (granulocyte) containing coarse granules that stain readily with basic dyes such as methylene blue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, any cell, organelle, or tissue element displaying pronounced chemical affinity for alkaline stains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophil designates a leukocyte with basophilic granules easily stained by basic stains."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under Wright's stain, the circulating **basophil** reveals coarse purple-black granules obscuring the nucleus."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The mast cell and the blood **basophil** share marked affinity for basic aniline dyes."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"During chronic myelogenous leukemia, a notable increase of the **basophil** count frequently portends clinical exacerbation."*

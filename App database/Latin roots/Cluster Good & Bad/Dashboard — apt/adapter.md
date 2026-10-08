@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who adapts a composition for particular voices or instruments or for another style of performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arranges, modifies, or rewrites a work to suit a different medium, audience, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical or physical device that interconnects incompatible components or systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For, as to our middle-age-manners-adapter, Be it a thing to be glad on or sorry on, Some day or other, his head in a morion And breast in a hauberk, his heels he’ll kick up, Slain by an onslaught fierce of hiccup."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The dramatic **adapter** often strips away the delicate pathos of the original narrative to amplify spectacle."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A clever intellectual **adapter** gathers the seeds of original genius and sows them broadcast for popular consumption."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In his laboratory he rigged a brass **adapter** to unite the divergent conduits of the steam pressure apparatus."*

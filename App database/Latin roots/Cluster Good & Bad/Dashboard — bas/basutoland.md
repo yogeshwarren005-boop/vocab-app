@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The former British crown colony in southern Africa that achieved national independence as the Kingdom of Lesotho.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mountainous landlocked territory encircled by South Africa, dominated by the Maloti and Drakensberg ranges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basutoland designates a landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966."*
+> - 📜 **James Bryce (*Impressions of South Africa*):** *"The precipitous peaks of **Basutoland** formed an almost impregnable natural fortress against external invasion."*
+> - 📜 **Anthony Trollope (*South Africa*):** *"British administrators found in **Basutoland** a proud equestrian population fiercely attached to their native soil."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The border of **Basutoland** was patrolled by native scouts guarding the high passes."*

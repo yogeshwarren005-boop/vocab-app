@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest part of the musical range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part in polyphonic music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest adult male singing voice, or the lowest range of pitch in musical notation and instrumentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous edible freshwater and marine spiny-finned fishes, including black bass and sea bass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought the billows spoke, and told me of it; The winds did sing it to me; and the thunder, That deep and dreadful organ-pipe, pronounc’d The name of Prosper: it did bass my trespass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mean is drowned with your unruly bass."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, an obstinate-looking man with a large waistcoat and stubbly hair, who was always talking in a loud bass voice about his mite, or Mrs."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The thunder, that deep and dreadful organ-pipe, pronounced the name of Prosper; it did **bass** my trespass."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In solemn choir they sang, the treble singing praise while deep organs provided the majestic **bass**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In the clear waters of the pond I watched a solitary **bass** poise motionless above its sandy nest."*

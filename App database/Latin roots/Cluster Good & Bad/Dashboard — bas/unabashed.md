@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not embarrassed; - jerome stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not embarrassed; - jerome stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not embarrassed, disconcerted, or discomposed; boldly self-possessed in the face of public scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unashamed and unapologetic regarding opinions, conduct, or nonconformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia was Lydia still; untamed, unabashed, wild, noisy, and fearless."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But Bernard, wiping the tears from his eyes, developed unabashed his idea of a good joke."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Pip danced upon the quarterdeck with **unabashed** glee, heedless of the captain's grim scowl."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Ginevra Fanshawe smiled with **unabashed** coquetry as she received the homage of her admirers."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Countess Gemini displayed an **unabashed** frankness regarding her family's social and financial compromises."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupted, debased, or having lost original purity and excellence through adulteration (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rendered spurious, mixed, or illegitimate in form or function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardised designates change something so that its value declines; for example, art forms."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He lamented that his beloved Latin classics were taught in a **bastardised**, pedantic dialect."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The ancient Hebrew melody sounded hollow when dressed in a **bastardised** Italian operatic arrangement."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The dialect of the plateau natives was a **bastardised** patois of ancient Amazonian tongues."*

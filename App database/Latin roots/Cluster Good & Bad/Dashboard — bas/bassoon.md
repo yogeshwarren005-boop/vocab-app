@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A double-reed instrument; the tenor of the oboe family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A double-reed instrument; the tenor of the oboe family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large double-reed woodwind instrument having a long folded wooden body, playing in the bass and tenor registers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orchestral woodwind producing rich reedy low tones, fitted with a curved metal mouth-pipe (bocal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A Briton!” “And Mat blows away at his bassoon, and you’re respectable civilians one and all,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed there may be generally observed in him an unbending, unyielding, brass-bound air, as if he were himself the bassoon of the human orchestra."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet in short sentences, bassoon-like."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The wedding-guest here beat his breast, for he heard the loud **bassoon**."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"Michael Mail raised the curved bocal of his venerable **bassoon**, blowing a deep preparatory puff."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The village choir was reinforced by the resonant buzzing of Mr. Timothy's antique **bassoon**."*

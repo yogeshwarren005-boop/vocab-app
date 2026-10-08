@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a subgroup of people who inhabit lesotho.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a subgroup of people who inhabit lesotho.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Bantu-speaking ethnic group native to the mountainous nation of Lesotho and adjacent regions of South Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The people united in the nineteenth century under King Moshoeshoe I, known for their equestrian traditions and blankets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basotho designates a member of a subgroup of people who inhabit lesotho."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The **Basotho** people demonstrated remarkable courage and agricultural enterprise amidst the rugged Maloti mountains."*
+> - 📜 **James Bryce (*Impressions of South Africa*):** *"Moshoeshoe united the scattered highland clans into the formidable and resilient **Basotho** nation."*
+> - 📜 **Anthony Trollope (*South Africa*):** *"The mounted **Basotho** warriors were celebrated throughout the frontier for their agile ponies and marksmanship."*

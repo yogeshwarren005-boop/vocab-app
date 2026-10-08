@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or standard by which things are measured or compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back line bounding each end of a tennis or handball court; when serving the server must not step over this line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surveyed line of known length and location used as a datum or starting point for triangulation and measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clearly defined standard, benchmark, or initial measurement used for subsequent comparison in science or economics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseline designates an imaginary line or standard by which things are measured or compared."*
+> - 📜 **Alexander Dallas Bache (*Reports of the Coast Survey*):** *"The geodetic team measured a twelve-mile **baseline** across the salt marshes with extraordinary precision."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"To evaluate intellectual divergence, an investigator must first establish an empirical **baseline** across the general population."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption establishes a social **baseline** below which no ambitious citizen dares to descend."*

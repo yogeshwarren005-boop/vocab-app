@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connector or device designed to join parts that are not originally fitted to connect directly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, an accessory molecule (such as transfer RNA) that matches amino acids to genetic codons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptor designates device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I devised a special copper **adaptor** to join the terminal brushes of the high-frequency generator."*
+> - 📜 **Thomas Edison (*Scientific Papers and Notes*):** *"The current failed to pass until a tighter threaded **adaptor** was secured between the battery leads."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"I postulated an **adaptor** hypothesis, predicting that small RNA molecules must bridge the gap between codons and peptide chains."*

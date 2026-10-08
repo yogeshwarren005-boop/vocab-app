@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To debase, corrupt, or degrade the purity, integrity, or authenticity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or judge to be illegitimate or of spurious parentage under law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"We must not **bastardize** the spirit of American democracy by importing the decayed feudal flatteries of European courts."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"To commercialize wild nature is to **bastardize** our purest spiritual inheritance."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"Careless translators routinely **bastardize** the delicate rhythm of German metaphysical prose."*

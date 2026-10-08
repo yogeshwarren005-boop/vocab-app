@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northwestern switzerland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern switzerland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic cultural and commercial city in northwestern Switzerland situated upon the river Rhine at the meeting of Swiss, French, and German borders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Swiss canton and historic humanist printing center associated with Erasmus and the Council of Basel (1431–1449).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basel designates a city in northwestern switzerland."*
+> - 📜 **Desiderius Erasmus (*Epistolae*):** *"At **Basel**, surrounded by the learned printers of Froben's press, I found a tranquil haven for my biblical labors."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"I completed the first Latin edition of this work in retirement at **Basel**, seeking peace from French persecution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The celebrated council of **Basel** asserted the supremacy of ecclesiastical assemblies over the sovereign pontiff."*

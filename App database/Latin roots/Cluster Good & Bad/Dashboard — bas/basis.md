@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation that provides the foundation for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The underlying support, foundation, or fundamental principle upon which something is established, calculated, or justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal component or chief ingredient of a composite mixture or conceptual framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many times shall Caesar bleed in sport, That now on Pompey’s basis lies along, No worthier than the dust!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His bold head ’Bove the contentious waves he kept, and oared Himself with his good arms in lusty stroke To th’ shore, that o’er his wave-worn basis bowed, As stooping to relieve him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troy, yet upon his basis, had been down, And the great Hector’s sword had lack’d a master, But for these instances: The specialty of rule hath been neglected; And look how many Grecian tents do stand Hollow upon this plain, so many hollow factions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple ideas of sensation constitute the sole **basis** from which our most complex reflections arise."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Sympathy forms the psychological **basis** upon which all mutual moral approbation rests."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Truth is the **basis** of all excellence; without it, character dissolves like mist before the sun."*

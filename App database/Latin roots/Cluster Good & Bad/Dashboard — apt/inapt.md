@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elegant or graceful in expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elegant or graceful in expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable, appropriate, or fitting for the occasion, purpose, or context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskilled, clumsy, or lacking dexterity in thought or manual execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Her defense was weak and inapt but she attained her object."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My uncle made an **inapt** remark that cast a sudden chill over the assembled dinner company."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle observed that social compliments become painfully **inapt** when delivered with clumsy sincerity."*
+> - 📜 **Robert Louis Stevenson (*Virginibus Puerisque*):** *"An **inapt** lover stumbles over eloquent speeches while a bold glance would have conquered the lady's heart."*

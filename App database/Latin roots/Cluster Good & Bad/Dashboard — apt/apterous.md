@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of insects) without wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of insects) without wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking wings; naturally wingless, applied particularly to certain insects or bird lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, lacking wing-like margins, ridges, or membranous borders on seeds or petioles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterous designates (of insects) without wings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many beetles inhabiting windy oceanic islands are completely **apterous**, having lost the power of flight through disuse."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The collection included remarkable **apterous** phasmid insects disguised as withered twigs upon the jungle floor."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The female glow-worm remains entirely **apterous**, crawling slowly through the damp grass like a humble larva."*

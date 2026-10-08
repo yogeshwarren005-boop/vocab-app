@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rockfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rockfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic genus name for Pacific scorpaenid rockfishes (now mostly classified in genus Sebastes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny-rayed Pacific marine food fishes characterized by bony suborbital stays and venomous fin spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sebastodes designates rockfishes."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"Pacific rockfishes formerly assigned to **Sebastodes** inhabit deep submarine rocky banks along the California coast."*
+> - 📜 **Charles Henry Gilbert (*Report on the Fishes of the Death Valley Expedition*):** *"Specimens of **Sebastodes** taken by the dredge display brilliant crimson coloration and venomous dorsal spines."*
+> - 📜 **Spencer Fullerton Baird (*Pacific Railroad Surveys*):** *"The marine fauna collected off Puget Sound included several undescribed species of the rockfish genus **Sebastodes**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who play the bass viol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who play the bass viol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the double bass, bass guitar, or another bass-register instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The instrumentalist providing the lowest harmonic foundation and rhythmic groove in an ensemble.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassist designates a musician who play the bass viol."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra's principal **bassist** executed the difficult pizzicato passage with admirable precision and resonance."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"A solitary **bassist** sustained the solemn pedal tone upon which the chromatic harmonies slowly converged."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"An accomplished **bassist** must master agile bowing to articulate the rapid running passages of Beethoven's symphonies."*

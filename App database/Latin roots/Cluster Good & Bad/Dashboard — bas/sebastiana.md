@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mexican spurges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mexican spurges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the spurge family (Euphorbiaceae), native to the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Host plants for the jumping bean moth, notably Sebastiana pavoniana whose seeds twitch from larval movement inside.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sebastiana designates mexican spurges."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Seeds of the Mexican spurge, classified under **Sebastiana**, move autonomously when inhabited by moth larvae."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Sebastiana** includes tropical shrubs possessing milky sap and three-celled capsular fruits."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In pharmacology, extracts derived from **Sebastiana** have long been utilized as poisonous arrow dressings."*

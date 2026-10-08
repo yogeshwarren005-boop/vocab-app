@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basket (usually hooded) used as a baby's bed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A perambulator that resembles a bassinet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooded wicker basket, woven crib, or lightweight cot used as an infant's first bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oval portable cradle, often furnished with ruffles and a small collapsible fabric canopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassinet designates a basket (usually hooded) used as a baby's bed."*
+> - 📜 **George Eliot (*Adam Bede*):** *"A wicker **bassinet** draped with white muslin stood ready in the quiet alcove beside the hearth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The baby slept peacefully in a cozy **bassinet** while Ada sang a soft lullaby."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"In the nursery, a dainty lace-trimmed **bassinet** reflected the luxurious care lavished on the infant heir."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to adaptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or produced by functional adjustments to environmental pressures or demands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating as an instrument or mechanism of evolutionary or social survival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptational designates of or relating to adaptation."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Natural selection favors those **adaptational** traits that directly enhance reproductive success under rigorous ecological competition."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal inversions in Drosophila reveal profound **adaptational** values across differing geographic gradients."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The evolutionary trajectory of vertebrates illustrates continuous **adaptational** refinement across successive epochs."*

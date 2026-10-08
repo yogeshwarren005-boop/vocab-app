@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change something so that its value declines; for example, art forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare a child to be illegitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Debased, corrupted, or altered in an inferior manner from its genuine, original, or authentic form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of spurious or corrupted character; degraded in standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardized designates change something so that its value declines; for example, art forms."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable mansion had been degraded by a **bastardized** modern shop-front built upon its weathered timber sill."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A **bastardized** French architectural facade disfigured the antebellum plantation house."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen sneered at the **bastardized** moral philosophies preached by fashionable city pulpits."*

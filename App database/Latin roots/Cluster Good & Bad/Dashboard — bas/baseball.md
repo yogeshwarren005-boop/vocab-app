@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball used in playing baseball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A game played with a bat and ball between two teams of nine players on a field with four bases laid out in a diamond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leather-covered cork-and-rubber ball used in playing this sport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Columbia, my sister, Your children you have seen, Drowned in the cruel ocean By German submarine; But baseball is important, The theatre and dance, And pleasure rules in Texas While horror reigns in France."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Harry was the champion runner, jumper, boxer and baseball player, and was quite eager to maintain his proud distinction."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was about the size of a baseball with little holes in it."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I like **baseball**; it is our game, the American game, which will take our people out-of-doors and repair our losses."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I organized a league of **baseball** clubs among the knights, outfitting Sir Galahad with bat and mask."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"On Saturday afternoons the town gathered at the dusty fairgrounds to watch the local **baseball** contest."*

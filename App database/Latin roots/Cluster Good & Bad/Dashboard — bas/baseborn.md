@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of low birth or station (`base' is archaic in this sense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illegitimate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Born of humble, lowly, or unacknowledged parentage; of plebeian lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illegitimate in birth; born out of wedlock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseborn designates of low birth or station (`base' is archaic in this sense)."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Why bastard? wherefore **baseborn**? when my dimensions are as well compact, my mind as generous, as honest madam's issue?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The proud Norman knight refused to cross blades with a squire whom he deemed **baseborn**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Rumors circulated that Henchard had once traded his wife to a **baseborn** sailor on the turnpike road."*

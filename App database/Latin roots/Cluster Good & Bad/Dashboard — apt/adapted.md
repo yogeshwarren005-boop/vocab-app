@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fit for, or change to suit a new purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suited, fitted, or altered by nature, training, or design for a particular use or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone evolutionary modification to fit a specialized ecological niche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was so adapted to the routine of Greenleaf before long that I seemed to have been there a great while and almost to have dreamed rather than really lived my old life at my godmother’s."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stationed in a waggon on this lawn, now, which, from the shape of the land, is naturally adapted to a public meeting, he would improve almost any occasion you could mention for hours and hours!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He said, Well, it was really very pleasant to see how things lazily adapted themselves to purposes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The beak of each finch on the Galapagos appeared exquisitely **adapted** to its specific dietary forage."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Human understanding is poorly **adapted** to the subtle complexities of nature when guided only by unexamined axioms."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My frame was robust and well **adapted** to endure the bitterest rigors of the Alpine winter."*

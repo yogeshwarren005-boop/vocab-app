@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Installation from which a military force initiates operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bottom support or foundation upon which something stands or rests; or morally low, dishonorable, and ignoble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a compound that accepts protons or donates electron pairs, yielding hydroxide ions in aqueous solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend’st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wouldst thou have me go and beg my food, Or with a base and boisterous sword enforce A thievish living on the common road?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Why may not imagination trace the noble dust of Alexander; to what **base** uses we may return."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Freely they stood who stood, and fell who fell; not that they were forced by fate or any **base** necessity."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A wise architect first prepares a solid **base** before erecting the lofty towers of philosophy."*

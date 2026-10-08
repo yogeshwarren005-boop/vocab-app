@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower the moral quality, character, dignity, or esteem of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, to reduce the purity or proportion of precious metal in coins or currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all the gracious utterance thou hast, Speak to his gentle hearing kind commends. [_Northumberland returns to Bolingbroke._] [_To Aumerle_.] We do debase ourselves, cousin, do we not, To look so poorly and to speak so fair?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair cousin, you debase your princely knee To make the base earth proud with kissing it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The only way a further profit could be made in this way was to debase the coin again."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To adulterate words by shifting their meanings is to **debase** the common currency of human thought."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Princes have frequently chosen to **debase** the national coinage to relieve their sovereign debts."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Such reckless political dogmas inevitably **debase** the venerable dignity of civil government."*

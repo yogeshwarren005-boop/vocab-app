@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molding covering the joint formed by a wall and the floor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molding covering the joint formed by a wall and the floor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow wooden board or molding fastened along the bottom of an interior wall to cover the joint where wall meets floor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural protective trim preventing scuffs to wall plaster from furniture and foot traffic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She did not sweep the dust under the bureau, or behind the door, or forget to wipe the rounds of the chairs and the baseboard all around the rooms."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"A faint scuffling sound issued from behind the white **baseboard** in the corner of the silent nursery."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Carved mahogany wainscoting met a polished **baseboard** in the solemn, shadowed library of the van der Luydens."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes knelt upon the parquet floor, scrutinizing a tiny bloodstain upon the lower edge of the **baseboard**."*

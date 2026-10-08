@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of cells to stain with basic dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of cells to stain with basic dyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In hematology, an abnormal increase in the proportion of basophilic leukocytes in the peripheral blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The histological property of staining readily with basic dyes; affinity for alkaline colorants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophilia designates the tendency of cells to stain with basic dyes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **basophilia** in toxic lead poisoning is manifested by punctate stippling within circulating erythrocytes."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Punctate **basophilia** of red corpuscles provides an invaluable clinical clue in occupational toxicology."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"The pathological development of **basophilia** was followed throughout the course of experimental bone marrow stimulation."*

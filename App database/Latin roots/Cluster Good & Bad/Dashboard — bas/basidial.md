@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by basidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by basidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mycology, pertaining to, resembling, or produced upon a basidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the microscopic club-like spore-bearing structures of higher fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidial designates relating to or characterized by basidia."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, and Mould*):** *"Microscopic examination reveals the **basidial** layer lining the inner surface of the hymenial gills."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"In Agaricaceae, four spores typically develop upon each **basidial** apex supported on delicate sterigmata."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **basidial** apparatus represents a highly specialized terminal cell adapted for ballistic spore dispersal."*

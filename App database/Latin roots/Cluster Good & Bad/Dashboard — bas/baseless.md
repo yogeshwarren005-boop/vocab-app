@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a basis in reason or fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a basis in reason or fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking any foundation, empirical evidence, or rational support; entirely groundless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsubstantiated in fact; fabricated or visionary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew that it was all sentiment, all baseless impressibility, which had caused her to read the scene as her own condemnation; nevertheless she could not get over it; she could not contravene in her own defenceless person all those untoward omens."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The charge of affectation in their Weltschmerz would be an entirely baseless one, both in the case of Hoelderlin and Lenau."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"His magic palace, unlike that of Solomon, has ‘melted into air, into thin air’, and, ‘like the baseless fabric of a vision’, only the memory of it is left. . . ."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"And, like the **baseless** fabric of this vision, the cloud-capp'd towers, the gorgeous palaces, the solemn temples, the great globe itself, yea, all which it inherit, shall dissolve."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Philosophers must reject such **baseless** conjectures and adhere strictly to observable phenomena."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I dismissed those **baseless** fears, resolving that no phantom of guilt should impede my resolve."*

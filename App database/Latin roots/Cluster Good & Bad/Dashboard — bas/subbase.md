@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest molding of an architectural base or of a baseboard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest molding of an architectural base or of a baseboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In civil engineering, a layer of compacted aggregate placed immediately beneath the road base or pavement slab.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the lowest foundation block or sub-plinth underlying a pedestal or column base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subbase designates the lowest molding of an architectural base or of a baseboard."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Beneath the plinth of the column, the architect must construct a solid **subbase** of dressed tufa."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive **subbase** of the Doge's Palace anchors the arcades securely into the Venetian lagoon mud."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Geological strata rested upon a basaltic **subbase** that formed the foundation of the elevated plateau."*

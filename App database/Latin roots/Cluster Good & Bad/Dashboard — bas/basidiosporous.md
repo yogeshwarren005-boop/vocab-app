@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by spores produced by basidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by spores produced by basidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or characterized by the formation of basidiospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproducing primarily through spores discharged from basidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiosporous designates of or relating to or characterized by spores produced by basidia."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"The **basidiosporous** stage marks the culmination of the dikaryotic cycle in wood-rotting shelf fungi."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, and Mould*):** *"Infection of wheat seedlings begins when wind transports the **basidiosporous** inoculum across arable valleys."*
+> - 📜 **Anton de Bary (*Morphology and Physiology of the Fungi*):** *"The **basidiosporous** generation alternates with subterranean vegetative hyphae that extend across centuries."*

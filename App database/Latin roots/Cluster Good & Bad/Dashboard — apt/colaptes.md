@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of picidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of picidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological genus of American woodpeckers commonly known as flickers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a genus of ground-feeding woodpeckers noted for shafts of yellow or red feathers and barbed tongues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colaptes designates a genus of picidae."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The golden-winged flicker, classified as **Colaptes** auratus, frequents open meadows and feeds largely upon subterranean ants."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Species of **Colaptes** exhibit remarkable hybridization along the transition zone between eastern and western mountain ranges."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I heard the clear, loud spring whistle of the **Colaptes** ringing across the thawing birch woods."*

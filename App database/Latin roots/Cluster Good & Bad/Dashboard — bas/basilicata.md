@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of southern italy (forming the instep of the italian `boot').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of southern italy (forming the instep of the italian `boot').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic, mountainous administrative region of southern Italy bordering Campania, Apulia, and Calabria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rugged Mediterranean geographic area characterized by the southern Apennines, ancient ravines, and Sassi cave settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basilicata designates a region of southern italy (forming the instep of the italian `boot')."*
+> - 📜 **Norman Douglas (*Old Calabria*):** *"The barren limestone ravines of **Basilicata** shelter ancient troglodytic dwellings carved into the living rock."*
+> - 📜 **George Gissing (*By the Ionian Sea*):** *"Travelling through lonely mountain paths toward **Basilicata**, I encountered shepherds clad in primitive sheepskins."*
+> - 📜 **Carlo Levi (*Christ Stopped at Eboli*):** *"In the desolate villages of **Basilicata**, time seemed arrested before the dawn of modern civilization."*

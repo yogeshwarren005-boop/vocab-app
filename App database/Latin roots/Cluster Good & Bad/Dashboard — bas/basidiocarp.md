@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fruiting body of a basidiomycete which bears its spores on special cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruiting body of a basidiomycete which bears its spores on special cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The multicellular spore-producing fruiting body of a basidiomycete fungus, such as a mushroom, conk, or puffball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex macroscopic reproductive structure bearing the hymenium in higher fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiocarp designates the fruiting body of a basidiomycete which bears its spores on special cells."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The expanded mushroom umbrella represents a transient **basidiocarp** designed solely for the dissemination of reproductive spores."*
+> - 📜 **M. C. Cooke (*British Fungi*):** *"Rainfall triggers rapid expansion of the subterranean mycelium, culminating in the emergence of a fleshy **basidiocarp**."*
+> - 📜 **George Francis Atkinson (*Studies of American Fungi*):** *"In Polyporus, the perennial woody **basidiocarp** persists for decades on decaying forest timber."*

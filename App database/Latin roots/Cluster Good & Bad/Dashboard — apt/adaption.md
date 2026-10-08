@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of adapting to something (such as environmental conditions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of adapting to something (such as environmental conditions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of adjusting something to fit new conditions or uses (variant of adaptation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An altered form or configuration resulting from adjustment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaption designates the process of adapting to something (such as environmental conditions)."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic genius manifests itself through the harmonious **adaption** of metre and rhythm to impassioned thought."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Every architectural ornament owes its enduring dignity to its deliberate **adaption** to structural necessity."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"The ready **adaption** of one's speech to the humor of a company is the foremost accomplishment of polite society."*

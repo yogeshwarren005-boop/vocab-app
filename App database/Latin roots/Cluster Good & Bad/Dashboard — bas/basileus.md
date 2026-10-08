@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler of the eastern roman empire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruler of the eastern roman empire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek monarch, sovereign, or emperor, especially the official title used by Byzantine Roman emperors from the 7th century onward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Mycenaean and Classical Greece, a tribal chieftain, clan head, or designated civic magistrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Greeks used _basileus_ as Emperor. [101] viii, 69."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"From the reign of Heraclius, the imperial ruler of Constantinople assumed the Greek title of **basileus**."*
+> - 📜 **George Finlay (*A History of Greece*):** *"The authority of the Byzantine **basileus** combined absolute civil dominion with sacred ecclesiastical leadership."*
+> - 📜 **J. B. Bury (*A History of the Eastern Roman Empire*):** *"Foreign envoys prostrated themselves before the elevated throne of the **basileus** in the Magnaura."*

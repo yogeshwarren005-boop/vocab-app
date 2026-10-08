@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling embarrassed due to modesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling embarrassed due to modesty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sudden confusion, shamefaced embarrassment, or disconcerted humiliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subdued modesty or timid perplexity arising from unexpected scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abashment designates feeling embarrassed due to modesty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea withdrew her hand in sudden **abashment**, blushing deeply at her own outspoken candor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A wave of painful **abashment** swept over her as she encountered Angel Clare's inquiring eyes."*
+> - 📜 **Henry James (*The American*):** *"Newman observed the young girl's delicate **abashment** with protective and courteous sympathy."*

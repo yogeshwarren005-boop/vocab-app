@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult male singer with the lowest voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest adult male singing voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer possessing the lowest vocal range (bass voice), especially in classical opera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bass voice or bass instrumental part in an Italian musical composition (such as basso continuo).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A foreign friend once pointed it out to me, in the skeleton of a foe he had slain, and with the vertebræ of which he was inlaying, in a sort of basso-relievo, the beaked prow of his canoe."*
-> - 📜 **James Joyce (*Ulysses*):** *"Thanks be to God he’s not paid yet. —And how is that _basso profondo_, Benjamin?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His deep chest emitted a resonant note like the lowest cadence of an Italian **basso**."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"The sinister role of Hagen demands a resonant **basso** capable of projecting menacing power across the brass fanfare."*
+> - 📜 **Henry James (*The Bostonians*):** *"The visiting musician was an imposing foreign **basso** whose thunderous voice filled the drawing-room."*

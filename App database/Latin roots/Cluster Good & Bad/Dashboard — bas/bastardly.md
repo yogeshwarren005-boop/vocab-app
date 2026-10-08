@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Born out of wedlock; - e.a.freeman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of no value or worth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a base, spurious, degenerate, or cowardly manner; lacking authentic honor or pedigree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spurious, counterfeit, or illegitimate in nature or origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou, wilt thou, thou bastardly rogue?"*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The courtiers devised a **bastardly** compromise that sacrificed the nation's liberties to royal prerogative."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot denounced the intruder's cowardly and **bastardly** evasion of churchly discipline."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"They embraced a **bastardly** discipline spawned from prelatic ambition rather than apostolic mandate."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of aptitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of aptitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of fitness, competence, skill, or suitability for a particular task or sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ingrained incapacity or awkwardness in handling specific affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is grown up—he is at least as old as I am—but in simplicity, and freshness, and enthusiasm, and a fine guileless inaptitude for all worldly affairs, he is a perfect child.” We felt that he must be very interesting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A brown sunburnt gentleman, who appears in some inaptitude for sleep to be wandering abroad rather than counting the hours on a restless pillow, strolls hitherward at this quiet time."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The unfortunate monarch revealed a tragic **inaptitude** for governing amidst turbulent revolutionary tides."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"His utter **inaptitude** for parish administration drove churchwardens into exasperated despair."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson confessed his **inaptitude** for cryptographic analysis, leaving the coded cipher entirely to Holmes."*

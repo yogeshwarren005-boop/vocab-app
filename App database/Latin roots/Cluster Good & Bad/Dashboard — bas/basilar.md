@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located at the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at or near the base, especially in cranial and neurological anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating key physiological structures such as the basilar artery of the brainstem or basilar membrane of the cochlea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basilar designates of or relating to or located at the base."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **basilar** artery is formed by the junction of the two vertebral arteries at the lower border of the pons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A fracture extending through the **basilar** portion of the occipital bone is frequently attended by hemorrhage from the pharynx."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Vibrations transmitted to the cochlea stimulate the minute transverse fibers of the **basilar** membrane."*

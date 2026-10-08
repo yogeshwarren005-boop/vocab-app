@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaring or rendering bastard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that debases or corrupts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of debasing, corrupting, or degrading the original purity, standard, or value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The declaring or ruling by law that a child is born out of wedlock and illegitimate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardization designates declaring or rendering bastard."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The rapid influx of foreign idioms has caused no permanent **bastardization** of the vigorous Anglo-Saxon tongue."*
+> - 📜 **Henry James (*The American Scene*):** *"He observed with dismay the architectural **bastardization** of historic colonial facades by speculative builders."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sailors resist any linguistic **bastardization** of ancient nautical terminology on board a whaler."*

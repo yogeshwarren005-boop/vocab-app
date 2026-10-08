@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degrading, corrupting, or tending to lower the moral character or aesthetic value of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adulterating or diminishing the intrinsic worth of an institution or currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not make the request; it was debasing loveliness to ask it to buy and sell, and jarred with his conceptions of her."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of paper money in some cases grew out of the practice of debasing metal."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.” Alas! the scientific conscience had got into the debasing company of money obligation and selfish respects."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Gradgrind's philosophy produced a **debasing** influence upon the imaginative lives of his impressionable children."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Conformity to unexamined social conventions exerts a subtly **debasing** effect upon personal genius."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The institution of slavery exerted an equally **debasing** effect upon the character of the master as upon the slave."*

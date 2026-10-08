@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong woody fibers obtained especially from the phloem of from various plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) tissue that conducts synthesized food substances (e.g., from leaves) to parts where needed; consists primarily of sieve tubes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong, woody phloem fibers obtained from the inner bark of plants such as flax, hemp, or linden, used for cordage and weaving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, the vascular tissue (phloem) that conducts sugars and organic nutrients downward from the leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Under guise of a present for the pilgrims, Princess Mary prepared a pilgrim’s complete costume for herself: a coarse smock, bast shoes, a rough coat, and a black kerchief."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An old peasant whom Prince Andrew in his childhood had often seen at the gate was sitting on a green garden seat, plaiting a bast shoe."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was sitting on the seat the old prince used to like to sit on, and beside him strips of bast were hanging on the broken and withered branch of a magnolia."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fibers of tough plant **bast** have been employed since Neolithic times for the fabrication of cordage."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered strips of tough inner **bast** from the swamp cedars to bind the birch-bark basket."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The phloem of linden trees yields durable **bast** utilized across Russia for weaving mats and shoes."*

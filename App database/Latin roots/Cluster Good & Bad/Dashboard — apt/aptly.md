@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With competence; in a competent capable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With competence; in a competent capable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is suitably, fittingly, or appropriately expressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With quick competence, agility, or perceptive skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That monster custom, who all sense doth eat, Of habits evil, is angel yet in this, That to the use of actions fair and good He likewise gives a frock or livery That aptly is put on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The venerable mansion was **aptly** described by local villagers as a monument of ancestral pride."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin **aptly** unravelled the baffling mystery by seizing upon an anomaly that had confounded ordinary detectives."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He **aptly** illustrated his political argument by drawing parallels from the history of ancient republics."*

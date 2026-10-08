@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located at the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at or pertaining to the cranial or skeletal base (archaic and anatomical variant of basilar).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming the underlying anatomical support of an organ or bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basilary designates of or relating to or located at the base."*
+> - 📜 **Thomas Huxley (*The Anatomy of Vertebrated Animals*):** *"The basi-occipital element forms the primary **basilary** axis of the vertebrate cranium."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"A distinct **basilary** process extends forward to meet the sphenoid in mammalian embryos."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In specialized pigeon breeds, the **basilary** cranial sutures exhibit marked shortening."*

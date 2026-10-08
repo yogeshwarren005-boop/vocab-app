@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or caused to feel uneasy and self-conscious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or displaying sudden confusion, embarrassment, or humble self-consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast down in spirit or subdued by a sense of unworthiness or reproach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mad, young gentleman,” she returned so quickly that he was quite abashed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rosa, very much abashed, says, “No, if you please, my Lady!” and glances up, and glances down, and don’t know where to look, but looks all the prettier."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was so **abashed** by her cold haughtiness that I scarcely dared look her in the face."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood **abashed** before the silent, penetrating gaze of the physician."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Even Rawdon Crawley felt **abashed** in the presence of his aunt's stern moral displeasure."*

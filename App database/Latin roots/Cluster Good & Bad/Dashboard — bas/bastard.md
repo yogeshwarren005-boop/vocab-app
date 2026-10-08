@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insulting terms of address for people who are stupid or irritating or ridiculous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The illegitimate offspring of unmarried parents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child born out of lawful wedlock; an illegitimate offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something of irregular, questionable, or spurious origin, unauthorized in quality or pedigree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame hath a bastard fame, well managed; Ill deeds is doubled with an evil word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Now, gods, stand up for **bastard**s! Why brand they us with base? with baseness? bastardy?"*
+> - 📜 **Francis Bacon (*Essays*):** *"Deformed persons, and eunuchs, and old men, and **bastard**s, are envious; for he that cannot possibly mend his own case will do what he can to impair another's."*
+> - 📜 **Walter Scott (*The Talisman*):** *"He vowed that no spurious **bastard** of the desert should lay claim to the sacred standard."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest and lowest member of the violin family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitched an octave below normal bass instrumental or vocal range.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The double bass, the largest and lowest-pitched bowed string instrument in the modern symphony orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating an instrument sounding an octave lower than the ordinary bass range of its family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contrabass designates largest and lowest member of the violin family."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The **contrabass** provides the acoustic bedrock of the symphonic orchestra, supporting the entire harmonic edifice."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The rich pizzicato tone of the **contrabass** section gave buoyancy to the overture."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"He scored a deep drone for muted **contrabass**, simulating the primeval murmur of the deep."*

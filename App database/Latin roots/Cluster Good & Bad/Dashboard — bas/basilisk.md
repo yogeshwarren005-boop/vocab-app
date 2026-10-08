@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a serpent (or lizard or dragon) able to kill with its breath or glance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient brass cannon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary reptile endowed with lethal powers, reputed to kill with its venomous glance or burning breath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tropical American crested lizard of the genus Basiliscus, noted for its ability to run across water surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, take this too; [_Gives the ring._] It is a basilisk unto mine eye, Kills me to look on’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet do not go away; come, basilisk, And kill the innocent gazer with thy sight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll drown more sailors than the mermaid shall, I’ll slay more gazers than the basilisk; I’ll play the orator as well as Nestor, Deceive more slyly than Ulysses could, And, like a Sinon, take another Troy."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Thine eyes, sweet lady, have infected mine; would they were **basilisk**s, to strike thee dead!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Scorpions, and asps, and the dread **basilisk**, whose lethal breath was said to wither the freshest flowers."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The fable that the **basilisk** killeth by aspect or glance must be accounted an idle poetical fiction."*

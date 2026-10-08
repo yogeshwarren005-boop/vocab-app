@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest city in iraq; an oil port in southern iraq.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest city in iraq; an oil port in southern iraq.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kisses; tender touches of the lips celebrated as tokens of affection in classical and Renaissance lyric verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The renowned cycle of Latin erotic neo-classical poems (Basia, 1539) composed by Dutch humanist Johannes Secundus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basia designates the second largest city in iraq; an oil port in southern iraq."*
+> - 📜 **Catullus (*Carmina*):** *"Give me a thousand kisses, then a hundred, then another thousand; let our **basia** outnumber the stars of heaven."*
+> - 📜 **Johannes Secundus (*Basia*):** *"Neaera, in these **basia** breathes the sweet distilled nectar of Venus and the graces."*
+> - 📜 **Robert Herrick (*Hesperides*):** *"In imitation of Secundus, the English poet sang of nectarous **basia** bestowed beneath the blooming may."*

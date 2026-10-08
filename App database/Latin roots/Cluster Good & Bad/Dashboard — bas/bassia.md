@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summer cypress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summer cypress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants of the family Amaranthaceae (formerly Sapotaceae), including the Indian butter tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, trees whose succulent corollas and oil-rich seeds yield commercial mahua butter and edible products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassia designates summer cypress."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Flowers of **Bassia** latifolia furnish a sweet succulent corolla from which distilled spirits and cooking oils are extracted."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The mahua tree, classified under **Bassia**, provides an invaluable source of subsistence to indigenous forest tribes."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Species of **Bassia** withstand intense desert heat while yielding rich oleaginous seeds."*

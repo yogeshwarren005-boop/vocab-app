@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adaptable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adaptable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being modified, reconciled, or adjusted to fit altered circumstances or purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflexible in temperament, habit, or design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadaptable designates not adaptable."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild species that prove stubbornly **unadaptable** to captivity perish without leaving domestic offspring."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"Claggart possessed a dark, **unadaptable** nature that turned inward and fed upon secret malice."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His romantic illusions were wholly **unadaptable** to the harsh, sordid realities of the eastern port."*

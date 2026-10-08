@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing basalt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing basalt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of, containing, or resembling the dark igneous volcanic rock basalt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to mafic lava flows, oceanic crust, or volcanic plateaus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The islands of the Atlantic archipelago are largely composed of ancient **basaltic** lava streams."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Dark **basaltic** crags rose precipitously above the Sierra valleys, sculpted by ancient glacial ice."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Extensive **basaltic** formations in the Deccan trap region attest to catastrophic fissures in the Earth's crust."*

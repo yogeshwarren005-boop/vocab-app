@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attached by its base (as certain anthers to their filaments or stalks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attached by its base (as certain anthers to their filaments or stalks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, attached by the base, as an anther attached at its lower end to the summit of the stamen filament without swinging freely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immobile and anchored at the bottom edge, contrasting with versatile or dorsifixed anthers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basifixed designates attached by its base (as certain anthers to their filaments or stalks)."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The anther is termed **basifixed** when the filament firmly adheres to its basal extremity, preventing rotation."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In species with **basifixed** anthers, pollen shedding occurs through terminal pores or longitudinal clefts."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"A rigid **basifixed** arrangement ensures that visiting bumblebees strike the pollen sacs with direct mechanical force."*

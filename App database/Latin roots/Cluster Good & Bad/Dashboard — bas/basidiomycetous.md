@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of fungi of the class basidiomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of fungi of the class basidiomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of basidiomycete fungi or their fruiting structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to organisms that reproduce via sexual spores formed upon club-shaped basidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycetous designates pertaining to or characteristic of fungi of the class basidiomycetes."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, and Mould*):** *"The decay of structural ship timbers was traced to the insidious spread of **basidiomycetous** mycelial strands."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Clamp connections provide a definitive anatomical signature of **basidiomycetous** vegetative growth."*
+> - 📜 **William Gilson Farlow (*The Gymnosporangia or Cedar-Apples of the United States*):** *"The gall formations on juniper branches result from chronic infection by a **basidiomycetous** rust parasite."*

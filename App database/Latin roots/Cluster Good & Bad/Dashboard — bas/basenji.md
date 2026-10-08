@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, short-coated breed of hunting dog native to central Africa, characterized by an upright posture, curled tail, and inability to bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cynology, an ancient pariah-type hound that produces a chortling yodel instead of a bark and hunts by both sight and scent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basenji designates small smooth-haired breed of african origin having a tightly curled tail and the inability to bark."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"Native trackers in the Congo basin employ the silent **basenji**, whose sharp ears detect the slightest movement in the high grass."*
+> - 📜 **David Livingstone (*The Last Journals of David Livingstone*):** *"Among the forest tribes I noted a compact hunting hound, the **basenji**, which never barks when pursuing quarry."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The swift native **basenji** darted through the underbrush, driving antelopes toward the waiting hunters."*

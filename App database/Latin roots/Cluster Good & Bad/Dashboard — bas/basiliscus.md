@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of iguanidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of iguanidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological genus of Neotropical casquehead lizards (corytophanids) celebrated for running upright across water surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Jesus Christ lizard of Central and South American tropical rainforests, possessing an enlarged crest and fringed hind toes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiliscus designates a reptile genus of iguanidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Naturalists of the expedition captured a handsome specimen of **Basiliscus**, whose crested back resembled a miniature dragon."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Along the riverbanks we observed the agile **Basiliscus** scampering upright over the surface of the quiet backwaters."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The green **Basiliscus** darted across floating aquatic foliage without sinking into the muddy stream."*

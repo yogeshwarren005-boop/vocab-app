@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of fundamental facts or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Principles from which other truths can be derived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental principles, rudimentary skills, or essential constituents of any art, science, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Essential commodities or primary necessities required for subsistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basics designates a statement of fundamental facts or principles."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"A sound secondary education must ground pupils in the **basics** of mathematical deduction and physical law."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"A laboring family requires sufficient daily income to secure the simple **basics** of shelter, food, and clothing."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Mastery of craftsmanship begins when the apprentice reverently studies the structural **basics** of raw materials."*

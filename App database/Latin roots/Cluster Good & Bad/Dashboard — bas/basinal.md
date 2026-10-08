@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a basin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a basin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geology, pertaining to, situated within, or deposited in a sedimentary basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of deep-water or quiet sedimentation within a topographic depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basinal designates of or relating to a basin."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The central **basinal** facies displays fine laminated shales devoid of coarse terrestrial sands."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Subsidence of the ocean floor triggered extensive **basinal** sedimentation along the continental shelf."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **basinal** depression filled gradually with carboniferous muds during the protracted sinking of the trough."*

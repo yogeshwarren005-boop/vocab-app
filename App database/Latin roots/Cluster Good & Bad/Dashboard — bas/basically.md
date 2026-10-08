@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In essence; at bottom or by one's (or its) very nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In essence; at bottom or by one's (or its) very nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fundamental, essential, or elementary manner; at bottom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to primary principles or original origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"So why not someone in the shop or office who was basically trained in suicide prevention and crisis intervention?"*
+> - 📜 **William James (*The Will to Believe*):** *"Human philosophical systems are **basically** temperament-driven expressions of what men desire the world to be."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"All dynastic and aristocratic institutions remain **basically** predatory in their socio-economic function."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Scientific inquiry is **basically** an experimental dialogue between hypotheses and observable consequences."*

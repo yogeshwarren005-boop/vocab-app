@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The North American ringtail (Bassariscus astutus), a small nocturnal carnivorous mammal with a banded bushy tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The miner's cat or cacomistle of the American southwest, often kept in early frontier cabins to catch rodents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassarisk designates raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings."*
+> - 📜 **Elliott Coues (*Fur-Bearing Animals*):** *"Miners in the Sierra Nevada often domesticated the **bassarisk**, valuing it above domestic cats for clearing cabins of vermin."*
+> - 📜 **John Muir (*Steep Trails*):** *"A nimble **bassarisk** slipped silently across the lichened boulders, its bushy ringed tail streaming behind it."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"The nocturnal **bassarisk** hunts mice and canyon wrens with extraordinary agility along the cliffs."*

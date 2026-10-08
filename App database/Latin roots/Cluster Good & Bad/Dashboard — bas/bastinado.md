@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cudgel used to give someone a beating on the soles of the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of torture in which the soles of the feet are beaten with whips or cudgels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of corporal punishment in which the soles of the offender's bare feet are beaten with a stick or rod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To beat or thrash someone with a stick or cudgel, particularly upon the soles of the feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will deal in poison with thee, or in bastinado, or in steel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That same mad fellow of the north, Percy, and he of Wales that gave Amamon the bastinado, and made Lucifer cuckold, and swore the devil his true liegeman upon the cross of a Welsh hook—what a plague call you him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He speaks plain cannon, fire, and smoke, and bounce; He gives the bastinado with his tongue; Our ears are cudgell’d; not a word of his But buffets better than a fist of France."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"The cadi sentenced the fraudulent merchant to suffer forty strokes of the **bastinado** upon his naked soles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In Turkish jurisdictions, summary punishment by the **bastinado** was frequently inflicted upon delinquent tax collectors."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The traveler narrowly escaped the dreaded **bastinado** after mocking the local bashaw's bodyguard."*

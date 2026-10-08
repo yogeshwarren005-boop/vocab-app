@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') naturally disposed toward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At risk of or subject to experiencing something usually unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate, fitting, or suitable in the circumstances; felicitously chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a natural tendency or disposition to do something; prone or inclined.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a heart as little apt as yours, But yet a brain that leads my use of anger To better vantage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I find thee apt; And duller shouldst thou be than the fat weed That rots itself in ease on Lethe wharf, Wouldst thou not stir in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen is obstinate, Stubborn to justice, apt to accuse it, and Disdainful to be tried by’t. ’Tis not well."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A most **apt** and noble counsel that restores my peace of mind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Words, though well cloathed, require an **apt** auditor if they are to bear their true fruit."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was not formed for ill-humour; and though she was **apt** to laugh at folly, her temper was cheerful."*

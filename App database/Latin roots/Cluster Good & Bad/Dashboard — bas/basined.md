@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in a basin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in a basin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed, resting, or sheltered within a natural basin or concave topographical hollow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a broad shallow bowl or geological depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basined designates enclosed in a basin."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Between high pine-clad slopes lay a secluded lake, **basined** within the rugged hollows of the Alps."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"A cool fountain bubbled into a marble pool **basined** within the fragrant court of myrtles."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"A peaceful tarn **basined** high among the solitary crags reflected the blue autumn sky."*

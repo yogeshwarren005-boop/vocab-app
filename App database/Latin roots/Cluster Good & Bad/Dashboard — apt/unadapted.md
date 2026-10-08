@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in form or character for a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having adapted to new conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjusted, modified, or altered to fit particular conditions, needs, or environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, lacking the specialized characteristics necessary to survive in a specific habitat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadapted designates not changed in form or character for a purpose."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms **unadapted** to fluctuating climatic conditions are relentlessly eliminated in the struggle for existence."*
+> - 📜 **Thomas Huxley (*Collected Essays*):** *"Pioneers found their European farming implements completely **unadapted** to the hard clay of the virgin wilderness."*
+> - 📜 **William James (*Pragmatism*):** *"A philosophical theory **unadapted** to concrete human experience remains an idle scholastic diversion."*

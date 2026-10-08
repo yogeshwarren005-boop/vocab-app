@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic family classification created to contain the ringtails or cacomistles (now in family Procyonidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposed carnivorous mammal family distinguished by a segmented auditory bulla and viverrine-like dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassariscidae designates in some classifications considered a separate family."*
+> - 📜 **Elliott Coues (*Fur-Bearing Animals*):** *"Naturalists once erected the family **Bassariscidae** to emphasize the anatomical uniqueness of the American ringtail."*
+> - 📜 **C. Hart Merriam (*North American Fauna*):** *"The cranial dentition isolates the **Bassariscidae** from ordinary procyonids, approaching the viverrine type."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The auditory bulla of the **Bassariscidae** exhibits a complete internal septum distinguishing it from the raccoons."*

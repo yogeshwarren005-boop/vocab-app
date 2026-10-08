@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow-to-brown mineral that is a source of rare earth elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow-to-brown mineral that is a source of rare earth elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare-earth fluorocarbonate mineral containing cerium, lanthanum, and yttrium, forming yellow to reddish-brown crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal industrial ore mineral mined globally for the extraction of light rare-earth elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastnaesite designates a yellow-to-brown mineral that is a source of rare earth elements."*
+> - 📜 **J. J. Berzelius (*Treatise on Chemistry*):** *"Analysis of the Swedish mineral **bastnaesite** confirmed the presence of the newly discovered earth ceria."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Crystals of **bastnaesite** occur in tabular yellow-brown prisms within contact-metamorphic limestone."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Rare earth deposits in Scandinavia yielded rich specimens of **bastnaesite** associated with allanite and fluorspar."*

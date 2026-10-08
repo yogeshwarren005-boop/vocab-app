@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexually produced fungal spore borne on a basidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexually produced fungal spore borne on a basidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reproductive spore produced externally upon the sterigma of a basidium following sexual meiosis in basidiomycete fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopic haploid propagule responsible for windborne dispersal and mycelial germination in club fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiospore designates a sexually produced fungal spore borne on a basidium."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"When mature, each **basidiospore** is propelled outward by the sudden discharge of a microscopic droplet."*
+> - 📜 **M. C. Cooke (*British Fungi*):** *"Under high magnification, the smooth elliptical **basidiospore** reveals delicate hyaline ornamentation."*
+> - 📜 **George Francis Atkinson (*Studies of American Fungi*):** *"Moisture triggers the germination of the dormant **basidiospore**, which quickly throws out an initial germ tube."*

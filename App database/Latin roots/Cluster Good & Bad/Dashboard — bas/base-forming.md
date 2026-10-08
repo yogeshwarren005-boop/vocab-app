@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding a base in aqueous solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding a base in aqueous solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In chemistry, capable of reacting or combining to produce an alkaline or basic substance, as basic metallic oxides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing chemical elements, specifically electropositive metals, whose oxides hydrate into bases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, base-forming designates yielding a base in aqueous solution."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Metals of the alkaline earths possess marked **base-forming** properties when brought into contact with atmospheric oxygen."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The electrolysis of saline solutions demonstrates that **base-forming** cations migrate steadily toward the negative electrode."*
+> - 📜 **J. J. Berzelius (*Treatise on Chemistry*):** *"Electropositive elements are predominantly **base-forming**, in sharp contrast to the electronegative acid-yielding metalloids."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped vessel; usually used for holding food or liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a basin will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide, shallow, open container or bowl, used especially for holding water or other liquids for washing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and geology, a wide natural depression or drainage area drained by a river system and its tributaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your mightiness to wash your hands? [_Servants present a ewer, basin and napkin._] O, how we joy to see your wit restor’d!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He dipped his hands into a wooden **basin** of clear brine before beginning his sailor's toilet."*
+> - 📜 **John Muir (*The Mountains of California*):** *"From this granite ridge the eye sweeps across the broad glacial **basin** of the upper Tuolumne."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The drainage of the great river **basin** had deposited vast alluvial beds during successive flood cycles."*

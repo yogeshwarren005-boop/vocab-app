@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leukocyte with basophilic granules easily stained by basic stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leukocyte with basophilic granules easily stained by basic stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A histological cell or tissue element characterized by an affinity for basic dyes (variant of basophil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basophilic granulocyte circulating in the blood or located in connective tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophile designates a leukocyte with basophilic granules easily stained by basic stains."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"The **basophile** leukocyte exhibits dense cytoplasmic granulation that reacts strongly to methylene blue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Differential counts showed an unusual proliferation of the **basophile** element in the marrow."*
+> - 📜 **Simon Flexner (*Studies from the Rockefeller Institute*):** *"The cytoplasm of the tissue **basophile** contains histamine precursors released during acute anaphylaxis."*

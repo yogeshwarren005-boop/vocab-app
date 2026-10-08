@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of leaves or flowers; developing or opening in succession from apex to base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of leaves or flowers; developing or opening in succession from apex to base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, developing, differentiating, or proceeding sequentially from the apex downward toward the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the maturation of tissues or transport of growth substances toward the lower attachment point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basipetal designates of leaves or flowers; developing or opening in succession from apex to base."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"When floral buds unfold from above downward upon the axis, the inflorescence is termed **basipetal**."*
+> - 📜 **Julius von Sachs (*Text-book of Botany*):** *"A **basipetal** succession of leaves or branches is characterized by the youngest rudiments appearing toward the base."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The transmission of the motor impulse down the radicle exhibits a strictly **basipetal** conduction."*

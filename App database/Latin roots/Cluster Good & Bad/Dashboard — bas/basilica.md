@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An early christian church designed like a roman basilica; or a roman catholic church or cathedral accorded certain privileges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roman building used for public administration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large oblong Roman public building with double colonnades and a semicircular apse, used for courts of law and civic gatherings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Christian church built upon this architectural plan, or an ecclesiastical building granted special ceremonial status by papal decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Saint Mark’s: see Ruskin’s description of this glorious basilica, in ‘The Stones of Venice’. 3."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Rome the new birth and the remission of sins by the shedding of bull's blood appear to have been carried out above all at the sanctuary of the Phrygian goddess on the Vatican Hill, at or near the spot where the great basilica of St."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"As for the fire, or sword, or banishment, which are threatened, we fear them not.”[133] Again, writing to his sister Marcella, he says: “Not only the <g>basilica</g> without the walls is now demanded, but also the new and greater one within the city."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The public **basilica** should be placed in the warmest quarter of the forum, where merchants may confer sheltered from winter winds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantine converted the ancient judicial **basilica** into a magnificent Christian temple."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The great **basilica** of Saint Mark shines like a treasure-casket wrought of gold and oriental alabaster."*

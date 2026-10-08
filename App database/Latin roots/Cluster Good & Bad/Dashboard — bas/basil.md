@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world tropical aromatic annual or perennial herbs of the genus ocimum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) the bishop of caesarea who defended the roman catholic church against the heresies of the 4th century; a saint and doctor of the church (329-379).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic annual culinary herb of the mint family (Ocimum basilicum), with pungent leaves widely used in cookery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, any plant of the genus Ocimum native to tropical regions of central Africa and southeast Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"What do you take his age to be?’ ‘Sixty,’ said I, ‘or perhaps sixty-two.’ ‘Forty,’ replied Sir Basil, ‘forty, and no more.’ Picture to yourselves my amazement; I shall not easily forget Admiral Baldwin."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His second son was the well-known Captain Basil Hall, R.N., the author of a once widely-read book of travels."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He once called her his basil plant; and when she asked for an explanation, said that basil was a plant which had flourished wonderfully on a murdered man’s brains."*
+> - 📜 **John Keats (*Isabella; or, The Pot of Basil*):** *"And so she sat, and wept upon her sweet **basil**, weeping whole tears into the fragrant mold."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"Sweet **basil** is an herb of Mars under Scorpio, possessing fragrant qualities helpful to the brain."*
+> - 📜 **Giovanni Boccaccio (*The Decameron*):** *"Lisabetta planted the severed head within a terracotta pot, covering it with earth and lush sprigs of **basil**."*

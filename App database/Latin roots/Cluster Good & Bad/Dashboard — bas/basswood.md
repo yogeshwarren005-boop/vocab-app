@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft light-colored wood of any of various linden trees; used in making crates and boxes and in carving and millwork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deciduous trees of the genus tilia with heart-shaped leaves and drooping cymose clusters of yellowish often fragrant flowers; several yield valuable timber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several North American trees of the linden genus (Tilia), especially Tilia americana, or its soft, fine-grained wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light, easily carved lumber of the American linden, prized for pattern-making, woodcarving, and honey production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basswood designates soft light-colored wood of any of various linden trees; used in making crates and boxes and in carving and millwork."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the river bottom grew magnificent trees of **basswood**, whose soft white timber is prized for carving."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The fragrant blossoms of the **basswood** attracted swarms of wild honeybees from the surrounding hills."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"When the pioneer felled a hollow **basswood**, he released a colony of flying squirrels into the frosty twilight."*

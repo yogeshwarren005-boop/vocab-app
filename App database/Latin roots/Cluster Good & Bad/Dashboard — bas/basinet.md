@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval steel helmet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval steel helmet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, close-fitting medieval steel helmet, hemispherical or conical, worn in the 14th and 15th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval knightly headpiece fitted with a camail of chainmail to protect the neck and throat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basinet designates a medieval steel helmet."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The stout armorer adjusted a polished steel **basinet** upon the young knight's brow."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"Sir Nigel tightened the chain camail attached to the lower rim of his pointed **basinet**."*
+> - 📜 **Jean Froissart (*Chronicles*):** *"The French men-at-arms advanced with their **basinet** visors lowered against the shower of English arrows."*

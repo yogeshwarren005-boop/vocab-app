@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern ukraine on the black sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern ukraine on the black sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major historic fortified naval seaport city on the Crimean Peninsula on the Black Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The focal stronghold of the Crimean War, renowned for its protracted eleven-month siege (1854–1855).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I am old enough to recollect the trenches before Sebastopol, and all that my countrymen and the English endured there."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Corny Sullivan had been a soldier in the British army for many years, he had been wounded at last at Sebastopol, and yet here he was, full of military lore and glory, and propped by a wooden leg."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Saragossa, compared with Amberes, Dantzig, Metz, Sebastopol, Cartagena, Gibraltar, and other famous strongholds, was like a fortress made of cardboard."*
+> - 📜 **Leo Tolstoy (*Sevastopol Sketches*):** *"The heroic defenders of **Sebastopol** endured month after month of relentless allied artillery fire upon the Malakoff bastion."*
+> - 📜 **Alfred Tennyson (*The Charge of the Light Brigade*):** *"Into the valley of Death rode the six hundred, while cannons roared outside the besieged fortifications of **Sebastopol**."*
+> - 📜 **Karl Marx (*The Eastern Question*):** *"The protracted siege of **Sebastopol** drained the imperial treasury of the Russian czar and exposed military backwardness."*

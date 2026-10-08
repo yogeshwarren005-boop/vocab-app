@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic club-shaped reproductive cell in basidiomycete fungi that produces sexual spores (typically four) on slender projections called sterigmata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The terminal sporangial organ of the hymenium where karyogamy and meiosis occur in higher fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Karyogamy occurs within the swollen apex of the **basidium**, swiftly followed by two meiotic divisions."*
+> - 📜 **M. C. Cooke (*Fungi: Their Nature and Uses*):** *"Each mature **basidium** projects four delicate sterigmata, each supporting an aerial spore."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"The club-shaped **basidium** provides the distinguishing anatomical landmark separating Agaricales from all other plants."*

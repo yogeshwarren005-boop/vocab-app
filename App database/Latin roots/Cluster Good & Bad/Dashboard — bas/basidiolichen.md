@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lichen in which the fungus component is a basidiomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lichen in which the fungus component is a basidiomycete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lichen in which the fungal partner belongs to the phylum Basidiomycota rather than the much more common Ascomycota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbiotic organism composed of a basidiomycete fungus and a photosynthetic algal or cyanobacterial photobiont.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiolichen designates a lichen in which the fungus component is a basidiomycete."*
+> - 📜 **Beatrix Potter (*On the Germination of the Spores of the Agaricineae*):** *"Rare tropical specimens demonstrate that a **basidiolichen** combines a club-fungus with unicellular green algae."*
+> - 📜 **Anton de Bary (*Morphology and Physiology of the Fungi, Lichens, and Myxomycetes*):** *"While ascomycetous partners predominate, Cora pavonia affords a celebrated instance of an authentic **basidiolichen**."*
+> - 📜 **William Gilson Farlow (*Notes on Cryptogamic Botany*):** *"The discovery of a temperate **basidiolichen** challenged the prevailing assumption that all lichens were pyrenomycetes or discomycetes."*

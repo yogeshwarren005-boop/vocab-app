@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity for adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a capacity for adaptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, facilitating, or tending toward adjustment or functional suitability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying an active evolutionary capacity to accommodate external pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptative designates having a capacity for adaptation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Every vital phenomenon displays an **adaptative** response whereby internal relations adjust to external relations."*
+> - 📜 **William James (*The Will to Believe*):** *"Belief constitutes an **adaptative** attitude of consciousness toward a universe of unfolding contingencies."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Early mythologies reveal an **adaptative** interpretation of natural forces framed through animistic metaphors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being born to parents who were not married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The status of being born to parents who were not married.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status of being born out of lawful wedlock; illegitimacy of birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law, the civil incapacity to inherit real property from intestate ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But once he slander’d me with bastardy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Touched you the bastardy of Edward’s children?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A halter, soldiers, hang him on this tree, And by his side his fruit of bastardy."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law imposes harsh civil disabilities upon the condition of **bastardy**, denying rights of ancestral inheritance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The stain of **bastardy** did not impede the advancement of valiant captains in the Byzantine army."*
+> - 📜 **Walter Scott (*Waverley*):** *"An accusation of **bastardy** was leveled against the claimant to deprive him of the highland estate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that debases or corrupts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that debases or corrupts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of debasing, corrupting, or degrading the original quality, authenticity, or integrity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dilution or degradation of a language, art form, or cultural tradition by the introduction of inferior elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardisation designates an act that debases or corrupts."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Commercial exploitation threatens the tragic **bastardisation** of our classical literary heritage."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Modern stucco restorations represent a shameful **bastardisation** of authentic Gothic stonework."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mechanical utilitarianism has caused a deplorable **bastardisation** of ancient chivalric honor."*

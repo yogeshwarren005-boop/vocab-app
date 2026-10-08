@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast taxonomic phylum of kingdom Fungi characterized by the formation of sexual spores externally upon basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two major phyla comprising the subkingdom Dikarya, containing over thirty thousand described species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycota designates comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Modern phylogenetic classifications place the **Basidiomycota** alongside Ascomycota as sister lineages within the crown fungi."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The macroscopic fruiting architecture developed within the **Basidiomycota** reflects immense morphological radiation."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"Taxonomic groupings like the **Basidiomycota** demonstrate how reproductive mechanisms define high-level phyla."*

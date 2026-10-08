@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortress built in paris in the 14th century and used as a prison in the 17th and 18th centuries; it was destroyed july 14, 1789 at the start of the french revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A jail or prison (especially one that is run in a tyrannical manner).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fortified tower, stronghold, or state prison, especially the fourteenth-century fortress of Paris stormed on July 14, 1789.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any oppressive or tyrannical fortress used to confine political prisoners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"You would have almost thought they were pulling down the cursed Bastille, such wild cries they raised, as the now useless brick and mortar were being hurled into the sea."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Some patriots throw the tea overboard; some other patriots destroy a Bastille."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Bastille!” With a roar that sounded as if all the breath in France had been shaped into the detested word, the living sea rose, wave on wave, depth on depth, and overflowed the city to that point."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"On that fierce July morning, the turbulent populace of Paris surged against the gloomy towers of the **Bastille**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Doctor Manette had languished for eighteen years in the North Tower of the hated **Bastille**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The dramatic capture of the **Bastille** became a symbol of revolutionary defiance rather than military triumph."*

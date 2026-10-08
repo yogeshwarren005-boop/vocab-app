@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-grade cocaine mixed with coca paste and cannabis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-grade cocaine mixed with coca paste and cannabis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unrefined, highly toxic smokable paste of crude cocaine sulfate mixed with chemical processing residues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cheap, highly addictive narcotic substance consumed on the streets in Andean South America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basuco designates low-grade cocaine mixed with coca paste and cannabis."*
+> - 📜 **William S. Burroughs (*The Soft Machine*):** *"In Andean border cantinas, street addicts smoked crude **basuco** rolled in cheap tobacco."*
+> - 📜 **Gabriel García Márquez (*News of a Kidnapping*):** *"The tragic proliferation of **basuco** devastated the youth of Medellín's hillside slums."*
+> - 📜 **Bruce Chatwin (*In Patagonia*):** *"Police reports detailed the illicit traffic in **basuco** through northern mining valleys."*

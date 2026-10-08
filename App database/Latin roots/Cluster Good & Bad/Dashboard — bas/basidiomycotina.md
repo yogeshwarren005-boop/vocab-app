@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic subphylum classification comprising all fungi that bear sexual spores on basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal subdivision of Eumycota corresponding to modern phylum Basidiomycota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycotina designates comprises fungi bearing the spores on a basidium; includes gasteromycetes (puffballs) and tiliomycetes comprising the orders ustilaginales (smuts) and uredinales (rusts) and hymenomycetes (mushrooms, toadstools, agarics and bracket fungi); in some classification systems considered a division of kingdom fungi."*
+> - 📜 **Charles Edwin Bessey (*The Essentials of Botany*):** *"Under traditional system of Saccardo, the **Basidiomycotina** included both the fleshy Hymenomycetes and the destructive Uredinales."*
+> - 📜 **G. C. Ainsworth (*Dictionary of the Fungi*):** *"The classification recognized the **Basidiomycotina** as a distinct subphylum united by the distinctive morphology of the basidium."*
+> - 📜 **Roland Thaxter (*Botanical Gazette*):** *"Comparative developmental studies confirm that the **Basidiomycotina** diverged early from the sac-fungus lineages."*

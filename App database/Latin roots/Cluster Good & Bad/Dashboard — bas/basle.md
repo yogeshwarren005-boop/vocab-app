@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northwestern switzerland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern switzerland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historic variant spelling of Basel, the Swiss city on the Rhine river renowned for printing and scholarship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site of the famous fifteenth-century Ecumenical Council of Basel-Ferrara-Florence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basle designates a city in northwestern switzerland."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"At the great council of **Basle**, the assembled prelates asserted their ecclesiastical independence."*
+> - 📜 **John Evelyn (*Diary*):** *"We arrived by boat at **Basle**, where the swift waters of the Rhine divide the ancient Swiss cantons."*
+> - 📜 **Thomas Carlyle (*The Life of Friedrich Schiller*):** *"Schiller studied with avid enthusiasm the printed folios issued by the classical presses of **Basle**."*

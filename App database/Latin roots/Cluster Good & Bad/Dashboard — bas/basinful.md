@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity that a basin will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a basin will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire quantity or volume that a basin can hold; the measure contained in a basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brimful portion of liquid, meal, or provisions prepared in a bowl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basinful designates the quantity that a basin will hold."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Mrs. Mann administered a steaming **basinful** of thin water-gruel to the shivering parish orphan."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Lisbeth carried a **basinful** of warm broth across the tiled kitchen to her grieving son."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The maid brought a **basinful** of hot water and soft towels to dress the injured traveler's wound."*

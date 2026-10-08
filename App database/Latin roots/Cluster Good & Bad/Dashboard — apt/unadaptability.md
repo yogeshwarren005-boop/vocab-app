@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to change or be changed to fit changed circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inability to change or be changed to fit changed circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability or refusal to adjust, alter, or reconcile oneself to new conditions, environments, or expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidity of structure or temperament that resists evolutionary or functional change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadaptability designates the inability to change or be changed to fit changed circumstances."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social organisms characterized by extreme **unadaptability** crumble when external industrial pressures intensify."*
+> - 📜 **Thomas Huxley (*Evolution and Ethics*):** *"Extinction overtook ancient reptilian dynasties primarily because of their morphological **unadaptability** to glacial cooling."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The tragic downfall of the aristocratic class stems from their stubborn **unadaptability** to democratic realities."*

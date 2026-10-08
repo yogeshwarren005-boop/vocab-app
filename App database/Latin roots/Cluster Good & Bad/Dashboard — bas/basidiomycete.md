@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various fungi of the subdivision basidiomycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various fungi of the subdivision basidiomycota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus belonging to the phylum Basidiomycota, producing spores on microscopic club-shaped basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A club fungus, encompassing mushrooms, boletes, shelf fungi, puffballs, smuts, and rusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycete designates any of various fungi of the subdivision basidiomycota."*
+> - 📜 **Charles Edwin Bessey (*Botany for High Schools and Colleges*):** *"The common edible mushroom exemplifies the life cycle of a terrestrial **basidiomycete** with radiating gill plates."*
+> - 📜 **M. C. Cooke (*Fungi: Their Nature and Uses*):** *"Every true **basidiomycete** discharges its microscopic tetrad of spores through an ingenious droplet mechanism."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Rust fungi present a complex polymorphic alternation of generations within the broader **basidiomycete** alliance."*

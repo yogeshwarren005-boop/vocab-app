@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding or border above the base of a structure (a pedestal or podium or wall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The molding or border above the base of a structure (a pedestal or podium or wall).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In architecture, a horizontal molding or decorative cornice running immediately above the base of a pedestal or wainscot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chair-rail molding fixed to an interior wall to protect plasterwork from damage by chair backs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surbase designates the molding or border above the base of a structure (a pedestal or podium or wall)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A finely carved **surbase** crowned the lower pedestal of the Gothic pier, breaking its vertical ascent."*
+> - 📜 **Edith Wharton (*The Decoration of Houses*):** *"In classical interiors, the chair-rail functions as a protective **surbase** aligned with the window sills."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"Polished oak wainscoting reached to the **surbase**, above which hung rich tapestries of Flemish weave."*

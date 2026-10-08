@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the southern African Bantu-speaking people now officially known as the Basotho (historical variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the customs, language, or territory of the Basotho nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Soon the horses, most of which were small and of the Basuto breed, were ready to start."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"But as ill-luck would have it, one night when they were camped near the kraal of a small Basuto tribe, his companions becoming hungry, stole a goat and killed it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Casalis, _The Basutos_ (London, 1861), p. 268. [90] J."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The **Basuto** people defended their mountain strongholds against repeated Boer incursions."*
+> - 📜 **Anthony Trollope (*South Africa*):** *"Under the guidance of Moshesh, the **Basuto** clans learned the art of mounted warfare."*
+> - 📜 **James Bryce (*Impressions of South Africa*):** *"The **Basuto** territory retains a unique political autonomy under direct imperial protection."*

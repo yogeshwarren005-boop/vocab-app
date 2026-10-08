@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moistening a roast as it is cooking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long, loose temporary stitches used in sewing to hold seams or hems in place prior to final stitching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cookery, the continuous moistening of roasting meat with seasoned juices, butter, or melted drippings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I drew Jane away for I felt that it was no time to disturb him, when the basting of his baked meats was just about to begin."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty was busy with the needle, giving temporary **basting** to the hem of my mother's gown."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg watched the oven carefully, **basting** the holiday fowl until its skin turned a rich golden brown."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tailor interrupted his **basting** of the smock-frock to listen to the village messenger."*

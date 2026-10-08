@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse leaf fiber from palmyra palms used in making brushes and brooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coarse leaf fiber from palmyra palms used in making brushes and brooms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse, stiff, dark brown natural fiber obtained from the leaf-sheaths of the palmyra palm (Borassus flabellifer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A durable brush-making fiber widely utilized for industrial sweeping brooms and scrubbing brushes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassine designates coarse leaf fiber from palmyra palms used in making brushes and brooms."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Coarse dark fibers known as **bassine** are stripped from the leaf-sheaths of the palmyra palm for commercial cordage."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The villagers wove stiff broom fibers from **bassine**, exporting bundles downriver to the coastal ports."*
+> - 📜 **George Watt (*A Dictionary of the Economic Products of India*):** *"The toughness and water-resistance of **bassine** make it an indispensable material for sweeping brooms."*

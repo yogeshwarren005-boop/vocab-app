@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a basilica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a basilica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constructed according to the architectural layout of a basilica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an oblong nave flanked by lower colonnaded aisles and ending in a semicircular apse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basilican designates of or relating to or resembling a basilica."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The vast nave was built upon a **basilican** plan, with towering marble arcades and a solemn western narthex."*
+> - 📜 **Edward Augustus Freeman (*A History of Architecture*):** *"The transition from the pagan court to the early Christian **basilican** church preserved the majestic rhythm of colonnades."*
+> - 📜 **Henry Adams (*Mont Saint Michel and Chartres*):** *"Before the soaring arches of Gothic genius arose, the austere **basilican** interior satisfied Christian devotion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aptitudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aptitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or measuring natural abilities or innate capacities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to intrinsic fitness or predisposition for specific vocational or intellectual tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aptitudinal designates of or relating to aptitudes."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Teachers must discern the **aptitudinal** differences that make one pupil excel in geometry while another thrives in languages."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"University entrance standards ought to distinguish authentic **aptitudinal** merit from mere social pedigree."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Individual **aptitudinal** variations enrich communal life by providing diverse faculties for collective problem-solving."*

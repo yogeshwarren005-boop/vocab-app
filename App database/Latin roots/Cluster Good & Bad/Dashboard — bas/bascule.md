@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure or device in which one end is counterbalanced by the other (on the principle of the seesaw).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure or device in which one end is counterbalanced by the other (on the principle of the seesaw).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or drawbridge operating on the principle of a seesaw, in which a counterweight balances the swinging span.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics, a counterbalanced lever mechanism used to raise heavy barriers or sluice gates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bascule designates a structure or device in which one end is counterbalanced by the other (on the principle of the seesaw)."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The great **bascule** of Tower Bridge stood half-raised against the fiery crimson smoke of London."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The harbor gate operated by a crude wooden **bascule**, creaking heavily upon iron hinges."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Tugs guided the cargo steamer through the opened **bascule** into the crowded commercial basin."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to be expended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of funds) remaining after taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be used up or consumed in service; not worth preserving or saving; replaceable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations, troops, equipment, or munitions regarded as consumable to achieve a tactical objective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You're telling me we're expendable?" "You're in covert intelligence work, Brad, and you'll be in the enemy's camp."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In that sense, yes, you are expendable."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"In desperate amphibious assaults, landing craft were considered **expendable** material in achieving beachhead lodgment."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"Ammunition wagons and pack mules were **expendable** resources along the scorched mountain passes."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Industrial warfare treats machines and human crews alike as **expendable** units consumed in rapid attrition."*

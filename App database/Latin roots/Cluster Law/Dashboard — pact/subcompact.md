@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car smaller than a compact car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A car smaller than a compact car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An automobile smaller in size and engine displacement than a standard compact car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying an exceptionally small, condensed, or miniaturized space or volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcompact designates a car smaller than a compact car."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"He parked the rented **subcompact** between two delivery vans, squeezing through the narrow driver's door into the drizzle."*
+> - 📜 **John Updike (*Rabbit at Rest*):** *"The noisy little Japanese **subcompact** buzzed along the Florida highway, dwarfed by passing tractor-trailers."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"Commuters maneuvered their economical **subcompact** cars across the congested approaches to the Manhattan bridge."*

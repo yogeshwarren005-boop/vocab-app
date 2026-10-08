@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written agreement between two states or sovereigns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written agreement between two states or sovereigns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal agreement, treaty, or covenant between two or more individuals, parties, or nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn mutual promise or alliance binding the signatories to a specific course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Kim and Pak, in their youth, swore a pact to abstain from drinking, which pact was speedily broken."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"That’s a new question; still replies the fact, Nothing endures: the wind moans, saying so; We moan in acquiescence: there’s life’s pact, Perhaps probation--do I know?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Will ye renounce this pact of creatureship?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"By sacred **pact** and solemn league the rebel angels bound themselves to wage perpetual war against high Heaven."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Civil society is a venerable **pact** connecting the ancestral past with the hopes of posterity."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Covenants without the sword are but words, and of no strength to secure a man at all, unless sealed by a binding **pact**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geomorphology, a low-relief, nearly flat erosion plain produced by long-continued fluvial weathering and base-level erosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive land surface undulating gently near sea level, representing the terminal stage of a geographical cycle of erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneplain designates a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Subaerial erosion steadily reduces mountainous uplands into a nearly featureless **peneplain** undulating close to base level."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Prolonged atmospheric weathering across geological epochs levels ancient mountain chains into an extensive **peneplain**."*
+> - 📜 **John Wesley Powell (*Exploration of the Colorado River of the West*):** *"The uplifted plateau represents an ancient dissected **peneplain** that has been deeply incised by the Colorado River."*

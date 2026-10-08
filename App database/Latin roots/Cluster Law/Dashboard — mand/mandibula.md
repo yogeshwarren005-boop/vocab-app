@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is hinged to open the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is hinged to open the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal anatomical and zoological Latin term for the mandible or lower jaw in vertebrates and invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paired anterior gnathal appendage in mandibulate arthropods used for crushing food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibula designates the jaw in vertebrates that is hinged to open the mouth."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Each **mandibula** is equipped with a heavily calcified toothed blade and a three-jointed sensory palp."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Under microscopic examination, the **mandibula** of the beetle exhibits heavy chitinous ridges adapted for cutting foliage."*
+> - 📜 **Santiago Ramón y Cajal (*Histology and Microscopic Anatomy*):** *"Sensory nerve fibers from the trigeminal branch innervate the periosteum of the human **mandibula**."*

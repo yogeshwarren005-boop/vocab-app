@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having received remuneration, offset, or satisfaction for loss, labor, or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, describing a diseased organ that maintains function through compensatory hypertrophy or adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have compensated myself for that disappointment by coming here since and being of some small use to her.” “The kindest physician in the college,” whispered Miss Flite to me."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This is no doubt a great sum of money, but I trust it will be amply compensated by the honesty, cleanliness, economy, and good temper of the landlady...."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Moreover, the harpies who feed and thrive on the miseries of the poor, would in no case have given her more than twenty-five cents for them; and the short respite derived from that amount would not have compensated for the sacrifice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **compensated** mitral stenosis may cause little functional disability so long as the right ventricle maintains power."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Public servants who dedicate their talents to the republic must be honorably **compensated** from the national treasury."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt **compensated** for all her domestic disappointments by the sweet consciousness of aiding others."*

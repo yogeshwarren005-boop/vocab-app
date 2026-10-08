@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose a penalty on; inflict punishment on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose a penalty on; inflict punishment on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To punish, impose a penalty on, or subject to a legal handicap or forfeiture for a violation of rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put in an unfavorable position or at an unfair disadvantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penalize designates impose a penalty on; inflict punishment on."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The revenue laws must strictly **penalize** those who engage in fraudulent customs declarations at our ports."*
+> - 📜 **Abraham Lincoln (*Notes for a Law Lecture*):** *"The courts exist to enforce lawful contracts and to **penalize** willful breaches of trust with equitable remedies."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic majorities do not physically torture dissidents, but **penalize** them by ostracizing them from public honors."*

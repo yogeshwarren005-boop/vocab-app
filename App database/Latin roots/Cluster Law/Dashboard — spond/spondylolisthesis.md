@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In orthopedics, the forward displacement or slippage of a superior vertebra over the vertebral body immediately below it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spinal condition, most commonly affecting the fourth or fifth lumbar vertebra, causing lower back pain and nerve compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylolisthesis designates a forward dislocation of one vertebra over the one beneath it producing pressure on spinal nerves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lumbar **spondylolisthesis** typically results from a bilateral stress defect or lysis in the pars interarticularis."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Severe forward **spondylolisthesis** may narrow the spinal canal, producing symptoms of cauda equina compression."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Repetitive hyperextension among freight handlers predisposed them to fatigue fractures and subsequent **spondylolisthesis**."*

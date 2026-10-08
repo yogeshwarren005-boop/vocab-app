@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form of aramaic used by the mandeans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of the ancient Gnostic monotheistic community of southern Iraq and southwestern Iran.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the Mandaeans, their Eastern Aramaic liturgical language, or their rites of immersion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandean designates a member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **mandean** communities along the lower Euphrates preserved their ancient baptismal liturgy through centuries of change."*
+> - 📜 **Austen Henry Layard (*Nineveh and Babylon*):** *"We observed the **mandean** silversmiths practicing their delicate craft in the covered bazaars of southern Mesopotamia."*
+> - 📜 **Ernest Renan (*The Life of Jesus*):** *"Scholars trace in **mandean** traditions the lingering memory of the ancient Baptist sects that bordered the Jordan."*

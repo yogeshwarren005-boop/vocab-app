@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baboons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baboons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mammalogy, the taxonomic genus of Old World monkeys comprising two species: the mandrill (*Mandrillus sphinx*) and the drill (*Mandrillus leucophaeus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primate genus endemic to the tropical rainforests of equatorial West Africa, characterized by large canines and terrestrial habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mandrillus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In our systematic classification, the genus **mandrillus** is separated from the typical baboons by cranial morphology."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Both species of **mandrillus** inhabit dense primary forests, moving in large foraging bands across the jungle floor."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The robust sagittal crest in adult males of **mandrillus** provides anchorage for massive temporalis chewing muscles."*

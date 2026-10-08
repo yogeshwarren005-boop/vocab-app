@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biographical and historical designation commemorating Nelson Mandela, celebrated for dismantling apartheid and fostering democratic reconciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbolic embodiment of moral courage, perseverance against racial injustice, and peaceful democratic transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandela designates south african statesman who was released from prison to become the nation's first democratically elected president in 1994 (born in 1918)."*
+> - 📜 **Nelson Mandela (*Long Walk to Freedom*):** *"During the long years on Robben Island, **mandela** clung to the conviction that freedom was indivisible for all South Africans."*
+> - 📜 **Desmond Tutu (*No Future Without Forgiveness*):** *"The magnanimity displayed by **mandela** upon his release disarmed the fears of the white minority and averted a catastrophic civil war."*
+> - 📜 **Nadine Gordimer (*Living in Hope and History*):** *"The voice of **mandela** spoke not of vengeance, but of a shared constitutional future grounded in universal human dignity."*

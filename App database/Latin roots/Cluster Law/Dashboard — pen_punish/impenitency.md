@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of refusing to repent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of refusing to repent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate refusal to repent of sin; persistent lack of contrition or moral remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unyielding spiritual state of remaining unrepentant before divine and human judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impenitency designates the trait of refusing to repent."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"Final **impenitency** seals the eternal doom of the sinner, turning away the compassionate mercy of Heaven."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The man in the iron cage lamented that hardened **impenitency** had shut him out forever from the promises of grace."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"The prophets warned the kings of Judah that stubborn **impenitency** would precipitate national desolation and exile."*

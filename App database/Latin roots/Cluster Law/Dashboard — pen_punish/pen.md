@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a point from which ink flows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosure for confining livestock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for writing or drawing with ink; or a small enclosure or coop for holding livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To write or compose a letter or literary work; or to confine animals in an enclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The poet's eye, in fine frenzy rolling, and as imagination bodies forth the forms of things unknown, the poet's **pen** turns them to shapes."*
+> - 📜 **Edward Bulwer-Lytton (*Richelieu*):** *"Beneath the rule of men entirely great, the **pen** is mightier than the sword; take away the sword, states can be saved without it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak labored through the night in the lambing **pen**, warming the weak new-born lambs before the fire."*

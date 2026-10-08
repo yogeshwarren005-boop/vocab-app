@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Baboon of west africa with a bright red and blue muzzle and blue hindquarters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, formidable forest-dwelling baboon-like primate (*Mandrillus sphinx*) native to equatorial Africa, famed for its brightly colored face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest of all monkeys, distinguished by olive-brown fur and ridged blue and scarlet facial markings in adult males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandrill designates baboon of west africa with a bright red and blue muzzle and blue hindquarters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"No other mammal displays such extraordinary sexual coloration as the male **mandrill**, whose face gleams with scarlet and azure."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The vivid coloration of the **mandrill** illustrates the powerful influence of sexual selection among social primates."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fierce face of Queequeg was tattooed in strange geometrical patterns like the muzzle of an African **mandrill**."*

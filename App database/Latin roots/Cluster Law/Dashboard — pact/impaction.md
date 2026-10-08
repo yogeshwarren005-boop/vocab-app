@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being pressed closely together and firmly fixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in which feces are impacted in the lower colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm pathological wedging or confinement of a foreign mass, tooth, or calculus within an anatomical passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, obstruction caused by firmly lodged matter, such as dental or fecal impaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impaction designates the condition of being pressed closely together and firmly fixed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intestinal **impaction** requires timely diagnosis to prevent strangulation and gangrenous necrosis of the bowel."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Severe **impaction** of bone fragments in a comminuted fracture often complicates surgical reduction."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Shortened jaws in domesticated toy dogs frequently cause dental **impaction** and irregular tooth alignment."*

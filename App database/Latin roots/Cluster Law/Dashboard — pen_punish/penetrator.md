@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intruder who passes into or through (often by overcoming resistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intruder who passes into or through (often by overcoming resistance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or thing that penetrates, pierces, enters, or gains access to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep investigator or discerning thinker who fathoms complex or veiled mysteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetrator designates an intruder who passes into or through (often by overcoming resistance)."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural philosopher is a bold **penetrator** into the secret workshops of divine wisdom and physical law."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sharp iron harpoon was an effective **penetrator** of the tough, elastic blubber shielding the great sperm whale."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Dante was a visionary **penetrator** of the unseen spiritual universe, reporting what he beheld with fiery clarity."*

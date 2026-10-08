@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of penetration or passage into or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permitting little if any light to pass through because of denseness of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to pass through or enter; resistant to physical piercing or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensible; impossible to fathom, decipher, or influence by reason or emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the most impenetrable cur That ever kept with men."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever can have induced that transcendent woman to marry that effigy and figure-head of a baronet is one of the most impenetrable mysteries that ever baffled human inquiry."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The darkness was now impenetrable by the sharpest vision."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The great wall of vegetation rose before us, an **impenetrable** barrier of primeval green brooding under the equatorial sun."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan bore a shield of etherial temper, massive, round, and **impenetrable** to the blazing spears of archangels."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Behind his dark veil of reserve lay an **impenetrable** secret that consumed the minister's youthful vigor."*

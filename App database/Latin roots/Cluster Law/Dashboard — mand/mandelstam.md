@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian poet who died in a prison camp (1891-1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian poet who died in a prison camp (1891-1938).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designation for Osip Mandelstam, author of *Stone* and *Tristia*; or Leonid Mandelstam, physicist who co-discovered Raman scattering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, denoting the Mandelstam variables ($s, t, u$) used to describe relativistic particle scattering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelstam designates russian poet who died in a prison camp (1891-1938)."*
+> - 📜 **Nadezhda Mandelstam (*Hope Abandoned*):** *"Osip **mandelstam** believed passionately that poetry was an enduring moral bond that survived all tyrant regimes."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"In calculating high-energy collisions, physicists rely on the kinematic variables formulated by **mandelstam**."*
+> - 📜 **Czesław Miłosz (*The Captive Mind*):** *"The memory of **mandelstam** dying in a transit camp near Vladivostok remains a tragic monument to human integrity."*

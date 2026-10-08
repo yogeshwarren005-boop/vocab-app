@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pact within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pact in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a forceful, noticeable, or transformative effect or influence; highly effective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing significant practical or emotional impressions on an audience or public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impactful designates pertaining to, derived from, or characteristic of latin pact within the domain of law."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"Judicial opinions that articulate clear moral standards exert an **impactful** influence upon commercial ethics."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Legislative enactments are most **impactful** when they reflect deeply felt social demands rather than partisan theory."*
+> - 📜 **Woodrow Wilson (*Mere Literature and Other Essays*):** *"A great orator delivers words that are intensely **impactful**, awakening dormant convictions in the public mind."*

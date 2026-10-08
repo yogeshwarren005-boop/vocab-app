@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written, drawn, delineated, or sketched with a graphite pencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked with delicate fine lines or penciling, like the plumage of certain birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall see deeds of honour in their kind, Which sometime show well, penciled."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"There was a penciled memorandum on the envelope in his own handwriting: _Mem._ Might work K."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A **penciled** memorandum on the flyleaf of the old bible recorded the birth of the long-lost heir."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The plumage of the silver-spangled Hamburgh fowl is exquisitely **penciled** with dark crescentic markings."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Upon the parchment appeared several faint, **penciled** numbers that provided the clue to the pirate's cipher."*

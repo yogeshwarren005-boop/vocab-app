@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a punishing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a punishing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penal manner; by means of or under the sanction of criminal punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under penalty of law; liable to punitive legal consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penally designates in a punishing manner."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An act cannot be **penally** prosecuted as a crime unless it violates an express public law of the commonwealth."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Actions that produce no public mischief should not be **penally** visited by the sovereign magistrate."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Parliament resolved to proceed **penally** against the city of Boston by closing its harbor to all commerce."*

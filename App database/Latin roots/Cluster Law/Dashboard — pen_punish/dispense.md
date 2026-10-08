@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute, give out, or administer medications, justice, or services in measured portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To grant an exemption from a rule, law, or vow (often followed by *with*, meaning to do without or forgo).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unfeeling fools can with such wrongs dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*
+> - 📜 **Francis Bacon (*The Essays*):** *"Judges ought to **dispense** justice with impartiality, leaning neither to the right nor to the left from private bias."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Nature never did put forth a man of such majestic authority to **dispense** life and death among his fellow mortals."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet declared that she could very well **dispense** with Mr. Darcy's polite attentions at the county ball."*

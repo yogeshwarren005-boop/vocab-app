@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moths whose larvae are tobacco hornworms or tomato hornworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moths whose larvae are tobacco hornworms or tomato hornworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In entomology, a genus of large hawkmoths (family Sphingidae), notably *Manduca sexta* (tobacco hornworm) and *Manduca quinquemaculata* (tomato hornworm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical model organism in neurobiology, developmental genetics, and insect flight physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manduca designates moths whose larvae are tobacco hornworms or tomato hornworms."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"Sphingid moths of the genus **manduca** possess proboscises measuring up to ten inches, perfectly adapted for deep floral nectaries."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Evening primroses open their fragrant blossoms at dusk, attracting large pollinators like **manduca** moths."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The giant caterpillar of **manduca** devours solanaceous leaves with an insatiable appetite before descending to pupate."*

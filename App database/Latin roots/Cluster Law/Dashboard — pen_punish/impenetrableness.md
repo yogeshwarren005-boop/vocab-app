@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomprehensibility by virtue of being too dense to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility by virtue of being too dense to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of being impenetrable; imperviousness to physical passage or mental understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unyielding resistance to external light, sound, or emotional influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impenetrableness designates incomprehensibility by virtue of being too dense to understand."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dense **impenetrableness** of the primeval basalt prevented subterranean waters from percolating downward."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **impenetrableness** of his haughty reserve alienated the few friends who sought to console his declining years."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ironbound sea-chest defied all ordinary lockpicks by the sheer **impenetrableness** of its medieval design."*

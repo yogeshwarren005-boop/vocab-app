@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who responds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who responds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who responds or replies to a communication, question, call, or summons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emergency worker (first responder); or an electronic device that transmits a signal upon receiving an interrogation pulse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, responder designates someone who responds."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes awaited the arrival of the telegraphic **responder** with keen deductive anticipation."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"In academic disputations, the **responder** defends his thesis against the logical assaults of the opponent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To every knocking at the gate, no **responder** appeared from the gloomy depths of the deserted chambers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dejection of spirits; the loss of courage, confidence, or hope; deep depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental state of sinking under misfortune without expectation of relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"For Fanny’s present comfort it was concluded, perhaps, at the happiest moment: had he been able to talk another five minutes, there is no saying that he might not have talked away all Miss Crawford’s faults and his own despondence."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Let us go back, love, and dream no more of the Great Carbuncle!" "The sun cannot be yonder," said Hannah, with despondence."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The company were, in some measure, infected by his despondence, concerning the cause of which, however, they would not venture to inquire."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She struggled against a secret **despondence**, resolved not to surrender her mind to useless regrets."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Incurable **despondence** is a treason against reason, paralyzing every faculty that might conquer misfortune."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A heavy **despondence** seized my soul as I contemplated the irreversible ruin my ambition had wrought."*

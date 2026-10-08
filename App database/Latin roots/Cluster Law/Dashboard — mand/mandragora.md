@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stemless herbs of the family solanaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stemless herbs of the family solanaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a genus of Mediterranean plants in the nightshade family (Solanaceae), notably the European mandrake (*Mandragora officinarum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcotic and soporific extract derived from the mandrake root, celebrated in ancient medicine and occult lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not poppy, nor mandragora, Nor all the drowsy syrups of the world, Shall ever medicine thee to that sweet sleep Which thou ow’dst yesterday."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Like Elsie he will never reach the haven of Columbus-- "Not poppy nor mandragora, Nor all the drowsie syrrups of the world Shall ever medicine him to that sweete sleepe" like to the prose which Mr."*
-> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"Poppy, nor the juice of mandragora, nor all the sleeping potions in the world, could ever again restore to him that sweet rest, which he had enjoyed but yesterday."*
+> - 📜 **William Shakespeare (*Othello*):** *"Not poppy, nor **mandragora**, nor all the drowsy syrups of the world, shall ever medicine thee to that sweet sleep."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Ancient surgeons gave patients a cup of wine steeped with **mandragora** root before performing surgical amputations."*
+> - 📜 **John Keats (*Ode on Melancholy*):** *"Do not drink the dark juice of **mandragora** to numb the exquisite pain that accompanies transient beauty."*

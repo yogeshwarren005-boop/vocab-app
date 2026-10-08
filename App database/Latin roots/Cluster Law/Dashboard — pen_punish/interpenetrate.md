@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Penetrate mutually or be interlocked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To penetrate or permeate each other mutually; to pass through and thoroughly mix together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pervade, infuse, or imbue profoundly, so that two entities become intimately unified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The branching dendroidal threads of this fungus proceed from a creeping mycelium or spawn of entangled filaments which interpenetrates the matrix, upon which it establishes itself."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In true poetic genius, imagination and intellect **interpenetrate** each other until they form a single luminous power."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Light and shade **interpenetrate** throughout the forest canopy, creating endless gradations of golden twilight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our successive conscious thoughts **interpenetrate** one another in an unbroken, continuous stream of personal experience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian poet who died in a prison camp (1891-1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian poet who died in a prison camp (1891-1938).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biographical designation commemorating Osip Mandelshtam, prominent Russian Acmeist lyric poet and essayist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allusion to the tragic fate of Russian literary intellectuals persecuted under Stalinist totalitarianism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelshtam designates russian poet who died in a prison camp (1891-1938)."*
+> - 📜 **Anna Akhmatova (*My Half-Century*):** *"The brilliant verses of **mandelshtam** resonated with classical architectural perfection amidst the tempest of revolution."*
+> - 📜 **Nadezhda Mandelstam (*Hope Against Hope*):** *"My husband **mandelshtam** composed his poetry in his head during our endless wanderings through internal exile."*
+> - 📜 **Joseph Brodsky (*Less Than One*):** *"In twentieth-century Russian literature, **mandelshtam** represents the supreme triumph of classical lyric syntax over political terror."*

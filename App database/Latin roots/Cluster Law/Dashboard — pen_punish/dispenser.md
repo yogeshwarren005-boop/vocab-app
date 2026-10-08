@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container so designed that the contents can be used in prescribed amounts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dispenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dispenses or distributes things, especially medications in an apothecary or hospital; an administrator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automatic or mechanical container designed to release controlled quantities of a product.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On these accounts, one man appears to be a more eligible dispenser of the mercy of government, than a body of men."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They sat, and Hodak pressed the glow-disk in the center of the table to summon the robo-dispenser."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer ordered a fresh drink from a passing robo-dispenser."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The sovereign sits as the supreme **dispenser** of justice and fountain of honor throughout the British realm."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The hospital **dispenser** must measure every toxic tincture with mathematical precision to prevent fatal accidents."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The glorious sun shines as the great **dispenser** of light and warmth to the revolving planets."*

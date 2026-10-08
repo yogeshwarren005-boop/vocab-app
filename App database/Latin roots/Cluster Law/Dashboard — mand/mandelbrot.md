@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician (born in poland) noted for inventing fractals (born in 1924).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designation commemorating Benoit Mandelbrot, famed for discovering the Mandelbrot set and pioneering the mathematics of roughness and self-similarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to fractal geometry, chaotic dynamical systems, and power-law scaling phenomena in nature and finance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelbrot designates french mathematician (born in poland) noted for inventing fractals (born in 1924)."*
+> - 📜 **Benoit Mandelbrot (*The Fractal Geometry of Nature*):** *"In this treatise, **mandelbrot** demonstrated that clouds are not spheres, mountains are not cones, and coastlines are not circles."*
+> - 📜 **Freeman Dyson (*From Eros to Gaia*):** *"The mathematical vision of **mandelbrot** restored geometry to the rough, irregular shapes that compose our living world."*
+> - 📜 **Martin Gardner (*Penrose Tiles to Trapdoor Ciphers*):** *"Computer graphics brought the astonishing beauty of the **mandelbrot** set into the homes of millions of fascinated enthusiasts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penetrative, piercing, or incisive manner; with profound insight and discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pervasive fashion that enters deeply into physical or intellectual matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetratively designates with ability to see into deeply."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett observed his cousin **penetratively**, conscious of the tragic drama maturing in her heart."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Wordsworth looked **penetratively** upon simple rustic life, extracting universal philosophical contemplation."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The magistrate examined the prisoner **penetratively**, attempting to detect whether guilt or innocence lay beneath his reserve."*

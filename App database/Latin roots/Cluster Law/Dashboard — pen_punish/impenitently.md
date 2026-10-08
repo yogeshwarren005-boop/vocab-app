@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impenitent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impenitent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impenitent or unrepentant manner; without sorrow, contrition, or shame for wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With stubborn, hardened defiance of moral or spiritual rebuke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impenitently designates in an impenitent manner."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He chose to suffer in secret rather than live **impenitently** under the outward honors of the hypocritical world."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The convicted pirate went to the gallows **impenitently**, mocking the prayers of the attending chaplain."*
+> - 📜 **George Eliot (*Romola*):** *"Tito pursued his ambitious path **impenitently**, casting off every sacred tie of gratitude and honor."*

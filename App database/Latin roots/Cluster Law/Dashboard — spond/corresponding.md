@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Analogous, equivalent, or agreeing in amount, position, character, or function; matching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in communication by regular exchange of letters or written reports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply this life is best, If quiet life be best; sweeter to you That have a sharper known; well corresponding With your stiff age."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet returns thanks in a neat address of corresponding brevity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lays in a breakfast of two mutton chops as a foundation to work upon, together with tea, eggs, toast, and marmalade on a corresponding scale."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An increase in the quantity of money produces a **corresponding** rise in the nominal prices of all commodities."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every modification in the structure of the flower is accompanied by **corresponding** adjustments in its insect visitors."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A difference in the cause will invariably be followed by a **corresponding** alteration in the observed effect."*

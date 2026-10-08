@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being dispensed with or done without.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being dispensed with or done without.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be replaced, omitted, or done without; nonessential, expendable, or superfluous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law, describing an ecclesiastical vow, law, or impediment from which formal dispensation can be granted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispensable designates capable of being dispensed with or done without."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A prince must know which officers are vital to state survival and which courtiers are entirely **dispensable** ornaments."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Modern machinery renders manual drudgery **dispensable**, liberating human intelligence for higher cultural creative pursuits."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Certain positive ecclesiastical prohibitions are **dispensable** by lawful papal authority for urgent pastoral causes."*

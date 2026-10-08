@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of being crowded together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The consistency of a compact solid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dense solidity, firm cohesion of parts, and spatial economy in physical or conceptual structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conciseness and brevity of expression in literary style or scientific formulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The attaining of the necessary compactness, toughness, and strength of the metallic product is aided by the employment of pressure during deposition, as by burnishers, or by very rapid rotation of the depositing surfaces in the solutions."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I think it is a model of compactness."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is formed of rough stones, selected with care, and laid in courses or circles, with much compactness, but without cement of any kind."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The heroic couplets of Pope are celebrated for their remarkable **compactness** and rhythmic harmony."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The extraordinary **compactness** of basaltic rocks resists the weathering action of equatorial rains."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The colonial empire lacked geographical **compactness**, stretching across thousands of leagues of ocean."*

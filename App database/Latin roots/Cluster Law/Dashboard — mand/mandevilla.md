@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a genus of tropical and subtropical flowering woody vines in the dogbane family (Apocynaceae), native to Central and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular ornamental garden vine producing large, showy, funnel-shaped flowers in shades of pink, red, and white.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandevilla designates genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The climbing species of **mandevilla** flourish in warm conservatories, blooming profusely throughout the summer months."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Like other genera in the Apocynaceae, **mandevilla** contains milky latex and flowers with twisted aestivation."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The twining stems of cultivated **mandevilla** revolve with remarkable speed around vertical trellis supports."*

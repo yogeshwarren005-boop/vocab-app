@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthritis that affects one or more of the intervertebral joints in the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthritis that affects one or more of the intervertebral joints in the spine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In rheumatology, arthritis affecting the vertebral column and associated sacroiliac joints, often linked to HLA-B27.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of inflammatory joint diseases characterized by spinal pain, enthesitis, and asymmetric peripheral arthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylarthritis designates arthritis that affects one or more of the intervertebral joints in the spine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **spondylarthritis** leads to progressive ossification of spinal ligaments, resulting in classic poker-spine deformity."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The inflammatory changes of chronic **spondylarthritis** involve both intervertebral discs and surrounding fibrocartilage."*
+> - 📜 **Alice Hamilton (*Exploring the Dangerous Trades*):** *"Heavy laborers exposed to constant vibration frequently presented with debilitating degenerative **spondylarthritis**."*

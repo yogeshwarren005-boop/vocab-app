@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to epenthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to epenthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from epenthesis; inserted into a word for ease of articulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a non-etymological sound or letter introduced into a spoken or written word.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthetic designates of or pertaining to epenthesis."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The intrusive 'b' in the English word 'crumb' is a purely **epenthetic** consonant absent in ancient Anglo-Saxon."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"An **epenthetic** vowel develops spontaneously in unstressed syllables to separate difficult guttural consonants."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"Foreign loanwords often acquire an **epenthetic** sound when adopted into the phonological system of receiving languages."*

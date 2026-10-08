@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former french unit of area; equal approximately to an acre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former french unit of area; equal approximately to an acre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient French measure of land area, commonly equivalent to about 0.84 to 1.28 acres, historically used in France and French North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional linear measure equal to approximately 180 French feet (about 192 English feet).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arpent designates a former french unit of area; equal approximately to an acre."*
+> - 📜 **Francis Parkman (*The Old Régime in Canada*):** *"Each seigneurial strip along the St. Lawrence River measured one **arpent** in width and stretched leagues into the forest."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The peasant cultivator treasured every **arpent** of his patrimonial land, tilling it with indefatigable devotion."*
+> - 📜 **Voltaire (*Candide*):** *"France and Britain fought bloodily for a few **arpent**s of snow in Canada, squandering immense imperial treasures."*

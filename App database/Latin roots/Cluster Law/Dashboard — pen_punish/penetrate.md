@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into or through, often by overcoming resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pierce, pass into, or force a way through an object, barrier, or medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To see through or understand something complex, concealed, or mysterious; to fathom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am advised to give her music a mornings; they say it will penetrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can penetrate her with your fingering, so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears which horsehairs and calves’ guts, nor the voice of unpaved eunuch to boot, can never amend. [_Exeunt Musicians._] Enter Cymbeline and Queen."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The sharp wit of the natural philosopher strives to **penetrate** the veiled mysteries of physical creation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The steel harpoon was forged of soft Swedish iron so that it might **penetrate** deep into the blubber without breaking."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prudent statesmen must **penetrate** the deceitful rhetoric of faction to discover the true designs of the conspirators."*

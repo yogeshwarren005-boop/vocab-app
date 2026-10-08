@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having mandibles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mandibles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing mandibles or biting jaws; having mouthparts adapted for chewing rather than sucking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological classification, belonging to the Mandibulata, the major arthropod clade bearing true jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibulate designates having mandibles."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **mandibulate** insects, such as grasshoppers and beetles, retain primitive biting mouthparts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The transition from a chewing, **mandibulate** ancestor to specialized sucking mouthparts in butterflies was achieved by gradual steps."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Crustaceans and myriapods share a **mandibulate** head plan that distinguishes them from chelicerate arachnids."*

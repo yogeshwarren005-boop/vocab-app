@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an expensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an expensive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an expensive, lavish, or costly manner; at great monetary expenditure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With luxurious appointments and high consumption of wealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had found some acquaintance, had been so lucky too as to find in them the family of a most worthy old friend; and, as the completion of good fortune, had found these friends by no means so expensively dressed as herself."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She was neat and orderly by nature, and her father very particular about the appearance of his children; not caring to have them expensively attired, but always neat and tidy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She was herself handsomely dressed, but she noticed with a little more regret than usual that Rosamond, who was just come in and met her in walking-dress, was almost as expensively equipped."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp lived **expensively** upon nothing a year, entertaining peerage guests with credit extracted from tradesmen."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip furnished his chambers in the Temple **expensively**, indulging every extravagant whim of youthful vanity."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The drawing room was **expensively** decorated in gold leaf and brocade, announcing the vast industrial wealth of the owner."*

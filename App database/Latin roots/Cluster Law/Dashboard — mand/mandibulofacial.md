@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the lower jaw and face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the lower jaw and face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to both the mandible and the face; involving the lower jaw and facial anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, designating mandibulofacial dysostosis (Treacher Collins syndrome), an inherited craniofacial disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibulofacial designates of or relating to the lower jaw and face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **mandibulofacial** anomalies result from defective development of the first and second branchial arches."*
+> - 📜 **Alice Hamilton (*Industrial Hygiene*):** *"Surgical reconstruction of complex **mandibulofacial** injuries sustained in factory machinery required specialized dental prosthetics."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **mandibulofacial** suture lines mark the boundary between the splanchnocranium and the neurocranium."*

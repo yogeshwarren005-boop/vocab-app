@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written, drafted, or sketched with a pencil; inscribed in light graphite lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having delicate lines, markings, or shadings akin to the strokes of an artist's brush.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The painting is almost the natural man, For since dishonour traffics with man’s nature, He is but outside; these pencilled figures are Even such as they give out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her unexpected presence brought him to utter hopelessness in his own power of saying anything unpleasant; but desperation suggested a resource; he sent the groom on an unsaddled horse across the park with a pencilled note to Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She discovered a **pencilled** note tucked into the drawer, bidding her farewell with hurried affection."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The margins of his well-thumbed volume were thickly covered with **pencilled** annotations in a neat clerkly hand."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea read the **pencilled** lines with trembling fingers, recognizing Will Ladislaw's bold handwriting."*

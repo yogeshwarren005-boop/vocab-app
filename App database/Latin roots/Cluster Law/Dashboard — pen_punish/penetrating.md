@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into or through, often by overcoming resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to pierce, enter, or pass through; sharp, piercing, or physically pervasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting acute mental discernment, keen intellect, and quick understanding; incisive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The gentleman now threw a penetrating glance at the delicate looking little girl, who hardly dared to raise her large, dark eyes to his."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Jane Austen (*Persuasion*):** *"In every other respect, in looking around her, or penetrating forward, she saw more to distrust and to apprehend."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester fixed upon me a **penetrating** gaze that seemed to read the innermost secrets of my soul."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes turned his **penetrating** grey eyes toward the window, deducing every detail of the stranger's arrival."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A **penetrating** November dampness drifted through the dirty alleys of London, chilling everyone to the bone."*

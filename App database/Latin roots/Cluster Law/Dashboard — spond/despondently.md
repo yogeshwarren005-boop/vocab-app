@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With desperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With desperation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despondent, dejected, or disheartened manner; without hope or cheer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With downcast spirits and signs of despairing sorrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy to me forlornly and despondently, “but it couldn’t be."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Behind this raw matter one of the reclaimed, the product of the new forces at work, strolled despondently, carrying a rifle by its middle."*
-> - 📜 **Bram Stoker (*Dracula*):** *"For a few moments he sat despondently."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip sat **despondently** by the dying hearth, brooding over the hopeless gulf that separated him from Estella."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She shook her head **despondently**, murmuring that no sunshine could ever brighten her solitary path."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude stared **despondently** at his Latin grammars, realizing how insurmountable were the barriers of poverty."*

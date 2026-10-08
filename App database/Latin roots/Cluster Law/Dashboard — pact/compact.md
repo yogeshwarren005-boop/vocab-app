@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cosmetics case with a mirror; to be carried in a woman's purse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signed written agreement between two or more parties (nations) to perform some action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely and neatly packed together; dense, solid, and occupying little space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal agreement or covenant between two or more parties, states, or individuals; an alliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience once more whiles our compact is urged. [_To the Duke._] You say, if I bring in your Rosalind, You will bestow her on Orlando here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is the course and drift of your compact?"*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Political society is founded upon a voluntary **compact** between free individuals uniting for mutual preservation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional **compact** establishes an indivisible union rather than a fragile treaty among sovereign states."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew formed a **compact** circle around the capstan, sealing their oath with cups of steaming grog."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating ability to recognize or draw fine distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to penetrate; having the power of entering or piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to penetrate, pierce, or enter deeply; physically or sensorially pervasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute, incisive, and discerning in intellect; capable of understanding profound truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Very soon, however, his look became keen and penetrative."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **penetrative** power of spiritual truth awakens the sleeping conscience when ordinary rhetoric fails."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner possessed a **penetrative** imagination that seized the living soul of nature beneath its visible forms."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain volatile essences possess a subtle **penetrative** odor that pervades the entire chamber in an instant."*

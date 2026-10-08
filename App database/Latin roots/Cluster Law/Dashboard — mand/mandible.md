@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is hinged to open the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is hinged to open the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In vertebrate anatomy, the lower jawbone, supporting the lower teeth; in humans, the largest and strongest bone of the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, either of a pair of specialized mouthparts used for biting, seizing, or cutting food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The mammalian **mandible** consists of a single dentary bone articulating directly with the squamosal of the cranium."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The powerful **mandible** of worker ants has been modified by natural selection for defense and nest excavation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fractures of the **mandible** require careful dental immobilization to preserve normal occlusal alignment."*

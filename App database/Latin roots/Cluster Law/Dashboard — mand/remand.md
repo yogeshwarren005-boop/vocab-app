@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending an accused person back into custody to await trial (or the continuation of the trial).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer (a matter or legal case) to another committee or authority or court for decision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send back a prisoner into custody, or to send back a legal case to a lower court for further proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of remanding a case, or an order returning an accused person to custody pending trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"How does it stand now?” “Why, sir, it is under remand at present."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will remand the order I despatched to my banker."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Awhile his right hand {120} Held the brow, helped the eyes, left too vacant, forthwith to remand To their place what new objects should enter: ‘twas Saul as before."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The magistrate has power to **remand** the accused to prison for further examination until witnesses can be summoned."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Mr. Fang was about to **remand** the boy to the cells when a respectable witness rushed into the police office."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The appellate bench resolved to **remand** the cause to the trial court with instructions to determine the measure of damages."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Third from last.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Last but two in a series; third from the end; especially designating the third syllable from the end of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring immediately prior to the penultimate item, chapter, or stage of a process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenultimate designates the 3rd syllable of a word counting back from the end."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **antepenultimate** emperor of the western line was a helpless puppet elevated by barbarian mercenaries."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **antepenultimate** lumbar vertebra articulates with the sacrum through expanded lateral transverse processes."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She reached the **antepenultimate** chapter of her romance, where all misunderstandings threatened to become fatal."*

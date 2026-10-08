@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For which money is paid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For which money is paid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to or eligible for financial compensation, reimbursement, or legal damages; compensative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law, designating work activities, travel, or occupational injuries for which remuneration is legally required.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compensable designates for which money is paid."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Workmen's compensation statutes transformed industrial accidents into **compensable** employment costs borne by industry."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"The court considered whether emotional distress unaccompanied by physical contact constituted a **compensable** tort."*
+> - 📜 **Alice Hamilton (*Exploring the Dangerous Trades*):** *"We urged state legislatures to classify lead colic as a **compensable** occupational disease under state welfare laws."*

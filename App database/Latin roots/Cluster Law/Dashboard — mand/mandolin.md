@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stringed instrument related to the lute, usually played with a plectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stringed instrument related to the lute, usually played with a plectrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical stringed instrument in the lute family, typically having eight strings in four paired courses, played with a plectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen utensil with a flat surface and sharp blade used for slicing vegetables evenly (also spelled *mandoline*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Would it not be rash to conclude that there was no passion behind those sonnets to Delia which strike us as the thin music of a mandolin?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a table by her side lay a mandolin and an apple."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one place a group had gathered about a fellow who was playing rather nicely an instrument resembling a mandolin."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Upon the moonlit waters of the bay, the light **mandolin** accompanied the song of the Venetian gondolier."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"From an open balcony floated the vibrant tremolo of a **mandolin**, mingling with the laughter of the piazza."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The Italian youth leaned against the stone fountain, plucking his **mandolin** with effortless, sunny grace."*

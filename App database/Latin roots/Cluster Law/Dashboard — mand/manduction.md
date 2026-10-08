@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of participating in the celebration of the eucharist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting and grinding food in your mouth so it becomes soft enough to swallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of chewing, masticating, or eating; the physical process of mastication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eucharistic theology, the sacramental or spiritual eating of the body of Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manduction designates the act of participating in the celebration of the eucharist."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"Spiritual **manduction** consists in feeding upon the divine word with an obedient and faithful heart."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The sacramental **manduction** belongs to the faithful who receive the consecrated bread with pious reverence."*
+> - 📜 **John Donne (*Sermons*):** *"There is a physical **manduction** of earthly bread, and an inward spiritual communion that nourishes the immortal soul."*

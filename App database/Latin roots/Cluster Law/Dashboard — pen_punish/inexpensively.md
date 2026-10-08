@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cheap manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little expenditure of money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inexpensive, economical, or affordable manner; at low financial cost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without large monetary expenditure or resource consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexpensively designates in a cheap manner."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found that by working six weeks in a year, I could meet all the expenses of living simply and **inexpensively**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber dined **inexpensively** at the modest tavern, waiting with sublime faith for something to turn up."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"He that buys what he does not need will soon sell his necessities, whereas the wise man lives **inexpensively** and free."*

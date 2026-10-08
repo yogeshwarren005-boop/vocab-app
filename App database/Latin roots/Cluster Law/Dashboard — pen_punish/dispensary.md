@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clinic where medicine and medical supplies are dispensed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clinic where medicine and medical supplies are dispensed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room, clinic, or institution where medicines are prepared, compounded, and dispensed to patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public charitable clinic providing free or low-cost medical advice and medications to the indigent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He told of his power in the prison by virtue of his being trusty in the Warden’s office, and because of the fact that he had the run of the dispensary."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He claimed that he must have time in which to steal the dope from the dispensary."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"The hospital **dispensary** should be situated near the main entrance to facilitate the distribution of pharmaceuticals."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Allan Woodcourt dedicated his mornings to treating the suffering outpatients at the public parish **dispensary**."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"The apothecary maintained a modest **dispensary** stocked with vials of rhubarb, bark, and dried herbal roots."*

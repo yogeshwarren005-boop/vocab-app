@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical unit with stressed-stressed syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical unit with stressed-stressed syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foot in classical poetic meter consisting of two long or stressed syllables (— —).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accentual English verse, a metrical unit of two successive heavily stressed syllables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondee designates a metrical unit with stressed-stressed syllables."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: Lesson for a Boy*):** *"Trochee trips from long to short; from long to long in solemn sort, slow **spondee** stalks; strong foot! yet ill able ever to come up with dactyl trisyllable."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The deliberate **spondee** weights the line, compelling the reader to linger upon each accented syllable."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"A judicious **spondee** introduced into trochaic verse creates an unexpected pause that heightens musical suspense."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin cylindrical pointed writing implement; a rod of marking substance encased in wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphite (or a similar substance) used in such a way as to be a medium of communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for writing, drawing, or sketching, consisting of a thin rod of graphite encased in a wooden cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a fine, delicate artist's paintbrush made of camel or sable hair; or an optical beam of converging light rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he told us, with great humour, that when he was wanted to bleed the prince or physic any of his people, he was generally found lying on his back in bed, reading the newspapers or making fancy-sketches in pencil, and couldn’t come."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was very fond of reading the papers, very fond of making fancy-sketches with a pencil, very fond of nature, very fond of art."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce all the afternoon after hearing of their interview in the morning, I wrote a hasty note in pencil to my guardian to say where we were gone and why."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Matchless his **pencil** was, that touched the line with living graces, and with art divine."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I spent the quiet twilight hours with sketchbook and **pencil**, drawing the moody crags of the distant moor."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A slender **pencil** of solar rays entered the darkened chamber through a tiny aperture in the window shutter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive compensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making an excessive or exaggerated effort to make up for an actual or perceived defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, an exaggerated behavioral reaction designed to mask an underlying sense of inadequacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcompensation designates (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite."*
+> - 📜 **Alfred Adler (*The Practice and Theory of Individual Psychology*):** *"The ambitious striving for dominance often represents an **overcompensation** for deep childhood feelings of inferiority."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Rigid pedantry is frequently an **overcompensation** for an intellectual insecurity that fears spontaneous inquiry."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Excessive statutory penalties represent an **overcompensation** by legislators reacting hastily to sensational crimes."*

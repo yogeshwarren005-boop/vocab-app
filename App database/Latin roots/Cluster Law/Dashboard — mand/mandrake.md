@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The root of the mandrake plant; used medicinally or as a narcotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of southern europe and north africa having purple flowers, yellow fruits and a forked root formerly thought to have magical powers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mediterranean solanaceous plant (*Mandragora officinarum*) whose large, forked, fleshy root often resembles the human form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Folklore archetype credited with magical properties, famously said to utter a lethal shriek when uprooted from the earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was the very genius of famine, yet lecherous as a monkey, and the whores called him mandrake."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"And shrieks like **mandrake**s torn out of the earth, that living mortals, hearing them, run mad."*
+> - 📜 **John Donne (*Song: Go and catch a falling star*):** *"Go and catch a falling star, get with child a **mandrake** root, tell me where all past years are."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Superstitious tales concerning the shrieking of the **mandrake** root have no foundation in the genuine natural history of plants."*

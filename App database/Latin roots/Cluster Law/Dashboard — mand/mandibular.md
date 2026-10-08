@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the lower jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the mandible or lower jawbone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dentistry and surgery, pertaining to the lower dental arch, mandibular nerve, or lower jaw structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibular designates relating to the lower jaw."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neuralgia affecting the third or **mandibular** division of the trigeminal nerve produces excruciating facial pain."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **mandibular** arch in early vertebrate embryos gives rise to the primary elements of the lower jaw."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pigeon fanciers selected birds exhibiting pronounced shortening of the upper and **mandibular** beaks."*

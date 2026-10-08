@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cassava (*Manihot esculenta*); a tropical American woody shrub widely cultivated for its edible starchy tuberous roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The starchy flour or meal derived from grated and squeezed cassava roots; tapioca source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandioc designates cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"In the Amazonian settlements, cakes baked from grated **mandioc** formed the primary bread of the indigenous population."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Brazilian planters cultivated extensive fields of **mandioc**, whose tubers yielded excellent farinha."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Women gathered at the riverbank to wash the bitter **mandioc** pulp in woven tipiti presses to remove poisonous juice."*

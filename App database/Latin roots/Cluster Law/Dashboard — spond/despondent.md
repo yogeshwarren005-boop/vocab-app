@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or almost without hope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or almost without hope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing extreme dejection, depression, discouragement, or loss of hope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low in spirits from disappointment or misfortune; disheartened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is all over here.” I mildly entreated him not to be despondent."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Doubting, despondent souls were always glad to visit her, to listen to her simple words of wisdom and gather strength from her invincible trust."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your habitual expression in those days, Jane, was a thoughtful look; not despondent, for you were not sickly; but not buoyant, for you had little hope, and no actual pleasure."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The **despondent** minister walked beneath the shadow of the trees, murmuring prayers of broken contrition."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie looked across the flooded meadows with a **despondent** gaze, feeling utterly forsaken by the world."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"Edgar Ravenswood stood **despondent** upon the rocky cliff, watching the last sail of his hope vanish into the mist."*

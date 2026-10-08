@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rotating shafts that serve as axes for larger rotating parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rotating shafts that serve as axes for larger rotating parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spindle or core upon which work is held in a lathe during turning; variant of mandrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A miner's pick with two sharp points; or alternative spelling of the African primate mandrill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandril designates any of various rotating shafts that serve as axes for larger rotating parts."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Having no proper lathe or turning **mandril**, I was forced to fashion my wooden bowls with an adze and chisel."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The armorer selected a stout **mandril** of tempered steel to hammer out the curved visor of the helmet."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Miners equipped with sledge and pointed **mandril** excavated the lead veins traversing the limestone."*

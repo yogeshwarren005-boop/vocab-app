@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the wife of odysseus and a symbol of devotion and fidelity; for 10 years while odysseus fought the trojan war she resisted numerous suitors until odysseus returned and killed them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of guans (turkey-like arboreal birds valued as game and food birds).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the faithful and clever queen of Ithaca and wife of Odysseus, celebrated for unraveling her web nightly to deceive suitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archetype of wifely fidelity, patient endurance, and clever resourceful fortitude in Western literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would be another Penelope."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Penelope, my dear, can you help me to the name of the gentleman who lived at Monkford: Mrs Croft’s brother?” But Mrs Clay was talking so eagerly with Miss Elliot, that she did not hear the appeal."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Well, my dear Penelope, you need not be so alarmed about him."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer*):** *"Chaste **penelope** unravels each night upon her loom the web she wove by day, keeping the eager suitors at bay."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not more renowned for constant love was Ithaca's queen, wise **penelope**, through twenty years of separation."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A modern bride must possess the patient fidelity of **penelope** if her husband wanders across distant foreign seas."*

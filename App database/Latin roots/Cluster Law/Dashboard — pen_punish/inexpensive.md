@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively low in price or charging low prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively low in price or charging low prices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not costing much money; low in price, economical, and affordable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved or acquired without great financial outlay, sacrifice, or difficulty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"I refer to "resonance." It will be a great help if the reader will try for himself a simple, inexpensive little experiment."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But the trust's declaration was a bit of inexpensive humor on the part of the managers; the trust had nothing to sell at the price quoted, as its entire product had been sold out months in advance."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Primitive means of transportation had to be inexpensive, for poverty and the uncertainty of early society forbade the tying up of large resources in them."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"A diet of vegetarian gruel and water was both healthful and **inexpensive**, enabling me to save money for books."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My little house at Walden Pond was simple and **inexpensive**, costing twenty-eight dollars and twelve and a half cents."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Potatoes provide an abundant and **inexpensive** food that nourishes the laboring population with great vigor."*

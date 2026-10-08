@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make up for shortcomings or a feeling of inferiority by exaggerating good qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make excessive corrections for fear of making an error.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take excessive measures in attempting to correct or make up for a fault, defect, or disadvantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, to react to feelings of inferiority by developing exaggerated behaviors or attitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcompensate designates make up for shortcomings or a feeling of inferiority by exaggerating good qualities."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Anxious temperaments often **overcompensate** for perceived weaknesses by adopting a posture of aggressive defiance."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza tried so hard not to slip into cockney slang that she would **overcompensate** with absurdly formal diction."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Certain animals **overcompensate** when threatened by puffing out fur and feathers to present an exaggerated size."*

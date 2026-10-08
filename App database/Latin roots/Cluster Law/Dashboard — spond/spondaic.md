@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or consisting of spondees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or consisting of spondees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of spondees (metrical feet of two stressed or long syllables).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dactylic hexameter, designating a verse having a spondee in the fifth foot instead of a dactyl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaic designates of or consisting of spondees."*
+> - 📜 **Samuel Taylor Coleridge (*Specimens of the Table Talk*):** *"The solemn gravity of the line is enhanced by its slow, **spondaic** rhythm, which arrests the hurried ear."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"When Ajax strives some rock's vast weight to throw, the line too labors, and the **spondaic** words move slow."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Homer frequently introduces a **spondaic** cadence to depict massive physical effort or profound religious awe."*

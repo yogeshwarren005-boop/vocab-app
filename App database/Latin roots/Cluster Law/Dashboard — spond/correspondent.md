@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates by means of letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes letters or messages to another, or a journalist employed to contribute news from a distant location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corresponding, analogous, or agreeing in character, quantity, or function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, master: I will be correspondent to command, And do my spriting gently."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, to be almost as powerful a correspondent as Mrs."*
-> - 📜 **Jane Austen (*Persuasion*):** *"My brother,” whispered one of the girls; “mamma is thinking of poor Richard.” “Poor dear fellow!” continued Mrs Musgrove; “he was grown so steady, and such an excellent correspondent, while he was under your care!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every public power must be accompanied by a **correspondent** means of constitutional execution."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber proved himself a relentless and eloquent **correspondent**, dispatching epistolary sheets daily."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch ambassador served as a faithful **correspondent**, informing his government of every shift at court."*

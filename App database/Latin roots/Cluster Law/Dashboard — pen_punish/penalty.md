@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of punishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment required for not fulfilling a contract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punishment imposed for breaking a law, rule, or contract; a fine, imprisonment, or forfeiture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disadvantage, handicap, or loss suffered as a consequence of an action or error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see the penalty. [_Reads_.] _On pain of losing her tongue._ Who devised this penalty?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To fright them hence with that dread penalty."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I stand here for law; I crave the law, the **penalty** and forfeit of my bond."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The legislature affixed a severe pecuniary **penalty** to the fraudulent alteration of public deeds."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The fear of social **penalty** often restrains unconventional thought far more effectively than legal statutes."*

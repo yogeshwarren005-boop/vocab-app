@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who responds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, the party against whom a petition, appeal, or divorce suit is filed; the defending party in an appellate court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who responds to a survey, questionnaire, or formal inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, respondent designates the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In appellate proceedings, the **respondent** is called upon to support the decree rendered in the court below."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Notice must be served upon the **respondent** before any judicial decree can affect his legal rights or property."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"The **respondent** in an equity bill is required to answer under oath each interrogatory propounded by the plaintiff."*

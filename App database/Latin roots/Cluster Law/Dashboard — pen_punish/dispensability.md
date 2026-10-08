@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that you can get along without.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that you can get along without.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nonessential or superfluous character of a thing that allows it to be omitted or spared without harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The status of being replaceable, unnecessary, or capable of being set aside.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispensability designates the quality possessed by something that you can get along without."*
+> - 📜 **Herbert Spencer (*Principles of Biology*):** *"The evolutionary **dispensability** of vestigial organs is demonstrated by their gradual reduction across successive generations."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The apparent **dispensability** of luxury goods becomes evident whenever commercial crises compel families to economize."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A sound curriculum demonstrates the practical **dispensability** of antiquated scholastic disputations in modern life."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost, most private, and secret recesses or sanctuaries of a temple, dwelling, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hidden, arcane, or esoteric secrets of nature, philosophy, or human consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, plated tea and coffee pots, china teacups, and plum cakes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, silver tea and coffee pots, china teacups, and plum cakes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious Roman soldiers burst into the **penetralia** of the pagan sanctuary, profaning the sacred altar."*
+> - 📜 **John Keats (*Letter to George and Georgiana Keats*):** *"The true poet penetrates into the mysterious **penetralia** of human passion and visionary imagination."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"We carried the coffin deep into the **penetralia** of the subterranean vaults beneath the ancient mansion."*

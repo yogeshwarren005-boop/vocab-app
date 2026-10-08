@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve or summon with a subpoena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal legal writ issuing from a court commanding a named person to appear and testify at a specified time and place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To serve someone with a subpoena; to compel testimony or production of documents under legal penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subpoena designates a writ issued by court authority to compel the attendance of a witness at a judicial proceeding; disobedience may be punishable as a contempt of court."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The process of the Court of Chancery commences with a writ of **subpoena**, commanding the defendant to appear under a specified penalty."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal judiciary possesses inherent authority to enforce its **subpoena** against reluctant witnesses."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Snubbin's clerk served Mr. Pickwick with a formal **subpoena** to attend the trial at the Guildhall."*

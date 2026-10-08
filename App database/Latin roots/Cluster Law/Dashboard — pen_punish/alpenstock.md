@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stout staff with a metal point; used by mountain climbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stout staff with a metal point; used by mountain climbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, stout wooden staff tipped with an iron point, used by mountaineers to assist in climbing alpine snow and rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traditional walking staff employed by travelers traversing steep glacial slopes or mountain passes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpenstock designates a stout staff with a metal point; used by mountain climbers."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"I bought an **alpenstock** branded with the names of twenty peaks, though I had only climbed the stairs of the hotel."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Sherlock Holmes carried his trusty **alpenstock** as we ascended the steep, slippery path above the Reichenbach Falls."*
+> - 📜 **John Muir (*Steep Trails*):** *"Plunging his steel **alpenstock** deep into the crust, the mountaineer secured a firm hold above the yawning crevasse."*

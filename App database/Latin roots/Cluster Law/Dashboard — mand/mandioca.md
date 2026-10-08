@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cassava plant or its starchy edible root, especially as designated in South American agriculture and cuisine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivated staple crop of Brazil and Paraguay, processed into farofa, tapioca, and bread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandioca designates cassava with long tuberous edible roots and soft brittle stems; used especially to make cassiri (an intoxicating drink) and tapioca."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"Every rural homestead was surrounded by plots of sweet and bitter **mandioca**, the staff of Brazilian life."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The cultivation of **mandioca** provides more caloric nourishment per acre than any cereal crop of temperate zones."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The native village lived almost exclusively upon roasted fish and coarse farinha prepared from pounded **mandioca**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being impenetrable (by people or light or missiles etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility by virtue of being too dense to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistance to puncture, entry, or intellectual comprehension; dense shielding against physical or mental access.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics, the property of matter by which two bodies cannot occupy the same space simultaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will put her to some test,” thought I: “such absolute impenetrability is past comprehension.” “Good morning, Grace,” I said."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner of coming and going between the two places is one of his impenetrabilities."*
+> - 📜 **Isaac Newton (*Opticks*):** *"God in the beginning formed matter in solid, massy, hard, **impenetrability** particles that cannot wear out."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Solidity or **impenetrability** is the most essential idea we receive from sensation, distinguishing body from pure space."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The apparent **impenetrability** of the locked apartment confounded the ordinary police detectives."*

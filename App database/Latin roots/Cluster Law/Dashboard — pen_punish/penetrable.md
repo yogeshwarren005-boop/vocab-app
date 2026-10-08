@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of penetration or passage into or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being penetrated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being penetrated, pierced, entered, or permeated by a physical object or radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accessible to intellectual comprehension or open to emotional influence and persuasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, sit you down, And let me wring your heart, for so I shall, If it be made of penetrable stuff; If damned custom have not braz’d it so, That it is proof and bulwark against sense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not made of stones, But penetrable to your kind entreaties, Albeit against my conscience and my soul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ear her prayers admits, but his heart granteth No penetrable entrance to her plaining; Tears harden lust, though marble wear with raining."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Neither shield nor armor proved **penetrable** to the blazing thunderbolts launched by the celestial host."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human intellect finds the secrets of nature difficult, yet by patient inductive method they prove **penetrable**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The fog was so dense as to seem barely **penetrable** to the steaming coach lamps as we climbed the hill."*

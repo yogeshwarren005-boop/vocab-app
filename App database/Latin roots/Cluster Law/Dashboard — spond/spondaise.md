@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make spondaic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make spondaic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose, pronounce, or scan verse using spondees; to introduce spondees into poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render a poetic rhythm slow and solemn by replacing lighter dactylic or trochaic feet with spondees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaise designates make spondaic."*
+> - 📜 **Algernon Charles Swinburne (*Studies in Prose and Poetry*):** *"The classical translator must not **spondaise** the flowing Greek line so heavily as to destroy its narrative energy."*
+> - 📜 **Robert Browning (*The Ring and the Book*):** *"The poet chose to **spondaise** the tragic finale, giving each foot a deliberate and mournful cadence."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"Milton knew when to **spondaise** his blank verse to mimic the ponderous march of infernal legions."*

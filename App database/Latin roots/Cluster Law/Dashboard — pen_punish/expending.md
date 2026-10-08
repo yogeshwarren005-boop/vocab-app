@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending money for goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up, consume fully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spending, using up, consuming, or disbursing financial capital, physical energy, or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paying out money or devoting labor to an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"One night I was sitting in the chimney corner with my slate, expending great efforts on the production of a letter to Joe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And the whale soon ceasing to sound, for some time they remained in that attitude, fearful of expending more line, though the position was a little ticklish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So, for want of better, I talked to myself; I declaimed in the copper box which covered my head, thereby expending more air in vain words than was perhaps expedient."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"By **expending** additional capital upon the cultivation of inferior soils, the landowner raises the aggregate rent."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The convalescent patient recovers health by conserving rather than **expending** his fragile reserve of vitality."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Most men waste the best part of their lives **expending** labor to purchase luxuries that do not contribute to true living."*

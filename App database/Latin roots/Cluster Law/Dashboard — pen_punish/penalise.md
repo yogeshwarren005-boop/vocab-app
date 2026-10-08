@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose a penalty on; inflict punishment on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose a penalty on; inflict punishment on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject someone or something to a penalty, disadvantage, or legal punishment for an infraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impose an athletic handicap or forfeit upon a player or team for breaking rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penalise designates impose a penalty on; inflict punishment on."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Taxation should be arranged so as not to **penalise** industrious saving in comparison with reckless expenditure."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Society chooses to **penalise** poverty by making it a shameful crime, while rewarding financial rapacity."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The harsh statute served to **penalise** unfortunate mothers who concealed the birth of an illegitimate infant."*

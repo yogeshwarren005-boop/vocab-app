@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong liking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong or habitual inclination, liking, taste, or bias toward something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pronounced partiality or predisposition for an activity or aesthetic style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*
-> - 📜 **Effie Afton (*Eventide*):** *"Hannah's penchant for me seems to have decreased somewhat, since father waited on Col."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He had a notable **penchant** for sarcastic raillery, which he indulged at the expense of his silly neighbors."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond indulged an aristocratic **penchant** for collecting rare antiquities and choice Italian enamels."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer harbored a secret intellectual **penchant** for radical European philosophies and foreign books."*

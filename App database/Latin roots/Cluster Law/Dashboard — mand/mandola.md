@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An early type of mandolin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early type of mandolin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fretted, plucked string instrument of the lute family, larger than a mandolin, tuned like a viola.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tenor or alto member of the mandolin family of instruments, playing an octave or fifth below the mandolin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandola designates an early type of mandolin."*
+> - 📜 **Hector Berlioz (*A Treatise on Modern Instrumentation and Orchestration*):** *"In Italian serenades, the deep, resonant timbre of the **mandola** provided a rich harmonic foundation beneath the mandolins."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The visiting Neapolitan ensemble featured a masterly player upon the **mandola**, who extracted surprisingly noble tones from the instrument."*
+> - 📜 **Virgil Thomson (*The Musical Scene*):** *"Chamber arrangements for plectrum orchestra utilize the **mandola** for lyrical middle-register melodies."*

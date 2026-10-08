@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being affordable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being affordable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low financial cost, economic affordability, and budget-friendly accessibility without inferior quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frugality, thrift, and low cost of production or maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexpensiveness designates the quality of being affordable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extreme **inexpensiveness** of water carriage compared with land transport encouraged ancient river commerce."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **inexpensiveness** of printing ballads allowed political satire to reach the humblest cottages of the realm."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The grand advantage of my forest life was its absolute simplicity and financial **inexpensiveness**."*

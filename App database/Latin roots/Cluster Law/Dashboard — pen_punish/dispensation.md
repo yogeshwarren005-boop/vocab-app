@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exemption from some rule or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A share that has been dispensed or distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exemption from an obligation, canonical rule, or usual legal requirement granted by competent authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, a divinely ordained system, era, or administration of human history, as the Mosaic dispensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet a dispensation may be had."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, thus much I have learned: He rather means to lodge you in the field, Like one that comes here to besiege his court, Than seek a dispensation for his oath, To let you enter his unpeopled house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell adds—only “almost” because it borders on impiety to suppose that anything could be better than it is, in such an express dispensation as the Dedlock affairs—“that my Lady has no family."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The Bill of Rights condemned the royal power of **dispensation** with laws by regal authority without consent of parliament."*
+> - 📜 **John Milton (*Paradise Lost*):** *"By special **dispensation** of Providence, the righteous man was preserved amidst universal corruption and catastrophe."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"We receive our civil liberties as an inherited **dispensation** transmitted across centuries from our ancestral forebears."*

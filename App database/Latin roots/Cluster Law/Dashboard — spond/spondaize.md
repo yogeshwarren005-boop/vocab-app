@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make spondaic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make spondaic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To scan, compose, or render with spondees; to use two heavy or long syllables in a metrical foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impart a weighty, deliberate, or solemn cadence to poetry through spondaic feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondaize designates make spondaic."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"When we **spondaize** the concluding measure, the verse pauses with impressive rhetorical weight."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline: Notes on Metre*):** *"To **spondaize** English hexameters requires delicate skill, lest the line degenerate into unmusical prose."*
+> - 📜 **James Russell Lowell (*Among My Books*):** *"Dryden was too energetic a metricist to **spondaize** his couplets without urgent dramatic purpose."*

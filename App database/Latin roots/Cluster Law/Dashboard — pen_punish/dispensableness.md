@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that you can get along without.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that you can get along without.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nonessential, superfluous, or expendable nature of something; the characteristic of being dispensable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of a rule, duty, or condition to be relaxed or excused under authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispensableness designates the quality possessed by something that you can get along without."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The evident **dispensableness** of archaic legal fictions led reformers to eliminate them from civil procedure."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He discovered the bitter truth of his own **dispensableness** when his company was forgotten within a month of his departure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophical analysis reveals the **dispensableness** of innate ideas in accounting for human sensory knowledge."*

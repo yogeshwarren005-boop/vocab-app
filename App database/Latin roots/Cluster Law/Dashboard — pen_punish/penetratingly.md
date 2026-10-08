@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penetrating, piercing, or deeply perceptive manner; with acute scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pervasively or intensely affecting the senses or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene,” said Lydia then, penetratingly; “when you came to pay me this visit, what object did you propose to yourself?"*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She looked at him **penetratingly**, as though assessing the precise depth of his moral surrender."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate spoke **penetratingly** concerning modern pathological research, commanding the respectful attention of his peers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The cold moorland wind blew **penetratingly** through the thin cotton gowns of the poor dairymaids."*

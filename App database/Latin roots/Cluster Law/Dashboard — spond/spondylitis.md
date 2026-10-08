@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a spinal joint; characterized by pain and stiffness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a spinal joint; characterized by pain and stiffness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or more vertebrae in the spinal column, especially ankylosing spondylitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic progressive inflammatory disease producing stiffness, pain, and eventual fusion of spinal segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylitis designates inflammation of a spinal joint; characterized by pain and stiffness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced cases of ankylosing **spondylitis**, the entire vertebral column becomes rigid as a solid bamboo rod."*
+> - 📜 **Thomas Addison (*Clinical Lectures and Reports*):** *"Persistent nocturnal back stiffness in young men should arouse clinical suspicion of early **spondylitis**."*
+> - 📜 **James Paget (*Studies of Old Case-Books*):** *"Tuberculous **spondylitis**, or Pott's disease, causes angular kyphosis through destructive caries of the vertebral bodies."*

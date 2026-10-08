@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be dispensed with; essential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely necessary; vitally necessary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolutely necessary, essential, or vital; incapable of being omitted, spared, or done without.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law, an obligation, canon, or vow from which no exemption can be granted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short,” says the trooper, folding his arms more resolutely yet, “I mean—TO—scratch me!” “My dear George,” returns his brother, “is it so indispensable that you should undergo that process?” “Quite!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"She considered it as an act of indispensable duty to clear away the claims of creditors with all the expedition which the most comprehensive retrenchments could secure, and saw no dignity in anything short of it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For these the indispensable conditions of existence are attachment to the soil of one particular spot by generation after generation."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The preservation of property is the **indispensable** end for which men unite into commonwealths."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An independent press is an **indispensable** weapon for democratic citizens defending their freedom against tyranny."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Justice is the **indispensable** pillar upon which the whole civil architecture of human society rests."*

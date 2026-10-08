@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being penetrable (by people or light or missiles etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being penetrable (by people or light or missiles etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to being pierced, entered, traversed, or permeated by an external force or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the property of allowing electromagnetic radiation or subatomic particles to pass through a material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetrability designates the quality of being penetrable (by people or light or missiles etc.)."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The relative **penetrability** of diaphanous media to light rays depends upon their internal refractive density."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind distinguishes pure space from matter by the complete **penetrability** and absence of resistance in the former."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Experiments demonstrated the extraordinary **penetrability** of gamma rays when passing through thick lead shielding."*

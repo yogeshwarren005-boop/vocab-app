@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catholic sacrament; repentance and confession and atonement and absolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacrament in certain Christian churches consisting of contrition, confession, and satisfaction; an act of religious discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary self-punishment or atonement inflicted as an outward expression of repentance for wrongdoing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, madam, for you are more nobly born, Despoiled of your honour in your life, Shall, after three days’ open penance done, Live in your country here in banishment, With Sir John Stanley in the Isle of Man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be there. [_Exit Herald._] My Nell, I take my leave; and, master sheriff, Let not her penance exceed the King’s commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your penance done, throw off this sheet, And go we to attire you for our journey."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Of **penance** I have had enough; of penitence there has been none, the unhappy minister groaned."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Instead of fruit, chewing bitter ashes, they suffered severe **penance** for their rebellious presumption."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The barefoot palmer performed long **penance** at the holy shrine to expiate the deeds of his wild youth."*

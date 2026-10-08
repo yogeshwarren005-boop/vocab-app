@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of punishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of punishing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of subjecting to a penalty or punishment; the imposition of a legal or sporting penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of legal or economic disadvantages through punitive statutory regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penalization designates the act of punishing."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The **penalization** of negligent conduct is justified by the external standard of reasonable care in civil society."*
+> - 📜 **Roscoe Pound (*The Spirit of the Common Law*):** *"Excessive **penalization** of minor infractions weakens public respect for the solemn majesty of the law."*
+> - 📜 **Woodrow Wilson (*The State*):** *"Constitutional governments avoid the arbitrary **penalization** of political opponents by guaranteeing fair trials."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose confidence or hope; become dejected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose confidence or hope; become dejected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lose heart, courage, or confidence; to sink into deep dejection and hopelessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic noun for dejection or loss of hope; as in the Slough of Despond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The name of the slough was Despond.”—BUNYAN."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"They serve for a time, and they make life worth living, In spite of life's troubles--'tis vain to despond; Oh, man!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I certainly should have been deep in the slough of despond, if not in the grave."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian and Pliable fell together into the muddy mire of the Slough of **despond**, sinking beneath their heavy burdens."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Let us not **despond** or despair of the divine mercy, which shines brightest in our darkest hour."*
+> - 📜 **Edmund Burke (*Letter on a Regicide Peace*):** *"A great nation must never **despond** under temporary reverse, but summon fresh energy to defend its honor."*

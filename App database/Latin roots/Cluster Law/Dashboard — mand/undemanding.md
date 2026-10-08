@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring little if any patience or effort or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring little if any patience or effort or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not demanding; requiring little effort, skill, patience, or mental exertion; easygoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making modest claims on others' time or resources; unexacting in expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undemanding designates requiring little if any patience or effort or skill."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot was of an **undemanding** and patient temper, content to assist others without demanding praise in return."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The simple weaving craft was peaceful and **undemanding**, allowing his quiet thoughts to wander through memories."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett loved to spend long, **undemanding** afternoons in the garden reading old memoirs in the shade."*

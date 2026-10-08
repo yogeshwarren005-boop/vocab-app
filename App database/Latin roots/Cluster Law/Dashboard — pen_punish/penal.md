@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or designed to impose punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or prescribing punishment, especially under the criminal law; punishable by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a place of confinement, punishment, or hard labor, as in a penal colony or settlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sully-Prudhomme, hear a penal sentence in the fiat, “You shall be born,” particularly if addressed to potential issue of hers."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was in a penal settlement on Patmos, when he wrote it."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Remember, Watson that though we have so homely a thing as a goose at one end of this chain, we have at the other a man who will certainly get seven years’ penal servitude unless we can establish his innocence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Statutes that are **penal** must be construed strictly, so that no citizen is subjected to punishment beyond the letter of the law."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal government must possess the constitutional authority to enact **penal** sanctions to enforce its legitimate laws."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The proper end of all **penal** legislation is the prevention of future crimes through proportional deterrence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of refusing to repent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of refusing to repent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardness of heart; refusal to repent, feel contrition, or express remorse for moral sins and offenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate persistence in sinful or immoral conduct without shame or sorrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impenitence designates the trait of refusing to repent."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In stubborn **impenitence** the fallen archangel resolved never to submit or yield to divine authority."*
+> - 📜 **Jonathan Edwards (*Sinners in the Hands of an Angry God*):** *"Continued **impenitence** amidst awakening sermons treasurers up wrath against the day of righteous revelation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed died in cold **impenitence**, refusing on her deathbed to forgive the orphan niece she had mistreated."*

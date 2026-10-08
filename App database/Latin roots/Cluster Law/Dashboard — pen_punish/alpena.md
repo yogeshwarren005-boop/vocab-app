@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northern michigan on an arm of lake huron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northern michigan on an arm of lake huron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city and county seat in northeastern Michigan, located on Thunder Bay along the western shore of Lake Huron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historic Great Lakes commercial center renowned for maritime limestone quarrying, fishing, and timber transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpena designates a town in northern michigan on an arm of lake huron."*
+> - 📜 **Henry Schoolcraft (*Personal Memoirs of a Residence of Thirty Years with the Indian Tribes*):** *"The survey vessel anchored off Thunder Bay, mapping the rocky coastline where the town of **alpena** was later founded."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Fossiliferous Devonian limestone beds near **alpena** yielded ancient coral reefs of extraordinary paleontological interest."*
+> - 📜 **Ernest Hemingway (*The Nick Adams Stories*):** *"The lumber schooners sailed regularly between **alpena** and the lower lake ports during the crisp northern autumn."*

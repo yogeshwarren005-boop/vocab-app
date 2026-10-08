@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of crushing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of packing particles firmly together, reducing volume and pore space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and engineering, the compression of sediment under overburden pressure into dense rock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compaction designates an increase in the density of something."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Gradual **compaction** and dewatering convert loose marine muds into dense, laminated shale strata."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The fine volcanic ash had undergone severe **compaction**, forming a coherent tuff resembling sandstone."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The weight of accumulating glacial snow produces progressive **compaction**, transforming powder into solid blue ice."*

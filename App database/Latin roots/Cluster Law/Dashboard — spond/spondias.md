@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees having one-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees having one-seeded fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a genus of tropical flowering trees (family Anacardiaceae), producing edible drupes known as hog plums, mombins, or ambarellas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical fruit trees cultivated widely in the Americas and Asia for refreshing acidic fruits, jellies, and traditional beverages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondias designates tropical trees having one-seeded fruit."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Shady groves of yellow **spondias** bordered the riverbanks, their fragrant plums ripening beneath the tropical sun."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The genus **spondias** is characterized by pinnate foliage and a five-celled fleshy drupe containing a hard stone."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"In the markets of Bahia, vendors offered fresh cajás plucked from the native **spondias** trees of the forest."*

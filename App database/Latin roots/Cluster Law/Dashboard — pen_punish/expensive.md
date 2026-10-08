@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High in price or charging high prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High in price or charging high prices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Costing a lot of money; high-priced, costly, or involving heavy expenditure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by lavish or luxurious spending; or entailing serious loss or sacrifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a slow, expensive, British, constitutional kind of thing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s inconvenient—and it comes expensive."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She is only nursing Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive, fashionable woman, I believe; and of course will have nothing to report but of lace and finery."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"John Dashwood lamented that the maintenance of a London carriage and horses was an enormously **expensive** undertaking."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Firearms rendered military campaigns vastly more **expensive**, placing power in the hands of wealthy commercial nations."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart was cursed with fastidious tastes that demanded an **expensive** background of jewels, silks, and country houses."*

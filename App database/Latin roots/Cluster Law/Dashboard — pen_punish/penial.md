@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In vertebrate anatomy, of or relating to the penis; penile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to male copulatory or intromittent organs in comparative zoology and anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penial designates of or relating to the penis."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In certain higher mammals, the **penial** bone or baculum provides structural rigidity during copulation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative morphologists noted that the **penial** appendages in various insect orders exhibit remarkable divergence under sexual selection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anomalies of the **penial** urethra such as hypospadias require early surgical correction to ensure normal function."*

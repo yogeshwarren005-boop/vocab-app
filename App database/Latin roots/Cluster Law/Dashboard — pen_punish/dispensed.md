@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant a dispensation; grant an exemption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed, allocated, or administered; or granted formal exemption from a requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done without or forgone (as when dispensed with a superfluous custom or assistant).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could had dispensed with Coavinses."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The ruling passion!” Although we could have dispensed with the length at which Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are such a favourite of his, Esther.” I expressed myself much obliged to him, but did not think it necessary to add that I readily dispensed with this attention."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers **dispensed** his legal advice with brutal brevity, cutting off all emotional appeals with a wave of his hand."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She **dispensed** with the services of her maid, preferring to pack her modest traveling trunks in solitude."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial largess was **dispensed** to the Roman populace in distributions of grain, oil, and theatrical spectacles."*

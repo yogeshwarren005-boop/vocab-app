@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mand within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mand in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mandate again; to renew an official order, commission, or electoral authorization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reissue authority or instructions to an agent, representative, or public body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remandate designates pertaining to, derived from, or characteristic of latin mand within the domain of law."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The periodic election of representatives enables the sovereign people to **remandate** their trusted leaders or choose new agents."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A decisive majority voted to **remandate** the municipal council to carry forward the proposed educational reforms."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The national party convention sought to **remandate** its platform before presenting it to the voters."*

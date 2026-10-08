@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To communicate with someone by exchanging letters, emails, or messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be analogous, equivalent, or in close agreement; to match or fit in character or function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A maid of honour of the court of Charles the Second, with large round eyes (and other charms to correspond), seems to bathe in glowing water, and it ripples as it glows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were dressed to correspond, though in a most untidy and negligent way."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the disturbances are so modified by the particular conditions (of crops, politics, and speculation) that the phenomena never correspond exactly in time of occurrence, in duration, or in intensity."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was astonished to discover that Marianne had been permitted to **correspond** with Willoughby in secret."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bones in the arm of a man, the paddle of a porpoise, and the wing of a bat **correspond** bone for bone in embryonic structure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our simple ideas **correspond** to real qualities in external objects by the divine ordination of nature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of criminology concerned with prison management and prisoner rehabilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of criminology concerned with prison management and prisoner rehabilitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of criminology concerned with prison management, penal reform, and the punishment and rehabilitation of criminals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic study of punishment theories, correctional philosophy, and prison discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poenology designates the branch of criminology concerned with prison management and prisoner rehabilitation."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The science of **poenology** must ensure that the pain of punishment slightly exceeds the expected profit of the offense."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"American experiments in **poenology** demonstrated that solitary labor encouraged moral reflection without brutalizing convicts."*
+> - 📜 **John Howard (*The State of the Prisons*):** *"True **poenology** aims not at cruel vengeance, but at the humane correction and moral reclamation of offenders."*

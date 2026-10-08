@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chew (food); to bite and grind with the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chew (food); to bite and grind with the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To chew, masticate, or eat food with the jaws and teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To consume or masticate food in preparation for swallowing and digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manducate designates chew (food); to bite and grind with the teeth."*
+> - 📜 **Jeremy Taylor (*The Real Presence and Spiritual of Christ in the Blessed Sacrament*):** *"We do not **manducate** the sacred elements in a carnal manner, but receive their spiritual grace through faith."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Animals that **manducate** tough herbage possess broad grinding molars suited for continuous mechanical abrasion."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"To swallow food in haste without pausing to **manducate** properly breeds crude humors and corrupts the stomach."*

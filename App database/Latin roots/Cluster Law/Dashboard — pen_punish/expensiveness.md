@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being high-priced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being high-priced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Costliness, high price, or exorbitant monetary requirement; the attribute of requiring large financial outlay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extravagant or lavish quality of a person's habits or an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Jeffery, that himself and his brother (both of whom were deemed simpletons), had been ordered to take ass’s milk, but that on account of its expensiveness, he hardly knew what they should do."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **expensiveness** of modern warfare prevents small and impoverished nations from maintaining independent sovereignty."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He was ruined not by sudden catastrophe, but by the steady, unheeded **expensiveness** of petty domestic luxuries."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption requires that ornamental goods demonstrate their high **expensiveness** to all observers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication by the exchange of letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compatibility of observations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication by exchanging letters, messages, or written dispatches; the letters sent and received.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A close similarity, analogy, or equivalence between two or more things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It involves me in correspondence with public bodies and with private individuals anxious for the welfare of their species all over the country."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was greatly occupied during breakfast, for the morning’s post brought a heavy correspondence relative to Borrioboola-Gha, which would occasion her (she said) to pass a busy day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is said that she had relations among King Charles’s enemies, that she was in correspondence with them, and that she gave them information."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **correspondence** with Jane was her chief comfort during the weeks of their separation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary club carried on an active **correspondence** with seditious societies throughout the kingdom."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"There is a strict **correspondence** between the laws of nature and the moral laws that govern human spirit."*

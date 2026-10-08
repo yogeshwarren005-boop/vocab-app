@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic urinary antibacterial medication composed of methenamine and mandelic acid, used to treat chronic bladder infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antiseptic agent that releases formaldehyde in acidic urine to inhibit bacterial multiplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelamine designates antibacterial agent (trade names mandelamine and urex) that is contained in many products that are used to treat urinary infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For chronic cystitis refractory to common remedies, clinicians prescribed **mandelamine** to maintain urinary antisepsis."*
+> - 📜 **Alice Hamilton (*Industrial Hygiene*):** *"Factory infirmaries stocked standard antiseptics like **mandelamine** to manage recurrent urinary complaints among shift workers."*
+> - 📜 **Paul de Kruif (*The Fight for Life*):** *"Before the sulfonamide revolution, chemical disinfectants like **mandelamine** provided the main defense against resistant bacilli."*

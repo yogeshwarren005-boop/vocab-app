@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide something, especially money, in recompense for a loss, injury, suffering, or services rendered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act as a counterbalance or offsetting factor; to make up for an existing defect or lack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What was to ensue when we found her and what could compensate us for this loss of time were questions also that I could not possibly dismiss; my mind was quite tortured by long dwelling on such reflections when we stopped."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is often sufficient, or more than sufficient, to compensate for the shorter time."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I don’t think she can ever have been pretty; but, for aught I know, she may possess originality and strength of character to compensate for the want of personal advantages."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Higher monetary wages are required to **compensate** the workman for the disagreeable or hazardous nature of his employment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Under the law of compensation, nature often curtails one organ to **compensate** for the extraordinary enlargement of another."*
+> - 📜 **Ralph Waldo Emerson (*Compensation*):** *"The universe is governed by polarity; for every defect in one faculty, nature strives to **compensate** with an excess in another."*

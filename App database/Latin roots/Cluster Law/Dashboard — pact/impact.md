@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking of one body against another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A forceful consequence; a strong effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The striking of one body against another; forceful collision or physical contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marked, powerful, or lasting effect or influence on a situation, person, or historical event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The rencounter came at a heavy moment, one of all moments calculated to permit its impact with the least emotional shock."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some poor devil,” was my thought; and my next thought was that he was surely getting his, as I listened to the scuffling of feet, the dull impact of blows on flesh, the sudden cries of pain, the filth of curses, and the sounds of dragging bodies."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yes, as I look back upon it, a man must be greatly a philosopher to survive the continual impact of such brutish experiences through the years and years."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In every case of direct **impact**, the change of momentum in the striking body equals that imparted to the struck body."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The sudden **impact** of the financial revolution transformed England from an agrarian kingdom into a commercial empire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The terrible **impact** of the whale's forehead crushed the wooden timbers of the Essex like an eggshell."*

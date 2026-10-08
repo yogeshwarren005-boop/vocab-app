@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family peneidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family peneidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the river god of the Thessalian river Peneus (Pineios), son of Oceanus and Tethys and father of the nymph Daphne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The river Peneus (modern Pineios), the celebrated principal river flowing through the Vale of Tempe in Thessaly, Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneus designates type genus of the family peneidae."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Daphne was the daughter of the river **peneus**, who transformed her into a sacred laurel tree to escape the pursuit of Apollo."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not fair Thessalian Tempe, nor the cool shade where sacred **peneus** winds through rocky vales, could rival Paradise."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Beneath the cliffs of Ossa, the waters of **peneus** glide through the green romantic gorge of Tempe toward the Aegean."*

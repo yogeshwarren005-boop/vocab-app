@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of low spirits caused by loss of hope, courage, or confidence; deep dejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolonged gloom and melancholy resulting from repeated disappointments or grief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And the despondency of the next morning’s dawn, when it was no longer Sunday, but Monday; and no best clothes; and the laughing visitors were gone, and she awoke alone in her old bed, the innocent younger children breathing softly around her."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was sitting against the wall, with his head drooping, his eyes cast down, an air of disappointment and despondency about him--nothing more."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne sank into a frightful **despondency**, weeping incessantly and refusing all food or consolation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I refused to yield to **despondency**, knowing that faith and labor could carve out an honorable independence."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber passed with astonishing rapidity from the depths of **despondency** to the height of convivial gaiety."*

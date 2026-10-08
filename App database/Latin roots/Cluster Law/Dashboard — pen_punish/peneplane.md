@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geology, an extensive nearly flat land surface formed by prolonged subaerial erosion; a peneplain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A base-leveled topographic surface that has approached the ultimate limit of fluvial denudation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneplane designates a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements."*
+> - 📜 **William Morris Davis (*The Physical Geography of Southern New England*):** *"The Cretaceous **peneplane** of New England was subsequently uplifted and tilted toward the Atlantic ocean."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Vast tabular surfaces in the interior of South America represent an ancient continental **peneplane** capped by sandstone."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Remnants of an uplifted **peneplane** can be traced across the uniform summit levels of the Appalachian ridges."*

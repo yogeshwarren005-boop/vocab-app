@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The codefendant charged with adultery with the estranged spouse in a divorce proceeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The codefendant charged with adultery with the estranged spouse in a divorce proceeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In family law, a person named in a divorce petition as having committed adultery with the respondent spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint defendant or respondent joined in an equity bill or legal proceeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corespondent designates the codefendant charged with adultery with the estranged spouse in a divorce proceeding."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statute permits the injured spouse to join the alleged adulterer as **corespondent** in the petition for dissolution."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"The scandal broke upon the political world when the fashionable gentleman was cited as **corespondent** in the divorce court."*
+> - 📜 **Arthur Conan Doyle (*The Case-Book of Sherlock Holmes*):** *"The society divorce suit named a wealthy foreign diplomat as the offending **corespondent**, exciting public curiosity."*

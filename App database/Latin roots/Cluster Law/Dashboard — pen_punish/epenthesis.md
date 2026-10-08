@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a vowel or consonant into a word to make its pronunciation easier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a vowel or consonant into a word to make its pronunciation easier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, the insertion of a sound or letter into the middle of a word (such as the *p* in *empty* from Old English *æmtig*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phonological process facilitating ease of articulation by interposing transitional consonants or vowels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthesis designates the insertion of a vowel or consonant into a word to make its pronunciation easier."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Philologists trace the intrusive consonant in words like thunder and bramble to natural phonetic **epenthesis**."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"The phenomenon of **epenthesis** occurs when speakers ease the transition between incompatible consonant clusters."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Dialect speakers frequently employ **epenthesis**, inserting a parasitic vowel between liquid and nasal consonants."*

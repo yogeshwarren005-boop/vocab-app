@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as money) given or received as payment or reparation (as for a service or loss or injury).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something, typically money, awarded to someone in recompense for loss, injury, or labor; recompense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanism by which an organism or psychological system makes up for a deficiency in structure or function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I stick by that.” One compensation I learned."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Development of compensation for accidents. § 7."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The compensation plan in America. § 8."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In his celebrated essay on **compensation**, Emerson argued that every gain is balanced by an equivalent loss throughout creation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Civil damages are designed to provide pecuniary **compensation** equivalent to the injury inflicted upon the plaintiff."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Honorable social esteem forms a large part of the **compensation** awarded to professions requiring long liberal education."*

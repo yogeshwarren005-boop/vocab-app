@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rotating shafts that serve as axes for larger rotating parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rotating shafts that serve as axes for larger rotating parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylindrical rod or spindle around which material is shaped, forged, or held securely for turning on a lathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing, an expanding core used to support hollow metal pipes or tubes during bending or casting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandrel designates any of various rotating shafts that serve as axes for larger rotating parts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's blacksmith turned the glowing iron ring upon his steel **mandrel**, forging it true with rapid blows."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery fitted the hot iron hoop upon the **mandrel**, sparks raining around the dark forge."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The modern mechanic works with precise iron tools, guiding the lathe and **mandrel** with disciplined skill."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical prawns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical prawns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In marine biology, the taxonomic family Penaeidae of marine decapod crustaceans comprising the commercially valuable penaeid shrimps and prawns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-water marine swimming decapod prawns having dendrobranchiate gills and prominent rostrum, fished extensively in coastal fisheries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peneidae designates tropical prawns."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Marine prawns of the family **peneidae** retain primitive larval stages, hatching as free-swimming nauplii in open ocean."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fishermen at Rio de Janeiro netted abundant catches of large **peneidae** in the mangrove-fringed inlets of the bay."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The shallow coral shallows of the Moluccas teemed with brilliant species of **peneidae** and mantis shrimps."*

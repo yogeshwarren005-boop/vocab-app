@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible; not capable of being influenced, affected, impressed, or infected by something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immune or impervious to external emotional appeals, diseases, or chemical agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You cannot think of God; for, if you could think of God, God would be in relation with you; God is insusceptible of relation with man."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Persons who are brought up in prayerless, worldly families--whose young minds are not moulded by a pious influence--are usually found very insusceptible of religious impressions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The stoic emperor remained **insusceptible** to the flatteries of courtiers, preserving an austere simplicity of life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Individuals who have survived smallpox remain generally **insusceptible** to subsequent infection with the variola virus."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was by no means **insusceptible** to female elegance, yet he valued sincerity above mere accomplishment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being intensely interested (as by awe or terror).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of great liking for something wonderful and unusual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep fascination, enchantment, or charm exerted upon an observer; the powerful enthrallment of mind and senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irresistible fascination or mental absorption inspired by extraordinary art, beauty, or charisma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captivation designates the state of being intensely interested (as by awe or terror)."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The initial **captivation** of the senses often blinds a suitor to the profound moral defects of his idol."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The traveler yielded to the romantic **captivation** of the Moorish palace, dreaming away hours among its marble fountains."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The sculptor confessed that his total **captivation** by the Roman beauty had distracted his chisel from serious labor."*

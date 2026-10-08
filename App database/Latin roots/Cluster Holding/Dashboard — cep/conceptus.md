@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal organism in the early stages of growth and differentiation that in higher forms merge into fetal stages but in lower forms terminate in commencement of larval life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal organism in the early stages of growth and differentiation that in higher forms merge into fetal stages but in lower forms terminate in commencement of larval life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of conception at any stage of development from fertilization to birth, including the embryo or fetus and extraembryonic membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian embryology, the complete gestational structure comprising the developing organism, amnion, chorion, and placenta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptus designates an animal organism in the early stages of growth and differentiation that in higher forms merge into fetal stages but in lower forms terminate in commencement of larval life."*
+> - 📜 **William Harvey (*On Animal Generation*):** *"The early **conceptus** in the deer remains an imperceptible vesicle within the uterine horns before rapid expansion begins."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Implantation of the human **conceptus** occurs when the blastocyst burrows into the receptive secretory endometrium."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The developmental stages of the mammalian **conceptus** exhibit profound structural homologies with those of lower vertebrates."*

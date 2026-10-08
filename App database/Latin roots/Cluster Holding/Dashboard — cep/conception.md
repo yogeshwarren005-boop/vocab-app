@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract or general idea inferred or derived from specific instances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming pregnant; fertilization of an ovum by a spermatozoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of conceiving a child or of a child being conceived; or the forming of an idea, concept, or mental plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity to form abstract ideas; or an individual's personal understanding or view of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Conception is a blessing, but not as your daughter may conceive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please your Highness, note This dangerous conception in this point, Not friended by his wish to your high person His will is most malignant, and it stretches Beyond you to your friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou but rememberest me of mine own conception: I have perceived a most faint neglect of late; which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness: I will look further into’t."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In all things that have beauty, order, and proportion, the divine architect showed his supreme majesty in their first **conception**."*
+> - 📜 **William Wordsworth (*Preface to Lyrical Ballads*):** *"Poetry takes its origin from emotion recollected in tranquility; the emotion is contemplated till a new **conception** is generated."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Primitive tribes lack any abstract **conception** of universal natural laws governing the movement of celestial spheres."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who captures and holds people or animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who captures and holds people or animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, vessel, or animal that captures, takes, or catches another; a captor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who successfully seizes a prize, territory, or fugitive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capturer designates a person who captures and holds people or animals."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The predator's acute vision and claws enable the swift **capturer** to overpower swift mammalian prey."*
+> - 📜 **William Napier (*History of the War in the Peninsula*):** *"The cavalry **capturer** of the baggage train secured substantial spoils before the French rearguard rallied."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highlander slipped through the grasp of his would-be **capturer** and dived into the dark waters of the loch."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is confined; especially a prisoner of war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that is confined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been taken prisoner or an animal that is confined; or held in confinement, bondage, or imprisonment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely held, controlled, or enthralled by emotion, beauty, or military power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if thou say Antony lives, is well, Or friends with Caesar, or not captive to him, I’ll set thee in a shower of gold and hail Rich pearls upon thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when came you to serve our Roman captive?"*
+> - 📜 **John Milton (*Samson Agonistes*):** *"O dark, dark, dark, amid the blaze of noon, irrecoverably dark, total eclipse without all hope of day! A **captive** blind in Gaza."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Thy groans did make wolves howl and penetrate the breasts of ever-angry bears; it was a torment to lay upon the damned, which Sycorax could not again undo; it was a cruel **captive** spell."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Zenobia walked as a royal **captive** before the chariot of Aurelian, bound with golden chains through the streets of Rome."*

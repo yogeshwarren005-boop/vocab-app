@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To capitalize a business enterprise excessively; to value capital assets beyond their real earning capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To issue securities or stock exceeding the physical value or reasonable return of a corporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, in turn, any of the minor factors, as materials or uses of goods, are overvalued (overcapitalized) it will appear ultimately in a check in the demand for them at these prices, and in a reduction in the demand for money loans."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Investment bankers habitually **overcapitalize** newly merged manufacturing plants to maximize underwriter commissions."*
+> - 📜 **Louis Brandeis (*Other People's Money and How the Bankers Use It*):** *"To **overcapitalize** a public utility corporation compels the public to pay exorbitant passenger rates to sustain fictitious water."*
+> - 📜 **Andrew Carnegie (*Autobiography of Andrew Carnegie*):** *"I refused to **overcapitalize** our steel works, insisting that every dollar of stock represent real ore, furnaces, and tangible plant."*

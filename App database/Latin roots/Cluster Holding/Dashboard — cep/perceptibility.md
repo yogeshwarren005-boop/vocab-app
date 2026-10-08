@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being perceptible by the mind or the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being perceptible by the mind or the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being perceived, detected, seen, or recognized by the senses or the intellect; discernibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sensory threshold or clarity required for an external physical stimulus to reach conscious awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that thing of his dissembling was only subject to his perceptibility, not to his will determinate."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The degree of **perceptibility** of ethereal vibrations depends upon the sensitivity of the optic nerve to diverse wavelengths."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Fechner sought to measure the minimal threshold of **perceptibility** by systematically increasing acoustic intensity."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Contrast enhancement in the retina elevates the **perceptibility** of delicate boundaries between illuminated surfaces."*

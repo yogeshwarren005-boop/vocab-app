@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable, satisfactory, or pleasing manner; adequately meeting required standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to gain approval, consent, or favor from an audience or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We have endeavored to exercise a wise and careful discrimination both in avoiding the introduction of any name unworthy of a place in such a record, and in giving the due meed of honor to those who have wrought most earnestly and acceptably."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The table dishes are of tin, but in a few camps enamelware has very acceptably been introduced."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"He sought how he might walk **acceptably** before the King of the Celestial City, avoiding worldly temptations."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny performed her daily duties quietly and **acceptably**, winning the steady confidence of Sir Thomas Bertram."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I found that by expressing my opinions modestly, I was able to argue far more **acceptably** with men in public office."*

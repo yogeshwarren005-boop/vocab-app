@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborated concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborated concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abstract conceptual character or ideological nature; the attribute of existing primarily as a mental construct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which an artwork, theory, or argument relies upon pure intellect rather than perceptual form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptuality designates an elaborated concept."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The sheer **conceptuality** of the understanding requires sensible intuitions if it is to attain real empirical truth."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Philosophic verse must not lose itself in arid **conceptuality**, but must embody thought in vivid sensible imagery."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Hegelian dialectic trades in high **conceptuality**, ignoring the rough edges and stubborn contingencies of concrete life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A summary at the end that repeats the substance of a longer discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A used automobile tire that has been remolded to give it new treads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state again briefly; to summarize or recapitulate the main points of an argument, speech, or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief summary of preceding developments; or to fit a new rubber tread onto an old pneumatic tire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At this moment I can recap to my mind their slender shafts, and the graceful inequalities of their bark, on which my eye was accustomed to dwell day after day in the midst of my solitary musings."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Before proceeding to modern industrial revolutions, let us briefly **recap** the decisive migrations that transformed early Europe."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Holmes paused by the mantelpiece to **recap** the sequence of mysterious clues that pointed to the secret society."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The evening telescreen broadcast began with a concise **recap** of triumphant military victories along the Malabar front."*

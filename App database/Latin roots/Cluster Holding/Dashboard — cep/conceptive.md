@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of conceiving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of conceiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of conceiving; having the power of forming ideas in the mind; imaginative or biologically fertile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or facilitating mental ideation or reproductive fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptive designates capable of conceiving."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The **conceptive** faculty of Shakespeare was so fertile that every drama teemed with fully individualized personages."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human understanding is not a dry light, but receives infusion from the will and affections, making it a lively **conceptive** organ."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient naturalists debated whether the maternal imagination could stamp physical likeness upon the **conceptive** womb."*

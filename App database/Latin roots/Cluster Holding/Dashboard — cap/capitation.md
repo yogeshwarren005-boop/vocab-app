@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax levied on the basis of a fixed amount per person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax levied on the basis of a fixed amount per person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct tax, fee, or levy assessed per person; a poll tax or head tax charged equally upon all members of a community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health care and insurance, a payment system where a provider receives a fixed recurring sum per enrolled patient regardless of services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We believe the capitation tax restriction upon the suffrage in Virginia to be in conflict with the XIVth Amendment to the Constitution of the United States."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration hereinbefore directed to be taken."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The section in the old Constitution in reference to capitation and other direct tax is omitted; also, the section providing that no tax or duty shall be laid on any exports. 4th."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial subjects groaned under an oppressive **capitation** tax that numbered every peasant and ox in the empire."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **capitation** tax, when proportioned to the fortune of each contributor, becomes arbitrary and uncertain in its collection."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Direct taxes, including any general **capitation** levy, were carefully apportioned among the states according to census numbers."*

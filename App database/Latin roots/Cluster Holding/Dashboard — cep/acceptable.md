@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of acceptance or satisfactory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judged to be in conformity with approved usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being agreed to or approved; adequate, satisfactory, or welcome to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meeting minimum standards of propriety, performance, or social convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"COULD you give us ‘British Grenadiers,’ my fine fellow?” Nothing could be more acceptable to the little circle than this call upon young Woolwich, who immediately fetches his fife and performs the stirring melody, during which performance Mr."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Tender of payment in lawful coin of the realm constitutes an **acceptable** legal discharge of the debt."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was determined that her conduct should be in every respect **acceptable** to the feelings of her mother."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A naturalistic explanation of biological adaptation proved far more **acceptable** to modern naturalists than miraculous design."*

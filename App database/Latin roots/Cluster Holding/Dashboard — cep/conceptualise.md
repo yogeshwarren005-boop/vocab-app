@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the idea for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have the idea for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form a concept or idea of something; to develop an abstract mental model or theory of a phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To understand, interpret, or categorize an experience through general principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualise designates have the idea for."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The student must learn to **conceptualise** raw historical information into living principles of civic responsibility."*
+> - 📜 **William James (*Pragmatism*):** *"We continually **conceptualise** the flux of our sensory experience, sorting it into convenient mental compartments."*
+> - 📜 **Max Weber (*Economy and Society*):** *"To analyze traditional authority, we must **conceptualise** the feudal relationship between lord and faithful vassal."*

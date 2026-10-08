@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which something is greeted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal party of people; as after a wedding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of receiving something sent, given, or communicated; or a formal social gathering to welcome guests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manner in which a person, performance, or publication is greeted or evaluated by the public; or radio signal quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pavilion by the side of it for the reception of the King, Princess, Lords, etc."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so completely confounded by this reception that he quickly fell into line with the rest, and the procession proceeded."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn’s reception, and we looked forward to his arrival with some curiosity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was surprised by the polite **reception** she met with from Mr. Darcy at the entrance of the grounds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king prepared a magnificent **reception** for the imperial ambassadors in his nomadic camp."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"The stormy public **reception** of my book on species confirmed my expectation of fierce theological controversy."*

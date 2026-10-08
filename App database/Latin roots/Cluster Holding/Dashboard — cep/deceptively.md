@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a misleading way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a misleading way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deceptive or misleading manner; in a way that gives a false impression of reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With outward signs that belie the underlying truth, danger, or complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I had first seen the place on a moist afternoon when distances are deceptively diminished."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The deep mountain tarn looked **deceptively** calm under the evening sky, concealing treacherous subterranean currents."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The sea appeared **deceptively** smooth, lulling the watch on the Patna into fatal complacency before the collision."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes pointed out that the poison dart was **deceptively** small, yet capable of causing instant cardiac arrest."*

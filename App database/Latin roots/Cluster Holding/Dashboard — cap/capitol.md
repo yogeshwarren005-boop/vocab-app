@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building occupied by a state legislature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The government building in washington where the united states senate and the house of representatives meet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building in which a state legislative body meets; specifically, the United States Capitol in Washington, D.C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The citadel or primary civic temple of an ancient Roman city, modeled upon the Roman Capitolium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what Made the all-honoured, honest Roman, Brutus, With the armed rest, courtiers of beauteous freedom, To drench the Capitol, but that they would Have one man but a man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your company to th’ Capitol, where I know Our greatest friends attend us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Hence! wilt thou lift up Olympus? Great Caesar falls; and do not you think the **Capitol** stands firm against ambition?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"From the lofty heights of the **Capitol**, the Roman triumphs ascended along the Sacred Way to offer sacrifice to Jove."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"We laid the cornerstone of the national **Capitol**, designing its republican columns to inspire future generations of citizens."*

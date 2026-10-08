@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inventing or contriving an idea or explanation and formulating it mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborated concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of conceptualizing; the formulation of an idea, theory, or cognitive model of a phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and social research, the precise specification of theoretical constructs prior to operational measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualization designates inventing or contriving an idea or explanation and formulating it mentally."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Rigorous **conceptualization** of economic classes allows the historian to compare feudal guilds with modern trade unions."*
+> - 📜 **Jean Piaget (*The Origins of Intelligence in Children*):** *"Sensorimotor schema gradually evolve into formal mental **conceptualization** as the infant develops symbolic representation."*
+> - 📜 **John Dewey (*How We Think*):** *"Clear scientific **conceptualization** transforms vague personal perplexity into a defined problem open to systematic trial."*

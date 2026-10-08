@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not receptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not receptive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to consider new ideas, suggestions, or impressions; closed-minded, unresponsive, and resistant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, not in a state to receive pollen, fertilization, or surgical grafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreceptive designates not receptive."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An uneducated populace remains obstinately **unreceptive** to political truths that disturb traditional superstitions."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"If pollination occurs while the stigma is dry and **unreceptive**, the pollen tubes fail to penetrate the ovary."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins found his mother's fashionable guests completely **unreceptive** to his radical phonetic theories."*

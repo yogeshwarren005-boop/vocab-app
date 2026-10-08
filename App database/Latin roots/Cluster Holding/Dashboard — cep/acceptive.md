@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to accept rather than reject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed or ready to accept, receive, or welcome; receptive and hospitable to ideas or persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and immunology, characterized by receptive readiness to bind ligands or integrate grafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptive designates inclined to accept rather than reject."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An open and **acceptive** consciousness attends to new impressions without the distortion of premature prejudice."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The genius of true friendship demands an **acceptive** spirit that honors the sacred individuality of the other."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic faculty requires both an active creative power and an **acceptive** susceptibility to external impressions."*

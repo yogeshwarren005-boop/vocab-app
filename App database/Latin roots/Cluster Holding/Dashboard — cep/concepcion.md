@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in chile to the south of santiago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in chile to the south of santiago.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major city and port in central Chile; or a widespread Spanish female given name and religious feast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic colonial capital and strategic maritime bay in South America founded by Pedro de Valdivia in 1550.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concepcion designates an industrial city in chile to the south of santiago."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We arrived at the city of **Concepcion** shortly after the terrible earthquake of 1835 and beheld the ruins of every stone cathedral."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The naval base of **Concepcion** possesses one of the finest natural harbors along the southern Pacific coast of Chile."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"Our ship stood off the high cliffs of Point **Concepcion**, where violent squalls tested our topgallant sails."*

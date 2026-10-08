@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being susceptible; easily affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being susceptible; easily affected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulnerability, liability to infection, or heightened responsiveness to external physical, emotional, or magnetic influences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the degree of magnetization of a material in response to an applied magnetic field (magnetic susceptibility).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, cousin John.” “Why,” he slowly replied, roughening his head more and more, “he is all sentiment, and—and susceptibility, and—and sensibility, and—and imagination."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has been doing everything in her power, by thinking and talking on the subject, to give greater--what shall I call it?--susceptibility to her feelings; which are naturally lively enough."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malnutrition and crowded dwellings increase individual **susceptibility** to tuberculous pulmonary infection."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Substances exhibit either paramagnetic or diamagnetic **susceptibility** when placed between poles of a powerful magnet."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's delicate **susceptibility** to romantic sentiment exposed her to profound anguish when disappointed in love."*

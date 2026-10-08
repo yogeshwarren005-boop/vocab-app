@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of refusing an offer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of refusing an offer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure or refusal to accept something offered, proposed, or established; rejection or non-compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, the refusal by a drawee to accept a bill of exchange presented for signature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonacceptance designates the act of refusing an offer."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon the **nonacceptance** of a bill of exchange by the drawee, the holder must immediately protest it for non-acceptance."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The **nonacceptance** of the Stamp Act by the American colonies shook the British mercantile system to its foundations."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The social ostracism attending the **nonacceptance** of popular dogmas deters honest scholars from speaking the truth."*

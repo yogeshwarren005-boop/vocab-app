@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepting willingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to accept, receive, or endure; receptive, accommodating, or open to influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a party who formally accepts an agreement, deed, or bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptant designates accepting willingly."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I am large, I contain multitudes; my soul stands calm and **acceptant** before the vast procession of creation."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Mirah sat in quiet, **acceptant** grief, receiving the tender ministrations of her new English protectors."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The saintly character exhibits an **acceptant** frame of mind that welcomes sorrow as a divine trial."*

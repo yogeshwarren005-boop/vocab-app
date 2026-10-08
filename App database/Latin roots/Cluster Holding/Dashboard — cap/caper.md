@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus capparis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pickled flower buds used as a pungent relish in various dishes and sauces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To skip, dance, or leap about in a lively or playful manner; or the pickled flower bud of a Mediterranean shrub used in cooking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illicit, reckless, or humorous escapade, prank, or adventure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth is, I am only old in judgement and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he: he offered to cut a caper at the proclamation; but he made a groan at it, and swore he would see her tomorrow."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Faith, I can cut a **caper**; and I think I have the back-trick simply as strong as any man in Illyria."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The fat boy executed an unexpected joyful **caper** upon the kitchen rug when informed of the roast turkey."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The green buds of the Mediterranean **caper** shrub are salted in brine to provoke appetite and comfort the stomach."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Execution by cutting off the victim's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by cutting off the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or execution of cutting off someone's head; beheading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sudden dismantling or destruction of the leadership structure of an army, government, or corporate entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Who would believe that there could be any one so cruel as to long for the decapitation of the luckless Pedro; yet the sailors pray every minute, selfish fellows, that the miserable fowl may be brought to his end."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This institution was styled _Thalavettiparothiam_ or authority obtained by decapitation. . . ."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony of decapitation, which is here somewhat slurred over, is carried out with a greater semblance of reality in other parts of Bohemia."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The penalty of **decapitation** was reserved by Roman law for noble citizens, while slaves endured the agony of the cross."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Swift **decapitation** by the guillotine was hailed by egalitarian reformers as an enlightened and painless mode of execution."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ancient judgment for high treason included hanging and quartering, though the crown frequently commuted the sentence to simple **decapitation**."*

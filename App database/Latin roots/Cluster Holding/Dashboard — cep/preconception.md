@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed beforehand without adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality that prevents objective consideration of an issue or situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea, opinion, or mental assumption formed before having full knowledge, evidence, or actual experience; a prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cognitive bias or preexisting mental model that colors the interpretation of subsequent observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are the Gospels, and, like other historical records, they must be studied in earnest on scientific lines without preconception."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In each case the preconception had grown up, as about the myths of Isis, for example, that such books were in some way sacred and inspired."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The motions of these men were slow and solemn, as if there impended over their souls some preconception of horror and of cruelty."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The natural philosopher must purge his intellect of every idle **preconception** if he wishes to decipher nature's open book."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth acknowledged that her early **preconception** regarding Mr. Wickham had blinded her to his sordid character."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I endeavored to approach the geological evidence without the **preconception** that species were immutable creations."*

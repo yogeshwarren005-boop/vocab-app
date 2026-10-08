@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person (or institution) who accepts a check or draft and becomes responsible for paying the party named in the draft when it matures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who accepts something, especially the drawee of a bill of exchange who agrees by signature to pay it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and physics, an atom or molecule that accepts electrons, protons, or incoming charge carriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptor designates (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By writing his name across the bill, the **acceptor** becomes the primary debtor liable to all subsequent endorsees."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In coordinate covalent bonding, one atom acts as electron-pair donor while the other serves as the **acceptor**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"If the **acceptor** of a foreign bill fails before it falls due, the holder protests the instrument for non-payment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unacceptable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an unacceptable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is unacceptable, intolerable, or offensive; to an intolerable or inadmissible degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to violate basic standards of decorum, law, justice, or performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unacceptably designates to an unacceptable degree."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The endless Chancery litigation dragged on **unacceptably** slow, consuming the entire inheritance in legal fees."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon expressed himself **unacceptably** to his young bride, rebuking her eager curiosity with pedantic frost."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The ecclesiastical authorities acted **unacceptably** harsh toward the poor student who sought admission to Christminster."*

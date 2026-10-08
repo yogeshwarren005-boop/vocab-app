@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborated concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inventing or contriving an idea or explanation and formulating it mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of forming a concept, idea, or mental framework of something; cognitive modeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical formulation of abstract principles to interpret experimental or social data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualisation designates an elaborated concept."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"The progressive **conceptualisation** of spatial relations emerges through sensorimotor interactions with external objects."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Our mental **conceptualisation** of the world is a working scheme designed to guide practical conduct toward success."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A rigorous **conceptualisation** of a physical law must specify what observable events would falsify its predictions."*

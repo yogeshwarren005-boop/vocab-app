@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adequate to give satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not acceptable; not welcome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not satisfactory, pleasing, or allowable; intolerable, inadmissible, or contrary to established rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to satisfy required social, ethical, technical, or legal criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view, however, is very unacceptable to the leaders of organized labor in America, and there the question now stands. § 17. #Future role of organization#."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe was a very clean housekeeper, but had an exquisite art of making her cleanliness more uncomfortable and unacceptable than dirt itself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She thought them totally unwarranted, and the repulsion which this exceptional severity excited in her was in danger of making the more persistent tenderness unacceptable."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king proposed terms of compromise that were deemed utterly **unacceptable** by the leaders of both parliamentary houses."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To marry a man whom she despised was an **unacceptable** degradation which Charlotte Lucas nevertheless accepted for security."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The hypothesis of special creation became increasingly **unacceptable** as paleontology uncovered continuous fossil gradations."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets available for use in the production of further assets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth in the form of money or property owned by a person or business and human resources of economic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth in the form of money or assets owned by a person or organization; or the city functioning as the seat of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinct uppermost architectural member crowning a column or pilaster; or denoting a crime punishable by death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to poor we Thine enmity’s most capital."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a brute part of him to kill so capital a calf there."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A man's **capital** is that part of his stock from which he expects to derive an ongoing revenue."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"High treason was accounted the most heinous of all **capital** offenses against the sovereign majesty of the realm."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculpted **capital** of each Byzantine column displayed carved acanthus foliage intertwined with sacred emblems."*

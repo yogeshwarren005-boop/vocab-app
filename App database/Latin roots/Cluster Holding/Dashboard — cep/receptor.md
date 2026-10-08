@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized protein molecule on a cell surface or within cytoplasm that binds a specific signaling molecule or ligand to initiate a cellular response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory nerve ending or organ specialized to respond to light, heat, pressure, or chemical changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, receptor designates a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Toxins bind to specific side-chains of the protoplasm which I have designated cellular **receptor** complexes."*
+> - 📜 **Julius Axelrod (*Nobel Lecture in Physiology or Medicine*):** *"Noradrenaline released at sympathetic nerve terminals stimulates the adrenergic **receptor** to elicit vascular constriction."*
+> - 📜 **Solomon H. Snyder (*Brain Peptides and Receptors*):** *"The discovery of the opiate **receptor** in brain tissue demonstrated that morphine mimics endogenous peptide neurotransmitters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to perception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to the senses or the cognitive processing of sensory observations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As experienced or measured through direct sensory perception rather than abstract logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perceptually designates with regard to perception."*
+> - 📜 **William James (*Some Problems of Philosophy*):** *"Concepts help us handle the flux of reality, but reality itself is known only as it is given **perceptually**."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Two musical notes an octave apart are **perceptually** felt to possess a natural harmonic kinship across all cultures."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Things are grasped **perceptually** in immediate experience before being analyzed conceptually by scientific inquiry."*

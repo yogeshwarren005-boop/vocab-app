@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly attracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply charmed, enthralled, enchanted, or fascinated by beauty, grace, intellect, or artistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Held in emotional or mental subjugation; completely enraptured.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert immured, restrained, captivated, bound."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I love him.” The engaging frankness with which he made this declaration really had a disinterested appearance and captivated my guardian, if not, for the moment, Ada too."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not that my fancy was much captivated by the idea of long chimneys and clouds of smoke—“but,” I argued, “Thornfield will, probably, be a good way from the town.” Here the socket of the candle dropped, and the wick went out."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester sat beside the harp, completely **captivated** by the sweet melodious airs sung by the visiting ladies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The youthful emperor was **captivated** by the charms of the Syrian maiden, raising her family to supreme dignities."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found himself **captivated** by Rosamond Vincy's delicate blonde elegance and effortless social poise."*

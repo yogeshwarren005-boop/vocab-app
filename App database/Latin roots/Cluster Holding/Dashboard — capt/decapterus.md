@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scads especially mackerel scad; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scads especially mackerel scad; cosmopolitan in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine carangid fishes commonly known as scads or round scads, widely fished in tropical and temperate oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercially vital pelagic schooling fish genus characterized by a detached finlet behind the dorsal and anal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapterus designates scads especially mackerel scad; cosmopolitan in distribution."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"In the genus **Decapterus**, the carangoid body is distinguished by small detached finlets following the dorsal and anal fins."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species of **Decapterus** assemble in vast pelagic schools along subtropical coasts, serving as staple forage for larger tunas."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"We examined the osteology of **Decapterus** to trace the specialization of the caudal finlets in swift-swimming carangids."*

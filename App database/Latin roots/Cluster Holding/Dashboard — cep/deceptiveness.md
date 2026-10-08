@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being deceptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deceptive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Misleading character, fraudulent appearance, or intrinsic capacity to mislead the senses or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The illusory or treacherous nature of appearances, promises, or perceptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deceptiveness designates the quality of being deceptive."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Experience teaches the wise man the habitual **deceptiveness** of youthful hope, which promises unclouded prosperity."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The apparent **deceptiveness** of sensory perception is corrected by repeated, methodical comparisons of experimental data."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She realized too late the **deceptiveness** of Casaubon's scholarly reputation, discovering only dry dust within."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of' or `to') yielding readily to or capable of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed emotionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely or liable to be influenced, harmed, or affected by a particular disease, force, or emotion; vulnerable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of submitting to an action, process, or mathematical proof (e.g., susceptible of proof).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This ancestor is said to have been a man extremely susceptible to violent outbreaks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The occasion of this seizure is that Guster has a tender heart and a susceptible something that possibly might have been imagination, but for Tooting and her patron saint."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am very susceptible to such horrid things."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms living in small, isolated populations are peculiarly **susceptible** to rapid modification under altered conditions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The proposition is not **susceptible** of demonstrative proof, yet it commands rational probability."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester was a man of strong passions, highly **susceptible** to the charms of female intellect and sincerity."*

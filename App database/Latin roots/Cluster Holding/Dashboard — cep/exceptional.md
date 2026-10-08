@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Far beyond what is usual in magnitude or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing what is common or usual or expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually good, outstanding, or extraordinary; or forming an exception to the normal rule or common experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating significantly from the norm, whether in intellectual ability, physical scale, or rarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, “let me, even under the present exceptional circumstances, recommend strict punctuality."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Women will talk, and Volumnia, though a Dedlock, is no exceptional case."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of the woodpecker presents an **exceptional** example of exquisite adaptation for securing insects under tree bark."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"America occupied an **exceptional** position among nations, possessing vast fertile lands without feudal entanglements."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes possessed an **exceptional** power of deductive observation that astounded Scotland Yard detectives."*

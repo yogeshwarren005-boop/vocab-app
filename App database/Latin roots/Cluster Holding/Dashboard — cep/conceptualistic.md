@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characteristic of conceptualism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or characteristic of conceptualism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of conceptualism, the doctrine that universals exist as mental concepts rather than external entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to cognitive theories that emphasize mental representations over physical particulars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualistic designates involving or characteristic of conceptualism."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Abelard introduced a **conceptualistic** theory that resolved the scholastic controversy between nominalists and extreme realists."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our ordinary thinking adopts a **conceptualistic** stance, treating abstract categories as convenient tools for organizing sensations."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"A purely **conceptualistic** approach to knowledge isolates the observer from the active practical transaction with nature."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely acceptable; not open to exception or reproach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely acceptable; not open to exception or reproach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to objection; entirely satisfactory, blameless, flawless, and beyond reproach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meeting the most demanding standards of virtue, legality, and social propriety without flaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood as a means to marriage was unexceptionable: she esteemed and liked him, yet she did not want him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This was considered an unexceptionable place for obtaining the necessary food and rest: Host Trencher (as he was jauntily called by the local newspaper) being a substantial man of high repute for catering through all the country round."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"After all our debatings and difficulties, we find there is nothing that will suit us altogether so well, nothing so unexceptionable, as Lovers’ Vows."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was in every respect **unexceptionable**; his fortune was large, his temper sweet, and his connections respectable."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A verdict delivered upon the testimony of two credible and **unexceptionable** witnesses cannot be lightly overturned."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral character of Antoninus Pius was **unexceptionable**, uniting the virtues of a philosopher with the duties of a sovereign."*

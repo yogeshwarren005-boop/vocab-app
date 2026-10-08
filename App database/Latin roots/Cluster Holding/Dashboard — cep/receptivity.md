@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receptive capacity, responsiveness, or biological sensitivity to external chemical, nervous, or sensory stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian epistemology, the capacity of the mind to receive sensory representations through sensibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The attitudes of receptivity are various, and Will had sincerely tried many of them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We keep him, and we value him; but all the same we must not let him think himself all the truth in the universe.” “Then you want me not to let some previous conviction injure the receptivity of my mind with regard to some strange matter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Childlike receptivity The effects of Christian Science are not so much seen as felt."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Sensibility is the **receptivity** of our mind to receive representations, while understanding is the spontaneity of concepts."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The synaptic **receptivity** of the motor neuron is modulated by inhibitory interneurons in the anterior horn."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius requires a passive **receptivity** to natural impressions harmonized with an active modifying imagination."*

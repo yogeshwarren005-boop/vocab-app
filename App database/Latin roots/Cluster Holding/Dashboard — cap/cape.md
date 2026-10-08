@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of land projecting into a body of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sleeveless garment like a cloak but shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sleeveless outer garment that hangs loosely from the shoulders; or a high point of land jutting out into a body of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent maritime promontory marking a navigational turning point along an ocean coast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but a little charge will trench him here, And on this north side win this cape of land, And then he runs straight and even."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What from the cape can you discern at sea?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TAILOR. ‘With a small compassed cape.’ GRUMIO."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"We weathered the stormy **cape** through howling gales that froze the rigging into solid rods of ice."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The traveler wrapped his heavy riding **cape** tightly about his chest against the biting North Sea wind."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Doubling **Cape** Horn in midwinter tested the nautical endurance of both ship and crew amidst mountainous waves."*

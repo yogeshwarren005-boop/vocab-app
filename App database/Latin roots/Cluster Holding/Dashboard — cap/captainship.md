@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of captain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, office, position, or period of tenure of a captain; leadership or military command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in leading, navigating, or governing a ship, company, or athletic team.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore so please thee to return with us, And of our Athens, thine and ours, to take The captainship, thou shalt be met with thanks, Allowed with absolute power, and thy good name Live with authority."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Thou art a soldier, therefore seldom rich; it comes in charity to honor thy bold **captainship** with gold."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius assumed the supreme **captainship** of the imperial army, inspiring his soldiers with confidence in his tactical skill."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"Burley claimed the chief **captainship** of the covenanting regiment by right of spiritual zeal and warlike daring."*

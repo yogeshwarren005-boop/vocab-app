@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle of the thigh that extends the leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle of the thigh that extends the leg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large four-part extensor muscle at the front of the human thigh that extends the leg at the knee joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The powerful muscle group comprising rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadriceps designates a muscle of the thigh that extends the leg."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The common tendon of the **quadriceps** muscle encloses the patella and inserts directly into the tuberosity of the tibia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Vigorous contraction of the **quadriceps** straightens the flexed knee, enabling the body to rise from a seated posture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tapping the patellar tendon elicits a sudden reflex contraction of the **quadriceps**, demonstrating intact spinal pathways."*

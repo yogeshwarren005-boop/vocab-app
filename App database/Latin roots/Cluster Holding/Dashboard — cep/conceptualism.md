@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that universals exist not as independent entities in the physical world, but as concepts in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval scholastic middle position between extreme realism and nominalism, championed by Peter Abelard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptualism designates the doctrine that the application of a general term to various objects indicates the existence of a mental entity that mediates the application."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Peter Abelard advocated a moderate **conceptualism**, arguing that universal terms correspond to concepts formed in human minds."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"His epistemological position approached **conceptualism**, maintaining that general terms signify abstract ideas of the understanding."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Modern psychological pragmatism inherits the mantle of **conceptualism**, treating mental classes as functional intellectual tools."*

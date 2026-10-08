@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance as true or valid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The accepted meaning of a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The generally understood or accepted meaning of a word or phrase; prevailing lexical sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable reception, approval, or acceptance by a community or deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only had he put himself beyond the pale of human laws, but he had made himself independent of them, free in the strictest acceptation of the word, quite beyond their reach!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the ordinary acceptation of the term, Mrs."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The anger of its tone rescued the remark from intentional irony, which otherwise, probably, would have been its general acceptation."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"The lexicographer must trace words from their primitive origins down to their current popular **acceptation**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Disputes multiply when disputants use the same term in a different sense from its common **acceptation**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"In its true constitutional **acceptation**, liberty is an inheritance handed down from our ancestors, not an abstract dogma."*

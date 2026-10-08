@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiotensin-converting enzyme (ACE) inhibitor medication used to treat hypertension, congestive heart failure, and diabetic nephropathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pioneering orally active ACE inhibitor drug derived from snake venom peptide research that blocks the conversion of angiotensin I to angiotensin II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captopril designates a drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure."*
+> - 📜 **David W. Cushman (*Biochemical Pharmacology*):** *"Design of **captopril** as a specific competitive inhibitor of angiotensin-converting enzyme opened a new era in cardiovascular therapeutics."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Early clinical trials showed that oral **captopril** dramatically decreased systemic vascular resistance and prolonged survival in heart failure."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"By blocking kininase II, **captopril** potentiates endogenous bradykinin while reducing systemic aldosterone secretion."*

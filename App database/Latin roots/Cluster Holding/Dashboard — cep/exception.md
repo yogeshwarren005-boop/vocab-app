@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate act of omission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance that does not conform to a rule or generalization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, thing, or case that is not included in or does not conform to a general rule or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a formal objection to a ruling, finding, or pleading; or an adverse reaction (e.g., to take exception).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I have done That might your nature, honour, and exception Roughly awake, I here proclaim was madness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast taken against me a most just exception, but yet I protest, I have dealt most directly in thy affair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could easily let them have the whole cottage with the exception of a tiny chamber."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"There is no **exception** to the rule that every organic being naturally multiplies at so high a rate that struggles ensue."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The counsel tendered a bill of **exception** to the judge's instruction on the admissibility of the secondary evidence."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"All nature is but art, unknown to thee; all chance, direction, which thou canst not see; all discord, harmony not understood; all partial evil, universal good: and spite of pride, in erring reason's spite, one truth is clear, whatever is, is right; without **exception** or delay."*

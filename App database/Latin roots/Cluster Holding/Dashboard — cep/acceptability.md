@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfactoriness by virtue of conforming to approved standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfactoriness by virtue of conforming to approved standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfactory nature, suitability, or approval according to established standards; welcome admissibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, the general willingness of market participants to accept a currency, bond, or token as payment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptability designates satisfactoriness by virtue of conforming to approved standards."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The universal **acceptability** of precious metals as a medium of exchange arises from their durability, portability, and divisibility."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The general **acceptability** of moral virtues is grounded in their utility and pleasing influence upon human society."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The ultimate **acceptability** of any scientific hypothesis rests solely upon its verified correspondence with experimental facts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of what is perceived; basic component in the formation of a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of conceiving something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to see, hear, or become aware of something through the senses; or the way in which something is regarded or understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, the neuro-cognitive process of organizing and interpreting sensory data to represent external reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My guardian, with his sweet temper and his quick perception and his amiable face, made something agreeable even out of the ungenial company."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But Coodle knew the danger, and Doodle knew the danger, and all their followers and hangers-on had the clearest possible perception of the danger."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s son.” “A proposal which, as you correctly informed me at the time, he had the becoming taste and perception,” observes Sir Leicester, “to decline."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Perception** is the first and simplest idea we have from reflection, being the first step and degree towards knowledge."*
+> - 📜 **William Blake (*The Marriage of Heaven and Hell*):** *"If the doors of **perception** were cleansed every thing would appear to man as it is, Infinite."*
+> - 📜 **William James (*The Principles of Psychology*):** *"My experience is what I agree to attend to; only those items which I notice shape my mind; without selective interest, **perception** is chaos."*

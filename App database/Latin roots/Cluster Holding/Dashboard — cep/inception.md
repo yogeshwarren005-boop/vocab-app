@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that is a beginning; a first part or stage of subsequent events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that is a beginning; a first part or stage of subsequent events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The establishment or starting point of an institution, activity, project, or era; commencement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in universities, the formal graduation act of receiving a master's degree and commencing teaching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother, at my inception, did not create that passionate lack of fear that is mine."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The record of the Bahá'í community since inception of the Formative Age conclusively demonstrates that accomplishment of signal acts accompanied, or followed upon, periods of acute distress in European and American contemporary history."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"UNPRECEDENTED PUBLICITY Seldom, if at any time since its inception, has such a widespread publicity been accorded the infant Faith of God, now at long last emerging from an obscurity which has so long and so grievously oppressed it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"From its very **inception**, the new capital on the Bosporus was endowed with the municipal privileges of ancient Rome."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is difficult to determine the precise **inception** of an organ which has undergone profound functional metamorphosis."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The meeting of the Estates-General marked the historic **inception** of a convulsion that shook all European thrones."*

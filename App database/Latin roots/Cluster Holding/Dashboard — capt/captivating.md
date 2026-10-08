@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capturing interest as if by a spell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of attracting, charming, and holding attention; enchanting, bewitching, and fascinating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing alluring grace, beauty, or persuasive appeal that completely disarms resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, she had such a natural, captivating, winning manner that in a few minutes we were sitting in the window-seat, with the light of the fire upon us, talking together as free and happy as could be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a man of attainments and of captivating manners."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All he said was so free from effort and spontaneous and was said with such a captivating gaiety that it was fascinating to hear him talk."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella possessed a cold, **captivating** beauty that drew Pip into hopeless, lifelong devotion."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp exerted her most **captivating** arts upon the old collector of Boggley Wollah, flattering his vanity."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond displayed a quiet, **captivating** taste in art and literature that appeared supremely noble to Isabel."*

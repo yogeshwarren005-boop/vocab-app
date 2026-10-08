@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceptional degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceptional degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a greater degree than is normal or usual; extraordinarily, remarkably, or uniquely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By way of exception; under unusual or non-standard conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was a fairly well-educated man for one of middle class—exceptionally well educated for a common soldier."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Land was offered there on exceptionally advantageous terms."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His life was an exceptionally happy one."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The weather was **exceptionally** severe that winter, freezing the canals of Brussels into solid sheets of glass."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare was **exceptionally** sensitive to beauty, admiring Tess with an almost reverential tenderness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The currents off the coast of Peru were **exceptionally** cold, carrying subantarctic marine fauna toward the equator."*

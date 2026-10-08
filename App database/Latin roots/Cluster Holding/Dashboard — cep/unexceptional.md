@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not special in any way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not special in any way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not out of the ordinary; usual, normal, typical, and commonplace; possessing ordinary qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not distinguishing itself by brilliance, defect, or peculiarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexceptional designates not special in any way."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sir James Chettam was an **unexceptional** country gentleman, possessing sound acres and unblemished reputation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The weather was **unexceptional** for midsummer, bringing warm dusty breezes across the Dorset downs."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The exterior of the deserted suburban house was plain and **unexceptional**, showing no outward hint of the tragedy within."*

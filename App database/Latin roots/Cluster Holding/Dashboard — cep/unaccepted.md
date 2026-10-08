@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to standard usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to standard usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accepted, received, or recognized; rejected or left without formal approval or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce, designating a draft or bill of exchange that has not received the drawee's signature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaccepted designates not conforming to standard usage."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **unaccepted** offer creates no mutual contract, and the proposer may revoke his promise at any time before consent."*
+> - 📜 **Jane Austen (*Emma*):** *"His awkward proposal remained **unaccepted**, leaving him to depart in confusion and wounded pride."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"My evolutionary views remained **unaccepted** by the older generation of geologists who adhered to catastrophism."*

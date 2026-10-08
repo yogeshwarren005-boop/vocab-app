@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perceptive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perceptive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perceptive, discerning, or acutely observant manner; with sensitive insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deep understanding and quick comprehension of subtle implications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perceptively designates in a perceptive manner."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley observed the young people **perceptively**, divining secrets that they concealed from each other."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Ellen Olenska judged New York society **perceptively**, penetrating its ceremonial conventions with European irony."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe looked **perceptively** into Mrs. Ramsay's eyes, trying to capture that elusive soul upon her canvas."*

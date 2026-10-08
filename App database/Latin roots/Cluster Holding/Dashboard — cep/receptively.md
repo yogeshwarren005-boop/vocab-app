@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a receptive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a receptive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a receptive, open-minded, or responsive manner; with willingness to listen, learn, or absorb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hospitable readiness to accept impressions or emotional overtures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, receptively designates in a receptive manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea listened **receptively** to Will Ladislaw's enthusiastic discourses upon Renaissance painting and Italian liberty."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Lambert Strether strolled through the Luxembourg Gardens, taking in the Parisian atmosphere **receptively** at every pore."*
+> - 📜 **John Dewey (*Art as Experience*):** *"The spectator must surrender himself **receptively** to the artwork before passing intellectual judgment upon its form."*

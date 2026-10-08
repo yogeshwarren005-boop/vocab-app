@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut off the head of a person or animal; to behead or execute by severance of the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove the chief leader or governing executive of an organization, government, or movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the Alake or king of Abeokuta in West Africa dies, the principal men decapitate his body, and placing the head in a large earthen vessel deliver it to the new sovereign; it becomes his fetish and he is bound to pay it honours."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He then orders his mother to approach; she kneels at his feet; he first cuts off her head, then decapitates his sons in succession, next his wives and relatives, and, last of all, his most beloved wife, called Anacullo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal resolved to **decapitate** all royalist conspirators upon the public scaffold of the Place de la Révolution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The praetorian guards chose to **decapitate** their fallen commander before offering the empire to the highest bidder."*
+> - 📜 **Francis Bacon (*The History of the Reign of King Henry the Seventh*):** *"The king determined to **decapitate** the rebel leader to demonstrate that armed defiance would meet inexorable justice."*

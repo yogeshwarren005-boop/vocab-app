@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of not being susceptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of not being susceptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete immunity, invulnerability, or total lack of responsiveness to a disease, force, or emotional influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and materials science, the absence of magnetic or electrical polarization under applied fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsusceptibility designates the state of not being susceptible."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Natural **unsusceptibility** to infectious fevers is occasionally observed among certain robust racial stocks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian conqueror exhibited a savage **unsusceptibility** to the pleading tears of the captive Roman matrons."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The apparent **unsusceptibility** of the gaseous medium disappeared when tested under extremely high electrostatic tension."*

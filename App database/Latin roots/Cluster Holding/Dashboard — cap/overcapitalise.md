@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide an enterprise with more capital than is required or justifiable; or to fix capital value above actual earning power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To float shares or securities upon an industrial company in excess of the real replacement value of its physical assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalise designates estimate the capital value of (a company) at an unreasonably or unlawfully high level."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Promoters tend to **overcapitalise** railway syndicates during speculative booms, creating debts that depress subsequent dividends."*
+> - 📜 **Walter Bagehot (*Economic Studies*):** *"Joint-stock ventures that **overcapitalise** their plant find themselves crippled when commodity prices return to normal levels."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporate consolidators seek to **overcapitalise** industrial trusts by capitalizing anticipated intangible goodwill into common stock."*

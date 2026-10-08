@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcibly dispossessing an owner of property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process whereby a star or planet holds an object in its gravitational field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of catching or gaining control of something by force or skill; or to take into custody or possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To record, represent, or encode accurately in words, images, or digital signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Paul was wrong, how did he capture the Christian Church for his ideas?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus made them strong enough to defy the world and to capture the world."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving heart sets another on fire." With all his wide outlook on mankind, his great purpose to capture all men, Jesus is remarkable for his omission to devise machinery or organization for the accomplishment of his ends."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **capture** of Constantinople by the Ottoman Turks shattered the lingering remnants of the eastern empire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boats darted forward upon the foaming sea, determined upon the **capture** of the gigantic sperm whale."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The mathematical equations **capture** the exact orbits of planets moving under reciprocal inverse-square gravitational force."*

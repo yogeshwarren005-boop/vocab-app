@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bewitching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bewitching manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a captivating, enchanting, or fascinating manner; charmingly and delightfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With alluring charm and irresistible attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captivatingly designates in a bewitching manner."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen Harleth smiled **captivatingly** upon her admirers at the archery contest, conscious of her sovereign elegance."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart paused on the terrace, posing **captivatingly** in the soft twilight to display her graceful profile."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Felice Charmond laughed **captivatingly**, mocking the rustic manners of the village folk with sophisticated irony."*

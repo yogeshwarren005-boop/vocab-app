@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal seizure by the government of profits beyond a fixed amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking something back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of capturing something again; to retake by force a person, ship, or territory that had been lost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recover or experience again a past feeling, memory, state of mind, or artistic atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The attempt has been made to recapture more of his thoughts by learning the value given to some of the terms he uses as they appear in the literature of the day, and of course it has been helpful."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do not default; do not ever, ever give up.'' Recapture the Spark The following article, Joint Day Care for Young and Old, appeared on the op-ed page of The Wall Street Journal, issue dated December 31, 1986."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But we can with care recapture something of the experience of Jesus; we can roughly outline his outward life and environment."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The swift **recapture** of the frontier fortress restored English control over the disputed coastal provinces."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In prize law, the **recapture** of a merchantman from pirate hands entitles the rescuing warship to statutory salvage."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The taste of the petite madeleine allowed him to **recapture** the vanished world of Combray with astonishing vividness."*

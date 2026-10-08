@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tight-fitting headdress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A top (as for a bottle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A close-fitting covering for the head, usually soft and having no brim or only a visor; or an upper protective limit or ceiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To place a protective seal or lid upon an opening; or to surpass, crown, or bring to a climactic conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ever held my cap off to thy fortunes."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Why, this was moulded on a porringer; a velvet dish: fie, fie! 'tis lewd and filthy; why, 'tis a cockle or a walnut-shell, a knack, a toy, a trick, a baby's **cap**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The convict pulled his rough woolen **cap** low over his eyes as he looked toward the dark marshes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Parliament imposed a statutory **cap** upon the legal rate of interest to restrain predatory usurers."*

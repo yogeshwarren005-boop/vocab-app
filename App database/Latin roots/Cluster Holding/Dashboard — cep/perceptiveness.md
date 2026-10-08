@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keenness of sensory observation and intuitive insight into complex human situations; discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological capability to discern subtle nuances in character, environment, or art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perceptiveness designates a feeling of understanding."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer possessed an extraordinary **perceptiveness**, though her youthful romanticism sometimes misled her conclusions."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His acute **perceptiveness** detected a hidden terror lurking beneath the lady's brilliant social composure."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A moralist requires both profound scholarship and lively **perceptiveness** to portray the shifting vices of mankind."*

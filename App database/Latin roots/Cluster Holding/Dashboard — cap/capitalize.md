@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw advantages from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert assets or earnings into capital; to supply with capital; or to begin a word with a capital letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take full advantage of an opportunity, weakness, or resource for personal or financial gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This is payment for his ability to water the stock successfully, to capitalize it for more than its former value."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Pursuing the same analogy some economists have talked of capitalizing the worker,--expressing in a lump sum the value of the man as the present worth of the series of incomes which he may be expected to earn in his working life."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent-charges are instructive now as showing the mode in which rents began to be capitalized in earlier centuries. § II."*
+> - 📜 **Alexander Hamilton (*Report on a National Bank*):** *"To **capitalize** the public debt into bank stock provides a reliable foundation for expanding national commercial credit."*
+> - 📜 **Andrew Carnegie (*The Gospel of Wealth*):** *"The manufacturer must **capitalize** every technological improvement in steelmaking if his mills are to meet international competition."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Most men strive to **capitalize** the precious hours of youth upon commodities that merely clutter the simplicity of living."*

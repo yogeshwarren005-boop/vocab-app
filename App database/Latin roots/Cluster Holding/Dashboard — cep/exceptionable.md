@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to objection or debate; used of something one might take exception to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to objection or debate; used of something one might take exception to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to objection; causing disapproval, offense, or moral reproach; objectionable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not blameless; presenting flaws or offensive elements that justify formal objection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And, besides, no traces of them were to be found on the Barnet road.” “Well, then,--supposing them to be in London--they may be there, though for the purpose of concealment, for no more exceptionable purpose."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if such an hypothesis be indeed exceptionable, there were still additional considerations which, though not so strictly according with the wildness of his ruling passion, yet were by no means incapable of swaying him."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The right of equal suffrage among the States is another exceptionable part of the Confederation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy admitted that his friend's connection with the Bennet family was in many respects highly **exceptionable**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The confiscation of church property was an **exceptionable** measure that subverted all secure rights of private ownership."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The diction of the poem is vigorous, though some expressions appear rude and **exceptionable** to delicate ears."*

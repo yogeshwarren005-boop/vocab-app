@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a captious, carping manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a captious, carping manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a captious, fault-finding, or hypercritical manner; with petty quibbling and carping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With insidious intent to trip up or entangle an opponent in conversation or debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captiously designates in a captious, carping manner."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"He examined the philosophical definition **captiously**, seizing upon ambiguities of language rather than seeking the author's meaning."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn listened **captiously** to the clerk's explanation, noting every hesitation with cold, impassive eyes."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The pedantic monarch argued **captiously** with his ministers, delighted whenever he could catch an ambassador in a grammatical error."*

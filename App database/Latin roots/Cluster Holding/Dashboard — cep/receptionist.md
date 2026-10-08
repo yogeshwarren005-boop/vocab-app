@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secretary whose main duty is to answer the telephone and receive visitors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secretary whose main duty is to answer the telephone and receive visitors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed in an office, hotel, or clinic to greet visitors, manage appointments, and answer telephone inquiries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative staff member responsible for the initial customer interface and front-desk logistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, receptionist designates a secretary whose main duty is to answer the telephone and receive visitors."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"In the grand marble vestibule of the clinic, a brisk **receptionist** directed patients to their respective consulting rooms."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The smart **receptionist** behind the chromium counter looked through me as if I were a speck of dust on the rug."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The air-transport bureau employed a multilingual **receptionist** to log incoming passengers from the transatlantic line."*

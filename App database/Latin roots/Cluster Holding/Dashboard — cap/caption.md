@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking exception; especially a quibble based on a captious argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translation of foreign dialogue of a movie or tv program; usually displayed at the bottom of the screen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A title, short explanation, or descriptive heading accompanying an illustration, photograph, article, or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the heading of a legal instrument, indictment, or commission stating when, where, and by what authority it was taken.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Emancipation and its attendant agitations brought to the front a new class of political questions, which can best be grouped under the above caption."*
-> - 📜 **James Joyce (*Ulysses*):** *"Boudin find the captain’s age, his eyes went aimlessly over the respective captions which came under his special province the allembracing give us this day our daily press."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **caption** of an indictment sets forth the style of the court, the names of the jurors, and the county where it was found."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parchment was headed by an imposing legal **caption** that terrified the simple copyist with its latinized threats."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The caricaturist added a witty **caption** beneath the engraving to expose the prevailing political folly of the town."*

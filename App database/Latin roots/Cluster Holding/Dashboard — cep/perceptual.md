@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the act of perceiving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the act of perceiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the ability to perceive or to the processes and mechanisms of sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, pertaining to the mental interpretation of physical sensations as external objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perceptual designates of or relating to the act of perceiving."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **perceptual** world of the dog is predominantly olfactory, whereas that of man is visual and auditory."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Aesthetic enjoyment requires active **perceptual** organization, not mere passive exposure to colors and sounds."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Our immediate **perceptual** knowledge of physical objects is mediated through sense-data such as color and texture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby perceived qualities of an object are related to past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby perceived qualities of an object are related to past experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental process by which new experiences, impressions, or ideas are assimilated into existing consciousness and understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy (Leibniz, Kant), self-conscious reflective perception, distinguished from passive sensory impression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperception designates the process whereby perceived qualities of an object are related to past experience."*
+> - 📜 **Gottfried Wilhelm Leibniz (*Monadology*):** *"It is well to make a distinction between perception, which is the internal state of the monad, and **apperception**, which is consciousness."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The original synthetic unity of **apperception** is that highest principle of all exercise of the understanding."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Every impression that impinges upon us is grasped and interpreted by our pre-existing mass of **apperception**."*

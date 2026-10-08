@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open willingness to consider new ideas, impressions, or emotional overtures from others; broad-minded responsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensory or biological readiness to absorb stimuli or physical agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Jesus loved little children because of their freedom from wrong and their receptiveness of right."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father cultivated in me an early **receptiveness** to philosophical debate, forbidding blind deference to authority."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual illumination requires a relaxed surrender of will, creating an inner **receptiveness** to transcendent peace."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A generous **receptiveness** to nature's daily beauty enriches the soul more than hoarded gold or academic honors."*

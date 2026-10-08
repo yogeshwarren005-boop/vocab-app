@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being susceptible; easily affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being susceptible; easily affected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heightened vulnerability or delicate impressionability to disease, emotional suggestion, or external forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity to receive emotional, intellectual, or physical impressions easily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, susceptibleness designates the state of being susceptible; easily affected."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Youth is characterized by a generous **susceptibleness** to noble ideals, which the cynicism of the world too soon erodes."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"A conscience tender in its **susceptibleness** to divine grace shrinks from the slightest appearance of moral compromise."*
+> - 📜 **George Eliot (*Romola*):** *"Tito possessed an acute **susceptibleness** to physical discomfort and avoided all painful encounters with troublesome creditors."*

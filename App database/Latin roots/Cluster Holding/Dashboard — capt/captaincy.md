@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of captain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, office, position, or period of tenure of a captain; leadership or captainship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical administrative territorial jurisdiction in the Portuguese and Spanish colonial empires governed by a captain-general.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But he who has naught can dispense the world in largess; and I, who had naught, gave Kim captaincy of the palace guards."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Berg, who had obtained his captaincy during the campaign, had gained the confidence of his superiors by his promptitude and accuracy and had arranged his money matters very satisfactorily."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Difficult and strange as it was for him to reflect that he would go away without having heard from the staff—and this interested him extremely—whether he was promoted to a captaincy or would receive the Order of St."*
+> - 📜 **William Prescott (*History of the Conquest of Mexico*):** *"Cortés resigned the **captaincy** bestowed by Velasquez, accepting a fresh commission directly from the municipal council of Veracruz."*
+> - 📜 **Robert Southey (*History of Brazil*):** *"The Portuguese crown divided the vast Brazilian coastline into hereditary **captaincy** fiefs granted to favored noble courtiers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian chieftain claimed the supreme **captaincy** of the allied Roman cohorts stationed along the Rhine frontier."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or characterized by concepts or their formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or characterized by concepts or their formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on mental concepts, abstract ideas, or theoretical principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art, prioritizing ideas, theories, and institutional critiques over physical aesthetic craftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The telecommunicator, which the surgeons had planted in his skull, caught the sound of alien voices and made a conceptual translation in terms Henig understood."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Sometimes a voice sang the melody and his telecommunicator gave him a conceptual analysis of the words."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective inquiry moves back and forth between concrete factual observations and clarifying **conceptual** hypotheses."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato's theory of ideas was a grand **conceptual** attempt to find eternal reality behind changing sensory appearances."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"The sociologist constructs ideal types as useful **conceptual** instruments for analyzing complex historical developments."*

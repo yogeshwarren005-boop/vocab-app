@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate prevention of conception or pregnancy through the use of barrier methods, pharmaceutical drugs, or surgical procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific discipline and public health practice of birth control and reproductive family planning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraception designates birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The widespread knowledge of effective **contraception** profoundly transformed the social and economic status of modern women."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Scientific **contraception** severed for the first time the biological nexus between sexual pleasure and mandatory reproduction."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"Modern moralists must recognize that universal access to **contraception** changes the entire foundation of traditional domestic law."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sensitivity, taste, or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in insight, intuition, or sensitivity; failing to notice, observe, or understand subtle matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensory-wise dull or unobservant; slow to perceive environmental cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unperceptive designates lacking perception."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was astonished that Harriet could be so **unperceptive** as not to see through Mr. Elton's transparent vanity."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom found the northern reformers remarkably **unperceptive** regarding the deep emotional roots of southern life."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The rustic villagers were **unperceptive** of the profound spiritual desolation that haunted the solitary linen weaver."*

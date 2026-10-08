@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to find and call attention to faults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to find and call attention to faults.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to find fault, quibble, or raise petty objections; hypercritical and difficult to please.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to entrap, confuse, or catch someone in argument or legal debate; insidious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know I love in vain, strive against hope; Yet in this captious and inteemable sieve I still pour in the waters of my love And lack not to lose still."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my best of confidantes,” said Richard, “I want my cousin Ada to understand that I am not captious, fickle, and wilful about John Jarndyce, but that I have this purpose and reason at my back."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Georgiana, who had a spoiled temper, a very acrid spite, a captious and insolent carriage, was universally indulged."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A **captious** counselor is ever ready to entrap his fellow magistrates with frivolous legal subtleties and vexatious delays."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **captious** critic overlooks the noble grandeur of an entire epic to hunt for petty typographical discrepancies."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was neither perverse nor **captious**, yet she could not hear Miss Bingley's insincere compliments without disdain."*

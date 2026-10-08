@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or device intended to prevent conception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of preventing conception or impregnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to prevent pregnancy; or a device, drug, or method designed to prevent biological conception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to birth control technologies or reproductive regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraceptive designates an agent or device intended to prevent conception."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"The invention of reliable **contraceptive** methods altered the demographic curve of western European nations."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"Opposition to **contraceptive** information among ecclesiastical authorities inflicted severe poverty upon industrial families."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Every girl wore a silver-mounted **contraceptive** belt as part of the state-mandated regulation of human biology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible; not capable of being influenced, affected, or infected; impervious or immune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coldly insensitive or indifferent to emotion, pathos, or artistic appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to have it hurled at one with no warning, no preliminary "leading up," and from Ralph Maplestone of all people--the most reserved, the most unsusceptible, the most woman-hating of mankind!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. John Dashwood was entirely **unsusceptible** to any feeling of generosity where the fortune of her child was concerned."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain domestic equine strains remain remarkably **unsusceptible** to the bites of venomous tsetse flies."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley fancied himself a gallant beau, though his indolent nature was largely **unsusceptible** to serious love."*

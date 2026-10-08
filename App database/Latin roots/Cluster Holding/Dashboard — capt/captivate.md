@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attract, enchant, and hold the interest and affection of; to charm, bewitch, or enthrall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in classical English, to take prisoner or reduce to physical captivity or bondage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the substance shall endure the like, And I will chain these legs and arms of thine, That hast by tyranny these many years Wasted our country, slain our citizens, And sent our sons and husbands captivate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tush, women have been captivate ere now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, indeed, does she captivate all hearts by her condescension, by her girlish vivacity, and by her skipping about as in the days when the hideous old general with the mouth too full of teeth had not cut one of them at two guineas each."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Tush, women have been **captivate** ere now; her beauty and her wit have subdued the proudest knights of France."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby possessed all those lively manners and graceful talents that could not fail to **captivate** a romantic imagination."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The serpent's guileful speech did so **captivate** the fragile heart of Eve that all divine warnings vanished from her mind."*

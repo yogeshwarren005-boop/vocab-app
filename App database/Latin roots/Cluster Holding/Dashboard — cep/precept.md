@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule of personal conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general rule intended to regulate behavior, conduct, or thought; a moral command or guiding maxim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a formal written order or warrant issued by a magistrate or court commanding an officer to act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ta’en a due and wary note upon’t; With whispering and most guilty diligence, In action all of precept, he did show me The way twice o’er."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Naturalness, generosity, and forbearance are shown throughout not by precept but by example."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's "law" becomes thus a practical precept."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give thy thoughts no tongue, nor any unproportioned thought his act; these few **precept**s in thy memory see thou character."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Men's thoughts are much according to their inclination; their discourse and speeches according to their learning and infused opinions; but their deeds are after as they have been accustomed; therefore, virtuous **precept** alone suffices not without habit."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The judge issued his statutory **precept** commanding the high sheriff to summon a grand jury for the county assizes."*

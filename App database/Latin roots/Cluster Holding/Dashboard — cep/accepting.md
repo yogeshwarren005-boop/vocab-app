@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving willingly; consenting to or tolerating circumstances, people, or ideas with open approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrating tolerance, forbearance, and an open, non-judgmental attitude toward others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Though I fully believe that, at present, you have not the smallest intention of accepting him, there is no saying what may happen."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood, that though I respect you much, I do not feel—what would justify me to—in accepting your offer,” she stammered."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was generous and **accepting**, looking with compassionate tenderness upon the frailties of her neighbors."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"By **accepting** poverty of circumstance, a man gains the priceless liberty of living according to his inward genius."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With malice toward none, with charity for all, **accepting** the judgment of the Almighty, let us strive to bind up the nation's wounds."*

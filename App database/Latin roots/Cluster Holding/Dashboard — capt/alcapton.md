@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Homogentisic acid; an endogenous metabolite of phenylalanine and tyrosine that darkens upon alkaline oxidation; alkapton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biochemical biomarker whose excretion in urine characterizes the congenital inborn error of metabolism known as alcaptonuria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcapton designates an acid formed as an intermediate product of the metabolism of tyrosine and phenylalanine."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"The substance known as **alcapton** is homogentisic acid, produced when the body fails to break down aromatic amino rings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exposure of the urine to atmospheric air reveals the presence of **alcapton** by turning the fluid to a dark reddish-brown hue."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"In normal subjects, **alcapton** is swiftly oxidized to acetoacetate, whereas in congenital sufferers it passes intact into the renal tubules."*

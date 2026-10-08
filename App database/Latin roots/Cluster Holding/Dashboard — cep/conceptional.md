@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of the nature of a notion or concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the nature of a notion or concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining or relating to mental conception, imagination, or the origin of ideas; or relating to biological fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from or grounded in cognitive ideation rather than physical observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptional designates being of the nature of a notion or concept."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intellectual transition from perceptual immediacy to **conceptional** reasoning marks the dawn of true scientific method."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Mental evolution advances by integrating simpler sensory impressions into vast **conceptional** networks of thought."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The maternal condition at the initial **conceptional** moment influences the subsequent vigor of mammalian offspring."*

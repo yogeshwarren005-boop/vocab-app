@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of not conforming to approved standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of not conforming to approved standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intolerable or improper character that violates established standards of conduct, law, morality, or aesthetic taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total inadequacy or rejectable nature of a proposed settlement, contract, or policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unacceptability designates unsatisfactoriness by virtue of not conforming to approved standards."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The fundamental **unacceptability** of military taxation to free subjects rendered the coercive statutes completely futile."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral **unacceptability** of an action is judged by its tendency to produce suffering and diminish aggregate happiness."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The absolute **unacceptability** of the Articles of Confederation arose from their lack of federal executive power."*

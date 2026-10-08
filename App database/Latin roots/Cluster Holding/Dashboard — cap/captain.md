@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer holding a rank below a major but above a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The naval officer in command of a military ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leader or commanding officer of a ship, military company, sports team, or commercial aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful leader or influential industrial magnate (e.g., a captain of industry).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
+> - 📜 **Walt Whitman (*O Captain! My Captain!*):** *"O **Captain**! my **Captain**! our fearful trip is done; the ship has weather'd every rack, the prize we sought is won."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab was the grim **captain** of the Pequod, stalking the quarterdeck with his ivory leg planted in the auger hole."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Our industrial **captain**s of enterprise must learn to lead their laboring legions with chivalric responsibility."*

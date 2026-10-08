@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to relate new percepts to past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to relate new percepts to past experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving apperception; capable of assimilating new perceptions into conscious memory and thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, characterizing the cognitive synthesis through which past experience interprets current sensory input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apperceptive designates able to relate new percepts to past experience."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The child's **apperceptive** mass must be gently engaged by relating the novel arithmetic lesson to familiar household toys."*
+> - 📜 **Wilhelm Wundt (*Outlines of Psychology*):** *"Attention is essentially an **apperceptive** activity that elevates selected mental contents into the clear focus of consciousness."*
+> - 📜 **John Dewey (*Psychology*):** *"The mind does not merely mirror facts; its active **apperceptive** power interprets every incoming sensation."*

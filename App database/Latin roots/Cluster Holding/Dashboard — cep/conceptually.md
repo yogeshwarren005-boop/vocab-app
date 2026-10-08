@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conceptual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conceptual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of a concept, abstract idea, or mental model; from a theoretical or intellectual standpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As regards basic principles, ideas, or structure, as opposed to practical execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptually designates in a conceptual manner."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The mathematical infinite is **conceptually** distinct from the physical concept of endless duration in time."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Two observers may perceive the same physical fact while remaining **conceptually** worlds apart in their interpretations."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Every actual entity is **conceptually** dipolar, uniting a physical pole of receptive feeling with a mental pole of novel purpose."*

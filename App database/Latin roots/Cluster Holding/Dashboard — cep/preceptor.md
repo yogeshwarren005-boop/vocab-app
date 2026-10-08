@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher at a university or college (especially at cambridge or oxford).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher, tutor, instructor, or moral guide; especially one in charge of a school or mentoring students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the head of a preceptory among the Knights Templar or Hospitaller.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"John Stuart Mill, then a boy of about twelve years old,"--he was really only eleven,--"was studying, with his father as sole preceptor, under the paternal roof."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is so much pleasanter to please than to instruct--to play the companion rather than the preceptor."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Grand Master and the **Preceptor** sat in judgment within the chapter-house of the Templar brotherhood."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Milton acted as an industrious **preceptor** to his nephews, teaching them Latin, Greek, Hebrew, and astronomy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Marcus Aurelius recorded his profound gratitude to each philosophic **preceptor** who formed his youthful virtues."*

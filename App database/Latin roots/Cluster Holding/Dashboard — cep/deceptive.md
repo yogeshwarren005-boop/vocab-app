@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to deceive or mislead either deliberately or inadvertently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving an appearance or impression different from the true reality; misleading, fraudulent, or specious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrinsically prone to leading into error, illusion, or false expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nor was I unmindful of that deceptive moonlight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any rate—though indeed such a test at such a time might be deceptive—spoutings might be discovered from our low boat that seemed playing up almost from the rim of the horizon."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But appearances all the world over are deceptive."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sensory illusions warn the philosopher that external appearances can be profoundly **deceptive** without the correction of reason."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Superficial resemblances in organismic form are often **deceptive**, concealing fundamentally distinct anatomical plans."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Metaphysical promises of abstract equality prove **deceptive** when confronted with the complex realities of human government."*

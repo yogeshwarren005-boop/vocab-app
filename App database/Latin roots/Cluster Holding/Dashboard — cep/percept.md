@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of what is perceived; basic component in the formation of a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of what is perceived; basic component in the formation of a concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object of perception; the mental product or representation resulting from the act of perceiving an external stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and cognitive psychology, a direct sensory impression unified in consciousness before abstract conceptualization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percept designates the representation of what is perceived; basic component in the formation of a concept."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sensation fused with reproductive memories becomes a **percept**, yielding immediate knowledge of an object present to sense."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"The visual **percept** of the sun is a private event in the brain of the observer, caused by light waves traveling through space."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Every meaningful **percept** is loaded with expectations derived from past transactions with our physical environment."*

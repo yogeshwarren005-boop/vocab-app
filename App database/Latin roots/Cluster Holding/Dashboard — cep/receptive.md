@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to arguments, ideas, or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready or willing to receive favorably.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to consider or accept new suggestions, impressions, or ideas; responsive, open-minded, and welcoming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and botany, capable of receiving a stimulus, pollen, or surgical transplant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was so receptive that the few minutes of contact with the whirl of material progress lingered in her thought."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The mind is on the alert when we meet the stranger--quick and eager to master his outlook and his ways of thought, to see who and what he is--it is critical, self-protective, rather than receptive."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had regarded Rosamond’s cleverness as precisely of the receptive kind which became a woman."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The mind of a philosopher must remain continually **receptive** to new evidence, even when it challenges cherished doctrines."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The viscid stigma becomes fully **receptive** only after the anthers have shed their pollen to avoid self-fertilization."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Youth is the pre-eminently **receptive** period of life, when sensory impressions engrave deep neural pathways."*

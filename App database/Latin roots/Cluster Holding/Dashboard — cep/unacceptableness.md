@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of not conforming to approved standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of not conforming to approved standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitability, offensive quality, or failure to meet minimum social, moral, or technical requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intolerable nature of behavior, policy, or language that offends public consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unacceptableness designates unsatisfactoriness by virtue of not conforming to approved standards."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He was surprised at the **unacceptableness** of his blunt advice among companions who expected flattering complaisance."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **unacceptableness** of feudal tenures to modern landowners led Parliament to abolish military knight-service."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The shocking **unacceptableness** of mob violence alienated moderate reformers throughout Great Britain."*

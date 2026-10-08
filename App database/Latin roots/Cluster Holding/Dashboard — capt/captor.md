@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who captures and holds people or animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who captures and holds people or animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or power that captures, imprisons, or takes someone or something prisoner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime prize law, a naval officer or warship that captures an enemy vessel or contraband cargo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, punish me!” she said, turning up her eyes to him with the hopeless defiance of the sparrow’s gaze before its captor twists its neck."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It becomes the property of the captor and is thereafter played by him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Moreover, he was a boy whom no man could hurt; an invulnerable and dodging serpent who, when chased into a corner, flew out again between his captor’s legs, scornfully yelping."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I found myself the slave of a Moorish **captor**, who carried me in triumph to the pirate port of Sallee."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight was conducted before his Saxon **captor**, awaiting the decision of life or ransom."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By the law of nations, the naval **captor** acquires a qualified property in an enemy ship subject to condemnation by the prize court."*

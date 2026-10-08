@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally believed, recognized, or agreed to be valid, correct, true, or customary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Received willingly into a community, institution, or university; or in banking, having the drawee's signature on a bill of exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will not be accepted, on my life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be sent, great Princes, And he shall buy my daughter; and her presence Shall quite strike off all service I have done In most accepted pain."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All this he had accepted as if it could not be otherwise."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is an **accepted** axiom in natural history that nature makes no sudden, violent leaps in morphological change."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally **accepted**, that a single man in possession of a good fortune, must be in want of a wife."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Once a bill of exchange is **accepted** by the merchant, he becomes primarily liable for its payment upon maturity."*

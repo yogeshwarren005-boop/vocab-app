@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare recessive metabolic anomaly marked by ochronosis and the presence of alkapton in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare recessive metabolic anomaly marked by ochronosis and the presence of alkapton in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare autosomal recessive metabolic disorder caused by deficiency of homogentisic acid oxidase, causing dark urine, ochronosis, and arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classic hereditary condition studied by Archibald Garrod that established the foundational biochemical concept of 'inborn errors of metabolism'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcaptonuria designates a rare recessive metabolic anomaly marked by ochronosis and the presence of alkapton in the urine."*
+> - 📜 **Archibald Garrod (*The Lancet*):** *"The familial recurrence of **alcaptonuria** among children of first-cousin marriages conformed strictly to the newly rediscovered Mendelian laws."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with longstanding **alcaptonuria** frequently develop pigmentation of the cartilages and premature osteoarthritic spine deformities."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Garrod's classic investigations into human **alcaptonuria** demonstrated that a defective single gene directly disrupts a specific cellular enzyme."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take exception to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from being included or considered or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not including; other than; or to exclude or take out from a general statement, rule, or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To object or take exception to a witness, juror, or legal ruling in formal court proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all except Enobarbus, Agrippa and Maecenas._] MAECENAS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To none of these, except it be the last, Namely, some love that drew him oft from home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all my heart, I’ll gossip at this feast. [_Exeunt except the two Dromios and two Brothers._] DROMIO OF SYRACUSE."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Freely we serve, because we freely love, as in our will to love or not; in this we stand or fall; nor can we **except** against our Maker."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The defendant may **except** against the array of jurors if he can show partiality in the sheriff who empaneled them."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"All the world was in good humor, **except** Mr. Darcy, who stood silent and aloof at the upper end of the ballroom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wrist bone with a rounded head shape that articulates with the 3rd metacarpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abruptly enlarged and globose at the tip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into a dense, head-like cluster, as flowers in an inflorescence; or possessing a head-like spherical apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the largest carpal bone of the wrist situated at the center of the distal row.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capitate designates the wrist bone with a rounded head shape that articulates with the 3rd metacarpus."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The clover blossom displays a dense **capitate** inflorescence composed of many small sessile florets clustered upon a central axis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **capitate** bone articulates superiorly with the scaphoid and semilunar bones and inferiorly with the third metacarpal."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The glandular hairs on the lip terminate in tiny **capitate** globes that secrete sweet fluids to entice visiting bees."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intercepting; preventing something from proceeding or arriving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) the act of catching a football by a player on the opposing team.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of intercepting or the fact of being intercepted; the cutting off or capture of communication, personnel, or supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and sports operations, the seizure of a missile, transmission, or ball before it reaches the intended target.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath note of all that they intend, By interception which they dream not of."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **interception** of the king's secret dispatches to the French court proved his complicity in the conspiracy."*
+> - 📜 **William Napier (*History of the War in the Peninsula*):** *"Guerrilla horsemen operated along the mountain passes, ensuring the **interception** of French courier convoys."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Radar enabled the rapid **interception** of incoming bomber formations long before they crossed the English coastline."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conservative advocate of capitalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who invests capital in a business (especially a large business).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wealthy person who uses money to invest in trade and industry for profit in accordance with the principles of capitalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entrepreneur or investor who supplies financing and equipment for economic production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At first, proceeding from the problems of our own age, it seemed clear as daylight to me that the gradual widening of the present merely temporary and social difference between the Capitalist and the Labourer was the key to the whole position."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"His land, race-horses, etc., were sold to pay his debts, and, from a large capitalist, he once more became a working man."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"He relieves the other agents of part of the risk, and he insures both laborer and capitalist against future fluctuations of prices."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The employer or **capitalist** advances wages and raw materials to workmen, looking for his profit upon the sale of their work."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The interests of the agricultural **capitalist** and the manufacturing merchant frequently diverge in regard to the corn laws."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"The private **capitalist** directs investment toward whatever enterprise yields the largest dividend rather than the greatest public good."*

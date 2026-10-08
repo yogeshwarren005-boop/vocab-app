@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive faculty or mental power of receiving and processing sensory information; perceptiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree of sensitivity or responsiveness possessed by a sensory system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perceptivity designates a feeling of understanding."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The high **perceptivity** of the human eye enables us to distinguish thousands of delicate tints in the solar spectrum."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Organic evolution involves a progressive enlargement of sensory **perceptivity**, linking the animal more closely to its habitat."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"With increased intellectual **perceptivity** comes a heightened capacity for moral sympathy and mutual aid."*

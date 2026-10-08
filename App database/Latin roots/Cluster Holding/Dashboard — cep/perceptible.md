@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived by the mind or senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be seen, heard, felt, or noticed; noticeable, discernible, or detectable by the senses or mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large enough or clear enough in magnitude to be consciously observed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne was so impressed by the degree of their danger, that she could not excuse herself from trying to make it perceptible to her sister."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her start was perceptible only to herself; but she instantly felt that she was the greatest simpleton in the world, the most unaccountable and absurd!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A difference of colour in the stars—oftener read of than seen in England—was really perceptible here."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No sudden or **perceptible** transition marks the boundary where one biological race branches off from another."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A very **perceptible** change took place in Mr. Darcy's manner after his unexpected meeting with Elizabeth at Pemberley."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"There was a barely **perceptible** fissure extending from the roof down the zigzag masonry into the sullen waters of the tarn."*

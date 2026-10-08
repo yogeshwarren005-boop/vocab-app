@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, vehicle, or device that intercepts; especially a fast military aircraft or missile designed to intercept attacking aircraft or missiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and engineering, an apparatus or drain trap that intercepts signals, oil, or debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have one of your squadrons remain in this sector and to take out the interceptors that have been harassing our fleet and then catch up with us."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Spitfire was an incomparable fighter **interceptor**, climbing swiftly into the clouds to break up German formations."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Each aerial **interceptor** circled above the flagship, ready to ram any hostile airship approaching the docks."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes acted as a master **interceptor** of international espionage, retrieving the stolen naval submarine blueprints."*

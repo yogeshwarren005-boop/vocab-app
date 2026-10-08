@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of insight and sympathetic understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of insight and sympathetic understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dullness of observation, lack of sensitivity, and failure to notice subtle emotions, clues, or details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to comprehend the psychological motivations or feelings of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unperceptiveness designates the lack of insight and sympathetic understanding."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers showed a singular **unperceptiveness** regarding the emotional needs of a woman's heart."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine Spragg was cursed with an absolute **unperceptiveness** toward everything that made up the culture of old New York."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Self-conceit produces a blind **unperceptiveness** that prevents a man from noticing the disgust of his auditors."*

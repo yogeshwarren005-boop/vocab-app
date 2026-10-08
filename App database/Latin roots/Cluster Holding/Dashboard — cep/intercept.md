@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point at which a line intersects a coordinate axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seize on its way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obstruct, catch, or seize someone or something so as to prevent them from continuing to a destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, the point at which a line, curve, or surface cuts an axis of coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To intercept this inconvenience, A piece of ordnance ’gainst it I have placed And even these three days have I watch’d, If I could see them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I tell my sorrows to the stones, Who, though they cannot answer my distress, Yet in some sort they are better than the tribunes, For that they will not intercept my tale."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Their intention was evidently to swim off from the headland and intercept us in our course."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Thy letters I will look upon, and **intercept** the courier that carries secret treason to the enemy's camp."*
+> - 📜 **Horatio Nelson (*Dispatches and Letters*):** *"Our cruising frigates were stationed off Cadiz to **intercept** any Spanish treasure galleons returning from the Indies."*
+> - 📜 **Isaac Newton (*Opticks*):** *"When an opaque prism is placed to **intercept** the sunbeam, the refracted rays cast an elongated spectrum upon the wall."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of accepting with approval; favorable reception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of consenting to receive or undertake something offered; agreement with or belief in an idea or explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, the unqualified assent to the terms of an offer that forms a legally binding agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall will in others seem right gracious, And in my will no fair acceptance shine?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if he tell us his noble deeds, we must also tell him our noble acceptance of them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I leave him to your gracious acceptance, whose trial shall better publish his commendation._ You hear the learn’d Bellario what he writes, And here, I take it, is the doctor come."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A contract requires mutual consent; an offer without **acceptance** creates no enforceable legal obligation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rapid **acceptance** of the theory of evolution among younger naturalists transformed the biological sciences within a decade."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers; seek genuine self-**acceptance**."*

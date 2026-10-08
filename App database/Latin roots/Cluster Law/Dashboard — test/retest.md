@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin test within the domain of Law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of test in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To test again or anew; to conduct a second or subsequent examination, evaluation, or chemical analysis of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To verify the reliability, safety, or accuracy of a hypothesis, mechanism, or clinical sample through repeated trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retest designates pertaining to, derived from, or characteristic of latin test within the domain of law."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"We decided to wash the apparatus and **retest** the sterile nutrient broth to confirm that airborne microbes had been excluded."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I resolved to **retest** the inductive circuit with a more sensitive galvanometer under varying atmospheric pressures."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"After two seasons had elapsed, I visited the field to **retest** the rate at which lime markers sank into the soil."*

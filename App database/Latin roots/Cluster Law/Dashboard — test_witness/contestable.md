@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being contested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being contested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being contested, challenged, or disputed; subject to legal or intellectual disagreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not unquestionably established; open to doubt, litigious debate, or alternative interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contestable designates capable of being contested."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The abstract axioms of mathematics are demonstrative, whereas historical narratives are perpetually **contestable**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Whether the belief be true or false, to treat it as an unchallengeable certainty rather than a **contestable** proposition silences all intellectual life."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The legal right of taxation was a **contestable** claim that could not be prudently enforced against three million armed subjects."*

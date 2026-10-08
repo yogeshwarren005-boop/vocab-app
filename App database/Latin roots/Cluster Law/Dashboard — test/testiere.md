@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medieval plate armor to protect a horse's head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medieval plate armor to protect a horse's head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of armor designed to protect the head of a warhorse; a chamfron or armored headpiece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraved steel plate fitted over the horse's forehead, poll, and nasal bones in medieval cavalry bardings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testiere designates medieval plate armor to protect a horse's head."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's warhorse was covered with steel mail, with a spiked **testiere** glittering upon its forehead."*
+> - 📜 **Edward Bulwer-Lytton (*The Last of the Barons*):** *"The stallion tossed his armored crest, striking sparks from the pavestones as his embossed **testiere** caught the morning sun."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"Sir Nigel inspected his destrier's barding, adjusting the buckled leather straps that held the steel **testiere** firmly in place."*

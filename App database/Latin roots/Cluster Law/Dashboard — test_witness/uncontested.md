@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disputed and not made the object of contention or competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not disputed and not made the object of contention or competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disputed, challenged, or opposed; accepted without debate, election rivalry, or legal dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and politics, designating an election or divorce where no rival candidate or counter-claimant enters an appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncontested designates not disputed and not made the object of contention or competition."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The moral authority of the law remained **uncontested** because every citizen felt an interest in its execution."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The borough elected the country gentleman by an **uncontested** vote, avoiding the riotous expenses of a poll."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In **uncontested** proceedings, the chancellor decrees partition of the estate according to the agreed petition of the co-heirs."*

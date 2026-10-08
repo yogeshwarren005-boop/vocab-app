@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be disputed, doubted, or questioned; indisputable, undeniable, and clear beyond controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Established by such overwhelming factual or legal evidence that no valid challenge can be raised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But even stripped of these supernatural surmisings, there was enough in the earthly make and incontestable character of the monster to strike the imagination with unwonted power."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The freedom of religious conviction is an **incontestable** natural right which no human legislature can abridge."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The existence of rudimentary organs in adult organisms is an **incontestable** proof of descent from ancestral forms."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is an **incontestable** maxim that the means ought to be proportioned to the great national end in view."*

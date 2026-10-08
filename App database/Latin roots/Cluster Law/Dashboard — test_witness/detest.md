@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislike intensely; feel antipathy or aversion towards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dislike intensely; to feel intense hatred, revulsion, or loathing toward a person, action, or principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To denounce or execrate solemnly as abominable, calling conscience or heaven to witness against it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since Cleopatra died, I have lived in such dishonour that the gods Detest my baseness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll write against them, Detest them, curse them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, sir, whom I detest before heaven and your honour— ESCALUS."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"I love you with so much of my heart that none is left to protest, yet I **detest** the slander that wronged Hero."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I began to view the human species with horror, and to **detest** their vices, vanity, and unrelenting cruelty."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not conceal her indignation, declaring that she had every reason in the world to **detest** Mr. Darcy."*

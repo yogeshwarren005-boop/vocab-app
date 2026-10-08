@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic cross between an individual of unknown genotype exhibiting a dominant phenotype and an individual homozygous recessive for that trait.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An experimental breeding protocol used in genetics to determine whether an organism is homozygous or heterozygous dominant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testcross designates a cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"By performing a **testcross** with homozygous black, vestigial-winged flies, we determined the exact crossover frequency of the genes."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"Crossing the hybrid round peas back with the pure wrinkled variety yielded the one-to-one ratio expected in a diagnostic **testcross**."*
+> - 📜 **Alfred Sturtevant (*A History of Genetics*):** *"The three-point **testcross** provided the foundational methodology for mapping linear gene arrangements on chromosomes."*

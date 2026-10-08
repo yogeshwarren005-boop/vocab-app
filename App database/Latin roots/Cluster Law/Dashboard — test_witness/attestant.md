@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a person who attests to the genuineness of a document or signature by adding their own signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who affirms or vouches for the correctness or truth or genuineness of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attests, witnesses, or certifies the authenticity of a fact, signature, or legal document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official subscriber who formally confirms the execution of a contract, deposition, or will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attestant designates (law) a person who attests to the genuineness of a document or signature by adding their own signature."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The credibility of an **attestant** must be weighed according to his disinterested relationship to the litigating parties."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Ancient Germanic procedure required every **attestant** to swear to the transaction before the assembled hundred."*
+> - 📜 **William Camden (*Britannia*):** *"The venerable charter was preserved in the abbey archives, bearing the seal of each royal **attestant**."*

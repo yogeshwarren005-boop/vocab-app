@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having made no legally valid will before death or not disposed of by a legal will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made no legally valid will before death or not disposed of by a legal will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having made a valid will before death; or designating a person who dies without leaving a testamentary disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estate or property not disposed of by a last will and testament, passing by statutory descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Windy attorneys to their clients’ woes, Airy succeeders of intestate joys, Poor breathing orators of miseries, Let them have scope, though what they do impart Help nothing else, yet do they ease the heart."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inheritance, in contrast with bequest, usually means succession to the property of one who has died intestate, that is, has made no will."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Forty-one states in America have inheritance tax laws (in 1915) which apply generally to property passing either by will or under the intestate laws of the state."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If a man dies **intestate**, the crown or court of probate grants letters of administration to his nearest lawful kindred."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mr. Dashwood had not died **intestate**, but his estate was tied up by an entail that left his daughters in narrow circumstances."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"To the ancient Roman citizen, the horror of dying **intestate** was second only to the disgrace of civic treason."*

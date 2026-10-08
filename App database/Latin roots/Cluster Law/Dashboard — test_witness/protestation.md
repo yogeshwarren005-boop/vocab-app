@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong declaration of protest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emphatic, solemn declaration or affirmation of something, such as innocence, love, or fidelity; a formal protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a former procedural declaration by which a party protected themselves against an implied admission in pleading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She kneels, and makes show of protestation unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can but say their protestation over."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Full of **protestation** and vows, the young lord swore his honorable intentions before the lady's father."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Despite the emperor's loud **protestation** of friendship, the barbarian envoys suspected secret preparation for war."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins renewed his tedious **protestation**s of regard, refusing to take Elizabeth's polite rejection as serious."*

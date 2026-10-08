@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of bearing witness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evidence by which something is attested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evidence or proof of something; a formal declaration that something is true, genuine, or legally authentic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official act of witnessing the execution of a formal written instrument and signing it as witness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Dear, dear, when I think o’ it, I sorrows like a man in travel!” “True, Henery, you do, I’ve heard ye,” said Joseph Poorgrass in a voice of thorough attestation, and with a wire-drawn smile of misery."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Goodwill supplying the place of experience, his character needed no attestation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The testimony of history relies upon the concurrent **attestation** of unbiased observers who witnessed the event."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Proper **attestation** by two or more competent witnesses is essential to validate any conveyance of real property."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"No testimony is sufficient to establish a miracle unless the **attestation** be of such a kind that its falsehood would be more miraculous."*

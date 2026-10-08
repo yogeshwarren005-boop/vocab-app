@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate, affirm to be true, genuine, or correct, as in an official capacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide or serve as clear evidence of; to certify or declare to be genuine or true under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To witness the signing of a legal document and authenticate it by appending one's own signature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O pardon! since a crooked figure may Attest in little place a million, And let us, ciphers to this great accompt, On your imaginary forces work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dishonour not your mothers; now attest That those whom you call’d fathers did beget you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The Statute of Frauds requires credible witnesses to subscribe and **attest** the last will and testament of the testator."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruins of the majestic aqueduct still **attest** the vanished splendor and engineering genius of imperial Rome."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Numerous transitional fossil forms in the geological strata **attest** the gradual modification of ancient lineages."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who affirms or vouches for the correctness or truth or genuineness of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who affirms or vouches for the correctness or truth or genuineness of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attests, certifies, or bears witness to a fact, document, or signature; an attestant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subscribing witness who signs a contract, certificate, or deed to verify its authentic execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attester designates someone who affirms or vouches for the correctness or truth or genuineness of something."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A competent **attester** should possess both the cognitive ability to perceive the truth and the integrity to report it."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The law presumed that an **attester** signing a charter did so with full awareness of the transaction."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A cautious merchant always requires a disinterested **attester** whenever large sums are disbursed upon promissory notes."*

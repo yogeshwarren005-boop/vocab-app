@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving the testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving the testes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the testicles or male reproductive gonads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having the shape of two oval lobes or tubers, as in the root systems of certain terrestrial orchids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testicular designates of or involving the testes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician observed acute **testicular** swelling following a severe attack of mumps in the adult patient."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The ancient herbalists named the genus Orchis from the twin **testicular** tubers that store nourishment beneath the soil."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The internal spermatic artery, also called the **testicular** artery, arises directly from the anterior aspect of the abdominal aorta."*

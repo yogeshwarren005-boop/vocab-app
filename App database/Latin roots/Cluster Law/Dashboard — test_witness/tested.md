@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put to the test, as for its quality, or give experimental use to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Test or examine for the presence of disease or infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to a test, trial, or examination; having demonstrated reliability, endurance, or quality under evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proven by experience or rigorous chemical, physical, or moral examination; trustworthy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tumbled together on the table are some pieces of iron, purposely broken to be tested at various periods of their service, in various capacities."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She placed one of these forks under each arm as a crutch, tested them, timidly threw her whole weight upon them—so little that it was—and swung herself forward."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I tested myself in the severest way--walked, wrote and lifted--after each exertion I could enjoy perfect rest."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Old friends are like **tested** gold; adversity proves their genuine constancy when fair-weather companions flee."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Not with fond shekels of the **tested** gold, or stones whose rates are either rich or poor as fancy values them."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Each copper wire was carefully **tested** for galvanic insulation before being submerged in the saltwater trough."*

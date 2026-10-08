@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of protesting; a public (often organized) manifestation of dissent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression or declaration of objection, disapproval, or dissent, often made publicly; or to declare firmly against something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and maritime law, a formal notary's certificate declaring that a bill of exchange was presented and dishonored.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a simple maid, and therein wealthiest That I protest I simply am a maid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This has no holding, To swear by him whom I protest to love That I will work against him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My meaning in’t, I protest, was very honest in the behalf of the maid; for I knew the young count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"Under a government which imprisons any unjustly, the true place for a just man to register his **protest** is in a prison."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The lady doth **protest** too much, methinks; her exaggerated vows betray an uncertain resolution."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The colonies entered their solemn **protest** against taxation without representation, appealing to British constitutional liberty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tortoises and turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tortoises and turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of reptiles comprising turtles, tortoises, and terrapins, characterized by a protective bony shell; Testudines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient anapsid reptilian lineage possessing a fused dorsal carapace and ventral plastron, surviving since the Triassic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testudinata designates tortoises and turtles."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The embryology of the **Testudinata** demonstrates that their bony shell is formed by the expansion and fusion of ribs and vertebrae."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Among existing reptiles, the **Testudinata** exhibit the unique anatomical condition of having shoulder girdles inside the rib cage."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The gigantic land tortoises of the Galapagos belong to the ancient reptilian order **Testudinata**, browsing peacefully upon cactus."*

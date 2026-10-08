@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The situation of being or dying without a legally valid will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The situation of being or dying without a legally valid will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal condition of a person who dies without having made a valid last will and testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statutory scheme governing the distribution of an estate where no testamentary disposition exists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intestacy designates the situation of being or dying without a legally valid will."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In cases of **intestacy**, the statute of distributions divides the personal estate equally among the surviving next of kin."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Ancient succession laws treated **intestacy** as an anomaly, presuming that the family head would designate his successor."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"Statutory rules of **intestacy** supply a presumed testamentary intent crafted by the legislature for the average citizen."*

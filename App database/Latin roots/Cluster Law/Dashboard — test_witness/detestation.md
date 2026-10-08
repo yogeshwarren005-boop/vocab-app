@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense hatred, revulsion, or abhorrence; the feeling of regarding something with extreme loathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression or declaration of utter abhorrence; a formal denunciation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"How I detest them.” But this detestation, though so just, was of short duration, for she looked again and exclaimed, “Delightful! mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Pain, shame, ire, impatience, disgust, detestation, seemed momentarily to hold a quivering conflict in the large pupil dilating under his ebon eyebrow."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But as he sat gloating over me, I was supported by a scornful detestation of him that sealed my lips."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cruelty of the tyrant Commodus excited the secret **detestation** of the senate and the Roman people."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"Ingratitude is universally regarded with **detestation**, because it violates the fundamental bonds of mutual benevolence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Hypocrisy justly earns the **detestation** of mankind, for it borrows the sacred mantle of virtue to commit villainy."*

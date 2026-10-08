@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land tortoises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land tortoises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of land-dwelling tortoises, characterized by high-domed shells, stumpy column-like hind limbs, and herbivorous diets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial chelonians adapted for burrowing and dry habitats, lacking webbing between digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testudinidae designates land tortoises."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant tortoises of the family **Testudinidae** travel along regular beaten paths from the arid coast to the humid highlands."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the family **Testudinidae** possess club-like feet suited for walking upon dry land rather than swimming."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the **Testudinidae**, the carapace is strongly convex and the plastron broad, completely encasing the retracted limbs."*

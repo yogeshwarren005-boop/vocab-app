@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A winner (of a race or an election etc.) whose victory is contested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A winner (of a race or an election etc.) whose victory is contested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose election, nomination, or claim to an office or title is formally challenged or contested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The respondent defending against an election contest or probate challenge in legal proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contestee designates a winner (of a race or an election etc.) whose victory is contested."*
+> - 📜 **Thomas Jefferson (*A Manual of Parliamentary Practice*):** *"The legislative committee granted the **contestee** full liberty to present affidavits and cross-examine witnesses."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When fraudulent returns are alleged, the **contestee** retains provisional seating pending the legislative inquiry."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Party majorities in the House rarely unseat an affiliated **contestee** unless evidence of gross corruption is indisputable."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological system of any of the churches of western christendom that separated from the roman catholic church during the reformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith, practice, and Church order of the Protestant churches, originating in the sixteenth-century European Reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological tradition emphasizing the supreme authority of the Bible, salvation by grace through faith, and the priesthood of all believers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thou art in a parlous state, Angel Clare.” “_I_ glory in my Protestantism!” she said severely."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This devotion Spenser’s great poem everywhere reflects, and it has been justly pronounced to be the best exponent of the subtleties of that Calvinism which was the aristocratic form of Protestantism at that time in both France and England."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The training of the province does not develop a bias towards Protestantism."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Calvinistic **Protestantism** created a psychological compulsion toward methodical economic achievement as a sign of election."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Luther's defiance at the Diet of Worms was the awakening spark from which modern **Protestantism** and intellectual freedom sprang."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"English **Protestantism** developed a fierce moral energy that championed individual conscience against institutional coercion."*

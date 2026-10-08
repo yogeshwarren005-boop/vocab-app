@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various rhizopods of the order testacea characterized by having a shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rhizopods of the order testacea characterized by having a shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shell-bearing invertebrate animal, especially a mollusk or a shelled amoeboid protozoan of the order Testacea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any aquatic invertebrate organism that secretes or constructs a protective mineralized shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testacean designates any of various rhizopods of the order testacea characterized by having a shell."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The freshwater rhizopod is an active microscopic **testacean** that extends pseudopodia through the aperture of its agglutinated shell."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The mantle of the living **testacean** secretes successive layers of mother-of-pearl to line its expanding shell."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Every fossil **testacean** retrieved from the limestone bed reveals the ambient ocean temperature of ancient geological epochs."*

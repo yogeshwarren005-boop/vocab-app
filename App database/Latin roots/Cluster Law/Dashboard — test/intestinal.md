@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or inside the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or inside the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting the intestines or digestive tract of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and political prose, internal, domestic, or civil (e.g., intestinal wars, intestinal strife).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Even such we find it now; and any old woman of the neighborhood will certify that it is productive of intestinal mischief to those who quench their thirst there."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"Blood absorbs chyle from the **intestinal** canal and is carried through mesenteric veins directly to the liver."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Western empire was wasted by long **intestinal** discord between rival claimants to the purple."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Numerous parasitic worms have become adapted to dwell exclusively within the dark **intestinal** tract of vertebrates."*

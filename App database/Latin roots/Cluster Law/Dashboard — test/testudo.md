@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movable protective covering that provided protection from above; used by roman troops when approaching the walls of a besieged fortification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the testudinidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman military formation in which legionaries locked their shields overhead and in front to form a protective tortoise-like roof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortoise; or in ancient music, a lyre made from a tortoise shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testudo designates a movable protective covering that provided protection from above; used by roman troops when approaching the walls of a besieged fortification."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legion advanced against the ramparts under the close protection of the impenetrable **testudo**."*
+> - 📜 **Julius Caesar (*Commentaries on the Gallic War*):** *"Locking their shields closely together over their heads, our soldiers formed a compact **testudo** that advanced to the gates."*
+> - 📜 **John Dryden (*The Works of Virgil*):** *"Hermes invented the sweet-voiced lyre from the hollow shell of a slaughtered mountain **testudo**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tried or tested by experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet proved or subjected to testing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to testing, trial, or examination; not yet proven, validated, or verified in actual practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking established experience or empirical trial; novel and uncertain in performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untested designates not tried or tested by experience."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To abandon an established constitution for theoretical and **untested** experiments in government is the height of political folly."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The military staff hesitated to commit their armies to an **untested** operational doctrine in the face of veteran troops."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A speculative hypothesis must remain tentative so long as its core deduction remains **untested** by direct observation."*

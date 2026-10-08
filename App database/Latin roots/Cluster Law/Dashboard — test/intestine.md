@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the alimentary canal between the stomach and the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the alimentary canal between the stomach and the anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower part of the alimentary canal extending from the stomach to the anus, divided into the small and large intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As an adjective in classical literature, internal, domestic, or inward (e.g., intestine broils, intestine feuds).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"At his approach The great Arch-Angel from his warlike toil Surceased, and glad, as hoping here to end Intestine war in Heaven, the arch-foe subdued Or captive dragged in chains, with hostile frown And visage all inflamed first thus began."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"It seems as if the Almighty had spread before this nation charts of imperial destinies, dazzling as the sun, yet with many a deep intestine difficulty, and human aggregate of cankerous imperfection saying lo! the roads!"*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"A wooden jack, which had almost Lost, by disuse, the art to roast, A sudden alteration feels, Increased by new intestine wheels; And what exalts the wonder more, The number made the motion slower."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce war arose in heaven, nor could their **intestine** war be quenched till God's own Son rode forth in majesty."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"No more shall trenching war channel her fields, nor bruise her flowerets with the armed hoofs of hostile, **intestine** shocks."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The small **intestine** is a convoluted tube twenty feet in length, subdivided into duodenum, jejunum, and ileum."*

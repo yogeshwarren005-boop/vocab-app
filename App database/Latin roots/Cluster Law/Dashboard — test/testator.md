@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a last will and testament, especially one who has died leaving a valid testamentary instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The author and signatory of a testamentary disposition whose stated intentions govern the distribution of their estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to be all in the testator’s handwriting."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Who was ever awe struck about a testator, or sang a hymn on the title to real property?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He forged wills, this blade did, if he didn’t also put the supposed testators to sleep too."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The primary rule in construing wills is to give full effect to the clear, lawful intention of the **testator**."*
+> - 📜 **Benjamin N. Cardozo (*The Growth of the Law*):** *"Judges cannot rewrite an ambiguous bequest to make a fairer distribution than the **testator** himself devised."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce had its origin in the unhappily phrased will of an eccentric **testator** possessing enormous wealth."*

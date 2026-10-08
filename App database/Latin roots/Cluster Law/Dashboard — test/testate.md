@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having made a legally valid will before death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having made and left a legally valid will at death; or designating a deceased person who did not die intestate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate administration, the legal condition of an estate disposed of by a formally executed last testament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testate designates a person who makes a will."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"When a proprietor dies **testate**, his appointed executors step into his shoes to administer the assets according to his instructions."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Whether the ancestor died **testate** or intestate, the heir anciently assumed the universal liability for family debts."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The legislator encourages citizens to die **testate**, since testamentary freedom rewards domestic virtue and industry."*

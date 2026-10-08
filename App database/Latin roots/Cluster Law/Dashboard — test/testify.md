@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give testimony in a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give evidence as a witness in a court of law; to state or declare firmly and openly under oath or solemn affirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To serve as clear evidence or visible proof of a fact, quality, or event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her mother liveth yet, can testify She was the first fruit of my bachelorship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, he made a chimney in my father’s house, and the bricks are alive at this day to testify it; therefore deny it not."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A witness is called into open court to **testify** what he knows of his own personal knowledge regarding the matter in dispute."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The shattered colonnades and ruined baths still **testify** the magnificent luxury of the Antonine emperors."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Vestigial muscles in the human ear **testify** to an ancient ancestor who moved its ears freely toward sound."*

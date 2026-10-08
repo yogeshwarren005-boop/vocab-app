@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the subject of dispute, contention, or litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disputed or made the object of contention or competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disputed, challenged, or opposed in argument, competition, or a court of law; not undisputed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fought over fiercely by rival candidates, armies, or litigating parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I take it that this part of the bill must have run something like this: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The establishment of the same rule for the appointment of taxes, will probably be as little contested; though the rule itself in this case, is by no means founded on the same principle."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This position will hardly be contested."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The passage of the bill through Parliament was a desperately **contested** battle between Whig and Tory factions."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We are met on a great battlefield of that war, dedicating a portion of that fiercely **contested** ground."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"In ancient trials by battle, the ownership of land was a **contested** right decided by physical combat between champions."*

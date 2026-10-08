@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tortoises and turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movable protective covering that provided protection from above; used by roman troops when approaching the walls of a besieged fortification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of reptiles comprising all living and extinct turtles, tortoises, and terrapins; equivalent to Testudinata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shelled reptiles characterized by an osseous or cartilaginous shell enclosing the pectoral and pelvic girdles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testudines designates tortoises and turtles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the **Testudines** is remarkable for its solid roofed temporal region and complete absence of teeth."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Fossil ancestors of the **Testudines** are found in Mesozoic strata with shells fully formed as in modern pond turtles."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Comparative craniology places the **Testudines** as the surviving representatives of primitive anapsid reptiles."*

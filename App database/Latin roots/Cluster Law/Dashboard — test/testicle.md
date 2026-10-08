@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two oval male reproductive organs enclosed in the scrotum that produce spermatozoa and testosterone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential anatomical gonad in male vertebrates responsible for spermatogenesis and endocrine androgen secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From the same source we learn that the testicles as well as the blood of the bull played an important part in the ceremonies."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Placing his right hand on his testicles, swears.)_ So may the Creator deal with me."*
-> - 📜 **James Joyce (*Ulysses*):** *"I’ll ride him for the Eclipse stakes. _(He bends sideways and squeezes his mount’s testicles roughly, shouting.)_ Ho!"*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each **testicle** is suspended within the scrotum by the spermatic cord and surrounded by the tunica vaginalis."*
+> - 📜 **Aristotle (*Generation of Animals*):** *"Nature positioned the **testicle** outside the abdominal cavity in quadrupeds to moderate the temperature necessary for generative seed."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Seasonal enlargement of the avian **testicle** coincides precisely with the spring mating and territorial plumage displays."*

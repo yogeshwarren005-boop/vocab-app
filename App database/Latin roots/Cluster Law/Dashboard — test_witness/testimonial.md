@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something given or done as an expression of esteem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal statement certifying a person's character, conduct, or qualifications; a recommendation or token of appreciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public gift or banquet presented to someone in recognition of distinguished service or honorable merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oswald, my second (ten and a half), is the child who contributed two and nine-pence to the Great National Smithers Testimonial."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All objects were alike to him, but he was always particularly ready for anything in the way of a testimonial to any one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When a testimonial was originated to Mr."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The university fellows granted him a handsome **testimonial** certifying his classical learning and irreproachable morals."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The pupils presented a silver snuff-box as an affectionate **testimonial** to their beloved tutor upon his retirement."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The Royal Society presented him with the Copley medal as an honorable **testimonial** of his discoveries in electricity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A profession of belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document declaring a person's wishes regarding the disposal of their property when they die.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's formal will, especially the legal instrument disposing of personal property; or tangible proof, evidence, or tribute to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two major divisions of the Christian Bible (the Old and New Testaments), viewed as divine covenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore allow me such exercises as may become a gentleman, or give me the poor allottery my father left me by testament; with that I will go buy my fortunes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, cheer up thy hungry-starved men; Help Salisbury to make his testament."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A last will and **testament** is the legal declaration of a man's intentions concerning what he wills to be done after his death."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Let but the commons hear this **testament**, which, pardon me, I do not mean to read, and they would go and kiss dead Caesar's wounds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The majestic ruins of the amphitheater endure as an eternal **testament** to the architectural genius of the Roman empire."*

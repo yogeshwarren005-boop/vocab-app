@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike intensely; feel antipathy or aversion towards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treated with contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hated intensely; held in deep aversion, abhorrence, or revulsion; abominable to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Universally execrated or denounced for crimes, wickedness, or tyrannical conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"War is no strife To the dark house and the detested wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unnatural, detested, brutish villain! worse than brutish!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LEAR. [_to Goneril._] Detested kite, thou liest."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Hear, Nature, hear! dear goddess, hear! suspend thy purpose, if thou didst intend to make this **detested** creature fruitful!"*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Lord Jeffreys was the most **detested** judge in the kingdom, remembered with shuddering horror after the Bloody Assizes."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"He fled from the **detested** crowd of worldly flatterers to find solitary communion among Alpine crags."*

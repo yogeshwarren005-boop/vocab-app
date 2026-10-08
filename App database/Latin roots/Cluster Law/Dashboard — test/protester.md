@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dissents from some established policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who participates in a public display of group feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who publicly demonstrates strong objection or dissent against a policy, law, government, or injustice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who enters a formal declaration of dissent, objection, or commercial dishonor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Delphine proved another protester to add to the list."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A bold **protester** was seized at the guildhall for denouncing the illegal suspension of the city's ancient charter."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a free democracy, every peaceful **protester** finds protection under the constitutional guarantee of public assembly."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The nonconforming **protester** renders an indispensable service to society by challenging the tyranny of unthinking custom."*

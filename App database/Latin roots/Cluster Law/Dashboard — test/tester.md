@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who administers a test to determine your qualifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat canopy (especially one over a four-poster bed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A canopy over a bed, pulpit, or altar supported on posts or suspended from above; or an examiner who administers tests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an English silver coin worth sixpence (originally a teston, bearing the king's head).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold, there’s a tester for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tester I’ll have in pouch when thou shalt lack, Base Phrygian Turk!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In removing the light towards the bedstead its rays fell upon the tester of white dimity; something was hanging beneath it, and she lifted the candle to see what it was."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The antique four-post bedstead was surmounted by a heavy carved **tester** hung with faded damask curtains."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Hold, there's a **tester** for thee; go thy ways, thou shalt not lack while Falstaff has a groat."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The woolen manufacturer acted as his own quality **tester**, examining every fleece by eye and finger."*

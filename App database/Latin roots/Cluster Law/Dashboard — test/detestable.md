@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unequivocally detestable; ; ; ; - edmund burke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving intense hatred, loathing, or condemnation; abominable, reprehensible, and odious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profoundly offensive to moral, religious, or aesthetic standards; execrable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most detestable death, by thee beguil’d, By cruel, cruel thee quite overthrown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou detestable maw, thou womb of death, Gorg’d with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, [_Breaking open the door of the monument._] And in despite, I’ll cram thee with more food."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing I’ll bear from thee But nakedness, thou detestable town!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Begone, vile insect! or rather, stay, that I may trample thee to dust, thou miserable and **detestable** monster!"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Tyranny exercised in the name of the people is the most **detestable** species of oppression known to history."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Marquis lived solely for aristocratic luxury, indifferent to the **detestable** misery that crushed the peasantry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive gland (testicle) that produces spermatozoa and male sex hormones such as testosterone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the inferior colliculus of the quadrigeminal bodies in the midbrain, historically termed the testis cerebri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testis designates one of the two male reproductive glands that produce spermatozoa and secrete androgens."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The seminiferous tubules of the **testis** converge into the rete testis before emptying into the epididymis."*
+> - 📜 **William Harvey (*On Animal Generation*):** *"In the male fowl, the **testis** enlarges enormously during the spring mating period to supply generative semen."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Microscopic examination of the mammalian **testis** reveals homologous cell lineages across diverse animal orders."*

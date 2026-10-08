@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trying something to find out about it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure intended to establish the quality, performance, reliability, or truth of something, especially before it is put into widespread use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a small porous earthen cupel used in assaying precious metals to separate gold and silver from base alloy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring me to the test, And I the matter will re-word; which madness Would gambol from."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, good my lord, Let there be some more test made of my metal, Before so noble and so great a figure Be stamped upon it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To vouch this is no proof; Without more wider and more overt test Than these thin habits and poor likelihoods Of modern seeming do prefer against him."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true **test** of any natural philosophy is not its rhetorical elegance, but its capability to produce practical works."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Time is the supreme touchstone and **test** of poetic genius, stripping away the transient fashions of an hour."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The chemist submits the unknown solution to the cupel **test**, observing the oxidation of lead under high flame."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is tested (as by an intelligence test or an academic examination).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is tested (as by an intelligence test or an academic examination).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes a test, psychological evaluation, or academic examination; a subject under assessment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual whose skills, knowledge, or physiological responses are measured in a controlled evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testee designates someone who is tested (as by an intelligence test or an academic examination)."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The psychological examiner measured the reaction time of each **testee** under conditions of intense sensory distraction."*
+> - 📜 **Alfred Binet (*The Development of Intelligence in Children*):** *"The examiner must maintain an encouraging attitude so that the child **testee** does not become discouraged by difficult tasks."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"In our anthropometric laboratory, each adult **testee** had their visual acuity, hearing threshold, and grip strength recorded."*

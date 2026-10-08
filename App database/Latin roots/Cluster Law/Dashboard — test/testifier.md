@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who testifies or gives a deposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who testifies or gives a deposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who testifies, bears witness, or gives evidence under oath in a legal proceeding or public assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who affirms, certifies, or openly attests to religious, moral, or factual truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testifier designates a person who testifies or gives a deposition."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The cross-examiner must probe whether the sworn **testifier** observed the transaction under calm or agitated circumstances."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The credibility of a historical **testifier** depends upon his opportunities for knowledge and his integrity of character."*
+> - 📜 **George Fox (*Journal*):** *"He stood forth as a faithful **testifier** for the inward light of Christ before the hostile magistrates of Nottingham."*

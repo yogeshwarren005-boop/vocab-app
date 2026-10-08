@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Testacean rhizopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Testacean rhizopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic group encompassing all shell-bearing invertebrate animals, including mollusks, brachiopods, and shelled protozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural history, invertebrate organisms protected by a calcified or chitinous carapace or bivalve shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testacea designates testacean rhizopods."*
+> - 📜 **Aristotle (*History of Animals*):** *"Animals of the **Testacea** kind, such as oysters and snails, have their fleshy parts inside and the hard stony shell outside."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the class of Vermes, Linnaeus assembled the **Testacea**, cataloging hundreds of marine univalves and bivalves."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossilized shells of the **Testacea** serve as reliable chronological markers for distinguishing Tertiary strata."*

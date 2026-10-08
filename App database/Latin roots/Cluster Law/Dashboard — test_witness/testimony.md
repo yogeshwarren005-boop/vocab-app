@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn statement made under oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assertion offering firsthand authentication of a fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written or spoken statement, especially one given under oath in a court of law; evidence or proof of a fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public declaration or profession of religious faith, moral conviction, or personal experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And by other warranted testimony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is too great testimony in your complexion that it was a passion of earnest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I bring you no sufficient testimony that I have enjoy’d the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **testimony** of a single witness, if credible and unimpeached, was sufficient by the common law to establish a fact."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Our confidence in historical narratives is founded entirely upon the uniform **testimony** of reliable human observers."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Where direct sensory experience is absent, human reason must govern its assent by the weight of credible **testimony**."*

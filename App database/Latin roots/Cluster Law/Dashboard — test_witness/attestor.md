@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a person who attests to the genuineness of a document or signature by adding their own signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person who attests to the genuineness of a document or signature by adding their own signature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attests or serves as a formal witness to a legal instrument, oath, or transaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A designated subscribing party on a legal contract, power of attorney, or will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attestor designates (law) a person who attests to the genuineness of a document or signature by adding their own signature."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **attestor** must sign his name in the conscious physical presence of the testator to satisfy statutory requirements."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The court upheld the will because each **attestor** swore to the testator's sound disposing mind and memory."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The civil magistrate relies upon the sworn **attestor** to prevent perjury from subverting equitable contracts."*

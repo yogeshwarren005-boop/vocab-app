@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive and hateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive and hateful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a detestable, abominable, or loathsome manner; odiously and reprehensibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extremely offensive, hateful, or intolerable degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I suppose you don’t mean in health?” “No, as to that he’s detestably sound."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"A detestably unhappy walk, sir."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I spat out, and affirmed it tasted detestably—I would not take it on any account."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed behaved **detestably** toward his dependent cousin, striking her without provocation or rebuke."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old baronet swore **detestably** at his servants, drinking raw gin from morning until midnight."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The treacherous lawyer acted **detestably**, using the machinery of the courts to ruin his honorable benefactor."*

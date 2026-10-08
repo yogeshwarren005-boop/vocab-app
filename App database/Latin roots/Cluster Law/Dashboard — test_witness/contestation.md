@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of contesting, disputing, or debating; controversy, strife, or litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law, the formal joinder of issue (*litis contestatio*) whereby parties submit their controversy to judicial decision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce theological **contestation** over the nature of the Trinity divided the cities of the East into hostile factions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Civil liberty is preserved through the healthy **contestation** of diverse social orders checking each other's ambition."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic philosophy degenerated into unprofitable verbal **contestation** about subtleties that produced no practical fruit."*

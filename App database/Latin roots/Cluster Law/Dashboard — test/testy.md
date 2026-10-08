@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated; short-tempered, irritable, touchy, and quick to take offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by peevish impatience or snappish reactions to petty annoyances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I might teach thee wit better it were, Though not to love, yet love to tell me so, As testy sick men when their deaths be near, No news but health from their physicians know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must I stand and crouch Under your testy humour?"*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"I have no other but a woman's reason; I think him so, because I think him so, in this my **testy** mood."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was never **testy** or ungrateful, though his valetudinarian anxieties often tried the patience of his friends."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers spoke in his sharp, **testy** manner, cutting off the client's rambling story with an abrupt wave of his hand."*

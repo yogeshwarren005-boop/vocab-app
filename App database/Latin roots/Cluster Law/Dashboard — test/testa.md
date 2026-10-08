@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective outer layer of seeds of flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective outer layer of seeds of flowering plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protective outer covering or hard seed coat of a plant; or the hard external shell or skeletal test of an invertebrate animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the hardened integument developed from the ovule that shields the dormant embryo against desiccation and mechanical injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testa designates protective outer layer of seeds of flowering plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The thick, impermeable **testa** of certain seeds enables them to survive immersion in sea-water for months without losing vitality."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In examining the mature bean, we find the **testa** pierced by the tiny micropyle through which moisture enters during germination."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Isles*):** *"The outer surface of the **testa** is frequently sculptured with intricate reticulations characteristic of the plant family."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of protestantism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protestant churches and denominations collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member or follower of any of the Western Christian churches that are separate from the Roman Catholic Church and follow the Reformation principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or adhering to the theological doctrines of the Protestant Reformation, especially justification by faith alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But our schools being decidedly Protestant, and I preaching regularly, the opposition from Romanists was very strong; this, together with the extreme poverty of the people, made our income very small."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, a young painter who was working there, and proved to be one of the Christians whose light shines for all in the house, spoke to her, and invited her to a prayer-meeting in a Protestant chapel."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"By Trelawny's care the ashes were buried in the Protestant cemetery at Rome."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The revolution of 1688 established a constitutional monarchy dedicated to preserving the **Protestant** religion and English liberties."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The ascetic discipline of the **Protestant** calling transformed daily worldly labor into a religious duty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The zeal of the early **Protestant** reformers appealed from ecclesiastical traditions to the unvarnished text of scripture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female testator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female testator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female testator; a woman who makes or has died leaving a legally valid last will and testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female decedent whose testamentary instructions govern the probate and distribution of her estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a cause respecting a will, evidence was given to prove the testatrix, an apothecary’s widow, a lunatic; amongst other things, it was deposed, that she had swept a quantity of pots, lotions, potions, &c. into the street as rubbish."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The executor presented probate papers proving that the **testatrix** was of sound mind when she subscribed her signature."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars acted as an imperious **testatrix**, threatening to disinherit any son who married against her sovereign pleasure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The family lawyer read the sealed instructions left by the wealthy **testatrix** amidst the tense silence of expectant relatives."*

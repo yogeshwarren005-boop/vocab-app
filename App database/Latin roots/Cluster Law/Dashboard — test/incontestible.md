@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or disputed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being contested or disputed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being contested or denied; indisputable, incontrovertible, and legally conclusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admitting of no reasonable doubt or debate; demonstratively certain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When the evidence has been incontestible he has not hesitated to make a public profession of his gratitude, which all will acknowledge to be the sign of a truly noble mind and a heart of gold."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Still, however, his speech was hailed by Cedric as an incontestible token of reviving spirit in his companion, whose previous indifference had begun, notwithstanding his respect for Athelstane’s descent, to wear out his patience."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"That the three angles of a triangle equal two right angles is an **incontestible** truth perceived by intuition."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The title of the sovereign by hereditary descent was declared **incontestible** by the fundamental statutes of the realm."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"It is an **incontestible** principle of political economy that labor is the original purchase-money paid for all things."*

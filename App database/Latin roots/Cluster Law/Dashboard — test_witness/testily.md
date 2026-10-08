@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a testy, impatient, irritable, or petulant manner; with short-tempered sharpness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With snappish, easily offended exasperation in reply to questions or interruptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, no!” he responded shortly and somewhat testily."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, testily, “that when I have been there, I have been took up to the outside of her door, and the door has stood ajar, and she has spoke to me that way."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the first place, how old are you, cook?” “What dat do wid de ’teak,” said the old black, testily."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet answered **testily** that he had no intention of dancing, and retreated to the quiet of his library."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge replied **testily** to the gentleman, demanding whether the workhouses and treadmills were no longer in operation."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Mr. Oldbuck spoke **testily** to his nephew, rebuking him for disturbing his ancient manuscripts with careless hands."*

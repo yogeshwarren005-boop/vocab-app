@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling easily irritated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling easily irritated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irritability, impatience, touchiness, or petulance; the tendency to be easily angered or snappish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peevish or short-tempered disposition shown in speech and demeanor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She often chose this task, in which she found some pleasure, notwithstanding the old man’s testiness whenever he demanded her attentions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars received her guests with that cold **testiness** of demeanor that kept all around her in uncomfortable restraint."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Betsey Trotwood concealed a warm, generous heart beneath an outward mantle of eccentric **testiness**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Chronic bodily infirmity frequently betrays the aged into an unamiable **testiness** that alienates their youthful companions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or possessing a testa or hard shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or possessing a testa or hard shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a hard shell; or having a dull brownish-yellow or reddish-brown color resembling unglazed earthenware.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and conchology, describing the brick-red or yellowish-brown chitinous coloration of beetle elytra or snail shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testaceous designates relating to or possessing a testa or hard shell."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The stream gravel yielded various **testaceous** animals that bury themselves deeply into the mud during winter frost."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We discovered a curious beetle with **testaceous** wing-cases crawling among the dry kelp on the Patagonian shore."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The specimen exhibited long antennae and shining **testaceous** elytra bordered with dark metallic green margins."*

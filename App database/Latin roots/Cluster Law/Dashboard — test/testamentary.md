@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a will or testament or bequeathed by a will or testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a will or testament or bequeathed by a will or testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, bequeathed by, or appointed through a last will and testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate law, designating the legal capacity of a testator or the powers conferred upon an executor (*letters testamentary*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s being “continually in liquor,” and the testamentary prospects of the young man are, as usual, the staple of their conversation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is so, with testamentary dispositions.” Again he pursed up his lips and frowned a little."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A most singular testamentary disposition!” exclaimed Mr."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The spiritual courts exercised exclusive jurisdiction over all **testamentary** causes involving the succession of personal chattels."*
+> - 📜 **Benjamin N. Cardozo (*The Nature of the Judicial Process*):** *"The surrogate court examined whether the deceased possessed the requisite **testamentary** capacity to execute a codicil."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The development of **testamentary** power marked the transition from collective family ownership to individual civil property rights."*

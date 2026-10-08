@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in competitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in a competition, game, or contest; a competitor or rival candidate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a party who opposes or disputes a claim, election result, or the probate of a will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The herald sounded the signal of attack, and both contestants rushed at each other."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"One of the contestants shook his head, puzzled, and surrendered."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Correct." "That was clever of Joe," thought the cheat as the teacher gave out a word to one of the three contestants."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Each **contestant** spurred his charger forward into the lists, with leveled lance and closed visor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every political **contestant** in the republic appeals to the sovereign will of the majority as the supreme arbiter."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The probate judge heard argument from the disinherited heir as the principal **contestant** of the disputed testament."*

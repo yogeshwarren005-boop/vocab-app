@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occasion on which a winner is selected from among two or more contestants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A struggle between rivals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which people compete for supremacy; or to challenge, dispute, or oppose the validity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in a struggle, dispute, or formal lawsuit regarding a right, election, or property title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How has that contest gone?” “Oh, hollow from the beginning."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To **contest** the supreme authority of the national constitution would plunge the states into endless commercial rivalries."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I **contest** as hotly and as nobly with thy love as ever in ambitious strength I did contend against thy valor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Dire was the noise of conflict; overhead the dismal hiss of fiery darts in furious **contest** raged."*

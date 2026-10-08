@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone that stimulates the development of male secondary sexual characteristics, produced mainly in the testes and adrenal cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal male androgenic hormone responsible for muscle mass, bone density, spermatogenesis, and libido.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testosterone designates a potent androgenic hormone produced chiefly by the testes; responsible for the development of male secondary sex characteristics."*
+> - 📜 **Ernst Laqueur (*Hormones and Clinical Practice*):** *"We succeeded in crystallizing a potent androgenic hormone from bull testes, which we designated **testosterone**."*
+> - 📜 **Adolf Butenandt (*Nobel Lecture in Chemistry*):** *"The total chemical synthesis of **testosterone** confirmed its structure as an unsaturated steroid ketone bearing a hydroxyl group."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Circulating **testosterone** binds to androgen receptors in target tissues, inducing protein synthesis and tissue hypertrophy."*

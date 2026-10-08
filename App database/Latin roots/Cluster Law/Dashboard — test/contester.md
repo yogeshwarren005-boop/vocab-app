@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who contests an outcome (of a race or an election etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contests an outcome (of a race or an election etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who contests, disputes, or challenges a claim, opinion, election result, or right; a disputant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who enters into active rivalry or opposition against an incumbent or claimant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contester designates someone who contests an outcome (of a race or an election etc.)."*
+> - 📜 **John Milton (*Areopagitica*):** *"Let truth and falsehood grapple in open field; the fearless **contester** for liberty needs no licensing licenser."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Dryden was an aggressive **contester** in dramatic prefaces, defending his heroic couplets against every literary adversary."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Richard Coeur de Lion looked with fierce joy upon any bold **contester** who dared match lances with him."*

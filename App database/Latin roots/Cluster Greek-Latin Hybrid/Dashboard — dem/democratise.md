@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democratise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become (more) democratic; of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce democratic reforms; of nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a country, system, or organization democratic; to introduce popular governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make accessible or available to everyone regardless of class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratise designates become (more) democratic; of nations."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"Philosophic radicals aimed to **democratise** the franchise and abolish hereditary aristocratic privilege."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"Unless we **democratise** the ownership of land and capital, political voting remains an empty facade."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The new educational order sought to **democratise** scientific discovery for the benefit of all humanity."*

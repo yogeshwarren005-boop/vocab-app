@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demobilize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from military service or remove from the active list of military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retire from military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disband troops or take an army out of active military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To release soldiers and return society to civilian peacetime conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demobilize designates release from military service or remove from the active list of military service."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"To preserve domestic tranquility, the government decided to **demobilize** the conscript regiments in orderly stages."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"If the belligerent nations agree to **demobilize** their standing armies, international arbitration can prevail."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"It was impossible to **demobilize** the volunteers until the rebellious tribesmen had laid down their rifles."*

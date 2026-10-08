@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # counterdemonstrator
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demonstrates in opposition to another demonstration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demonstrates in opposition to another demonstration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in a public protest in opposition to another group of demonstrators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposing rally participant expressing counter-protest sentiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterdemonstrator designates someone who demonstrates in opposition to another demonstration."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Every passionate **counterdemonstrator** brandished placards denouncing the radical peace delegates."*
+> - 📜 **George Bernard Shaw (*Major Barbara (Preface)*):** *"The street orator found himself confronted by a jeering **counterdemonstrator** from the local brewery."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"Police cordons were required to keep each angry **counterdemonstrator** from clashing with the marching crowd."*

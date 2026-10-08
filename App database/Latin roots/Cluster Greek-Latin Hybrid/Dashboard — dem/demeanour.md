@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demeanour
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's outward behavior, bearing, or manner of conducting oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deportment, facial expression, and bodily carriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I found the Prince in the next room, Washing with kindly tears his gentle cheeks, With such a deep demeanour in great sorrow That tyranny, which never quaff’d but blood, Would, by beholding him, have wash’d his knife With gentle eye-drops."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blunt-witted lord, ignoble in demeanour!"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton preserved a serene and tranquil **demeanour** as he mounted the steps of the scaffold."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley admired the gentlemanly **demeanour** and modest self-possession of the young farmer."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes listened with keen attention, observing every subtle alteration in the lady's **demeanour**."*

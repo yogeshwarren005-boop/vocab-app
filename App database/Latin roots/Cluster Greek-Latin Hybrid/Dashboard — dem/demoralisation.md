@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoralisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of disorder and confusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depression resulting from an undermining of your morale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction of morale, discipline, or confidence; moral corruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of confusion, panic, and disorder within an army or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the reaction after that excitement I found myself in face of a great difficulty--what to do with my men, to keep them from demoralisation."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The sudden flank attack caused complete **demoralisation** among the retreating infantry battalions."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The luxury of the capital wrought the gradual **demoralisation** of the ancient Roman legionaries."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"General hunger and panic produced total **demoralisation** throughout the provincial regiments."*

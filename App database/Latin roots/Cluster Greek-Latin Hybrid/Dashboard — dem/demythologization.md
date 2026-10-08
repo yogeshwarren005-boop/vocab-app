@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demythologization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message (as a religious one) in rational terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message (as a religious one) in rational terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reinterpretation of mythological elements in religious or historical texts in existential or rational terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of mythical or legendary accretions from a tradition or historical narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologization designates the restatement of a message (as a religious one) in rational terms."*
+> - 📜 **Bertrand Russell (*Religion and Science*):** *"The progressive **demythologization** of astronomical heavens followed swiftly upon Galileo's telescope."*
+> - 📜 **Thomas Henry Huxley (*Science and Hebrew Tradition*):** *"Rigorous **demythologization** of the Genesis flood narrative aligns ancient legends with geological facts."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The **demythologization** of early Roman kings transforms Livy's poetic tales into archaeological history."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demandingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demanding manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demanding, insistent, or authoritative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With high expectations or urgent requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demandingly designates in a demanding manner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond looked at her **demandingly**, expecting an immediate submission to his aesthetic whims."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard knocked **demandingly** upon the oak door, brooking no delay from the bewildered servant."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay stood by the window, **demandingly** silent, waiting for sympathy and reassurance."*

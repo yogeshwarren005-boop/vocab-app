@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demijohn
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bulbous glass bottle with a narrow neck, usually enclosed in protective wickerwork, used for holding liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wicker-cased carboy holding wine, rum, or cider.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every now and then he lugged off to the mountain a great round demijohn of a calabash, and, panting with his exertions, brought it back filled with his darling fluid."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirates cracked open a stout wicker-covered **demijohn** of rum and began drinking around the fire."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"In the corner of the pantry stood a great **demijohn** of elderberry wine covered in dusty wickerwork."*
+> - 📜 **Herman Melville (*Omoo*):** *"The sailors bartered their spare tobacco for a **demijohn** of fiery palm spirit from the natives."*

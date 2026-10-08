@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demographics
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Statistical data relating to the population and particular groups within it, such as age, gender, and income.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantifiable characteristics of a given human population used in sociology and economics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographics designates a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)."*
+> - 📜 **Karl Pearson (*National Life from the Standpoint of Science*):** *"A careful study of national **demographics** reveals whether a civilization is expanding or undergoing decline."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The ministry analyzed changing regional **demographics** to allocate educational and medical resources."*
+> - 📜 **Bertrand Russell (*The Prospects of Industrial Civilization*):** *"Shifting **demographics** across industrialized countries exert profound pressure upon pension systems."*

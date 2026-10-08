@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demur
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take exception to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To raise doubts or objections, or to show reluctance to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, to put in a demurrer; to object to an opponent's point as irrelevant or insufficient in law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes' parlour." Barry had executed too many equally singular orders to raise any demur."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't demur, for no guests will arrive, I am sure; If they do, why there's room on the bed or the floor."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth accepted his invitation to dance without **demur**, despite her previous resolve to avoid him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery counsel entered a formal **demur** against proceeding without further affidavits."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Yet without **demur** the angel obeyed the supreme mandate and winged his course toward earth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demob
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retire from military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retire from military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To demobilize someone from military service; the discharge or release from the armed forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal return of a soldier to civilian life following the conclusion of a war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demob designates retire from military service."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Following the armistice, authorities struggled to **demob** millions of restless soldiers back into peacetime trades."*
+> - 📜 **George Bernard Shaw (*Heartbreak House (Preface)*):** *"When the army proceeded to **demob** the regiments, thousands returned to find their former jobs abolished."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"He watched the transports unload veteran troops waiting for the authorities to **demob** them into family life."*

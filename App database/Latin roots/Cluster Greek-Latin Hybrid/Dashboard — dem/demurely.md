@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demurely
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demure manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demure manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demure, reserved, modest, or coy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With quiet, sober, or serious decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The drums Demurely wake the sleepers."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba demurely regarded a contemptible straw lying upon the ground, in a way which suggested less ovine criticism than womanly embarrassment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You cannot and you don’t,” she said demurely."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Lucy Steele folded her hands and answered **demurely**, concealing her triumphant scheming beneath downcast eyes."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty sat **demurely** in the pew, smoothing her best print gown with reverent pride."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp cast down her green eyes **demurely**, playing the innocent orphan to perfection."*

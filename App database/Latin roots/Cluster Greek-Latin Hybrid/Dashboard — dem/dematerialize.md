@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dematerialize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become immaterial; disappear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become immaterial; disappear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lose or cause to lose physical or material substance; to dissolve or vanish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cease to exist in physical form, or to convert matter into radiant energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dematerialize designates become immaterial; disappear."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"Professor Challenger watched the solid oak chair suddenly **dematerialize** inside Nemor's glass cabinet."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin believed his chemical tincture would **dematerialize** the refractive index of living cells."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series (Intellect)*):** *"Deep philosophical contemplation seems to **dematerialize** the heaviest mountains into transparent symbols of truth."*

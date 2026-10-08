@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonetisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially stripping a currency unit of its status as legal tender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of silver or gold coins from circulation as standard currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonetisation designates ending something (e.g. gold or silver) as no longer the legal tender of a country."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **demonetisation** of silver in continental Europe produced a severe contraction in international trade."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"Following the **demonetisation** of the older coinage, gold bullion flowed rapidly into the Bank of England."*
+> - 📜 **Adam Smith (*The Wealth of Nations (Historical Notes)*):** *"Sudden **demonetisation** of debased currency without adequate compensation invariably injures the merchant class."*

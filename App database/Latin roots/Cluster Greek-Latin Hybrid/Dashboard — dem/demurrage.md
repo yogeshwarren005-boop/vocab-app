@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demurrage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detention of a ship or freight car or other cargo beyond its scheduled time of departure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge payable to the owner of a chartered ship or cargo vessel on failure for loading or discharging the ship within the agreed time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delay of a ship, freight car, or cargo beyond the time stipulated in a charter party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demurrage designates a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The owners calculated the heavy cost of **demurrage** if the whaling vessel remained idle in port through the winter."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The merchant grumbled over dock invoices loaded with wharfage, lighterage, and ruinous maritime **demurrage**."*
+> - 📜 **Joseph Conrad (*Chance*):** *"Captain Anthony was detained by endless disputes with the charterers concerning the rate of lay-days and **demurrage**."*

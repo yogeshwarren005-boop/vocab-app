@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagogue
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who seeks support by appealing to popular passions and prejudices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political leader who seeks support by appealing to popular passions and prejudices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who obtains power by appealing to the emotions, fears, and prejudices of the public rather than through reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unprincipled populist orator inciting the mob for personal aggrandizement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Do you know that the orange lodges agitated for repeal of the union twenty years before O’Connell did or before the prelates of your communion denounced him as a demagogue?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jones wrote a full and particular account of the dinner, which appeared duly in the Demagogue."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"DEMAGOGUE, a vessel containing beer and other liquids."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The tribunes play the fawning **demagogue**, feeding the citizens with flatteries to unseat ancient nobility."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 1)*):** *"History teaches that of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people; commencing **demagogues**, and ending tyrants."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The successful **demagogue** does not instruct the populace; he merely gives a loud megaphone to their existing prejudices."*

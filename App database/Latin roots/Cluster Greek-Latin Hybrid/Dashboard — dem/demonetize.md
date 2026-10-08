@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonetize
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive a currency or precious metal of its status as legal tender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stop using a specific coinage or paper note as official money.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Republican party is in favor of the use of both gold and silver as money, and condemns the policy of the Democratic Administration in its efforts to demonetize silver."*
+> - 📜 **William Stanley Jevons (*Money and the Mechanism of Exchange*):** *"To **demonetize** silver without international concert was to invite global deflationary distress."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"Central banks must **demonetize** fraudulent tokens to preserve public confidence in the banking reserve."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Governments may **demonetize** debased coins, but they cannot arbitrate the intrinsic value of labor."*

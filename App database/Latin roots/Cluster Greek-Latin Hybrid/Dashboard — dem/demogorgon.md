@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demogorgon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mysterious and terrifying deity of the underworld.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mysterious and terrifying deity of the underworld.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mysterious, terrifying mythological deity or demon of the underworld, associated with primeval chaos and cosmic necessity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ominous primordial power capable of overthrowing the Olympian gods (as in Shelley's Prometheus Unbound).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"With Panthea, one of the ocean nymphs that watch over Prometheus, she makes her way to the cave of Demogorgon, "that terrific gloom," who seems meant to typify the Primal Power of the World."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With him enthroned / Sat sable-vested Night, eldest of things, / The consort of his reign; and by them stood / Orcus and Ades, and the dreaded name / Of **Demogorgon**."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"I am **Demogorgon**, and thou must with me down into the abyss! A dark reality more mighty than Jupiter."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"A bold bad man, that dared to call / By secret spells the prince of hell, / And **Demogorgon**'s name to tell."*

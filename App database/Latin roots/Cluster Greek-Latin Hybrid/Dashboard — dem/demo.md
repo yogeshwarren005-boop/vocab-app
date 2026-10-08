@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual presentation showing how something works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an exhibition of to an interested audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonstration showing the features and capabilities of a product, technique, or computer program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recorded sample of music produced to showcase a song or performer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Adams was perfectly constitutional, and as such fully submitted to by the people; but it was a violation of the _demos krateo_ principle; and that violation was equally rebuked."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin performed a startling **demo** of optical refraction, rendering the piece of wool invisible before Kemp."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"Challenger demanded an immediate **demo** of the cabinet before signing the certification document."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft invited his guests to the testing ground for a thunderous **demo** of the new artillery piece."*

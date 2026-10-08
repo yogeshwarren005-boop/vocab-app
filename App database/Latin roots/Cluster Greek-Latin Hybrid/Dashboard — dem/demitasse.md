@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demitasse
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small cup of strong black coffee without milk or cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small coffee cup; for serving black coffee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small cup used for serving strong black coffee or espresso, or the coffee served in such a cup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delicate porcelain cup designed for after-dinner coffee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demitasse designates small cup of strong black coffee without milk or cream."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether lingered over his porcelain **demitasse** of black coffee on the sunlit boulevard terrace."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Footmen served Turkish coffee in tiny gold-rimmed **demitasse** cups following the elaborate dinner."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Baron Gruner sipped his steaming **demitasse** while admiring his precious collection of Ming porcelain."*

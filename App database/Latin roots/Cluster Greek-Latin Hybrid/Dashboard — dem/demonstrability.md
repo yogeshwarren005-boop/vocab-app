@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrability
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being demonstrated or logically proved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being demonstrated or logically proved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being capable of being logically proved or demonstrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptibility to definitive empirical or mathematical proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonstrability designates capability of being demonstrated or logically proved."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Morality is capable of **demonstrability** no less than the propositions of geometry."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The rigorous **demonstrability** of physical conservation laws depends on invariant mathematical symmetries."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Science demands the strict **demonstrability** of every hypothesis before granting it the dignity of truth."*

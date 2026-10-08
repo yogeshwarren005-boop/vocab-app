@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demolished
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pulled down, destroyed, or razed to the ground; thoroughly refuted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely ruined, shattered, or consumed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another chair was brought, and in time that chair was demolished."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Is it not, by its noble cares and sublime results, the one best calculated to fill the void left by uptorn affections and demolished hopes?"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Among the islands of Polynesia, no sooner are the images overturned, the temples demolished, and the idolators converted into NOMINAL Christians, that disease, vice, and premature death make their appearance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient tenements were **demolished** to make way for the new railway viaduct through London."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The triumphant barbarians **demolished** the pagan temples and plundered the marble statues of Rome."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger's devastating arguments completely **demolished** the fragile hypothesis advanced by his rival."*

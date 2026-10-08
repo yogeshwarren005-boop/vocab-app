@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonetization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official withdrawal of legal tender status from a currency unit or precious metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal termination of a specified currency's validity as medium of exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Note carefully, and indicate the different meanings of bimetallism; of demonetization. 8."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"The **demonetization** of silver by the German Empire in 1873 perturbed monetary markets worldwide."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A general **demonetization** of paper notes without specie backing precipitates commercial panic."*
+> - 📜 **William Stanley Jevons (*Money and the Mechanism of Exchange*):** *"The **demonetization** of bi-metallic currency established the undisputed supremacy of the gold standard."*

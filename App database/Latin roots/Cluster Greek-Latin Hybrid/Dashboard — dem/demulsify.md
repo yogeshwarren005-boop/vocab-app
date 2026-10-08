@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demulsify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to demulsify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break down into components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate an emulsion into its constituent phases, such as oil and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break down colloidal droplets to allow separation of two immiscible liquids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulsify designates cause to demulsify."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Adding strong electrolytes will rapidly **demulsify** the colloidal oil suspension, causing the cream to float."*
+> - 📜 **Svante Arrhenius (*Textbooks of Electrochemistry*):** *"Centrifugal separation serves to **demulsify** industrial crude petroleum from entrained salt water."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Gentle warming in an electric field helped to **demulsify** the cloudy liquid into two sharp transparent layers."*

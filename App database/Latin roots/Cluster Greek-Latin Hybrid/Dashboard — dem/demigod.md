@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demigod
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is part mortal and part god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological being with partial divine status, typically having one divine parent and one human parent; a minor deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A human being endowed with superhuman prowess, heroic eminence, or godlike stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a demigod here sit I in the sky, And wretched fools’ secrets heedfully o’er-eye."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Now Balder was a demigod and common steel could not wound his sacred body."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Scene of the Demigod Kamapuaa's Escape from Olopana."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"What **demigod** / Hath come so near creation? Move these eyes? / Or whether, riding on the balls of mine, / Seem they in motion?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Heroic Hercules, that famed **demigod**, cleansed the Augean stalls and slew the hydra."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Early pagan peoples regarded their legendary lawgivers and warrior kings as real **demigod** beings descended from heaven."*

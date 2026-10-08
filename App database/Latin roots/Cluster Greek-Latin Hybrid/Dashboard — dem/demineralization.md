@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demineralization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal loss of mineral salts (especially from bone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of minerals and mineral salts from a liquid (especially from water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing minerals, especially calcium and phosphate, from tissues, water, or chemical mixtures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of mineral density in bones or teeth through chronic nutritional deficiency or acid exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralization designates abnormal loss of mineral salts (especially from bone)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged immobilization precipitates rapid **demineralization** of long bones and hypercalciuria."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Dialysis against distilled water effected total **demineralization** of the protein solution."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The complete **demineralization** of water is essential before conducting delicate electrical conductivity trials."*

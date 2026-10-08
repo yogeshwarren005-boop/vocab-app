@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democracy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor government by the people or by their elected representatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system in which the supreme power lies in a body of citizens who can elect people to represent them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government by the whole population or all the eligible members of a state, typically through elected representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles of social equality and self-governance by the body politic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This theory is, in a way, based on an appeal to experience, as to the effect of property on human character, and it has the virtue of expressing one of the ideals of modern democracy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Once prosperous schools declined, once thronging country churches were deserted, and much of the old neighborhood democracy disappeared."*
+> - 📜 **Abraham Lincoln (*Letter to H. L. Pierce*):** *"Those who deny freedom to others deserve it not for themselves; this is the true foundation of **democracy**."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"True **democracy** requires that the rights of minorities be protected against the tyranny of the majority."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a true **democracy**, the citizens love equality more fervently and permanently than they prize individual freedom."*

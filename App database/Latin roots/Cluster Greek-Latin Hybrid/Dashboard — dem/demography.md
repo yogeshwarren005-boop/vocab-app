@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demography
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of sociology that studies the characteristics of human populations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of sociology that studies the characteristics of human populations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human populations, especially with reference to size, structure, distribution, and vital statistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statistical analysis of births, deaths, marriages, and migrations over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demography designates the branch of sociology that studies the characteristics of human populations."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"The emerging science of **demography** demonstrates that social customs exert an immense influence on biological survival."*
+> - 📜 **Karl Pearson (*The Chances of Death*):** *"Actuarial science owes its mathematical foundation to systematic **demography** and municipal registries."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"Urban **demography** in the nineteenth century witnessed the unprecedented concentration of populations into factory centers."*

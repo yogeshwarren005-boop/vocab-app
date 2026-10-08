@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endemic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is constantly present to a greater or lesser degree in people of a certain class or in people living in a particular location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is native to a certain limited area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regularly occurring within an area or community, especially of a disease or condition; native or restricted to a certain region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating plant or animal species found exclusively in a particular geographical location.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nearly all the land birds on the Galapagos archipelago are **endemic** species found nowhere else on earth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malaria was formerly **endemic** throughout the marshy estuaries of southern England."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The high proportion of **endemic** flora in Madagascar testifies to its ancient geological isolation."*

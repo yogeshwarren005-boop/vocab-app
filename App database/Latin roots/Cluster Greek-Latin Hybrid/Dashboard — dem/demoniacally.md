@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoniacally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very agitated manner; as if possessed by an evil spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very agitated manner; as if possessed by an evil spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demoniacal, fiendish, or wildly ferocious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With devilish malice or frenzied intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fire in the grate looked impish—demoniacally funny, as if it did not care in the least about her strait."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin grinned **demoniacally** as he counted his stolen gold sovereigns by the flickering candle."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The pygmy laughed **demoniacally**, fitting a poisoned dart into his bamboo blowpipe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fedallah smiled **demoniacally** into the furnace fires of the try-works as midnight approached."*

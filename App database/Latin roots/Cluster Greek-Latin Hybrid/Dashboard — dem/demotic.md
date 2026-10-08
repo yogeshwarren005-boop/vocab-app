@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demotic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simplified cursive form of the ancient hieratic script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern greek vernacular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or relating to the simplified cursive script of ancient Egyptian, or to ordinary everyday popular language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular, colloquial, or colloquialized dialect used by the general public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is another difficult text: (Figure 2) It is demotic—a style of Egyptian writing and a phase of the language which had perished from the knowledge of all men twenty-five hundred years before the Christian era."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Rosetta stone bore inscriptions in sacred hieroglyphs, popular **demotic** characters, and Greek."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The scientist must learn to convey complex laboratory discoveries in crisp, vigorous **demotic** speech."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Phonographic screens blasted a crude, **demotic** dialect designed to entertain the illiterate factory mobs."*

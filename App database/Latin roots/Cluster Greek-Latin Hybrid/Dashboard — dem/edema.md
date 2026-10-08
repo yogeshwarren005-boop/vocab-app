@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # edema
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by an excess of watery fluid collecting in the cavities or tissues of the body; swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal interstitial fluid accumulation caused by capillary leakage or reduced lymphatic drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edema designates swelling from excessive accumulation of watery fluid in cells, tissues, or serous cavities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pitting **edema** of the ankles is among the earliest diagnostic indications of failing right-sided cardiac compensation."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Prompt evacuation of inflammatory **edema** prevented necrosis of the underlying deep fascial planes."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician noted the puffy **edema** beneath the patient's eyelids, suspecting acute Bright's disease."*

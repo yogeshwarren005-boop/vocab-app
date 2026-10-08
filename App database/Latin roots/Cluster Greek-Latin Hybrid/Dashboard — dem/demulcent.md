@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demulcent
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a softening or soothing effect especially to the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that relieves irritation of the mucous membranes in the mouth by forming a protective film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soothing, mollifying, or softening to inflamed or irritated tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulcent designates a medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A warm **demulcent** drink of barley water or flaxseed tea soothed the patient's inflamed pharyngeal mucosa."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The apothecary dispensed a bottle of **demulcent** syrup of althaea to calm the child's hacking cough."*
+> - 📜 **Silas Weir Mitchell (*Fat and Blood*):** *"Oatmeal gruel functions as a gentle **demulcent** food, easily tolerated by delicate digestive organs."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demystify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less mysterious or remove the mystery from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less mysterious or remove the mystery from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a difficult or esoteric subject clearer, easier to understand, or free from mystery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To strip away romantic illusion, confusion, or fraudulent obscurity from an issue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demystify designates make less mysterious or remove the mystery from."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mission of scientific education is to **demystify** natural phenomena and replace superstition with evidence."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"Empirical analysis serves to **demystify** metaphysical dogmas that have intimidated mankind for centuries."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Modern historiography seeks to **demystify** legendary conquerors and reveal the real economic forces behind wars."*

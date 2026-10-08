@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoralizing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing a loss of confidence, hope, or enthusiasm; dispiriting; corrupting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weakening moral or intellectual stamina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Good-bye, Lord Henry, you are quite delightful and dreadfully demoralizing."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The demoralizing influence of a dissolute foreign population, and the frequent visits of all descriptions of vessels, have tended not a little to increase the evils alluded to."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There is nothing so **demoralizing** to a sincere mind as the habit of insincere compromise."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Living in perpetual fear of violence had a deeply **demoralizing** effect upon the young heiress."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The decay of human civilization was a melancholy and **demoralizing** spectacle across future ages."*

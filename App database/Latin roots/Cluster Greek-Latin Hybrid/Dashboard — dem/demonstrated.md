@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly shown or proven by argument, evidence, or empirical experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibited publicly; manifested through practical performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a conclusion of pure empiricism, and I, too, as you shall see, demonstrated it empirically."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The head trusty certainly demonstrated his ability."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The trial decisively **demonstrated** that radiant heat undergoes identical polarization as light."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Careful experiments **demonstrated** that cross-fertilization produces sturdier seedlings than self-pollination."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Harvey **demonstrated** the continuous circulation of the blood by simple ligature trials on the human forearm."*

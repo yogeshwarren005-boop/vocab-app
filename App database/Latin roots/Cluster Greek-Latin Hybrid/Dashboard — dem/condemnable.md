@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # condemnable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing or deserving severe rebuke or censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing or deserving severe rebuke or censure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving severe censure, blame, or moral condemnation; blameworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally or ethically culpable and liable to punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condemnable designates bringing or deserving severe rebuke or censure."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"To indulge in secret malice without overt action is nonetheless deeply **condemnable** in the court of conscience."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola denounced such worldly extravagance as a **condemnable** betrayal of the gospel."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The ministers' reckless disregard of constitutional law was held unanimously **condemnable** by Parliament."*

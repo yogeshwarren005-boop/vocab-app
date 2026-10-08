@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demeaningly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a humiliating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a humiliating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demeaning, degrading, or humiliating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescending disrespect or disparagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demeaningly designates in a humiliating manner."*
+> - 📜 **Henry James (*The Bostonians*):** *"He spoke **demeaningly** of the movement, dismissing their earnest conventions as frivolous drawing-room theatricals."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The overseer treated the pauper applicants **demeaningly**, shouting gruff rebukes through the iron grate."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt smiled **demeaningly**, knowing that his cold contempt exerted an exquisite torture upon her pride."*

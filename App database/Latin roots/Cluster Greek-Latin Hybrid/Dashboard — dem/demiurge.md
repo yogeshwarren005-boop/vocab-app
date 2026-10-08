@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demiurge
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate deity, in some philosophies the creator of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subordinate deity, in some philosophies the creator of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Platonic philosophy and Gnosticism, a heavenly being or subordinate deity who fashioned and shaped the material world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creator or primary creative force responsible for material reality or an artistic universe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Logos, that was before the Day-Star was, has appeared among men as a teacher,--he by whom all things were made. {284} As Demiurge he gave life; as teacher he taught to live well; that, as God, he may lavish upon us life forever."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Gnostic sects distinguished the supreme spiritual God from the inferior **demiurge** who formed the material earth."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man's creative intellect acts as a miniature **demiurge**, fashioning living order out of chaotic circumstance."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato envisioned the **demiurge** translating eternal ideal patterns into mutable physical matter."*

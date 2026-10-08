@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoralization
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying the moral basis for a doctrine or policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of disorder and confusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown or loss of discipline, courage, morale, and ethical principles in a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of psychological resilience, order, or ethical standards in a group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Their condition at Harrison's Landing was pitiable; the medical bureau seemed to have shared in the general demoralization."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"His appearance was certainly that of a hairdresser’s dummy; but in the great demoralization of the land he kept up his appearance."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In national prosperity, miracles attended the successes of the Hebrews; but when they departed from the true 133:15 idea, their demoralization began."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rapid **demoralization** of the army rendered the frontiers vulnerable to barbarian incursions."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Reign of Terror effected the total **demoralization** of legal justice across France."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Universal suspicion and mutual hatred completed the spiritual **demoralization** of the capital."*

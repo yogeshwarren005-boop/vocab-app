@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # edematous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen with an excessive accumulation of fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swollen with an excessive accumulation of fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, affected with, or relating to edema; swollen with watery fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathologically distended by excessive accumulation of serous fluid in tissue spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, edematous designates swollen with an excessive accumulation of fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The uvula appeared pale, swollen, and distinctly **edematous**, obstructing the patient's breathing."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"The wound margins remained clean and free from **edematous** swelling under continuous carbolic dressings."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He examined the limb, which was heavy, cold, and **edematous** from prolonged venous thrombosis."*

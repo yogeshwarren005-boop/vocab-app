@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demerit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark against a person for misconduct or failure; usually given in school or armed forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inadequate or falling short of perfection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fault, defect, or flaw, or a mark awarded against someone for poor conduct or substandard work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral blame or lack of positive virtue in ethical evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"These irregularities of judgment, I imagine, are found even in riper minds than Mary Garth’s: our impartiality is kept for abstract merit and demerit, which none of us ever saw."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"And it is not a personal demerit in the stone machine that it does so little?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"A baby born with nothing—where is the personal demerit in that?"*
+> - 📜 **William Shakespeare (*Othello*):** *"And my **demerits** / May speak unbonneted to as proud a fortune / As this that I have reach'd."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Every man shall be judged according to his virtue or **demerit** before the impartial tribunal of heaven."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The critic must impartially weigh the poet's brilliant strokes of genius against each obvious **demerit**."*

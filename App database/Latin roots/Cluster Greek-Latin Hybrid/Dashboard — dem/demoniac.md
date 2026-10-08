@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoniac
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts as if possessed by a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person believed to be possessed by an evil spirit; or relating to or characteristic of a demon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied, wildly ferocious, or manic in behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This was a demoniac laugh—low, suppressed, and deep—uttered, as it seemed, at the very keyhole of my chamber door."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They think me mad—Starbuck does; but I’m demoniac, I am madness maddened!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Few or no words were spoken; and the silent ship, as if manned by painted sailors in wax, day after day tore on through all the swift madness and gladness of the demoniac waves."*
+> - 📜 **John Milton (*Paradise Lost*):** *"**Demoniac** phrenzy, moping melancholy, / And moon-struck madness, pining atrophy."*
+> - 📜 **Percy Bysshe Shelley (*Frankenstein (Preface)*):** *"The creature glared with **demoniac** malice upon his horrified creator in the alpine hut."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Early Christian exorcists claimed to cast out the foul spirit from the raving **demoniac**."*

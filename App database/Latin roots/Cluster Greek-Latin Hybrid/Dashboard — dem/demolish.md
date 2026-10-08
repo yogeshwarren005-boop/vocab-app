@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demolish
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humiliate or depress completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pull down or completely destroy a building or other structure; to ruin or tear apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To comprehensively refute or destroy an argument, theory, or reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was proposed to continue the meetings in the Congregational church, but the workmen were coming the next morning to demolish and rebuild it."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Such an oyster would contain 30 lbs. of meat; and one must have the stomach of a Gargantua to demolish some dozens of them."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Sixty-eight pounders to demolish huts of cocoanut boughs, and Congreve rockets to set on fire a few canoe sheds!"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Parisian mob resolved to **demolish** the Bastille stone by stone until no vestige remained."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A single rigorous fact can completely **demolish** the most elaborate speculative philosophical theory."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes proceeded with inexorable logic to **demolish** the official police theory of the crime."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dematerialise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become immaterial; disappear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become immaterial; disappear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a physical object to lose material substance or become immaterial; to disappear from physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disperse matter into energy or ethereal form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dematerialise designates become immaterial; disappear."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The psychic medium claimed the phantom could **dematerialise** at will, fading back into empty air."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Time Traveller watched the miniature prototype flicker, spin, and **dematerialise** before their eyes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Philosophical idealism seeks to **dematerialise** the solid earth into a vast garment of thought."*

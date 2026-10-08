@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demiglace
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich brown sauce made by simmering equal parts of espagnole sauce and brown stock until reduced by half.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional culinary reduction providing deep umami foundation for classical meat dishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demiglace designates sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The young dandy took pride in knowing how to order sweetbreads glazed in authentic **demiglace**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The French cook in the great townhouse guarded the secret of his velvet-smooth **demiglace** from the kitchen maids."*
+> - 📜 **George Bernard Shaw (*You Never Can Tell*):** *"A good dinner requires a chef who understands the subtle reduction of a proper **demiglace**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demythologize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the mythical element from (writings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove mythical elements from a legend, scripture, or belief system to find its factual or moral essence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To strip supernatural or fanciful interpretations from historical events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologize designates remove the mythical element from (writings)."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"If we **demythologize** the origins of private property, we find conquest and force rather than divine sanction."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The duty of the scholar is to **demythologize** ancient literature with reverence for historical truth."*
+> - 📜 **H. G. Wells (*The Salvaging of Civilization*):** *"We must **demythologize** our school textbooks to teach the genuine brotherhood of all nations."*

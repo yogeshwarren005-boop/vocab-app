@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demander
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes demands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes demands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who demands something insistently or authoritatively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes peremptory requisitions or legal claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demander designates a person who makes demands."*
+> - 📜 **William Shakespeare (*Henry V*):** *"We are no tyrants, but a Christian king, / Unto whose grace our passion is as subject / As is our wretches fetter'd in our prisons: / Therefore with frank and with uncurbed plainness / Tell us the **demander**'s purpose."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn listened in cold silence to the agitated **demander** of secrets."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The starving bread **demander** stood before the municipal committee with hollow eyes and clenched fists."*

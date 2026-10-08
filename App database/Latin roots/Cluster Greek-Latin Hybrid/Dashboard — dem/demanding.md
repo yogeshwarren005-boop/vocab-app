@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demanding
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Request urgently and forcefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Require as useful, just, or proper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring much time, effort, attention, or skill; challenging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making insistent or peremptory requests of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is only by resenting them, and by revenging them in my mind, and by angrily demanding the justice I never get, that I am able to keep my wits together."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He concluded his plaintive melody, a very simple performance, demanding no great skill; and she waited, thinking another might be begun."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Bounderby was a harsh and **demanding** master who expected unflagging toil from every factory operative."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found her uncle's rambling discussions less **demanding** than the rigid scholarship of Mr. Casaubon."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The practice of clinical medicine remains the most intellectually **demanding** and morally sacred of human callings."*

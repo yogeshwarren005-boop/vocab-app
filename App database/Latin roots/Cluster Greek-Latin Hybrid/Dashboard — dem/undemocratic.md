@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # undemocratic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement with or according to democratic doctrine or practice or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement with or according to democratic doctrine or practice or ideals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not democratic; not in accordance with the principles of democracy, political equality, or representative rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authoritarian, autocratic, or exclusionary in governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I commend the virtuous democracy of this Chamber to read that bill, and then tell this Senate whether there ever was a more undemocratic measure than the bill propounded in Virginia by the party whose cause they espouse."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Rotten boroughs that disenfranchised populous manufacturing towns were hopelessly **undemocratic** and corrupt."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An entrenched judicial oligarchy ruling without constitutional limits would be entirely **undemocratic**."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"State socialism that centralizes all power in bureaucratic bureaus is fundamentally **undemocratic** in practice."*

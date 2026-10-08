@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demobilization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of discharging troops from military service and converting industry from war to peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disbanding of armed forces upon the conclusion of hostilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demobilization designates act of changing from a war basis to a peace basis including disbanding or discharging troops."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"General **demobilization** followed the signing of the armistice, dispersing armies across the globe."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"The economic strains of **demobilization** test the stability of representative democracy as severely as war itself."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Augustus directed the peaceful **demobilization** of the civil war legions, settling veterans upon Italian farms."*

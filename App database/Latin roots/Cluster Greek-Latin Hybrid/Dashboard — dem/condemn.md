@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # condemn
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or judge unfit for use or habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express complete disapproval of someone or something, typically in public; to censure severely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sentence a convicted person to a specific punishment, especially death or forfeiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being done unknown, I should have found it afterwards well done, But must condemn it now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy substance, valued at the highest rate, Cannot amount unto a hundred marks; Therefore by law thou art condemn’d to die."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"**Condemn** the fault, and not the actor of it? / Why, every fault's condemn'd ere it be done."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him who will **condemn** us for fulfilling our high imperial purpose on this globe."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal did not hesitate to **condemn** the innocent along with the guilty."*

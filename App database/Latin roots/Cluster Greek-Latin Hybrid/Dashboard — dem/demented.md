@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demented
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with madness or insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with madness or insanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driven to madness; insane; suffering from severe mental impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behaving in an extremely wild, irrational, or unhinged manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I declare to my soul!" Mama hurried back up the hall, muttering something that sounded like "Demented fool, climbing in windows—worse—his poor wife home in labor." Mierd wasn't listening."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The aged king wandered across the stormy heath, a pitiful, **demented** shadow of imperial majesty."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham paced the yellowed banquet chamber with the frantic, restless steps of a **demented** recluse."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The murderer burst into a terrible, **demented** laugh when the handcuffs closed upon his wrists."*

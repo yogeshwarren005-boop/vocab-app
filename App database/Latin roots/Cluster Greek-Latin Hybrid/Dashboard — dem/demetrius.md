@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demetrius
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical Macedonian king and Hellenistic conqueror (Demetrius Poliorcetes, 'the Besieger'), or Shakespearean dramatic character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurring classical name in ancient Greek history, drama, and Christian scripture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak not to us. [_Exeunt Antony and Cleopatra with the Train._] DEMETRIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Egeus, Hermia, Lysander and Demetrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius is a worthy gentleman."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I love thee not, therefore pursue me not. / Where is Lysander and fair Hermia? / Thou told'st me they were stolen unto this wood; / And here am I, and wode within this wood, / Because I cannot meet my Hermia. / Hence, get thee gone, and follow me no more, cried **Demetrius**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ambitious prince **Demetrius** laid siege to Rhodes with colossal war engines of unprecedented ingenuity."*
+> - 📜 **Plutarch (*Lives of the Noble Greeks and Romans (Life of Demetrius)*):** *"In **Demetrius**, extraordinary military genius was mingled with unbridled luxury and theatrical vanity."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demerara
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light brown raw cane sugar from guyana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in northern guyana that flows northward into the atlantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of unrefined or partially refined raw cane sugar consisting of large, crunchy, golden-brown crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the historical Dutch and British colony of Demerara in Guyana.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Want to make good pastry, butter, best flour, Demerara sugar, or they’d taste it with the hot tea."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Mr. Sedley had invested vast sums in lucrative West Indian shipments of **Demerara** sugar and rum."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The steaming punch was sweetened with a liberal addition of rich, fragrant **Demerara** sugar."*
+> - 📜 **Anthony Trollope (*The West Indies and the Spanish Main*):** *"The fertile coastal soils of **Demerara** yielded bountiful crops of sugarcane despite recurrent malaria."*

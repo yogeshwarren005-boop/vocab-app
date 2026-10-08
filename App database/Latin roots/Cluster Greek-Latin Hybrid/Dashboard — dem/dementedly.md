@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dementedly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insane manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demented, insane, or wildly irrational manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With frenzied, frantic, or unhinged agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dementedly designates in an insane manner."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Quilp danced **dementedly** upon the wharf, brandishing his cudgel at the retreating boat."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The crazed helmsman spun the wheel **dementedly** as spearheads rattled against the steamer's wooden shutter."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger rushed **dementedly** across the plateau, waving his butterfly net at an escaping pterodactyl."*

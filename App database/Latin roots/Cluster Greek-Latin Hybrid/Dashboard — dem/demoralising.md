@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoralising
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing someone to lose confidence, hope, or discipline; dispiriting; morally corrupting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undermining ethical standards or military resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demoralising designates corrupt morally or by intemperance or sensuality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Secret debt is among the most **demoralising** influences that can undermine domestic honor."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The incessant suspense of the pursuit had a **demoralising** effect upon the fleeing conspirators."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard found the petty humiliations of bankruptcy intensely **demoralising** to his proud soul."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # epidemic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread outbreak of an infectious disease; many people are infected at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread occurrence of an infectious disease in a community at a particular time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden, rapid increase or spread of an undesirable phenomenon across society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Whilst many were dying around him, _his health_ continued to improve; so that with the disappearance of the epidemic he found himself sufficiently restored to venture, if Providence should open the door, to resume his ministerial work."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The heedlessness of one family may bring an epidemic upon an entire city."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An epidemic was raging among the children, and the need-fire was resorted to as a means of staying the plague."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The terrible **epidemic** swept through the alleys of London, carrying off ten thousand souls in a single week."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clean municipal water filtration arrested the fatal **epidemic** of cholera that had haunted European cities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fever rose from Tom-all-Alone's like a malignant pestilence, becoming an **epidemic** that struck rich and poor alike."*

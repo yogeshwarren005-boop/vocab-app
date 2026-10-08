@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonolatry
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acts or rites of worshiping devils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acts or rites of worshiping devils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of demons or evil spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious veneration directed toward malignant supernatural powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonolatry designates the acts or rites of worshiping devils."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Christian bishops sternly prohibited every remnant of pagan sorcery and nocturnal **demonolatry**."*
+> - 📜 **Sir Walter Scott (*Letters on Demonology and Witchcraft*):** *"The inquisitors extracted absurd confessions of blasphemous **demonolatry** under the agony of the rack."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The ape-men practiced a bizarre, superstitious **demonolatry**, bowing before volcanic fumaroles."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagnetise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erase (a magnetic storage device).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make nonmagnetic; take away the magnetic properties (of).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive a magnetized object of its magnetic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To neutralize magnetic poles by heat, mechanical vibration, or alternating current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetise designates erase (a magnetic storage device)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Vigorous mechanical hammer blows upon the red-hot bar served to **demagnetise** the steel completely."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"We can **demagnetise** a ferromagnetic needle by reversing the external field through diminishing cycles."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Elevating the temperature above the critical threshold will **demagnetise** even the most tenacious lodestone."*

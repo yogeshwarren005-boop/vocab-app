@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democratize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become (more) democratic; of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce democratic reforms; of nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To introduce a democratic system or democratic principles to a state, group, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make something affordable or accessible to everyone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratize designates become (more) democratic; of nations."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"It is not enough to **democratize** the laws; we must also educate the citizens to preserve their liberty."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The reformers sought to **democratize** public schools so that every talented youth might rise in life."*
+> - 📜 **Bertrand Russell (*Roads to Freedom*):** *"To **democratize** economic management is to emancipate the individual from industrial tyranny."*

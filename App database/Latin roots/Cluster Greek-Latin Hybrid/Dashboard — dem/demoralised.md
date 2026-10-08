@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoralised
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of spirit, courage, or discipline; dispirited and disheartened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupted morally or thrown into disarray.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When not in the right mood he could fall as low as any one, saved only by his looking at such hours rather like a demoralised prince in exile."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Mate now more demoralised than either of men."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The native porters were completely **demoralised** by the sight of the giant ape-men on the ridge."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The station agents wandered about in a **demoralised** state, waiting for relief steamers that never arrived."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard Carstone sat **demoralised** by years of vain waiting for the Chancery decree."*

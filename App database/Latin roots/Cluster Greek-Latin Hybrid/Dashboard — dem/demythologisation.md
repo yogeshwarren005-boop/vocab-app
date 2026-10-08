@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demythologisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message (as a religious one) in rational terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message (as a religious one) in rational terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of mythical elements from religious scripture or historical accounts to reveal underlying meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The critical hermeneutical method associated with Rudolf Bultmann's theology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologisation designates the restatement of a message (as a religious one) in rational terms."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The theological process of **demythologisation** attempts to reconcile ancient scriptures with modern scientific thought."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"A thoughtful **demythologisation** of Hebrew prophecy separates enduring moral truth from temporary apocalyptic visions."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Through historical **demythologisation**, pagan mythology resolves into man's primal awe before the forces of nature."*

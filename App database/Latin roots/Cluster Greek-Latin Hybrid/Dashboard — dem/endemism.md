@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endemism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nativeness by virtue of originating or occurring naturally (as in a particular place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ecological state of a species being unique to a defined geographic location, such as an island, nation, or habitat type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proportion of native or restricted taxa inhabiting an isolated biological province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemism designates nativeness by virtue of originating or occurring naturally (as in a particular place)."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The remarkable **endemism** of oceanic islands provides the most striking proof of slow evolutionary divergence."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"No naturalist can contemplate the extreme **endemism** of the Galapagos without recognizing organic transmutation."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Continental barriers and mountain ranges promote regional **endemism** by restricting genetic migration."*

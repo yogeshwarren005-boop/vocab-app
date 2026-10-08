@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demotion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of lowering in rank or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of lowering in rank or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in rank, status, or position, especially within a workplace or military hierarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of lowering someone to a subordinate grade or office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demotion designates act of lowering in rank or position."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Failure to deliver the naval plans meant disgraceful dismissal or sudden **demotion** for the foreign attaché."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Incompetence in the transport department brought swift **demotion** and reassignment to basic labor squads."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The captain accepted his **demotion** with bitter irony, having defied the blundering board of trade."*

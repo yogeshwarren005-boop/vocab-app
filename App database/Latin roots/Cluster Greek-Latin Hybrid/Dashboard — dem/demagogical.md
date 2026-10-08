@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagogical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling a demagogue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling a demagogue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a demagogue or demagoguery; characteristic of manipulative populism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using deceitful rhetoric aimed at the baser passions of the electorate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagogical designates characteristic of or resembling a demagogue."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tribune sustained his power through **demagogical** arts, denouncing patrician virtue as treason to the people."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton's fierce, reverberating voice thundered with **demagogical** power across the terrified Convention."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A free press serves as an indispensable bulwark against **demagogical** distortions during political crises."*

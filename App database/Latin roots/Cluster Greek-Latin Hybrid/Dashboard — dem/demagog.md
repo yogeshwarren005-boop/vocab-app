@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagog
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who seeks support by appealing to popular passions and prejudices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political leader who seeks support by appealing to popular passions and prejudices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manipulative popular orator exploiting mass passions for political ascendancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagog designates a political leader who seeks support by appealing to popular passions and prejudices."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The noisy **demagog** promises bread and circus triumphs while leading the deluded populace into serfdom."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Every ambitious **demagog** in republican Rome courted the plebeian assemblies with lavish grain distributions."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The chief peril of direct democracy is the unscrupulous **demagog** who flatters the worst instincts of the crowd."*

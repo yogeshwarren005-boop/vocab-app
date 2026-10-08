@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demythologized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mythical elements removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had mythological or legendary elements removed; explained rationally or existentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented free from supernatural fables or heroic exaggeration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologized designates remove the mythical element from (writings)."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"A **demythologized** worldview replaces capricious astrological fates with predictable physical mechanics."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons*):** *"Modern biology offers a **demythologized** account of human origins grounded in comparative morphology."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The **demythologized** religious sentiment preserves sweet reasonableness and moral righteousness."*

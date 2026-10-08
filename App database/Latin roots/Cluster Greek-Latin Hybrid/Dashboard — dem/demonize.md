@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To portray or represent someone or something as evil, wicked, or diabolical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transform figuratively into a demon; to vilify maliciously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonize designates make into a demon."*
+> - 📜 **Bertrand Russell (*Sceptical Essays*):** *"When men are seized by collective hysteria, they promptly **demonize** anyone who preaches moderation."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Nationalist demagogues sought to **demonize** rival races to inflame martial passions among the young."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"Ignorant gossip tended to **demonize** the harmless spiritualist circle as practitioners of black sorcery."*

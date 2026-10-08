@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obvious and provable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obvious and provable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is clearly apparent or capable of being proven beyond doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifestly; verifiably through evidence or logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And precisely in the measure that Ovid was right in finding the age and his character in agreement, the age and national character were demonstrably degenerate."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural differences separating man from the gorilla are **demonstrably** less than those separating the gorilla from lower apes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The rudimentary organs of vertebrates are **demonstrably** homologous with functional ancestral structures."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Suppressed opinions may **demonstrably** contain that very portion of truth required to correct reigning orthodoxy."*

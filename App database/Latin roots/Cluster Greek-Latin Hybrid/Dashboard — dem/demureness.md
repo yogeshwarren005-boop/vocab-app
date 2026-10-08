@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demureness
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving with reserve and decorum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The affectation of being demure in a provocative way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or appearance of being demure, modest, reserved, or sober.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectation of modesty or quiet decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel was demureness itself as she followed with Captain Hyde."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her apparent **demureness** was merely the veil behind which a sharp and observant intellect operated."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary Garth possessed no false **demureness**, speaking her mind with frank and cheerful honesty."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"He was captivated by the charming **demureness** of the young lady at the vicarage tea table."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demurral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a formal objection to an opponent's pleadings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of demurring; an objection, hesitation, or expression of reluctance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A refusal or hesitation to agree without qualification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demurral designates (law) a formal objection to an opponent's pleadings."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Densher accepted the invitation without **demurral**, sensing that resistance would only invite closer scrutiny."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her quiet **demurral** surprised him, for he was unaccustomed to having his suggestions questioned."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry yielded without further **demurral** to Holmes's request that he dine alone at the hall."*

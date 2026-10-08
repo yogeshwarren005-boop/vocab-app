@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstratively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demonstrative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a demonstrative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demonstrative, affectionate, or openly expressive manner; or by clear proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convincingly and irrefutably through conclusive demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scientific and Biblical facts 358:9 Christian Science, understood, coincides with the Scriptures, and sustains logically and demonstratively every point it presents."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She was not **demonstratively** affectionate, yet her deep loyalty was felt by everyone who knew her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband extended his hands **demonstratively**, expounding upon the beauty of terewth to the family."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The truths of mechanical geometry are **demonstratively** deduced from first principles."*

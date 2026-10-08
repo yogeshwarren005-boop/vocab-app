@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demographer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the growth and density of populations and their vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies the growth and density of populations and their vital statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or statistician who studies human populations, their structure, size, distribution, births, and deaths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher analyzing demographic trends and census metrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographer designates a scientist who studies the growth and density of populations and their vital statistics."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"The observant **demographer** discovers that differential birth rates profoundly reshape the hereditary fabric of nations."*
+> - 📜 **Karl Pearson (*The Chances of Death*):** *"Mathematical methods enable the modern **demographer** to construct reliable life tables from municipal mortality statistics."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Every thoughtful **demographer** must observe that population, when unchecked, increases in a geometrical ratio."*

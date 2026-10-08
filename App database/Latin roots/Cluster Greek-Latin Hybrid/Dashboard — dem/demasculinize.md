@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demasculinize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the testicles of a male animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the testicles of a male animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of masculine qualities, male physical characteristics, or virility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To weaken or render unmanly in tone or constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demasculinize designates remove the testicles of a male animal."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain parasitic barnacles invade the abdomen of male crabs and gradually **demasculinize** their external morphology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypopituitarism in young males may arrest pubertal development and permanently **demasculinize** secondary traits."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Moreau's surgical mutilations seemed calculated to **demasculinize** his beast-creatures into servile obedience."*

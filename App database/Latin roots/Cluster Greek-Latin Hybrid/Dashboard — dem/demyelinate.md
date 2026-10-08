@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demyelinate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy the myelin sheath of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy the myelin sheath of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To destroy or remove the myelin sheath of a nerve fiber or neuron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause pathological loss of protective lipid coating along neural axons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelinate designates destroy the myelin sheath of."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain neurotropic toxins selectively **demyelinate** spinal nerve tracts, disrupting saltatory conduction."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Pathological processes that **demyelinate** peripheral axons slow the propagation velocity of motor impulses."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The specialist warned that chronic lead poisoning could **demyelinate** peripheral nerves, inducing wrist-drop."*

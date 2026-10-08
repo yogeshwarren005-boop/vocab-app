@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democratically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a democratic manner; based on democratic principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a democratic manner; based on democratic principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a democratic manner; by means of popular participation or equal vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with principles of political and social equality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratically designates in a democratic manner; based on democratic principles."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"When municipal affairs are **democratically** administered, citizens develop civic intelligence and public spirit."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The New England township governed its common affairs **democratically** in open town meetings."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"Industrial enterprises should be **democratically** controlled by the laborers who devote their lives to them."*

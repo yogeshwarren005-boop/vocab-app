@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demimondaine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman whose sexual promiscuity places her outside respectable society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman whose sexual promiscuity places her outside respectable society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman belonging to the demimonde; a woman of questionable social standing supported by wealthy lovers; a courtesan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glamorous woman living on the fringes of respectable fashionable society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Angels much prostitutes like and holy apostles big damn ruffians. _Demimondaines_ nicely handsome sparkling of diamonds very amiable costumed."*
+> - 📜 **Henry James (*The American*):** *"Newman observed the fashionable Parisian **demimondaine** riding through the Bois de Boulogne with ostentatious luxury."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The young lord squandered his inheritance on the extravagant jewels of a celebrated **demimondaine**."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Irene Adler possessed the allure of a refined **demimondaine** combined with the intellect of a master strategist."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonism
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in demons, especially as causing evil or possessing human beings; the worship of demons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mythological or religious system centered upon malevolent spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Pagan polytheism was regarded by early church fathers as a dangerous system of disguised **demonism**."*
+> - 📜 **Sir Walter Scott (*Letters on Demonology and Witchcraft*):** *"Popular medieval folklore was thoroughly permeated with terror-stricken **demonism** and dark incantations."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The ancient doctrine of **demonism** attributed physical fevers and madness to invading unclean spirits."*

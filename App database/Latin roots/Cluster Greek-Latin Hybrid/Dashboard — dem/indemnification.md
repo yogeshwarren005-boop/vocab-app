@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # indemnification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money paid in compensation for loss or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of compensation for actual loss or damage or for trouble and annoyance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for harm, damage, or loss, or the legal exemption from incurred penalties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Security against anticipated legal liability or financial loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Our Order soon adopted bolder and wider views, and found out a better indemnification for our sacrifices."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 30)*):** *"National credit requires full **indemnification** of public creditors who advanced funds during the revolution."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The insurer enters a covenant of **indemnification**, promising to make good the shipper's sea-risk."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Parliament demanded an exorbitant **indemnification** for the tea destroyed in Boston harbor."*

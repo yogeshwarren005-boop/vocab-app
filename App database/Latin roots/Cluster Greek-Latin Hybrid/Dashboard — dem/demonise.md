@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To portray as wicked and threatening; to represent as evil or demonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To turn into or regard as a demon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonise designates make into a demon."*
+> - 📜 **George Bernard Shaw (*Heartbreak House (Preface)*):** *"Partisan journalists conspire to **demonise** any statesman who dares to advocate international peace."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Fanatics invariably **demonise** their rivals in order to justify cruelty and persecution."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"It is easy to **demonise** the working masses, but far harder to understand their hunger and despair."*

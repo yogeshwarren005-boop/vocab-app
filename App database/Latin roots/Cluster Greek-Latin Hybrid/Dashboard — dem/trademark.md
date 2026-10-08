@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # trademark
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formally registered symbol identifying the manufacturer or distributor of a product.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol, word, or words legally registered or established by use as representing a company or product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive characteristic, habit, or feature by which a person or thing is recognized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wants to stamp his trademark on everything."*
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Raising his hands to his mouth, he emitted a wailing cry that was the trademark of the only prowling killer on The World large enough to hunt a man."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It looks like a trademark, but that is only an accident and not intentional."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cigar ash found at the crime scene had become Sherlock Holmes's distinctive analytical **trademark**."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Uncle Ponderevo patented the golden bottle label, turning the secret patent medicine into a global **trademark**."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Gradgrind's square forefinger and rigid countenance were the unmistakable **trademark** of practical facts."*

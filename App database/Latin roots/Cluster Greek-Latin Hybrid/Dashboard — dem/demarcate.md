@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demarcate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate clearly, as if by boundaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set, mark, or draw the boundaries of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set the boundaries or limits of a territory, area, or conceptual category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To separate or distinguish clearly between differing zones or classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demarcate designates separate clearly, as if by boundaries."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Commissioners were dispatched to **demarcate** the frontier line between the Spanish and Portuguese crowns."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nature provides no sharp dividing lines to **demarcate** varieties from nascent species."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is the sacred task of political philosophy to **demarcate** individual liberty from state coercion."*

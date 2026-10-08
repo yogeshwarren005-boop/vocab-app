@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demosthenic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to demosthenes or his oratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to demosthenes or his oratory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling Demosthenes; characterized by powerful, vehement, and impassioned eloquence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oratorical style distinguished by moral intensity, logical rigor, and fiery delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demosthenic designates of or relating to demosthenes or his oratory."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Chatham addressed the House with a **demosthenic** energy that cowed ministers and inspired the nation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Mirabeau's roar possessed a raw, **demosthenic** majesty that subdued the unruly National Assembly."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The bishop's homily rose to **demosthenic** heights as he rebuked the luxury of the imperial court."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demolishing
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete destruction of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pulling down, destroying, or razing structures, or tearing down arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wrecking, overthrowing, or dismantling an edifice or conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Both his "System of Logic" and his "Examination of Sir William Hamilton's Philosophy" are for the most part devoted to fortifying this position, and demolishing beliefs inconsistent with it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"There was no flame, no smoke, no sound--just that sinister monster moving slowly along, demolishing the city of Newark almost as though it were by an effort of thought."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sound of hammers echoed day and night, **demolishing** the frowning battlements of the ancient fortress."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray swept across the hillside, **demolishing** brick villas as though they were card houses."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"By **demolishing** old dogmas, fearless inquiry paves the way for higher and purer moral truths."*

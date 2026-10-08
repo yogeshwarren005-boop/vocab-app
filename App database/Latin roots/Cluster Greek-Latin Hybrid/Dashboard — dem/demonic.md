@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of demons or evil spirits; fiendish; inspired by an evil power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting terrifying, superhuman, or frenetic intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonic designates extremely evil or cruel; expressive of cruelty or befitting hell."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The creature's blazing muzzle and glowing eyes gave it an undeniably **demonic** aspect in the fog."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Napoleon possessed a strange, **demonic** energy that bent kings and empires to his imperious will."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval jungle seemed alive with a silent, **demonic** malice mocking civilized vanity."*

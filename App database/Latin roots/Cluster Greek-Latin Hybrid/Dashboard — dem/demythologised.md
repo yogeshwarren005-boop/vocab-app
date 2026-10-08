@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demythologised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mythical elements removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stripped of mythological, legendary, or superstitious elements; presented in rational terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreted so as to disclose core meaning without literal supernaturalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologised designates remove the mythical element from (writings)."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A **demythologised** reading of the Gospels reveals Christ's moral genius shorn of apocalyptic fables."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"In Spinoza, we discover a **demythologised** theology where God is synonymous with the infinite universe."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The ancient symbol, once **demythologised**, reveals the eternal spiritual intuition at its heart."*

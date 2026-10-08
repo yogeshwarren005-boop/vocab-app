@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demarche
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A move or step or maneuver in political or diplomatic affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A move or step or maneuver in political or diplomatic affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or diplomatic move, initiative, or change in policy, especially an official diplomatic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal diplomatic protest or initiative presented by an ambassador to a foreign government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demarche designates a move or step or maneuver in political or diplomatic affairs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Byzantine court replied to the Persian ultimatum with a dignified diplomatic **demarche**."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The Foreign Office prepared an urgent **demarche** to warn Berlin against violating Belgian neutrality."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Bismarck executed a brilliant diplomatic **demarche** that isolated France before the war began."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # endemical
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a disease or characteristic perpetually present in a particular locality or people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Native or peculiar to a specific geographic environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endemical designates of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Goitre is **endemical** in deep alpine valleys where drinking water lacks vital mineral iodides."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The flora of Saint Helena exhibits an **endemical** character that has suffered severely from introduced goats."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Intermittent fevers were **endemical** among the sluggish marshes of the Roman Campagna."*

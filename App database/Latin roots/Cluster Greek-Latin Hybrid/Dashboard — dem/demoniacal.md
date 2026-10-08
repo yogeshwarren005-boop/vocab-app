@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoniacal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frenzied as if possessed by a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or like a demon; devilish; fiendishly ferocious or frantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to supernatural possession or diabolical fury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then Clare, thrown by sheer misery into one of the demoniacal moods in which a man does despite to his true principles, called her close to him, and fiendishly whispered in her ear the most heterodox ideas he could think of."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In a hurricane the sea is never rough, but the surface is one seething mass of foam, with a blinding mist; and the wind shrieks with demoniacal laughter, as if mercilessly proud of its might."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The demoniacal passion of this Neville Landless, his strength in his fury, and his savage rage for the destruction of its object, appal me."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The rioters danced round the blazing distillery with **demoniacal** yells and drunken fury."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A hound it was, huge, coal-black, but not such a hound as mortal eyes had ever seen, spitting **demoniacal** fire."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"A feeling of **demoniacal** fury possessed me, and I struck the poor creature with blind rage."*

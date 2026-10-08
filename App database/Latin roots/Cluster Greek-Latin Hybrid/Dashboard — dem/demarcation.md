@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demarcation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a specific area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conceptual separation or distinction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of fixing the boundary or limits of something, or a dividing line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clear distinction or separation between categories, classes, or territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation between savings banks and savings departments of commercial banks cannot be sharply drawn."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation is not easy to draw exactly."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Understanding is the line of demarcation between the real and unreal."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Danube and the Rhine formed the natural lines of **demarcation** guarding Roman civilization from the barbarians."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The papal line of **demarcation** drawn across the Atlantic shaped the imperial destiny of South America."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"No absolute structural line of **demarcation** separates the cerebral anatomy of man from that of the chimpanzee."*

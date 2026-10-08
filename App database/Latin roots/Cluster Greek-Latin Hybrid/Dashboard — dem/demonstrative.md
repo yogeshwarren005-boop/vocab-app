@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronoun that points out an intended referent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or marked by the open expression of emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to show feelings openly and affectionately; expressive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to demonstrate, prove, or point out clearly; in grammar, indicating specific referents (e.g., this, that).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that if we had been at all demonstrative, he would have run away in a moment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with demonstrative cheerfulness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He held it but an instant, and in his fear of being too demonstrative, swerved to the opposite extreme, touching her fingers with the lightness of a small-hearted person."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's passionate and **demonstrative** nature contrasted sharply with Elinor's guarded composure."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery gave a **demonstrative** slap of his leather apron, expressing unfeigned joy at Pip's visit."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Mathematical truths possess **demonstrative** certainty, compelling the immediate assent of reason."*

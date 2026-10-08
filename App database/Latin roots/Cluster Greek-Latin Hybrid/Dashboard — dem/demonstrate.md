@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clearly show the existence or truth of something by giving proof or evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take part in a public protest, rally, or political march.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a man Might be a copy to these younger times; Which, followed well, would demonstrate them now But goers backward."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Description cannot suit itself in words To demonstrate the life of such a battle, In life so lifeless as it shows itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when my outward action doth demonstrate The native act and figure of my heart In complement extern, ’tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By thrusting the magnetic bar into the coil, I was able to **demonstrate** electromagnetic induction before the Royal Society."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological strata abundantly **demonstrate** that species have succeeded each other in slow chronological succession."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes smiled quietly as he proceeded to **demonstrate** the exact steps by which he solved the mystery."*

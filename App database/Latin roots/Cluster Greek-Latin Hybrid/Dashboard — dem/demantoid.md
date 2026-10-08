@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demantoid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green andradite used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green andradite used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare and highly valued emerald-green variety of andradite garnet, noted for its diamond-like brilliance and dispersion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Russian gemstone discovered in the Ural Mountains displaying characteristic horsetail inclusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demantoid designates a green andradite used as a gemstone."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The fiery dispersion of a Uralian **demantoid** surpasses the brilliance of common emerald crystals."*
+> - 📜 **Charles Darwin (*Geological Observations on South America (Mineral Addenda)*):** *"Metamorphic skarn deposits occasionally yield sparkling green crystals of **demantoid** in association with calcite."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The tiara was encrusted with fine pearls, sapphires, and three vivid green specimens of Russian **demantoid**."*

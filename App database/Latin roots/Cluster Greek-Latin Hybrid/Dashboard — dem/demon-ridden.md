@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demon-ridden
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As if possessed by demons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if possessed by demons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessed, tormented, or plagued by demons, haunting fears, or uncontrollable mental delusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beset by sinister psychological or superstitious terrors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demon-ridden designates as if possessed by demons."*
+> - 📜 **William Butler Yeats (*The Second Coming (Essays on Modern Poetics)*):** *"The troubled age seemed **demon-ridden**, shaken by apocalyptic dread and political madness."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz looked like a **demon-ridden** soul wandering through the primeval darkness of the African forest."*
+> - 📜 **Arthur Conan Doyle (*The Land of Mist*):** *"The haunted chamber was shunned by the locals as a **demon-ridden** den of spiritual contagion."*

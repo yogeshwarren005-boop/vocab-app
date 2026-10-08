@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demean
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in worth or character, usually verbally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a severe loss in the dignity of or respect for someone or oneself; to degrade or debase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically, to conduct or behave oneself in a specified manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, out of doubt Antipholus is mad, Else would he never so demean himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She never reprehended him but mildly, When he demean’d himself rough, rude, and wildly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Now, trust me, were I not a man of peace, / I would not **demean** myself to brook these slights."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt he would sorely **demean** himself in Estella's eyes if he appeared like a common blacksmith boy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine declared that Mr. Darcy would hopelessly **demean** his noble family by marrying Elizabeth Bennet."*

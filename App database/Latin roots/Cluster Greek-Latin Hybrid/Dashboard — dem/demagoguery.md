@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagoguery
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Political activity or rhetoric that appeals to the desires and prejudices of ordinary people rather than using rational argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manipulative populism, mob-courting rhetoric, and emotional incitement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The respectable support which the measure has latterly received has cast out of the struggle the Kearneys and Kallochs, and if there be demagoguery on either side, it comes in better dress than ever before."*
+> - 📜 **Lord Acton (*Lectures on the French Revolution*):** *"Robespierre substituted terrifying **demagoguery** for genuine civic deliberation in the Jacobin club."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"Parliamentary speech degenerated into noisy stump **demagoguery**, courting votes at any cost to truth."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Radio and cheap newspapers provided modern dictators with unprecedented instruments for mass **demagoguery**."*

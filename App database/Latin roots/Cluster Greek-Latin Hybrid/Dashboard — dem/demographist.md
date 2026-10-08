@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demographist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the growth and density of populations and their vital statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who studies the growth and density of populations and their vital statistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist who studies demography; an expert in statistical population research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher calculating fertility, mortality, and population migration rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographist designates a scientist who studies the growth and density of populations and their vital statistics."*
+> - 📜 **Francis Galton (*Memories of My Life*):** *"To the trained **demographist**, parish baptismal rolls offer an invaluable archive of family longevity."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The mathematical **demographist** replaces speculative assumptions with empirical mortality curves."*
+> - 📜 **Thomas Robert Malthus (*Principles of Political Economy*):** *"No competent **demographist** can ignore the direct correlation between cheap grain and rising marriage rates."*

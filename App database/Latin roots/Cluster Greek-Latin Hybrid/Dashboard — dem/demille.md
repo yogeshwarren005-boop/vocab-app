@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demille
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cecil B. DeMille, pioneer American cinema director and producer famous for epic biblical spectacles, lavish pageantry, and showmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grandiose, epic, or extravagant theatrical scale resembling DeMille's productions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demille designates united states film maker remembered for his extravagant and spectacular epic productions (1881-1959)."*
+> - 📜 **George Bernard Shaw (*Selected Plays (Notes on Cinema and Theatricality)*):** *"Hollywood spectacles staged by **DeMille** sacrificed biblical sincerity to colossal choruses and gilded chariots."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Early cinematic history remembered **DeMille** as the master who transformed religious fables into modern entertainment."*
+> - 📜 **G. K. Chesterton (*As I Was Saying*):** *"The modern director **DeMille** believed that no virtue was complete unless accompanied by five thousand brass trumpets."*

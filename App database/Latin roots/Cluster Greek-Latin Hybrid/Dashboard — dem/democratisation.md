@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democratisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making something democratic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of making something democratic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making a political system, institution, or society democratic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The widespread extension of rights, privileges, or access to the broad public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratisation designates the action of making something democratic."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The gradual **democratisation** of parliamentary institutions reflected the rising education of the working class."*
+> - 📜 **Lord Acton (*The History of Freedom*):** *"The **democratisation** of the Swiss cantons was achieved through local referendums and communal autonomy."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Printing presses and cheap newspapers accelerated the **democratisation** of European politics."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demesne
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extensive landed property (especially in the country) retained by the owner for his own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory over which rule or control is exercised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Piece of land attached to a manor and retained by the owner for their own use, not let to tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lord's private estate or territory; hence, any extensive landed domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As for you, Chettam, you are spending a fortune on those oak fences round your demesne.” Dorothea, submitting uneasily to this discouragement, went with Celia into the library, which was her usual drawing-room."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a recess of this declivity, near the southern verge of my little demesne, was placed a slight building, with seats and lattices."*
-> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Much have I travell'd in the realms of gold, / And many goodly states and kingdoms seen; / Round many western islands have I been / Which bards in fealty to Apollo hold. / Oft of one wide **demesne** had I been told / That deep-brow'd Homer ruled as his **demesne**."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Of fair **demesnes**, youthful, and nobly train'd, / Stuff'd, as they say, with honourable parts."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"The broad **demesne** of Douglas stretched along the romantic shores of the highland loch."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # indemnity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protection against future loss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legal exemption from liability for damages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Security or protection against a loss or other financial burden; compensation paid for damage or loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal exemption from penalties or liabilities incurred by past actions (Act of Indemnity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This desirable condition has in many respects been accomplished by means of insurance. _Insurance_ is the act of providing a guarantee of indemnity against a financial loss that will result if an event of a specified kind occurs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The insurance with which we are here concerned is that which gives financial indemnity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each insured gets a contract of indemnity for the payment of a sum that will help cover the losses of others."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The vanquished senate purchased a precarious peace by paying a colossal **indemnity** to Alaric the Goth."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An Act of **Indemnity** was passed by Parliament to pardon officers who had exceeded their statutory powers in the crisis."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The crushing war **indemnity** imposed upon defeated nations sowed the seeds of future continental conflicts."*

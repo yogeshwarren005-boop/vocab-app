@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demyelination
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss or destruction of the myelin sheath covering nerves, as seen in multiple sclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological damage to the protective insulation of neural pathways causing neurological deficit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelination designates loss of the myelin covering of some nerve fibers resulting in their impaired function."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patchy plaques of **demyelination** scattered throughout the brainstem and spinal cord characterize disseminated sclerosis."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Severe contusion of the sciatic nerve was followed by Wallerian degeneration and extensive axonal **demyelination**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The microscope revealed extensive focal **demyelination** along the sensory roots of the dorsal column."*

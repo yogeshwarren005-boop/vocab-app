@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demeter
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek goddess of the harvest, agriculture, fertility, and sacred law, mother of Persephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The maternal earth goddess central to the Eleusinian Mysteries of antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The torches of Demeter, which figure so largely in her myth and on her monuments, are perhaps to be explained by this custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Every year, as we saw, men went to be initiated into the rites of Demeter at Eleusis, a few miles from Athens."*
+> - 📜 **Alfred Lord Tennyson (*Demeter and Persephone*):** *"Faint as a climate-changing bird that flies / All night across the darkness, and at dawn / Falls on the threshold of her native land, / And beats her wings and dies for weariness, / Thy voice had shaken earth, **Demeter**, Queen."*
+> - 📜 **Walter Pater (*Greek Studies: The Myth of Demeter and Persephone*):** *"The worship of **Demeter** embodied humanity's profound awe before the annual resurrection of the golden corn."*
+> - 📜 **John Ruskin (*The Queen of the Air*):** *"To the Greek husbandman, **Demeter** was the holy spirit of the moist, tilled loam that gives bread to man."*

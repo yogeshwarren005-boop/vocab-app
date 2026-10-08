@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagogic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling a demagogue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling a demagogue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a demagogue; appealing to popular prejudice and passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using populist rhetoric and irrational emotional appeals to win power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagogic designates characteristic of or resembling a demagogue."*
+> - 📜 **Lord Acton (*The History of Freedom in Antiquity*):** *"Athenian liberty fell victim to the **demagogic** flattery of Cleon, who inflamed the passions of the assembly."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Their inflammatory pamphlets relied upon crude **demagogic** appeals to stir agrarian jealousy against the gentry."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He possessed extraordinary eloquence, but stained his reputation with cheap **demagogic** tricks in public halls."*

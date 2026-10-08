@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # condemnation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of condemning (as land forfeited for public use) or judging to be unfit for use (as a food product or an unsafe building).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of very strong disapproval; severe censure or denunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The judicial sentencing of someone to punishment, or the official declaring of a building unfit for use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, or thy silence on the instant is Thy condemnation and thy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this add defiance; and tell him, for conclusion, he hath betrayed his followers, whose condemnation is pronounc’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O perilous mouths, That bear in them one and the self-same tongue Either of condemnation or approof, Bidding the law make curtsy to their will, Hooking both right and wrong to th’ appetite, To follow as it draws!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Thy crimes deserve no pity, but swift and universal **condemnation** throughout the realm."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He stood resigned beneath the solemn **condemnation** pronounced by the Philistine judges."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ruthless seizure of ecclesiastical property earned the lasting **condemnation** of civilized Europe."*

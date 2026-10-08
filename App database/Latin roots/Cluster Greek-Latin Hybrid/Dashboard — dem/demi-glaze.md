@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demi-glaze
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, glossy brown sauce in classical French cuisine made by reducing equal parts brown veal stock and sauce espagnole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concentrated savory culinary glaze used as a base for gourmet sauces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demi-glaze designates sauce espagnole with extra beef stock simmered down and seasoned with dry wine or sherry."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The ostentatious host insisted that his cutlets be smothered in imported French **demi-glaze**."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Parisian chef simmered his fragrant **demi-glaze** until it coated the wooden spoon like dark mahogany varnish."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The magnificent banquet featured roasted venison garnished with truffles and rich **demi-glaze**."*

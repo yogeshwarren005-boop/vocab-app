@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demographic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to demography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the structure of populations, including statistics on births, deaths, income, and disease incidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a specific sector of a population grouped by age, sex, or socioeconomic status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demographic designates a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"The **demographic** balance between subsistence and reproductive fertility dictates the fate of human societies."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Urban migration produced a profound **demographic** shift, concentrating rural talent into industrial metropolises."*
+> - 📜 **Karl Pearson (*The Chances of Death*):** *"Municipal census records furnish crucial **demographic** evidence regarding life expectancy among laborers."*

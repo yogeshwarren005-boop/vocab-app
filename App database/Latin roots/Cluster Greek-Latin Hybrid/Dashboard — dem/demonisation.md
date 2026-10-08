@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent as diabolically evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent as diabolically evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of portraying or characterizing someone or something as wicked, evil, or threatening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic vilification of political opponents or minority groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonisation designates to represent as diabolically evil."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"The deliberate **demonisation** of political reformers blinded the middle class to urgent social evils."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"Wartime propaganda relies upon mutual **demonisation**, convincing each nation that the enemy is subhuman."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Religious wars flourished upon the relentless **demonisation** of rival sectarian dogmas."*

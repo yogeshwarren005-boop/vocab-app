@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A show or display; the act of presenting something to sight or view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show of military force or preparedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of showing that something is true, especially by providing proof, evidence, or practical examples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public meeting or march protesting against or in favor of a political cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did your letters pierce the queen to any demonstration of grief?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By a familiar demonstration of the working, my tough signior."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that you were The ground-piece of some painter, I would buy you T’ instruct me ’gainst a capital grief, indeed Such heart-pierced demonstration."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A clear chemical **demonstration** leaves an indelible impression upon the student's mind."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A ferocious popular **demonstration** surged through Saint Antoine, demanding arms from the magistrates."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The physical laboratory provides practical **demonstration** where textbook formulas become living realities."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # trademarked
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a brand or trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register the trademark of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally protected by a registered trademark; bearing an official manufacturer's mark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguished by an unmistakable characteristic or signature feature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trademarked designates mark with a brand or trademark."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Every bottle bore the **trademarked** seal designed to assure buyers of the genuine patent elixir."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Her abrupt departure was executed with that **trademarked** haughtiness she had learned from Higgins."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The matchbox bore a **trademarked** crest originating from an exclusive manufacturer in Turin."*

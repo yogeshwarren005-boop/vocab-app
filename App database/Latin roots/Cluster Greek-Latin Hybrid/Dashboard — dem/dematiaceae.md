@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dematiaceae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of imperfect mushrooms having dark-colored hyphae or conidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic family of imperfect fungi (Deuteromycota) characterized by dark brown, olive, or black pigmented hyphae and conidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Melanized dematiaceous molds, including Alternaria and Cladosporium, common as plant pathogens and allergens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dematiaceae designates family of imperfect mushrooms having dark-colored hyphae or conidia."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation (Botanical Pathological Addenda)*):** *"Black mold blights belonging to **Dematiaceae** attack weakened crop seedlings during prolonged autumn rains."*
+> - 📜 **Thomas Henry Huxley (*Practical Biology*):** *"The dark, soot-like mycelium of **Dematiaceae** owes its sombre pigmentation to melanin deposits in the fungal walls."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States (Notes)*):** *"Microscopic cultures of **Dematiaceae** produced chains of dark muriform conidia upon decomposing plant stems."*

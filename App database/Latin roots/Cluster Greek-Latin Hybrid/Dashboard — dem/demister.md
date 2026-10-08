@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demister
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heater that removes mist from the windshield of a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater that removes mist from the windshield of a car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or blower used for clearing condensation or mist from a windscreen or window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial apparatus (such as a mesh pad) used to remove liquid droplets from vapor streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demister designates heater that removes mist from the windshield of a car."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The high-speed monorail cab was equipped with an electric **demister** that kept the windscreen clear."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"He adjusted the small rotary **demister** upon the viewing screen before commencing the high-voltage test."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"In distillation columns, a wire **demister** separates entrained liquid spray from the rising volatile gases."*

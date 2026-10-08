@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demilitarise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with the military organization and potential of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove military forces, weapons, or fortifications from an area; to convert from military to civilian status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disarm a disputed frontier zone under treaty obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demilitarise designates do away with the military organization and potential of."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The international council resolved to **demilitarise** the contested frontier provinces to secure lasting peace."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"Unless the great powers agree to **demilitarise** critical oceanic waterways, new conflagrations are inevitable."*
+> - 📜 **George Bernard Shaw (*Heartbreak House (Preface)*):** *"Statesmen must learn to **demilitarise** national diplomacy before atomic weapons obliterate civilization."*

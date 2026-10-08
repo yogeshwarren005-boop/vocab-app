@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # misdemeanor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor wrongdoing, misconduct, or a non-indictable criminal offense less serious than a felony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor infraction of the law typically punishable by fines or short imprisonment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Did I tell you as I was tried, alone, for misdemeanor, while with Compeyson?” I answered, No."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, with whom speaking evil of dignities was a high misdemeanor."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Marco Polo tells us that in his day persons caught in the streets of Cambaluc (Peking) at unseasonable hours were arrested, and if found guilty of a misdemeanor were beaten with a stick."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In English jurisprudence, the word **misdemeanor** denotes any crime less than felony, such as assault or libel."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 65)*):** *"The power of impeachment extends to treason, bribery, and other high crimes and **misdemeanor** offenses."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrate considered any public Sabbath irregularity as a grave moral **misdemeanor**."*

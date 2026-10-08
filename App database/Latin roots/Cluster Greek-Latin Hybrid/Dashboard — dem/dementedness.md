@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dementedness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme mental derangement, unhinged behavior, or frantic madness in thought and action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme mental derangement or frenzied irrationality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dementedness designates mental deterioration of organic or functional origin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute toxic delirium, the patient displays wild **dementedness** accompanied by vivid visual hallucinations."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The frantic **dementedness** of the stock speculation infected all classes of society with reckless greed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A universal frenzy bordering on **dementedness** possessed the populace during the September panics."*

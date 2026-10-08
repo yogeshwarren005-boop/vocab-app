@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # condemnatory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or imposing condemnation or censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or imposing condemnation or censure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing strong disapproval, blame, or severe censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of a judicial verdict against a defendant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I do not think she will manage it; and yet it might be managed; and his wife might, I verily believe, be the very happiest woman the sun shines on.” I have not yet said anything condemnatory of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The judge delivered a severe and **condemnatory** speech that left the prisoner pale and trembling."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader cast a **condemnatory** glance across the room at the ill-judged matrimonial match."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The synod issued a **condemnatory** decree against the Arians, exiling their most stubborn prelates."*

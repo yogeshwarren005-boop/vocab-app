@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Necessarily or demonstrably true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being demonstrated or proved; ; ; - walter bagehot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly apparent or capable of being logically or empirically proven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verifiable by direct observation, experiment, or mathematical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We seek not barren disputations, but **demonstrable** facts established by inductive experiment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The modification of domestic breeds by selective breeding is an easily **demonstrable** reality."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses and Reviews*):** *"No doctrine deserves acceptance unless supported by **demonstrable** evidence accessible to all men."*

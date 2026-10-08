@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demise
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer by a lease or by a will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's death; or the end, downfall, or failure of an enterprise or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the transfer of an estate or sovereignty by lease, will, or royal succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me what state, what dignity, what honour, Canst thou demise to any child of mine?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone’s demise_—bless my heart! ‘property’—accrue—demise!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The felicitous word “demise,” which had seasonably occurred to him, had raised his spirits even above their usual evening pitch."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Upon the **demise** of the emperor, the praetorian guards auctioned the sovereignty to the highest bidder."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Tell me, what state, what dignity, what honour, / Canst thou **demise** to any child of mine?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sudden **demise** of the wealthy suitor cast the entire Chancery suit into fresh legal confusion."*

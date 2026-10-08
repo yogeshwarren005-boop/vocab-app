@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonstrativeness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to express your feelings freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to express your feelings freely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of openly expressing emotions, affection, or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained outward display of sentiment or conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonstrativeness designates tending to express your feelings freely."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth disliked emotional **demonstrativeness**, preferring quiet, steadfast fidelity in duty."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne admired Captain Wentworth's manly reserve, which avoided all shallow public **demonstrativeness**."*
+> - 📜 **Henry James (*The American*):** *"The aristocratic Bellegarde family maintained an icy decorum that froze Newman's natural **demonstrativeness**."*

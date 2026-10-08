@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demavend
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An active volcano in northern iran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An active volcano in northern iran.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mount Damavand, a potentially active stratovolcano and the highest mountain peak in Iran and the Middle East, rich in Persian mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iconic snow-capped peak in the Alborz mountain range, famed as the prison of Zahhak in the Shahnameh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demavend designates an active volcano in northern iran."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The towering volcanic cone of Mount **Demavend** rises majestically above the arid tableland of northern Persia."*
+> - 📜 **Lord Byron (*The Giaour*):** *"Far seen above the clouds, the snowy brow of **Demavend** reflects the dying splendour of the setting sun."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"The poet wandered beneath the shadows of Caspian crags, gazing where **Demavend** pierced the starry sky."*

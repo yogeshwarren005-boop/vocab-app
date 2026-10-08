@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democritus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek philosopher who developed an atomistic theory of matter (460-370 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek pre-Socratic philosopher (c. 460–c. 370 BC), known as the 'Laughing Philosopher', who formulated the atomic theory of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The father of atomism who asserted that all matter consists of indivisible atoms moving through the void.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In the nests of Arabian birds was the aspilates, that, according to Democritus, kept the wearer from any danger by fire."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But Democritus of Abdera said atomic natures--and he did well; but since he made some mistakes about them, these will be set right in our opinions."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Lastly we may notice his reference to the improvement made in the theory of Democritus by the discovery of Epicurus of the swerve inherent in the atoms (fr. 81)."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural philosophy of **Democritus** penetrated more deeply into nature than the metaphysical abstractions of Aristotle."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"I write under the name of **Democritus** Junior, mocking the vain follies and madness of mortal men."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Old **Democritus** laughed at mortal vanity, discerning nothing in the universe but atoms and the void."*

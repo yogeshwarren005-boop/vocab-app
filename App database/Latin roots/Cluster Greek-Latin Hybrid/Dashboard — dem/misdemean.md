@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # misdemean
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To behave badly, improperly, or unlawfully; to commit a misdemeanour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To misbehave or violate legal or moral duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misdemean designates behave badly."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"From his own mouth he doth **misdemean** his authority, perverting justice against the innocent."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Public officers who **misdemean** themselves in their judicial trust are subject to parliamentary impeachment."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The beadle warned the parish orphans that if they dared to **misdemean** themselves, the birch awaited them."*

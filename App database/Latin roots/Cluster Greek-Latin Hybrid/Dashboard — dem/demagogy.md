@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demagogy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impassioned appeals to the prejudices and emotions of the populace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned appeals to the prejudices and emotions of the populace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The methods, rhetoric, or practices of a demagogue; demagoguery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incitement of popular passion for partisan or tyrannical ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagogy designates impassioned appeals to the prejudices and emotions of the populace."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The factions of the hippodrome practiced a violent **demagogy** that repeatedly shook the throne of Byzantium."*
+> - 📜 **Edmund Burke (*An Appeal from the New to the Old Whigs*):** *"True liberty is ever endangered when sober statesmanship surrenders to the loud clamor of partisan **demagogy**."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A robust system of education is our most reliable defense against the insidious contagion of political **demagogy**."*

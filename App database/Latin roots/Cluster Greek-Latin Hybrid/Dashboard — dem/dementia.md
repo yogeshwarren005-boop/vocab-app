@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # dementia
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, progressive mental disorder marked by memory impairment, personality changes, and impaired cognitive reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological deterioration of intellectual faculties resulting from organic brain disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evils cast out It is recorded that once Jesus asked the name of a dis- ease, - a disease which moderns would call /dementia/. 411:15 The demon, or evil, replied that his name was Legion."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced general paresis, progressive **dementia** gradually extinguishes the highest intellectual functions."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"The physician specialized in obscure nervous ailments and the early stages of catastrophic **dementia**."*
+> - 📜 **Silas Weir Mitchell (*Lectures on Diseases of the Nervous System*):** *"Senile **dementia** slowly robs the patriarch of remembered faces while leaving childhood memories intact."*

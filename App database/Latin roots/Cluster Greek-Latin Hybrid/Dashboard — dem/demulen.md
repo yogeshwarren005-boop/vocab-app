@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demulen
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an oral contraceptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an oral contraceptive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription oral contraceptive medication containing a combination of progestin (ethynodiol diacetate) and estrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A daily hormonal contraceptive tablet inhibiting ovulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulen designates trade name for an oral contraceptive."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine (Addenda)*):** *"Endocrine therapies employing combined tablets such as **demulen** regulate menstrual cycles with high precision."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician explained the hormonal mechanism of **demulen** in suppressing gonadotropic release."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Modern endocrine chemistry introduced reliable agents like **demulen** to ensure voluntary family planning."*

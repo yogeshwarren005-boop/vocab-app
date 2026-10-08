@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # indemnify
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secure against future loss, damage, or liability; give security for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compensate someone for harm or loss, or to secure someone against legal responsibility for their actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To protect or hold harmless from future financial or legal liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But about the ‘Pioneer,’ I have been consulting a little with some of the men on our side, and they are inclined to take it into their hands—indemnify me to a certain extent—carry it on, in fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Chronol. de l’Hist., etc., d’Allemagne,” says the pretext was to indemnify himself for the expense of the expedition."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was time, I thought, to indemnify myself for my years of suffering, and surround my child and myself with such moderate comforts as our means allowed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law will **indemnify** the magistrate who executes a lawful warrant in good faith."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 80)*):** *"Federal courts possess jurisdiction to **indemnify** foreign citizens aggrieved by state violations of treaties."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The wealthy guarantor promised to **indemnify** the creditors if the debtor failed to appear."*

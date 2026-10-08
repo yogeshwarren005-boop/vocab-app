@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demurrer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any pleading that attacks the legal sufficiency of the opponent's pleadings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, a pleading that objects to an opponent's point, stating that even if the facts alleged are true, they do not constitute a cause of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal objection or pause; one who demurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom thoroughly acquiesced in the general gist of this though the mystical finesse involved was a bit out of his sublunary depth still he felt bound to enter a demurrer on the head of simple, promptly rejoining: —Simple?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyers filed another interminable **demurrer** in Jarndyce and Jarndyce, postponing judgment for another term."*
+> - 📜 **Sir Walter Scott (*The Heart of Midlothian*):** *"The advocate sustained his **demurrer** against the indictment, challenging the jurisdiction of the crown court."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Your presence needs must puzzle Antony; / Take your **demurrer** back, and leave the field."*

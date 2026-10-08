@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demote
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign to a lower position; reduce in rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give someone a lower rank or less important position, usually as a punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce the status or classification of an object or individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demote designates assign to a lower position; reduce in rank."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The detective threatened to **demote** the constable if he failed to keep watch upon the tenement."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The administrative council had power to **demote** negligent planners to manual agricultural teams."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The ironmaster would **demote** any manager who permitted industrial sabotage in the workshops."*

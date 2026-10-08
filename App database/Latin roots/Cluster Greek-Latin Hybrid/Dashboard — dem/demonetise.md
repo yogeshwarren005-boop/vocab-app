@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demonetise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of value for payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of value for payment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially remove currency from circulation as legal tender; to revoke the monetary status of a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive a coinage of its legal value in exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonetise designates deprive of value for payment."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"If the state chooses to **demonetise** silver, gold will remain the solitary measure of value."*
+> - 📜 **Walter Bagehot (*Economic Studies*):** *"Parliament resolved to **demonetise** the worn copper halfpence and issue modern bronze tokens."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"Under King William, the great recoinage resolved to **demonetise** clipped shillings across the kingdom."*

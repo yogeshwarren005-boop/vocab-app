@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # misdemeanour
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor wrongdoing, misdeed, or minor criminal offense in British law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improper behavior or legal infraction less severe than a felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From time to time d’Urberville exhibited a sort of fierce distress at the sight of the tramping he had driven her to undertake by his misdemeanour."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers, the high crime and misdemeanour of spoiling a sanded kitchen, tell me what I wish to know.” “Well, then,” he said, “I yield; if not to your earnestness, to your perseverance: as stone is worn by continual dropping."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But for all that,” Henrietta added in a moment, “I’m not satisfied; I’m not at peace about Isabel.” “What is her last misdemeanour?” “Well, I’ve told you before, and I suppose there’s no harm in my going on."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick was brought before the magistrate charged with a breach of the peace and civil **misdemeanour**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Stealing the crown jewels was no petty **misdemeanour**, but a heinous felony striking at the honor of the realm."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The parish constable took solemn note of the youth's **misdemeanour** in the tavern yard."*

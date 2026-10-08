@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demosthenes
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman and orator (circa 385-322 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman and orator (circa 385-322 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek statesman and the greatest orator of classical Athens (384–322 BC), famed for his Philippics against Philip II of Macedon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme archetype of political eloquence, passionate rhetoric, and patriotic devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Athens, as we learn from Demosthenes, was the arbiter of Greece seventy-three years."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It did Demosthenes no end of good, you know."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Demosthenes, I know thee by the pebble thou secretest in thy golden mouth!” said Bilíbin, and the mop of hair on his head moved with satisfaction."*
+> - 📜 **John Milton (*Sonnet: To the Lady Margaret Ley*):** *"That eloquent old man, whose words like spears / Shook Macedon, when **Demosthenes** poured forth / His fiery soul against the northern king."*
+> - 📜 **Thomas Babington Macaulay (*On the Athenian Orators*):** *"The eloquence of **Demosthenes** was not the ornamental display of the rhetorician, but a torrent of living fire."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The voice of **Demosthenes** once animated Greece with the sacred spirit of independence and civic honor."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democrat
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the democratic party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of democratic principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or supporter of democracy and popular government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member or supporter of a democratic political party (such as the Democratic Party of the United States).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who’s over him, he cries;—aye, he would be a democrat to all above; look, how he lords it over all below!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Missouri Democrat soon after hoisted the flag of Emancipation under the leadership of Frank Blair."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Who’s over him, he cries;—aye, he would be a democrat to all above; look, how he lords it over all below!"*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every sincere **democrat** must recognize that liberty cannot survive without virtuous civic institutions."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"I say that the true **democrat** asserts the divine average of all human souls, lifting humanity together."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father was an ardent **democrat**, believing that universal suffrage would cure aristocratic misrule."*

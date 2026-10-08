@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demon
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil supernatural being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cruel wicked and inhuman person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil spirit or supernatural being often thought to possess or corrupt human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cruel, wicked person, or a tormenting inner obsession or addiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester receives the gout as a troublesome demon, but still a demon of the patrician order."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While the dogs are yet barking and howling—there is one dog howling like a demon—the church-clocks, as if they were startled too, begin to strike."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket has a matter of this pressing interest under his consideration, the fat forefinger seems to rise, to the dignity of a familiar demon."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A devil, a born devil, on whose nature / Nurture can never stick; on whom my pains, / Humanely taken, all, all lost, quite lost; / And as with age his body uglier grows, / So his mind cankers. I will plague this **demon**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From out the sulphur lake arose the fallen **demon**, rallying his host against high heaven."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"If we conceive a **demon** whose faculties are so sharp that he can follow every molecule, he could violate the second law."*

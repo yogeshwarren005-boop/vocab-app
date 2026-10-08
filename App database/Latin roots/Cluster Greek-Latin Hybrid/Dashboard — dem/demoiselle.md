@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demoiselle
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young unmarried woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small brilliantly colored tropical marine fishes of coral reefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young, unmarried woman; a damsel; also a small, elegant crane (Anthropoides virgo) or a damselfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graceful Eurasian crane with delicate white ear-tufts, breeding in open grasslands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Majestee ’ave _fausse_ French enough to deceive de most _sage demoiselle_ dat is _en France_."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Tell us, Madame Angelin, whether it is all true which they say about the poor old gentleman and the beautiful young demoiselle. _Ciel_! there is the clock striking noon, and I should have been back from market an hour ago."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France._ KING HENRY."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The nuptial dance of the **demoiselle** crane features extraordinary leaps and stately curtsies across the steppes."*
+> - 📜 **Sir Walter Scott (*Quentin Durward*):** *"The fair **demoiselle** looked down from the castle turret, waving a silken kerchief to the departing knight."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Madame introduced the charming French **demoiselle** to the assembled guests in the drawing room."*

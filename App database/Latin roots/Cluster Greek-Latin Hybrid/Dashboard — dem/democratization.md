@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # democratization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making something democratic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of making something democratic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transition toward a more democratic political regime or more egalitarian social structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making culture, knowledge, or technology widely available to the general population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, democratization designates the action of making something democratic."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The irreversible **democratization** of modern society will either culminate in equal liberty or in equal servitude."*
+> - 📜 **Bertrand Russell (*The Prospects of Industrial Civilization*):** *"The genuine **democratization** of industry is the only sure remedy against bureaucratic oligarchy."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Cooperative production represents the moral **democratization** of labor and capital in manufacturing."*

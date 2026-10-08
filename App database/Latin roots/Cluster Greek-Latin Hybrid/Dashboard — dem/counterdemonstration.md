@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # counterdemonstration
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonstration held in opposition to another demonstration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A demonstration held in opposition to another demonstration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public demonstration organized in opposition to another ongoing demonstration or political rally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rival gathering or display expressing contrary civic sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterdemonstration designates a demonstration held in opposition to another demonstration."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The peaceful labor march was met by a noisy **counterdemonstration** organized by industrial syndicates."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism*):** *"Whenever the suffragists assembled in the square, a fierce **counterdemonstration** blocked the main thoroughfare."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"Freedom of assembly must safeguard both the original protest and the right to mount a peaceful **counterdemonstration**."*

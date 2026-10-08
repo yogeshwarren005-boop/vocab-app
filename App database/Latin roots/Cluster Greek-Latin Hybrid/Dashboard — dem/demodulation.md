@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # demodulation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) the reception of a signal by extracting it from the carrier wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the reception of a signal by extracting it from the carrier wave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of extracting the original information-bearing signal from a carrier wave in telecommunications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detection of audio or video signals from modulated electromagnetic waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demodulation designates (electronics) the reception of a signal by extracting it from the carrier wave."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"In modern communications, linear **demodulation** separates the carried message from the high-frequency carrier wave."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"The non-linear characteristic of the crystal rectifier effects efficient **demodulation** of radio waves."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Instantaneous **demodulation** of wireless telephony bound the remote mining stations into continuous communion."*

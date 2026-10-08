@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # undemocratically
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undemocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an undemocratic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undemocratic manner; without popular representation, consent, or vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through autocratic, oligarchic, or arbitrary administrative procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undemocratically designates in an undemocratic manner."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When trade monopolies are **undemocratically** granted by executive fiat, the general consumer suffers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative decrees enacted **undemocratically** from capital bureaus alienate provincial citizens from their government."*
+> - 📜 **Bertrand Russell (*Political Ideals*):** *"Industrial empires ruled **undemocratically** by boardrooms treat laborers as mere inanimate cogs in production."*

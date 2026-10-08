@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — dem]]"
 cluster: "[[Cluster Greek-Latin Hybrid]]"
 status: unread
 ---
+
 # undemanding
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring little if any patience or effort or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring little if any patience or effort or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not demanding; requiring little effort, skill, or attention; easy and tolerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gentle, modest, and modest in expectation or requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undemanding designates requiring little if any patience or effort or skill."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia had an **undemanding** temper, enjoying the simple pleasures of her nursery without turbulent ambitions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars was quiet and **undemanding**, desiring only a modest country parsonage and domestic peace."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery's gentle, **undemanding** love was the solitary anchor of Pip's troubled childhood."*

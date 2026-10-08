@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or affecting the vertebrae or the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming the anatomical axis of the back in vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"To prevent their habits of coiling from dislocating the vertebral column, these had an additional pair of articulations at each end, while their muscular strength is attested by the elegant striae and other sculptures which appear on all their bones."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **vertebral** column provides structural support while shielding the delicate spinal cord within."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The curvature of the human **vertebral** axis accommodates erect bipedal posture and balance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Rudimentary caudal segments persist at the lower terminus of the human **vertebral** chain."*

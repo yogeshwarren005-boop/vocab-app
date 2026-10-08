@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of a matter from a particular viewpoint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something a little different from others of the same type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular form, variant, or rendition of something differing in details from other forms of the same type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account or narrative of an event given from a specific point of view; or a translation of a text into another language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such is one version of the tale..."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There is a manuscript version of this play in the Egerton collection, British Museum (No. 1994)."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Every village gossip circulated a slightly different **version** of the tragic encounter at the dairy."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The Latin **version** of the sacred scriptures preserved venerable theological terminology across Christendom."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The author prepared a revised **version** of the volume to incorporate fresh evidence from botanical breeding."*

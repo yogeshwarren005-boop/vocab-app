@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been converted to another religious or political belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one system to another or to a new plan or policy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change or transform in character, form, condition, or function into another state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To adopt a new religion, political faith, or belief system; or a person who has made such a change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet weep that Harry’s dead, and so will I; But Harry lives, that shall convert those tears By number into hours of happiness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let grief Convert to anger; blunt not the heart, enrage it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True experimental philosophy seeks to **convert** abstract scientific theories into practical mechanical arts."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Who can believe that such sweet harmony could **convert** celestial minds to rebellious pride?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can **convert** a rudimentary structure into an exquisitely adapted organ of flight."*

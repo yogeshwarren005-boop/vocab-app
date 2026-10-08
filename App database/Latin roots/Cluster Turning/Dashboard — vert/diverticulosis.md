@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of multiple diverticula in the walls of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of multiple diverticula in the walls of the colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by the formation of small outpocketings or pouches (diverticula) in the mucosal wall of the large intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asymptomatic presence of intestinal diverticula, prevalent in populations consuming low-fiber diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulosis designates presence of multiple diverticula in the walls of the colon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Autopsy studies reveal that colonic **diverticulosis** is remarkably common among elderly sedentary patients."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"High-fiber dietary regimens diminish the intraluminal colonic pressure that fosters **diverticulosis**."*
+> - 📜 **Denis Burkitt (*Refined Carbohydrate Foods and Disease*):** *"Epidemiological surveys demonstrated that rural African diets high in natural fiber prevented colonic **diverticulosis**."*

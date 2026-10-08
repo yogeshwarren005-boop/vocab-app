@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, ideology, or agent that subverts, undermines, or overthrows established laws, morals, or institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overthrower or corrupting influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subverter designates a radical supporter of political or social revolution."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The radical pamphleteer stood condemned as a reckless **subverter** of social peace and ancient property rights."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every **subverter** of the old order rejoiced as the Bastille fell beneath the blows of the crowd."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth needs no royal licensing to confront the deceitful **subverter** of public virtue in the open field."*

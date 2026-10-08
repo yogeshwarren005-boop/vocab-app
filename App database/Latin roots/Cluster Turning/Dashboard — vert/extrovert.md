@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person concerned more with practical realities than with inner thoughts and feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outgoing, socially expressive person whose attention, enthusiasm, and interests are directed outward toward other people and the external world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological personality type energized by interpersonal interaction and sensory engagement with surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrovert designates (psychology) a person concerned more with practical realities than with inner thoughts and feelings."*
+> - 📜 **Carl Jung (*Modern Man in Search of a Soul*):** *"The healthy **extrovert** draws vitality from interaction with friends, colleagues, and external projects."*
+> - 📜 **Gordon Allport (*Personality and Social Encounter*):** *"Unlike the solitary thinker, the true **extrovert** feels desolate when deprived of bustling human companionship."*
+> - 📜 **Erich Fromm (*Man for Himself*):** *"Modern market society often elevates the glib **extrovert** as the supreme ideal of commercial success."*

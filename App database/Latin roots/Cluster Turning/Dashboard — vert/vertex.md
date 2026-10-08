@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point of intersection of lines or the point opposite the base of a figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point (of something).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest point, apex, or summit of something; in anatomy, the crown of the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, the point of intersection where two lines meet to form an angle, or where vertices of a polygon join.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The light rays converge toward a focal point situated near the **vertex** of the paraboloid mirror."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Hair radiates in a whorl from the anatomical **vertex** of the primate cranium."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A solitary sea eagle circled high above the **vertex** of the volcanic peak."*

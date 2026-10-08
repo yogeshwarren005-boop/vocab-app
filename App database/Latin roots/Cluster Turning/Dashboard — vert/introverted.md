@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fold inwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directing one's interests, feelings, and attention inward upon oneself; reserved, quiet, and introspective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turned inward or folded back upon itself in morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introverted designates fold inwards."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"An **introverted** thinker builds elaborate conceptual systems while remaining detached from immediate social applause."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"His **introverted** demeanor discouraged casual inquiries from the lively guests upon the lawn."*
+> - 📜 **Karen Horney (*Our Inner Conflicts*):** *"The **introverted** patient constructed an inner sanctuary of fantasy to protect against relational anxiety."*

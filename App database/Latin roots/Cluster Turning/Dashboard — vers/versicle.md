@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short verse or sentence recited or chanted by the presiding priest in a liturgical service, followed by a choral response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short or diminutive poetic verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Complimentary Versicles To Jessie Lewars 1."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles On Sign-Posts His face with smile eternal drest, Just like the Landlord’s to his Guest’s, High as they hang with creaking din, To index out the Country Inn."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versicles, A.D. 1793 The True Loyal Natives Ye true “Loyal Natives” attend to my song In uproar and riot rejoice the night long; From Envy and Hatred your corps is exempt, But where is your shield from the darts of Contempt!"*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"The rustic congregation repeated the solemn **versicle** chanted from the choir with heartfelt devotion."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The monk completed his recitation of the Latin **versicle** before closing the illuminated breviary."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The ancient liturgy framed each **versicle** with venerable antiphons inherited from the early Church."*

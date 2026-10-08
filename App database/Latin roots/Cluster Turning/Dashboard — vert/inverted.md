@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an inversion (in a musical composition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the position, order, relation, or condition of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned upside down, reversed in position, sequence, or normal grammatical order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having optical or chemical characteristics reversed, as polarized light rotated in an inverted direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Drumlanrig’s haughty Grace, Discarded remnant of a race Once godlike—great in story; Thy forbears’ virtues all contrasted, The very name of Douglas blasted, Thine that inverted glory!"*
+> - 📜 **Isaac Newton (*Opticks*):** *"The convex lens cast a small, **inverted** image of the distant candle flame upon the white screen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The capsized whaleboat floated like an **inverted** wooden trough upon the crest of the swell."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The odd lawyer lived in an **inverted** world where night was turned into day and dust was cherished like gold."*

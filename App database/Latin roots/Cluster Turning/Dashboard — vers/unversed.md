@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having had extensive practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having had extensive practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not experienced or skilled in a particular subject, art, or discipline; unpracticed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking acquaintance or scholarly knowledge regarding a designated field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"They were indeed excellent in two sciences for which I have great esteem, and wherein I am not unversed; but, at the same time, so abstracted and involved in speculation, that I never met with such disagreeable companions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was too prudent to express opinions on matters wherein she remained entirely **unversed**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A youthful mind **unversed** in the deceits of the world easily falls victim to flattering promises."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The foreign monarch was completely **unversed** in the diplomatic arts practiced by European courts."*

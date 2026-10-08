@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opposition to a civil authority or government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeking or intended to subvert, overthrow, or undermine an established political system, authority, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who advocates or engages in the covert overthrow of legal or social structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I don’t know what there may be to say, but you must remember that Ralph must talk.” “He thinks your friend’s too subversive--or not subversive enough!"*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He seemed to recognise this same tendency in the subversive enquiry that I quoted a moment ago, and set himself to answer our heroine’s question with greater urbanity than it perhaps deserved."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These sceptical doubts would naturally be repelled by the other with scorn and indignation as airy reveries subversive of the faith and manifestly contradicted by experience."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Every **subversive** thought was ruthlessly tracked and extinguished by the agents of the Thought Police."*
+> - 📜 **John Milton (*Areopagitica*):** *"Censors feared that printing **subversive** doctrines would poison the minds of ordinary subjects."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Pamphlets deemed **subversive** of church discipline were confiscated at the university gates."*

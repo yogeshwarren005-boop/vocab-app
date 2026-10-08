@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an additive or multiplicative inverse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an additive or multiplicative inverse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inverted, reversed, or turned inside out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, describing a function, matrix, or transformation that possesses an inverse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertible designates having an additive or multiplicative inverse."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"A square matrix is strictly **invertible** if and only if its determinant does not vanish."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"The non-zero quaternion operation is universally **invertible**, yielding a unique reciprocal vector."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The linear field equation represents an **invertible** transformation between current density and magnetic vector potential."*

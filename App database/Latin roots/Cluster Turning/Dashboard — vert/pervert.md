@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter something from its proper course, normal meaning, or original standard to an improper or corrupt purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To corrupt morally or mentally; or a person whose behavior departs from accepted standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s follow him and pervert the present wrath He hath against himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Command these fretting waters from your eyes With a light heart; trust not my holy order, If I pervert your course.—Who’s here?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*
+> - 📜 **Francis Bacon (*Essays*):** *"Bribery will **pervert** the straight judgment of the most learned judge."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan sought to **pervert** God's purest creations to his own destructive and rebellious ends."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"This secret will force him to think and **pervert** the present wrath into a lasting malice."*

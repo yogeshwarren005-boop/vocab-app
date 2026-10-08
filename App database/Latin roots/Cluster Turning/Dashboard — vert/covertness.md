@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being covert and hidden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being covert and hidden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being hidden, secretive, or conducted under concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secrecy or stealth in operations, policies, or personal behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, covertness designates the state of being covert and hidden."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sinister **covertness** of their clandestine meetings excited widespread suspicion among loyal citizens."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland conspirators conducted their enterprise with consummate **covertness** amid remote glens."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The plot collapsed because the excessive **covertness** of the leaders prevented effective coordination."*

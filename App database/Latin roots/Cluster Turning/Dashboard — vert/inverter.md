@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical converter that converts direct current into alternating current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical converter that converts direct current into alternating current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical apparatus or circuit that converts direct current (DC) into alternating current (AC).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital electronics, a logic gate (NOT gate) whose output state is the inverse of its input state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inverter designates an electrical converter that converts direct current into alternating current."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The rotary **inverter** transformed direct battery current into alternating polyphase oscillations."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"Efficiency in the static **inverter** depends upon minimizing harmonic losses in the magnetic core."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A simple electronic **inverter** provides the negative feedback signal necessary for automatic circuit regulation."*

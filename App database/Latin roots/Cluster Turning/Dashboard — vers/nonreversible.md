@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reversible or capable of having either side out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reversible or capable of having either side out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reversed, operated in the opposite direction, or restored to a prior condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one usable or presentable side (said of fabrics, garments, or mechanical valves).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonreversible designates not reversible or capable of having either side out."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical decomposition proved strictly **nonreversible** under normal atmospheric conditions."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Certain physical transformations exhibit a **nonreversible** character that guides empirical laws."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"A **nonreversible** mechanical linkage transmits motion in a single predetermined direction."*

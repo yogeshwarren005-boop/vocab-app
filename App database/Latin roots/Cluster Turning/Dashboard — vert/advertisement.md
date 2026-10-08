@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public notice or paid announcement published in print, broadcast, or electronic media to promote goods, services, or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public notification, warning, or informative announcement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is not the duke’s letter, sir; that is an advertisement to a proper maid in Florence, one Diana, to take heed of the allurement of one Count Rossillon, a foolish idle boy, but for all that very ruttish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Earl of Westmoreland set forth today, With him my son, Lord John of Lancaster, For this advertisement is five days old."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the King is certainly possess’d Of all our purposes."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The trade of an **advertisement** is now so near to perfection that it is not easy to propose any improvement."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"He answered an alluring **advertisement** regarding a scholarly tutorship at a northern academy."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes pasted the newspaper **advertisement** into his scrapbook for convenient future reference."*

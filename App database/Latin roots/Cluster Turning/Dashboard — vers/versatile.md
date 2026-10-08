@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great diversity or variety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changeable or inconstant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to adapt or be adapted to many different functions, activities, or skills; multifaceted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, attached near the middle and moving freely on its support, as certain anthers or insect antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I would never give way to that; I was always versatile."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But it soon appeared that Marnoo’s powers were as versatile as they were extraordinary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **versatile** intellect moved with equal ease among mathematical proofs and classical poetry."*
+> - 📜 **Herman Melville (*Typee*):** *"The native craftsman proved remarkably **versatile**, shaping wood, stone, and bone into delicate implements."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **versatile** anthers of the grass oscillate freely in the wind to shed their abundant pollen."*

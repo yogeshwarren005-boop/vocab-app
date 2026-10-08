@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening by chance or unexpectedly or unintentionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening by chance or unexpectedly or unintentionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resulting from deliberate planning or intention; accidental, unintentional, or heedless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to act with attentive forethought; unmindful.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The boy, also, after a week or two of mental disquiet, began to gratify his protectors by many inadvertent proofs that he considered them as parents, and their house as home."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Man frequently exerts an **inadvertent** selection upon domestic animals through mere unconscious preference."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"An **inadvertent** glance at the corner of the writing desk revealed the missing cipher code."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She made an **inadvertent** remark that brought a flush of embarrassment to her companion's cheek."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back to a previous state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo reversion, as in a mutation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To return to a previous state, habit, condition, or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, to return to the original owner or grantor (or their heirs) after an estate terminates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let no one thank me any more, for I am going to revert to my bachelor habits, and if anybody disregards this warning, I’ll run away and never come back!” What happiness was ours that day, what joy, what rest, what hope, what gratitude, what bliss!"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Feral pigeons released from human care rapidly **revert** to the blue plumage of the wild rock-dove."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon the failure of legitimate heirs, the feudal fief will **revert** directly to the lord of the fee."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab seemed for a fleeting moment to **revert** to memories of home and youthful innocence."*

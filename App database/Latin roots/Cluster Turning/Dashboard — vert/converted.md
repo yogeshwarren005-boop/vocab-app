@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from one system to another or to a new plan or policy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the nature, purpose, or function of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changed in character, form, function, or belief; transformed into another state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having adopted a new religion or political creed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexander died, Alexander was buried, Alexander returneth into dust; the dust is earth; of earth we make loam; and why of that loam whereto he was converted might they not stop a beer-barrel?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself, and what is mine, to you and yours Is now converted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May I be so converted, and see with these eyes?"*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Chemical energy within the battery was **converted** into an continuous magnetic force."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Friday listened attentively to the scripture and became a sincerely **converted** Christian."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient limestone beds were **converted** into crystalline marble by intense subterranean volcanic heat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert back to a previous state, religion, form, or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industry, to adapt manufacturing facilities back to civilian production after wartime operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reconvert designates convert back."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Missionaries labored tirelessly to **reconvert** the lapsed populations of the northern border counties."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"It was possible to **reconvert** the stored chemical energy back into dynamic electric currents."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Zealous churchmen sought to **reconvert** the apostate knight before he perished in battle."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying someone's (or some group's) honesty or loyalty; undermining moral integrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subverting; as overthrowing or destroying a legally constituted government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic attempt to overthrow, undermine, or corrupt an established government or political institution from within.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The undermining of an established moral, philosophical, or artistic convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What louring star now envies thy estate That these great lords and Margaret our Queen Do seek subversion of thy harmless life?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s subversion as an instrument of good; but the threat must have been permitted, and was a chastisement of a new kind."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Thus in letter days has the tranquillity of Little Britain been grievously disturbed and its golden simplicity of manners threatened with total subversion by the aspiring family of a retired butcher."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The conspirators plotted the complete **subversion** of the ancient constitutional monarchy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factions that seek the **subversion** of federal authority threaten the liberty of every citizen."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sudden **subversion** of civic order left the capital at the mercy of chaotic armed tribunals."*

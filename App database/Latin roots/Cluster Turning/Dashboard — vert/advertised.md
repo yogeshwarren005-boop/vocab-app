@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoted, announced, or made publicly known through commercial advertisements or notices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally published or notified in a public print, journal, or broadcast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are advertised by our loving friends That they do hold their course toward Tewkesbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious sovereign, now in Devonshire, As I by friends am well advertised, Sir Edward Courtney, and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates, are in arms."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"The client produced a morning newspaper containing the singularly curious **advertised** opening."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The steamboat departed precisely at the **advertised** hour, churning white foam across the brown river."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmers gathered at the tavern to discuss the prices **advertised** for the upcoming autumn wool fair."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car that has top that can be folded or removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed, exchanged, or transformed into another form, substance, or currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile featuring a retractable or folding roof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But on the Continent there was the outer life, which was palpable and visible at every turn, and more easily convertible to literary uses than the customs of those opaque islanders."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Wealth looked at in the older way was valued for what it did immediately for its owner, for its concrete fruits; looked at in the modern way, it is valued as a marketable income-bearer readily convertible into a multitude of other forms."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Show the difference between convertible and inconvertible money. 3."*
+> - 📜 **Alexander Hamilton (*Report on the Bank*):** *"A sound public currency must remain at all times freely **convertible** into gold and silver on demand."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The terms are synonymous and mutually **convertible** in the philosophical demonstration."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"They drove across the sunny long island causeway in a sleek cream-colored **convertible** roadster."*

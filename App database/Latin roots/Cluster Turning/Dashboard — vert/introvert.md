@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold inwards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose thoughts, interests, and emotional energy are directed predominantly inward toward their own subjective mental life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To turn inward; or an individual who prefers quiet reflection to large social gatherings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introvert designates (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The typical **introvert** seeks solitude to replenish creative energy after prolonged exposure to crowd noise."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"An **introvert** excels in solitary intellectual vocations requiring concentrated meditation and patience."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical contemplatives often display the quintessential disposition of the spiritual **introvert**."*

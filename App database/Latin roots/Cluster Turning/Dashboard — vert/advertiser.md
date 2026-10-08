@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business is advertising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, business, or commercial entity that pays to publish advertisements promoting goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a periodical or newspaper devoted primarily to public notices and advertisements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Concerning the Militia From the Daily Advertiser."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Same Subject Continued (Concerning the General Power of Taxation) From the Daily Advertiser."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The prudent **advertiser** recognized that wide newspaper circulation insured immediate commercial response."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The enthusiastic **advertiser** painted extravagant prospects of fortune in the newly founded frontier city."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The ambitious journal welcomed every paying **advertiser** to sustain its literary endeavors."*

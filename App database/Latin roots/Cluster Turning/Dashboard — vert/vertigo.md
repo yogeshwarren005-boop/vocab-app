@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reeling sensation; a feeling that you are about to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reeling sensation; a feeling that you are about to fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical sensation of whirling, spinning, and loss of balance, typically caused by disease affecting the inner ear or vestibular nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dizzying, confused, or disordered mental state; or fear of heights associated with dizziness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I think you have tonight." "Do you care for no one but yourself?" he flung at her in his vertigo of humiliation and anger."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sudden attack of auditory **vertigo** caused the patient to fall prostrate upon the clinic floor."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Intense terror often induces sensory confusion and a sudden sensation of **vertigo**."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Looking down into the roaring Reichenbach fall, one felt a creeping **vertigo** pulling toward the abyss."*

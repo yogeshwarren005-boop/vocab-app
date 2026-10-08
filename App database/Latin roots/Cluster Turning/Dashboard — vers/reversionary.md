@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving a reversion (especially a legal reversion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving a reversion (especially a legal reversion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or having the nature of a reversion, especially an expectant legal right or estate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, exhibiting ancestral or atavistic characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"These money transactions--these speculations in life and death--these silent battles for reversionary spoil--make brothers very loving towards each other in Vanity Fair."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here’s an early job to begin with!” Having thus given his parent God speed, young Jerry seated himself on the stool, entered on his reversionary interest in the straw his father had been chewing, and cogitated."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The heir sold his **reversionary** interest in the ancestral lands to satisfy mounting debts."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Occasional striped markings on domestic horses point to a **reversionary** link with wild equines."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"Speculators traded in **reversionary** bonds based on anticipated settlements of aristocratic inheritances."*

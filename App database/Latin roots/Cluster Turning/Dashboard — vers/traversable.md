@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being traversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being traversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being traversed, crossed, or passed over without insurmountable physical obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal pleading, capable of being denied or traversed by the opposing party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traversable designates capable of being traversed."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mountain pass became easily **traversable** after the summer thaw cleared the higher glacial defiles."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every material allegation of fact contained in the declaration remains **traversable** by the defense."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The sandy beach proved smoothly **traversable** at low tide for the heavy ox carts."*

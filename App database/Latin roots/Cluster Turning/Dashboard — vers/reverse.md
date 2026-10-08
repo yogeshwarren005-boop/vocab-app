@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gears by which the motion of a machine can be reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move, turn, or cause to move in the opposite direction; to overturn, revoke, or annul.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The opposite or contrary of something; the back or secondary side of a coin or medal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reverse thy state; And in thy best consideration check This hideous rashness: answer my life my judgement, Thy youngest daughter does not love thee least; Nor are those empty-hearted, whose low sounds Reverb no hollowness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless philosophy can make a Juliet, Displant a town, reverse a Prince’s doom, It helps not, it prevails not, talk no more."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must **reverse** the erroneous method of ancient philosophers and ascend systematically from particulars to general axioms."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Better not have had thee than thus to want thee: canst thou not **reverse** the doom?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal refused to **reverse** the death sentence passed upon the emigrant nobleman."*

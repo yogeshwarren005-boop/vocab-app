@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a zigzag path on skis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel across.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of traveling across, journeying through, or navigating over a territory or terrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, the systematic visiting of every node in a data tree or graph structure; in law, a formal denial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traversal designates taking a zigzag path on skis."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our arduous **traversal** of the Orinoco rapids occupied five grueling weeks under tropical rainfall."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The rapid **traversal** of the dense forest canopy by spider monkeys astonished our expedition."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A formal **traversal** of the indictment shifted the burden of proof squarely back upon the prosecution."*

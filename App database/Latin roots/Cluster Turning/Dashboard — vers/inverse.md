@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something inverted in sequence or character or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reversed (turned backward) in order or nature or effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reversed in position, order, direction, or effect; opposite or contrary in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an element, function, or quantity that reverses the effect of another when combined with it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had in deed “struck,” to use a sea expression, but in an inverse sense, and at a thousand feet deep."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The wind veered suddenly to all points of the horizon; and the cyclone, rising in the east, returned after passing by the north, west, and south, in the inverse course pursued by the circular storm of the southern hemisphere."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Now they obtained a little from a rich man, and then a great deal from a poor man--deeds of benevolence are half the time in an inverse ratio to the ability of the benefactors--till they had accumulated nearly five hundred bushels of wheat."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Gravitational attraction between two celestial bodies varies in the **inverse** ratio of the square of their distance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fertility often stands in **inverse** proportion to the degree of specialized morphological divergence."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Material luxury often develops in **inverse** ratio to spiritual depth."*

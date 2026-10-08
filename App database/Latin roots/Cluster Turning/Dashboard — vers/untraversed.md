@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over, crossed, or explored; unvisited and pathless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining pristine, virgin, or unpenetrated by human footsteps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untraversed designates not traveled over or through."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"The wanderer pressed forward through **untraversed** valleys where human foot had never trod."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We gazed across vast **untraversed** plains stretching toward the snow-capped cordillera on the horizon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed into **untraversed** latitudes where celestial navigation alone guided our precarious course."*

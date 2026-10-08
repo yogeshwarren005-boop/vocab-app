@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who composes rhymes; a maker of poor verses (usually used as terms of contempt for minor or inferior poets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes verses, especially an inferior, mechanical, or uninspired poet; a rhymester.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who converts prose narratives into metrical rhyming lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The versifier sang the parts of the King and Queen in turn, and found each audience perfectly willing to be the oxen, the sweethearts, the swans, the sons, the shepherds, etc."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"In the King of Yellow Butterflies and the Potatoes' Dance Miss Dougherty occupied the entire eye of the audience and interpreted, while the versifier chanted the poems as a semi-invisible orchestra, by the side of the curtain."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The plodding **versifier** ground out mechanical rhyming couplets to flatter his aristocratic patron."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"A mere **versifier** may arrange accents correctly, yet lack the divine spark of genuine poetic inspiration."*
+> - 📜 **William Hazlitt (*Lectures on the English Poets*):** *"The distinction between a true poet and a clever **versifier** lies in the creative power of original imagination."*

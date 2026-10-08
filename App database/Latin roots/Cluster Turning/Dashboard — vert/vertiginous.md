@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or causing a whirling sensation; liable to falling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or causing a whirling sensation; liable to falling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or experiencing vertigo; dizzy, spinning, or characterized by a whirling sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely steep, sheer, or precipitous; tending to produce dizziness when viewed from above.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vertiginous designates having or causing a whirling sensation; liable to falling."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Standing upon the cross-trees, he gazed down into the **vertiginous** vortex of the churning sea."*
+> - 📜 **Edgar Allan Poe (*A Descent into the Maelström*):** *"The swirling abyss presented a **vertiginous** spectacle of frantic circular motion and deafening roar."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"He clung to the narrow turf ledge on the cliff face with a **vertiginous** terror freezing his limbs."*

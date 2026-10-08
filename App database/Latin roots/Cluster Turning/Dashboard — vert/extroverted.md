@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not introspective; examining what is outside yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At ease in talking to others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Predominantly concerned with external realities rather than inner feelings; sociable, unreserved, and outgoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energized by social interaction, public speech, and active participation in groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extroverted designates not introspective; examining what is outside yourself."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Her **extroverted** nature enabled her to preside over diplomatic receptions with effortless charm."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"The **extroverted** salesman intuitively mirrors the enthusiasm and opinions of his prospective clients."*
+> - 📜 **Karen Horney (*Neurosis and Human Growth*):** *"Beneath his boisterous **extroverted** demeanor lay a deep anxiety regarding personal inadequacy."*

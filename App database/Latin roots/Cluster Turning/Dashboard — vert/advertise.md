@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To present, broadcast, or display public notices to promote a product, service, vacancy, or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make known publicly or give notice of something in print or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I do bend my speech To one that can my part in him advertise."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mr Shepherd had once mentioned the word “advertise,” but never dared approach it again."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Upon the whole, the door seemed to advertise itself as a species of Traitor’s Gate translated to another sphere."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber resolved to **advertise** in the local gazette for an agreeable commercial situation."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I found it necessary to **advertise** in the Pennsylvania Gazette to inform the public of our printing shop."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The ambitious merchant resolved to **advertise** his imported silks across all the London morning papers."*

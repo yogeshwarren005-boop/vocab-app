@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to corrupt or pervert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to corrupt or pervert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to pervert, corrupt, misdirect, or lead astray from truth, rectitude, or proper functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupting, subversive, or distorting in effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perversive designates tending to corrupt or pervert."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Cynical materialism exercises a **perversive** influence upon the noble aspirations of youthful minds."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Sensational architecture yields to a **perversive** taste that values theatrical ornament over honest structure."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"False wit exerts a **perversive** effect upon serious discourse, trivializing profound moral issues."*

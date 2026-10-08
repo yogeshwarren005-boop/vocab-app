@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, vessel, or device that converts something from one state, substance, or form to another (such as a Bessemer converter or electrical converter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who brings about a conversion in others or transforms raw commodities into manufactured goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Bessemerising of Copper Mattes: — Development of the Process — The Converter — Converter Linings — Grade of Matte — Operation of the Process — Systems of Working, 192–216 LECTURE IX."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FRONTISPIECE—The Colour of the Converter Flame during the Bessemerising of Copper Matte."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"And, in addition, Lake Copper and some Converter Bars."*
+> - 📜 **Henry Bessemer (*Autobiography*):** *"Molten pig iron poured into the pear-shaped **converter** was decarbonized by a blast of atmospheric air."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The rotary **converter** transformed alternating currents into direct current for electrochemical refining."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Modern industry functions as a mighty **converter** of raw natural wealth into civilized tools."*

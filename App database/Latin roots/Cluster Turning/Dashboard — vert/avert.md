@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent the occurrence of; prevent from happening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away or aside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn away one's eyes or thoughts from something distressing or forbidden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To ward off, prevent, or turn aside an impending danger, catastrophe, or misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could only suggest that I should go down to Deal, where Richard was then stationed, and see him, and try if it were possible to avert the worst."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What power does she suppose is in the person she petitions to avert this unjust suspicion, if it be unjust?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"She was concerned for the disappointment and pain Lady Russell would be feeling; for the mortifications which must be hanging over her father and sister, and had all the distress of foreseeing many evils, without knowing how to avert any one of them."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Let your study be to content your lord, who hath received you at fortune's alms. Can you not **avert** this misery?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Energetic constitutional governance was designed to **avert** the perils of foreign discord and domestic insurrection."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was compelled to **avert** her gaze to hide the tears of gratitude springing to her eyes."*

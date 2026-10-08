@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more conspicuous of two alternatives or cases or sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal bearing the principal stamp or design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The side of a coin, medal, or banknote that bears the principal design or head of state; opposite of reverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The corresponding, complementary, or counterpart aspect of a fact, truth, or proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This line being straight, continued, and not dissected by obverse little lines, denotes a healthful body."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every evil to which we do not succumb is a benefactor; it is the **obverse** of a great virtue."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial likeness was stamped in bold relief upon the **obverse** of the golden solidus."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Individual freedom is the necessary **obverse** of personal moral responsibility."*

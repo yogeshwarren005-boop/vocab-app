@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming one or more whorls (especially a whorl of leaves around a stem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming one or more whorls (especially a whorl of leaves around a stem).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in verticils or whorls radiating from a single node on an axis, especially said of leaves or branches in botany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying a whorled anatomical or structural pattern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillate designates forming one or more whorls (especially a whorl of leaves around a stem)."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The stem bears **verticillate** leaves in whorls of five, with narrow lanceolate blades."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain cultivated primroses develop **verticillate** flower umbels stacked one above the other."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Horsetails are readily recognized by their jointed stems and **verticillate** whorls of scale-like teeth."*

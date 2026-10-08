@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reversible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reversible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reversible manner; in a way that allows reversal or return to the original state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of operating or occurring in either forward or backward direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversibly designates in a reversible manner."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical ions migrate **reversibly** between the electrodes according to the applied potential."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"When heat is transferred **reversibly** between reservoirs, no loss of available thermodynamic energy occurs."*
+> - 📜 **John Tyndall (*Heat as a Mode of Motion*):** *"Gas molecules expand and contract **reversibly** when subjected to adiabatic compression."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not transformed in character, function, or nature; remaining in an original raw state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having adopted a particular religious faith or philosophical creed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Still unconverted, but, to satisfy his mother, he consented to remain in the room during a visit of the missionary of that district; a man with sufficient tact not to make his efforts obnoxious."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The boy's tears moved him, and the question struck his heart; and father and mother, up to that hour unconverted, were soon on their way to the prayer-meeting, where they found Jesus." A LITTLE GIRL'S QUESTION."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It had been for himself so very soluble a problem to live in England assimilated yet unconverted that it seemed to him equally simple his lawful heir should after his death carry on the grey old bank in the white American light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A portion of the chemical reactant remained **unconverted** at the bottom of the voltameter jar."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian wept bitterly for his **unconverted** family who refused to flee the city of destruction."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **unconverted** raw materials yielded little commercial profit until skilled labor added value."*

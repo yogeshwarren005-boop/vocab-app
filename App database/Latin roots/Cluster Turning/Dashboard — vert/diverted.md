@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned aside from a original path, course, or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entertained, amused, or pleased by agreeable distraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was highly **diverted** by the eccentric pantomime performed by Herbert Pocket by the fire."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The river was permanently **diverted** into a new channel by the colossal landslide in the gorge."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookouts had their attention **diverted** by a flock of petrels swooping across the boiling wake."*

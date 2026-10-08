@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back to a previous state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back to a previous state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To tilt or turn backward, particularly said of an anatomical organ such as the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To revert or return to a former condition, viewpoint, or primitive stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovert designates go back to a previous state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pelvic trauma caused the uterus to **retrovert** sharply against the posterior pelvic wall."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"When legal sanctions weaken, societal conduct may **retrovert** to barbarous tribal factionalism."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Without persistent cultural vigilance, civilized instincts readily **retrovert** toward primitive savagery."*

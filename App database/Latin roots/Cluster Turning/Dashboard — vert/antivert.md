@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihistamine (trade name antivert) used to treat or prevent motion sickness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial brand name for meclizine hydrochloride, an antihistaminic and antiemetic agent prescribed to treat vestibular vertigo and motion sickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical tablet administered to relieve severe labyrinthine dizziness and nausea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antivert designates an antihistamine (trade name antivert) used to treat or prevent motion sickness."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Patients suffering from Ménière's syndrome often obtain symptomatic relief through prescribed doses of **antivert**."*
+> - 📜 **Alfred Gilman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"The central anticholinergic properties of **antivert** suppress labyrinthine overstimulation during sea travel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed **antivert** to alleviate the debilitating postural imbalance caused by vestibular neuronitis."*

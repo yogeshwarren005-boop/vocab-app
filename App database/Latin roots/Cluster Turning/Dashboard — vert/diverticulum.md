@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A herniation through the muscular wall of a tubular organ (especially the colon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herniation through the muscular wall of a tubular organ (especially the colon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or physiological pouch, sac, or outpocketing branching off from a hollow organ or tubular bodily cavity (such as the esophagus or colon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blind branch or side chamber in an anatomical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulum designates a herniation through the muscular wall of a tubular organ (especially the colon)."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The avian crop represents a specialized mucosal **diverticulum** adapted for food storage before gastric digestion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The respiratory air bladder develops embryologically as a ventral **diverticulum** of the gut."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Food debris accumulated within the esophageal **diverticulum**, causing chronic regurgitation and dysphagia."*

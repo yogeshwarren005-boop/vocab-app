@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flock of coots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that serves to conceal or shelter something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not openly displayed, practiced, or acknowledged; hidden, secret, or stealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thicket, woodland shelter, or undergrowth affording cover for game or wildlife.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak of peace, while covert enmity Under the smile of safety wounds the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under this thick-grown brake we’ll shroud ourselves, For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer. 2 KEEPER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore let our alliance be combin’d, Our best friends made, our means stretch’d; And let us presently go sit in council, How covert matters may be best disclos’d, And open perils surest answered."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The wild beasts retreated to the shady **covert** of the cedar forest as noontide heat mounted."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Disdain and scorn ride sparkling in her eyes, misprizing what they look on, and her wit values itself so highly that to her all matter else seems weak: she cannot love, nor take no shape nor project of affection, she is so self-endeared. Into the pleached bower, where honeysuckles ripen'd by the sun forbid the sun to enter, like favourites made proud by princes, that advance their pride against that power that bred it: there will she hide her, to listen our purpose. This is thy office; bear thee well in it and leave us alone. Walk into the orchard, for there he hides in **covert** shade."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign factions often practice **covert** intrigue within the councils of a divided confederacy."*

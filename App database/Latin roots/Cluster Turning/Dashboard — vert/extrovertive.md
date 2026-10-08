@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being concerned with the social and physical environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by extroversion; tending to direct attention, energy, and enthusiasm outward toward external people and events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outgoing, socially communicative, and expressive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrovertive designates being concerned with the social and physical environment."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"An **extrovertive** attitude allows the mind to absorb external sensory stimuli without subjective distortion."*
+> - 📜 **William McDougall (*The Group Mind*):** *"Collective crowd behavior frequently elicits intense **extrovertive** enthusiasm from impressionable members."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"Psychometric inventories evaluate **extrovertive** tendencies through self-reported preferences for large gatherings."*

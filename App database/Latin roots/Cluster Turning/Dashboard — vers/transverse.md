@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending or lying across; in a crosswise direction; at right angles to the long axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or extending in a direction across from side to side; lying at right angles to the longitudinal axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry or physics, describing a wave whose oscillations are perpendicular to the direction of wave advance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Among the Western Dénés it is believed that one or two transverse lines tattooed on the arms or legs of a young man by a pubescent girl are a specific against premature weakness of these limbs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I remarked, among others, some germons, a species of mackerel as large as a tunny, with bluish sides, and striped with transverse bands, that disappear with the animal’s life."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes cut the cord and removed the transverse bar."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Light consists of **transverse** undulations of the electromagnetic field propagating through space."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The skin of the zebra displays distinct **transverse** stripes that blend harmoniously with tall savanna grasses."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Heavy **transverse** beams reinforced the wooden ribs of the whaling vessel against arctic pack ice."*

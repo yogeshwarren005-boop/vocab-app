@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a backbone or spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal possessing a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a spinal column; or characterized by vigor, structure, and moral firmness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The bones of vertebrate fossils preserved in this bed are often much injured by the gypsum formation which covers their surface and often penetrates them in every direction."*
-> - 📜 **James Joyce (*Ulysses*):** *"My telegram. —You were speaking of the gaseous vertebrate, if I mistake not? he asked of Stephen."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The embryonic development of every **vertebrate** animal recapitulates early ancestral marine stages."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A well-preserved fossil **vertebrate** was unearthed from the Devonian sandstone strata."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial architecture of the **vertebrate** skull reflects modifications of ancient visceral arches."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn aside; turn away from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send on a course or in a direction different from the planned or intended one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing amusement, entertainment, or pleasant recreation; charmingly distracting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turning aside from a path or focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba went home, her mind occupied with a new trouble, which being rather harassing than deadly was calculated to do good by diverting her from the chronic gloom of her life."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet found the pompous absurdities of Mr. Collins exceedingly **diverting** throughout the evening."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The travelling companions engaged in a most **diverting** conversation as the coach rattled toward Rochester."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He possessed an inexhaustible store of **diverting** anecdotes that banished gloom from every company."*

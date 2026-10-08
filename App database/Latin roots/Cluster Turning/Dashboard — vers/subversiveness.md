@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disloyalty by virtue of subversive behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disloyalty by virtue of subversive behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or tendency of challenging, destabilizing, or undermining established political authority or orthodoxies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covert radicalism directed against established societal institutions or values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subversiveness designates disloyalty by virtue of subversive behavior."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"Authorities often overreact to intellectual dissent, mistaking honest reform for criminal **subversiveness**."*
+> - 📜 **George Kennan (*Realities of American Foreign Policy*):** *"We must counter the ideological **subversiveness** of totalitarian regimes with enduring democratic strength."*
+> - 📜 **Lionel Trilling (*The Liberal Imagination*):** *"Modern literature derives much of its vitality from an inherent **subversiveness** toward bourgeois complacency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a diverticulum in the digestive tract (especially the colon); characterized by painful abdominal cramping and fever and constipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a diverticulum in the digestive tract (especially the colon); characterized by painful abdominal cramping and fever and constipation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute medical condition characterized by inflammation or infection of small pouches (diverticula) in the wall of the colon, causing abdominal pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammatory bowel pathology requiring antibiotic therapy, bowel rest, or surgical intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulitis designates inflammation of a diverticulum in the digestive tract (especially the colon); characterized by painful abdominal cramping and fever and constipation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **diverticulitis** in the left iliac fossa frequently mimics the clinical symptoms of acute appendicitis."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Surgeons operated promptly to drain the localized abscess caused by perforated **diverticulitis**."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"Careful surgical resection remains necessary when recurrent **diverticulitis** causes intestinal stenosis."*

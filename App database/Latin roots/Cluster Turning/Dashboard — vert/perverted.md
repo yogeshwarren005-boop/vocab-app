@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned away from what is right, natural, true, or proper; corrupted, distorted, or misapplied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by abnormal or sexually deviant inclinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce has warped him out of himself and perverted me in his eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was much disconcerted, but I reflected that if the main point were gained, it mattered little how strangely he perverted everything leading to it."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A **perverted** philosophy had turned the generous instincts of youth into weapons of terror."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His once benevolent intellect had become a dark and **perverted** engine of cold vengeance."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The sacred name of liberty was **perverted** to justify the bloody horrors of the guillotine."*

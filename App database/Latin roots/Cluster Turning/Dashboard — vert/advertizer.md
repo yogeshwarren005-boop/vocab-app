@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business is advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business is advertising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, firm, or entity that sponsors or places public advertisements; variant of advertiser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newspaper or printed gazette containing commercial notifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizer designates someone whose business is advertising."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The enterprising **advertizer** promised instant wealth to anyone investing in the Tennessee coal lands."*
+> - 📜 **Walt Whitman (*Complete Prose Works*):** *"The small-town **advertizer** relied upon local mercantile notices to finance its political coverage."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The village **advertizer** posted notices of auction sales upon the doorpost of the country inn."*

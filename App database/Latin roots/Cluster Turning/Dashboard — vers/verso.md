@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Left-hand page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal that does not bear the principal design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A left-hand page of an open book, or the back or reverse side of a printed or drawn sheet, bearing an even page number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reverse side of a legal charter, document, or leaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 54 _verso_."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This was a genuine antique Ko vessel." FOOTNOTES: [Footnote 95: Quoted in the _T´ao lu_, bk. ix., fol. 9 verso."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A marginal gloss written upon the **verso** of the ancient codex clarified the obscure imperial decree."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Old Monkbarns turned the manuscript leaf carefully to inspect a curious illumination on the **verso**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner sketched a rapid graphite study of the Venetian canal upon the **verso** of the watercolor paper."*

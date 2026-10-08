@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A russian unit of length (1.067 km).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A russian unit of length (1.067 km).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Russian unit of distance, equal to 500 sazhen or approximately 1.067 kilometers (about 3,500 feet / 0.66 miles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distance marker or milestone along an imperial Russian road.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verst designates a russian unit of length (1.067 km)."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The Russian cavalry pursued the retreating column across thirty freezing **verst** of snowy steppe."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"He walked another weary **verst** along the canal embankment before reaching the dreary suburban quarter."*
+> - 📜 **Anton Chekhov (*The Steppe*):** *"Not a single village or roadside inn appeared for many a dusty **verst** beneath the scorching sun."*

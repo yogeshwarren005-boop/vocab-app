@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to be turned back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to be turned back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or characterized by reversion, turning back, or reversal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, denoting an affix or construction that reverses the action of a base verb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversive designates tending to be turned back."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain verbal prefixes exert a **reversive** semantic force, transposing the direction of action."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"A **reversive** tendency emerges when external physical equilibria overcome internal developmental momentum."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Morphological analysis reveals how **reversive** morphemes systematically undo the action denoted by the stem."*

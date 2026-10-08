@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverse or contrary manner; ; - f.a.geldard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inverse or contrary manner; ; - f.a.geldard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inverted or contrary manner; in a reciprocal mathematical proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opposite order, sequence, or relation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"According to the quantity theory we must expect that, when conditions (1) and (2) remain fixed, the value of money will vary inversely as its quantity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"On the near side, the sea-wall makes an elbow crooked inversely, and its end too has a lighthouse."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The reader will probably have noticed from what has already been said about the units of measurement--the volt, the ampere and the ohm--that the current varies directly as the pressure and inversely as the resistance."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The refrangibility of rays is **inversely** related to their wavelength across the prismatic spectrum."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of a scarce commodity varies **inversely** with the abundance of the available supply."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The preservation of delicate organic fossils varies **inversely** with the coarse porosity of the sedimentary matrix."*

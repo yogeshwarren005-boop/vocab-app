@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed into something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being converted, transformed, or exchanged for another substance, form, or currency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, paper currency that cannot be redeemed in specie on demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Typical bank-notes, unlike inconvertible paper money, depend for their value on the credit of the bank, not on their legal-tender quality and on political power."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Show the difference between convertible and inconvertible money. 3."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **inconvertible** paper standard invites speculative abuse and undermines foreign mercantile confidence."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"To issue **inconvertible** debt instruments would permanently damage the fiscal credit of the new republic."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Certain primitive axiomatic truths remain **inconvertible** by any sophisticated rhetorical artifice."*

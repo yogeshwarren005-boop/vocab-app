@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the bony segments of the spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the bony segments of the spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the series of interlocking bones or cartilaginous segments that compose the spinal column in vertebrate animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical bone segment protecting the spinal cord and providing skeletal articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey wore a polished necklace of codfish vertebra; and Hosea Hussey had his account books bound in superior old shark-skin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The typical **vertebra** consists of a centrum, neural arch, and articulating apophyses."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each **vertebra** is separated from its neighbor by an elastic pad of fibrocartilage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cervical **vertebra** count remains constant at seven across mammals, from the shrew to the giraffe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vertical direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vertical direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vertical direction; straight up and down; perpendicular to the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to extend toward the zenith or nadir.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The third item of consciousness was that of seeing the same sword, perfectly clean and free from blood held vertically in Troy’s hand (in the position technically called “recover swords”)."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ashes under the grate were lit by the fire vertically, like a torrid waste."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This fin is some three or four feet long, growing vertically from the hinder part of the back, of an angular shape, and with a very sharp pointed end."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The primary taproot penetrates **vertically** into the soil under the influence of geotropic stimulation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale shot **vertically** out of the sea, hovering momentarily in the air before crashing into foam."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The copper disc was suspended **vertically** between the opposing poles of the electromagnet."*

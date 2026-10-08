@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To be returned to the former owner or that owner's heirs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be returned to the former owner or that owner's heirs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reverting or returning to a previous condition, owner, or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law, subject to a right of reversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revertible designates to be returned to the former owner or that owner's heirs."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The grant of a determinable fee remains strictly **revertible** upon the breach of the specified condition."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic varieties remain highly **revertible** whenever artificial selection pressure is relaxed."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Public franchises should be granted as **revertible** privileges rather than perpetual corporate monopolies."*

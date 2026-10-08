@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being reversible in either direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reversible in either direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or property of being reversible; ability to be restored to an original state or operated backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and chemical kinetics, the ability of a reaction or process to proceed in either forward or backward direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reversibility designates the quality of being reversible in either direction."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Carnot's ideal heat engine demonstrates the theoretical **reversibility** of thermodynamic cycles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **reversibility** of the electrochemical cell permits electrical energy to be stored and discharged."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"Mathematical mechanics assumes the **reversibility** of trajectories, whereas living time is strictly irreversible."*

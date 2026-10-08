@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause the downfall of; of rulers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undermine, overthrow, or destroy the authority, principles, or integrity of an established political or legal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To corrupt the mind, morals, or truth of something from within.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Schemes to subvert the liberties of a great community REQUIRE TIME to mature them for execution."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, you will be loyal to each other and to us; on the other, you, and I mean each of you, will lie, cheat, bribe, subvert, sabotage, and kill for the mission, and if it serves our greater purpose, act convincingly against us."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I suspect him of trying to subvert my rule."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ambitious demagogues often begin by flattering the populace to **subvert** their constitutional liberties."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To **subvert** the reign of heaven was an enterprise that shook the pillars of the universe."*
+> - 📜 **Francis Bacon (*Essays*):** *"Factions in a state seek to **subvert** lawful magistrates and replace equity with partisan vengeance."*

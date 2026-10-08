@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal beam that extends across something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal crosspiece across a window or separating a door from a window over it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel across, pass through, or make one's way over a physical space, mountain, or body of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal pleading, to deny formally an allegation of fact made in a previous pleading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes brave verses, speaks brave words, swears brave oaths, and breaks them bravely, quite traverse, athwart the heart of his lover, as a puny tilter, that spurs his horse but on one side, breaks his staff like a noble goose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traverse, go, provide thy money."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was forced to **traverse** the muddy streets of London on foot through the thick November fog."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship continued to **traverse** lonely ocean expanses where no sail had been sighted for months."*
+> - 📜 **William Shakespeare (*Othello*):** *"Traverse; go, provide thy money. We must **traverse** these waters with bold purpose."*

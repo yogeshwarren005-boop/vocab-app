@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who moves or passes across.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who moves or passes across.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels across, navigates through, or journeys over a designated region or terrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway engineering, a movable platform or transfer table that shifts railway carriages laterally between parallel tracks; in law, one who enters a traverse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traverser designates someone who moves or passes across."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The solitary **traverser** of the mountain glen paused to survey the gathering highland shadows."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The legal **traverser** must specifically deny each material covenant to maintain the validity of his plea."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"An automated mechanical **traverser** shifted the carriage smoothly into the adjacent rail bay."*

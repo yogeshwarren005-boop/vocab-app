@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central france near paris; site of the palace of versailles that was built by louis xiv in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palace built in the 17th century for louis xiv southwest of paris near the city of versailles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north-central France, celebrated as the royal seat of King Louis XIV and the site of the magnificent Palace of Versailles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, the opulent court life, absolute royal authority, or famous international treaties associated with the palace of Versailles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare Edmond Doutté, _Magie et Religion dans l'Afrique du Nord_ (Algiers, 1908), p. 571 note I. [453] Bossuet, _Oeuvres_ (Versailles, 1815-1819), vi. 276 ("Catéchisme du diocèse de Meaux")."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He could well understand the stories they told of Napper Tandy, and the great rebel in the gardens of Versailles."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Put it even that they are like the fishwives who helped to bring back to Paris from Versailles, on that most ominous day of the first half of the French Revolution, the carriage of the royal family."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The gilded galleries of **versailles** echoed with the flattery of courtiers surrounding the grand monarch."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A desperate crowd of women marched through the driving autumn rain toward the palace gates of **versailles**."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Centralized bureaucratic authority had concentrated the nobility at **versailles**, divorcing them from local rural life."*

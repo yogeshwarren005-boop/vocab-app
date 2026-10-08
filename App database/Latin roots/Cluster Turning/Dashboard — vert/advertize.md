@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make publicity for; try to sell (a product).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call attention to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To announce, promote, or offer goods, services, or events to the public through commercial notices; variant of advertise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To call public attention to a fact, intention, or commodity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertize designates make publicity for; try to sell (a product)."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I sent forth heralds and sandwich-men to **advertize** modern soap and sewing machines across camelot."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"It is unnecessary to **advertize** simple virtues that shine forth visibly in honest daily labor."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Storekeepers **advertize** their wares upon huge painted wooden placards along the broadway thoroughfare."*

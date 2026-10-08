@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being reversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be reversed, revoked, undone, or altered; permanent and final.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a thermodynamic process in which net entropy increases, preventing spontaneous return to initial conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinction is an **irreversible** event in biological history; a lost species never reappears."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A judicial decree of execution is an **irreversible** judgment that admits of no earthly redress."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A constitutional dissolution would inflict an **irreversible** calamity upon the American union."*

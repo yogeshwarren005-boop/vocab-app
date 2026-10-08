@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give heed (to).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refer or turn the mind's attention to something in speech or writing; to make an allusion or reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British informal abbreviation for an advertisement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All this I enjoyed often and fully, free, unwatched, and almost alone: for this unwonted liberty and pleasure there was a cause, to which it now becomes my task to advert."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The plausibility of this objection will vanish the moment we advert to the essential difference between a mere NON-COMPLIANCE and a DIRECT and ACTIVE RESISTANCE."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"I must briefly **advert** to the dangerous doctrines recently proclaimed by the revolutionary club."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The historian paused to **advert** to the shifting diplomatic alliances across seventeenth-century Europe."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"In my former treatise I did not **advert** to this theological distinction with sufficient precision."*

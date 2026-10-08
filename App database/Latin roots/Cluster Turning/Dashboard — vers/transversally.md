@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transverse manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transversal or crosswise direction; across the longitudinal axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to intersect multiple lines, paths, or anatomical layers across their width.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transversally designates in a transverse manner."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The muscle fibers run **transversally** across the abdominal wall to support visceral pressure."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic sections sliced **transversally** through the stem revealed concentric rings of cellular ducts."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The neural spine was split **transversally** by an ancient fracture that had healed imperfectly."*

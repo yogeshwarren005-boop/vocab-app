@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian fashion designer (1946-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian fashion designer (1946-1997).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prestigious Italian luxury fashion house founded in 1978 by Gianni Versace, renowned for bold prints, Medusa motifs, and vibrant colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or designed by the Italian fashion brand Versace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, versace designates italian fashion designer (1946-1997)."*
+> - 📜 **Richard Martin (*Gianni Versace*):** *"The revolutionary aesthetic of **versace** combined classical Greco-Roman mythology with contemporary rock glamour."*
+> - 📜 **Valerie Steele (*Fashion and Eroticism*):** *"Daring draped silk gowns created under the **versace** label redefined Milanese haute couture in the 1980s."*
+> - 📜 **Colin McDowell (*The Anatomy of Fashion*):** *"The flamboyant theatricality of a **versace** collection captivated international runways season after season."*

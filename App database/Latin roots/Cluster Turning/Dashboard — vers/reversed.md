@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change to the contrary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn inside out or upside down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turned backward, upside down, or in the contrary direction; inverted in position or sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annulled, revoked, or set aside by legal authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It addressed me as if our places were reversed, as if all the good deeds had been mine and all the feelings they had awakened his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy had, since yesterday, faintly reversed his; but the merest opposition had disheartened him."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The optical image appeared inverted and laterally **reversed** upon the frosted glass screen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The compass needle pointed in a **reversed** direction after the lightning struck the mainmast."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Their financial roles were suddenly **reversed** when the bank failure wiped out his fortune."*

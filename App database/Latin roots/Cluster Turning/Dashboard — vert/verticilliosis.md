@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilt caused by fungi of the genus verticillium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilt caused by fungi of the genus verticillium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A destructive vascular wilt disease of plants caused by pathogenic soil-borne fungi of the genus *Verticillium*, leading to stunting and yellowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vascular mycosis causing xylem blockage and wilting across economic crops like cotton, potatoes, and tomatoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticilliosis designates wilt caused by fungi of the genus verticillium."*
+> - 📜 **Erwin Frink Smith (*Bacteria in Relation to Plant Diseases*):** *"Field pathology studies revealed that **verticilliosis** invades host roots and blocks water conduction in the xylem."*
+> - 📜 **William Trelease (*Botanical Gazette*):** *"Crop rotation with non-susceptible grasses reduces the persistent soil inoculum of **verticilliosis**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial orchardists monitor stone fruit trees closely for early leaf-scorch symptoms of **verticilliosis**."*

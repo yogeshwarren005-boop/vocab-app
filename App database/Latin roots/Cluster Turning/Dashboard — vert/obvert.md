@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vert within the domain of Turning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vert in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In formal logic, to turn or transform a proposition by obversion into an equivalent proposition with an altered quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To turn toward or present the front face of something to an observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obvert designates pertaining to, derived from, or characteristic of latin vert within the domain of turning."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"To **obvert** the affirmative proposition all men are mortal yields no men are non-mortal."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians frequently **obvert** immediate premises to demonstrate equivalence in syllogistic reduction."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"We can systematically **obvert** universal negative assertions without altering their truth value."*

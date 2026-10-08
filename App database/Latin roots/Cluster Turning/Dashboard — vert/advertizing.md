@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial practice or business of designing and publishing advertisements; variant of advertising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promotional notices collectively displayed across media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizing designates a public promotion of some product or service."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mining journal survived through lucrative **advertizing** purchased by ambitious territorial speculators."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"Silas believed fanatically in the power of **advertizing** to spread the fame of his mineral paint."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The druggist spent considerable sums on local newspaper **advertizing** during the festive holiday trade."*

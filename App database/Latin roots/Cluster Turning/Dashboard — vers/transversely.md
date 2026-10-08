@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transverse manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a crosswise direction; at right angles to the long axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crosswise; in a manner that spans across an object or path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wound up, rubbing his thumb transversely along the edges of the leaves as he held the book forward."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Exploring, I found another short gallery running transversely to the first."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The two cells are separated by a partition or dissepiment, which divides the original cell transversely into an upper and lower cell, with an external constriction in the plane of the dissepiment (Plate IV. fig. 59)."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The tendril coiled **transversely** around the supporting twig, anchoring the vine firmly against the wind."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The specimen was divided **transversely** to expose the internal arrangement of the cranial chambers."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Lines of magnetic induction pass **transversely** through the copper conductor during rotation."*

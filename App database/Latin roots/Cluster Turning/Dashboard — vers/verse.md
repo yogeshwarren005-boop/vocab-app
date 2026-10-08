@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature in metrical form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of poetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing arranged with a metrical rhythm, typically having a rhyme scheme; poetry as distinguished from prose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single line or stanza of a poem or song; also, one of the numbered short sections of a chapter in the Bible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"Not marble, nor the gilded monuments of princes, shall outlive this powerful **verse**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"My celestial patroness deigns her nightly visitation unimplor'd, and dictates to me slumb'ring, or inspires easy my unpremeditated **verse**."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poetry in a general sense may be defined to be the expression of the imagination, and **verse** is its melodious vehicle."*

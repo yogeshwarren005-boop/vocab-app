@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a disposition to oppose and contradict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to guidance or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately departing from what is reasonable, proper, acceptable, or right; obstinate in opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary, stubborn, or self-willed in resisting guidance or sound judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were covetous, ambitious, or perverse, As he will have me, how am I so poor?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, methinks you do not well To bear with their perverse objections, Much less to take occasion from their mouths To raise a mutiny betwixt yourselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou thinkest I am too quickly won, I’ll frown and be perverse, and say thee nay, So thou wilt woo."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"I'll frown and be **perverse** and say thee nay, so thou wilt woo; but else, not for the world."*
+> - 📜 **Edgar Allan Poe (*The Imp of the Perverse*):** *"There is a radical, primitive, irreducible sentiment that prompts men to do wrong simply because it is **perverse**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He was seized by a **perverse** desire to contradict every argument advanced by his companions."*

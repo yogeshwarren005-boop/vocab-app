@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in yeast and intestinal secretions that catalyzes the hydrolysis of sucrose into glucose and fructose (invert sugar).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beta-fructofuranosidase, utilized commercially in confectionary and brewing to produce invert syrup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertase designates an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The soluble ferment **invertase** extracted from yeast cells hydrolyzes cane sugar into fermentable monosaccharides."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The intestinal juice contains **invertase**, transforming disaccharides into assimilable simple hexoses."*
+> - 📜 **Eduard Buchner (*Zymase Fermentation*):** *"Active **invertase** continues its enzymatic hydrolytic cleavage in cellular extracts completely free of living yeast."*

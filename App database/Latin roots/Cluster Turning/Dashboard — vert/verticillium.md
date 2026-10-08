@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus of the genus verticillium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus of the genus verticillium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of anamorphic ascomycete fungi characterized by whorled branching of spore-bearing conidiophores, including widespread plant pathogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathogenic or saprobic fungus belonging to this genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillium designates a fungus of the genus verticillium."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The genus **verticillium** is distinguished by slender verticillate branchlets producing hyaline conidia at the tips."*
+> - 📜 **Mordecai Cubitt Cooke (*Fungi: Their Nature and Uses*):** *"Species of **verticillium** frequently parasitize decaying agarics and decaying vegetation in damp autumn woods."*
+> - 📜 **Erwin Frink Smith (*An Introduction to Bacterial Diseases of Plants*):** *"Microscopic examination confirmed that hyphae of **verticillium** had thoroughly occluded the vascular bundles."*

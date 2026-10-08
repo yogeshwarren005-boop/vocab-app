@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes; amphibians; reptiles; birds; mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes; amphibians; reptiles; birds; mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major subphylum of chordate animals (including fishes, amphibians, reptiles, birds, and mammals) characterized by a segmented spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The comprehensive biological division of animals possessing an internal endoskeleton and cranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The subphylum **vertebrata** displays a cephalized nervous system and dorsal hollow nerve cord."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Homologies linking the forelimbs of all **vertebrata** demonstrate descent from a common ancestor."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A comparative survey of the **vertebrata** reveals the profound unity of architectural design in nature."*

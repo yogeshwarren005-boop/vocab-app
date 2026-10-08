@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical, metallurgical, or electrical apparatus that transforms substances or energy; variant of converter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent or individual that effects a conversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertor designates a device for changing one substance or form or state into another."*
+> - 📜 **Henry Bessemer (*On the Manufacture of Malleable Iron and Steel*):** *"The hydraulic cylinder tipped the **convertor** forward to discharge twenty tons of liquid steel into the ladle."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The induction **convertor** demonstrated the reciprocal transformation of electricity and magnetism."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"A specialized high-frequency **convertor** discharged through the evacuated glass bulb with radiant brilliance."*

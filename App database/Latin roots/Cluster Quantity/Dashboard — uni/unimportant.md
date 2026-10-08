@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimportant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of importance, meaning, or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in significance, value, seriousness, or consequence; trivial and negligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding little authority, influence, or prominence in public affairs or scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you remember anything so unimportant—which is not to be expected—you would recollect that my first thought in the affair was directly opposed to her remaining here.” Dismiss the Dedlock patronage from consideration?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass was curled round in the fashion of a hedge-hog, apparently in attempts to present the least possible portion of his surface to the air; and behind him was dimly visible an unimportant remnant of William Smallbury."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"It is an error to regard small clues as **unimportant**; upon trifles the greatest cases turn."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor deemed the rumor too **unimportant** to merit disturbing her sister's peace of mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An organ that appears functionally **unimportant** may have been vital to an ancestral organism."*

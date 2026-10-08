@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninterestingly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninteresting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninteresting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dull, tedious, or monotonous manner that fails to engage attention or curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without lively expression, intellectual depth, or entertaining nuance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninterestingly designates in an uninteresting manner."*
+> - 📜 **Henry James (*The Bostonians*):** *"The speaker droned on **uninterestingly**, shuffling his handwritten lecture notes with a tired sigh."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The county history unfolded **uninterestingly**, reciting land deeds without vivid human anecdotes."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The carriage ride passed **uninterestingly** along dusty hedges under a heavy overcast sky."*

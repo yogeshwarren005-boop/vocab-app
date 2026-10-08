@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unison
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding exactly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring together or simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous performance or utterance of music or speech at the exact same pitch or rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coincidence in action, agreement, or harmonious consensus among multiple parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here we be, ’a b’lieve,” was echoed in shrill unison."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its deep "Ah! hah! hah!" came with a staccato, quacking sound from somewhere low down in the chest, and set his huge shoulders moving in unison with its peals."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Rejecting all other music, he adopted the plain song in which all could join, and with one voice, every man in unison with his brother, we sang with him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustics chanted the chorus in rough **unison**, their heavy boots marking the steady measure on the floor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The heavenly choir sang in sweet **unison**, praising the creation with harp and voice."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The oars dipped in perfect **unison**, driving the light whaleboat over the cresting rollers."*

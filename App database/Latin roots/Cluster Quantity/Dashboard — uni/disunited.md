@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disunited
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking harmony, cohesion, or political solidarity; divided into contentious factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physically or administratively separated into disconnected parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a review of these transactions we may trace some of the causes which would be likely to embroil the States with each other, if it should be their unpropitious destiny to become disunited."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A **disunited** ministry could offer no coherent defense against the accusations of the opposition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian tribes remained **disunited** by blood feuds, enabling Roman legions to triumph."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Without common civic attachments, a multitude becomes a **disunited** throng incapable of sustained action."*

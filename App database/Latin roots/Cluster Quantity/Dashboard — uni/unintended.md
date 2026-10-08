@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintended
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deliberate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deliberate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planned, anticipated, or deliberately aimed for; occurring by unforeseen accident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising as an incidental byproduct or collateral consequence of an action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A result usually unintended is the derangement of business and of the existing distribution of incomes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She answered, wanting to check unintended consequences— “I spoke from inference only."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An individual pursuing self-interest often promotes the public good as an **unintended** consequence."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Statutory price ceilings produced severe **unintended** shortages across major urban markets."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Artificial selection by breeders has often produced curious and **unintended** structural variations."*

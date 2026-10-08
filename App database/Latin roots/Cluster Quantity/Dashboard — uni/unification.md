@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unification
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined or united or linked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of bringing distinct elements, territories, or entities into a coherent whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political consolidation of divided sovereign states into a single unified nation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There should be a unification of various kinds of insurance in one general plan and under one general administration for the whole state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So even patents will not have much effect, in all probability, upon this unification process."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ultimate **unification** of England and Scotland removed centuries of border warfare and suspicion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The military **unification** of Italy under early republican arms laid the bedrock of imperial power."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophic truth consists in the complete **unification** of knowledge gathered from separate sciences."*

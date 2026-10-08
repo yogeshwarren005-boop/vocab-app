@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninterrupted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having undisturbed continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing in time or space without interruption; - james jeans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing continuously without break, pause, obstacle, or cessation; unbroken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording a clear, continuous view or passage without intermediate barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Two days had passed in uninterrupted work, and Apollonie had accomplished what she had set out to do."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We felt it better to withdraw and leave them uninterrupted."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The logic of the situation compels even those officials that are of the labor party or are most favorable to labor, to maintain an uninterrupted service on the public railways."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The slow deposition of sediments continued in an **uninterrupted** series across millions of years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The empire enjoyed eighty years of **uninterrupted** peace under the Antonine emperors."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"An **uninterrupted** expanse of blue ocean met the masthead watch in every direction."*

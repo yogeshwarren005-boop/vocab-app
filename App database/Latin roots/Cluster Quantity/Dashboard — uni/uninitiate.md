@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninitiate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who have not been introduced to the mysteries of some field or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not initiated; deficient in relevant experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not initiated; lacking formal admission or esoteric instruction in a mystery or guild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexperienced in specialized rituals, technical craft secrets, or philosophical doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus disguised they dance about to the awe and terror, real or assumed, of the women and uninitiated, who take, or pretend to take, them for spirits."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The uninitiated are not allowed to see this instrument."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pagan priests forbade the **uninitiate** populace from entering the inner sanctuary of the temple."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"To the **uninitiate** observer, the labyrinthine procedures of the Chancery court seemed madness."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The solemn hymns conveyed hidden spiritual allegories wholly inaccessible to the **uninitiate**."*

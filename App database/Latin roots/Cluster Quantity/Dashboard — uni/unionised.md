@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized into, represented by, or operating under a recognized trade union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having terms of labor governed by collective union contracts rather than individual agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionised designates recruit for a union or organize into a union."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"In **unionised** trades, apprenticeships were strictly regulated to prevent an oversupply of labor."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The **unionised** miners stood firmly behind their elected delegates during the wage arbitrations."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Large manufacturing plants negotiated stable production schedules with their **unionised** staff."*

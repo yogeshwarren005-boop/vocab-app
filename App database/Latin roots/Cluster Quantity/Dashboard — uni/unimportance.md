@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimportance
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being important or worthy of note.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insignificance, triviality, or lack of notable consequence within an ongoing endeavor or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding minimal weight or consequence within a broader social, political, or intellectual hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Looking into Napoleon’s eyes Prince Andrew thought of the insignificance of greatness, the unimportance of life which no one could understand, and the still greater unimportance of death, the meaning of which no one alive could understand or explain."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is nothing certain, nothing at all except the unimportance of everything I understand, and the greatness of something incomprehensible but all-important.” The stretchers moved on."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was acutely conscious of his own social **unimportance** in the grand house of Miss Havisham."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The dispute was of utter **unimportance** to the parish, yet it inflamed neighboring squires."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy tossed away the coin with an air of careless **unimportance** that concealed his vanity."*

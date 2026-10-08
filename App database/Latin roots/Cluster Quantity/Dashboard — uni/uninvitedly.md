@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninvitedly
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without invitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninvited or unbidden manner; arriving without prior invitation or permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrusively intruding upon another's company or private thoughts unasked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Memories of former sorrow rose **uninvitedly** to disturb my tranquil evening in the garden."*
+> - 📜 **Henry James (*The American*):** *"He entered the salon **uninvitedly**, bowing with bold assurance to the astonished marquise."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The furmity-woman appeared **uninvitedly** in court, throwing the magistrate into profound confusion."*

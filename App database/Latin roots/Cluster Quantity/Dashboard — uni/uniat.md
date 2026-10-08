@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniat
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the uniat church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the uniat church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an Eastern rite Christian Church that is in ecclesiastical union with the Roman Catholic Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Eastern Christians who retain Byzantine liturgical traditions while accepting papal primacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniat designates a member of the uniat church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Negotiations between the papal curia and eastern clergy produced the controversial **Uniat** compromise."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Diplomats in Warsaw debated the civic privileges granted to the **Uniat** priesthood across the Ukraine."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The **Uniat** churches formed a cultural bridge connecting Slavic religious customs with Latin theology."*

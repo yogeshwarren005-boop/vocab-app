@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilaterally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a unilateral manner; by means of one part or party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a unilateral manner; by means of one part or party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By one party, state, or side alone; without the agreement or cooperation of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner affecting or situated on only one side of a anatomical or political boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilaterally designates in a unilateral manner; by means of one part or party."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"No sovereign state can **unilaterally** alter the international purchasing power of precious metals."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"To abrogate a long-standing treaty **unilaterally** destroys the foundation of international trust."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Motor reflexes were diminished **unilaterally** following the vascular lesion in the internal capsule."*

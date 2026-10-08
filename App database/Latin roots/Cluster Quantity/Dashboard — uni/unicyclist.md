@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicyclist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a unicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a unicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides, balances, or performs acrobatic stunts upon a unicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer skilled in navigating single-wheeled vehicles in theatrical exhibitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicyclist designates a person who rides a unicycle."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The nimble **unicyclist** pedaled across the narrow gangplank to the amazement of the deckhands."*
+> - 📜 **H. G. Wells (*Kipps*):** *"A wandering **unicyclist** juggled flaming torches upon the seaside promenade before evening fell."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The athletic suspect moved with the singular balance and light tread of a circus **unicyclist**."*

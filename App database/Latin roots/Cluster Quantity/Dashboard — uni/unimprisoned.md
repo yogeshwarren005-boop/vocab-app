@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimprisoned
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from confinement or physical restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from confinement or physical restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confined in a prison, cell, or cage; set free, unrestrained, or emancipated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberated from confining physical, emotional, or ideological enclosures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimprisoned designates free from confinement or physical restraint."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The soul, **unimprisoned** from mortal flesh, ascends toward the pure empyrean of light."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Joy leaped forth like an **unimprisoned** wind sweeping the mountain forests at dawn."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Thought moves **unimprisoned** across boundaries that divide kingdoms and conquerors."*

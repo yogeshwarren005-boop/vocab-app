@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unironed
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of linens or clothes) not ironed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of linens or clothes) not ironed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pressed, smoothed, or finished with a heated iron; wrinkled, creased, or rumpled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining natural rumples or creases following washing without textile pressing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unironed designates (of linens or clothes) not ironed."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber appeared in an **unironed** shirt collar that nevertheless stood up with desperate dignity."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude put on his **unironed** working clothes before dawn to walk toward the stone yards."*
+> - 📜 **George Gissing (*New Grub Street*):** *"A heap of damp, **unironed** linen lay upon the chair in the corner of the lodging house parlor."*

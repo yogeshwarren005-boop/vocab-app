@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimaginable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Totally unlikely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally unlikely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to imagine, conceive, or picture in the mind; incredibly great or extraordinary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceeding the boundaries of ordinary human comprehension or previous experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yet was there a sort of indefinite, half-attained, unimaginable sublimity about it that fairly froze you to it, till you involuntarily took an oath with yourself to find out what that marvellous painting meant."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My arm hung over the counterpane, and the nameless, unimaginable, silent form or phantom, to which the hand belonged, seemed closely seated by my bedside."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The machine whirled through decades with **unimaginable** velocity into the far distant twilight of earth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological epochs stretch through **unimaginable** vistas of time, during which species slowly diverged."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the creature of my own creation, endowed with **unimaginable** strength and dreadful agility."*

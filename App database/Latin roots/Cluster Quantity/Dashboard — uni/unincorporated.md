@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unincorporated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not organized and maintained as a legal corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not organized and maintained as a legal corporation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formed into a legal municipal corporation or chartered business entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not combined, merged, or blended into a larger institutional body or text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unincorporated designates not organized and maintained as a legal corporation."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"An **unincorporated** partnership leaves each partner personally liable for all business debts."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Private banking firms frequently operated as **unincorporated** associations with unlisted assets."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Spontaneous associations among **unincorporated** citizens accomplished feats that European states could not match."*

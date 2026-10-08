@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimodal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single mode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single mode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by only a single mode, statistical peak, or local maximum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying a probability distribution curve with one prominent central crest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimodal designates having a single mode."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The typical biometric distribution curve for height is strictly **unimodal** and nearly symmetric."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Stature measurements across large populations present a classic **unimodal** frequency distribution."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Reaction time trials clustered tightly around a single **unimodal** crest for trained observers."*

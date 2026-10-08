@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonunion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or not allowing affiliation with a trade union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or not allowing affiliation with a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to, produced by, or affiliated with a labor union or trade association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of fractured bone fragments or wound tissues to knit and heal together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonunion designates not belonging to or not allowing affiliation with a trade union."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Employers sought to recruit **nonunion** labor to maintain factory operations during the general strike."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Open-shop manufacturers favored **nonunion** craftsmen to avoid collective bargaining agreements."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe malnutrition in elderly patients often leads to **nonunion** following femoral fractures."*

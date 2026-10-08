@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpeachable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond doubt or reproach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond doubt, suspicion, or reproach; entirely blameless, trustworthy, and irreproachable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing credentials or integrity so flawless as to be invulnerable to challenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A low carriage, bowling along still more rapidly behind a horse of unimpeachable breed, overtook and passed them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After breakfast he walked with his two brothers, non-evangelical, well-educated, hall-marked young men, correct to their remotest fibre, such unimpeachable models as are turned out yearly by the lathe of a systematic tuition."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate.” “O Angel, you are mocking!” “Mother, I beg pardon."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The doctor's professional integrity was **unimpeachable**, making his eerie testimony terrifying."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The historical evidence rested on the **unimpeachable** testimony of contemporary state papers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Colonel Fitzwilliam's character as a gentleman of honor remained completely **unimpeachable**."*

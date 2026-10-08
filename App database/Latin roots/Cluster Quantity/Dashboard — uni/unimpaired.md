@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpaired
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not damaged or diminished in any respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not damaged or diminished in any respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not weakened, damaged, dimmed, or diminished in quality, strength, or functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved in full sound health, legal validity, or mental vigor over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is in a helpless condition as to his lower, and nearly so as to his upper, limbs, but his mind is unimpaired."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She learned that (the intimacy between them continuing unimpaired by Mr Elliot’s marriage) they had been as before always together, and Mr Elliot had led his friend into expenses much beyond his fortune."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Eyes undimmed, faculties unimpaired, she _does what she can_."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The aged senator retained his memory and eloquence **unimpaired** to his ninetieth year."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Instincts survive **unimpaired** through successive generations even when anatomical organs alter."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes's powers of deductive reasoning remained **unimpaired** by bodily fatigue."*

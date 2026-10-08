@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unifying
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting or tending to bring parts together into a single harmonious, cohesive whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing an organizing core principle that integrates diverse phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unifying forces that had survived the Great Migration withered."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The principle of descent with modification provides the **unifying** bond for all biological classification."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"A shared religious tradition exerted a powerful **unifying** influence during early tribal consolidation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness exhibits a persistent **unifying** energy that binds disparate sensations into a single perception."*

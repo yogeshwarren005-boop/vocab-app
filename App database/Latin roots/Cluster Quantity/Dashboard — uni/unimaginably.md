@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimaginably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unimaginable extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an unimaginable extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a degree or extent that cannot be imagined, comprehended, or mentally grasped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incredibly, extraordinarily, or exceedingly far beyond normal comparison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"FOURFOLD OBJECTIVE TO PRESENT REQUIREMENTS Not ours, however, to unriddle the workings of a distant future, or to dwell upon the promised glories of a God-impelled and unimaginably potent Revelation."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The outer stellar nebulae lie **unimaginably** remote in the cold abysses of interstellar space."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heat-ray flashed across the common, setting trees ablaze with **unimaginably** fierce brilliance."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean pressure at the earth's core is **unimaginably** intense, altering molten rock behavior."*

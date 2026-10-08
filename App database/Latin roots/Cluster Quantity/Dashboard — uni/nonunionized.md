@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonunionized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated in a trade union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated in a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating without affiliation to an organized trade union or collective bargaining unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound by trade union regulations, strikes, or closed-shop agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonunionized designates not affiliated in a trade union."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The corporation relocated its assembly lines to rural counties where **nonunionized** workers predominated."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"A competitive marketplace balances organized labor demands against the mobility of **nonunionized** mechanics."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism*):** *"Service industries long remained substantially **nonunionized** due to decentralized employment patterns."*

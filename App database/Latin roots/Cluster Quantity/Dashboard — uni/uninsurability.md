@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninsurability
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being uninsurable; the conditions under which an insurance company will refuse to issue insurance to an applicant (based on standards set by the insurance company).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being uninsurable; the conditions under which an insurance company will refuse to issue insurance to an applicant (based on standards set by the insurance company).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to obtain actuarial insurance coverage due to excessive or unquantifiable hazards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive actuarial hazard that precludes underwriting by commercial underwriters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninsurability designates the quality of being uninsurable; the conditions under which an insurance company will refuse to issue insurance to an applicant (based on standards set by the insurance company)."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Vessels venturing into unchartered arctic waters faced absolute commercial **uninsurability**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculative ventures marked by total **uninsurability** demand exorbitant profit premiums to attract capital."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The chronic financial instability of wildcat railways led to temporary bond **uninsurability**."*

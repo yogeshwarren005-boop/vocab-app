@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninformatively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninformative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninformative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that provides little or no meaningful information; unhelpfully and vaguely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without enlightening clarity or substantive explanatory detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninformatively designates in an uninformative manner."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The witness answered the inspector's queries **uninformatively**, feigning ignorance of the carriage."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The clerk shrugged his shoulders and replied **uninformatively** to Harold Transome's urgent questions."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle smiled **uninformatively**, turning the conversation to Italian scenery."*

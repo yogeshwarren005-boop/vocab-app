@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unisex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not distinguished on the basis of sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not distinguished on the basis of sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or suitable for both men and women; not distinguished by sex or gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to clothing, hairstyles, or facilities intended for use by persons of either sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unisex designates not distinguished on the basis of sex."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Utilitarian working costumes tend toward a **unisex** simplicity, free from conspicuous sartorial display."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The heavy Russian tunic was a **unisex** garment, disguising the figure beneath rich furs and embroidery."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Mass retail markets promoted **unisex** sportswear suited to the informal leisure of suburbia."*

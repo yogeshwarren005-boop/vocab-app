@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilateralist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of unilateralism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of unilateralism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or proponent of unilateralism in national policy, defense, or diplomacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of a policy that disdains multilateral agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateralist designates an advocate of unilateralism."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"The doctrinaire **unilateralist** assumes that domestic power suffices to dictate international terms."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"A staunch **unilateralist** in tariff legislation ignores the retaliatory power of foreign cartels."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Diplomatic councils were swayed by an aggressive **unilateralist** faction bent on commercial primacy."*

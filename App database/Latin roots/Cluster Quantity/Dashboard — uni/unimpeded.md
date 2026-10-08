@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpeded
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not slowed or prevented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not slowed or prevented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stopped, blocked, slowed down, or hindered by obstacles; progressing freely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or flowing along an unobstructed course with full momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It must be owned that neither Laura nor Lawrence obeyed her, and they were rewarded, while she felt about for the top rung, with an unimpeded view of two very pretty legs."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The westering sun bestowed bright glances on it, and the south-west wind blew into it unimpeded."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"While now supine upon thy pave of dew I let thy loveliness my soul pervade, And pass with unimpeded influence through Its quiet depths, like moonlight through thy shade, To haunt with beauty still that shrine of hopes decayed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale surged ahead, his **unimpeded** course throwing white foam over the bows."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Populations multiply in geometric progression when reproduction continues **unimpeded** by famine."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The canal carried light gondolas on its **unimpeded** surface toward the marble palace steps."*

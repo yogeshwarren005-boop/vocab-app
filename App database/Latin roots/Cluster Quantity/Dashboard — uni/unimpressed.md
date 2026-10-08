@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpressed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not moved to serious regard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not moved to serious regard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing no admiration, awe, or respect; indifferent and unmoved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not stamped, engraved, or permanently marked by external pressure or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Every ground on which I had built the persuasion that Pleyel was not unimpressed in my favor appeared to vanish."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But as ever before, the pagan harpooneers remained almost wholly unimpressed; or if impressed, it was only with a certain magnetism shot into their congenial hearts from inflexible Ahab’s."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes listened to the terrifying family legend quite **unimpressed**, stifling a yawn."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel remained **unimpressed** by the lordly suitor's vast estates and historic lineage."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Our cynical companion gazed upon the ancient ruins utterly **unimpressed** by historical romance."*

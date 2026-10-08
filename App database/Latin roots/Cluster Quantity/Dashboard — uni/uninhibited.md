@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninhibited
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inhibited or restrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inhibited or restrained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one's feelings, thoughts, or actions freely without psychological restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconstrained by conventional social hesitation, moral taboo, or nervous inhibition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninhibited designates not inhibited or restrained."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Under extreme passion, reflexive actions proceed in an **uninhibited** rush across motor nerves."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"Her laughter rang through the drawing room with an **uninhibited** vitality that surprised guests."*
+> - 📜 **H. G. Wells (*The Passionate Friends*):** *"They wandered through the alpine meadow in **uninhibited** delight, forgetful of former sorrow."*

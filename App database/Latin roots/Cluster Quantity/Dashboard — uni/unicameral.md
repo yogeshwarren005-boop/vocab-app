@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicameral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of one legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of one legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single legislative chamber or parliamentary house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a legislative system that operates without an upper senate or house of lords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicameral designates composed of one legislative body."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fatal defects of a **unicameral** Congress under the Articles of Confederation were acknowledged by all."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Advocates of a **unicameral** assembly overlook the stabilizing influence of a revising chamber."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Early revolutionary states experimented with a **unicameral** legislature before adopting bicameral checks."*

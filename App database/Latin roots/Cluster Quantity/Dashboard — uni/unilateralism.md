@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilateralism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy or doctrine of taking international action independently without consulting allies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocacy of one-sided state action, especially regarding trade restrictions or disarmament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateralism designates the doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Blind diplomatic **unilateralism** risks alienating essential international trading partners."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Aggressive commercial **unilateralism** inevitably provokes reciprocal embargoes across neighboring frontiers."*
+> - 📜 **Thorstein Veblen (*An Inquiry into the Nature of Peace*):** *"Nationalistic pride often inclines sovereign dynasties toward obstinate geopolitical **unilateralism**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpassioned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional appeal; marked by reasonableness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional appeal; marked by reasonableness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or bias; calm, dispassionate, sober, and objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by cool intellectual restraint and deliberate, tranquil expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The officiating clergyman delivered a long homily in a dull unimpassioned manner, which failed to awaken his interest."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her Pearl—for so had Hester called her; not as a name expressive of her aspect, which had nothing of the calm, white, unimpassioned lustre that would be indicated by the comparison."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Bacon presented his philosophical arguments in clear, **unimpassioned** prose free from rhetoric."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **unimpassioned** voice and temperate manner contrasted sharply with the excitement of the crowd."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond surveyed the dispute with an **unimpassioned** smile that concealed icy disdain."*

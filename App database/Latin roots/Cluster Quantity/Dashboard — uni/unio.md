@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unio
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family unionidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family unionidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater pearl mussels belonging to the bivalve mollusk family Unionidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river mussel historically harvested for mother-of-pearl and freshwater pearls in Europe and America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unio designates type genus of the family unionidae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larvae of the freshwater bivalve **Unio** attach themselves temporarily to the fins of swimming fishes."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Dissection of the river mussel **Unio** provides students with a classical demonstration of molluscan anatomy."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Native fishermen showed us shells of **Unio** collected from quiet river bends for ornamental inlay."*

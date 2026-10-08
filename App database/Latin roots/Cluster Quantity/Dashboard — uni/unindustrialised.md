@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unindustrialised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted to industrialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted to industrialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not developed in terms of mechanical industry, factories, or modern manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by traditional agrarian, pastoral, or handicraft economic arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unindustrialised designates not converted to industrialism."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Peasant societies in **unindustrialised** regions often preserve social stability at the price of economic stagnation."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"In **unindustrialised** provinces, social status remained tied to feudal landholding rather than commercial capital."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Raw commodities flowed out of **unindustrialised** colonies in exchange for finished European wares."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpressive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of impressing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of impressing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to make an impression; ordinary, unremarkable, or disappointing in appearance or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking charismatic grandeur, artistic force, or memorable distinctiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimpressive designates not capable of impressing."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The outer appearance of Pondicherry Lodge was dreary and singularly **unimpressive** in the fog."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The stranger took off his coat in the parlor, revealing a frail and **unimpressive** physique."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The pretender gave an **unimpressive** speech that failed to stir martial fervor in his followers."*

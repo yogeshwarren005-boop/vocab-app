@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintentionally
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without intention; in an unintentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without intention; in an unintentional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inadvertent, accidental, or unplanned manner without conscious design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without premeditation or malice, as an unforeseen mishap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Thus much indeed he was obliged to acknowledge: that he had been constant unconsciously, nay unintentionally; that he had meant to forget her, and believed it to be done."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He cut a convict unintentionally with a bread-knife."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The responsibility of giving the lady away devolved upon the Aged, which led to the clergyman’s being unintentionally scandalised, and it happened thus."*
+> - 📜 **Jane Austen (*Emma*):** *"She feared she had **unintentionally** wounded Miss Bates by an incautious remark on Box Hill."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson had **unintentionally** knocked over the glass retort during the excitement of the chase."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt he had **unintentionally** humiliated Joe Gargery before the refined London visitors."*

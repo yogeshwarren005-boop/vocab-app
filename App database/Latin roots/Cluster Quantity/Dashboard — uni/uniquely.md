@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniquely
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be unique.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be unique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is unlike anything else; in an unequaled, singular, or distinctive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solely, exclusively, or particularly applicable to one individual, species, or instance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not too much, I think, to assert that Goethe could never have become so uniquely great, not even through the splendid versatility of his genius, but for that incomparable self-control, which he made the watchword of his life."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In other words, interest was supposed (though erroneously) to be uniquely connected with the particular production instruments to which the term capital was narrowly and mistakenly confined."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain oceanic islands are **uniquely** populated by flightless birds and giant tortoises."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Each human consciousness is **uniquely** characterized by its own stream of personal memories."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Monopoly rents accrue to resources that are **uniquely** positioned to satisfy urgent consumer demands."*

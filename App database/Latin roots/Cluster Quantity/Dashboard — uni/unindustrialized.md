@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unindustrialized
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted to industrialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted to industrialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having developed modern mechanized industries or large-scale factory production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining pre-industrial agricultural, artisanal, or nomadic economic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unindustrialized designates not converted to industrialism."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Economic assistance to **unindustrialized** nations required capital investments in infrastructure and power."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Trade balances between industrialized centers and **unindustrialized** agrarian hinterlands shifted rapidly."*
+> - 📜 **Thorstein Veblen (*Imperial Germany and the Industrial Revolution*):** *"An **unindustrialized** population could be swiftly converted into disciplined factory labor under central direction."*

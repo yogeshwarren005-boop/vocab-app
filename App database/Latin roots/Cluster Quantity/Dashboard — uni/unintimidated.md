@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintimidated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not shrinking from danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not shrinking from danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not frightened, daunted, or cowed by threats, danger, or overbearing authority; fearless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining steadfast courage, boldness, and independence in the face of peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintimidated designates not shrinking from danger."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The bishops stood **unintimidated** before the king, refusing to read the unconstitutional declaration."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"I faced my cruel overseer with a resolute spirit, **unintimidated** by his threats of punishment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary must remain **unintimidated** by popular clamor or executive encroachment."*

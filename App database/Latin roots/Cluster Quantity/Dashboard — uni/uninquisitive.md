@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninquisitive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inquiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in curiosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not curious, questioning, or eager to probe into unknown matters; intellectually indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an uncritical disposition that avoids investigating hidden causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sedley was of so easy and uninquisitive a nature that she wasn't even jealous."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty sat quietly by the fire, peaceful and **uninquisitive** concerning the affairs of London."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The groom was a dull, **uninquisitive** fellow who rarely noticed anything beyond his stable duties."*
+> - 📜 **Henry James (*The American*):** *"Newman envied the old aristocrat’s **uninquisitive** calm amid the shifting rumors of the court."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninflected
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) not inflected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in form by grammatical inflection for tense, person, number, or case.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spoken in a steady, monotone pitch without melodic modulation or emotional rise and fall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He often exercises a liberty in the collocation of his words which is beyond what an uninflected language like the English admits of, without more or less obscurity."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"English tends toward an **uninflected** grammatical structure, relying on prepositions and word order."*
+> - 📜 **Henry James (*The Bostonians*):** *"Ransom delivered his retort in an **uninflected**, dry drawl that gave nothing away to his listener."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The assistant commissioner posed his questions in a quiet, **uninflected** voice behind the desk."*

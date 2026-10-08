@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintelligently
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unintelligent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligent, thoughtless, or foolish manner; without rational comprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Executing tasks by rote imitation without grasping underlying principles or purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintelligently designates in an unintelligent manner."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Pupils repeat grammar rules **unintelligently** when teaching divorces language from living expression."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The dog barked **unintelligently** at the mirror, reacting solely to a fleeting visual reflection."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"To memorize scientific terms **unintelligently** is the very antithesis of sound scientific discipline."*

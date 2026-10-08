@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninterested
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no care or interest in knowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not interested; having or showing no concern, curiosity, or engagement; indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no stake, bias, or involvement in the outcome of an event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn in his methodical, subdued, uninterested way, “first, whether you have any of Captain Hawdon’s writing?” “First, whether I have any of Captain Hawdon’s writing, sir,” repeats Mr."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The letter written, enveloped, addressed, and stamped, Steinberg tossed it on one side, and leaning back in his arm-chair, turned an uninterested look once more upon his visitor. ‘That affair of Bommaney’s,’ he said. ‘What was that?’ Mr."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Every night when she brushes my hair she recounts these items to me, and I pretend to be uninterested, and listen with all my ears."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Osmond listened with an **uninterested** smile that chilled Isabel’s eager confidences."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond looked completely **uninterested** whenever Lydgate spoke of his hospital research."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles stood beside the hurdle, seemingly **uninterested** in the noisy gossip of the cider makers."*

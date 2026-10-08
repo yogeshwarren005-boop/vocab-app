@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # reunite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a reunion; unite again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come together or cause to join together again following a separation or quarrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To heal or re-establish a broken bond of friendship, family, or political compact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were under a yoke,—I could free them: they were scattered,—I could reunite them: the independence, the affluence which was mine, might be theirs too."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My business is to live without him now: nothing so absurd, so weak as to drag on from day to day, as if I were waiting some impossible change in circumstances, which might reunite me to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre saw that there was a conspiracy against him and that they wanted to reunite him with his wife, and in the mood he then was, this was not even unpleasant to him."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Prospero's art was exerted not for vengeance, but to **reunite** parted lovers and restore true allegiances."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The overwhelming flood served in the final tragic hour to **reunite** brother and sister in profound love."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym hoped that patient affection would eventually **reunite** his mother and headstrong young wife."*

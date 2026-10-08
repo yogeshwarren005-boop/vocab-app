@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniqueness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being one of a kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being one of a kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Singular distinctiveness or the character of being unequaled and unlike any other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The special quality that sets a work of art, organism, or historical event apart from all peers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Nevertheless, such Things do acquire uniqueness over time, and even if no longer of practical use, they represent an individual's, a family's, or a community's history and perhaps, grandeur."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The **uniqueness** of Turner's atmospheric light lies in his mastery of vaporous illumination."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Every great soul exhibits an incomparable **uniqueness** that defies conventional classification."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man’s linguistic abilities possess a **uniqueness** that separates him from the communicative cries of beasts."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninterestingness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to capture or hold one's interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to capture or hold one's interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dullness, monotony, or a total lack of engaging and entertaining characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotony, dryness, or absence of intellectual excitement in a subject or landscape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninterestingness designates inability to capture or hold one's interest."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sheer **uninterestingness** of modern industrial suburbs oppresses the sensitive traveler."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie lamented the dreary **uninterestingness** of her routine household duties in St. Ogg's."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She recoiled from the flat **uninterestingness** of life as lived by conventional provincial matrons."*

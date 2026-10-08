@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintentional
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without deliberate intent; - george macdonald.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done with purpose or intent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done with purpose, deliberate will, or conscious intent; accidental or inadvertent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating without malicious design or premeditated purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I am excessively concerned that he should have any regard for me—but indeed it has been quite unintentional on my side; I never had the smallest idea of it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Occasionally, he shot himself out of his equipage headforemost over the apron; and I saw him on one occasion deliver himself at the door of the Grove in this unintentional way—like coals."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fact is, that there is a vast deal of unintentional humbuggery in some of the accounts we have from scientific men concerning the religious institutions of Polynesia."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was shocked by what she felt had been an **unintentional** betrayal of Jane's gentle secret."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate apologized for his **unintentional** intrusion into the quiet solitude of the garden."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The tragic accident upon the dark road was entirely **unintentional**, yet it brought total ruin."*

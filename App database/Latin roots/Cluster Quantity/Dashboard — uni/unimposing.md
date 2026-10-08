@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimposing
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in impressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in impressiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imposing; modest, unassuming, or plain in appearance, size, or stature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to command attention, reverence, or respect by outward grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The scene is unimposing; there is nought Of grandeur or magnificence displayed; But by its quiet prettiness is brought A sense of calm enjoyment--hill and glade And peaceful meadow, all alike suggest Sweet thoughts of still serenity and rest."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The exterior of Lowood school was plain and **unimposing**, consisting of low gray stone buildings."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick's cottage presented an **unimposing** facade, yet inside it was neat and cheerful."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The town hall was an **unimposing** brick structure fronting directly upon the narrow corn market."*

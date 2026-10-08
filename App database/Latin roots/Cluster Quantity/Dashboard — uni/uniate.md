@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the uniat church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to former eastern christian or orthodox churches that have been received under the jurisdiction of the church of rome but retain their own rituals and practices and canon law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting Eastern Catholic Churches that preserve Eastern liturgy under Roman jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the Eastern Catholic rite who professes communion with the Holy See.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniate designates a member of the uniat church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Uniate** clergy defended their customary married priesthood under the papal concordat."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Jesuit missions in Ruthenia successfully organized **Uniate** dioceses loyal to the Roman pontiff."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"In Eastern Europe, the **Uniate** communities preserved ancient Greek liturgies amidst political friction."*

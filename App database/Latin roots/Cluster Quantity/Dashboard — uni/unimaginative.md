@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimaginative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing only with concrete facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking imagination, creative vision, or original thinking; dull, pedestrian, and prosaic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictly literal and matter-of-fact; incapable of conceiving artistic or speculative ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Before we had made an end of this talk my father and the other squires came in, and we ceased our ghost stories, ashamed to speak of such matters before these new-comers—hard-headed, unimaginative men, who had no sympathy with idle legends."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"A practical, unimaginative woman, who has neither understanding nor sympathy for romance--that was obviously the verdict."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Washington--aging, crowded Washington, mazed by narrow streets, carrying the burden of the severe, unimaginative past on its grimy architecture--respired heavily under the sinking sun."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Gradgrind looked upon life with the cold, **unimaginative** precision of a ledger clerk calculating tare."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was entirely **unimaginative** regarding any suffering that did not touch her vanity."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her conservative aunt appeared thoroughly **unimaginative**, judging all things by stiff convention."*

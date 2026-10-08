@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disunion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination or destruction of union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination or destruction of union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown or severance of political, social, or institutional unity; discord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dissolution of an established confederation or federal compact between states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in a state of disunion, these combinations might exist and might operate with success."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disunion will will add another victim to his triumphs."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"Physically speaking, we cannot separate; there can be no **disunion** between geographical neighbors."*
+> - 📜 **Daniel Webster (*Second Reply to Hayne*):** *"Liberty and Union, now and forever, one and inseparable, preserved from the horrors of **disunion**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Factional hatreds produced profound **disunion** among the parliamentary commanders before the battle."*

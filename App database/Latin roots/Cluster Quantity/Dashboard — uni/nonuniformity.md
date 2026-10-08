@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonuniformity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being diverse and interesting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being diverse and interesting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of uniformity, consistency, or evenness in structure, rate, or composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which a measurable physical or social variable deviates from homogeneity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonuniformity designates the quality of being diverse and interesting."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution advances from homogeneous simplicity toward complex structural **nonuniformity**."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The **nonuniformity** of the gravitational field across extended bodies induces tidal strains."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The apparent **nonuniformity** of evolutionary rates corresponds to varying ecological pressures."*

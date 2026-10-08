@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimaginatively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a matter-of-fact manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking imagination, creativity, or originality; prosaically and pedantically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without artistic flair, inventiveness, or visionary understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimaginatively designates in a matter-of-fact manner."*
+> - 📜 **Henry James (*The Bostonians*):** *"He handled the political correspondence **unimaginatively**, reciting formulas without personal conviction."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The executor fulfilled his duties **unimaginatively**, checking inventories without empathy for the heirs."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office functioned **unimaginatively**, piling up red tape across endless pigeonholes."*

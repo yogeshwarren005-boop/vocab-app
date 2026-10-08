@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unisexual
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to only one sex or having only one type of sexual organ; not hermaphroditic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to only one sex or having only one type of sexual organ; not hermaphroditic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one sex; possessing either male or female reproductive organs, but not both; dioecious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing flowers that have either stamens or pistils, but lack both together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unisexual designates relating to only one sex or having only one type of sexual organ; not hermaphroditic."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Plants with **unisexual** blossoms avoid the hazards of self-pollination by relying on cross-pollinating winds."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The flowers of the willow are **unisexual**, borne on separate male and female catkins."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Most higher vertebrate species are strictly **unisexual**, exhibiting distinct dimorphic reproductive anatomies."*

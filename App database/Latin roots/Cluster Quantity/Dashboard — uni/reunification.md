@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # reunification
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coming together again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coming together again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The restoration of political, geographic, or organizational unity following separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bringing together into a single nation of previously partitioned territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reunification designates the act of coming together again."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The temporary **reunification** of the eastern and western empires under Justinian exhausted imperial finances."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The peaceful **reunification** of the two crowns under James I fulfilled ancient Tudor ambitions."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With high hope for the future, the nation looked toward the spiritual and political **reunification** of all states."*

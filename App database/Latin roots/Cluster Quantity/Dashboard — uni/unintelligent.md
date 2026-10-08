@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintelligent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking intelligence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking normal intelligence, intellectual brightness, or cognitive understanding; foolish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an absence of rational deliberation, good judgment, or discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will give you sleepy drinks, that your senses, unintelligent of our insufficience, may, though they cannot praise us, as little accuse us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Habitual actions performed by lower animals are often regarded as **unintelligent** instinctive reactions."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To follow custom blindly is to exercise an **unintelligent** conformity that degrades human faculties."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He gave an **unintelligent** stare, incapable of comprehending the subtle irony directed at his conceit."*

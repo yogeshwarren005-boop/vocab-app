@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniformed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with uniforms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in a uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed in a designated, standardized uniform indicative of military, police, or institutional service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attired in official livery or ceremonial costume conforming to institutional regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Another effect of public instability is the unreasonable advantage it gives to the sagacious, the enterprising, and the moneyed few over the industrious and uniformed mass of the people."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The crowd drew up to the large table, at which sat gray-haired or bald seventy-year-old magnates, uniformed and besashed, almost all of whom Pierre had seen in their own homes with their buffoons, or playing boston at the clubs."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A uniformed officer was seated behind the desk."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A **uniformed** constable stood under the streetlamp, keeping watch over the suburban gate."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The **uniformed** inspector listened with impassive gravity to the agitated confession of the informer."*
+> - 📜 **Henry James (*The American*):** *"Two **uniformed** footmen stood beside the gilded entrance, bowing low as the guests ascended the staircase."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # reunion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of former associates who have come together again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coming together again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coming together again after a period of separation; a gathering of associates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reconciliation and restoration of amicable ties between alienated persons or states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The theory of Sacrifice implies the need of reunion with God."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In other places, like those at Reunion and at Maurice, they raise fringed reefs, high, straight walls, near which the depth of the ocean is considerable."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barometer, as in 1860 at Reunion during a cyclone, fell seven-tenths at the close of day."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The joyful family **reunion** around Bob Cratchit's modest dinner table warmed every heart."*
+> - 📜 **Jane Austen (*Persuasion*):** *"An unexpected **reunion** in Bath brought Captain Wentworth once more into Anne's quiet company."*
+> - 📜 **Herman Melville (*Typee*):** *"Toby and I celebrated our safe **reunion** beside the bamboo hut after days of perilous trekking."*

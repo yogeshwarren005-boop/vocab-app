@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpressively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unimpressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unimpressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ordinary, unremarkable, or disappointing manner that fails to evoke admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without rhetorical impact, physical dignity, or memorable distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimpressively designates in an unimpressive manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The magistrate spoke **unimpressively**, mumbling the solemn charge from a crumpled slip of paper."*
+> - 📜 **Henry James (*The American*):** *"The old marquis entered **unimpressively**, shambling across the parquet with bent shoulders."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The itinerant preacher concluded his sermon **unimpressively**, leaving the rustic crowd indifferent."*

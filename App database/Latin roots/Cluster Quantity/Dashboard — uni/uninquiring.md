@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninquiring
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inquiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in curiosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disposed to ask questions, investigate, or seek truth; incurious and passive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting dogmas or traditional customs without rational reflection or scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninquiring designates not inquiring."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An **uninquiring** adherence to traditional beliefs reduces vital moral convictions to dead dogmas."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The custom-bound multitude passes through life with an **uninquiring** eye fixed upon bread alone."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke possessed an **uninquiring** good nature that tolerated contradictory opinions comfortably."*

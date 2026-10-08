@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonunionised
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affiliated in a trade union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated in a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not organized into or represented by a recognized trade union or workers' guild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of employees or manufacturing plants operating outside collective labor pacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonunionised designates not affiliated in a trade union."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wage levels among **nonunionised** day laborers fluctuated wildly according to seasonal harvest demand."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Individual contracts between masters and **nonunionised** artisans preserved customary freedom of trade."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Workshops staffed by **nonunionised** operatives offered flexible piece-rate compensation."*

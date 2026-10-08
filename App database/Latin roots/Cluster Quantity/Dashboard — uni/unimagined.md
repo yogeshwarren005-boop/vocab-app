@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimagined
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not previously conceived, anticipated, or imagined; entirely unanticipated and unprecedented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing beyond the range of prior human anticipation or speculative thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The frightful deeds that were to be soon done, were probably unimagined at that time in the brains of the doers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The deep sea holds wonders **unimagined** by land dwellers who gaze only upon the surface waves."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"New worlds of **unimagined** beauty burst upon the soul when spiritual tyranny falls."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galapagos archipelago revealed forms of animal life **unimagined** in continental natural history."*

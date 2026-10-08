@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninhabitable
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fit for habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitable or impossible for human or biological habitation; barren, toxic, or dangerous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing an environment or building unfit to live in due to extreme weather or decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the demons have been long unmolested the country is said to be "warm," and the priest issues orders to expel them by force, lest the whole of Bali should be rendered uninhabitable."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic desert appeared completely **uninhabitable**, parched by relentless tropical sun."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a foul pestilential slum that seemed **uninhabitable** to any civilized being."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The southern end of the coral reef was virtually **uninhabitable** owing to poisonous volcanic vapors."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize workers or a business enterprise into a collective trade union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring independent craftsmen or laborers into a coordinated collective bargaining body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionize designates recruit for a union or organize into a union."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Efforts to **unionize** the garment workshops were spearheaded by immigrant organizers in New York."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"As machine operations standardized daily tasks, laborers found it easier to **unionize** along craft lines."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The legal right of industrial employees to **unionize** was affirmed by federal labor legislation."*

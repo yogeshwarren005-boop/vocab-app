@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitard
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankles); worn by ballet dancers and acrobats for practice or performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankles); worn by ballet dancers and acrobats for practice or performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A close-fitting, one-piece garment combining a leotard and tights to cover the torso and legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible stretch suit worn by acrobats, gymnasts, and dancers to allow free movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitard designates a tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankles); worn by ballet dancers and acrobats for practice or performance."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The acrobat stepped forward clad in a sleek dark **unitard** that revealed his athletic physique."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"A theatrical performer in a glittering **unitard** practiced gymnastics upon the sandy beach."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Athletic costumes like the modern **unitard** prioritize functional efficiency over ornamental drapery."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unify
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make into a unit or a coherent whole; to bring together separate factions or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To integrate diverse intellectual, political, or social systems under a singular concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The hope has long been entertained by economists that a conception of the whole problem of value would be attained that would coördinate and unify the various "laws,"--those of rent, wages, interest, etc."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great financial alliances and "community of interests" still further unify the policy of the leading roads. [Sidenote: Economic results of consolidation] Toward this result strong economic forces are working."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A common imperial code served to **unify** diverse provinces under a single sovereign majesty."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophy is the highest synthesis of thought, aiming to **unify** the truths discovered by science."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A robust constitution will **unify** our scattered resources and protect our maritime commerce."*

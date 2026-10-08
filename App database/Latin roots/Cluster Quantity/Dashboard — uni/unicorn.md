@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicorn
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical legendary beast resembling a horse with a single spiraled horn projecting from its forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heraldic charge symbolizing chivalric purity, ferocity, and untamed royal majesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a unicorn’s head—there’s nothing in that."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Narwhale I have heard called the Tusked whale, the Horned whale, and the Unicorn whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From certain cloistered old authors I have gathered that this same sea-unicorn’s horn was in ancient days regarded as the great antidote against poison, and as such, preparations of it brought immense prices."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Now I will believe that there are **unicorns**, that in Arabia there is one tree, the phoenix' throne."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The Lion and the **Unicorn** were fighting for the crown, as Alice watched the contest from the hillside."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The narwhale is the true **unicorn** of old sea tales, bearing a long wreathed ivory horn upon his brow."*

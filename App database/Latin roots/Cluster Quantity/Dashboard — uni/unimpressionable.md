@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpressionable
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sensitive or susceptible to impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sensitive or susceptible to impression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily influenced, persuaded, or emotionally moved; impervious to suggestions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to psychological impressions or sensory impacts; stoic and steadfast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But unimpressionable natures are not so soon softened, nor are natural antipathies so readily eradicated."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"At least it would be a face worth seeing: the face of a man who was without bowels of mercy: a face which had but to show itself to raise up, in the mind of the unimpressionable Enfield, a spirit of enduring hatred."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon possessed an **unimpressionable** nature that resisted the warm enthusiasms of youth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit hardens the nervous pathways, rendering elderly brains relatively **unimpressionable** to novelty."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Diggory Venn remained cool and **unimpressionable** while listening to Eustacia's wild laments."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniovular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single ovule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single ovule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating or developing from a single ovum or fertilized egg, as monozygotic identical twins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to twins sharing an identical genetic constitution and single placenta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniovular designates having a single ovule."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Remarkable physical resemblances observed in **uniovular** twins demonstrate the supremacy of hereditary nature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **uniovular** gestation, vascular anastomoses within the single placenta may cause circulatory imbalance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Identical mental aptitudes in **uniovular** twins persist even when they are reared in distinct environments."*

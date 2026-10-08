@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpregnated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been fertilized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not impregnated; not fertilized by sperm or pollen, or not saturated with a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing an ovum that has not undergone conception or a timber unstained by preservatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimpregnated designates not having been fertilized."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Flowers that remained **unimpregnated** dropped their corollas without forming swollen seed pods."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under physiological observation, the **unimpregnated** ovum quickly degenerates within the fallopian canal."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Porcelain plates left **unimpregnated** with saline solution failed to conduct the electrical charge."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninstructive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to instruct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to instruct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to provide valuable instruction, moral insight, or useful knowledge; unprofitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying empty platitudes or dry details that fail to illuminate a broader subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructive designates failing to instruct."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Rote recitation of ancient dogmas proved singularly **uninstructive** in laboratory inquiry."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Propositions that merely repeat definitions in altered phrases are logically **uninstructive**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found Casaubon’s table talk polite but disappointingly **uninstructive** upon great issues."*

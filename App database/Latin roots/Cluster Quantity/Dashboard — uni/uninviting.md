@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninviting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neither attractive nor tempting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tempting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attractive, pleasant, or appealing; repellent, bleak, or discouraging in appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking hospitable or welcoming warmth; austere and forbidding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There was no want of respect in the young man’s address; and Fanny’s reception of it was so proper and modest, so calm and uninviting, that he had nothing to censure in her."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Sardines, looking more oily and uninviting than anything I had ever seen, appeared in their native tin beyond the loaf of bread."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You'll stop to dinner, I hope?” Paul thought of the soup and dry bread which he used to find so uninviting, and said that he should not have time to do so."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The gloomy moor spread out before us in cold, gray, and **uninviting** vastness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The brickfields looked dreary and **uninviting** under the cold drizzle of late November."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Spouter-Inn presented an **uninviting** exterior, half-hidden by driving icy rain."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or aiming toward unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or involving the use of units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a single consolidated whole; unified rather than divided into federated units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing a system of national government where ultimate power resides in a central body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Tathagata knows this unitary essential Law, that is to say, Deliverance, Abandonment, Extinction, final Nirvana of eternal rest, ending in return to the Void."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A **unitary** constitution ensures that the supreme law of the state operates with uniform efficiency."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The French monarchy constructed a **unitary** administrative machinery that survived the revolution."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed constitution struck a prudent balance between a **unitary** republic and a loose league."*

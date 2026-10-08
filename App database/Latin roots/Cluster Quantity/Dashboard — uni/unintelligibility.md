@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintelligibility
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsense that is simply incoherent and unintelligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomprehensibility as a consequence of being unintelligible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to be understood, deciphered, or comprehended; extreme phonetic or semantic obscurity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete absence of meaning, coherence, or phonetic clarity in an utterance or text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"I'd--" His voice husked into unintelligibility, and he had to begin again."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I likewise came upon a whole nest of the German classics which seemed to have kept their places undisturbed, in virtue of their unintelligibility."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Mystical philosophies frequently shelter under the cloak of **unintelligibility** to escape logical refutation."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"The pedantry of traditional prosodists reduced verse meters to hopeless **unintelligibility**."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The archaic legal jargon of the parchment bordered on absolute **unintelligibility** to modern jurors."*

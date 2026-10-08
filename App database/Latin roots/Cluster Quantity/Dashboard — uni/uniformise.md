@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniformise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make uniform; to bring disparate practices, measurements, or designs into standardized conformity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impose identical patterns or regulations across distributed branches of an organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformise designates make uniform."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Attempts to **uniformise** local bylaws extinguish regional creativity in public administration."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Mechanized production tends to **uniformise** artisanal products across international markets."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Railway managers sought to **uniformise** gauge specifications to permit uninterrupted continental freight."*

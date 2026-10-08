@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintelligible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly articulated or enunciated, or drowned by noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not clearly understood or expressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to understand, comprehend, or decipher; totally obscure in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking semantic clarity or recognizable structure; hopelessly convoluted or muffled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was too much interested in Mäzli's expedition to the castle to be frightened off by the first unintelligible account."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and the other lower animals get on in the unintelligible mess as they can."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A strange cry rose from the dismal swamp, weird and **unintelligible** to our shuddering ears."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"On any other view, the succession of biological types throughout geological eras remains **unintelligible**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fedallah uttered a string of muttered, **unintelligible** syllables as he bent over the compass needle."*

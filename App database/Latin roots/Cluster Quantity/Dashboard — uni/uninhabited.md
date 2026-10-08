@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninhabited
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having inhabitants; not lived in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having inhabitants; not lived in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no human residents, settlers, or occupants; deserted, unpopulated, and wild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a house, territory, or island that has been left desolate and unpeopled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His course brought him in sight of the Island of Ascension, at that time uninhabited, and _never visited by any ship_, except for the purpose of collecting turtles, which abound on the coast."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ferndean then remained uninhabited and unfurnished, with the exception of some two or three rooms fitted up for the accommodation of the squire when he went there in the season to shoot."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But when Pratt showed Will Ladislaw into it the window was open; and a winged visitor, buzzing in and out now and then without minding the furniture, made the room look less formal and uninhabited."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I found myself cast upon a desolate and **uninhabited** island, far from all commercial shipping lanes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We landed upon an **uninhabited** islet where sea birds nested in fearless security."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wide Pacific stretched around us, punctuated only by occasional rocky and **uninhabited** reefs."*

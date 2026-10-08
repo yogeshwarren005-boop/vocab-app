@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater mussels found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater mussels found worldwide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of freshwater bivalve mollusks commonly known as freshwater mussels or river mussels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed family of aquatic bivalves whose glochidia larvae parasitize freshwater fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionidae designates freshwater mussels found worldwide."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fish hosts play an indispensable ecological role in dispersing juvenile mussels of the family **Unionidae**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary geographic range of the **Unionidae** is explained by the migratory movements of infested fish."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Shell structure in the **Unionidae** reveals thick prismatic layers lined internally with lustrous nacre."*

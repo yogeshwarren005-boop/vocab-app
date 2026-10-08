@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionism
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system or principles and theory of labor unions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system or principles and theory of labor unions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policies, principles, or practice of trade unions; support for collective labor action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devotion to or advocacy of political union, especially the preservation of a national confederacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Aside from its effects upon the wage-bargain, unionism finds its greatest justification is in its unspectacular fraternal, mutual-benefit, and educational functions."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Benjamin Flanders, and her two daughters, Miss Florence and Miss Fanny Flanders were also well known for their persistent Unionism and their abundant labors for the sick and wounded."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Charles Howe of Key West, and Miss Edwards from Massachusetts, were all faithful and earnest workers in the hospitals throughout the war, and Union women when their Unionism involved peril."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Trade **unionism** emerged as an essential counterweight to concentrated corporate capital."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The discipline of the machine process predisposed industrial laborers toward militant **unionism**."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"Unshakable **unionism** in the border states was crucial for maintaining the integrity of the republic."*

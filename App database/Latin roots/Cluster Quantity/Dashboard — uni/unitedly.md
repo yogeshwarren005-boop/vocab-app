@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitedly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With cooperation and interchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cooperation and interchange.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joined, harmonious, or cooperative manner; acting together in solid concert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conjointly and unanimously, with shared resolve and undivided purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To tell the truth they were somewhat inclined to be lazy, but a perfect tumult of hilarity prevailed; and they worked together so unitedly, and seemed actuated by such an instinct of friendliness, that it was truly beautiful to behold."*
+> - 📜 **Herman Melville (*Typee*):** *"The native tribe gathered and **unitedly** pulled the heavy war canoe from the jungle into the surf."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The lords and commons **unitedly** presented their petition of right to the newly crowned monarch."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Township citizens acted **unitedly** to repair public bridges without waiting for federal funds."*

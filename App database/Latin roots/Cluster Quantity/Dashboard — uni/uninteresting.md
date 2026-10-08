@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninteresting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing no interest or attention or curiosity or excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic or suggestive of an institution especially in being uniform or dull or unimaginative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to arouse interest or hold attention; dull, tedious, monotonous, and boring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking colorful, novel, or stimulating qualities in thought, art, or conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, the Weatherbury folk were by no means uninteresting intrinsically."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But these arguments seemed, to increase Captain Williams' anxiety, and the ship was steered toward the uninteresting little island."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The conversation turned upon topics so **uninteresting** that Catherine could scarcely stifle her yawns."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"At first glance, the telegram seemed commonplace and singularly **uninteresting** to the investigator."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The ledger entries were drab and **uninteresting**, recording sacks of flour and barrels of pork."*

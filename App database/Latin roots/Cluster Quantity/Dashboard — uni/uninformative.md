@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninformative
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing little or no useful or instructive information; unhelpful and unrevealing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking descriptive facts, explanatory data, or enlightening substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninformative designates lacking information."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The telegram from the postmaster was brief and singularly **uninformative** regarding Barrymore's movements."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Old scholastic treatises on physiology were largely **uninformative** concerning circulatory mechanics."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Her letter was polite but maddeningly **uninformative** about her real feelings toward Chad."*

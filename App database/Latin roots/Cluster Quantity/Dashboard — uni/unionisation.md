@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of forming labor unions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of forming labor unions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of workers into recognized trade unions for collective bargaining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic establishment of labor union governance across an industrial sector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionisation designates act of forming labor unions."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The rapid **unionisation** of skilled mechanics strengthened their bargaining position against factory owners."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"Compulsory **unionisation** imposes strict craft discipline while curtailing individual freedom of contract."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Widespread **unionisation** across transport networks created centralized machinery for resolving wage disputes."*

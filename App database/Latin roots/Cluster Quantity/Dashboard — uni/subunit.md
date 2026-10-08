@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # subunit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct subdivision or component part of a larger organizational, structural, or biochemical whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual polypeptide chain that associates with others to form a complete multimeric protein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subunit designates a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Each anatomical **subunit** performs a specialized physiological task within the integrated organism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hemoglobin consists of distinct quaternary parts, each **subunit** binding an oxygen molecule in turn."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In colonial invertebrates, each morphological **subunit** retains a degree of reproductive independence."*

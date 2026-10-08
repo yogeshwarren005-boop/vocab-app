@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintelligibly
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unintelligible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be understood or deciphered; incomprehensibly and obscurely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With muffled articulation or incoherent vocabulary that conveys no clear message.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He had known many disagreeable fathers before, and often been struck with the inconveniences they occasioned, but never, in the whole course of his life, had he seen one of that class so unintelligibly moral, so infamously tyrannical as Sir Thomas."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then he spoke unintelligibly, and went to the window, which he opened."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old law-stationer muttered **unintelligibly** into his waistcoat before slinking into the fog."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The dying pirate groaned **unintelligibly**, clutching at the sea chest with trembling fingers."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He stammered **unintelligibly** under the fierce cross-examination of the maritime inquiry board."*

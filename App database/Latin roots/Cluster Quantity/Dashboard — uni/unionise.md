@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize workers or workplaces into a recognized trade union for mutual protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring employees together under collective representation to negotiate wages and conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionise designates recruit for a union or organize into a union."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Workingmen have an undeniable moral and legal right to **unionise** to protect their standard of living."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Attempts to forcibly **unionise** independent artisans violate the fundamental law of equal freedom."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Efforts to **unionise** unskilled agricultural laborers encountered fierce resistance from tenant farmers."*

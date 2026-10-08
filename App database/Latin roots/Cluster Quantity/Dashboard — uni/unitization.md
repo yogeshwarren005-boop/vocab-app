@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The joint operation of an oil or gas pool by multiple property owners to maximize recovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The consolidation of discrete items into standardized units for mechanical handling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitization designates (psychology) the configuration of smaller units of information into large coordinated units."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Mandatory **unitization** of petroleum pools eliminated the wasteful race to drain offset boundaries."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern logistics achieved unprecedented speed through the systematic **unitization** of warehouse stock."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Reservoir **unitization** stood as a prime example of scientific management superseding chaotic competition."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # union
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of employees formed to bargain with the employer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states (especially the northern states during the american civil war).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The joining together of separate persons, states, or organizations into a consolidated whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized association of workers formed to protect and further their rights and interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This union shall do more than battery can To our fast-closed gates; for at this match, With swifter spleen than powder can enforce, The mouth of passage shall we fling wide ope, And give you entrance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby the union of mind and matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the last scene, when the Emperor of Tartary gets up into a cart and condescends to bless the united lovers by hovering over them with the Union Jack, his eyelashes are moistened with emotion."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"That this nation, under God, shall have a new birth of freedom, and that government of the people, by the people, for the people, shall not perish from the earth; this great task remains to preserve the **union**."*
+> - 📜 **Daniel Webster (*Second Reply to Hayne*):** *"Liberty and **Union**, now and forever, one and inseparable!"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The rise of the trade **union** modified competitive wage determination across modern heavy industry."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninominal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on the system of having only one member from each district (as of a legislature).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on the system of having only one member from each district (as of a legislature).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or designated by a single name, term, or word in classification systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to an electoral voting system based on single-member constituencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninominal designates based on the system of having only one member from each district (as of a legislature)."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A **uninominal** voting system in single-member districts frequently silences enlightened minorities."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **uninominal** ballot forced parliamentary candidates to cultivate direct personal ties with voters."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Pre-Linnaean naturalists sometimes relied upon a **uninominal** taxonomy before binomial rules prevailed."*

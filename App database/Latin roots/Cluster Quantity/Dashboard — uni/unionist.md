@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unionist
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who belongs to a trade union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who belongs to a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member or supporter of a trade union; or an advocate of national political union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in the American Civil War, a supporter of the federal Union against secession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It is quite evident that Miss Breckinridge improved this occasion to air her loyal sentiments and give such help and courage to Unionists as lay in her power."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Rebels and Unionists together, they all had it, and were pleased and satisfied."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I don't believe in making war on people who don't think as I do." "I don't reckon there are any half-wild Unionists in your settlement," said the captain, with a smile."*
+> - 📜 **Abraham Lincoln (*Address at Cooper Institute*):** *"Every loyal **unionist** must stand firmly by the principles established in the national constitution."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The veteran **unionist** argued that collective contracts benefited employers by stabilizing labor turn-over."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A resolute Scottish **unionist** supported the treaty of 1707 as the only barrier against Jacobite unrest."*

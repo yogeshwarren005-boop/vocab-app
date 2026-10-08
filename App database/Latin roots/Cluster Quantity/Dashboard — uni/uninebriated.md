@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninebriated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inebriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inebriated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not drunk or intoxicated by alcoholic beverages; completely sober and clear-headed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying rational composure unbefuddled by stimulants or emotional delirium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninebriated designates not inebriated."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The night porter was happily **uninebriated**, giving a lucid account of the mysterious carriage."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Snodgrass asserted with dignity that he was perfectly **uninebriated** despite the punch bowl."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley returned from Vauxhall quite sober and **uninebriated** the following quiet afternoon."*

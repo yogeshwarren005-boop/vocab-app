@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninfected
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sepsis or infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sepsis or infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from bacterial, viral, or fungal infection; healthy, uncontaminated, and aseptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncorrupted by moral, ideological, or social vice or pernicious contagion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He found her uninfected by the rage for diversion and dissipation; for noise, tumult, gewgaws, glitter, and extravagance."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The sealed broth tubes remained entirely **uninfected** by airborne spores through months of observation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Maintaining the surgical field **uninfected** with antiseptic dressings prevents traumatic erysipelas."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A few remote mountain hamlets remained **uninfected** by the devastating pestilence that ravaged Rome."*

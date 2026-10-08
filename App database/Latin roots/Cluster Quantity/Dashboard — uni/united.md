@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # united
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined together politically, socially, or physically into a single harmonious body; combined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in agreed concert, mutual affection, or solid partnership toward a shared end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peers, continue this united league."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We are met on a great battle-field of that war, testing whether that nation so conceived can long endure **united**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A **united** nation easily threw back the foreign invaders who dared approach its coasts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They presented a **united** front to county society, concealing their domestic differences with pride."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniovulate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single ovule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single ovule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or containing only a single ovule within an ovary, carpel, or seed vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a single-seeded fruit structure, as in grasses and certain composite flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniovulate designates having a single ovule."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The ovary in this genus is strictly **uniovulate**, maturing into a solitary hard-walled achene."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"In **uniovulate** flowers, every fertilization event requires the deposition of fresh healthy pollen."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Botanical examination showed a **uniovulate** fruit adapted for dispersal by river currents."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintegrated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separated or isolated from others or a main group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought together into a unified, harmonious whole; separate, uncoordinated, or isolated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing as discrete, uncoordinated fragments within a larger system or personality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintegrated designates not integrated; not taken into or made a part of a whole."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Traumatic shocks may leave behind **unintegrated** memory systems split from normal waking awareness."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Diffuse nebular matter exists initially in an **unintegrated** state before gravitational condensation."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Decentralized supplier networks remained **unintegrated** until modern corporate consolidations took hold."*

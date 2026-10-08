@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniform
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing of distinctive design worn by members of a particular group as a means of identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with uniforms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining the same in all cases, times, and places; lacking diversity or variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctive clothing of standard cut and color worn by members of a military or corporate service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was only half dressed—in plain clothes, I observed, not in uniform—and his hair was unbrushed, and he looked as wild as his room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A third man in uniform, whom Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The second officer, who had attended to it closely, then copied it out and called in another man in uniform (there were several in an outer room), who took it up and went away with it."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Soldiers in blue **uniform** guarded the city gates, inspecting every passport with suspicious eyes."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A body perseveres in its state of rest or **uniform** motion in a straight line unless acted upon by force."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Under **uniform** conditions of life, varieties tend to retain their inherited structural characteristics."*

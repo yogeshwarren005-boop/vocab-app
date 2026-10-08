@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unimpeachably
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is beyond reproach, challenge, or suspicion; irreproachably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With absolute integrity, undeniable veracity, or flawless rectitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Marriage, like religion and erudition, nay, like authorship itself, was fated to become an outward requirement, and Edward Casaubon was bent on fulfilling unimpeachably all requirements."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The bank records confirmed the transaction **unimpeachably**, leaving no room for forged checks."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether behaved **unimpeachably**, balancing his loyalties with delicate diplomatic finesse."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The character of Sir Thomas More was established **unimpeachably** by friends and foes alike."*

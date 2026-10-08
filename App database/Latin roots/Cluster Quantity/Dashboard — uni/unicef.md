@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicef
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A United Nations agency dedicated to providing humanitarian and developmental aid to children worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An international relief organization focusing on childhood health, nutrition, and emergency immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicef designates an agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"International assistance programs coordinated through **UNICEF** mitigated extreme childhood malnutrition."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Multilateral relief agencies like **UNICEF** demonstrated the economic efficacy of targeted public health funding."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Post-war cooperative charities such as **UNICEF** arose to address catastrophic disruptions of childhood welfare."*

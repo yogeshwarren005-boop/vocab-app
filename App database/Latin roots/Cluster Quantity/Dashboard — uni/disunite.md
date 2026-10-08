@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disunite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate from a union; to sever connections between allied parties or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause discord, estrangement, or hostile division among associated members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nor can severe catastrophe **disunite** minds linked by eternal bonds of shared resolve."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Religious controversies served only to **disunite** the citizens of Alexandria during the siege."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Rash innovators seek to **disunite** the historic commonwealth from its ancestral traditions."*

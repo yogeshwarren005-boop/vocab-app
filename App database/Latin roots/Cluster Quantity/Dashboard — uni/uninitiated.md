@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninitiated
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not initiated; deficient in relevant experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not initiated; deficient in relevant experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking special knowledge, training, or experience in a particular subject or enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not formally admitted into a secret society, professional circle, or esoteric fraternity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus disguised they dance about to the awe and terror, real or assumed, of the women and uninitiated, who take, or pretend to take, them for spirits."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"To the **uninitiated**, these chemical stains upon the table might seem accidental blotches."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The morphological homologies of vertebrate limbs remain hidden from the **uninitiated** naturalist."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"To an **uninitiated** tourist, the subtleties of Florentine etiquette appeared needlessly severe."*

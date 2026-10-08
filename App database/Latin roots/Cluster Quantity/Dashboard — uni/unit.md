@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unit
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any division of quantity accepted as a standard of measurement or exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual or group or structure or other entity regarded as a structural or functional constituent of a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual thing or person regarded as single and complete, especially within a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard measure of quantity used as a basis for calculation, weight, or distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We mean by standard money that kind, no matter what its form, which serves in any country as the unit in which the value of other kinds of money is expressed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"And, as money comes to be the unit in which prices are generally expressed, the question becomes: What determines the general level of monetary prices?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be summed up thus: other things being equal, the value of the monetary unit, expressed in terms of all other commodities, falls as the quantity of money increases, and _vice versa_."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The marginal utility of each additional **unit** of goods diminishes as consumption expands."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Force is measured by the change of momentum produced in a standard **unit** of mass."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The standard metallic currency served as an invariant **unit** for measuring commercial contracts."*

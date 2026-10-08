@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninstructed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information or instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information or instruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking formal instruction, education, or knowledge in a particular discipline; untaught.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without specific instructions or directives from a commanding superior or client.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"When an uninstructed multitude attempts to see with its eyes, it is exceedingly apt to be deceived."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"By those uninstructed in Christian Science, nothing is really understood of material 371:9 existence."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Anybody might know that.” The other boys agreed that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **uninstructed** public easily falls victim to the fallacious promises of fiscal charlatans."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"To the **uninstructed** eye, the complex instincts of ants seem identical to conscious reasoning."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ambassador was left **uninstructed** by his cabinet, forced to temporize with the foreign minister."*

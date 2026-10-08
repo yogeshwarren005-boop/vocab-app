@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninformed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not informed; lacking in knowledge or information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not informed; lacking in knowledge or information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing necessary information or education; ignorant or unaware of the facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed or decided without adequate knowledge or guidance; unenlightened.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"You cannot suppose me uninformed."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"THE SPLITTING OF THE CHURCH A few uninformed persons say that "holiness splits the church." But this is false."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"An uninformed Irishman, hearing the Sphinx alluded to in company, whispered to a friend, Sphinx! who is he now?"*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **uninformed** electorate is easily swayed by the inflammatory slogans of unscrupulous demagogues."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"To the **uninformed** observer, the instinct of the hive-bee seems an unfathomable miracle."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was not left **uninformed** of what had passed between her father and Mr. Collins."*

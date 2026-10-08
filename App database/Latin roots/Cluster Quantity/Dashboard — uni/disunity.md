@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disunity
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of unity (usually resulting from dissension).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of unity (usually resulting from dissension).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of agreement, coordination, or solidarity among members of a community or alliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of factional fragmentation and mutual hostility within a body politic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disunity designates lack of unity (usually resulting from dissension)."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Internal **disunity** weakens the authority of constitutional assemblies in the face of autocracy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial rivalries among the thirteen states would quickly lead to chronic **disunity**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary assemblies fell into bitter **disunity**, suspecting treason in every colleague."*

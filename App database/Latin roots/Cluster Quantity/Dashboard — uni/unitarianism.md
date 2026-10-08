@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitarianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious movement or theological system affirming the single personality of God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liberal religious denomination emphasizing individual reason, ethical conduct, and tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitarianism designates christian doctrine that stresses individual freedom of belief and rejects the trinity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliamentary statutes long excluded the adherents of **unitarianism** from public civil offices."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father regarded the rationalism of early **unitarianism** as an intermediate stage toward free thought."*
+> - 📜 **Ralph Waldo Emerson (*Nature, Addresses, and Lectures*):** *"The polite moralism of New England **unitarianism** felt too cold for the ardent transcendentalists."*

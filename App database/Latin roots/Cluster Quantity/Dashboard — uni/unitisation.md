@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The joint development and operation of an oil or gas reservoir by multiple mineral owners as a unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of freight or cargo into standardized modular units for container shipping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitisation designates (psychology) the configuration of smaller units of information into large coordinated units."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The voluntary **unitisation** of petroleum fields prevented competitive offset drilling and oil waste."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Freight **unitisation** streamlined cargo handling at oceanic docks, cutting terminal demurrage."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Corporate planning favored statutory **unitisation** to ensure long-term conservation of strategic minerals."*

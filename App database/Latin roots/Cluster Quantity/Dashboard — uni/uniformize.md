@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniformize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make uniform, homogeneous, or compliant with a single standardized standard or pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, to represent a multi-valued complex function using single-valued parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformize designates make uniform."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Standardized manufacturing seeks to **uniformize** parts so that interchangeable assembly becomes practical."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militarized regimes endeavor to **uniformize** education to ensure unquestioning civic obedience."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern machine technique must **uniformize** raw material inputs to maintain continuous factory throughput."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # disunify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break up or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break up or separate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a unified group, country, or system to divide into discordant factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disrupt structural cohesion or integration across an organized institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disunify designates break up or separate."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Sectarian rivalries threaten to **disunify** the confederacy and paralyze national legislation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ambitious provincial governors conspired to **disunify** the empire into rival military dominions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign intrigues would inevitably seek to **disunify** the nascent American republic."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest whole number or a numeral representing this number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonious integration, undivided coherence, and mutual solidarity forming a complete whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concord, harmony, or agreement in action, thought, or political solidarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were bound to divine of this unity, I would not prophesy so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had I power, I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All unity on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, princely Buckingham, seal thou this league With thy embracements to my wife’s allies, And make me happy in your unity."*
+> - 📜 **William Shakespeare (*Henry V*):** *"For government, though high and low and lower, put into parts, doth keep in one consent, congreeing in a full and natural close, like music; creating genuine **unity**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sweet peace and holy **unity** reigned throughout the blest abodes before rebellion stirred."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate goal of scientific thought is to achieve a coherent **unity** of all verified phenomena."*

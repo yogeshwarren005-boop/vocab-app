@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninstructively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uninformative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninformative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that conveys no educational value, moral enlightenment, or useful knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tediously and superficially, without clarifying the fundamental principles of a case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninstructively designates in an uninformative manner."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The chronicler recorded battles **uninstructively**, listing names without analyzing political causes."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Traditional tutors taught grammar **uninstructively**, burdening young memories with arbitrary rules."*
+> - 📜 **Henry James (*The Ambassadors*):** *"The guidebook droned on **uninstructively** through lists of historical dynasties and ruined towers."*

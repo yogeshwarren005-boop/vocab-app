@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintoxicated
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inebriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inebriated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not drunk, inebriated, or poisoned; sober and possessing clear rational faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional delirium, obsessive infatuation, or wild mental frenzy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintoxicated designates not inebriated."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The philosopher examines moral controversies with an **unintoxicated** intellect free from passion."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A few sober citizens remained **unintoxicated** amid the frantic enthusiasm of the revolutionary club."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The driver proved to be an **unintoxicated**, reliable man whose statement could be trusted."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninfluential
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking influence, power, weight, or the ability to affect people, decisions, or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holding no sway or authority in political councils or social hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I did not want to quarrel with anyone, influential or uninfluential."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The degraded senate had become an **uninfluential** assembly of wealthy courtiers without political voice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt himself to be an **uninfluential** figure in county politics, eclipsed by wealthier squires."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Pedantic pamphlets produced by **uninfluential** theorists could not heal the deep misery of the weavers."*

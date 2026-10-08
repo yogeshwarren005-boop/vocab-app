@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninspiring
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depressing to the spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depressing to the spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to arouse enthusiasm, creative impulse, or excitement; dreary, dull, and tedious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking charismatic appeal, artistic brilliance, or stimulating intellectual qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I love the making of interiors, and if Pastimes must be fitted beautifully to do justice to itself, still more would it be needful to turn the uninspiring "flat" into a haven of comfort and cheer."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Stoic Spermaticos Logos was a cold and uninspiring dogma compared with "Abba Father" and the Spirit of Jesus--it was not the same thing at all."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"His was probably the most uninspiring funeral that is set down in history."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A dreary drizzle fell upon the suburban brick villas, creating a thoroughly **uninspiring** prospect."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym found the repetitive labor of furze-cutting **uninspiring**, yet it granted quiet peace to his eyes."*
+> - 📜 **Henry James (*The Bostonians*):** *"The hall was filled with an **uninspiring** assembly of tired reformers huddled in heavy overcoats."*

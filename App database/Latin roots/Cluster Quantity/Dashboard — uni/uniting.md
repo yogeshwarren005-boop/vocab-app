@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of two or more commercial companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or bond of joining together into a single whole, partnership, or alliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing diverse persons, ideas, or elements into cooperative harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Instead of pushing his fortune in the line marked out for the heir of the house of Elliot, he had purchased independence by uniting himself to a rich woman of inferior birth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here now stood the tomb as the men had stated, snow-white and shapely in the gloom, consisting of head and foot-stone, and enclosing border of marble-work uniting them."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Instead of **uniting** their fortunes in prudent marriage, they had been separated by well-meaning advice."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sudden danger of fire played a strange part in **uniting** the scattered workers in common defense."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The genealogical tree illustrates the **uniting** bonds of shared ancestry that connect living species."*

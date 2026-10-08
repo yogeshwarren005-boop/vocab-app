@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitarian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of unitarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterizing unitarianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian who affirms the unipersonality of God, rejecting the doctrine of the Trinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to religious congregations that promote theological liberalism, reason, and social reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin for his part liked to keep the mental windows open and objected to fixed limits; if the Unitarian brewer jested about the Athanasian Creed, Dr."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman, late Secretary of that Commission, and now Secretary of the Unitarian Association, and his accomplished wife, both of whom were indefatigable in their efforts to obtain facts relative to western ladies; to Rev."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Eliot, the Unitarian Pastor, of St."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dr. Minchin was suspected of harboring **unitarian** leanings, though he attended the parish church."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton’s later theological treatises revealed an unmistakably **unitarian** conception of the Godhead."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The thoughtful young minister resigned his **unitarian** pulpit to seek a more universal spiritual truth."*

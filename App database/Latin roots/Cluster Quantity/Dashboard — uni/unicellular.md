@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicellular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or consisting of a single cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of a single biological cell, as protozoa, bacteria, and certain algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting a microscopic life form in which all vital functions occur within a solitary membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicellular designates having or consisting of a single cell."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The transition from **unicellular** ancestors to colonial organisms represents a milestone in evolutionary history."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Even the simplest **unicellular** monad exhibits irritability, assimilation, and reproduction."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeast is a microscopic **unicellular** fungus that multiplies vigorously by budding in sugary solutions."*

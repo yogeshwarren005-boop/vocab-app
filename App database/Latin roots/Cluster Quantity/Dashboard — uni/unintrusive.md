@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unintrusive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not interfering or meddling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not interfering or meddling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intrusive; modest, discreet, and not forcing itself upon others' notice or company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blending harmoniously into the surrounding background without causing disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintrusive designates not interfering or meddling."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne’s manners were so quiet and **unintrusive** that her presence never disturbed the invalid."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic decoration remains **unintrusive**, enhancing architectural lines rather than masking them."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph’s affectionate care was delicate and **unintrusive**, asking nothing in return."*

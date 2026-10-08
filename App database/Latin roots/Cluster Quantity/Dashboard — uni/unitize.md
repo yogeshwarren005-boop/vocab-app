@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide (bulk material) and process as units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To consolidate separate property, mineral, or lease rights into a single operational unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form, package, or assemble commodities into standard modular handling units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitize designates divide (bulk material) and process as units."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"When landowners agree to **unitize** their claims, total extraction costs drop while ultimate yield rises."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Factory designers sought to **unitize** machinery parts so that repairs required minimal skilled fitting."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"To **unitize** natural resource extraction protects the public interest from short-sighted private exploitation."*

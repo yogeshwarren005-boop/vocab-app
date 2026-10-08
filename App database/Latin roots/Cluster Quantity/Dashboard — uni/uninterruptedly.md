@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninterruptedly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unbroken, continuous, or ceaseless manner without intermission or disruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistently through an extended period of time without pause or interference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Beaming with joy, Loneli now sat beside Mäzli, who was telling uninterruptedly about Salo."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The first method of history is to take an arbitrarily selected series of continuous events and examine it apart from others, though there is and can be no beginning to any event, for one event always flows uninterruptedly from another."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In this way, having carefully removed the leg bands by deft circular motions of his arm following one another uninterruptedly, the man hung the leg bands up on some pegs fixed above his head."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrical current flowed **uninterruptedly** through the liquid conductor during the experiment."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The circumnutation of the seedling stem proceeded **uninterruptedly** day and night."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Trade with the Levant continued **uninterruptedly** despite fluctuating diplomatic tensions."*

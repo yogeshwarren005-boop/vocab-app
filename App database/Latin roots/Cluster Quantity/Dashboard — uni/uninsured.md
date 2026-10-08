@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninsured
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not covered by insurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not covered by insurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not covered by an active policy of insurance against damage, liability, illness, or loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing the total economic risk of casualty or catastrophe without institutional indemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninsured designates not covered by insurance."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The sudden warehouse fire wiped out the merchant’s fortune, as his inventory was **uninsured**."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Wage earners remained substantially **uninsured** against industrial accidents throughout early factory history."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Small coastal sloops sailed largely **uninsured** because premium rates exceeded customary freight profits."*

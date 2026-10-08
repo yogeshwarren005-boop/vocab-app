@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # reunify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unify again, as of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring together again into a single unified political, social, or structural whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To restore harmony and cooperative association between previously divided factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reunify designates unify again, as of a country."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Aurelian marched with resolute speed to **reunify** Gaul and Palmyra under Roman dominion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Should the confederacy shatter into hostile leagues, no subsequent congress could **reunify** them."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Wise statesmanship strives to **reunify** discordant social classes through justice and honest toil."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninsurable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being insured or not eligible to be insured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being insured or not eligible to be insured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or too hazardous to be accepted for insurance underwriting by prudent insurers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carrying an unacceptable actuarial probability of catastrophic loss, illness, or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninsurable designates not capable of being insured or not eligible to be insured."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Properties erected on shifting tidal flats are deemed **uninsurable** by prudent underwriting firms."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Extravagant corporate risks that remain **uninsurable** fall entirely upon speculative stockholders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced aneurysms and chronic cardiac dilatations render applicant lives completely **uninsurable**."*

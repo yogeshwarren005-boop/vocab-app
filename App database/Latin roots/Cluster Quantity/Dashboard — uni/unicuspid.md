@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicuspid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single cusp or point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single cusp or point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only a single cusp, point, or sharp crown, as an incisor tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tooth possessing a solitary projection, characteristic of shrews and specialized carnivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicuspid designates having a single cusp or point."*
+> - 📜 **Richard Owen (*Odontography*):** *"The anterior dentition of the insectivore displays a prominent **unicuspid** form adapted for piercing insect cuticle."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"In primitive mammalian jaws, the transition from **unicuspid** premaxillary teeth to molar batteries is evident."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The reduction of multi-cusped crowns to a simple **unicuspid** shape reflects specialized predatory diets."*

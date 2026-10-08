@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uniformness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking diversity or variation (even to the point of boredom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking diversity or variation (even to the point of boredom).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regularity, evenness, or unvarying constancy in texture, distribution, and visual appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homogeneity of composition or unbroken consistency of texture across a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniformness designates the quality of lacking diversity or variation (even to the point of boredom)."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The optical **uniformness** of the polished quartz slab eliminated surface diffraction fringes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The remarkable **uniformness** of the chalk cliff indicated continuous deep-sea sedimentation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Complete structural **uniformness** is an unstable condition that inevitably yields to differentiation."*

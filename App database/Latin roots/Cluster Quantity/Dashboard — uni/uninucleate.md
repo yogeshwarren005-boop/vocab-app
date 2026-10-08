@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninucleate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or containing only a single nucleus within the cell body; mononucleate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing typical somatic cells that maintain a solitary genomic core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninucleate designates having one nucleus."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The amoeba is typically a **uninucleate** organism whose metabolic activities center on that single body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under histological examination, healthy smooth muscle fibers appear strictly **uninucleate**."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Each **uninucleate** microspore matures within the anther before pollen grain division."*

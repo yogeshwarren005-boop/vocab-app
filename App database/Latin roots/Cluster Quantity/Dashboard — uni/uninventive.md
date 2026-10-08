@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninventive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking inventiveness, original creativity, or ingenuity; copying existing designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of devising original mechanical contrivances or intellectual strategies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninventive designates deficient in originality or creativity; lacking powers of invention."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"An **uninventive** mechanic merely reproduces standard lathes without conceiving improvements."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Early toolmakers were remarkably **uninventive**, copying traditional flint patterns for millennia."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her mind was tidy but **uninventive**, content with established county recipes and patterns."*

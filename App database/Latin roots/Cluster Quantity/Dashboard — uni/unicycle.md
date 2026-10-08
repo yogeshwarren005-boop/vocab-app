@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unicycle
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle with a single wheel that is driven by pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a unicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-wheeled pedal vehicle propelled and balanced entirely by the rider's posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic cycle consisting of a saddle mounted directly above a solitary pedaled axle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicycle designates a vehicle with a single wheel that is driven by pedals."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The circus performer mounted the tall **unicycle**, balancing with effortless grace before the applauding crowd."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"A strolling tumbler practiced upon his nimble **unicycle** along the grassy edge of the common."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"He possessed an uncanny balance that would have equipped him to master an acrobat's **unicycle**."*

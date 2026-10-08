@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unite
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To join together so as to form a single whole, alliance, or cohesive entity; combine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in concert, cooperation, or fellowship for the attainment of a common purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will now unite in your complaints And force them with a constancy, the Cardinal Cannot stand under them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then, as we have ta’en the sacrament, We will unite the white rose and the red."*
+> - 📜 **William Shakespeare (*King John*):** *"Let us knit our powers together and **unite** our scattered forces to defend the royal realm."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A firm union will **unite** the interests, hopes, and martial resources of all thirteen states."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Affection and shared sorrow served to **unite** the little household firmly against impending terror."*

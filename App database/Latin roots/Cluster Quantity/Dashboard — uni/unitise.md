@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unitise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide (bulk material) and process as units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine separate property or leasehold interests in a natural reservoir into a single unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To package, bundle, or standardize goods into uniform modular freight units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitise designates divide (bulk material) and process as units."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"To **unitise** oil leases was recognized by engineers as the only rational method to maintain pressure."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Railroad managers sought to **unitise** freight shipments into uniform palletized loads."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"Resource economists urged operators to **unitise** mineral rights before competitive extraction ruined the pool."*

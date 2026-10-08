@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # nonuniform
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not homogeneous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not homogeneous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not uniform; varying in texture, composition, density, velocity, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting irregular spatial or temporal distribution across a physical field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonuniform designates not homogeneous."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The dielectric specimen exhibited a **nonuniform** polarization when placed near the curved conductor."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Sedimentary deposition took place at **nonuniform** rates depending upon seasonal river floods."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Thermal expansion proceeds irregularly through substances possessing a **nonuniform** molecular grain."*

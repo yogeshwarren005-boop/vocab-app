@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilluminating
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to inform or clarify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to inform or clarify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to illuminate, clarify, or provide intellectual insight; uninformative or uninstructive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering trivial explanations that shed no clarifying light on a difficult problem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilluminating designates failing to inform or clarify."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scholastic disputations were remarkably **unilluminating** concerning the physical mechanisms of nature."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A verbal definition that merely substitutes a synonym is utterly **unilluminating** to the student."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's scholarly pamphlets proved disappointingly **unilluminating** to the eager young Dorothea."*

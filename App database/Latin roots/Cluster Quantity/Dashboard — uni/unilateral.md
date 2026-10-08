@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilateral
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving only one part or side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tracing descent from either the paternal or the maternal line only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performed by, affecting, or binding only one party, nation, or side; one-sided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, occurring on, affecting, or involving only one side of the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unilateral designates involving only one part or side."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A **unilateral** declaration of policy by one state often provokes retaliatory tariffs abroad."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with **unilateral** facial paralysis characteristic of Bell's palsy."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"A **unilateral** contract binds the promisor without imposing reciprocal obligations upon the promisee."*

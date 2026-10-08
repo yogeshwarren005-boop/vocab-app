@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unilluminated
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without illumination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without illumination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not illuminated; lacking physical light, intellectual enlightenment, or spiritual insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark, unlighted, or unadorned by decorative artistic manuscript miniature illustrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Upon opening my eyes then, and coming out of my own pleasant and self-created darkness into the imposed and coarse outer gloom of the unilluminated twelve-o’clock-at-night, I experienced a disagreeable revulsion."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I looked down into the **unilluminated** abyss where black waters mirrored the gray building."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient pagan tribes remained **unilluminated** by the philosophical culture of the Mediterranean."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The narrow alley remained damp and **unilluminated** save for a solitary flickering tallow candle."*

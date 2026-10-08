@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unique
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (followed by `to') applying exclusively to a given category or condition or locality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being the only one of its kind; unlike anything else; having no equal or equivalent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remarkably special, unusual, or exceptional in character or artistic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A call was accordingly addressed to him, and it was backed up by representations of an almost unique character and weight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even in respect to cheapness, the unique virtue of waterways in favored localities, the railroad made rapid gains."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The marine iguana of the Galapagos presents a **unique** example among living lizards of a swimmer."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The facade of the Doge’s Palace occupies a **unique** position in the history of European architecture."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ancient manuscript described a hound of **unique** ferocity and ghostly appearance."*

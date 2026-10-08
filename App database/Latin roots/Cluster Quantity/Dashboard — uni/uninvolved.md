@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — uni]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # uninvolved
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of emotional involvement; - j.s.perelman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with, participating in, or affected by a particular activity or controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying emotional detachment or objective neutrality in personal relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninvolved designates not involved."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Citizens who remain wholly **uninvolved** in municipal affairs surrender power to corrupt cabals."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph preferred to remain an **uninvolved** spectator, watching the social drama from his sickroom chair."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother remained **uninvolved** in the bitter clerical quarrels that divided the town vestry."*

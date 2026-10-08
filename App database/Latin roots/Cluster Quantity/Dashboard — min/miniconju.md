@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniconju
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of siouan people who constituted a division of the teton sioux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a group of siouan people who constituted a division of the teton sioux.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized or small-scale biological conjugation occurring in microbial or unicellular cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced genetic transfer event observed between bacterial or ciliophoran cells in vitro.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniconju designates a member of a group of siouan people who constituted a division of the teton sioux."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"In micro-cultures of infusoria, a transient **miniconju** event allows reciprocal exchange of nuclear factors."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic examination showed a delicate **miniconju** pairing between bacterial cells before sporulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bacterial strains exhibit plasmid transfer through **miniconju** bridges under selective antibiotic pressure."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minnewit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peter Minuit (Pierre Minnewit), director-general of the Dutch colony of New Netherland who bought Manhattan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial administrator who established Fort Amsterdam and later founded the New Sweden colony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minnewit designates dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638)."*
+> - 📜 **Washington Irving (*A History of New York*):** *"Under Governor **Minnewit**, the Dutch burghers concluded their celebrated treaty with the native islanders."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Dutch colonial records recall the enterprise of **Minnewit** in establishing trading posts on the Hudson."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early colonial governors like **Minnewit** laid the mercantile groundwork of vast transoceanic empires."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # arminius
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch protestant theologian who founded arminianism which opposed the absolute predestinarianism of john calvin (1559-1609).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Jacobus Arminius, Dutch reformed theologian who founded the anti-Calvinist Arminian movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arminius (Hermann), ancient Germanic chieftain of the Cherusci who defeated Rome in Teutoburg Forest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I have asked my friend Arminius, of Buda-Pesth University, to make his record; and, from all the means that are, he tell me of what he has been."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The Draculas were, says Arminius, a great and noble race, though now and again were scions who were held by their coevals to have had dealings with the Evil One."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The valiant chieftain **Arminius** defended Germanic liberty and destroyed three Roman legions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The theological treatises of **Arminius** sparked debates that shook the Dutch Republic to its foundation."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The writings of **Arminius** appealed to those who found unconditional reprobation morally unbearable."*

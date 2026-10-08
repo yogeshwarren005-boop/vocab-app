@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminutiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being very small in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being very small in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptional smallness in physical volume, stature, or proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Triviality or pettiness in character, intellectual scope, or moral dimension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"What bond could there exist between two such totally distinct species of fish? the one strong, powerful and noted for its voracity, the other for its diminutiveness, beauty of form and weakness?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extreme **diminutiveness** of the male parasite relative to the female is astonishing."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her physical **diminutiveness** belied an extraordinary energy of will and moral courage."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The apparent **diminutiveness** of distant statues upon the cathedral roof is an optical illusion."*

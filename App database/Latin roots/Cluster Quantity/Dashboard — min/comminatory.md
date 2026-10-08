@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # comminatory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing warning of punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing warning of punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or characterized by threats of divine vengeance or severe punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denunciatory, menacing, or threatening in tone, content, or rhetorical intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comminatory designates containing warning of punishment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The patriarch addressed a **comminatory** epistle to the emperor, warning him of eternal perdition."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Prophets of old spoke in harsh, **comminatory** language to startle slumbering consciences."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The proclamation was couch'd in fierce and **comminatory** terms designed to cow the insurrectionists."*

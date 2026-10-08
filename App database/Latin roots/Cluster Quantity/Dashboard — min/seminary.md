@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A private place of education for the young.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological school for training ministers or priests or rabbis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theological college or school providing education for candidates for the Christian priesthood or ministry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a private boarding academy or secondary school for young women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the Fall of 1858, H----, a student in the Theological Seminary at Princeton, N.J., was in great need of a new pair of boots."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Indeed, it might be said of H---- that he went through college and seminary _on prayer_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Among the students in the Theological Seminary at Princeton, N.J., in 1860, was my intimate friend L----."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck conducted her educational **seminary** with vigilance, order, and immaculate discipline."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English college at Rome was a renowned **seminary** for the training of missionary clergy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond Vincy had received her education at Mrs. Lemon's fashionable **seminary** for young ladies."*

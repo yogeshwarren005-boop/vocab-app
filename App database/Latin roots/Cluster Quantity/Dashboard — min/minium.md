@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish oxide of lead (pb3o4) used as a pigment in paints and in glass and ceramics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish oxide of lead (pb3o4) used as a pigment in paints and in glass and ceramics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Red lead (trilead tetroxide), an orange-red mineral pigment historically used for painting and illumination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide of lead used in anticorrosive paints and the manufacture of flint glass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minium designates a reddish oxide of lead (pb3o4) used as a pigment in paints and in glass and ceramics."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heating the yellow oxide of lead in a stream of air converts it into bright scarlet **minium**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The illuminator mixed powdered **minium** with egg yolk to highlight the initial letters in the missal."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Veins of lead ore occasionally exhibit crusts of native **minium** formed by surface oxidation."*

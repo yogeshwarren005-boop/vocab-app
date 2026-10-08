@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuit
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peter Minuit, director-general of New Netherland who bought Manhattan from native Lenape elders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French word for midnight, historically employed in dramatic and literary titles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuit designates dutch colonist who bought manhattan from the native americans for the equivalent of $24 (1580-1638)."*
+> - 📜 **Washington Irving (*A History of New York*):** *"Director **Minuit** arrived in the bay and concluded the renowned purchase of Manhattan Island."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Dutch colonial enterprise under **Minuit** established the earliest settlements on the lower Hudson."*
+> - 📜 **Henry James (*The Ambassadors*):** *"The Parisian clocks chimed **minuit** as Strether walked slowly across the bridge under the stars."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineral
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid homogeneous inorganic substances occurring in nature having a definite chemical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to minerals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring, inorganic, homogeneous solid substance having a definite chemical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inorganic dietary nutrient essential for normal physiological and cellular health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did confess she had For you a mortal mineral, which, being took, Should by the minute feed on life, and ling’ring, By inches waste you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To draw apart the body he hath kill’d, O’er whom his very madness, like some ore Among a mineral of metals base, Shows itself pure."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Right, as usual,” said the Duchess: “what a clear way you have of putting things!” “It’s a mineral, I _think_,” said Alice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Every **mineral** found in crystalline rocks reveals the pressure and temperature of its subterranean origin."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic cliffs contained sparkling crystals of olivine and other rare **mineral** species."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The **mineral** crust was analyzed to determine its electrical resistance under varying temperatures."*

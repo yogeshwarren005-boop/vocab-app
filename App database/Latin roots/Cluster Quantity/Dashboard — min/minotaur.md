@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minotaur
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical monster with the head of a bull and the body of a man; slain by theseus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mythical monster with the head of a bull and the body of a man; slain by theseus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical monster with the head of a bull and the body of a man, slain by Theseus in Crete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabulous creature confined within the Cretan labyrinth that devoured Athenian tributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Probably he was identical with the Minotaur, and stripped of his mythical features was nothing but a bronze image of the sun represented as a man with a bull's head."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The resemblance which the Cretan traditions bear to the Carthaginian practice suggests that the worship associated with the names of Minos and the Minotaur may have been powerfully influenced by that of a Semitic Baal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There Minotaurs and ugly treasons lurk."*
+> - 📜 **Nathaniel Hawthorne (*Tanglewood Tales*):** *"Theseus pressed forward through the winding labyrinth to confront the bellowing and dreadful **Minotaur**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No maze was ever more intricate than that which hid the Cretan **Minotaur** from human sight."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The legend of the **Minotaur** recalls ancient sacrificial cults that dominated early Aegean islands."*

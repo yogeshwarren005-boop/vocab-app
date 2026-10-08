@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimise
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make small or insignificant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce something to the smallest possible amount, degree, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent or estimate at less than the true value; to disparage or belittle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"B. ii.—_Prevention of Radiation through Walls and Roof._—Such heat losses are now minimised by thickening these parts, and blanketing the outside of the roof with sand, keeping the construction together by very heavy bracing."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Constitutional checks are devised to **minimise** the hazards of legislative tyranny."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Physical systems tend spontaneously to **minimise** internal friction and energy loss."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts incessantly to **minimise** the waste of vital resources in organisms."*

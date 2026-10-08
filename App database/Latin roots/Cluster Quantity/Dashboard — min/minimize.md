@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimize
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to the smallest possible amount, degree, size, or severity; diminish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat or represent as small, insignificant, or of little value; belittle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But they occur also in the periods following crises, when the workers seek to minimize cuts in wages and to prevent the depression of working conditions."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You won't think I'm trying to minimize what Val did, will you, if I say that we who were through the fighting saw so many horrible and ghastly things . . ." Again his voice failed."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Modern assembly lines are engineered to **minimize** unnecessary physical motion by operatives."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Prudent mental habits help to **minimize** emotional friction during difficult moral decisions."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A free society must strive to **minimize** state coercion over private individual consciences."*

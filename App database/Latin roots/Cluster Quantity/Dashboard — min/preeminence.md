@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # preeminence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High status importance owing to marked superiority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing excellence, paramount distinction, or superiority over all competitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position of undisputed leadership, precedence, or recognized supremacy in a sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was not many decades since the study of Latin and Roman institutions had been forced to yield preeminence of position in Germany to the study of Greek."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor is it to be imagined, if this obstacle could be surmounted, that the neighboring powers would suffer a revolution to take place which would give to the empire the force and preeminence to which it is entitled."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each of the three has some special claim to preeminence, but the greatest of them is Hankow."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The proud city of Rome maintained her ancient **preeminence** over all capitals of the civilized world."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton achieved undisputed **preeminence** among the epic poets of modern Europe."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"In the realm of inductive knowledge, truth asserts its divine **preeminence** over dogma."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minicomputer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital computer of medium size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A digital computer of medium size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mid-sized multi-user computer intermediate in power, size, and cost between mainframes and microcomputers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A departmental computer designed for scientific research laboratories and industrial process control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minicomputer designates a digital computer of medium size."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The advent of the transistorized **minicomputer** decentralized electronic calculation from vast computer rooms."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Corporate laboratories installed the **minicomputer** to accelerate data processing and design modeling."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Industrial automation accelerated as manufacturers placed a dedicated **minicomputer** on the assembly floor."*

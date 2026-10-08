@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimalism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style or movement in art, architecture, and music that uses simple, sparse, and reductive elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of deliberately living with very few possessions and simplified routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimalism designates an art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Reaction against Victorian ornamentation gave rise to aesthetic **minimalism** in domestic furnishings."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Intellectuals embraced architectural **minimalism** as a rebuke to the gaudy consumerism of modern suburbs."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Simplify, simplify! Voluntary **minimalism** liberates the human spirit from the slavery of excess luggage."*

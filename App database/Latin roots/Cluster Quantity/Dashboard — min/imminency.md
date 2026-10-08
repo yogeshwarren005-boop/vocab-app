@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # imminency
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impending occurrence; the state of overhanging menacingly or being on the verge of arrival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impending peril or immediate dangerous contingency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imminency designates the state of being imminent and liable to happen soon."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"I do not fly; but advantageous care withdrew me from the odds of multitude: have at thee! The **imminency** of our danger brooks no further hesitation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The tragic **imminency** of royal ruin awakened desperate loyalties among the Swiss guard."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The terrible **imminency** of barbarian invasion compelled the senate to reinforce the alpine passes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminishing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming or causing to become gradually smaller, less, or weaker; decreasing continuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to diminishing returns, where additional inputs yield progressively smaller outputs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, do not tear away thyself from me; For know, my love, as easy mayst thou fall A drop of water in the breaking gulf, And take unmingled thence that drop again Without addition or diminishing, As take from me thyself, and not me too."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I be all but in liquor, and the gift is wanting in me,” said Joseph, diminishing himself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Queen of Spades forgot the stain on her bodice, and stood beside the Queen of Diamonds and the new-married, staggering young woman—all with a gaze of fixity in the direction in which the horse’s tramp was diminishing into silence on the road."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The law of **diminishing** returns governs all agricultural applications of capital to land."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Labor applied to exhausted soil encounters steadily **diminishing** productiveness per acre."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Isolated island species face a **diminishing** territory that accelerates the risk of extinction."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimized
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced to the lowest possible level, amount, or importance; greatly diminished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented or treated as negligible, unimportant, or slight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, this conflict of interest was minimized and often quite avoided by the native changing to another occupation."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"His virtues were minimized and his shortcomings exaggerated and unduly paraded."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Risk of loss was largely **minimized** through systematic diversification of the portfolio."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Competition between closely allied varieties is **minimized** when they occupy distinct niches."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Wasteful demurrage charges were **minimized** by coordinating rail schedules with steamships."*

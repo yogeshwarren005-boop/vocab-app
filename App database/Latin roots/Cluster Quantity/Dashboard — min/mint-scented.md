@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mint-scented
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of mint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of mint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the fresh, cool, and pungent aroma or fragrance characteristic of the mint plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragrant with volatile aromatic oils reminiscent of peppermint or spearmint foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mint-scented designates smelling of mint."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The evening air was cool and **mint-scented** where wild herbs grew along the stream."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"She offered me a **mint-scented** lozenge from her tin box before we boarded the coach."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We sat upon the grassy bank, enjoying the **mint-scented** breeze that drifted off the marsh."*

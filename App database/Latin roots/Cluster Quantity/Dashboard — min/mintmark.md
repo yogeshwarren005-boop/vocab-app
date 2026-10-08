@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mintmark
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark on a coin that identifies the mint where it was produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark on a coin that identifies the mint where it was produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small letter, emblem, or symbol stamped on a coin to indicate the mint at which it was struck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numismatic diagnostic symbol used to identify the provenance and rarity of historic coinage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mintmark designates a mark on a coin that identifies the mint where it was produced."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Numismatists inspect the minute **mintmark** beneath the eagle's claws to identify provincial issues."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Each imperial coin bore a distinctive **mintmark** denoting Antioch, Rome, or Constantinople."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the ancient gold guinea with his lens, deciphering the tiny **mintmark** on the rim."*

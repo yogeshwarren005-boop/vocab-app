@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # arminian
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of arminianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arminianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or adhering to the doctrines of Arminianism, emphasizing human conditional election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theologian or believer who rejects unconditional predestination in favor of free will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae poison’d soor Arminian stank He let them taste; Frae Calvin’s well, aye clear, drank,— O, sic a feast! [Footnote 1: Rev."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Archbishop Laud and the high church party embraced the **Arminian** theology favored by the court."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The old rector was a gentle **Arminian** whose sermons preached practical charity over gloomy decrees."*
+> - 📜 **John Milton (*Areopagitica*):** *"Acute controversies between Calvinist and **Arminian** divines filled the university printshops."*

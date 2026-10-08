@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administrable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being administered or managed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being administered or managed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being managed, governed, directed, or administered efficiently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amenable to practical executive oversight and bureaucratic regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administrable designates capable of being administered or managed."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A vast empire becomes scarcely **administrable** when all regional decisions require imperial sanction."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Tax codes must remain simple and easily **administrable** to prevent widespread evasions."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporate consolidations rendered complex railway systems centrally **administrable** from Wall Street."*

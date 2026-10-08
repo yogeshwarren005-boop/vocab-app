@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minerva
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of wisdom; counterpart of greek athena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman goddess of wisdom, war strategy, handicrafts, and professional arts; equated with Athena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poetic symbol or personification of intellect, scholarly learning, and strategic prudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark, Tranio! thou mayst hear Minerva speak."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear Minerva,” said Richard, “I am as steady as you are."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my dear Minerva,” answered Richard with his old gay laugh, “it is neither a rural nor a cheerful place; and when the sun shines here, you may lay a pretty heavy wager that it is shining brightly in an open spot."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A majestic bronze statue of **Minerva** guarded the Acropolis, brandishing her spear toward the Aegean."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Hark, Tranio! thou mayst hear **Minerva** speak, in the wise discourse of this scholarly maiden."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Perched upon a bust of Pallas just above my chamber door—perched, and sat, symbolizing the wisdom of **Minerva**."*

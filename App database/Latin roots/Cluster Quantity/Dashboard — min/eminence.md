@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # eminence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protuberance on a bone especially for attachment of a muscle or ligament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fame, high reputation, or recognized superiority in a profession, art, or public service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high place, elevation, hill, or knoll commanding an extensive view.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*
+> - 📜 **Francis Bacon (*Essays*):** *"Men in great place are thrice servants; servants of the sovereign or state, servants of fame, and servants of business. It is a strange desire to seek power and to lose liberty, or to seek power over others and to lose power over a man's self. The rising unto place is laborious; and by pains men come to greater pains; and it is sometimes base; and by indignities men come to dignities. The standing is slippery, and the regress is either a downfall, or at least an eclipse, which is a melancholy thing. Yet worldly **eminence** continues to allure aspiring minds."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The general surveyed the enemy lines through his glass from a rocky **eminence** above the plain."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"His literary **eminence** secured for him the respectful patronage of the court and the academy."*

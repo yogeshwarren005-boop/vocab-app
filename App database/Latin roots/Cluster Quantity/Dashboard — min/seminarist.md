@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminarist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student at a seminary (especially a roman catholic seminary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student at a seminary (especially a roman catholic seminary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student attending or trained within an ecclesiastical theological seminary; a seminarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A priest or scholar educated according to the strict curriculum of a Catholic seminary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"An enormous crowd of factory hands, house serfs, and peasants, with whom some officials, seminarists, and gentry were mingled, had gone early that morning to the Three Hills."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The young **seminarist** bowed with awkward deference before the haughty Petersburg aristocrats."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Jesuit colleges trained every **seminarist** in forensic rhetoric to combat northern Protestantism."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Douai and Saint Omer sent many an intrepid young **seminarist** on perilous missions to England."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineralogy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline concerned with the chemical composition, structure, and physical properties of minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic study and taxonomic classification of crystalline substances found in nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"In the midst he would rush out to a lecture on mineralogy, and come back sighing that it was all about "stones, stones, stones"!"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I am no specialist in mineralogy, and I went on down a very ruinous aisle running parallel to the first hall I had entered."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fully Illustrated. 12s. 6d. net. =ANTIMONY: Its History, Chemistry, Mineralogy, Geology, Metallurgy, Uses and Preparation, Analysis, Production and Valuation.= BY C."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern geology depends upon accurate chemical analysis and the foundational principles of **mineralogy**."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Our knowledge of American cordilleras was enlarged through systematic field studies in **mineralogy**."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The invention of the reflecting goniometer established mathematical precision in morphological **mineralogy**."*

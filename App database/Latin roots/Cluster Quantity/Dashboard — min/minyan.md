@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minyan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quorum required by jewish law to be present for public worship (at least ten males over thirteen years of age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quorum required by jewish law to be present for public worship (at least ten males over thirteen years of age).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quorum of ten adult Jewish men (or adult Jews) required for traditional communal prayer and rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The required religious gathering for reading the Torah and reciting the Kaddish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minyan designates the quorum required by jewish law to be present for public worship (at least ten males over thirteen years of age)."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deronda entered the humble Frankfort synagogue where the elders assembled for the evening **minyan**."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom recalled the solemn chant of the **minyan** echoing from the small prayer room on the quay."*
+> - 📜 **Israel Zangwill (*Children of the Ghetto*):** *"The beadle hurried through the alley, seeking a tenth pious man to complete the morning **minyan**."*

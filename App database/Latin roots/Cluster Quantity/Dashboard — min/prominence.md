@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prominence
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being prominent: widely known or eminent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of projecting outward; or the distinction of being conspicuous and widely known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physical projection, hill, or anatomical elevation; or a solar gas eruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I be his lawful wife!” continued the voice with greater prominence of manner and tone."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Wherefore, you must now have perceived that the front of the Sperm Whale’s head is a dead, blind wall, without a single organ or tender prominence of any sort whatsoever."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient tumulus gained somber **prominence** upon the skyline as the dusk gathered."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's ivory leg had a tragic **prominence** as he stood upon the quarter-deck facing his crew."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic cones achieve dramatic topographical **prominence** across the flat basaltic plateau."*

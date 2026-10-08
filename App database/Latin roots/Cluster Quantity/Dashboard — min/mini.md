@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mini
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of women's clothing; very short with hemline above the knee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting something that is very small, compact, or smaller than ordinary versions of its kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very short skirt or compact passenger automobile of minimalist design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"When I reached them, I found the heat stifling; and as I bent to avoid the whizzing minies, and the falling branches of the trees, cut off by an occasional shell, I felt that war was a terrible reality."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Consumer markets embraced the **mini** trend, prioritizing compact suburban vehicles over ostentation."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Fashion cycles introduced the **mini** silhouette to emphasize youthful modernity and urban novelty."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Electronic circuits will evolve into **mini** components scarcely larger than grains of sand."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniver
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trimming on ceremonial robes consisting of white or light grey fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trimming on ceremonial robes consisting of white or light grey fur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white fur, traditionally the pure white winter belly fur of the red squirrel, used for trimming robes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heraldic and ceremonial fur lining state robes of medieval royalty, peers, and judges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniver designates trimming on ceremonial robes consisting of white or light grey fur."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wealthy prior was clad in garments of fine scarlet cloth, richly furred with luxurious **miniver**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Judges entered the House of Lords in their traditional crimson robes trimmed with snowy **miniver**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lord chancellor sat upon his woolsack, wrapped in regal ermine and spotless **miniver**."*

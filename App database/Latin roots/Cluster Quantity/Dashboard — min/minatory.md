@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minatory
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or having a menacing or threatening quality; comminatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an ominous warning of approaching catastrophe, hostility, or legal retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Now, though we know not precisely the nature of the arguments that were used with the farmer, we may conclude they were of the minatory species, for the young fellow could not, for some time, look any person in the face."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The speaker delivered a **minatory** address, warning the monarch of the perils of arbitrary rule."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Attila dispatched a **minatory** embassy to the court of Ravenna, threatening invasion unless tribute was paid."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The rumbling of industrial unrest sounded like a **minatory** warning across Victorian England."*

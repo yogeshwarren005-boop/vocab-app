@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minisub
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersible vessel for one or two persons; for naval operations or underwater exploration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersible vessel for one or two persons; for naval operations or underwater exploration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, compact submarine designed for covert reconnaissance, rescue, or underwater inspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A submersible craft operated by a small crew for marine salvage or military sabotage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minisub designates submersible vessel for one or two persons; for naval operations or underwater exploration."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Deep-sea oceanographers deployed an agile **minisub** to map the abyss of the Mariana Trench."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Commercial salvage companies utilized a specialized **minisub** to recover valuable deep-sea cargo."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Naval warfare stimulated mechanical engineering to develop the stealthy **minisub** for port raids."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniscule
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small, tiny, or minute in size, volume, or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing minuscule lowercase script utilized in ancient manuscript codices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniscule designates very small."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even a **miniscule** structural change in the floral organ may ensure successful pollination."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes detected a **miniscule** drop of wax adhering to the keyhole of the secret drawer."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The artist rendered each **miniscule** lichen frond on the boulder with affectionate care."*

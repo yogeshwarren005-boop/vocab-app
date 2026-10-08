@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimalist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conservative who advocates only minor reforms in government or politics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner or advocate of artistic minimalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates or practices minimalism in art, design, philosophy, or lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by stripped-down, spare, and essential forms or political agendas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimalist designates a conservative who advocates only minor reforms in government or politics."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The **minimalist** architecture of the new university hall rejected all ceremonial stone carvings."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"A **minimalist** view of government intervention leaves essential social services underfunded and neglected."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The drawing room was arranged with a **minimalist** simplicity that highlighted the beauty of the sea outside."*

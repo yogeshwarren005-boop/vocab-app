@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # comminate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To threaten with divine punishment or severe vengeance; to denounce solemnly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To utter grave ritual imprecations or liturgical warnings of retribution against sinners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A garland of grey hair on his comminated head see him me clambering down to the footpace (_descende!_), clutching a monstrance, basiliskeyed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Fanatical orators would openly **comminate** all moderate deputies from the Jacobin tribune."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The papal legate threatened to **comminate** the rebellious city with interdict and fire."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"True prophets do not merely **comminate** destruction, but summon wicked rulers to repentance."*

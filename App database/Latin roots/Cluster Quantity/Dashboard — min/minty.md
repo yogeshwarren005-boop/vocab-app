@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minty
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggestive of mint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suggestive of mint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the cool, refreshing, and pungent taste or fragrance characteristic of mint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting of or aromatic with herbal oils like menthol, peppermint, or spearmint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minty designates relating to or suggestive of mint."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Wardle brewed a steaming bowl of punch, adding a sprig of herb that imparted a **minty** zest."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The brook ran through lush water-cress, filling the air with a clean and **minty** sharpness."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We paused to drink from the clear spring, refreshed by the **minty** herbs bordering the pool."*

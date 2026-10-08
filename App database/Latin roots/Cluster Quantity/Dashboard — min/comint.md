@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # comint
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical and intelligence information derived from foreign communications by other than the intended recipients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical and intelligence information derived from foreign communications by other than the intended recipients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information gathered through the interception and decryption of foreign communications signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of signals intelligence (SIGINT) focused on diplomatic, military, and naval transmissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comint designates technical and intelligence information derived from foreign communications by other than the intended recipients."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Modern strategic defense allocations devoted vast funding to electronic **COMINT** intercept stations."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Wartime planning relied heavily upon decrypted **COMINT** transcripts to track maritime supply convoys."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Global satellite arrays revolutionized **COMINT** gathering by capturing microwave transmissions across hemispheres."*

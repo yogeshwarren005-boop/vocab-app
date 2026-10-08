@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minicar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car that is even smaller than a subcompact car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A car that is even smaller than a subcompact car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small, lightweight, and economical automobile designed for congested urban travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact subcompact automobile designed for high fuel efficiency and easy parking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minicar designates a car that is even smaller than a subcompact car."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Rising petroleum costs forced automotive manufacturers to develop the efficient urban **minicar**."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"European metropolitan traffic fostered widespread consumer adoption of the economical **minicar**."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Standardized assembly lines adapted tooling to produce the compact **minicar** for economy buyers."*

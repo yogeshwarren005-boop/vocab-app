@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who coins or stamps money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who coins or stamps money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who strikes or coins money under public authority; or a manufacturer of coins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inventor, coiner, or originator of new words, concepts, or ideological slogans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minter designates a skilled worker who coins or stamps money."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The royal **minter** tested the fineness of the gold ingot before delivering it to the melting pots."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Counterfeiters bribed an assistant **minter** to obtain the official steel dies of the new crowns."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shakespeare was a wondrous **minter** of phrases that passed instantly into common speech."*

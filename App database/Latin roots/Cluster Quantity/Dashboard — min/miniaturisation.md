@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniaturisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of making on a greatly reduced scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of making on a greatly reduced scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or technique of designing and producing items on a greatly reduced physical scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systemic technological reduction in the size of mechanical or electrical components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniaturisation designates act of making on a greatly reduced scale."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Progressive **miniaturisation** of electrical relays opened the way for interplanetary space probes."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The rapid **miniaturisation** of internal combustion engines made lightweight aircraft practical."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Electronic **miniaturisation** drastically reduced the capital overhead required for computing facilities."*

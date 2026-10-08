@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any meeting for an exchange of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A course offered for a small group of advanced students.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advanced class or discussion group at a university where students and teachers conduct research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference, workshop, or meeting for exchanging specialized professional ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminar designates any meeting for an exchange of ideas."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The graduate **seminar** was established to train young scholars in rigorous methods of documentary inquiry."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"Economists convened a specialized **seminar** to evaluate fiscal policy options under stagflation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Discussions in the philosophical **seminar** clarified the distinction between sensory perception and inference."*

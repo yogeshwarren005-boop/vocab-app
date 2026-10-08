@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minstrelsy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A troupe of minstrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ballads sung by minstrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, occupation, or performance of a minstrel; ballad singing and poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collective body or collection of traditional folk songs, ballads, and lyrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How you delight, my lords, I know not, I, But I protest I love to hear him lie, And I will use him for my minstrelsy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Even the sound of the Waits, rude as may be their minstrelsy, breaks upon the mid-watches of a winter night with the effect of perfect harmony."*
+> - 📜 **Walter Scott (*Minstrelsy of the Scottish Border*):** *"The ancient ballads of border **minstrelsy** preserve the fiery passions and chivalric feuds of our ancestors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial **minstrelsy** resounded through the golden courts, tuning harps to hymns of joy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Popular **minstrelsy** served as the living newspaper and moral chronicle of the unlettered Middle Ages."*

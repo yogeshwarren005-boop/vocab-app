@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # imminently
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imminent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imminent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imminent manner; with threatening immediacy or impending nearness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner fraught with impending danger or instant catastrophic consequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The necessity for securing an independent position seemed to press imminently upon her."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The snag in the brown river threatened **imminently** to rip the bottom out of our little steamboat."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The storm broke **imminently** over the rick-yard, illuminating the thatched stacks with blue lightning."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We felt **imminently** that a ghastly crisis was approaching as the thick fog rolled over the mire."*

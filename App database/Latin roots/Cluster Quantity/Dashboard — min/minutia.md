@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minutia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small or minor detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small or minor detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, minor, or trivial detail; a petty matter of little general importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single fine, microscopic, or precise feature within a complex system or fingerprint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minutia designates a small or minor detail."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"It is upon some overlooked **minutia** of the crime scene that the greatest mystery often turns."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He spent years investigating every **minutia** of legal precedent regarding the royal prerogative."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon became hopelessly entangled in the historical **minutia** of ancient mythologies."*

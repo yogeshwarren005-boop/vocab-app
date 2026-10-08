@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administrate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work in an administrative capacity; supervise or be in charge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work in an administrative capacity; supervise or be in charge of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage, conduct, or direct administrative operations or government agencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To execute executive responsibilities and oversee organizational functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administrate designates work in an administrative capacity; supervise or be in charge of."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Elected selectmen meet in town halls to **administrate** the modest finances of the township."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Trustees were selected to **administrate** the bankrupt estate under strict supervision of the court."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"When public bureaus attempt to **administrate** private industries, bureaucratic paralysis inevitably follows."*

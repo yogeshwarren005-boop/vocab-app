@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mint
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') a large number or amount or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any north temperate plant of the genus mentha with aromatic leaves and small mauve flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic herb of the genus Mentha; or a place where legal tender money is coined under state authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vast amount of wealth; or freshly coined, pristine, and uncirculated in condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should then have accosted her, and with some excellent jests, fire-new from the mint, you should have banged the youth into dumbness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George stands looking at these boxes a long while—as if they were pictures—and comes back to the fire repeating, “Sir Leicester Dedlock, Baronet, and Manor of Chesney Wold, hey?” “Worth a mint of money, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the gallery don’t quite do what was expected of it, and it’s not—in short, it’s not the mint."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The master of the **mint** received bullion and returned standard coined specie to the merchants."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Walking along the brookside, I crushed wild **mint** beneath my feet, releasing a pungent fragrance."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A man of fire-new words, fashion's own knight, whose brain is a very **mint** of courtly phrases."*

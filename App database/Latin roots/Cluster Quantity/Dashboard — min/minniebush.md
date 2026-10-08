@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minniebush
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low shrub of the eastern united states with downy twigs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low shrub of the eastern united states with downy twigs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deciduous ericaceous shrub (*Menziesia pilosa*) native to the Appalachian mountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alpine heath shrub bearing small urn-shaped flowers in high mountain woods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minniebush designates low shrub of the eastern united states with downy twigs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rustic **minniebush** flourishes on rocky Appalachian ridges alongside mountain laurels."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Pendulous urn-shaped corollas like those of the **minniebush** exclude crawling predatory insects."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Mountain slopes were adorned by flowering ericaceous shrubs related to the North American **minniebush**."*

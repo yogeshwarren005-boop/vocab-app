@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # demineralization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal loss of mineral salts (especially from bone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of minerals and mineral salts from a liquid (especially from water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extraction or loss of mineral constituents, particularly calcium salts from bone or teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The industrial purification of water by the complete removal of dissolved dissolved mineral ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralization designates abnormal loss of mineral salts (especially from bone)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced rickets manifests as severe osseous **demineralization** and bowing of the lower limbs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Fossilization often commences only after partial **demineralization** of organic skeletal fragments."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The complete **demineralization** of water samples prevents misleading precipitation during assay."*

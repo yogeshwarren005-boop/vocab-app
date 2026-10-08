@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # min
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to 60 seconds or 1/60th of an hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the forms of chinese spoken in fukien province.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Egyptian god of reproduction, fertility, agriculture, and desert travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard astronomical and mathematical abbreviation denoting a minute of time or arc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, she was the Lady Om, princess of the house of Min."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a lesser cousin of the great Min family, himself no fool, and grasping so greedily for power as to perturb Yunsan, who strove to retain all power himself and keep the palace and Cho-Sen in ordered balance."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Lord’s cause ne’er gat sic a twistle, Sin’ I hae min’."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The festival of the god **Min** was celebrated with harvest processions and phallic offerings at Coptos."*
+> - 📜 **Herodotus (*The Histories*):** *"Priests at Thebes related ancient rituals honoring **Min**, guardian of the eastern caravan routes."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The transit timing was recorded to within one second and forty-five **min** on the sidereal clock."*

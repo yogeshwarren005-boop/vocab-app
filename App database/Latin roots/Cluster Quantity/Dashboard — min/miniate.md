@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniate
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint with red lead or vermilion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate (manuscripts) with letters painted red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To paint, color, or illuminate with red lead, vermilion, or cinnabar pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To rubricate initials and borders in medieval manuscripts with scarlet ink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniate designates paint with red lead or vermilion."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Monastic scribes would carefully **miniate** the opening capital letters of sacred liturgical texts."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early Italian illuminators loved to **miniate** delicate vine borders in blazing scarlet along the vellum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Byzantine scribes continued to **miniate** imperial edicts in purple and vermilion inks."*

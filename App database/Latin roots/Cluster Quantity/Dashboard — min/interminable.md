@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # interminable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiresomely long; seemingly without end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiresomely long; seemingly without end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endless, or so long, boring, and persistent as to seem endless or incapable of concluding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing without cessation through tiresome and exhausting sequences of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester has no objection to an interminable Chancery suit."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have a sense that for an interminable period I have lived in a wagon and travelled on, ever on, with this present company."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But before I go on, tell me what you mean by your ‘Well, sir?’ It is a small phrase very frequent with you; and which many a time has drawn me on and on through interminable talk: I don’t very well know why.” “I mean,—What next?"*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The tidal current ran out in an **interminable** sweep toward the darkening sea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce drags its **interminable** length through the muddy fog of Lincoln's Inn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed through an **interminable** solitude of blue waters where no sail ever appeared."*

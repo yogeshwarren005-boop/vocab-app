@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minicab
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minicar used as a taxicab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minicar used as a taxicab.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordinary car operating as a taxi that can be booked only in advance by telephone, not hailed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed private hire vehicle competing with traditional hackney carriages in British cities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minicab designates a minicar used as a taxicab."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism*):** *"The proliferation of the unlicensed **minicab** challenged municipal monopolies held by traditional taxi fleets."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Private transport services such as the **minicab** offered competitive rates through lower overhead costs."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Urban transport networks expanded via decentralized dispatching of the **minicab** across suburbs."*

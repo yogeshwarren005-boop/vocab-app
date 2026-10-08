@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minos
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of zeus and europa; king of ancient crete; ordered daedalus to build the labyrinth; after death minos became a judge in the underworld.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary king of Crete who demanded Athenian youth for the Minotaur and became judge in Hades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classical mythological figure celebrated as a stern lawgiver and judge of the underworld.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, Daedalus; my poor boy, Icarus; Thy father, Minos, that denied our course; The sun that seared the wings of my sweet boy, Thy brother Edward; and thyself, the sea Whose envious gulf did swallow up his life."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Minos, we learn, was the primitive founder of the government of Crete, as Zaleucus was of that of the Locrians."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus Minos, king of Cnossus in Crete, whose great palace has been unearthed in recent years, is said to have held office for periods of eight years together."*
+> - 📜 **Homer (*The Odyssey*):** *"There saw I **Minos**, glorious son of Zeus, holding a golden sceptre and giving laws to the dead."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"There **Minos** stands, grinning with dreadful fury, examining sins and assigning souls to their circles."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient poets celebrated **Minos** as the earliest sovereign who established naval supremacy in Greece."*

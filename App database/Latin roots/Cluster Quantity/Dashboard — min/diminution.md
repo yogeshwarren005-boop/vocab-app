@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminution
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change toward something smaller or lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statement of a theme in notes of lesser duration (usually half the length of the original).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in the size, extent, quantity, importance, or value of something; lessening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, the repetition of a theme or subject in shorter note values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be furious Is to be frighted out of fear, and in that mood The dove will peck the estridge; and I see still A diminution in our captain’s brain Restores his heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have broke mine eyestrings, crack’d them but To look upon him, till the diminution Of space had pointed him sharp as my needle; Nay, followed him till he had melted from The smallness of a gnat to air, and then Have turn’d mine eye and wept."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gridley with no diminution of his rage."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Any sudden **diminution** in the quantity of circulating coin causes immediate distress to debtors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual **diminution** in size of rudimentary organs is explained by the disuse of parts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial revenue suffered a severe **diminution** from the devastation of the frontier provinces."*

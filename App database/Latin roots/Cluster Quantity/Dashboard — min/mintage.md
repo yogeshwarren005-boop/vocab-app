@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mintage
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coins collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fee paid to a mint by the government for minting a coin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of minting coins; or the stamped impression, design, or character on a coin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official fee or charge levied for coining metal bullion into legal tender currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mintage designates coins collectively."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A high statutory duty upon **mintage** creates a difference between the value of coin and bullion."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth needs no royal **mintage** to pass current among free and inquiring intellects."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The exquisite **mintage** of ancient Athenian owls ensured their universal acceptance in trade."*

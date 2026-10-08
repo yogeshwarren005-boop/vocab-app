@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # armin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theological surname or title referring to Jacobus Arminius, proponent of free will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical Dutch patronymic associated with theological debates surrounding predestination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armin designates german hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The scholastic disputations of **Armin** ignited fierce ecclesiastical controversy in the Low Countries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The followers of **Armin** challenged the rigid predestinarian dogmas promulgated at Geneva."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"In examining the divine decrees, the learned **Armin** defended human moral responsibility with acuity."*

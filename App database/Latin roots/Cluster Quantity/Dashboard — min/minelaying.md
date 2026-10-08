@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minelaying
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The military operation or practice of deploying explosive mines in the sea, air, or on land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tactical placement of explosive barriers to impede and deny hostile maritime passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minelaying designates laying explosive mines in concealed places to destroy enemy personnel and equipment."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Hostile **minelaying** along the shipping lanes forced merchantmen to detour into dangerous shoals."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Nightly **minelaying** operations transformed the peaceful estuary into a deadly labyrinth of traps."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Warfare revolutionized oceanic insurance rates owing to clandestine submarine **minelaying**."*

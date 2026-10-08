@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing or consisting of semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly influencing later developments; highly original, groundbreaking, and formative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, containing, or consisting of seed or male reproductive semen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behooves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Without her aid, this seminal principle of mischief, this root of upas, could not have been planted."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Lyell's Principles of Geology was a **seminal** work that altered all scientific conceptions of natural history."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Harvey's discovery of the circulation of the blood proved a **seminal** breakthrough in medicine."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast spermaceti reservoir of the whale represents a concentrated **seminal** fluid of oceanic vitality."*

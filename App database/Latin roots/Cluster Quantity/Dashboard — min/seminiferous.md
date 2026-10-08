@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminiferous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing seed or semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or producing seed or semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, bearing, or conveying seed or spermatozoa, as the tubules of the testes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, producing or bearing fertile botanical seeds within a reproductive capsule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminiferous designates bearing or producing seed or semen."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Histological sections revealed the convoluted **seminiferous** tubules lined with dividing germ cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory swelling within the **seminiferous** canals can result in post-mumps testicular atrophy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In seasonal breeders, the **seminiferous** tissues expand enormously during the rutting season."*

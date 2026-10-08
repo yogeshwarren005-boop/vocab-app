@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mina
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical asian starlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical asian starlings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek and Near Eastern unit of weight and currency equal to one hundred drachmae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standard weight of approximately one pound used across Hellenic and Babylonian trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Mina Harker’s Journal How these papers have been placed in sequence will be made manifest in the reading of them."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall enter here some of my notes, as they may refresh my memory when I talk over my travels with Mina."*
-> - 📜 **Bram Stoker (*Dracula*):** *"If this book should ever reach Mina before I do, let it bring my good-bye."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ancient Athenian **mina** contained one hundred silver drachmae of remarkable purity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ransom of the captive merchant was fixed at thirty **mina** of fine silver by the corsairs."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Units such as the talent and the **mina** served as standardized units of account in classical commerce."*

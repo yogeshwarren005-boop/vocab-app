@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ministerially
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of a minister or clergyman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of a minister or clergyman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ministerial capacity, manner, or role; by virtue of official administrative office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the capacity or style of an ordained clergyman or pastoral counselor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ministerially designates in the manner of a minister or clergyman."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The lord chancellor acted **ministerially** when appending the great seal to the royal proclamation."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The curate visited the sick **ministerially**, reading prayers beside the bedside of the weaver."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Tax collectors act **ministerially** in assessing properties according to fixed statutory tables."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # undiminished
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not lessened or diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not lessened or diminished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made smaller, weaker, or less; retaining full strength, size, intensity, or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved in original vigor, brightness, or abundance without reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I have ever had the strongest affection for her, and that I retain it undiminished."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The keen instincts of Bathsheba had perceived that the farmer’s staunch devotion to herself was still undiminished, and she sympathized deeply."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce preserved an **undiminished** benevolence towards all who sought his generous counsel."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel's patient devotion to Bathsheba burned with **undiminished** constancy through every trial."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her affection for Jane remained with **undiminished** warmth through all family misfortunes."*

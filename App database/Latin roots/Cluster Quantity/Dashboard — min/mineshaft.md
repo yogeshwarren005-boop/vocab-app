@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineshaft
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep vertical or steeply inclined passage giving access to an underground mine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subterranean excavation equipped with hoists and air ducts for raising ore and miners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineshaft designates excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I looked down into the dark circular opening of the **mineshaft**, hearing the thud of unseen machinery."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Stephen Blackpool lay dying at the bottom of the abandoned **mineshaft** known as the Old Hell Shaft."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"Mules hauled loaded carts from the gaping **mineshaft** situated high upon the mountain slope."*

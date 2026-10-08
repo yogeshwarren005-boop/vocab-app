@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minocin
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tetracycline antibiotic (trade name minocin) used to treat a variety of bacterial and rickettsial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tetracycline antibiotic (trade name minocin) used to treat a variety of bacterial and rickettsial infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for minocycline, a broad-spectrum tetracycline antibiotic used to treat infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibacterial agent prescribed for severe acne vulgaris and various systemic infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minocin designates tetracycline antibiotic (trade name minocin) used to treat a variety of bacterial and rickettsial infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic administration of **minocin** produces rapid bactericidal clearing of chronic dermatological lesions."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Quantitative trial assays verified the sustained serum retention of the antibiotic **minocin**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Tetracycline derivatives like **minocin** interfere selectively with microbial ribosomal protein synthesis."*

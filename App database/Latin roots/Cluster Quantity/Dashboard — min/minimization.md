@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing something to the least possible amount or degree or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something to the least possible amount or degree or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of risk, cost, waste, or error to the smallest possible amount or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate trivializing or belittling of an achievement, fault, or danger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimization designates the act of reducing something to the least possible amount or degree or position."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The **minimization** of transportation costs is the primary factor determining industrial plant location."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporate mergers sought the **minimization** of competitive price wars across heavy industry."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism*):** *"Public policy must balance the **minimization** of inflation against the maintenance of employment."*

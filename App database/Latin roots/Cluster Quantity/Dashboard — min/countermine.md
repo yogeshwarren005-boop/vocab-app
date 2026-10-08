@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # countermine
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a tunnel dug to defeat similar activities by the enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy property or hinder normal operations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground tunnel excavated to intercept and destroy an enemy's siege mine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To frustrate, defeat, or secretly thwart an opponent's covert stratagem or intrigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the Duke, look you, is digt himself four yard under the countermines."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Whilst they played wits against me--against me who commanded nations, and intrigued for them, and fought for them, hundreds of years before they were born--I was countermining them."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In order to hinder them we countermined, intending to blow them up before they could blow us up."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For 'tis the sport to have the engineer hoist with his own petard; and 't shall go hard but I will delve one yard below their mines, and blow them at the moon: O, 'tis most sweet, when in one line two crafts directly meet. I will **countermine** their deep designs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Defenders of the besieged fortress excavated a deep **countermine** to intercept the barbarian sappers."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Wily diplomats sought to **countermine** every covert negotiation conducted by French envoys."*

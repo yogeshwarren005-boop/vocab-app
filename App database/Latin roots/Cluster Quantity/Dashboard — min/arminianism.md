@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # arminianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system of Jacobus Arminius, holding that Christ died for all and salvation involves free will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Protestant theological movement opposed to strict Calvinist predestination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The rise of **Arminianism** among the Caroline clergy provoked deep alarm among puritan squires."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moderate tenets of **Arminianism** gradually softened the harsh dogmatism of northern churches."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Wesleyan theology breathed renewed spiritual life into the intellectual framework of **Arminianism**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ministry
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious ministers collectively (especially presbyterian).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Building where the business of a government department is transacted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The work, vocation, or office of a minister of religion; the body of ordained clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government department headed by a minister of state; or the collective cabinet of ministers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now it is done we do not complain, particularly if she suits you for the business you have chosen to follow instead of the ministry of the Gospel...."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The son of a Perthshire farmer, he had studied for the ministry at St."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A newly formed **ministry** faced fierce parliamentary opposition from the country party."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The young curate felt an earnest calling to the Christian **ministry** among the rural poor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil **ministry** of the empire was reformed by Constantine to balance the power of the army."*

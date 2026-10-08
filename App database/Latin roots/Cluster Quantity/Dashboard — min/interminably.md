@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # interminably
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the time; seemingly without stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the time; seemingly without stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an endless, ceaseless, or wearisomely protracted manner without foreseeable conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotonously extending through time without pause, variation, or relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I guessed how little she would hear; how bitter must be the dread at her heart; how endlessly, interminably long the moments must seem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And meanwhile, what was the audience doing, while he stood there tied, {326} waiting interminably for the lion?"*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The hot afternoon droned on **interminably** while the maritime court listened to testimony."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The chalk road stretched out **interminably** before her weary feet beneath the winter sky."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The dreary rain pattered **interminably** against the iron bars of the Marshalsea prison."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ministrant
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as a minister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving practical help to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or giving aid; acting as an attendant or minister to someone's physical or spiritual needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who ministers, assists, or provides comforting attendance to the suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Here is to your health, ministrant spirit!” he said."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus saying, from his radiant Seat he rose Of high collateral glorie: him Thrones and Powers, Princedoms, and Dominations ministrant Accompanied to Heaven Gate, from whence _Eden_ and all the Coast in prospect lay."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thousands of **ministrant** spirits stood ready to execute the sovereign commands of heaven."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane acted as a tender and gentle **ministrant** to the blinded and humbled Rochester."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Gentle winds flew forth like **ministrant** angels to soothe the chained Titan on the precipice."*

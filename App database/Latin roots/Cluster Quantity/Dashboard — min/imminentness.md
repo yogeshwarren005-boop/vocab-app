@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # imminentness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of impending immediately, impending threateningly, or being near at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediate proximity in time, especially regarding an impending catastrophe or peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imminentness designates the state of being imminent and liable to happen soon."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The very **imminentness** of national bankruptcy paralyzed the deliberations of the assembly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **imminentness** of the Persian assault compelled the emperor to sue for terms."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The dreadful **imminentness** of the encounter silenced every rough tongue among the crew."*

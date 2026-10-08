@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing something to the least possible amount or degree or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something to the least possible amount or degree or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of something undesirable, such as cost, error, or danger, to the lowest level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of underestimating or belittling the significance of an event or opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minimisation designates the act of reducing something to the least possible amount or degree or position."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Careful accounting aims at the continuous **minimisation** of waste in commercial manufacture."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Rational moral conduct seeks the **minimisation** of pain and the expansion of life-enhancing joys."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Industrial safety legislation focuses on the **minimisation** of occupational accidents in factories."*

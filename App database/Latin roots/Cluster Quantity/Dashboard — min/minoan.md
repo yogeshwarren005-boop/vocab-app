@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minoan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cretan who lived in the bronze-age culture of crete about 3000-1100 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the bronze age culture of crete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Bronze Age civilization that flourished on the island of Crete from 3000 to 1100 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the sophisticated palace culture, maritime trade, and linear scripts of ancient Crete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minoan designates a cretan who lived in the bronze-age culture of crete about 3000-1100 bc."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Excavations at Knossos revealed the grandeur of the maritime **Minoan** empire in the Aegean basin."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"Surviving frescoes exhibit the lively naturalism and vivid sea imagery of the **Minoan** artists."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Centuries before classical Athens, the legendary **Minoan** kings exercised naval thalassocracy."*

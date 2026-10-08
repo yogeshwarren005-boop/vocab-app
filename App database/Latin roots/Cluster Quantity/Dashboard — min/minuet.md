@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stately court dance in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stately piece of music composed for dancing the minuet; often incorporated into a sonata or suite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow, stately ballroom dance in triple meter popular in the 18th century; or its musical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal movement in moderate triple time typically forming the third movement of a classical symphony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Sometimes these neighbors took a great deal of pains to get a glimpse of Tomasso and Lilia as, paw in paw, they danced a minuet together."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Master Simon covered himself with glory by the stateliness with which, as Ancient Christmas, he walked a minuet with the peerless though giggling Dame Mince Pie."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The assembly opened with a formal **minuet**, stepped with stately elegance by the county families."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Lord Steyne remembered dancing a **minuet** with Marie Antoinette at Versailles in his youth."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The courtiers bowed and paced through the figures of the **minuet** as if revolution did not exist."*

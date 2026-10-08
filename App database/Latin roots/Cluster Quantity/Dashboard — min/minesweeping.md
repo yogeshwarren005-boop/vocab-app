@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minesweeping
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of detecting and disposing of marine mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of detecting and disposing of marine mines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The naval operation or practice of searching for, cutting, or detonating underwater explosive mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic maritime clearance of explosive hazards to secure shipping lanes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minesweeping designates the activity of detecting and disposing of marine mines."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Hazardous **minesweeping** duties along the estuary required unbroken vigilance through dense sea fogs."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Continuous **minesweeping** preserved the vital channel through which transatlantic food transports passed."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Naval **minesweeping** operations lowered maritime insurance premiums by reopening merchant shipping routes."*

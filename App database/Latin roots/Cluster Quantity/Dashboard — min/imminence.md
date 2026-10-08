@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # imminence
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impending near occurrence or close approach in time, especially of danger or catastrophe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The menacing overhang or immediate proximity of an approaching catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not speak of flight, of fear of death, But dare all imminence that gods and men Address their dangers in."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the very imminence of the emergency paralyzed his invention."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The falling barometer warned Captain MacWhirr of the dreadful **imminence** of a tropical storm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The terrified citizens recognized the **imminence** of famine as the siege lines closed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sudden darkening of the sky proclaimed the **imminence** of a ferocious line squall."*

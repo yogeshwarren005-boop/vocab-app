@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prominently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prominent way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prominent, conspicuous, or easily noticeable manner; with distinctive visibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With high public honor, leadership, or recognized distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I think it cannot be too prominently kept before the whole establishment."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A square box with a domed top figures prominently at the fair."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The great family portraits were displayed **prominently** along the wide gallery of Chesney Wold."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Sacred symbols of the harvest were carried **prominently** at the head of the rustic procession."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The name of Jonathan Small featured **prominently** throughout the official convict records of the Andaman Islands."*

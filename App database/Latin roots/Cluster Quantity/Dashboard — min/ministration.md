@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ministration
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assistance in time of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assistance in time of difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provision of assistance, medical care, spiritual solace, or religious sacraments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of duties by an executive officer, religious clergy, or charitable worker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know that from the beds of those who were past recovery, thanks have often, often gone up, in the last hour, for his patient ministration."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One continually sees the ministration of the temporary outlasting the ministration of the eternal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found profound consolation in her gentle **ministration** to the sick laborers of the parish."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther’s quiet **ministration** brought cheerful comfort to the disordered household of Bleak House."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pious deacons were appointed for the charitable **ministration** of daily bread to Christian widows."*

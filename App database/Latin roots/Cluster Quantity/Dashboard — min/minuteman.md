@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuteman
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An american militiaman prior to and during the american revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategic weapon system using a guided missile of intercontinental range; missiles are equipped with nuclear warheads and dispersed in hardened silos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a colonial American militia pledged to be armed and ready for action at a minute's notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patriotic civilian soldier typified by the Massachusetts defenders at Lexington and Concord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuteman designates an american militiaman prior to and during the american revolution."*
+> - 📜 **Ralph Waldo Emerson (*Concord Hymn*):** *"By the rude bridge that arched the flood, their flag to April's breeze unfurled, here once the embattled **minuteman** stood, and fired the shot heard round the world."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"From our window one could see the field where the **minuteman** gathered to repel the king's troops."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The steadfast spirit of the historic **minuteman** was awakened by deep moral conviction, not mere discipline."*

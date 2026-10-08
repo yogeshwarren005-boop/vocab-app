@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The least possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The least possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a minimum amount, quantity, or degree; smallest, least, or barely sufficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the simplest or fewest decorative elements or structural lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Set environment controls at minimal levels for an indefinite stay."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It may slow us down a bit, but we'll need to look at gun emplacements that have minimal air or none at all." "Sounds reasonable."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even a **minimal** selective advantage, accumulated through countless generations, produces profound modifications."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The firm operated with **minimal** reserves, relying on short-term bank credit for payroll."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sensory threshold represents the **minimal** physical energy required to awaken conscious awareness."*

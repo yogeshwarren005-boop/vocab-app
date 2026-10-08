@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # imminent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close in time; about to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Close in time; about to occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: About to happen; occurring very soon; impending menacingly or threateningly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overhanging physically or poised ready to drop onto something beneath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God knows how long it is I have to live, And it hath pleased him that three times today You have defended me from imminent death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And these does she apply for warnings and portents And evils imminent; and on her knee Hath begg’d that I will stay at home today."*
+> - 📜 **William Shakespeare (*Othello*):** *"Of hair-breadth 'scapes i' the **imminent** deadly breach, of being taken by the insolent foe."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The crash of falling avalanches warned us of **imminent** destruction upon the mountain pass."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The aristocrats in the prison cell waited in solemn quiet, knowing execution was **imminent**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniaturist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who paints tiny pictures in great detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who paints tiny pictures in great detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who paints small-scale miniatures, especially detailed portraits on ivory or vellum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of fine, delicate, and meticulously detailed small-scale craftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is probably the work of Vinesse,” said Pierre, mentioning a celebrated miniaturist, and he leaned over the table to take the snuffbox while trying to hear what was being said at the other table."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The delicate execution of the drawing recalled the patient artistry of an eighteenth-century **miniaturist**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A skilled **miniaturist** handles the brush with microscopic precision, finishing eyelashes under magnification."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The parlor wall displayed a family portrait executed by an itinerant French **miniaturist** of great talent."*

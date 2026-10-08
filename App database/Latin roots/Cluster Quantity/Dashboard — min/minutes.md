@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minutes
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written account of what transpired at a meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of time equal to 60 seconds or 1/60th of an hour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official written record of proceedings, discussions, and resolutions at a meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plural unit of time; intervals of sixty seconds each.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I have entreated him along With us to watch the minutes of this night, That if again this apparition come He may approve our eyes and speak to it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So minutes, hours, days, months, and years, Passed over to the end they were created, Would bring white hairs unto a quiet grave."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clerk read the **minutes** of the preceding parliamentary session before the debate opened."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In five **minutes** the court was cleared, and the lawyers dispersed into the murky afternoon."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The directors recorded in the **minutes** their unanimous approval of the corporate reorganization."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minipress
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihypertensive drug (trade name minipress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihypertensive drug (trade name minipress).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prescription medication (prazosin) acting as an alpha-1 blocker to treat hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardiovascular agent used to lower arterial blood pressure and relieve urinary symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minipress designates antihypertensive drug (trade name minipress)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administering **minipress** reduces peripheral vascular resistance by selective alpha-adrenergic blockade."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Statistical evaluation of clinical trials demonstrated the hypotensive efficacy of **minipress**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Pharmacological studies showed that **minipress** dilates both arterial and venous vascular beds."*

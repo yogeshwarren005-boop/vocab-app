@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuscular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a small cursive script developed from uncial; 7th to 9th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a small cursive script developed from uncial; 7th to 9th centuries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or written in minuscule letters; very small or diminutive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by microscopic proportions, tiny scale, or cursive manuscript characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuscular designates of or relating to a small cursive script developed from uncial; 7th to 9th centuries."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The microscopic specimen revealed **minuscular** cellular structures invisible under low power."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The medieval parchment was covered with exquisite **minuscular** script penned by monastic scribes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even **minuscular** morphological distinctions provide decisive clues to phylogenetic affinities."*

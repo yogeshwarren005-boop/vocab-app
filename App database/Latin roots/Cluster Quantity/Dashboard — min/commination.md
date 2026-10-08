@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # commination
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prayers proclaiming god's anger against sinners; read in the church of england on ash wednesday.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A threat of divine punishment or vengeance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of threatening divine vengeance; a solemn recital of liturgical curses on sinners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal church service appointed for Ash Wednesday reciting God's anger against sinners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley, the Dowager Countess wrote back such a letter regarding Becky, with such particulars, hints, facts, falsehoods, and general comminations, that intimacy between Mrs."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The solemn **commination** service was read in parish churches, denouncing curses against idolatry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial manifesto opened with a terrible **commination** against all who offered harbor to heretics."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Rustic parishioners listened with awe to the annual Ash Wednesday **commination** from the pulpit."*

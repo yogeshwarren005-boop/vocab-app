@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minnesotan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of minnesota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of minnesota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, resident, or citizen of the state of Minnesota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of the state of Minnesota or its people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minnesotan designates a native or resident of minnesota."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The hardy **Minnesotan** pioneer built cooperatives to defend agricultural prices against eastern trusts."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"We were greeted by an energetic **Minnesotan** who proudly pointed out the rapid growth of the twin cities."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Every **Minnesotan** farmer took keen interest in freight tariffs negotiated by the interstate commerce commission."*

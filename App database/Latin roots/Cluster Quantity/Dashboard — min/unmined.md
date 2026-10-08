@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # unmined
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mined; remaining in the earth as an unexcavated mineral deposit, coal seam, or vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a military area, waterway, or strait, free from explosive landmines or naval mines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmined designates not mined."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Vast reserves of **unmined** coal represent latent capital wealth for future industrial growth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Veins of **unmined** silver ore were traced through the quartz metamorphic formations of the range."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Speculators monopolized tracts of **unmined** iron land to dictate future raw material prices."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minority
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who differ racially or politically from a larger group of which it is a part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to the smaller in number of two parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smaller number or part, representing less than half of the whole group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of legal nonage before a person attains legal majority or full civil age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall present Hercules in minority."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoniam _he seemeth in minority_, Ergo _I come with this apology._ Keep some state in thy exit, and vanish. [_Moth retires._] _Judas I am._— DUMAINE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, he is young, and his minority Is put unto the trust of Richard Gloucester, A man that loves not me, nor none of you."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Protection against the tyranny of the majority is indispensable to secure the rights of the **minority**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"During the long **minority** of the young king, the realm was distracted by aristocratic rivalries."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A determined **minority** often checks the impulsive passions of the legislative majority."*

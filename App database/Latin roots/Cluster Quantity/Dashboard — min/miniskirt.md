@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniskirt
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very short skirt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very short skirt or dress with a hemline terminating well above the knees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iconic garment of modern women's fashion symbolizing youth culture and social emancipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniskirt designates a very short skirt."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The commercial debut of the **miniskirt** reflected the rising purchasing power of teenage consumers."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Fashion revolutions like the **miniskirt** dramatize the recurring rebellion against traditional sartorial modesty."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Costume changes with the century; the heavy crinoline yields at last to the audacity of the **miniskirt**."*

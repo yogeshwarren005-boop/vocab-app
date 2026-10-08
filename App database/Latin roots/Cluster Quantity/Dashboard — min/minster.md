@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minster
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of certain cathedrals and large churches; originally connected to a monastery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of certain cathedrals and large churches; originally connected to a monastery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large or important church, often historically attached to a monastery or serving as a cathedral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic English collegiate church or cathedral celebrated for monumental gothic architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The nuptials of our hero, thus formally approved by his father, were celebrated in the most august of temples, the noble Minster of York."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"CCLXXX For battle, now, ready you might them see, They're well confessed, absolved, from sin set free; Masses they've heard, Communion received, Rich offerings to those minsters they leave."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The twin towers of York **Minster** rose through the morning haze, solemn and majestic over the ancient city."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The deep bells of Wimborne **Minster** tolled across the river valley, marking the midnight hour."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The vaulted roof of the northern **minster** echoed with choral praise beneath high stone arches."*

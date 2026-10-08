@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minibus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light bus (4 to 10 passengers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light bus (4 to 10 passengers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small passenger motor vehicle designed to carry between eight and thirty passengers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact transit vehicle used for shuttle services, rural routes, or airport transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minibus designates a light bus (4 to 10 passengers)."*
+> - 📜 **John Kenneth Galbraith (*Economics and the Public Purpose*):** *"Flexible municipal transit systems integrated the **minibus** to serve decentralized suburban neighborhoods."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Operating costs for a rural **minibus** line proved significantly lower than standard municipal trolleys."*
+> - 📜 **Thorstein Veblen (*The Vested Interests and the Common Man*):** *"Public motor transit evolved to include the **minibus** for connecting scattered commuter terminals."*

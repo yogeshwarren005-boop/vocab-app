@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mine
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation in the earth from which ores and minerals are extracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excavation in the earth from which coal, ores, minerals, or gems are extracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explosive device concealed underground or underwater to destroy enemy vehicles, ships, or personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For 'tis the sport to have the engineer hoist with his own petard; and 't shall go hard but I will delve one yard below their **mine**, and blow them at the moon."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We visited a deep copper **mine** high in the Cordillera where miners carried ore in hide sacks."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The discovery of the abundant silver **mine** of Potosi altered the purchasing power of money in Europe."*

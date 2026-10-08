@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minnesota
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midwestern state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A midwestern state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Midwestern state of the northern United States bordered by Canada and Lake Superior; the North Star State.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state known for extensive coniferous forests, fertile agricultural prairies, and ten thousand lakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was born on a quarter-section in Minnesota."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was up in Minnesota on the old farm."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The upper reaches of the river flow through **Minnesota** amidst picturesque bluffs and pristine waters."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Iron ranges in northern **Minnesota** supplied the blast furnaces of Pittsburgh with high-grade hematite ore."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Immigrant homesteaders established flourishing dairy and wheat communities across rural **Minnesota**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minoxidil
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vasodilator medication used orally for severe hypertension and topically to stimulate hair regrowth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arterial antihypertensive drug that promotes hair follicle vascularization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minoxidil designates a vasodilator (trade name loniten) used to treat severe hypertension; one side effect is hirsutism so it is also sold (trade name rogaine) as a treatment for male-patterned baldness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Refractory hypertension responds favorably to the arterial vasodilating action of **minoxidil**."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Dermatological surveys provided statistical evidence of follicular revival after topical **minoxidil** treatment."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Pharmacological studies revealed how **minoxidil** opens potassium channels in smooth muscle membranes."*

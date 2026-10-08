@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minibike
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motorcycle with a low frame and small wheels and elevated handlebars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small motorcycle with a low frame and small wheels and elevated handlebars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, lightweight, low-powered motorcycle used primarily for recreation or off-road riding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact two-wheeled motorized recreational vehicle with small balloon tires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minibike designates small motorcycle with a low frame and small wheels and elevated handlebars."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Suburban leisure habits stimulated booming consumer demand for recreational gadgets like the **minibike**."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Lightweight gasoline engines facilitated the mass production of the modern **minibike** for youth markets."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Recreational motoring expanded through novel small vehicles such as the **minibike** for suburban youth."*

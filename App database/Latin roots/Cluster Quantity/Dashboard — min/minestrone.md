@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minestrone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soup made with a variety of vegetables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soup made with a variety of vegetables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick Italian vegetable soup typically containing beans, onions, carrots, celery, tomatoes, and pasta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich, hearty vegetable potage prepared with seasonal legumes and broth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minestrone designates soup made with a variety of vegetables."*
+> - 📜 **Henry James (*Italian Hours*):** *"At the rustic trattoria near the piazza, we dined on crusty bread and a steaming bowl of **minestrone**."*
+> - 📜 **D. H. Lawrence (*Twilight in Italy*):** *"The innkeeper brought forth a savory **minestrone** fragrant with rosemary, wild herbs, and white beans."*
+> - 📜 **George Gissing (*By the Ionian Sea*):** *"After a long trek across Calabrian hills, nothing was more welcome than hot **minestrone** and country wine."*

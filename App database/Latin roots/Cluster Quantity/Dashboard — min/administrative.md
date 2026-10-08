@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administrative
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or responsible for administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or responsible for administration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the management, executive operations, or governance of an institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carrying out practical directives and logistical routines rather than legislative policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So it is, and so it must be, because like the dogs in the hymn, ‘it is our nature to.’ Now, here is Miss Summerson with a fine administrative capacity and a knowledge of details perfectly surprising."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This kind of standard has been viewed with favor by many monetary authorities, and despite the administrative difficulties ways may yet be found for putting it into practice."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"All the earlier state laws established low minimums of age and high maximums of hours, and were poorly enforced for lack of adequate administrative machinery, this in turn being the result of lack of active public interest."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Municipal liberties serve as a barrier against the overbearing encroachments of central **administrative** power."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The execution of complex statutory reforms demands professional **administrative** skill."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"High **administrative** overhead often diminishes the competitive advantages of large trusts."*

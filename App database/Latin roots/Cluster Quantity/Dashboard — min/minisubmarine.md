@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minisubmarine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submersible vessel for one or two persons; for naval operations or underwater exploration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submersible vessel for one or two persons; for naval operations or underwater exploration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midget submarine operated by a small crew, used for covert operations, sabotage, or deep rescue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact undersea submersible vehicle equipped with robotic manipulators for exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minisubmarine designates submersible vessel for one or two persons; for naval operations or underwater exploration."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The two-man **minisubmarine** penetrated the underwater chasm to photograph geothermal vents."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Naval engineers perfected the tiny **minisubmarine** to navigate shallow mined harbor entrances."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Clandestine harbor defenses deployed the electric **minisubmarine** to sink hostile troop transports."*

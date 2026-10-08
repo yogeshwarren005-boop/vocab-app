@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniaturise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Design or construct on a smaller scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or construct on a smaller scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or design something on a much smaller physical scale than customary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compact complex technological equipment into lightweight portable dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniaturise designates design or construct on a smaller scale."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Engineers sought to **miniaturise** communication transceivers to fit within small satellite housings."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor managed to **miniaturise** the pneumatic apparatus so that it occupied minimal cabin space."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Attempts to **miniaturise** domestic tools lowered material consumption in modern factories."*

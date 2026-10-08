@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minivan
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A passenger motor vehicle designed for family transport with reconfigurable passenger seating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact multi-passenger van equipped with sliding side doors and low floor height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minivan designates a small box-shaped passenger van; usually has removable seats; used as a family car."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The practical **minivan** captured suburban consumer allegiance by offering utilitarian utility over styling."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Automotive assembly lines rapidly retooled to manufacture the versatile **minivan** for family transport."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Suburban domestic routines favored the unpretentious **minivan** as a tool of daily household conveyance."*

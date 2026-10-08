@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minesweeper
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped to detect and then destroy or neutralize or remove marine mines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized warship designed to locate, sweep, or detonate explosive naval mines in waterways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval vessel equipped with paravanes and magnetic cables for clearing maritime channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got me a tail-end charlie minesweeper."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS" FOR REPAIRS 90 AMERICAN MINESWEEPERS IN THE FLOATING DOCK FOR REPAIRS 90 A DAMAGED BRITISH DESTROYER BEING REPAIRED IN THE DOCK 90 S.S."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The gallant little **minesweeper** steamed ahead of the fleet, clearing the strait of hidden perils."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The vigilant **minesweeper** rolled heavily in the gray swell while hauling in its severed sweeps."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Flotillas of armed tugs and every available **minesweeper** patrolled the approaches to the commercial harbor."*

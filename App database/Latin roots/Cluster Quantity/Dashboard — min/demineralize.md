@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # demineralize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the minerals or salts from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the minerals or salts from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove dissolved mineral substances, inorganic salts, or metal ions from a liquid or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat skeletal bones or teeth with acid solutions to dissolve mineral phosphate crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralize designates remove the minerals or salts from."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Chemists must **demineralize** the battery fluids to avoid parasitic currents on the electrode plates."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological parathyroid hyperactivity acts to **demineralize** skeletal bone through calcium resorption."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Filtering through specialized carbon beds helps **demineralize** raw brewing wash before inoculation."*

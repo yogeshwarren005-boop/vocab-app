@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # ministerial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a minister of religion or the minister's office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a government minister or ministry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a minister of religion, a government minister, or a ministry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to executive or administrative acts performed in obedience to lawful authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"There falls to be mentioned first a Memoir of his friend John Clark, who, after a brief and troubled ministerial career, had died of cholera in 1849."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"As in his own student days, the Hall met for only two months in each year, and the professors therefore did not need to give up their ministerial charges."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Although he had now no longer a ministerial charge of his own, he could not separate himself from the active work of the Church--he could not withdraw from contact with the Christian life which it manifested."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **ministerial** benches in the House of Commons erupted in loud cheering at the victory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon dressed with stiff **ministerial** gravity, wearing dark garments suited to a scholar."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judicial officers perform both discretionary judgments and routine **ministerial** duties."*

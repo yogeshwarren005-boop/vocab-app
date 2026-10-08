@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineworker
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laborer who works in a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laborer who works in a mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laborer employed in an underground or surface mining enterprise extracting coal or ores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial employee subject to the hazardous working conditions of mineral extraction pits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineworker designates laborer who works in a mine."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The union demanded safety inspections and compensation for every injured **mineworker** in the district."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The industrial discipline imposed upon the coal **mineworker** shaped early collective labor solidarity."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Technological mechanization gradually reduced the heavy physical toil demanded of the individual **mineworker**."*

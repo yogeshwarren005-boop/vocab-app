@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # prominent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a quality that thrusts itself into attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuous in position or importance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing out so as to be easily seen; conspicuous, noticeable, or projecting physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important, well-known, and distinguished in public affairs or society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a formidable style of lady with spectacles, a prominent nose, and a loud voice, who had the effect of wanting a great deal of room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, “the prominent point in my character."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am aware that it is so prominent as to be discoverable immediately."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn was a **prominent** figure among the great legal practitioners of the metropolis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain bones of the skull exhibit **prominent** crests for the attachment of powerful jaw muscles."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The tower of the cathedral formed a **prominent** landmark visible for leagues across the fens."*

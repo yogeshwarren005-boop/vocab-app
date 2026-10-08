@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # eminently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eminent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eminent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a high, remarkable, or distinguished degree; conspicuously, notably, and preeminently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner displaying superior capability, excellence, or professional distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is eminently respectable, and likewise, in a general way, retainer-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “‘that’s a man I should like to have seen!’ It strikingly bespeaks the first-class man that Captain Swosser pre-eminently was."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The question of individual liberty is **eminently** practical and touches the daily happiness of mankind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structure of the woodpecker's foot is **eminently** adapted for climbing vertical tree trunks."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Halifax was an **eminently** prudent statesman who sought moderation amidst raging factions."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minnow
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small european freshwater fish common in gravelly streams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small european freshwater fish common in gravelly streams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small freshwater fish of the carp family Cyprinidae; or any diminutive river fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or organization of petty insignificance compared with powerful rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There did I see that low-spirited swain, that base minnow of thy mirth—_ COSTARD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hear you this Triton of the **minnows**? mark you his absolute 'shall'?"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Shallow gravel shallows teemed with thousands of the common **minnow** darting from predators."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I looked into the clear water and watched a silvery **minnow** poised motionlessly above the sand."*

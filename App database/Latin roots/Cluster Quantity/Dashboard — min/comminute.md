@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # comminute
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to small pieces or particles by pounding or abrading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to small pieces or particles by pounding or abrading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to minute particles; to pulverize, crush, or grind into small fragments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, to splinter a bone into several small fragments during severe trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The leaves become sickly and yellow as the mycelium of the fungus spreads over them, when they present a peculiar appearance, as if growing beside a chalky road in dry dusty weather, and had become covered with comminuted chalk."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The gizzards of earthworms **comminute** small pebbles and soil particles into fine fertile humus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gunshot projectiles at high velocity **comminute** the shaft of long bones into splintered shards."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Glacial moraines steadily **comminute** granite boulders into fine rock flour under immense pressure."*

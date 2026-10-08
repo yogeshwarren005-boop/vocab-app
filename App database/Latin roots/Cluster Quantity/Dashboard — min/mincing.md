@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mincing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less severe or harsh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk daintily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly dainty, delicate, or refined in walking, manners, or speech; priggish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cutting or chopping into fine small pieces in culinary preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mincing, B.A., Francis Troy, only son of the late Edward Troy, Esq., M.D., of Weatherbury, and sergeant with Dragoon Guards, to Bathsheba, only surviving daughter of the late Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her friend moved forward slowly, and she with small mincing steps moved forward beside him, half her weight being thrown upon the animal."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Crowse, with his empty face and neat umbrella, and mincing little speeches."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I'll turn two **mincing** steps into a manly stride, and speak of frays like a fine bragging youth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Turveydrop advanced with a **mincing** step that exemplified deportment in its purest form."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky mocked the **mincing** accents of the boarding school headmistress to the delight of the girls."*

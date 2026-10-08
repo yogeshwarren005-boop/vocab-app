@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minibar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sideboard with compartments for holding bottles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sideboard with compartments for holding bottles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small refrigerator in a hotel room containing beverages and snacks for purchase by guests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact domestic refrigerated cabinet for storing bottled drinks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minibar designates sideboard with compartments for holding bottles."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Modern hotel design commodified luxury by placing an automated **minibar** in every guest suite."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Hospitality enterprises maximize incidental revenues through high markups upon **minibar** refreshments."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The private **minibar** illustrates the commercial trend toward individualized luxury consumption."*

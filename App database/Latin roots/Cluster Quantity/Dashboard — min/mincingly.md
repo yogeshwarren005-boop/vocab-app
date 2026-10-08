@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mincingly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mincing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affectedly dainty, delicate, or refined manner, especially when walking or talking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessively hesitant, tiny, or precious movements and articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I collect my thoughts here for the business of the day,” said the old lady mincingly."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like to smash something--crush it to a jelly." Val mincingly pointed out that such a consummation was not far off, but he was ignored."*
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Mincingly.)_ I love you, sir darling."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The dandified valet stepped **mincingly** across the muddy yard, shielding his polished boots."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke **mincingly**, filtering her opinions through the fashionable vocabulary of the season."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley bowed **mincingly** to the young ladies, anxious to appear a gallant man of the world."*

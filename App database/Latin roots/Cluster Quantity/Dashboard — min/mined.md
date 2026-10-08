@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mined
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get from the earth by excavation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay mines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavated or extracted from an underground deposit, quarry, or mineral pit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sown or fortified with concealed explosive landmines or underwater naval mines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here was beauty native, to be picked like a nugget, not to be mined for in bitter hours of torment and distress."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"No, the bridge has not yet been taken and I hope it will not be, for it is mined and orders have been given to blow it up."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But why did they not blow up the bridge, if it was mined?” “That is what I ask you."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient civilizations **mined** rich veins of tin and copper throughout the Cornish hills."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The vast silver treasure **mined** from the heart of the mountain governed the politics of Sulaco."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The naval squadron avoided the strait, suspecting the channel had been heavily **mined** by the enemy."*

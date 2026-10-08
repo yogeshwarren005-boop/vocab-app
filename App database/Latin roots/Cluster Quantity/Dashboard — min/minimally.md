@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimally
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a minimal degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a minimal degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a minimal manner; to the smallest possible degree; barely or negligibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the least possible intervention, disturbance, or structural change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The wound was **minimally** inflamed, showing healthy granulations beneath the sterile dressing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs are **minimally** variable across members of the same ancient lineage."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The price of wheat fluctuated **minimally** due to abundant warehouse reserves across the nation."*

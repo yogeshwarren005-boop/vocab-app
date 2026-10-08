@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # preeminent
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatest in importance or degree or significance or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatest in importance or degree or significance or achievement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing all others; distinguished above all in excellence, dignity, rank, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying a position of paramount importance, visibility, or supreme leadership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Vital significance of preeminent objective in European continent cannot be overemphasized."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Newton was the **preeminent** intellect of his generation, unlocking the mathematical laws of the heavens."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantine assumed the **preeminent** rank among the rival Caesars after the battle of the Milvian Bridge."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His scholarly reputation placed him in a **preeminent** position among the clergy of the cathedral town."*

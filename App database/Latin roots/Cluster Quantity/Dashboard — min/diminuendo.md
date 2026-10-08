@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminuendo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually decreasing in volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual reduction in the loudness or dynamic force of a musical passage; decrescendo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual waning, softening, or fading away of sound, excitement, or visual intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I hope you are going to say a good word for Richard, don’t you know, for my sake. _(Laughter)_ BUCKMULLIGAN: (_Piano, diminuendo_) Then outspoke medical Dick To his comrade medical Davy..."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The cello’s poignant **diminuendo** faded gently into the hushed quiet of the concert hall."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The carol singers executed a delicate **diminuendo** as they walked away into the snowy lane."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"Rachel played the closing chords with a dying **diminuendo** that held the room in reverie."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administratively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By or for an administrator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By or for an administrator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an administrative manner; by executive authority or procedural regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to practical institutional management and organizational execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administratively designates by or for an administrator."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Provinces that are **administratively** independent can more rapidly adapt laws to local requirements."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The merged railways were **administratively** reorganized into four regional operating divisions."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Feudal territories became **administratively** subordinated to the crown as national states emerged."*

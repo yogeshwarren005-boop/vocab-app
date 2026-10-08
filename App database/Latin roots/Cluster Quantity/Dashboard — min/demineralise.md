@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # demineralise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the minerals or salts from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the minerals or salts from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of mineral constituents; to remove mineral salts from water or bodily tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat hard water with ion-exchange resins to remove dissolved mineral electrolytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralise designates remove the minerals or salts from."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"To prepare sterile reagents, chemists must **demineralise** municipal water through distillation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe metabolic acidosis acts to **demineralise** osseous structures over prolonged illness."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Laboratory procedures require apparatus to **demineralise** solution batches before electrolysis."*

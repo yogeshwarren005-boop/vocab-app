@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminished
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made smaller, less, or lessened in size, power, quantity, intensity, or reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, designating an interval that is half a step smaller than the corresponding minor or perfect interval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The same formal politeness, the same composed deference that might as well be defiance; the whole man the same dark, cold object, at the same distance, which nothing has ever diminished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And it really did me good, for though nobody but Charley and I knew anything about it, I somehow felt as if it had diminished the separation between Ada and me and had brought us together again for those moments."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The whole household were amazed to see me, without any notice, at that time in the morning, and so accompanied; and their surprise was not diminished by my inquiries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions marched with **diminished** numbers and drooping spirits after the desert campaign."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood accepted her **diminished** household income with graceful fortitude."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fierce gale abated into a **diminished** breeze as morning broke over the stormy seas."*

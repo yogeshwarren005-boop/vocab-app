@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineralize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into a mineral substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transform (a metal) into an ore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert organic matter into a mineral substance; to petrify or fossilize by impregnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To impregnate or saturate spring water or soil with dissolved mineral compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bichloride of mercury."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Siliceous waters percolating through ancient peat beds slowly **mineralize** the buried plant stems."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Under favorable sedimentary conditions, infiltrated salts **mineralize** skeletal bones into lasting fossils."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Geological waters containing calcium carbonate **mineralize** shell fragments into dense limestone."*

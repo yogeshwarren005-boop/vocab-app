@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minion
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile or fawning dependant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servile or fawning dependant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servile, fawning, or obsequious follower or subordinate of a powerful person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a beloved favorite of a prince; or an ancient medium-sized artillery piece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you hear, you minion? you’ll let us in, I hope?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’ll cry for this, minion, if I beat the door down."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Like valour's **minion** carved out his passage till he faced the slave."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The worthless **minion** of the court was elevated to the highest civil dignity of the empire."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James lavished titles and confiscated estates upon his arrogant **minion** George Jeffreys."*

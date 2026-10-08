@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuartia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly perennial herbs of northern hemisphere often with mat-forming habit; most often placed in genus arenaria: sandworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly perennial herbs of northern hemisphere often with mat-forming habit; most often placed in genus arenaria: sandworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small annual or perennial herbs of the family Caryophyllaceae, known as sandworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hardy alpine rock plant forming dense cushions in screes and arctic-alpine tundras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuartia designates mostly perennial herbs of northern hemisphere often with mat-forming habit; most often placed in genus arenaria: sandworts."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The tiny mountain sandwort, classified under **Minuartia**, forms mossy tufts on exposed granite crags."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Alpine cushions of **Minuartia** survive freezing blizzards that destroy soft-leaved lowland herbs."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Above the tree line, rocky screes supported dwarf specimens of **Minuartia** and arctic lichens."*

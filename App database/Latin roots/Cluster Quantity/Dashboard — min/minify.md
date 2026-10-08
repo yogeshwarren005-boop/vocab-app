@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minify
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make smaller.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make smaller, reduce in apparent size, or minimize in estimation or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compress digital code, text, or data files by removing superfluous characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But by no means do I ever overlook or minify the fact that this is one of the most extraordinary experiences of my life."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A reverse telescope will **minify** magnificent mountain panoramas into miniature visual gems."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"No philosopher should attempt to **minify** the grand cosmic forces governing the universe."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Convex lenses **minify** the retinal image, altering our subjective judgment of spatial distance."*

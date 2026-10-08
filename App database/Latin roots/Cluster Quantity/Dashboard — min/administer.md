@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administer
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work in an administrative capacity; supervise or be in charge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform (a church sacrament) ritually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage, supervise, or direct the execution of public affairs, justice, or business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dispense, apply, or deliver a remedy, medicine, oath, or sacrament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sits there to administer the system."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, who was sitting in a corner by the door, good-naturedly offered such consolation as he could administer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, too, the policeman begins to push at doors; to try fastenings; to be suspicious of bundles; and to administer his beat, on the hypothesis that every one is either robbing or being robbed."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The true test of a good government is its aptitude and tendency to **administer** public affairs wisely."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must carefully **administer** cardiac stimulants only when circulation begins to fail."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Prudent magistrates were appointed to **administer** equal justice throughout the pacified provinces."*

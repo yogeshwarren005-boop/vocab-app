@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminutive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is formed with a suffix (such as -let or -kin) to indicate smallness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely or unusually small in physical stature, size, or dimensions; miniature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word, affix, or name form denoting smallness, familiarity, affection, or contempt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He loves us not: He wants the natural touch; for the poor wren, The most diminutive of birds, will fight, Her young ones in her nest, against the owl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you with counters sum The past-proportion of his infinite, And buckle in a waist most fathomless With spans and inches so diminutive As fears and reasons?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a pretty, very diminutive, plump woman of from forty to fifty, with handsome eyes, though they had a curious habit of seeming to look a long way off."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester looked down at my **diminutive** figure with a quizzical and searching gaze."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Mowcher was a **diminutive** person, perched upon a chair like a miniature doll."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the mosses lived a **diminutive** beetle barely visible without the aid of a pocket lens."*

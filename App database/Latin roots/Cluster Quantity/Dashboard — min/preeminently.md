@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # preeminently
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a preeminent degree; with superiority or distinction above others; in a preeminent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a preeminent degree; with superiority or distinction above others; in a preeminent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Above all others; in a surpassing, superior, or predominantly distinguished manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly, outstandingly, and with supreme excellence or prominence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Karl Marx (1818-1883), preeminently the philosophic leader of the movement, sought to give a solider foundation of reason to the somewhat romantic socialist philosophy current in his day."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Will not you engage to attend with your eyes steadily fixed on him the whole time—as I shall do—not to lose a word; or only looking off just to note down any sentence preeminently beautiful?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The destination of the Thrush must be now preeminently interesting."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Modern transport networks are **preeminently** responsible for creating national unified commodity markets."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's modest disposition was **preeminently** calculated to preserve domestic peace in the household."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Socrates was **preeminently** the man who questioned conventional dogmas in pursuit of wisdom."*

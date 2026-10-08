@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # administrivia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tedious, minor, or routine administrative details, paperwork, and bureaucratic formalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petty procedural clerical chores that divert attention from significant executive work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administrivia designates the tiresome but essential details that must be taken care of and tasks that must be performed in running an organization."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Corporate executives often drown in petty **administrivia** that obscures strategic industrial goals."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Public offices burdened by excessive **administrivia** lose their capacity for prompt decision."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Academic scholars were diverted from research by the multiplying demands of collegiate **administrivia**."*

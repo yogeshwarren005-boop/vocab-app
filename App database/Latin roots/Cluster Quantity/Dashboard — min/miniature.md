@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # miniature
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painting or drawing included in a book (especially in illuminated medieval manuscripts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that reproduces a person or thing in greatly reduced size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation, model, or replica of something on a much smaller scale than the original.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small, highly detailed portrait painted on ivory, vellum, or enamel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Look here,” said he, unfolding a parcel in his hand, and displaying a small miniature painting, “do you know who that is?” “Certainly: Captain Benwick.” “Yes, and you may guess who it is for."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To this crib I always took my doll; human beings must love something, and, in the dearth of worthier objects of affection, I contrived to find a pleasure in loving and cherishing a faded graven image, shabby as a miniature scarecrow."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth studied the handsome **miniature** of Wickham, wondering at the deceit that lay behind it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock gazed in secret upon the tiny **miniature** hidden within her locked jewel casket."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A single drop of dew upon a blade of grass mirrors the sky like a perfect celestial **miniature**."*

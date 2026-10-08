@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minacious
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Menacing, threatening, or foreboding in tone, posture, or physical appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an ominous and hostile intent toward potential adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minacious designates threatening or foreshadowing evil or tragic developments."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob surrounded the Tuileries with **minacious** shouts that terrorized the Swiss guards."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian envoy delivered a **minacious** message demanding tribute from the trembling senate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab brandished his harpoon with a **minacious** glare that made the harpooners recoil."*

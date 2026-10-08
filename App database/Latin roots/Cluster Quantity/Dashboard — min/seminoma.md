@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # seminoma
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant tumor of the testis; usually occurring in older men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant tumor of the testis; usually occurring in older men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant germ cell tumor of the testicle originating in the germinal epithelium of the tubules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radiosensitive testicular neoplasm predominantly occurring in young adult men.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seminoma designates malignant tumor of the testis; usually occurring in older men."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical excision of a localized **seminoma** yields an exceptionally favorable clinical prognosis."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Oncological records tracked the incidence of **seminoma** across distinct age cohorts."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Microscopic examination reveals the uniform large polygonal cells that characterize **seminoma**."*

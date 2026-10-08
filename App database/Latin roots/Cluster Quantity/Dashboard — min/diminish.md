@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # diminish
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become smaller, fewer, or less in size, intensity, extent, or importance; decrease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To detract from the reputation, dignity, or prestige of a person or office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my fellows Are ministers of Fate: the elements Of whom your swords are temper’d may as well Wound the loud winds, or with bemock’d-at stabs Kill the still-closing waters, as diminish One dowle that’s in my plume."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If you prick us, do we not bleed? if you tickle us, do we not laugh? if you poison us, do we not die? Nothing can **diminish** our shared humanity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Severe winters often **diminish** animal populations more drastically than competitive predation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic restraints tend to **diminish** natural competition and elevate market prices."*

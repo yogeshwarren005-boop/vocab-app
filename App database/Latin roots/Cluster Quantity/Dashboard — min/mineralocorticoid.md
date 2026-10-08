@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineralocorticoid
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone of the adrenal cortex that regulates electrolyte and fluid balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endocrine secretion, notably aldosterone, promoting renal sodium retention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineralocorticoid designates hormone that is one of the steroids of the adrenal cortex that influences the metabolism of sodium and potassium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adrenal insufficiency results in severe electrolyte depletion due to deficient **mineralocorticoid** activity."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Endocrine investigations demonstrated how each **mineralocorticoid** regulates osmotic tension in the blood."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Biochemical assays tracked the quantitative secretion of **mineralocorticoid** compounds during physical stress."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuscule
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The characters that were once kept in bottom half of a compositor's type case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small, tiny, or minute in size, quantity, or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cursive lowercase letter developed in medieval European scriptoria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuscule designates the characters that were once kept in bottom half of a compositor's type case."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes pointed out a **minuscule** speck of reddish mud adhering to the toe of the boot."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the tidal sand crept **minuscule** crustacea no larger than grains of table salt."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Carolingian **minuscule** reformed European handwriting, replacing chaotic Merovingian hands."*

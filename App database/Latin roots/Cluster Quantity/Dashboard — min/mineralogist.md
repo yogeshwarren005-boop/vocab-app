@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mineralogist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in mineralogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in mineralogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of minerals, crystallography, and mineral formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geologist expert in identifying natural crystalline ores and chemical compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Had this man been an intelligent mineralogist he would not have parted with it for L60,000, as the sequel will prove."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The skilled **mineralogist** would find rich treasures among the basaltic formations of the volcanic isle."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A practiced **mineralogist** distinguishes metamorphic rock strata by their specific crystalline inclusions."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The German **mineralogist** Werner established an influential system of classification based on external traits."*

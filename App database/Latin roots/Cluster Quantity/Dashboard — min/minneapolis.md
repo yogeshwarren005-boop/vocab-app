@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minneapolis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in Minnesota, located on the Mississippi River adjacent to the capital city of Saint Paul.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major Upper Midwest industrial and cultural center famed for historic flour milling at Saint Anthony Falls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable examples of profit-sharing in the United States are the Pillsbury Mills in Minneapolis, Procter and Gamble's soap-factories, in Ivorydale, Ohio, the Nelson Mfg."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable example of successful coöperation in America was in the cooper-shops in Minneapolis."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was treated by the best of physicians in New York, Minneapolis, and Duluth, and was finally given up as incurable, when I heard of Christian Science."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The flour mills of **Minneapolis** processed the hard spring wheat of the Dakota plains for world markets."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"We visited the thriving, bustling city of **Minneapolis**, marveling at the water power of the falls."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Great grain elevator syndicates centered in **Minneapolis** coordinated transcontinental cereal shipments."*

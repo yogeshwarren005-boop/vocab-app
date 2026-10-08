@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minaret
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender tower with balconies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender tower with balconies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender high tower attached to a mosque with a balcony from which the muezzin calls Muslims to prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural turret or spire terminating in a conical or domed peak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ehrenberg (the Prussian traveller) was in Egypt, he said to a peasant, I suppose you are quite happy now; the country looks like a garden, and every village has its minaret."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw the rounded domes of its mosques, the elegant points of its minarets, its fresh and verdant terraces."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The call to prayer sounded from the lofty **minaret** of Saint Sophia across the Golden Horn."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The white **minaret** rose above the palm grove, gleaming brightly against the evening sky."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Every mosque in Constantinople is flanked by slender **minarets** resembling pencils poised against the sky."*

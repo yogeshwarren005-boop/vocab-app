@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minstrel
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer of folk songs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer in a minstrel show.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval singer, musician, or poet who traveled from castle to castle performing heroic songs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poet or musician performing narrative verses to the accompaniment of a harp or lute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To phrase you and praise you, Ye ken your Laureat scorns: The pray’r still you share still Of grateful Minstrel Burns."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The way was long, the wind was cold, the **minstrel** was infirm and old; his withered cheek and tresses gray seemed to have known a better day."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Consort! what, dost thou make us **minstrels**? an thou make minstrels of us, look to hear nothing but discords."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The wandering **minstrel** struck his harp and sang of Horatius standing at the wooden bridge."*

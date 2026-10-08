@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minute
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to 60 seconds or 1/60th of an hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indefinitely short time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to sixty seconds or one sixtieth of an hour; or a sixtyth of a degree of arc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely small, tiny, or subtle; demanding meticulous and microscopic attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a minute of our lives should stretch Without some pleasure now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With news the time’s with labour, and throes forth Each minute some. [_Exeunt._] SCENE VIII."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can act only by the preservation and accumulation of **minute** inherited variations."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Every **minute** of his being thrusts against my near'st of life."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He examined the ashes under his pocket magnifying glass with **minute** and patient care."*

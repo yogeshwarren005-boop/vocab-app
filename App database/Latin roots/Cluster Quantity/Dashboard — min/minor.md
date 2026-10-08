@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person of either sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of lesser importance or stature or rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lesser in importance, seriousness, rank, or extent when compared with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person under the legal age of full responsibility and civil rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Only at meal times was this interrupted, for Apollonie did not look at this as a minor matter, and she carefully planned what to give her master."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to this point, and as to some minor topics, there are differences of opinion; but it is perfectly clear to the brilliant and distinguished circle, all round, that nobody is in question but Boodle and his retinue, and Buffy and HIS retinue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn,” returns Sir Leicester, “there can be no minor point between myself and Mr."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"The **minor** is spent, and the question settled without further disputation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **minor** fluctuation in grain harvests can cause severe distress among poorest laborers."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Contracts executed by a legal **minor** are voidable under Anglo-American common law."*

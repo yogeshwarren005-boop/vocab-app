@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minelayer
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped for laying marine mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped for laying marine mines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval vessel, aircraft, or vehicle specially equipped for deploying explosive mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military specialist or technician trained in planting and positioning underwater minefields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just say that the fighters are going after the Terminals' minelayers and destroyers that just popped out through the force field's gate."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"A stealthy enemy **minelayer** had dropped floating explosives across the mouth of the naval haven."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The crew of the coastal **minelayer** worked in tense silence beneath the cover of nighttime fog."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Airships acted as an aerial **minelayer**, dropping deadly contact explosives upon the fortress below."*

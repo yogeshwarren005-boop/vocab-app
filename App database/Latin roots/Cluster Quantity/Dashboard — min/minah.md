@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minah
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical asian starlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical asian starlings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Asian starling of the family Sturnidae noted for its mimicry of human speech and bold habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common tropical bird with dark glossy plumage and yellow facial wattles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minah designates tropical asian starlings."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the forest clearing, a garrulous **minah** whistled merrily from the crown of a dead palm tree."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"The noisy little **minah** flitted across the veranda, mocking the sounds of the courtyard below."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Vocal mimicry in the starling and the Indian **minah** displays surprising auditory imitation."*

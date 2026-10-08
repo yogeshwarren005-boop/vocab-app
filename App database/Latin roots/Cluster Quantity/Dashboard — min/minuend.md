@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minuend
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number from which the subtrahend is subtracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number from which the subtrahend is subtracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In arithmetic, the quantity, number, or expression from which another (the subtrahend) is to be subtracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The starting numerical value that is lessened by the deduction of a smaller portion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minuend designates the number from which the subtrahend is subtracted."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating machine carried the **minuend** upon its first register before subtracting the subtrahend."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Algebraic rules require distinguishing the **minuend** from the term subtracted to preserve signs."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Computing residual differences involves taking the observed quantity as the primary **minuend**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mining
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of extracting ores or coal etc from the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laying explosive mines in concealed places to destroy enemy personnel and equipment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industry, business, or process of extracting coal, ores, and minerals from the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military operation of laying subterranean or naval explosive mines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will but skin and film the ulcerous place, Whilst rank corruption, mining all within, Infects unseen."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Doak, of Calveras County, living on the road between San Andreas and Stockton, and not far from the mining town of Campo Seco, or Dry Camp."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago the sleepy little university town of Berkeley was shocked by the murder of Professor Haskell in one of the laboratories of the Mining Building."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The lottery of precious **mining** has impoverished far more adventurers than it has enriched."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We passed several copper **mining** villages situated in the arid ravines of the northern Andes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries resorted to subterranean **mining** to bring down the massive masonry ramparts."*

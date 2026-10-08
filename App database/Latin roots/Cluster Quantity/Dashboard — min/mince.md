@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # mince
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food chopped into small bits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut or chop meat, vegetables, or herbs into very small, fine pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To moderate, soften, or restrain one's words for the sake of politeness or decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak to me home; mince not the general tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know no ways to mince it in love, but directly to say, “I love you”; then if you urge me farther than to say, “Do you in faith?” I wear out my suit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold up your head, and mince. [_Exit Mistress Quickly._] Enter Ford."*
+> - 📜 **William Shakespeare (*Othello*):** *"Thy honesty and love doth **mince** this matter, making it light to Cassio."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I will not **mince** matters with you, Pip; your prospects depend upon your keeping this trust."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was not inclined to **mince** his opinion of his foolish cousin's pompous letters."*

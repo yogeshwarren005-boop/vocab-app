@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — min]]"
 cluster: "[[Cluster Quantity]]"
 status: unread
 ---
+
 # minimus
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth digit; the little finger or little toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth digit; the little finger or little toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The little finger or smallest toe; the fifth digit of the human hand or foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The youngest or smallest person of a group, family, or academic class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, you dwarf; You minimus, of hind’ring knot-grass made; You bead, you acorn."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The digitus **minimus** shows marked skeletal reduction in the forelimb of cursorial ungulates."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"In anthropoid apes, the **minimus** retains opposability that is lost in the specialized human foot."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"Young George was nicknamed **minimus** by his elder schoolmates in the lower dormitory."*

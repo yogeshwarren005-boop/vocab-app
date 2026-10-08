@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining or glowing by night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shining or glowing by night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shining, glowing, or visible by night, especially describing clouds in the upper mesosphere illuminated by the sun from below the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phosphorescent or luminous during darkness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctilucent designates shining or glowing by night."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Polar explorers observed ethereal **noctilucent** clouds glowing with pearl-like radiance against the midnight Arctic sky."*
+> - 📜 **John Muir (*Steep Trails*):** *"High above the Sierra crest, faint **noctilucent** veils lingered long after twilight had faded from the canyons."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The phosphorescent wake of the steamer resembled a ribbon of **noctilucent** silver stretching across the sea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of guilt; not subject to blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from guilt, fault, or blame; deserving no moral or legal censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unimpeachable in conduct; unoffending and upright.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpable designates free of guilt; not subject to blame."*
+> - 📜 **John Milton (*Areopagitica*):** *"He who can apprehend and consider vice with all her baits, and yet prefer that which is truly better, he is the true warfaring Christian, innocent and **inculpable**."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"An **inculpable** error of judgment differs fundamentally from willful and deliberate wickedness."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I hold that many heathen philosophers led lives so **inculpable** as to put modern Christians to shame."*

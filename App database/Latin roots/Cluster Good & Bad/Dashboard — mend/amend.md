@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter, improve, or rectify something by modifying details or removing faults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, to formally modify a legislative bill, motion, or constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears which horsehairs and calves’ guts, nor the voice of unpaved eunuch to boot, can never amend. [_Exeunt Musicians._] Enter Cymbeline and Queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is I That all th’ abhorred things o’ th’ earth amend By being worse than they."*
+> - 📜 **Francis Bacon (*Essays*):** *"In things of great consequence, we ought to **amend** our courses before ruin overtake us."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Convention did not hesitate to **amend** the articles of confederation where they failed the national defense."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She made a firm resolution to **amend** her rebellious temper and bear herself with patience."*

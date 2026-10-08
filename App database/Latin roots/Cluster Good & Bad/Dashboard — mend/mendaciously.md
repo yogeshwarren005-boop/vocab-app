@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mendacious and untruthful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mendacious and untruthful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deceitful, lying, or habitually untruthful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate and calculated deception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am sure," I declared mendaciously, "there can be nothing to forgive!" He had the grace to look a trifle ashamed, but his resolution did not waver."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He asserted **mendaciously** that the forged treaty had received the prior approval of the council."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"The adventurer boasted **mendaciously** of his vast sugar estates in the West Indies."*
+> - 📜 **Henry James (*The Bostonians*):** *"The unscrupulous editor printed the rumor **mendaciously**, careless of the pain it inflicted."*

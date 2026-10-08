@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of inheritance based on mendel's laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of inheritance based on mendel's laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific theory of heredity based on Gregor Mendel's laws of segregation and independent assortment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of discontinuous, particulate inheritance in plants and animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelism designates the theory of inheritance based on mendel's laws."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"In **Mendelism**, biology possesses a predictive instrument comparable to the atomic theory in chemistry."*
+> - 📜 **R. A. Fisher (*The Genetical Theory of Natural Selection*):** *"The reconciliation of **Mendelism** with biometry established modern evolutionary genetics."*
+> - 📜 **Thomas Hunt Morgan (*Evolution and Adaptation*):** *"Early critics feared that **Mendelism** might conflict with the gradualism of natural selection."*

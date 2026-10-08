@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who perpetrates wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who perpetrates wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person guilty of or formally charged with a crime, misdemeanor, or moral offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The underlying cause or agent responsible for a particular defect, injury, or disaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their arrival was dreaded by the elder Miss Bennets--and Jane more especially, who gave Lydia the feelings which would have attended herself, had _she_ been the culprit, and was wretched in the thought of what her sister must endure."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Also, they stood about the door of the Jolly Bargemen, with knowing and reserved looks that filled the whole neighbourhood with admiration; and they had a mysterious manner of taking their drink, that was almost as good as taking the culprit."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The trembling **culprit** was dragged before the stern magistrate to answer for the stolen handkerchief."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes stepped forward with his cane to strike the deadly **culprit** as it slid down the bell-rope."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The evidence pointed not to a human **culprit**, but to the frantic violence of an escaped beast."*

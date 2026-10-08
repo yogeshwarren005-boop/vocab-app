@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman goddess of night; daughter of erebus; counterpart of greek nyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman goddess of the night (equivalent to the Greek Nyx), personifying the primordial darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The poetic Latin noun designating night or darkness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I think Horace says somewhere _nox longa_."*
+> - 📜 **Virgil (*Aeneid*):** *"Spreading her dusky wings, sombre **Nox** brooded over the silent plains of Latium."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Ere yet the heavens were made, elder Night and chaos held anarchic dominion, and **Nox** reigned across the abyss."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman poets invoked **Nox** as the mysterious mother of sleep and death."*

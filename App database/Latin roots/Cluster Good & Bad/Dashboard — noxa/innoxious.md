@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no adverse effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no adverse effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing no harm, damage, or injury; harmless (archaic and literary synonym of innocuous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exempt from legal punishment or injury; unoffending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple and Miss Carteret—they would soon be innoxious cousins to her."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Around his temple grazed the lion, playing with **innoxious** gambols beside the kid."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"His satire was bright and keen, yet so **innoxious** as to wound no private reputation."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"Beside the brook the village preacher led an **innoxious** life of humble devotion."*

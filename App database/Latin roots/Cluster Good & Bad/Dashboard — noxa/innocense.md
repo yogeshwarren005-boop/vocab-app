@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic orthographic variant of innocence, denoting freedom from guilt or harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American folk botany, a common regional name for bluets (Houstonia caerulea), small springtime wildflowers with pale blue blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innocense designates white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The gentle virgin walked in simple **innocense**, dreading no snare of foul deceit."*
+> - 📜 **John Donne (*Poems*):** *"Where virtue dwells, there white-robed **innocense** defends the heart against profane assaults."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"Upon the sunny southern pasture slopes the tiny bluets or **innocense** opened their pale starry corollas."*

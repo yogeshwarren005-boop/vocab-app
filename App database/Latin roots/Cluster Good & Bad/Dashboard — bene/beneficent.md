@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or producing good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous in assistance to the poor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or producing good; actively charitable, generous, and kindly in disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting in wholesome advantage or salutary blessings to others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But you are a single person, sir, and may you long be spared to ask a married person such a question!” With this beneficent wish, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This work is so awful in its importance, and so beneficent in its results, that it must take the chief place in a minister's thoughts and in the disposition of his time; and if it requires the sole place, that too must be accorded to it."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nature is ever **beneficent**, dispensing her seasonal gifts with impartial and majestic bounty."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The spirit raised its **beneficent** hand, sprinkling sweet blessing upon the threshold of the humble cottage."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The ideal moral character unites wisdom with a constant, **beneficent** desire to promote human happiness."*

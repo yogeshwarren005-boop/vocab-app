@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistflower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mistflower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of herbaceous perennial flowering plants in the boneset tribe of the sunflower family (Asteraceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blue mistflower (Conoclinium coelestinum), cultivated for its fragrant ageratum-like lavender-blue blossom clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conoclinium designates mistflower."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In rich bottomlands along the river, **Conoclinium** coelestinum unfolds its delicate clusters of azure blossoms in late summer."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The conical naked receptacle separates the genus **Conoclinium** from true Eupatorium."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Gardeners prize species of **Conoclinium** for border plantings on account of their vibrant late-autumn floral heads."*

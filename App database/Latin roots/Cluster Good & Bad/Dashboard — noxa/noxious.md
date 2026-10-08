@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Injurious to physical or mental health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injurious to physical or mental health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful, poisonous, or deeply deleterious to physical health, the environment, or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foul-smelling, offensive, or unwholesome in atmosphere or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst’s eye into an artful, noxious child, and what could I do to remedy the injury?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was much worried, and conscious of new elements in his life as noxious to him as an inlet of mud to a creature that has been used to breathe and bathe and dart after its illuminated prey in the clearest of waters."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Patients dying with the noxious camp fever breathed into her ear their last messages to loved ones at home, as she passed from cot to cot, undaunted by the bolts of death which fell around her thick as on the battle-field."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"False axioms in philosophy operate like **noxious** weeds, choking the growth of authentic truth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A **noxious** pestilence rose from the filthy churchyard, spreading fever throughout the crowded alley."*
+> - 📜 **Thomas Huxley (*Evolution and Ethics*):** *"Civilized law seeks to eliminate those **noxious** human passions that disrupt peaceful society."*

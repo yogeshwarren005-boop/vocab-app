@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable public reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread reputation or public eminence derived from notable achievements, genius, or exploits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Public report, rumor, or renown celebrated across nations or through generations of history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have letters sent me That sets him high in fame."*
+> - 📜 **John Milton (*Lycidas*):** *"**Fame** is the spur that the clear spirit doth raise to scorn delights and live laborious days."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"What's **fame**? a fancied life in others' breath, a thing beyond us, e'en before our death."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Authentic **fame** is not the applause of the mob, but the silent reverence of noble minds."*

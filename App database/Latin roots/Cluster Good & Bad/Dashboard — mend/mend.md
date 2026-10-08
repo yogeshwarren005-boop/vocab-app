@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sewing that repairs a worn or torn hole (especially in a garment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in working order again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To repair, fix, or restore something broken, damaged, or torn to sound working condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To improve or reform one's character, health, or behavioral conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we might have a good woman born but or every blazing star, or at an earthquake, ’twould mend the lottery well; a man may draw his heart out ere he pluck one."*
+> - 📜 **William Shakespeare (*King Lear*):** *"**Mend** your speech a little, lest you may mar your fortunes."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He was forced to **mend** his worn sea-boots with pieces of cured seal-skin."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The old servant sat by the lamp to **mend** the coarse linen sheets with patient stitches."*

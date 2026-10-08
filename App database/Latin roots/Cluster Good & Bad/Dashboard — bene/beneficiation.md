@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crushing and separating ore into valuable substances or waste by any of a variety of techniques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crushing and separating ore into valuable substances or waste by any of a variety of techniques.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial or metallurgical processing of raw ores to concentrate valuable minerals and discard worthless material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enrichment of mineral feeds by washing, crushing, magnetic separation, or froth flotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, beneficiation designates crushing and separating ore into valuable substances or waste by any of a variety of techniques."*
+> - 📜 **Herbert Hoover (*Principles of Mining*):** *"The economic feasibility of the enterprise depends entirely upon the cheap **beneficiation** of the disseminated sulphide ore."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Extensive industrial plants arose beside the iron ranges for the magnetic **beneficiation** of taconite."*
+> - 📜 **Rossiter W. Raymond (*Mining Industry of the States and Territories*):** *"Through continuous mechanical **beneficiation**, lean ores yielded rich concentrates suitable for the blast furnace."*

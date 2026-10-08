@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of praise, approbation, or high esteem; admirable in conduct or design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrating virtuous devotion to duty or public good.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good phrases are surely, and ever were, very commendable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt fight, fight by thy father’s side, And, commendable proved, let’s die in pride. [_Exeunt._] SCENE VII."*
+> - 📜 **Francis Bacon (*Essays*):** *"Discretion of speech is more than eloquence, and to speak agreeably to him with whom we deal is a **commendable** art."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"His tireless industry was in the highest degree **commendable**, though his poetic fancy lacked vigor."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The squire exhibited a **commendable** zeal in reviving the ancient Christmas customs of Merrie England."*

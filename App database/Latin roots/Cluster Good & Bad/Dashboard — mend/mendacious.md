@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to lying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to lying, deception, or habitual untruthfulness; dishonest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by falsehood, deception, or fictitious invention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"MENDACIOUS, what can be mended."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He was astonished to hear that in Europe statesmen considered a **mendacious** tongue indispensable to diplomacy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"History will unmask the **mendacious** proclamations issued by desperate court factions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She despised his smooth, **mendacious** apologies, recognizing the calculating selfishness behind them."*

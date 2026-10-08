@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Push for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express a good opinion of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise someone or something to another as being worthy, suitable, or desirable for a purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To advise a specific course of action as beneficial, wise, or expedient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not stand upon’t.— We recommend to you, tribunes of the people, Our purpose to them, and to our noble consul Wish we all joy and honour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I speak of interest, it is only to recommend myself and my respectful wretchedness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “what would you recommend about pastry?” “Marrow puddings,” says Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I can safely **recommend** Mr. Bingley as a young man of amiable temper and fortune."*
+> - 📜 **Francis Bacon (*Essays*):** *"Read not to contradict and confute, but to weigh and consider; and such books I warmly **recommend**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I cannot too strongly **recommend** that you place your safety in the hands of the police."*

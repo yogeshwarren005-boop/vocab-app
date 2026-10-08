@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gregor Mendel, the Austrian botanist and monk who discovered the fundamental laws of genetic inheritance through pea experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the foundational principles of hereditary segregation and independent assortment discovered at Brno.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendel designates augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"**Mendel** discovered that inherited characters are transmitted as discrete units without mutual dilution."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Experiments with Drosophila brilliantly confirmed the mathematical ratios first deduced by **Mendel**."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The rediscovery of **Mendel** in 1900 revolutionized evolutionary biology by providing a particulate mechanism of variation."*

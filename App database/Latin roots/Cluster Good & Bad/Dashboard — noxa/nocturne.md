@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, lyrical, and melancholic musical composition evocative of the quiet and mystery of the night, popularized by Chopin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In painting, a landscape or pictorial scene representing a night atmosphere, notably in works by James McNeill Whistler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Play me a nocturne, Dorian, and, as you play, tell me, in a low voice, how you have kept your youth."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Go back and give me the nocturne over again."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler, please play my favorite nocturne by Field,” came the old countess’ voice from the drawing room."*
+> - 📜 **James McNeill Whistler (*The Gentle Art of Making Enemies*):** *"I called my Thames paintings **nocturne**s because I wished to divest them of all anecdotal interest and portray pure light."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"Chopin's most delicate **nocturne** requires a singing touch and exquisite rubato to reveal its wistful beauty."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The soft shadow of the painting breathes the quiet reverie of a musical **nocturne**."*

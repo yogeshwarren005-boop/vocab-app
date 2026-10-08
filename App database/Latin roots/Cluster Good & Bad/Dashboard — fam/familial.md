@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of a family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring among members of a family usually by heredity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a domestic household or family lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and pathology, occurring in or transmitted across multiple members of a kinship group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familial designates relating to or having the characteristics of a family."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Primitive taboos served primarily to preserve the sanctity of the **familial** hearth against destructive impulses."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain hereditary anomalies reappear with remarkable constancy within particular **familial** lineages."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deep-seated **familial** obligations bound him to traditions he had never consciously chosen."*

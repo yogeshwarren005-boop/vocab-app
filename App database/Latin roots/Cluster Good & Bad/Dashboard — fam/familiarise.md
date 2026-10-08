@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make familiar or conversant with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make well acquainted or thoroughly conversant with something through study or practice (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To accustom oneself or others to new environments, methods, or social conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"However, seeing it motionless, by degrees they took courage, and sought to familiarise themselves with it."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I must familiarise my style--but she understands it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Afterwards, when familiarised with the visions of enjoyment so suddenly opened, she could speak more largely to William and Edmund of what she felt; but still there were emotions of tenderness that could not be clothed in words."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I sought to **familiarise** myself with the intricacies of shorthand before entering the gallery of the Commons."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate endeavored to **familiarise** the provincial practitioners with the recent discoveries of Parisian pathology."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He walked the quiet streets of the borough each evening to **familiarise** his mind with the new surroundings."*

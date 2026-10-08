@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To congratulate someone on an achievement, good fortune, or happy event; archaically, to make happy or fortunate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and correspondence, to offer polite, ceremonial expressions of praise and shared joy upon an auspicious occasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To congratulate someone on an achievement, good fortune, or joyful occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express happiness or felicitations on someone else's well-being or prosperity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I came to **felicitate** you on your approaching nuptials with my nephew, though I can hardly credit the report."*
-> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senate hastened to **felicitate** the victorious emperor upon the suppression of the dangerous revolt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The legal suitors gathered around the fortunate heir to **felicitate** him on the sudden favorable decree."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The senate hastened to **felicitate** the young prince on his peaceful accession to the purple."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She wished to **felicitate** him on the joyful prospect, but prudence checked her tongue."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"All the ambassadors of Europe arrived at Versailles to **felicitate** the monarch upon his recent victories."*

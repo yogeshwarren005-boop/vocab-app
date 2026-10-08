@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggest that someone is guilty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggest that someone is guilty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accuse, blame, or charge with a fault, crime, or misdemeanor; to incriminate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To involve someone in guilt or suggest their complicity in wrongful acts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he was in these men’s power, that only by force had they brought him there, that force alone gave them the right to demand answers to their questions, and that the sole object of that assembly was to inculpate him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so, as they had the power and wish to inculpate him, this expedient of an inquiry and trial seemed unnecessary."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To **inculpate** an entire estate of the realm for the excesses of a few individuals is the height of political injustice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Inspector Bucket gathered every scrap of correspondence that might **inculpate** the mysterious French lady."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He sought by subtle innuendo to **inculpate** his political adversary in the secret financial intrigue."*

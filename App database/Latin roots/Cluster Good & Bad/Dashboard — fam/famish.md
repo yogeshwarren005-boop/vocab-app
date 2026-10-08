@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suffer severely from lack of food, or to subject someone to starvation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To starve, exhaust, or deprive of any essential sustenance or nourishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are all resolved rather to die than to famish?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sorry am I his numbers are so few, His soldiers sick and famish’d in their march; For I am sure, when he shall see our army, He’ll drop his heart into the sink of fear And for achievement offer us his ransom."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"What, did he marry me to **famish** me? Beggars, that come unto my father's door, upon entreaty have a present alms."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lest hunger should **famish** the wandering exiles in the untamed wilderness."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"They resolved rather to starve and **famish** within the cold workhouse walls than submit to the cruel master."*

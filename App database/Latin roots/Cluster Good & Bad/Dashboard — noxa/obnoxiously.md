@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an obnoxious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an obnoxious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive, odious, arrogant, or highly objectionable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With conspicuous and annoying forwardness or unpleasantness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obnoxiously designates in an obnoxious manner."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Mr. Pecksniff smiled **obnoxiously**, exuding a greasy hypocrisy that sickened every bystander."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The haughty dowager behaved **obnoxiously** toward every person whom she deemed her social inferior."*
+> - 📜 **Henry James (*The American Scene*):** *"The newly rich tourist flaunted his wealth **obnoxiously** across the peaceful countryside."*

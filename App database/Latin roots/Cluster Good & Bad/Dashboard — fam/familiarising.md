@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to make familiar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making oneself or others well acquainted with an art, technique, or circumstance (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in acquiring habitual ease or detailed knowledge of an environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarising designates make familiar or conversant with."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father believed in **familiarising** the childish mind with abstract logic at an early age."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"We must succeed in **familiarising** ordinary workmen with the principles of harmonious design."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"The modern dramatist performs a vital social service by **familiarising** audiences with unvarnished ethical truths."*

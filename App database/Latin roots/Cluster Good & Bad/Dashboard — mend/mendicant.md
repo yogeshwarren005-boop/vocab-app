@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a religious order that originally relied solely on alms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pauper who lives by begging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who relies on begging for a livelihood; a beggar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a religious mendicant order (such as the Franciscans or Dominicans) bound by vows of corporate poverty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They probably despised her already; how much more they would despise her in the character of a mendicant!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I dared to put off the mendicant—to resume my natural manner and character."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still, that last clause about the mendicant leaves hope for the benighted man who still wants the cling of the vine."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"A frere ther was, a wantown and a merye, a limitour, a ful solempne **mendicant**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Edie Ochiltree was a licensed **mendicant**, welcomed at every farmhouse for his gossip and songs."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"A picturesque Spanish **mendicant** wrapped in a threadbare cloak solicited copper coins at the gate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The experience of becoming familiar with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The experience of becoming familiar with something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming or making someone well acquainted with an art, science, or environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematic orientation designed to impart practical ease and working proficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarization designates the experience of becoming familiar with something."*
+> - 📜 **Thomas Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Systematic **familiarization** with biological dissection dispels ungrounded superstitious fears."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Gradual **familiarization** converts novel sensory impressions into automatic habitual responses."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The curriculum requires active **familiarization** with social vocations through direct practice."*

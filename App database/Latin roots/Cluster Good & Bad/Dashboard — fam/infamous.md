@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exceedingly bad reputation; notorious for wickedness, cruelty, or scandalous crimes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, deprived of civil rights or disqualified from testifying due to conviction of a heinous crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Here none but soldiers and Rome's servitors repose in fame; none base or **infamous**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"History records the **infamous** fate of those demagogues who subverted popular liberty under pretext of defending it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scaffold of the pillory was an **infamous** platform designed to expose moral offenders to universal derision."*

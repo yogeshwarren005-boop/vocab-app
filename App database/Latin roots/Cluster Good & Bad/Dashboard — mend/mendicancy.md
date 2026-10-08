@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a beggar or mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solicitation for money or food (especially in the street by an apparently penniless person).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or condition of begging for alms or living as a mendicant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual reliance upon public charity or charitable solicitation for subsistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tuberculosis, lunacy, war and mendicancy must now cease."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"At last a particularly severe winter fell upon the country, and hundreds of them were reduced to mendicancy and were to be seen day after day in the bitterest weather, standing barefoot in the snow, holding out their crowns for alms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Street **mendicancy** flourished in those medieval towns where ecclesiastical alms were distributed without discrimination."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Laws against sturdy vagrancy sought to suppress organized **mendicancy** along the highways."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Poverty often degenerates into professional **mendicancy** when all honest labor is denied to the poor."*

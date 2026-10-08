@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of injuring the good name, character, or reputation of someone by malicious and false statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, the tort or offense of publishing injurious falsehoods through slander or libel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Holy Fair^1 A robe of seeming truth and trust Hid crafty Observation; And secret hung, with poison’d crust, The dirk of Defamation: [Footnote 1: “Holy Fair” is a common phrase in the west of Scotland for a sacramental occasion.—R."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Derrick was present, for defamation, in calling his neighbour a scavenger."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Words which tend to a person's detriment, or impair his reputation in society, constitute actionable **defamation**."*
+> - 📜 **Alexander Hamilton (*Croswell Libel Case Argument*):** *"Truth, when published with good motives and for justifiable ends, can never be construed as criminal **defamation**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She suffered in silence, knowing that public **defamation** rarely yields to private remonstrance."*

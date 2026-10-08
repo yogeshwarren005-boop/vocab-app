@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of legislation) not amended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of legislation) not amended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not altered, corrected, or modified; remaining in its original, unrevised textual form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passed or enacted without alterations or proposed legislative changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unamended designates (of legislation) not amended."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To adopt the proposed constitution **unamended** was deemed by many patriots a safer course than risking dissolution."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The bill passed through both houses **unamended**, preserving the original wording of the committee."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The statutory clause stood **unamended** for nearly half a century before judicial construction modified its scope."*

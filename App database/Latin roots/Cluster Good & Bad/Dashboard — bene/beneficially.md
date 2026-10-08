@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beneficial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beneficial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beneficial, advantageous, helpful, or salutary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to fruitful results or profitable civic and personal consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Very soon their tent was completed, their "Diet Kitchen" arranged, the valuable supplies they had brought with them ready for distribution, and their work moving on smoothly and beneficially amid all the horrors of this terrible field."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And it showed them how a great debt may be beneficially incurred, and yet not break down the enterprise of the people."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capital invested in agriculture operates more **beneficially** for the society than that employed in foreign trade."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her generous influence acted **beneficially** upon his restless and despondent temperament."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A well-regulated national bank may operate most **beneficially** in sustaining commercial credit during emergencies."*

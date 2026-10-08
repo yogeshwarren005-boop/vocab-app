@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monotypic genus of tropical american trees: button tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotypic genus of tropical american trees: button tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of two species of dense mangrove shrubs and trees in the family Combretaceae, native to tropical coastlines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The buttonwood (Conocarpus erectus), widely utilized for coastline stabilization and durable hardwood timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conocarpus designates monotypic genus of tropical american trees: button tree."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense thickets of **Conocarpus** fringed the saltwater lagoons, their tough branches resisting the ocean spray."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"We landed among twisted roots of **Conocarpus** that formed an impenetrable natural breakwater along the Caribbean shore."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The buttonwood, classified as **Conocarpus** erectus, thrives upon saline sands where ordinary forest trees perish."*

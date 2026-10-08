@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of mendelism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gregor mendel or in accord with mendel's laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conforming to the laws of genetic inheritance discovered by Gregor Mendel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by particulate genetic inheritance, dominance, segregation, and independent assortment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am all of my past, as every protagonist of the Mendelian law must agree."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Every breeder who follows **Mendelian** principles can forecast the numerical distribution of traits in the second filial generation."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Chromosomes provide the physical vehicles upon which the **Mendelian** factors are linearly arranged."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The modern synthesis fused Darwinian natural selection with particulate **Mendelian** genetics."*

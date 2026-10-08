@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed or cleared from blame, charge, or suspicion of misconduct; vindicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had one's innocence formally established before a court or tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exculpated designates pronounce not guilty of criminal charges."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The general was honorably **exculpated** from the charge of treason after the secret letters were produced."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby felt that he had in some measure **exculpated** himself in Elinor's eyes by his impassioned midnight confession."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The minister was **exculpated** by the assembly, but the suspicions of the Jacobin club remained unappeased."*

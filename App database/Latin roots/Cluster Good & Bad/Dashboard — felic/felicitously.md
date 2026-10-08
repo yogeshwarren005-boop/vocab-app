@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a well-chosen, apt, graceful, or suitably fortunate manner; pleasingly and appropriately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, expressing ideas with remarkable appropriateness, rhetorical tact, and aesthetic balance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a well-chosen, apt, graceful, or delightfully appropriate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With exceptional good fortune or harmonious suitability to the situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The orator touched **felicitously** upon the ancient traditions that bound the estates of the realm together."*
-> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen chooses her words so **felicitously** that not a syllable can be altered without marring the rhythm."*
-> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher remarked **felicitously** that clothes are the visible emblems of invisible spiritual realities."*
+> - 📜 **Thomas De Quincey (*Essays on the Poets*):** *"Hazlitt **felicitously** compared the eloquence of Burke to a magnificent tapestry woven of gold and crimson."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet has **felicitously** caught the fleeting twilight glow upon the Tuscan hills."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"No author has ever more **felicitously** blended philosophical analysis with psychological suspense."*

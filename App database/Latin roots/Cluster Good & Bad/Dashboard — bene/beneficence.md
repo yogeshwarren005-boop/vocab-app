@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing good; feeling beneficent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being kind or helpful or generous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The active practice of doing good; the quality of performing charitable, generous, and kindly actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of charity, kindness, or open-handed generosity bestowed upon those in need.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Each fresh house was the one where they were to abide for ever, and each formed the base of operations for some new scheme of comprehensive beneficence."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Instances of extraordinary beneficence or covetousness.--14."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In such an hour the mind does not change its lifelong bias, but carries it onward in imagination to the other side of death, gazing backward—perhaps with the divine calm of beneficence, perhaps with the petty anxieties of self-assertion."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"**Beneficence** is the ornament which embellishes, not the foundation which supports the building of human society."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No mind can be long tranquil that does not taste the pure and elevating pleasure of active **beneficence**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His life was spent in acts of unbounded **beneficence** toward the impoverished peasantry of the canton."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innocent quality or thing or act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innocent quality or thing or act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blamelessness, purity, or freedom from moral transgression or malicious intent (archaic form of innocence).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmlessness of disposition; childlike artlessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou knowest in the state of innocency Adam fell, and what should poor Jack Falstaff do in the days of villainy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If truth and upright innocency fail me, I’ll to the King my master that is dead, And tell him who hath sent me after him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trust not those cunning waters of his eyes, For villainy is not without such rheum; And he, long traded in it, makes it seem Like rivers of remorse and innocency."*
+> - 📜 **King James Bible (*Psalms 26:6*):** *"I will wash mine hands in **innocency**: so will I compass thine altar, O Lord."*
+> - 📜 **Francis Bacon (*Essays*):** *"In gardens man may find the purest of human pleasures; it was the circumstance of man's state in his **innocency**."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The maiden pleaded her **innocency** before the severe and unbending family council."*

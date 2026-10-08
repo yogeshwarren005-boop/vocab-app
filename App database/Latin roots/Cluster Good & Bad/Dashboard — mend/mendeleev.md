@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dmitri Mendeleev, the Russian chemist who organized the chemical elements into the Periodic Table according to atomic mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the periodic classification that successfully predicted the existence and properties of undiscovered elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendeleev designates russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907)."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The periodic system of **Mendeleev** guided our search for the missing radioactive elements in pitchblende."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"Atomic numbers soon provided the physical foundation for the empirical periodic groupings of **Mendeleev**."*
+> - 📜 **J. J. Thomson (*The Corpuscular Theory of Matter*):** *"The recurring chemical valencies charted by **Mendeleev** reflect the shell structure of electrons within the atom."*

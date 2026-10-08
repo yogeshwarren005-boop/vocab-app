@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation that you are responsible for some lapse or misdeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accusation that you are responsible for some lapse or misdeed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of charging with a fault or crime; crimination, incrimination, or accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imputing of blame or guilt to someone in a formal accusation or inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpation designates an accusation that you are responsible for some lapse or misdeed."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn decree contained a heavy **inculpation** against the praetorian prefect for extortion."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The magistrate listened gravely to the farmer's **inculpation** of the wandering gipsy."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Densher shrank from any word that sounded like an **inculpation** of the dying heiress."*

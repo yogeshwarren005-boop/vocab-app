@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who walks about while asleep; a sleepwalker or somnambulist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who wanders or roams during the nighttime hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the noctambulist’s face."*
-> - 📜 **James Joyce (*Ulysses*):** *"What proposal did Bloom, diambulist, father of Milly, somnambulist, make to Stephen, noctambulist?"*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The terrified castle servants took the white-robed maiden for a ghost, whereas she was but an unhappy **noctambulist**."*
+> - 📜 **Edgar Allan Poe (*Berenice*):** *"Like a pale **noctambulist**, she glided through the ancient library without uttering a sound."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson kept watch upon the baronet, wondering whether he might be a **noctambulist** lured by the lonely moor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being noxious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being noxious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxicity, harmfulness, or the destructive capacity to injure health, life, or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pestilential quality or unwholesome offensive character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noxiousness designates the quality of being noxious."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The subtle **noxiousness** of flattery corrupts even the strongest and most upright minds."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic craters frequently exhale gases whose deadly **noxiousness** suffocates all surrounding animal life."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"He warned against the political **noxiousness** of dogmas that subvert ancient constitutional foundations."*

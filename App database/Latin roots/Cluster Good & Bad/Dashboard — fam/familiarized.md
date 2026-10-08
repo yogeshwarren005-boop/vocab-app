@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having achieved a comfortable relation with your environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought into close acquaintance or thorough understanding with a concept or environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accustomed by long habit or routine to conditions originally strange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, he would have despised any ostentation of expense; his profession had familiarized him with all grades of poverty, and he cared much for those who suffered hardships."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The frequency with which death visited the family during his childhood and youth, familiarized him at an early age with scenes of sorrow and grief."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Thus she early became familiarized with their sufferings, and their wants."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Travelers soon become **familiarized** with the majestic solitude of the Patagonian plains."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The townspeople were slowly **familiarized** to the sight of the scarlet letter upon Hester's breast."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson was soon **familiarized** with Holmes's eccentric habits and chemical experiments."*

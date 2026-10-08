@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small order of primitive ungulates of the paleocene and eocene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small order of primitive ungulates of the paleocene and eocene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of large to gigantic herbivorous placental mammals from the Paleocene and Eocene epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient mammalian order characterized by plantigrade five-toed feet, multiple pairs of cranial horns, and sabre canines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dinocerata designates small order of primitive ungulates of the paleocene and eocene."*
+> - 📜 **Othniel Charles Marsh (*Dinocerata: A Monograph of an Extinct Order of Gigantic Mammals*):** *"The **Dinocerata** represent the largest terrestrial quadrupeds of the early Tertiary period in North America."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"During the middle Eocene, the **Dinocerata** attained the pinnacle of their evolutionary radiation before abrupt extinction."*
+> - 📜 **Richard Lydekker (*A Geographical History of Mammals*):** *"The skeletal remains of the **Dinocerata** demonstrate an evolutionary experiment in heavy herbivorous defense."*

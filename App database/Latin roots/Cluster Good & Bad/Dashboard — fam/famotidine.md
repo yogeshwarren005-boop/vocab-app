@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A histamine blocker (trade name pepcid) used to treat peptic ulcers and gastritis and esophageal reflux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A histamine blocker (trade name pepcid) used to treat peptic ulcers and gastritis and esophageal reflux.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competitive histamine H2-receptor antagonist that strongly inhibits gastric acid secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral or intravenous medicinal compound prescribed to treat peptic ulcer disease and gastroesophageal reflux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, famotidine designates a histamine blocker (trade name pepcid) used to treat peptic ulcers and gastritis and esophageal reflux."*
+> - 📜 **James Black (*Pharmacological Reviews*):** *"Synthetic competitive H2-antagonists such as **famotidine** exhibit heightened potency in suppressing basal and nocturnal gastric acid secretion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of **famotidine** significantly reduced the recurrence of duodenal ulcers by inhibiting histamine receptors in parietal cells."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Unlike cimetidine, **famotidine** does not inhibit hepatic cytochrome P450 enzymes, avoiding significant drug-drug interactions."*

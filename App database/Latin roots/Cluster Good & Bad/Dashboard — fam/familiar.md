@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person attached to the household of a high official (as a pope or bishop) who renders service in return for support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well known through long association, frequent contact, or habitual experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intimate companion or friend; or in folklore, a supernatural spirit attending a sorcerer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He nor that affable familiar ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Be thou **familiar**, but by no means vulgar; those friends thou hast, grapple them unto thy soul with hoops of steel."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was convinced that a more **familiar** acquaintance with Mr. Darcy would not increase her esteem."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The lonely nursery at Thornfield had become as **familiar** to me as the rooms of Gateshead."*

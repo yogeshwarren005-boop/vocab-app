@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute insufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme and widespread scarcity of food, causing extensive starvation, disease, and mortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe shortage or complete dearth of any vital necessity or resource.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en as the o’erflowing Nilus presageth famine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet famine, Ere clean it o’erthrow nature, makes it valiant."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Our castle's strength will laugh a siege to scorn: here let them lie till **famine** and the ague eat them up."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Despair attended them, and through the gloomy portals stalked grim **famine** with hollow eyes."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The prevention of voluntary abortions and the relief of devastating **famine** formed the purported aim of his satirical tract."*

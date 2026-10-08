@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social unit living together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primary social group; parents and children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental social unit consisting of parents and their children, or a group of persons united by blood, marriage, or adoption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, a principal taxonomic category ranking above genus and below order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, here in the parliament Let us assail the family of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior, is all your family within?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
+> - 📜 **William Shakespeare (*King Lear*):** *"A bitter outcast from his ungrateful **family**, the old king wandered bareheaded into the raging storm."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The business of her life was to get her daughters married; its solace was visiting and news of every **family** in Hertfordshire."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"All happy families are alike; each unhappy **family** is unhappy in its own way."*

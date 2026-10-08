@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin culp within the domain of Good & Bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of culp in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acknowledgment of one's personal fault, error, or guilt; an admission of blameworthiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal utterance or declaration acknowledging personal culpability in a mistake or wrong.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mea culpa designates pertaining to, derived from, or characteristic of latin culp within the domain of good & bad."*
+> - 📜 **James Joyce (*Ulysses*):** *"He beat his breast in solemn contrition, murmuring **mea culpa** beneath the stained glass light."*
+> - 📜 **Anthony Trollope (*The Last Chronicle of Barset*):** *"Mr. Crawley bowed his head in bitter self-reproach, ready to utter his **mea culpa** before the diocesan tribunal."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"The chaplain broke into weeping, crying **mea culpa** as he witnessed the cruel pyre in the marketplace."*

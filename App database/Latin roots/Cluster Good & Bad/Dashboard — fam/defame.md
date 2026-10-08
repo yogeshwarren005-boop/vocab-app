@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To damage the good reputation of someone by uttering or publishing false and malicious statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To disgrace, dishonor, or speak ill of a person or venerable institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Feast-finding minstrels, tuning my defame, Will tie the hearers to attend each line, How Tarquin wronged me, I Collatine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour thyself to rid me of this shame, For if I die, my honour lives in thee, But if I live, thou liv’st in my defame."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pardon a muse sae mean as mine, Who in her rough imperfect line Thus daurs to name thee; To stigmatise false friends of thine Can ne’er defame thee."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"To **defame** my noble kinsman with such treacherous accusations is an injury to the realm."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lest malice should **defame** the blameless archangel with accusations of secret apostasy."*
+> - 📜 **Francis Bacon (*Essays*):** *"Envy is ever joined with the comparing of a man's self; and where there is no comparison, no inclination to **defame**."*

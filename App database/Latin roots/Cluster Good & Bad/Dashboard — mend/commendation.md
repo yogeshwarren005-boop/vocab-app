@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing a favorable opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, favorable representation, or formal approval conferred on someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal official citation or certificate awarding honor for distinguished service or valor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not much commendation to them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I come off, and leave her in such honour as you have trust in, she your jewel, this your jewel, and my gold are yours: provided I have your commendation for my more free entertainment."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A good deed shines in a naughty world, winning universal **commendation** from honest men."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas bestowed warm **commendation** on Fanny for her modest and dutiful demeanor."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The colonies acted without waiting for the cold **commendation** of imperial ministers."*

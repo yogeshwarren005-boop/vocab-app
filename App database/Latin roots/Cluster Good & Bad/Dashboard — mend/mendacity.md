@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to be untruthful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to be untruthful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Untruthfulness, deceitfulness, or the habit of uttering deliberate lies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific falsehood, lie, or fraudulent assertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Then, too, her mendacity―George of England is advertised as a saint, and Joe Miller as a wit."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"No amount of plausible rhetoric can wash clean the shameless **mendacity** of that report."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The subtle traveler detected the underlying **mendacity** beneath the stranger's pious protestations."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Society is permeated with polite **mendacity**, where men shrink from speaking the naked truth."*

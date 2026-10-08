@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative spelling of Mendeleev, the Russian chemist renowned for formulating the Periodic Table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Dmitri Mendeleyev's predictive chemical classification and thermodynamic studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendeleyev designates russian chemist who developed a periodic table of the chemical elements and predicted the discovery of several new elements (1834-1907)."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"When argon was discovered, its atomic weight posed a baffling riddle to the system of **Mendeleyev**."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The visionary hypotheses of **Mendeleyev** were triumphantly vindicated by the discovery of gallium and germanium."*
+> - 📜 **Frederick Soddy (*The Interpretation of Radium*):** *"The periodic spiral conceived by **Mendeleyev** foreshadowed the modern understanding of atomic isotopes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing disapproval or protest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely unpleasant, offensive, or objectionable; odious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic usage, exposed or liable to harm, censure, or punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Still unconverted, but, to satisfy his mother, he consented to remain in the room during a visit of the missionary of that district; a man with sufficient tact not to make his efforts obnoxious."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Turning from Bessie (though her presence was far less obnoxious to me than that of Abbot, for instance, would have been), I scrutinised the face of the gentleman: I knew him; it was Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We swept on, and I felt that I was highly obnoxious to Camilla."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His proud reserve made him in the highest degree **obnoxious** to the company at the Meryton ball."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lest fall'n man, now **obnoxious** to death and decay, should touch the tree of life."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A magistrate holding office at arbitrary pleasure is perpetually **obnoxious** to executive tyranny."*

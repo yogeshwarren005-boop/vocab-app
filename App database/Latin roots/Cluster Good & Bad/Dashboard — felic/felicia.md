@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, native to southern Africa, bearing blue or purple ray florets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, commonly called blue marguerite (Felicia amelloides), cultivated for vibrant sky-blue composite flower heads with yellow centers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family (Asteraceae), native to southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blue daisy or kingfisher daisy (Felicia amelloides), cultivated for its sky-blue ray florets and yellow centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The exquisite azure blossoms of **Felicia** provide prolonged cheer in sunny conservatory borders throughout winter."*
-> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Felicia** thrive in porous sandy loams, producing abundant daisy-like heads on slender peduncles."*
-> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The Cape genus **Felicia** is distinguished by its narrow involucre and bright blue ligulate florets."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The handsome blue composite known as **Felicia** angustifolia forms dense shrubby mounds along Cape coastal slopes."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"In botanical collections, the genus **Felicia** represents an Old World analog to our North American asters."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"South African botanists note that **Felicia** produces brilliant floral displays following winter rains."*

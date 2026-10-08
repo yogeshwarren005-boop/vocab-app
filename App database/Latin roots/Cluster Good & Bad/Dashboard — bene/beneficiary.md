@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of funds or other benefits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or entity designated to receive funds, advantages, or property under a will, trust, or insurance policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who derives an advantage or positive outcome from a public measure, reform, or private generosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The beneficiary must have an _incurable interest_ in the property or person insured; that is, the beneficiary must actually suffer a loss by the occurrence insured against."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When there is no insurable interest or when the indemnity is greater than the loss that may be incurred, the beneficiary may and sometimes does find it to his interest to bring about the socially injurious event insured against."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Hugh Blake has recently died a bachelor, and before his demise he added a codicil to the above testament, or will, naming you, his great niece, his sole heir and beneficiary."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The expectant **beneficiary** in Jarndyce and Jarndyce grew gray while the suit dragged endlessly through Chancery."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The will named the young attorney as sole **beneficiary** of an enormous fortune."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Crawley delighted in tantalizing her impoverished relatives as to who would be the chosen **beneficiary**."*

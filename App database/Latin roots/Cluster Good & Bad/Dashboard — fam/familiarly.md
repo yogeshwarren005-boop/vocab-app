@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intimately familiar manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intimately familiar manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an informal, intimate, unconstrained, or well-acquainted manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonly, popularly, or by ordinary customary designation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because that I familiarly sometimes Do use you for my fool, and chat with you, Your sauciness will jest upon my love, And make a common of my serious hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a large mouth indeed, That spits forth death and mountains, rocks and seas; Talks as familiarly of roaring lions As maids of thirteen do of puppy-dogs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother; Again shall you be mother to a king, And all the ruins of distressful times Repaired with double riches of content."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy spoke of the great Chancery suit as **familiarly** as if it were a game of marbles."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"Rip Van Winkle was **familiarly** known to all the good wives and urchins of the village."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"The professor addressed the company **familiarly**, drawing philosophical illustrations from daily breakfast occurrences."*

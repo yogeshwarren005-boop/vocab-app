@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hateful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hateful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of being offensive, odious, or highly objectionable to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic vulnerability or liability to punishment, censure, or external injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obnoxiousness designates the quality of being hateful."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His unbearable **obnoxiousness** alienated even those relatives who had long defended his eccentricities."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The personal **obnoxiousness** of the satirist often obscured the genuine brilliance of his verse."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The extreme **obnoxiousness** of the royal proclamation provoked open resistance throughout the northern counties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or active during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring in the night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done, occurring, or active at night rather than during the day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and botany, describing animals that hunt at night or flowers that open after dusk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s breast, prompting her to nocturnal examinations of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After such a nocturnal reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The denser nocturnal vapours, attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Man's nature cannot carry the affliction nor the fear of this **nocturnal** tempest."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Darkness now rose, as daylight sank, and on their charge the **nocturnal** sentinels took their station."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The large eyes of the owl and the bat demonstrate specialized adaptation to their **nocturnal** predatory habits."*

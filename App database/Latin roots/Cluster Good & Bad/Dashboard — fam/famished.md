@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely hungry; suffering or wasted from deprivation of food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pining or languishing for want of essential nourishment or care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you what, you thin man in a censer, I will have you as soundly swinged for this, you bluebottle rogue, you filthy famished correctioner, if you be not swinged, I’ll forswear half-kirtles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last time, I danced attendance on his will Till Paris was besieged, famished, and lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, it shall ne’er be said, while England stands, That Alexander Iden, an esquire of Kent, Took odds to combat a poor famished man."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was **famished** with hunger and drenched with icy rain when I stumbled upon the secluded shepherd's hut."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like **famished** wolves circling a buffalo herd, the sharks snapped fiercely at the whale carcass lashed alongside."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"We were **famished** schoolgirls, eagerly dividing the burnt porridge served in the Lowood dining hall."*

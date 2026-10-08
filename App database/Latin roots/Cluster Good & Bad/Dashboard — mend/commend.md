@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express approval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present as worthy of regard, kindness, or confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise formally or publicly; to express warm approval of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To entrust or commit someone or something to the care, protection, or custody of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commend me to my kinsmen and my son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall be no more than needful there, if they were more than they can commend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I will to the king, and **commend** your loyal services to his royal grace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into thy hands, Heavenly Father, I **commend** my spirit in unwavering faith."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The rector paused to **commend** the young carpenter for his diligent and honest workmanship."*

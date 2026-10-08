@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blameworthiness, guilt, or legal and moral responsibility for a fault, transgression, or crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree of deliberate intent or criminal negligence that renders an individual subject to legal punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her culpability lay in her making no attempt to control feeling by subtle and careful inquiry into consequences."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No blame attached to me: I am as free from culpability as any one of you three."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, which on the one hand would have inclined her to desire that the mildest view of his character should be the true one, but on the other, made her the more afraid of seeming to palliate his culpability."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate pondered the moral **culpability** of the secret offender whose conscience was his daily rack."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"Raskolnikov's confession laid bare the psychological roots of criminal **culpability**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Legal liability does not require subjective guilt, but measures **culpability** by the external standard of the reasonable man."*

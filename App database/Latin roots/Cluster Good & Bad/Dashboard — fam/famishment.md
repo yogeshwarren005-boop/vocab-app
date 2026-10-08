@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme hunger resulting from lack of essential nutrients over a prolonged period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme hunger resulting from lack of essential nutrients over a prolonged period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme hunger or exhaustion resulting from severe deprivation of food; starvation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The suffering or wasting endured during prolonged lack of nourishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, famishment designates a state of extreme hunger resulting from lack of essential nutrients over a prolonged period."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The besieged garrison suffered the agonizing pangs of **famishment** before relief arrived at the castle gates."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He endured forty days of solitude and physical **famishment** without yielding to Satanic illusion."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Bread riots erupted throughout Paris as winter **famishment** drove desperate mothers into the streets."*

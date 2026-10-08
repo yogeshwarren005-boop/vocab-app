@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking undue liberties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking undue liberties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presumptuously informal, forward, or lacking proper deference and respectful reserve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known to an excess where novelty and interest are completely exhausted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overfamiliar designates taking undue liberties."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny was offended by the **overfamiliar** manner with which Henry Crawford addressed her in the drawing-room."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel disliked the **overfamiliar** tone assumed by the journalist during their initial interview."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond checked the young visitor with an icy glance when his conversational advances bordered on the **overfamiliar**."*

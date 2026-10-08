@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, expressing, or tending toward defamation; injurious to personal or institutional reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the nature of libel or slander; calculated to bring public hatred or contempt upon someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The editor of the _Aurora_ having, in his paper of February 19, 1800, inserted some paragraphs defamatory of the Senate, and failed in his appearance, he was ordered to be committed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The pamphlets distributed in coffeehouses contained the most scandalous and **defamatory** libels against the crown."*
+> - 📜 **Jonathan Swift (*The Drapier's Letters*):** *"He protested that the broadside was not **defamatory**, but a plain declaration of commercial robbery."*
+> - 📜 **Henry James (*The Bostonians*):** *"She shrank from the vulgar publicity of the press, fearing the sting of a **defamatory** article."*

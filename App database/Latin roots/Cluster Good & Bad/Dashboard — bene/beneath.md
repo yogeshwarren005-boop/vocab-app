@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or to a place that is lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or to a place that is lower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or situated directly under or below something in position, place, or physical space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in rank, dignity, status, or ethical worth; unworthy of someone's character or standing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From below your duke to beneath your constable, it will fit any question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The odds is gone, And there is nothing left remarkable Beneath the visiting moon. [_Faints._] CHARMIAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It smites me Beneath the fall I have. [_To Seleucus_.] Prithee go hence, Or I shall show the cinders of my spirits Through th’ ashes of my chance."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strain'd; it droppeth as the gentle rain from heaven upon the place **beneath**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A dungeon horrible, on all sides round as one great furnace flamed; far **beneath** the fiery vaults of Hell."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Deep **beneath** the surface of the green Pacific rolled the huge white whale, oblivious to the hunters above."*

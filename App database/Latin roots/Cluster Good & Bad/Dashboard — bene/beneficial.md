@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or enhancing well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting or enhancing well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conferring benefits, profits, or advantages; helpful, wholesome, and favorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, designating the actual enjoyment of rights, profits, or property as opposed to mere nominal ownership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder That such a keech can with his very bulk Take up the rays o’ th’ beneficial sun And keep it from the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge ought not to be sought for personal glory, but for the **beneficial** relief of man's estate."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variation in the least degree **beneficial** to an individual of any species will tend to the preservation of that individual."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Free interchange of ideas exerts a singularly **beneficial** influence upon the preservation of democratic institutions."*

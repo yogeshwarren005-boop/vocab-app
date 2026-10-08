@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Effecting amendment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effecting amendment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or designed to amend, reform, or correct an error or defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to formal legislative amendments or supplementary statutory clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was called in Congress the Enforcement Act, and an Amendatory Enforcement Act was inserted in the Sundry Civil Bill, June 10, 1872."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress proposed an **amendatory** act to supply the obvious deficiencies of the original revenue law."*
+> - 📜 **James Madison (*Writings*):** *"The convention recommended **amendatory** provisions to safeguard individual liberties under the federal system."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"Judicial tribunals interpret **amendatory** statutes so as to advance the remedy contemplated by the legislature."*

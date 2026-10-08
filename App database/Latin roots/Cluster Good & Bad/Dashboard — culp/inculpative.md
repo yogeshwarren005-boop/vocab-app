@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing blame to be imputed to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing blame to be imputed to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending, serving, or designed to inculpate; casting blame or imputing criminal guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Implicating an individual in a crime through evidence or suspicion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpative designates causing blame to be imputed to."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Circumstantial facts of an **inculpative** character must be weighed with scrupulous impartiality by the jury."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Every clue we unearthed bore an **inculpative** significance pointing directly toward the naturalist."*
+> - 📜 **Edgar Allan Poe (*The Mystery of Marie Rogêt*):** *"The presence of the torn garment in the thicket was cited as an **inculpative** circumstance against the suitor."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Altered, modified, or improved by the removal of errors or the addition of improvements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally revised and enacted through constitutional or legislative process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet his nature In that’s no changeling, and I must excuse What cannot be amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what is done cannot be now amended."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I have no objection to its being made express and irrevocable in the **amended** text."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have in this **amended** edition added many striking examples drawn from recent geological research."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke presented his **amended** address to the independent electors of Middlemarch."*

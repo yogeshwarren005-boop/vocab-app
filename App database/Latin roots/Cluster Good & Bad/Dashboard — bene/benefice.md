@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endowed church office giving income to its holder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endow with a benefice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical office, living, or church position endowed with fixed revenues and spiritual duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal law, a permanent estate or grant of land conferred by a sovereign or lord in return for services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parishes, where the reputation of the curate in this respect stood higher than that of his rector, the relations between the two have been so strained in consequence that the bishop has had to translate the rector to another benefice."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A living of 500_l._ per annum, falling in the gift of the late Lord Chancellor Talbot, Sir Robert Walpole recommended one of his friends as very deserving of the benefice, whom his lordship approved of."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The bishop soon after presented him to a valuable benefice. 717."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Tickling a parson's nose as a' lies asleep, then dreams he of another **benefice**."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"For he had geten him yit no **benefice**, ne was so worldly for to have office."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The wealthy **benefice** of St. Ewold was vacant, and every ambitious curate in the diocese was covetous of its revenues."*

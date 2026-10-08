@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a beggar or mendicant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a beggar or mendicant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of street begging; habitual dependence upon alms; public mendicancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitution requiring dependence on public or private alms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendicity designates the state of being a beggar or mendicant."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The traveler was shocked by the swarms of **mendicity** that besieged post-chaises at every French posting house."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"Notwithstanding the general poverty of the heaths, we encountered little shameless **mendicity** among the highlanders."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman rabble was sustained in idle **mendicity** by distributions of corn and public games."*

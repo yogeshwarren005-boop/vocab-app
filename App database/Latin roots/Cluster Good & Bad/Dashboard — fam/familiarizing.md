@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to make familiar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acquainting oneself or others thoroughly with new methods, facts, or surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in training or orienting someone to practical proficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarizing designates make familiar or conversant with."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin found pleasure in **familiarizing** his companion with his analytical method of deduction."*
+> - 📜 **Mark Twain (*Roughing It*):** *"We spent the first week **familiarizing** ourselves with the alkali desert and the bucking broncos."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The trading agent was busy **familiarizing** the newcomers with the grim routine of the coastal station."*

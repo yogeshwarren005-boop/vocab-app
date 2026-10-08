@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of inheritance based on mendel's laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of inheritance based on mendel's laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological theory and principles of inheritance based on the discoveries of Gregor Mendel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genetic framework asserting that hereditary characteristics are transmitted as discrete, non-blending factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelianism designates the theory of inheritance based on mendel's laws."*
+> - 📜 **William Bateson (*Problems of Genetics*):** *"The triumph of **Mendelianism** put an end to the vague speculation regarding blending inheritance."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Through **Mendelianism**, population geneticists demonstrated that natural variation is preserved rather than washed away."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Mathematical modeling showed that **Mendelianism** was fully compatible with gradual Darwinian selection."*

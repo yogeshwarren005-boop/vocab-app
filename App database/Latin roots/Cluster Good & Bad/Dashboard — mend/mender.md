@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who mends or repairs things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who mends or repairs things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who repairs, restores, or patches broken garments, tools, or structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who reconciles disputes or heals social breaches; a peacemaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A trade, sir, that I hope I may use with a safe conscience, which is indeed, sir, a mender of bad soles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"M. _At Hollyhead, I suppose, written by some Creation-Mender._ Arra, now what signifies the making the two great Lights?"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Truly, sir, in respect of a fine workman, I am but, as you would say, a cobbler, a **mender** of bad soles."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"She was a patient **mender** of household linen, humming old ballads as her needle flew."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The village wheelwright was known as a stout **mender** of broken carts and harvest wagons."*

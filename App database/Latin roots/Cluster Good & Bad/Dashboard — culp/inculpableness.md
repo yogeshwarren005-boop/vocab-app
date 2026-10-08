@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of innocence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of innocence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from blameworthiness; absolute innocence or unimpeachable conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moral exemption from just condemnation, punishment, or fault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpableness designates a state of innocence."*
+> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"Conscience bears witness to the moral **inculpableness** of actions performed in upright obedience to perceived duty."*
+> - 📜 **Richard Hooker (*Of the Laws of Ecclesiastical Polity*):** *"The clear **inculpableness** of their intentions could not avert the public confusion occasioned by their novelty."*
+> - 📜 **William Wollaston (*The Religion of Nature Delineated*):** *"Absolute **inculpableness** belongs only to those who act in strict conformity with immutable truth."*

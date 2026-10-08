@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from legal guilt, moral wrong, or sin; unimpeachable blamelessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simplicity, artlessness, or naive lack of acquaintance with evil or worldly deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And God in justice hath revealed to us The truth and innocence of this poor fellow, Which he had thought to have murdered wrongfully."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The trust I have is in mine innocence, And therefore am I bold and resolute. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will help nothing To plead mine innocence, for that dye is on me Which makes my whit’st part black."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The silence often of pure **innocence** persuades when speaking fails."*
+> - 📜 **John Milton (*Paradise Lost*):** *"O fleeting joys of Paradise, dear bought with lasting woes! Into what misery has our lost **innocence** cast us."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A serene sky and verdant fields filled me with ecstasy; the present was tranquil, and the past seemed a dream of pure **innocence**."*

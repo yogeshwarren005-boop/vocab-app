@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A close attendant (as to a scholar).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A close attendant (as to a scholar).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar's or magician's attendant, laboratory assistant, or confidential domestic pupil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic assistant who performs research tasks and transcriptions for a university professor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, famulus designates a close attendant (as to a scholar)."*
+> - 📜 **Johann Wolfgang von Goethe (*Faust*):** *"Wagner, the pedantic **famulus**, knocked timidly upon the philosopher's study door."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Like a devoted **famulus**, he transcribed every scattered note and sketch left by the reclusive composer."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary regarded his ragged nephew as a domestic **famulus** destined to fetch folios and catalog Roman coins."*

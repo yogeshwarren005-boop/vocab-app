@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of congratulating someone; an expression of good wishes, congratulations, or shared joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and epistolary style, an official message conveying formal congratulations on a national holiday, accession, or treaty signing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of good wishes, congratulations, or gladness on a fortunate event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal message or ceremonial compliment congratulating another on high honors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Letters of **felicitation** poured in from every branch of the family upon the announcement of the engagement."*
-> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Ambassadors from every European court presented their addresses of **felicitation** to the newly crowned monarch."*
-> - 📜 **Charlotte Brontë (*Villette*):** *"The schoolmistress delivered a formal address of **felicitation** to the prizewinners at the annual commencement."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The vanity of human wishes was forgotten amidst the noisy **felicitation** of the banquet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn offered a dry word of **felicitation** to the happy pair before departing."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her cousin sent a warm message of **felicitation** when the engagement was formally announced."*

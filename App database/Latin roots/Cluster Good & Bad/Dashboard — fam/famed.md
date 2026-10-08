@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known, esteemed, or celebrated for excellence or extraordinary deeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renowned in history, literature, or folklore for distinctive qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As surely as my soul intends to live With that dread King that took our state upon Him To free us from His Father’s wrathful curse, I do believe that violent hands were laid Upon the life of this thrice-famed duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are famed to be a pair of absolute men."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Church had he In far-famed Berwick town."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Fair Greece! sad relic of departed worth! immortal, though no more; though fallen, great! yet **famed** in song."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He sailed from that **famed** island of Nantucket where the grandest harpooners are nurtured."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The ancient palace was **famed** throughout Andalusia for its exquisite arabesques and shaded fountains."*

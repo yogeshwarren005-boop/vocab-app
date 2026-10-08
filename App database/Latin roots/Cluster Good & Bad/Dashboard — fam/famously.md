@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that is well known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely well.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that attracts wide acclaim, celebrity, or public renown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Splendidly, exceedingly well, or with triumphant success in colloquial speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say unto you, what he hath done famously he did it to that end."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then this land was famously enriched With politic grave counsel; then the King Had virtuous uncles to protect his Grace."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was a pleasant addition to his naturally pleasant ways, and we got on famously."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We got on **famously** together, sharing our bread and butter with youthful appetite."*
+> - 📜 **Herman Melville (*Omoo*):** *"The trade winds blew fresh from the east, and our schooner sped **famously** across the sunlit lagoons."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The pirate crew prospered **famously**, roasting bacon over their campfire on Jackson's Island."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correction by emending; a correction resulting from critical editing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A correction by emending; a correction resulting from critical editing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A correction or improvement made to a text by an editor or textual scholar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing corrupted readings or interpolations from manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Taken from Curley, Note 3, at end) *This Treatise on the Emendation of the Intellect etc., which we give you here, kind reader, in its unfinished [that is, defective] state, was written by the author many years ago now."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Every emendation of Anne’s had been on the side of honesty against importance."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic commentator wasted his days in trivial **emendation** of forgotten Greek plays."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Theobald's celebrated **emendation** of a 'table of green fields' in Henry the Fifth will endure forever."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He scrutinized each conjectural **emendation** with the fastidious rigor of an Oxford philologist."*

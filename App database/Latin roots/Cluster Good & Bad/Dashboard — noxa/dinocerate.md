@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct ungulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct ungulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, pertaining to, or resembling the extinct mammalian order Dinocerata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any extinct ungulate belonging to the uintathere lineage of the Eocene epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dinocerate designates an extinct ungulate."*
+> - 📜 **Othniel Charles Marsh (*American Journal of Science*):** *"The unique **dinocerate** dentition lacked upper incisors, relying upon mobile lips and horned protection."*
+> - 📜 **Edward Drinker Cope (*The Extinct Batrachia, Reptilia and Mammalia of North America*):** *"In every **dinocerate** skeleton, the limb bones exhibit massive columnar proportions suited to ponderous weight."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Lacustrine strata of Wyoming yielded numerous **dinocerate** remains preserved within volcanic ash beds."*

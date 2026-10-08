@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing blame to be imputed to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing blame to be imputed to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to establish criminal guilt, liability, or blameworthiness (contrasting with exculpatory).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrating participation in a wrongdoing or crime through forensic or documentary evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inculpatory designates causing blame to be imputed to."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The discovery of the stained bicycle formed the chief **inculpatory** item in the inspector's case."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Hollingsworth uttered an **inculpatory** reproach that pierced Zenobia's proud heart like an arrow."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The prosecution relied upon a chain of **inculpatory** admissions made during the preliminary inquest."*

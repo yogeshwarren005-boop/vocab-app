@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate, unfortunate, or ill-chosen in expression or circumstance; lacking tact, grace, or success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of language and speech act theory (J. L. Austin), failing to satisfy the required conventions for a performative utterance to take effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate, unfortunate, or ill-chosen; unsuitable in expression, timing, or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by bad luck, awkward clumsiness, or an unhappy outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. L. Austin (*How to Do Things with Words*):** *"When the necessary conditions for a performative utterance are absent, the speech act is not false, but **infelicitous**."*
-> - 📜 **Henry James (*The Bostonians*):** *"His opening remark was singularly **infelicitous**, provoking a cold, unyielding silence from the assembled guests."*
-> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"An **infelicitous** choice of ministers precipitated the sudden downfall of the royal administration."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"An **infelicitous** turn of phrase in diplomatic correspondence may precipitate a disastrous breach between nations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke made an **infelicitous** attempt to flatter the electors with concessions he could not defend."*
+> - 📜 **Henry James (*The Bostonians*):** *"His visit was singularly **infelicitous**, arriving at the very moment when family dissensions were at their peak."*

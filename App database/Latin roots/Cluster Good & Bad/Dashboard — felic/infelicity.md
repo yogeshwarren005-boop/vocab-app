@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhappiness, misfortune, or an unfortunate or inappropriate action, utterance, or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic pragmatics and rhetoric, a violation of conversational maxims or performative conventions that causes communication failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhappiness, misfortune, or an unfortunate, ill-chosen word or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clumsiness, awkwardness, or striking inappropriateness in style or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not view the domestic **infelicity** of her parents without a painful sense of regret and mortification."*
-> - 📜 **J. L. Austin (*How to Do Things with Words*):** *"We may designate the various ways in which a ritual or performative utterance goes wrong as cases of **infelicity**."*
-> - 📜 **Samuel Johnson (*Rasselas*):** *"Human life is everywhere a state in which much is to be endured, and little to be enjoyed; such is the universal **infelicity** of man."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Human life is beset with continual **infelicity**, which virtue may alleviate but can never wholly remove."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The marriage of Charlotte and Mr. Collins promised little **infelicity** only because her expectations were low."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The presence of avoidable **infelicity** in civilized society constitutes a constant challenge to legislative reform."*

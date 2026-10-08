@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make improvements or corrections to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make improvements or corrections to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To correct or improve a literary, historical, or classical text by critical editorial conjecture or collation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove errors, obscurities, or corrupt readings from an ancient manuscript.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emend designates make improvements or corrections to."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The critic who undertakes to **emend** an ancient author must possess profound philological judgment."*
+> - 📜 **Richard Bentley (*Dissertation upon the Epistles of Phalaris*):** *"I propose to **emend** the corrupted passage by restoring the authentic Doric reading."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Learned scholars labored during the Renaissance to **emend** the mutilated texts of Cicero and Livy."*

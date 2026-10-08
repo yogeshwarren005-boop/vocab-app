@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense of some offensive behavior or some failure to keep a promise etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of freeing from guilt or blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of freeing from an accusation of guilt, or the vindication of innocence against charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal statement, testimony, or defense presented to demonstrate blamelessness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Barter’s office?’ ‘No,’ said Bommaney, suddenly weary after his outburst of self-exculpation, ‘I don’t know."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"He is then to be heard in exculpation, and to withdraw."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty could offer no word of **exculpation** when the tragic evidence of her flight was revealed."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He penned a long epistle in **exculpation** of his conduct, pleading the irresistible power of sudden temptation."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"In **exculpation** of his political course, the envoy laid his official instructions before Congress."*

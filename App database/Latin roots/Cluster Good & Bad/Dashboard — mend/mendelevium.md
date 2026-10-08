@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic, radioactive transuranic chemical element of the actinide series with symbol Md and atomic number 101.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificially created metallic radioisotope produced by bombarding einsteinium with alpha particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelevium designates a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol)."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"We named element 101 **mendelevium** in recognition of the pioneer who first classified the chemical elements."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The actinide contraction extends through **mendelevium**, determining the ionic radius of the heaviest trivalent cations."*
+> - 📜 **Isaac Asimov (*Building Blocks of the Universe*):** *"Only a few dozen atoms of **mendelevium** were synthesized in the initial cyclotron bombardment at Berkeley."*

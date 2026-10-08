@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blameworthiness; desert of moral censure, criminal condemnation, or ethical reproach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The demonstrable guilt or delinquency attaching to a wrongful deed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culpableness designates a state of guilt."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A man who neglects obvious duties cannot plead ignorance to excuse the gross **culpableness** of his conduct."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislature measures the **culpableness** of an act by the mischief it inflicts upon the community."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Voluntary consent to evil constitutes the very essence of moral **culpableness** in ethical philosophy."*

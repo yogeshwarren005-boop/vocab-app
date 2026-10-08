@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aptness, graceful suitability, or fortunate appropriateness in literary phrasing or circumstance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory, harmonious congruity between literary phrasing and intellectual intention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aptness, graceful suitability, or felicitous appropriateness of thought, diction, or demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing fitness, propriety, or harmonious alignment with the requirements of the occasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Pater (*Appreciations*):** *"The exquisite **felicitousness** of Charles Lamb’s phrasing lends an immortal charm to his quietest essays."*
-> - 📜 **John Ruskin (*Modern Painters*):** *"Turner’s choice of color displays a **felicitousness** that captures the fleeting glory of alpine skies."*
-> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius reveals itself in the organic **felicitousness** of imagery arising directly from passionate contemplation."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The rare **felicitousness** of Keats's sensory epithets remains unrivaled in English lyric verse."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The enduring charm of Turgenev lies in the effortless **felicitousness** of his character sketches."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"A speaker may dazzle with rhetorical ornaments while lacking that genuine **felicitousness** which reaches the heart."*

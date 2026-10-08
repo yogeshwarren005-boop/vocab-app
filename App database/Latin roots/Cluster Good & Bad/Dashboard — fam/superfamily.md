@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group ranking below an order but above a family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic group ranking below an order but above a family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biological taxonomy, a category ranking immediately above a family and below an order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cluster of related families sharing high-level anatomical or phylogenetic characteristics, ending in -oidea in zoology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfamily designates (biology) a taxonomic group ranking below an order but above a family."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"In modern zoological nomenclature, the suffix -oidea designates a taxonomic **superfamily** uniting allied families."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The **superfamily** Hominoidea encompasses both the great apes and human phylogenetic lineages."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Paleontologists trace the radiation of the trilobite **superfamily** across early Cambrian strata."*

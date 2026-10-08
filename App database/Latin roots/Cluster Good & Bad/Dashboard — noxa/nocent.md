@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to cause harm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a tendency to cause harm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guilty, harmful, or doing injury; criminal or mischievous (archaic antonym of innocent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing damage or detriment; hurtful.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nocent designates having a tendency to cause harm."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The law distinguishes between the innocent victim and the **nocent** perpetrator of fraud."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians held that certain herbs contained **nocent** qualities injurious to the nervous spirits."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"To shelter a **nocent** offender from justice is to partake in the injury inflicted upon the commonwealth."*

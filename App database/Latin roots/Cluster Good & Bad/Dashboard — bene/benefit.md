@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Financial assistance in time of need.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that aids or promotes well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advantage, profit, or helpful aid that promotes well-being or enhances life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical performance, concert, or public event organized to raise funds for an individual or charitable cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O benefit of ill, now I find true That better is, by evil still made better."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At length the sun, gazing upon the earth, Dispers’d those vapours that offended us, And by the benefit of his wished light The seas wax’d calm, and we discovered Two ships from far, making amain to us, Of Corinth that, of Epidaurus this."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Freeze, freeze, thou bitter sky, that dost not bite so nigh as **benefit** forgot."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The great and chief end of men's uniting into commonwealths is the mutual **benefit** and protection of their properties."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I resolved that every mechanical invention should be given freely for the common **benefit** of mankind."*

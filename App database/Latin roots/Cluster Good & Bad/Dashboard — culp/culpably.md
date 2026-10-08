@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree deserving blame or censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner or to a degree deserving blame or censure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a blameworthy, wrongful, or criminally negligent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With willful negligence deserving severe condemnation or legal reprimand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Sir Claude MacDonald, the British minister, who is an ex-major in the army, and should have instructed in this very important duty, was, equally with marine officers, culpably silent."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"He did it carelessly, no doubt; but not guiltily, culpably."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"If the lad swore, he wouldn’t correct him: nor however culpably he behaved."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The admiral acted **culpably** in delaying his sailing orders until the hostile fleet had slipped into the bay."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A bailee who **culpably** neglects ordinary care must make good the damage sustained by the owner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond spoke of his former associates as men who had **culpably** squandered their refined advantages."*

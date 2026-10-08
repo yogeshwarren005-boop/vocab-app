@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a not unlawful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a naively innocent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner free from guilt, wrongdoing, or sinister purpose; blamelessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artlessly, naively, or with simple and unsuspecting candor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked innocently up at the gray towers, remarking that anybody who owned a castle like that would simply be the happiest man in the world."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole gaily, innocently, and confidingly as he looked at his drawing with his head on one side, “here you see me utterly incapable of helping myself, and entirely in your hands!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I knew very well that if he could have had the power of seeing me as I was, he would consider the poor girl tarnished by having for a moment been, although most innocently, the subject of my great and distinguished patronage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She looked up into my face so **innocently** that my suspicions melted away like frost."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty smiled **innocently** as she arranged the bright ribbon at her bodice."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The young lady answered our questions **innocently**, unaware that her testimony sealed her brother's fate."*

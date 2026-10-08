@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of amending or correcting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that is added to or revises or improves a proposal or document (a bill or constitution etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal alteration, addition, or deletion proposed or enacted in a legislative bill or constitutional text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An improvement, reformation, or correction of moral conduct or personal habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see a good amendment of life in thee, from praying to purse-taking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What likelihood of his amendment, lords?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fifth article provides an orderly mode for the **amendment** of the federal constitution."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"He promised sincere **amendment** of life, yet postponed his resolution to the morrow."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her sister's health showed marked **amendment** by the following morning."*

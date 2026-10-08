@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a detrimental manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a detrimental manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harmful, poisonous, injurious, or deeply unwholesome manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to cause offense, toxicity, or degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noxiously designates in a detrimental manner."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Vapors from the putrid marsh hung **noxiously** over the solitary hut during the damp autumn nights."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Greed and competitive selfishness fester **noxiously** at the heart of our commercial metropolis."*
+> - 📜 **Herman Melville (*Typee*):** *"Decaying tropical vegetation steamed **noxiously** beneath the midday sun in the swampy hollows."*

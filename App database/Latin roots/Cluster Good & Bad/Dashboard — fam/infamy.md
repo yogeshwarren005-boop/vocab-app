@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme dishonor; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evil fame or public reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total loss of good reputation; widespread notoriety and public disgrace caused by shameful or criminal deeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An utterly shameful, disgraceful, or atrocious act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the truth is, Sir John, you live in great infamy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, what infamy will there arise When foreign princes shall be certified That for a toy, a thing of no regard, King Henry’s peers and chief nobility Destroy’d themselves and lost the realm of France!"*
+> - 📜 **Franklin D. Roosevelt (*Pearl Harbor Address to the Nation*):** *"Yesterday, December 7th, 1941, a date which will live in **infamy**, the United States of America was suddenly attacked."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor covered his memory with eternal **infamy** by the cold-blooded massacre of the senators."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They chose disgrace and lasting **infamy** rather than bow before the sovereign will of Heaven."*

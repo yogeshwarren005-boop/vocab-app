@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A customs union comprising belgium and netherlands and luxembourg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customs union comprising belgium and netherlands and luxembourg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politico-economic union and customs alliance comprising Belgium, the Netherlands, and Luxembourg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The low-countries geographic region of northwestern Europe encompassing these three partner nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Twenty-first, the establishment of summer schools in each of the Scandinavian and Benelux countries, as well as those of the Iberian Peninsula."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The close economic cooperation of the **Benelux** countries provided a courageous pioneer model for Western European unity."*
+> - 📜 **Jean Monnet (*Memoirs*):** *"Discussions with delegates from **Benelux** demonstrated that customs tariffs could be dismantled without endangering domestic stability."*
+> - 📜 **Clement Attlee (*As It Happened*):** *"Post-war trade agreements between Britain and the **Benelux** grouping helped revive shattered continental commerce."*

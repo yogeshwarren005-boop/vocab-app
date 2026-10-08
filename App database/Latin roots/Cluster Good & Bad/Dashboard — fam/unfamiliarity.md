@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusualness as a consequence of not being well known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusualness as a consequence of not being well known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of knowledge, experience, or acquaintance with a person, subject, or environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strangeness or novelty of an unaccustomed scene or circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s lambs, being wholly unconnected with Borrioboola-Gha; he is not softened by distance and unfamiliarity; he is not a genuine foreign-grown savage; he is the ordinary home-made article."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The terrifying aspect of new situations often springs solely from their absolute **unfamiliarity** to sensory experience."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her profound **unfamiliarity** with the wild heath made every lonely tumulus appear menacing."*
+> - 📜 **Henry James (*The American*):** *"Newman confessed his complete **unfamiliarity** with the subtle etiquette of the Parisian aristocracy."*

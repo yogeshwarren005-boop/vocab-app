@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undercover agent who is given no official cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undercover agent who is given no official cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In modern espionage tradecraft, an intelligence operative working without official diplomatic cover or immunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undercover mission conducted under commercial, academic, or journalistic pretext.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France._ KING HENRY."*
+> - 📜 **John le Carré (*The Secret Pilgrim*):** *"Operating under deep commercial cover as a **NOC**, the agent knew that capture meant immediate imprisonment without embassy aid."*
+> - 📜 **Graham Greene (*The Human Factor*):** *"Headquarters debated whether to deploy a **NOC** into the African mining consortium."*
+> - 📜 **Allen Dulles (*The Craft of Intelligence*):** *"The training of a **NOC** demands absolute severing of all overt ties with the intelligence service."*

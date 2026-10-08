@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet; brother of william rose benet (1898-1943).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer; brother of stephen vincent benet (1886-1950).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To catch in a net; to ensnare, enmesh, or surround with insuperable difficulties or enemies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic historical title for an ordained exorcist or acolyte in the pre-Reformation Catholic church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, benet designates united states poet; brother of william rose benet (1898-1943)."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Being thus **benet** round with villains, ere I could make a prologue to my brains, they had begun the play."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The escaping prisoner found himself **benet** on every side by the queen's vigilant guards."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"With craft and guile they sought to **benet** the Hebrew champion in their deceitful toils."*

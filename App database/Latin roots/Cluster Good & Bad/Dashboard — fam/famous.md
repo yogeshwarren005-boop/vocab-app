@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely known and esteemed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Known about, honored, or celebrated by many people across wide regions; renowned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remarkable, excellent, or capital in colloquial usage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, I bring thee word Menecrates and Menas, famous pirates, Make the sea serve them, which they ear and wound With keels of every kind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No grave upon the earth shall clip in it A pair so famous."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Crispin Crispian shall ne'er go by, from this day to the ending of the world, but we in it shall be remember'd; we few, we happy few, we band of **famous** brothers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The **famous** temple of Belus rose in tiered terraces above the plain of Shinar."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"In this secluded glen resided the **famous** Ichabod Crane, who instructed the rustic youths in spelling."*

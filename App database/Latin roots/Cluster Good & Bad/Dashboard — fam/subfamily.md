@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic category below a family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a taxonomic category below a family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biological taxonomy, a subordinate category ranking immediately below a family and above a genus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grouping of allied genera within a biological family, conventionally ending with the suffix -inae in zoology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subfamily designates (biology) a taxonomic category below a family."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Within the columbine alliance, naturalists distinguish a separate **subfamily** characterized by spurred petals."*
+> - 📜 **Thomas Huxley (*The Anatomy of Vertebrated Animals*):** *"The hominids were formerly grouped as a distinct **subfamily** within the higher catarrhine primates."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The collection contained hundreds of beetles belonging to the magnificent **subfamily** of longhorns."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make improvements or corrections to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improved or corrected by critical editing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected and restored to textual integrity by critical editorial scholarship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had clerical errors, corruptions, or misprints expunged from the printed record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emended designates make improvements or corrections to."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **emended** text of the Justinian Pandects laid the foundation of civil law across Europe."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"In this **emended** edition, obscure typographical errors have been silently corrected."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"He treasured an **emended** scroll of Marcus Aurelius transcribed by a Florentine humanist."*

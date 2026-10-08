@@ -43,7 +43,7 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: Intense happiness, supreme bliss, or good fortune; also the ability to find appropriate expression for one's thoughts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and eudaimonism, the state of lasting flourishing and highest good attained through virtuous living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the state of lasting flourishing and highest good attained through virtuous living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth really believed all his expectations of **felicity** were rationally founded on the amiable disposition of his bride."*

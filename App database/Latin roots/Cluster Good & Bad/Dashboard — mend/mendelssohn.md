@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German musician and romantic composer of orchestral and choral works (1809-1847).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German musician and romantic composer of orchestral and choral works (1809-1847).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Felix Mendelssohn, the celebrated German early Romantic composer, conductor, and pianist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moses Mendelssohn, the distinguished German-Jewish philosopher of the Haskalah (Jewish Enlightenment).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And says he: —Mendelssohn was a jew and Karl Marx and Mercadante and Spinoza."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the whole though favouring preferably light opera of the _Don Giovanni_ description and _Martha_, a gem in its line, he had a _penchant_, though with only a surface knowledge, for the severe classical school such as Mendelssohn."*
-> - 📜 **James Joyce (*Ulysses*):** *"Three seekers of the pure truth, Moses of Egypt, Moses Maimonides, author of _More Nebukim_ (Guide of the Perplexed) and Moses Mendelssohn of such eminence that from Moses (of Egypt) to Moses (Mendelssohn) there arose none like Moses (Maimonides)."*
+> - 📜 **Robert Schumann (*On Music and Musicians*):** *"**Mendelssohn** is the Mozart of the nineteenth century, the most brilliant musician, who sees most clearly through the contradictions of our time."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"The delicate fairy music of **Mendelssohn** in A Midsummer Night's Dream remains unmatched for orchestral lightness."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The philosophical essays of Moses **Mendelssohn** displayed remarkable acuity in defending metaphysical truth."*

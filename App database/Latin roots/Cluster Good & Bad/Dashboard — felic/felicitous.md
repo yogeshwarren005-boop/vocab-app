@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-chosen or suited to the circumstances; apt, pleasing, and fortunate in expression or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and stylistics, exhibiting an exceptionally graceful harmony between thought, diction, and emotional tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-chosen, apt, or strikingly suited to the circumstances; delightfully appropriate in expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by good fortune, flourishing success, or cheerful prosperity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The vicar possessed an uncommonly **felicitous** manner of introducing classical quotations into his Sunday discourses."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"She found his phrase extraordinarily **felicitous**, capturing the subtle nuances of the Roman twilight perfectly."*
-> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Wordsworth’s most **felicitous** lines possess an elemental simplicity that defies imitation or paraphrase."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His diction was characterized by a **felicitous** blend of colloquial vigor and classical harmony."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon flattered himself that he had coined a **felicitous** Latin phrase for his great mythological treatise."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A **felicitous** word uttered at the appointed hour can sway the destiny of empires."*

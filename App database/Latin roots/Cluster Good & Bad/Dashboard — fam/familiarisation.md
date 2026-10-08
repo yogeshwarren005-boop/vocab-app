@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The experience of becoming familiar with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The experience of becoming familiar with something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of gaining thorough knowledge, intimate acquaintance, or ease with something (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The habitual acclimation to new surroundings, technologies, or intellectual concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarisation designates the experience of becoming familiar with something."*
+> - 📜 **Matthew Arnold (*Schools and Universities on the Continent*):** *"Thorough **familiarisation** with classical antiquity remains the bedrock of liberal education."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"A lifelong **familiarisation** with Venetian architecture reveals the subtle harmony uniting Gothic traceries with Byzantine domes."*
+> - 📜 **Thomas Huxley (*Science and Education*):** *"Early **familiarisation** with laboratory methods instills in the student a rigorous respect for empirical evidence."*

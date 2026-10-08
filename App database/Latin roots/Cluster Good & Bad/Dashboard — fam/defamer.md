@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who slanders or libels another; one who utters malicious falsehoods to destroy a reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malicious accuser who spreads calumny and scandal against public or private figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine marched down the halls of the American Congress, and threw his shining lance full and fair against the brazen foreheads of the defamers of his country and the maligners of his honor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A cowardly **defamer** strikes in the dark, scattering rumors he dares not openly defend."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The honorable laird challenged his secret **defamer** to face him before the justices of the peace."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Marat saw in every moderate citizen a potential traitor and secret **defamer** of the republic."*

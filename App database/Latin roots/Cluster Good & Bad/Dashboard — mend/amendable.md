@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrected by additions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrected by additions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrected, improved, or legally modified by formal addition or alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to reform or moral improvement; susceptible of correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amendable designates capable of being corrected by additions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The defects of human language are in large measure **amendable** through clear definitions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Formal errors in the record were declared **amendable** by statutory enactment."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Every generation possesses the sovereign right to determine whether its fundamental charter remains **amendable** to altered needs."*

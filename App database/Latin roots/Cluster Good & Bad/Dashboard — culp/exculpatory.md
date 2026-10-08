@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearing of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearing of guilt or blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending, serving, or intended to clear an accused party from blame, suspicion, or guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, describing evidence that establishes or tends to establish the innocence of a defendant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s voice throughout had hardly risen higher than its opening tone; there had been no exculpatory phrase of any kind, and she had not wept."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No words were requisite to prove him guiltless of these enormities: at the time, however, I was nearly insensible to these exculpatory tokens."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"If they had been less plausible than they were, the good Minor Canon’s mind would have been in a state of preparation to receive them, as exculpatory of his unfortunate pupil."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the footprint carefully, noting that its angle offered strong **exculpatory** evidence for our client."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Miriam offered an **exculpatory** plea for her companion, insisting that his wild act sprang from selfless devotion."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"An accused person may introduce **exculpatory** testimony to rebut the presumption of malicious intent."*

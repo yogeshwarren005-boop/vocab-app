@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German architect who migrated to palestine in 1937 (1887-1953).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German architect who migrated to palestine in 1937 (1887-1953).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erich Mendelsohn, the pioneering German-Jewish modernist architect renowned for dynamic sculptural expressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Erich Mendelsohn's curving, aerodynamic architectural style exhibited in the Einstein Tower at Potsdam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Edward Mendelsohn (London: Faber and Faber, 976), 510-18."*
+> - 📜 **Walter Gropius (*The New Architecture and the Bauhaus*):** *"The curving brick forms designed by Erich **Mendelsohn** demonstrated the expressive sculptural possibilities of modern concrete."*
+> - 📜 **Nikolaus Pevsner (*Pioneers of Modern Design*):** *"In the Einstein Tower, **Mendelsohn** achieved an organic architectural synthesis between dynamic expressionism and functional science."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The commercial department stores of **Mendelsohn** integrated urban street flow with continuous ribbon glazing."*

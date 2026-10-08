@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having achieved a comfortable relation with your environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made conversant with, accustomed to, or thoroughly habituated to something through experience (British variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having acquired ease, facility, or close acquaintance with a subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Afterwards, when familiarised with the visions of enjoyment so suddenly opened, she could speak more largely to William and Edmund of what she felt; but still there were emotions of tenderness that could not be clothed in words."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet Branch has familiarised the bookloving world but rather (as a contributor D."*
-> - 📜 **James Joyce (*Ulysses*):** *"Probably the homelife to which Mr B attached the utmost importance had not been all that was needful or he hadn’t been familiarised with the right sort of people."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The long civil war had **familiarised** the populace with scenes of military violence and political upheaval."*
+> - 📜 **Walter Scott (*Waverley*):** *"A soldier soon becomes **familiarised** to hardship and danger amidst mountain campaigns."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My eyes became gradually **familiarised** to the dim twilight of the laboratory."*

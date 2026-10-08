@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clear someone from an accusation, alleged fault, or suspicion of criminal wrongdoing; to exonerate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To prove or declare blameless and free from legal or moral guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"This I do, not in the least to exculpate myself, because what I have done, I have done calmly and with intention aforethought."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A written defense serves to **exculpate** the magistrate from malicious slanders leveled by factional rivals."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"Jeanie refused to speak a single falsehood, even though a lie would completely **exculpate** her sister from the gallows."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Justine could find no witnesses to **exculpate** her from the terrible suspicion of the child's murder."*

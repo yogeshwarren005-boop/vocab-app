@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septectomy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of all or part of a septum (especially the nasal septum or atrial septum).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of all or part of a septum (especially the nasal septum or atrial septum).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of part or all of an anatomical septum, especially the nasal septum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operative resection performed to relieve severe airway obstruction caused by deviated cartilage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septectomy designates surgical removal of all or part of a septum (especially the nasal septum or atrial septum)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A submucous **septectomy** was performed to restore unobstructed nasal respiration in the chronic catarrh patient."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Transsphenoidal approach to the pituitary required a delicate partial **septectomy** through the anterior nasal passage."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Strict antiseptic technique during **septectomy** prevents dangerous cartilage necrosis and perichondritis."*

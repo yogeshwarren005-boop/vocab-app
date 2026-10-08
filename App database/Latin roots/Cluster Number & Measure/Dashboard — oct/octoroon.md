@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octoroon
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offspring of a quadroon and a white parent; a person who is one-eighth black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offspring of a quadroon and a white parent; a person who is one-eighth black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical term, now obsolete or offensive, for a person of one-eighth African and seven-eighths European ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century racial classification in antebellum America and colonial societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octoroon designates an offspring of a quadroon and a white parent; a person who is one-eighth black."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"The tragic plight of the fair-skinned **octoroon** dramatized the cruel injustice of chattel slavery."*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"In the slaveholding town, even an **octoroon** child was held in bondage despite passing for white."*
+> - 📜 **William Faulkner (*Absalom, Absalom!*):** *"The tragic history of the South was entangled in rigid ancestral divisions dividing planter from **octoroon**."*

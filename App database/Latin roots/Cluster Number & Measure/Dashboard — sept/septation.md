@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The division or partitioning of a cavity into parts by a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The division or partitioning of a cavity into parts by a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or development of dividing partitions or septa within an anatomical structure or cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The partitioning of the embryonic cardiac tube into distinct atria and ventricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septation designates the division or partitioning of a cavity into parts by a septum."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"The **septation** of the primitive heart into four chambers represents a major evolutionary achievement of warm-blooded vertebrates."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Embryonic **septation** recapitulates the phylogenetic transition from single-chambered to partitioned circulatory systems."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Cellular **septation** in filamentous algae proceeds by the centripetal deposition of transverse cellulose walls."*

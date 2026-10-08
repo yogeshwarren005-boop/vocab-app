@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for five performers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of four and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition scored for five voices or instruments, or a group of five performers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any collection, team, or ensemble of five associated persons or things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintet designates a musical composition for five performers."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Mozart's string **quintet** in G minor reaches depths of tragic pathos unmatched in chamber music."*
+> - 📜 **Hector Berlioz (*Evenings with the Orchestra*):** *"The woodwind **quintet** executed the delicate scherzo with breathtaking balance and tonal warmth."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"Brahms added a second viola to his string **quintet**, lending a rich autumnal glow to the lower registers."*

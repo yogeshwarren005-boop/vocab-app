@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millettia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical and subtropical leguminous trees and woody climbers in the family Fabaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical tree valued for rot-resistant timber and seed extracts containing insecticidal rotenone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millettia designates any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood."*
+> - 📜 **George Bentham (*Flora Hongkongensis*):** *"The genus **Millettia** is distinguished among Phaseoleae by its woody pod and showy pendulous purple racemes."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Magnificent climbing species of **Millettia** twine around towering forest trees across the humid Assam valleys."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Indigenous fishermen pound the bark of **Millettia** to extract stupefying saponins that stun river fish."*

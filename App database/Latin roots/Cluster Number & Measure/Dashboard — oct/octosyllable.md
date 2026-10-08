@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octosyllable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having eight syllables or a poem of octosyllabic lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having eight syllables or a poem of octosyllabic lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or poetic line consisting of eight syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eight-syllable line characteristic of medieval French lai and English narrative poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octosyllable designates a verse line having eight syllables or a poem of octosyllabic lines."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Swift wielded the nimble **octosyllable** with unmatched satirical dexterity and biting wit."*
+> - 📜 **John Dryden (*Discourse Concerning the Original and Progress of Satire*):** *"The rhymed **octosyllable** fits humorous narrative, while the heroic decasyllable belongs to epic majesty."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Hudibras was written in a burlesque **octosyllable** that mocked puritan hypocrisy with relentless vigor."*

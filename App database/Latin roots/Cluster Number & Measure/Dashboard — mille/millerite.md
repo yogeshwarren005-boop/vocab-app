@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millerite
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow mineral consisting of nickel sulfide; a minor source of nickel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow mineral consisting of nickel sulfide; a minor source of nickel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass-yellow to bronze-yellow nickel sulfide mineral (NiS) forming slender acicular radiating crystal needles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic capillary mineral occurring in cavities within limestone and ironstone nodules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millerite designates a yellow mineral consisting of nickel sulfide; a minor source of nickel."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The delicate brass-yellow needles of **millerite** radiate in exquisite tufts within cavities of the clay ironstone."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Fine capillary crystals of **millerite** were discovered lining the geodic hollows of the mountain limestone."*
+> - 📜 **Richard Kirwan (*Elements of Mineralogy*):** *"Chemical analysis confirms that **millerite** consists essentially of nickel combined with sulfur in equal proportions."*

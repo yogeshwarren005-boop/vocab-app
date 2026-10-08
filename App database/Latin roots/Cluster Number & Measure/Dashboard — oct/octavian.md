@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octavian
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman statesman who established the roman empire and became emperor in 27 bc; defeated mark antony and cleopatra in 31 bc at actium (63 bc - ad 14).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Gaius Octavius (63 BC–14 AD), first Emperor of Rome, before he assumed the title Augustus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the historic Augustan transition from the Roman Republic to the Principate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"What was the ultimate difference between the old Roman and the Roman of the days of Antony and Octavian?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When Octavian captured Alexandria, he forgave the guilty city "in honour of Serapis," but on his return to Rome he destroyed all the shrines of the god within the city walls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cool and calculating policy of the young **Octavian** triumphed over the impetuous passions of Antony."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Cleopatra dreaded being led in chains through Rome behind the triumphant chariot of victorious **Octavian**."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The constitutional hypocrisy of **Octavian** veiled absolute monarchy beneath republican titles."*

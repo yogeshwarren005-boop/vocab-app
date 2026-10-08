@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # biweekly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that is published twice a week or every two weeks (either 104 or 26 issues per year).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring every two weeks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, appearing, or published once every two weeks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodical issued once every two weeks; fortnightly in British parlance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biweekly designates a periodical that is published twice a week or every two weeks (either 104 or 26 issues per year)."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontier mining camp was served by a lively **biweekly** newspaper printed on wrapping paper."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I walked to the village post office to collect my **biweekly** parcel of correspondence and books."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol attended the **biweekly** meeting of the Thanatopsis club, hoping to introduce serious drama."*

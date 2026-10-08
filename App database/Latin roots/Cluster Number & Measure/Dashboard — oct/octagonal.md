@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octagonal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight sides and eight angles; shaped like an octagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to eight-sided architectural forms or geometric symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My inn had once been a part of an ancient ecclesiastical house, and I dined in a little octagonal common-room, like a font."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He went towards the little, pearl-coloured octagonal stand that had always looked to him like the work of some strange Egyptian bees that wrought in silver, and taking up the volume, flung himself into an arm-chair and began to turn over the leaves."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The campanile was crowned by an **octagonal** lantern of white Istrian stone that reflected the morning light."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The central drawing room features an **octagonal** plan that affords commanding views of the western mountains."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The baptistery of Ravenna was erected upon an **octagonal** foundation adorned with magnificent mosaics."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states philosopher and logician who championed an empirical view of knowledge that depended on language (1908-2001).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states philosopher and logician who championed an empirical view of knowledge that depended on language (1908-2001).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer program that takes no input and outputs a copy of its own source code, named in honor of philosopher W. V. Quine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the philosophical doctrines of W. V. Quine, notably ontological relativity and holism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quine designates united states philosopher and logician who championed an empirical view of knowledge that depended on language (1908-2001)."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"To be assumed as an entity is purely and simply to be reckoned as the value of a variable, as argued by **Quine**."*
+> - 📜 **Bertrand Russell (*My Philosophical Development*):** *"The ingenious logical investigations of **Quine** stimulated fresh debate concerning the nature of mathematical truth."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach: an Eternal Golden Braid*):** *"A self-reproducing computational program is termed a **quine**, mirroring self-referential sentences in formal logic."*

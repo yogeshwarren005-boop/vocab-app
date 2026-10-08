@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octameter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having eight metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having eight metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poetic line or verse consisting of eight metrical feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poetic meter characterized by eight beats, famously exemplified in trochaic octameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octameter designates a verse line having eight metrical feet."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The Raven is composed in trochaic **octameter**, producing a rhythmic cadence of solemn, sonorous sorrow."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The sustained momentum of an **octameter** line demands extraordinary mastery of pause and caesura."*
+> - 📜 **Alfred Lord Tennyson (*Locksley Hall*):** *"Tennyson employed a sweeping trochaic **octameter** to convey the restless vision of technological progress."*

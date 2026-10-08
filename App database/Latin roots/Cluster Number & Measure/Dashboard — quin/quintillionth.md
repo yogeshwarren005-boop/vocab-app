@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintillionth
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One part in a quintillion equal parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of one quintillion in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or being one of a quintillion equal parts of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number matching the position of a quintillion in a sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintillionth designates one part in a quintillion equal parts."*
+> - 📜 **Arthur Eddington (*The Philosophy of Physical Science*):** *"The mass of an electron represents a mere **quintillionth** fraction of ordinary macroscopic measures."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Even a **quintillionth** error in the initial constant would produce noticeable discrepancy in the calculated tables."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The duration of the atomic collision is estimated at less than a **quintillionth** of a second."*

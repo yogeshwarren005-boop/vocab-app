@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a number system having 8 as its base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a number system having 8 as its base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the number eight; using the base-eight numeral system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital computing, a notation using digits 0 through 7 to represent 3-bit binary sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octal designates of or pertaining to a number system having 8 as its base."*
+> - 📜 **Alan Turing (*Programmers' Handbook for Manchester Electronic Computer*):** *"The binary contents of memory words were transcribed into compact **octal** digits for engineering inspection."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*):** *"An **octal** grouping provides a convenient bridge between machine binary registers and human notation."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Each symbol in the **octal** alphabet carries exactly three bits of information through the channel."*

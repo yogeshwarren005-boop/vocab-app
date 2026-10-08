@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # antiseptic
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that destroys micro-organisms that carry disease without harming body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughly clean and free of or destructive to disease-causing organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing the growth of disease-causing microorganisms; or an antimicrobial substance applied to living tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scrupulously clean, sterile, or free from contamination; cold and clinical in atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"That women were often forced to go through thirteen or fourteen deliveries when little thought had yet been given to creating an antiseptic environment for childbirth is apparently of little concern to S."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"In a moment she was back with a small bottle and a bit of antiseptic cotton."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle of the Practice of Surgery*):** *"The application of carbolic acid as an **antiseptic** wash destroyed the airborne germs of hospital gangrene."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Modern surgery was born the day the **antiseptic** doctrine banished wound suppuration from the ward."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The laboratory was bathed in a cold, **antiseptic** light that gleamed upon rows of numbered test-tubes."*

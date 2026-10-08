@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octane
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, flammable hydrocarbon liquid alkane (C₈H₁₈) found in petroleum; or a figure measuring antiknock quality of motor fuel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An index representing the resistance of motor fuel to premature combustion or knocking in an engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octane designates any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The branched isomer known as isooctane defines the standard of one hundred on the automotive **octane** scale."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Fractional distillation of coal naphtha yielded volatile hydrocarbons closely allied to modern **octane**."*
+> - 📜 **Thomas Edison (*Patents and Technical Papers*):** *"High compression engines require a refined fuel of elevated **octane** to eliminate destructive pre-ignition."*

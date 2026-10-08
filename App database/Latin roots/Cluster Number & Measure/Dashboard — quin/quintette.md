@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintette
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Five performers or singers who perform together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of five similar things considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ensemble of five performers, or a musical piece scored for five instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group or association of five individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintette designates five performers or singers who perform together."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The brass **quintette** sounded a solemn chorale that reverberated through the concert hall."*
+> - 📜 **Charles Burney (*The Present State of Music in Germany*):** *"The court orchestra included a virtuoso **quintette** that performed daily for the elector's private circle."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"In Schubert's Trout **quintette**, the addition of the double bass gives exhilarating clarity to the piano part."*

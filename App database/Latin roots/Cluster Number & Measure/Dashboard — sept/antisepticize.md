@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # antisepticize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disinfect with an antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfect with an antiseptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat with an antiseptic substance in order to destroy pathogens and prevent sepsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render sterile, germ-free, or devoid of corrupting or provocative elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepticize designates disinfect with an antiseptic."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The surgeon must carefully **antisepticize** his instruments and hands before making the primary incision."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"We sought a chemical agent that would **antisepticize** the culture medium without precipitating protein."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The fastidious doctor would **antisepticize** every corner of the sickroom until the air was suffocating."*

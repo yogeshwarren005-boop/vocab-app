@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenarism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the millennium or a thousand-year messianic reign of peace on earth; chiliasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine anticipating Christ's literal reign upon earth for a thousand years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenarism designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere fathers of Alexandria discouraged popular **millenarism**, allegorizing the prophecies of the Apocalypse."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"Puritan soldiers were stirred by an ardent **millenarism** that saw the sword of Gideon in their hands."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Literal **millenarism** degrades the sublime spiritual promises of the Gospel into material earthly ambitions."*

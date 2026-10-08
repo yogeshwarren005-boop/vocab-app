@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # asquint
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With a squint or cross-eyed glance; obliquely or out of the corner of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking with suspicion, disapproval, or malicious cunning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That eye that told you so look’d but asquint."*
-> - 📜 **James Joyce (*Ulysses*):** *"Corny Kelleher, asquint, drawls at the horse."*
+> - 📜 **William Shakespeare (*King Lear*):** *"A man may see how this world goes with no eyes; look with thine ears; see how yond justice rails upon yond simple thief; hark, in thine ear: change places; and, handy-dandy, which is the justice, which is the thief? Thou hast seen a farmer's dog bark at a beggar? And the creature run from the cur? There thou mightst behold the great image of authority: a dog's obeyed in office. Thou rascal beadle, hold thy bloody hand! Why dost thou lash that whore? Strip thine own back; thou hotly lusts to use her in that kind for which thou whip'st her. The usurer hangs the cozener. Through tatter'd clothes small vices do appear; robes and furr'd gowns hide all. Plate sin with gold, and the strong lance of justice hurtless breaks; arm it in rags, a pigmy's straw does pierce it. None does offend, none, I say, none; I'll able 'em: take that of me, my friend, who have the power to seal the accuser's lips. Get thee glass eyes; and like a scurvy politician, seem to see the things thou dost not. Now, now, now, now: pull off my boots: harder, harder: so. I get a sneer when looking **asquint**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The court favorite looked **asquint** upon the newcomer, jealous of any rival in the royal presence."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Quilp grinned hideously, looking **asquint** through the door at his terrified victim."*

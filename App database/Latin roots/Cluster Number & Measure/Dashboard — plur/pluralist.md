@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # pluralist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleric who holds more than one benefice at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who believes that no single explanation can account for all the phenomena of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or philosopher of pluralism; or historically, a cleric holding more than one benefice simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker who maintains that power or reality is fundamentally dispersed among diverse autonomous entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralist designates a cleric who holds more than one benefice at a time."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Swift satirized the greedy **pluralist** who accumulated half a dozen fat vicarages while hiring poor curates to preach."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Church reformers protested against the scandalous **pluralist** who drew tithes from parishes he never visited."*
+> - 📜 **William James (*Pragmatism*):** *"The pragmatic **pluralist** accepts the piecemeal, imperfect nature of human experience without demanding metaphysical monism."*

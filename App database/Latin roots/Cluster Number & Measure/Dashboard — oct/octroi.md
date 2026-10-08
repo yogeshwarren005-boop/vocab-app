@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octroi
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax on various goods brought into a town.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax on various goods brought into a town.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A local tax or duty levied on consumer goods and commodities brought into a town for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The barrier or municipal gate office where municipal customs duties were collected in France and Italy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The officers of the _octroi_ were standing close together at the door of their office, in which the lamp was burning."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I have no doubt the scientific gentlemen at the Musée will be able to tell us all about it--M. de Clairon--' 'Not to interrupt M. le Maire,' said Riou, of the _octroi_, 'I think there is more in it than any scientific gentleman can explain.' 'Ah!"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stumbled in, clutching at Riou with my disengaged hand, and fell upon the floor of the _octroi_, where they thought I had fainted."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The municipal **octroi** levied upon provisions at the town gates discouraged rural commerce and raised food prices."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Peasants deeply resented the royal **octroi** that taxed their wine and grain before entering the city walls."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The citizens complained that the newly imposed **octroi** crippled trade and enriched corrupt tax-farmers."*

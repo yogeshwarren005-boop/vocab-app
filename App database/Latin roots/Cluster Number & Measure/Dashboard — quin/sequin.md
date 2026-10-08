@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sequin
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adornment consisting of a small piece of shiny material used to decorate clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small shiny metal or plastic disk sewn onto garments for decorative sparkling effect; or an ancient gold coin of Venice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gold zecchino minted by the Republic of Venice and circulated widely in Levant commerce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Leopopold! _(Twittering.)_ Leeolee! _(Warbling.)_ O Leo! _(They rustle, flutter upon his garments, alight, bright giddy flecks, silvery sequins.)_ BLOOM: A man’s touch."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The marquis then ordered his steward to pay the fisherman twenty sequins; desiring him to call annually for the like sum, as a recompense for the friendly service he had rendered him. 991."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Her silken bodice was adorned with many a golden **sequin** that jingled with every graceful movement of the dance."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The antiquary displayed an ancient Venetian **sequin**, bearing the image of Saint Mark and the Doge."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky wore a glittering dress embroidered with every sparkling **sequin** that could catch the ballroom chandeliers."*

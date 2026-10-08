@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # duo
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two items of the same kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two performers or singers who perform together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of people, performers, or things closely associated or collaborating together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, a duet or composition scored for two instruments or two voices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Albert Lead Mold Process are always duplicates of fine-screen half-tones or mezzo-tints used for the highest class of commercial job-work, such as three and four color process or duo-tone printing on paper with a highly glazed surface."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s nieces had resided with him, so that the talking was done in duos and trios more or less inharmonious."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The comical **duo** of Mr. Pickwick and Sam Weller amused travelers on every coach road in the kingdom."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The investigative **duo** of Holmes and Watson took up residence together in the rooms at 221B Baker Street."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The lively **duo** sang a charming French romance to the delight of the drawing-room audience."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # equinox
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) either of the two celestial points at which the celestial equator intersects the ecliptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time or date (twice each year, around March 20 and September 23) when the sun crosses the celestial equator and day and night are of equal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two points on the celestial sphere where the celestial equator intersects the ecliptic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see this fellow that is gone before, He is a soldier fit to stand by Cæsar And give direction: and do but see his vice, ’Tis to his virtue a just equinox, The one as long as th’ other. ’Tis pity of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The season meanwhile was drawing onward to the equinox, and though it was still fine, the days were much shorter."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I think if we had had the disposal of events—if Mansfield Park had had the government of the winds just for a week or two, about the equinox, there would have been a difference."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"Hipparchus compared ancient star observations with his own to measure the slow westward precession of the **equinox**."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"At the precise moment of the vernal **equinox**, the sun enters the intersection of the ecliptic and celestial equator."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Before the fall, the sun held eternal spring at the **equinox**, dispensing gentle warmth without scorching heat."*

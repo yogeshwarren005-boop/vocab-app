@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septicaemia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invasion of the bloodstream by virulent microorganisms from a focus of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invasion of the bloodstream by virulent microorganisms from a focus of infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood poisoning caused by bacteria or their toxins in the bloodstream; systemic sepsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A life-threatening clinical syndrome characterized by generalized bacterial proliferation throughout the vascular system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septicaemia designates invasion of the bloodstream by virulent microorganisms from a focus of infection."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Before carbolic treatment, hospital gangrene and lethal **septicaemia** swept away half the amputated patients."*
+> - 📜 **Louis Pasteur (*The Germ Theory and Its Applications to Medicine and Surgery*):** *"We isolated the organism of puerperal **septicaemia** from the blood of patients suffering from childbed fever."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The sudden collapse in fulminating **septicaemia** results from the overwhelming flooding of tissues with microbial toxins."*

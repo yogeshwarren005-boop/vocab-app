@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octette
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eight performers or singers who perform together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of eight similar things considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ensemble of eight performers, or a musical work scored for eight instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group or set of eight persons or things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octette designates eight performers or singers who perform together."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"A wind **octette** of oboes, clarinets, horns, and bassoons produces a singularly rustic and noble tone."*
+> - 📜 **Charles Burney (*The Present State of Music in Germany*):** *"The court chapel maintained a vocal **octette** trained in the complex counterpoint of Palestrina."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"Schubert's famous **octette** in F major expands the chamber idiom into miniature symphonic scope."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenarianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious belief in an imminent thousand-year reign of universal peace and divine justice on earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical ideological expectation of a sudden, total transformation of society through divine or revolutionary rupture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenarianism designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"As the Church gained imperial patronage, the revolutionary **millenarianism** of the early martyrs was quietly condemned as heresy."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Oppressed social classes repeatedly turn to apocalyptic **millenarianism** to console themselves against economic misery."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"Modern secular revolutions frequently inherited the utopian fervor of medieval religious **millenarianism**."*

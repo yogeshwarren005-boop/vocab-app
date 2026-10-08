@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quincy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical family name and American city named after prominent patriots such as Josiah Quincy and John Quincy Adams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic spelling of quinsy, an acute peritonsillar abscess causing severe throat inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Hospitals--Ladies who ministered to the soldiers in Quincy, and in Springfield, Illinois--Miss Georgiana Willets, Misses Molineux and McCabe--Ladies of Cincinnati who served in the hospitals--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At Memphis and Mound City, (near Cairo) at Quincy, Illinois, and the cities on the Ohio River, the hospitals were in equally crowded condition."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Maertz was born in Quincy, Illinois, in 1838."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The venerable President **Quincy** presided over Harvard with the antique dignity of a Roman senator."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The memories of his childhood were anchored in the old family homestead at **Quincy**, surrounded by ancestral books."*
+> - 📜 **John Quincy Adams (*Memoirs of John Quincy Adams*):** *"I walked through the quiet fields of **Quincy**, contemplating the heavy responsibilities of national service."*

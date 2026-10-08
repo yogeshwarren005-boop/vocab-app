@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # september
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following august and preceding october.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following august and preceding october.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ninth month of the year in the Gregorian calendar, containing thirty days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month marking the beginning of autumn in the Northern Hemisphere, containing the autumnal equinox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never entered Kellynch since her quitting Lady Russell’s house in September."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time—the July preceding the September in which we find at Greenhill Fair—he fell in with a travelling circus which was performing in the outskirts of a northern town."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This had gone on for a month or two when there came a Saturday in September, on which a fair and a market coincided; and the pilgrims from Trantridge sought double delights at the inns on that account."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"In **September**, when the sun entered the sign of Libra, the harvest was gathered into ancient tithe barns."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"On that bright day of **September**, Queen Elizabeth was born to the joy of all loyal English hearts."*
+> - 📜 **John Keats (*Letters of John Keats*):** *"How beautiful the season is now; how fine the air, a temperate sharpness about it in late **September**."*

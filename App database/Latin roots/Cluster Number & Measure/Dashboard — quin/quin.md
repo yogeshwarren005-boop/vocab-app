@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quin
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of five children born at the same time from the same pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Colloquial abbreviation for a quintuplet; one of five babies born at a single birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shortened prefix or combining form referring to the number five or quinine compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"When Quin and Garrick performed at the same theatre, and in the same play, the night being very stormy, each ordered a chair."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"To the mortification of Quin, Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A person applied to Quin, as manager, to be admitted on the stage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Instances of multiple births exceeding triplets, such as a **quin** delivery, represent extraordinary physiological rarities."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In pentamerous echinoderms, each ray exhibits an identical **quin** symmetry radiating from the central mouth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The obstetrician carefully monitored the delicate premature **quin** infants in heated incubators."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septuple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having seven units or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having seven units or components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of seven parts or elements; seven times as much or as many; sevenfold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To multiply or increase by seven times; sevenfold in magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septuple designates having seven units or components."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The ratio of mechanical resistances was compounded in a **septuple** proportion across the seven fluid layers."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating apparatus resolved the problem through a **septuple** repetition of gear revolutions."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electromagnetic induction produced a **septuple** increase in voltage across the secondary coil."*

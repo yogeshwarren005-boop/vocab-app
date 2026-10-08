@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septicemic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of septicemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of septicemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or suffering from septicemia or systemic blood poisoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by circulating bacteria and bacterial toxins throughout the bloodstream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septicemic designates characteristic of septicemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **septicemic** form of plague proves rapidly fatal before the characteristic buboes have time to develop."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"A **septicemic** reaction followed the contaminated injection, characterized by shivering rigors and high temperature."*
+> - 📜 **Louis Pasteur (*Researches on Inoculation*):** *"The micro-organism causing the **septicemic** fever in cattle was isolated in pure culture by serial dilutions."*

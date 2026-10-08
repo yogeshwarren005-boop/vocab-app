@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # biennially
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Every two years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every two years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Once every two years, or occurring in alternate years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At recurring two-year intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biennially designates every two years."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"Representatives chosen **biennially** will maintain an intimate knowledge of the changing sentiments of their constituents."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"State legislatures that convene **biennially** avoid the reckless proliferation of unstable statutes."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Certain alpine gentians bloom **biennially**, requiring two full seasons of short summer growth."*

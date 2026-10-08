@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinidex
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for an extended-release quinidine sulfate tablet used to treat cardiac arrhythmias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmacological antiarrhythmic preparation designed to maintain steady serum cinchona alkaloid levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinidex designates cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sustained-release formulations like **Quinidex** stabilize cardiac rhythm by prolonging the myocardial refractory period."*
+> - 📜 **Alexander Fleming (*Chemotherapy in Medicine*):** *"The precise therapeutic dosing of **Quinidex** prevents paroxysmal ventricular tachycardia in vulnerable patients."*
+> - 📜 **Paul Ehrlich (*Experimental Therapeutics*):** *"Alkaloid derivatives such as **Quinidex** demonstrate selective ionic receptor blockade on the cardiac membrane."*

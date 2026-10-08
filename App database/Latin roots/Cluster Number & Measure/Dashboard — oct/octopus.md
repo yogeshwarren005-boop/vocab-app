@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octopus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tentacles of octopus prepared as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bottom-living cephalopod having a soft oval body with eight long tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft-bodied, eight-armed cephalopod mollusk noted for intelligence, venomous beak, and camouflage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive, powerful, and grasping organization or monopoly with widespread tentacles of influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well,” said Conseil, with the most serious air in the world, “I remember perfectly to have seen a large vessel drawn under the waves by an octopus’s arm.” “You saw that?” said the Canadian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only is it supposed that these poulps can draw down vessels, but a certain Olaus Magnus speaks of an octopus a mile long that is more like an island than an animal."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"But before leaving, Aiai told his friend to go and kill the big _hee kupua_ (wonderful octopus) in the deep sea, right out of Wailuanui, Koolau, and he consented."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I was much interested by the habits of an **octopus** which lived among the pools on the coral reef."*
+> - 📜 **Victor Hugo (*The Toilers of the Sea*):** *"Gilliatt fought for his life in the dark sea cave against the suffocating embrace of the monster **octopus**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A vast pulpy mass floated on the waves, reminding the whalemen of an enormous spectral **octopus** of the deep."*

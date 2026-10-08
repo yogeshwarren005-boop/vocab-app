@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octopodidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of octopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of octopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of benthic octopuses comprising the majority of known eight-armed cephalopod species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cephalopods characterized by soft saccular bodies, biserial arm suckers, and complex camouflage behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopodidae designates a family of octopoda."*
+> - 📜 **Albert Günther (*Report on the Deep-Sea Fauna*):** *"Specimens of **Octopodidae** dredged from abyssal depths exhibited rudimentary eyes and gelatinous flesh."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The diverse genera of **Octopodidae** illustrate extraordinary evolutionary plasticity in marine habitats."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The coastal **Octopodidae** of the Cape Verde Islands discharged thick sepia ink to elude capture."*

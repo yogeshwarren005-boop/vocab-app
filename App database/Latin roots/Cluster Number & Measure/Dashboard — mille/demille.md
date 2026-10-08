@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # demille
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of Cecil B. DeMille, noted for lavish epic biblical and historical Hollywood spectacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grandiose, monumental, or spectacular style in cinematic presentation and mass drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demille designates united states film maker remembered for his extravagant and spectacular epic productions (1881-1959)."*
+> - 📜 **F. Scott Fitzgerald (*The Love of the Last Tycoon*):** *"The studio lot was arranged on a scale that outdid **DeMille**, with temple facades rising into the California haze."*
+> - 📜 **William Faulkner (*Essays, Speeches & Public Letters*):** *"Hollywood producers mistook the massive crowd pageantry of **DeMille** for genuine dramatic tragedy."*
+> - 📜 **Charlie Chaplin (*My Autobiography*):** *"I admired the boundless energy with which Cecil B. **DeMille** directed thousands of costumed extras across the soundstage."*

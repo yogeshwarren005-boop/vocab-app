@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # duomo
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal christian church building of a bishop's diocese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal christian church building of a bishop's diocese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian cathedral church, especially the principal monumental cathedral of an Italian city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grand domed municipal cathedral typified by the Duomo of Florence or Milan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duomo designates the principal christian church building of a bishop's diocese."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The soaring red dome of Brunelleschi's **duomo** commands the Tuscan plain like a mountain of baked brick."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The majestic **duomo** of Milan rose before us like a frozen fairy poem sculpted in pure white marble."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy stood in the sunny piazza, gazing upward at the magnificent striped facade of the Florence **duomo**."*

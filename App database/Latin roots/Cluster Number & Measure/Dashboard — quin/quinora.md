@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinora
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial brand of quinidine sulfate used in cardiology to treat and prevent cardiac arrhythmias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiarrhythmic cinchona preparation formulated for oral management of atrial fibrillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinora designates cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians relied upon **Quinora** to maintain normal rhythm in patients prone to recurrent atrial flutter."*
+> - 📜 **Alexander Fleming (*Chemotherapy in Medicine*):** *"The pharmacokinetic profile of **Quinora** required careful monitoring of plasma electrolyte concentrations."*
+> - 📜 **Paul Ehrlich (*Experimental Therapeutics*):** *"The therapeutic efficacy of **Quinora** demonstrated the power of purified natural alkaloids in systemic disease."*

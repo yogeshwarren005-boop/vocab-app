@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # october
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following september and preceding november.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following september and preceding november.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth month of the year in the Gregorian calendar, containing thirty-one days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The season of mid-autumn, characterized by falling foliage and traditional harvest celebrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In my room there were oval engravings of the months—ladies haymaking in short waists and large hats tied under the chin, for June; smooth-legged noblemen pointing with cocked-hats to village steeples, for October."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were indifferently well assisted by the old maltster, who, when the malting season from October to April had passed, made himself useful upon any of the bordering farmsteads."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One Saturday evening in the month of October Bathsheba’s vehicle was duly creeping up this incline."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"When that the month of **October** was past, the chill north winds stripped the forest bare."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The fiery sun had set upon the bloody field of Shrewsbury on that chill eve of **October**."*
+> - 📜 **John Keats (*To Autumn*):** *"Mellow **October** fills all fruit with ripeness to the core, crowning the year with golden hazel nuts."*

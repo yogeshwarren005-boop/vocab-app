@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octans
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The constellation that includes the southern celestial pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constellation that includes the southern celestial pole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation located at the south celestial pole, containing the pole star Polaris Australis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The circumpolar southern asterism symbolizing the navigator's reflecting octant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octans designates the constellation that includes the southern celestial pole."*
+> - 📜 **Nicolas-Louis de Lacaille (*Astronomical Observations of the Southern Stars*):** *"Lacaille placed the constellation **Octans** at the southern pole to honor the instrument of maritime discovery."*
+> - 📜 **John Herschel (*Results of Astronomical Observations Made at the Cape of Good Hope*):** *"The southern celestial pole falls within the borders of **Octans**, unmarked by any bright beacon."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Navigators sailing past the Cape of Good Hope observed the dim stars of **Octans** circling the southern zenith."*

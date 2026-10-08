@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # oct
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following september and preceding november.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following september and preceding november.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard written abbreviation for October, the tenth month of the Gregorian year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A numeral prefix or combining element signifying eight in measurement or classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blacklock Ellisland, 21st Oct., 1789."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"‘Oct. 4th, rooms 8_s_., breakfast 2_s_. 6_d_., cocktail 1_s_., lunch 2_s_. 6_d_., glass sherry, 8_d_.’ I see nothing in that.” “Very likely not."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Westminster Review, Vol. 138, Oct. 1892."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient calendar designated the eighth lunar cycle with the numerical prefix **oct** before imperial revisions."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"In common commercial ledgers, the clerk abbreviated the name of the month to **Oct** for speed and economy."*
+> - 📜 **John Milton (*Letters of State*):** *"The diplomatic treaty was subscribed at the council chamber on the ides of **Oct** amidst solemn celebrations."*

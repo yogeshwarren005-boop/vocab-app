@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # abbreviate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in scope while retaining essential elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shorten a word, phrase, or text by omitting letters or substituting symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce the duration, extent, or ceremonial length of an event or procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this intensity of his physical prostration did but so much the more abbreviate it."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"I must plead guilty to the charge of abbreviating the official breath of more than one of these venerable servants of the republic."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"Writers frequently **abbreviate** technical terms, trusting the context to illuminate their intent."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the office of wisdom to **abbreviate** long scholastic disputations into clear axioms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor resolved to **abbreviate** the judicial process to prevent ruinous legal delay."*

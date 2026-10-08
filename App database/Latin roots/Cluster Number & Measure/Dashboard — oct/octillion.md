@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octillion
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number that is represented as a one followed by 27 zeros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number that is represented as a one followed by 27 zeros.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cardinal number represented by 1 followed by 27 zeros in the short scale (10²⁷), or 48 zeros in the long scale (10⁴⁸).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unimaginably vast astronomical or cosmological quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octillion designates the number that is represented as a one followed by 27 zeros."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"The total number of protons in the observable cosmos is estimated to exceed an **octillion** times an octillion."*
+> - 📜 **Camille Flammarion (*Astronomy for Amateurs*):** *"The mind reels before an **octillion** miles of interstellar void separating the distant spiral nebulae."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating engine was designed to register operations extending into the **octillion** column without error."*

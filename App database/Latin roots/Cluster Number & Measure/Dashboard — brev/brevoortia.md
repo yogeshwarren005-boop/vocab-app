@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # brevoortia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Menhaden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Menhaden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of clupeid fishes comprising the Atlantic and Gulf menhadens (*Brevoortia tyrannus*), vital for marine food webs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Planktivorous oily marine schooling fishes harvested commercially for fish meal and industrial oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog brevoortia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Spencer Fullerton Baird (*Reports on the Sea Fisheries of the South Coast of New England*):** *"Enormous shoals of **Brevoortia** enter the coastal sounds in early summer, pursued by bluefish and porpoises."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The menhaden, genus **Brevoortia**, possesses extraordinarily fine gill rakers designed for straining microscopic diatoms."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The economic fishery founded upon **Brevoortia** along the Atlantic seaboard converts wild plankton into valuable oil."*

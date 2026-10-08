@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millennian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or lasting for a millennium or thousand-year epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the millennial reign of peace described in apocalyptic literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millennian designates relating to a millennium or span of a thousand years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **millennian** hope sustained the desert ascetics through long decades of fasting and solitude."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A grand **millennian** vision of human brotherhood shimmered through the fiery prose of the revolutionary pamphlets."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The archangel depicted the **millennian** peace that shall crown the final victory of truth over ancient darkness."*

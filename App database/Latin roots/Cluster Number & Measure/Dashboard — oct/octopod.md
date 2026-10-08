@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octopod
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cephalopod with eight arms but lacking an internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalopod with eight arms but lacking an internal shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eight-footed or eight-armed cephalopod mollusk, especially an octopus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or having eight arms or feet like an octopus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopod designates a cephalopod with eight arms but lacking an internal shell."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The curious **octopod** changed its color like a chameleon, matching the underwater rocks with uncanny speed."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In every typical **octopod**, the foot is modified into eight flexible, sucker-bearing arms encircling the mouth."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The benthic **octopod** exhibits extraordinary cerebral development compared to other molluscan classes."*

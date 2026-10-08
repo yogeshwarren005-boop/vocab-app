@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quincentenary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 500th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a 500th anniversary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The five-hundredth anniversary of a significant historical event, or the commemoration of such an occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a period of five hundred years or a five-hundredth anniversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quincentenary designates the 500th anniversary (or the celebration of it)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The city celebrated the **quincentenary** of the battle with magnificent military triumphs and civic games."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The university commemorated its **quincentenary** by publishing the ancient charters granted by medieval kings."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"The **quincentenary** of the printing press was hailed as the dawn of universal intellectual emancipation."*

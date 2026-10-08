@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinsy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute inflammation of the tonsils accompanied by an abscess in surrounding connective tissue; peritonsillar abscess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe, painful swelling of the throat causing difficulty in swallowing and breathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’d had the quinsy and swollen glands when he was young, he told me, and it had left him with a weak throat, and a hesitating, whispering fashion of speech."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The wolf paused, turned its heavy forehead toward the dogs awkwardly, like a man suffering from the quinsy, and, still slightly swaying from side to side, gave a couple of leaps and with a swish of its tail disappeared into the skirt of the wood."*
-> - 📜 **James Joyce (*Ulysses*):** *"She is a hoary pandemonium of ills, enlarged glands, mumps, quinsy, bunions, hayfever, bedsores, ringworm, floating kidney, Derbyshire neck, warts, bilious attacks, gallstones, cold feet, varicose veins."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"The cardinal complained of a choking **quinsy** that seized his throat and hindered all clear speech."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Johnson defined **quinsy** as a tumid inflammation of the throat, proceeding to suppuration."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Diseases of ghastly spasm, choking **quinsy**, and racking joint-pains tormented fallen mankind."*

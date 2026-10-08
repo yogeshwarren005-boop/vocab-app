@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bipolar
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to manic depressive illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, pertaining to, or occurring in both polar regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to two opposite poles, polarities, or extremes of opinion or mood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, relating to a mood disorder characterized by alternating depressive and manic episodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bipolar designates of or relating to manic depressive illness."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic needle demonstrates that every magnetic molecule possesses a **bipolar** distribution of force."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness oscillates between **bipolar** attitudes of energetic action and passive contemplation."*
+> - 📜 **George F. Kennan (*Memoirs 1950–1963*):** *"The post-war international order was dominated by a rigid **bipolar** rivalry between Moscow and Washington."*

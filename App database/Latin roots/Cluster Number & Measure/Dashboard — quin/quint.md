@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quint
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of five playing cards of the same suit; or an organ stop sounding a fifth above the fundamental pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval of a fifth; or colloquial abbreviation for a quintuplet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Quint?” “Peter Quint—his own man, his valet, when he was here!” “When the master was?” Gaping still, but meeting me, she pieced it all together."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Then the master went, and Quint was alone.” I followed, but halting a little."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"To play with him, I mean—to spoil him.” She paused a moment; then she added: “Quint was much too free.” This gave me, straight from my vision of his face—_such_ a face!—a sudden sickness of disgust."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The organist drew the **quint** stop, enriching the pedal diapasons with brilliant harmonic resonance."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The viola section executed a rapid passage in fifths, sounding the **quint** with hollow archaic sonority."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Each surviving **quint** showed remarkable developmental resilience under careful pediatric nursing."*

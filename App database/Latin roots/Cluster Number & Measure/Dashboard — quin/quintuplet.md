@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintuplet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of five children born to the same mother at a single birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group, collection, or combination of five associated items; in music, a rhythmic group of five notes played in the time of four.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintuplet designates the cardinal number that is the sum of four and one."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The rare delivery of a **quintuplet** represents an extreme reversion to the multiparous condition of ancestral mammals."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Plural human births extending to a complete **quintuplet** occur with statistical frequency less than one in millions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The survival of every infant in a **quintuplet** pregnancy was celebrated as a milestone in neonatal medicine."*

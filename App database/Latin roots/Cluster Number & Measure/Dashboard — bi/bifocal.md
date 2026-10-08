@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bifocal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two foci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two foci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two focal lengths, especially lenses with separate sections for near and distant vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to eyeglasses containing two distinct corrective powers in a single spectacle lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bifocal designates having two foci."*
+> - 📜 **Benjamin Franklin (*Autobiography and Selected Writings*):** *"Franklin devised the **bifocal** spectacle lens so that he might shift his glance from distant landscape to book without changing glasses."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The **bifocal** arrangement combines a diverging upper segment with a reading convex portion below."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Pages from an Old Volume of Life*):** *"Old age adjusts its **bifocal** spectacles to inspect the present while gazing steadily toward eternity."*

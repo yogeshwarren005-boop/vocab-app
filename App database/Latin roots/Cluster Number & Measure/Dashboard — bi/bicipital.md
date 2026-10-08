@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bicipital
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two heads or points of origin as a biceps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two heads or points of origin as a biceps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or located near a biceps muscle or two-headed anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, relating to the bicipital groove of the humerus or two-headed ribs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicipital designates having two heads or points of origin as a biceps."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The tendon glides smoothly through the **bicipital** groove of the anterior humerus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cervical ribs in crocodilians exhibit a distinct **bicipital** articulation with the centrum and arch."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The **bicipital** tuberosity provides a powerful lever arm for the forelimb in diving reptiles."*

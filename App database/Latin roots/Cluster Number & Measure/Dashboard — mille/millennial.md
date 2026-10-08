@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millennial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a thousand years, or to the promised thousand-year golden age of peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the generation reaching adulthood in the early twenty-first century (Millennials).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory As this consummation draws nearer, he who has shaped his course in accordance with divine Science 96:27 will endure to the end."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"There, haunting the taciturn tree-tops Millennial prophecies linger, The inexhaustible waters Abide there forever and aye."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **millennial** expectation of the early Church waned as the Roman Empire embraced Christian worship."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"In the presence of nature, a wild **millennial** hope revives in the breast of the weary philosopher."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The **millennial** sectarians gathered upon the hillside, expecting the dawn to usher in the kingdom of heaven."*

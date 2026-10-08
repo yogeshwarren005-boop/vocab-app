@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # pluralise
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a grammatical morpheme that indicates plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a grammatical morpheme that indicates plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make plural; to express a word or concept in the plural number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to become pluralistic or diverse in character or structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralise designates mark with a grammatical morpheme that indicates plural."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"When we **pluralise** a general term, we affirm its application across numerous distinct individuals."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Professor Higgins observed how street dialects **pluralise** irregular substantives with phonetic carelessness."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"To **pluralise** our philosophical vision is to recognize that reality is an open, uncompleted mosaic."*

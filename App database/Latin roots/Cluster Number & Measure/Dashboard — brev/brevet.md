@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # brevet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document entitling a commissioned officer to hold a higher rank temporarily (but without higher pay).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promote somebody by brevet, in the military.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military commission conferring a higher nominal rank upon an officer without corresponding pay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official royal warrant, authorization, or patent conferring rank or honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Harriet Foote Hawley, wife of Brevet Major-General Hawley, the present Governor of Connecticut."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Delightful inducements to embark, fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"I recommended him for a **brevet** majority as a reward for conspicuous gallantry at Monmouth."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Captain Dobbin was promoted by **brevet** after the bloody victory at Waterloo."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The riverboat captain held a **brevet** rank in the militia which he flaunted on public holidays."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinine
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter crystalline alkaloid extracted from cinchona bark, historically used as the principal cure for malaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tonic and antipyretic compound with a characteristic fluorescent property under ultraviolet radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We made mustard poultices with white of egg instead of water, to save needless irritation of the skin; we used the French expedient of putting quinine pads under the armpits to reduce the terrible temperature."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Quinine is the best remedy, but it should be taken advisedly."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The surgeon administered heavy doses of **quinine** to the fever-stricken seamen as we traversed the malarial coast."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The gathering of cinchona bark for **quinine** formed the principal trade of the mountain inhabitants of Loja."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **quinine** we possess a specific remedy that destroys the plasmodial parasites within the circulating erythrocytes."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — viginti]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # vigintile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin viginti within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of viginti in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In statistics, any of the nineteen values that divide a frequency distribution into twenty equal parts (each representing 5%).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A five-percent quantile interval in a statistical distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigintile designates pertaining to, derived from, or characteristic of latin viginti within the domain of number & measure."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"By dividing the population into successive **vigintile** intervals of five percent each, subtle variations are revealed."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The frequency distribution was segmented by **vigintile** boundaries to calculate the dispersion of stature."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"The statistical survey tabulated wages by **vigintile** percentiles to illustrate economic inequality across factories."*

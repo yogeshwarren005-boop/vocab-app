@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # duologue
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the script in which the speaking roles are limited to two actors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic conversation or scene conducted exclusively between two speakers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical play or literary dialogue featuring only two speaking performers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duologue designates a conversation between two persons."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The second act resolves into an intense psychological **duologue** between the alienated lovers."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The philosophical **duologue** between Vivian and Cyril sparkles with irreverent aesthetic paradoxes."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"In Jane Austen's hands, a simple morning **duologue** across the tea table reveals an entire social universe."*

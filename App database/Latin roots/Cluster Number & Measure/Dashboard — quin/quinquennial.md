@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinquennial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin quin within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of quin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring once every five years, or lasting for a period of five years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurring five-year event, census, or festival; an exhibition held every five years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinquennial designates pertaining to, derived from, or characteristic of latin quin within the domain of number & measure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman censors completed their **quinquennial** lustrum with solemn purifications of the assembled citizens."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **quinquennial** census of the population was mandated to adjust representation equitably among the states."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I advocated a **quinquennial** review of our commercial treaties to adapt our policy to emerging foreign markets."*

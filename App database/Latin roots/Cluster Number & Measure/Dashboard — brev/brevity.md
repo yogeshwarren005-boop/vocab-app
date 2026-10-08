@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # brevity
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of brief expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being brief or fleeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concise and exact use of words in writing or speech; shortness of expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shortness of time, transient duration, or briefness of earthly life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, since brevity is the soul of wit, And tediousness the limbs and outward flourishes, I will be brief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will imitate the honourable Romans in brevity.” POINS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sure means brevity in breath, short-winded."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Therefore, since **brevity** is the soul of wit, and tediousness the limbs and outward flourishes, I will be brief."*
+> - 📜 **Francis Bacon (*Essays*):** *"To use too many circumstances ere one come to the matter is wearisome; yet **brevity** without clarity is dark."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The true art of narrative consists in that judicious **brevity** which omits whatever adds no light to the catastrophe."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septobasidium
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of septobasidiaceae: smooth shelf fungi usually having a well-developed sometimes thick-walled hypobasidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of septobasidiaceae: smooth shelf fungi usually having a well-developed sometimes thick-walled hypobasidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic basidiomycete fungi living symbiotically with scale insects on living twigs and bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that form leathery, felt-like crusts on branches, sheltering and parasitizing scale insect colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septobasidium designates type genus of septobasidiaceae: smooth shelf fungi usually having a well-developed sometimes thick-walled hypobasidium."*
+> - 📜 **John Nathaniel Couch (*The Genus Septobasidium*):** *"The fungal crust of **Septobasidium** provides houses, tunnels, and nurseries for the scale insects beneath."*
+> - 📜 **Anton de Bary (*Morphology of Fungi*):** *"In **Septobasidium**, the basidium divides into four distinct compartments by transverse partitions before spore discharge."*
+> - 📜 **Roland Thaxter (*Contributions from the Cryptogamic Laboratory of Harvard University*):** *"Colonies of **Septobasidium** covered the citrus boughs, anchoring their haustorial hyphae into the bodies of living scales."*

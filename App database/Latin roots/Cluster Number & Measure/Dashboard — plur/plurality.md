@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # plurality
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large indefinite number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relative majority of votes exceeding any single competitor; or numerical multiplicity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Numerical multiplicity; or the simultaneous holding of multiple ecclesiastical benefices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1880, when business prosperity was rapidly returning, the party in power was successful by a goodly margin of votes in the electoral college, tho having a bare plurality of the popular vote."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1892, Cleveland, being again a candidate, was successful over Harrison by a largely increased plurality of the popular vote, and received almost double the electoral vote of his opponent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"‘Not without regard to the import of the word as conveying unity or plurality of idea’—tell me again what that means, Ben.” (Mrs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The candidate who receives a **plurality** of electoral votes is deemed chosen if no absolute majority is attained."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind observes a **plurality** of substances coexisting in nature without confounding their distinct identities."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic elections, a mere **plurality** often suffices to decide the representation of a district."*

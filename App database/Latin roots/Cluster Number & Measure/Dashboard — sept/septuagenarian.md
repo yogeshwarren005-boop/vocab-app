@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septuagenarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the seventies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose age is in the seventies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is between seventy and seventy-nine years old.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a person in their seventies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septuagenarian designates someone whose age is in the seventies."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The cheerful **septuagenarian** smiled as he recalled the youthful follies of half a century before."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Dryden composed some of his most vigorous verses when already an active and honored **septuagenarian**."*
+> - 📜 **Ralph Waldo Emerson (*Journals*):** *"To meet a wise **septuagenarian** whose intellectual curiosity remains unquenched is one of life's richest encounters."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # arduously
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arduous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an arduous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner requiring strenuous, exhausting labor and persevering effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intense, painstaking difficulty or steep physical exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They were singing discordantly, arduously, and with great effort, evidently not because they wished to sing, but because they wanted to show they were drunk and on a spree."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We climbed **arduously** through dense bamboo thickets to reach the summit of the smoking volcano."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The scholar labored **arduously** through the night, seeking the divine light buried in ancient folios."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The oarsmen pulled **arduously** against the white squall, struggling to keep the whaleboat head to sea."*

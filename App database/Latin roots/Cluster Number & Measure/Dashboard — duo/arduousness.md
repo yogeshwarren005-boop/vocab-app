@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # arduousness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme effortfulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme effortfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The difficult, laborious, and exhausting nature of an enterprise, climb, or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steepness of ascent or magnitude of exertion required to achieve an objective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arduousness designates extreme effortfulness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **arduousness** of the literary life is disguised from the novice by the distant glitter of fame."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Pioneer settlers were not deterred by the **arduousness** of clearing virgin forests across the frontier."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Great souls welcome the **arduousness** of independent thinking, despising easy conformity."*

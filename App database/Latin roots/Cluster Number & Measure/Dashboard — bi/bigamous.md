@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bigamous
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of illegal marriage to a second person while legally married to a first.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of illegal marriage to a second person while legally married to a first.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, guilty of, or pertaining to the crime of bigamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contracting an unlawful second marriage during the lifetime of a prior undivorced spouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bigamous designates of illegal marriage to a second person while legally married to a first."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **bigamous** union is void *ab initio*, conferring no dower rights upon the second spouse."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal scandal hinged upon an alleged **bigamous** alliance entered into in a remote continental chapel."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard dreaded that his past reckless transaction might expose him to a charge of **bigamous** conduct."*

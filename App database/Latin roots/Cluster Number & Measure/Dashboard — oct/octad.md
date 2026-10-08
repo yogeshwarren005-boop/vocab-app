@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octad
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seven and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of seven and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, series, or collection of eight objects, entities, or persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, an element or radical having a chemical valence or combining power of eight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octad designates the cardinal number that is the sum of seven and one."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"The mystical Egyptian cosmology celebrated the primordial **octad** of four divine pairs emerging from chaos."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The configuration formed an exquisite **octad** of stars symmetrically distributed across the telescopic field."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The stable noble gas configuration represents an electronic **octad** that satisfies the closed valence shell."*

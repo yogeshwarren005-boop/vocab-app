@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 1000th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A span of 1000 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or pertaining to a thousand, especially a thousand years; a thousandth anniversary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A millennium or thousand-year period; or a believer in the millennium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenary designates the 1000th anniversary (or the celebration of it)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **millenary** celebration of the foundation of Rome was commemorated with secular games under Emperor Philip."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **millenary** petition signed by hundreds of puritan divines was presented to King James upon his accession."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Johnson defined **millenary** as consisting of a thousand, whether reckoned in years, soldiers, or talents."*

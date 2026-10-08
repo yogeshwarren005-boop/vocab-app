@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # biceps
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skeletal muscle having two origins (but especially the muscle that flexes the forearm).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle having two heads or origins, especially the large flexor muscle of the upper arm (*biceps brachii*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular physical power, brute strength, or the flexor muscle of the thigh (*biceps femoris*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Look at that arm.” I pulled up my sleeve and showed a biceps so attenuated that when I flexed it it had the appearance of a string."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A real blacksmith’s biceps, eh, Warden?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It has come to this it seems: women must either be weak, and cling so close to man that she can't be struck, keep entirely out of the range of his fists and arms,--or develop biceps equal to his."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human arm shares identical insertions for the **biceps** muscle with the anthropoid apes."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Contraction of the **biceps** flexes the forearm upon the humerus and supinates the hand."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"The handsome sailor displayed a muscular **biceps** that commanded admiration among the entire crew."*

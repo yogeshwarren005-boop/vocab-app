@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septate
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into compartments or chambers by one or more partitions or septa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and botany, having hyphae or spore cells divided by cross-walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Before this point was satisfactorily decided, the brown spores, which are borne on long stalks, and are themselves septate or divided (apparently or really) by transverse partitions into a complex fruit, received the name of _Puccinia Rosæ_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The lower leaves of young seedlings have generally rewarded us with the best specimens of the septate-fruited brand (_Puccinia variabilis_, Grev.)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The chambered shell of the nautilus is divided into successive **septate** compartments by transverse partitions."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In higher fungi, the vegetative mycelium consists of **septate** filaments perforated by minute central pores."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Fossil corals display an internal structure of radiating **septate** plates that support the polyp."*

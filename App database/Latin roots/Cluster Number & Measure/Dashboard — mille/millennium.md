@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millennium
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A span of 1000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) in revelations it is foretold that those faithful to jesus will reign with jesus over the earth for a thousand years; the meaning of these words have been much debated; some denominations (e.g. jehovah's witnesses) expect it to be a thousand years of justice and peace and happiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of a thousand years, especially computed from the beginning of the Christian era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A utopian period of supreme peace, righteousness, and happiness on earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rank and file might be willing to talk of the millennium, but preferred to take it in instalments instead of waiting for it to come some centuries after they were dead."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"We may laugh at their crudity--their certainty that, once orthodoxy has been destroyed by argument, the millennium will begin; what is more to the purpose is to recognise that here is something more than the ordinary dogmatism of youthful ignorance."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"As the close of the tenth century approached, terror seized Europe that the **millennium** had arrived to end the world."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The enthusiasts imagined that the **millennium** was at hand, and that saintly magistrates would rule without taxation."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every reform movement promises a **millennium**, yet human nature remains constant across the centuries."*

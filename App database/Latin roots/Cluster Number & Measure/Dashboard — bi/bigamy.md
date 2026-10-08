@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bigamy
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two spouses at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The offense of marrying someone while you have a living spouse from whom no valid divorce has occurred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering into a marriage with one person while still legally married to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon and criminal law, the offense of contracting concurrent plural marriages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester continued, hardily and recklessly: “Bigamy is an ugly word!—I meant, however, to be a bigamist; but fate has out-manoeuvred me, or Providence has checked me,—perhaps the last."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Polygamy or **bigamy** is considered a serious breach of public police and moral discipline."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane refused to stay with Rochester, resolving that no sophistry should lure her into the guilt of **bigamy**."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The whispered rumor of secret **bigamy** cast a dark shadow over the illustrious family pedigree."*

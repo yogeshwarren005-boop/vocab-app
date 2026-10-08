@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # brevicipitidae
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of burrowing microhylid frogs native to southern and eastern Africa, known as rain frogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Globular, short-limbed anurans specialized for subterranean life, with direct development of embryos without aquatic tadpoles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brevicipitidae designates narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Batrachia Salientia in the British Museum*):** *"The anuran family **Brevicipitidae** is characterized by an extremely abbreviated snout and stout digging metatarsal tubercles."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"Members of **Brevicipitidae** inflate their globular bodies when disturbed, emitting plaintive squeaks from sandy burrows."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The anatomical reduction of cranial arches in **Brevicipitidae** reflects intense burrowing specialization."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # sequined
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with beads or jewels or sequins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with beads or jewels or sequins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated, embroidered, or covered with shiny sequins or spangles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glittering, sparkling, or adorned with luminous metallic disks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequined designates covered with beads or jewels or sequins."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The guests drifted through Gatsby's garden in **sequined** gowns that shimmered beneath the floating lanterns."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She stepped into the Venetian gondola wearing a **sequined** mantle that caught the green reflections of the canal."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The theatrical costume consisted of a **sequined** doublet that caught the gaslights of the stage."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septal
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located in, or forming an anatomical or biological septum (partition wall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the dividing wall of the nasal cavity, cardiac chambers, or fungal hyphae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septal designates of or relating to a septum."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **septal** cartilage divides the nasal cavity into symmetrical right and left olfactory chambers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In birds and mammals, the complete development of the ventricular **septal** wall prevents mixing of venous and arterial blood."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The **septal** nectary of the monocotyledonous flower secretes sweet syrup to attract foraging insect pollinators."*

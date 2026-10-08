@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millet
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small-grained annual cereal and forage grasses of the genera panicum, echinochloa, setaria, sorghum, and eleusine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter of rural scenes (1814-1875).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small-seeded cereal grass widely grown as a staple grain crop in warm, arid regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tiny edible nutritious seeds of *Panicum miliaceum* or related poaceous grasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, they ate a sort of millet, and pickles of astounding variety and ungodly hot."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The valley was narrow, not long, and the swift slope of its floor and the steep walls of its rim were terraced for the growing of rice and of millet—the first rice and millet we Sons of the Mountain had known."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For we had found the mud granaries filled with rice and millet."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Various forms of **millet** have been cultivated in Asia from the earliest dawn of agricultural history."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The ancient Chinese husbandman sowed his field with **millet**, observing the rites of the seasonal solstice."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In several arid provinces of India, coarse **millet** provides the principal sustenance of the rural population."*

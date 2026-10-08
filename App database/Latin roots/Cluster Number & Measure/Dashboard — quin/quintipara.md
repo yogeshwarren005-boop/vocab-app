@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintipara
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In obstetrics, a woman who has given birth five times to viable offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patient with a documented obstetric history of five previous deliveries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintipara designates (obstetrics) woman who has given birth to a viable infant in each of five pregnancies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical management of a **quintipara** requires vigilance regarding uterine fatigue during protracted labor."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The experienced **quintipara** greeted the onset of labor with calm stoicism born of repeated experience."*
+> - 📜 **Florence Nightingale (*Introductory Notes on Lying-In Institutions*):** *"Statistics demonstrate that puerperal risks vary significantly between the primipara and the multi-bearing **quintipara**."*

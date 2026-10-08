@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # pluralisation
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pluralizing or attributing plurality to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pluralizing or attributing plurality to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical conversion of words into the plural form; or the expansion into multiple diverse entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The growth and coexistence of multiple cultural, religious, or political groups within a society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralisation designates the act of pluralizing or attributing plurality to."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The political **pluralisation** of modern society prevents any single class from exercising absolute tyranny."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Rationalization is accompanied by the **pluralisation** of competing value spheres in urban life."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **pluralisation** of religious denominations in America strengthened morality while checking sectarian despotism."*

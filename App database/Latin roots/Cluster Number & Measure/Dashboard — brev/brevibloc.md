@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # brevibloc
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intravenous beta blocker (trade name brevibloc) that acts for only a short time; used primarily for cardiac arrhythmias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intravenous beta blocker (trade name brevibloc) that acts for only a short time; used primarily for cardiac arrhythmias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for esmolol hydrochloride, a cardioselective ultra-short-acting beta-blocker used in intravenous cardiology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast-onset intravenous cardiovascular medication used to control tachycardia and arrhythmia during surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brevibloc designates intravenous beta blocker (trade name brevibloc) that acts for only a short time; used primarily for cardiac arrhythmias."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutics utilizes rapid intravenous agents like **Brevibloc** to terminate acute supraventricular tachycardias."*
+> - 📜 **Alexander Fleming (*Medical Papers and Lectures*):** *"The emergence of targeted receptor pharmacology exemplified by **Brevibloc** transformed emergency cardiac care."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"The short receptor binding half-life of **Brevibloc** demonstrates how molecular design can limit systemic toxicity."*

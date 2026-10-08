@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bigamist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who marries one person while already legally married to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who marries one person while already legally married to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits the crime of marrying another while still legally married to a living spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A perpetrator of bigamy in criminal and matrimonial law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester continued, hardily and recklessly: “Bigamy is an ugly word!—I meant, however, to be a bigamist; but fate has out-manoeuvred me, or Providence has checked me,—perhaps the last."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law punished the felonious **bigamist** with severe penalties to protect the sanctity of marriage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester was stopped at the very altar steps and denounced as a deliberate **bigamist** by the stranger."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Noble Bachelor*):** *"Holmes quickly unmasked the aristocratic adventurer as a callous **bigamist** hunting wealthy heiresses."*

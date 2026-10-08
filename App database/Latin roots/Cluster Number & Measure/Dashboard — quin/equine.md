@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # equine
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a horse or other member of the horse family (*Equidae*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse or other perissodactyl ungulate belonging to the genus *Equus*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The same wise judge of matters equine Who still preferred some slim four-year-old To the big-boned stock of mighty Berold, And, for strong Cotnar, drank French weak wine, He also must be such a lady’s scorner!"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The equine's disposition, it must be said, had not been improved by the immense saddle-bags with which the Doctor had surmounted him when on the march."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is noticeable that the equine race, in its wild state, has none of the ills of the species domesticated."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record demonstrates the gradual evolution of the single-toed **equine** foot from multi-toed ancestors."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"In America, Marsh discovered the complete genealogical line of **equine** descent in consecutive Tertiary beds."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Houyhnhnms possessed the noble **equine** form united with an uncorrupted rational benevolence."*

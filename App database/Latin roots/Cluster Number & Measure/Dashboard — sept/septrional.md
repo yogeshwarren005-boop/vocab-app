@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septrional
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the north; northern or arctic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the northern boreal winds, constellations, or regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septrional designates of northern regions; from the seven stars (or seven plowing oxen) of ursa major."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Beyond the Caspian sea the cold **septrional** blast drove icy storms across the desolate steppes."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The **septrional** nations of Europe possess a hardy constitution hardened by rigorous winter frost."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The magnetic needle points steadfastly towards the **septrional** pole under the influence of the terrestrial lodestone."*

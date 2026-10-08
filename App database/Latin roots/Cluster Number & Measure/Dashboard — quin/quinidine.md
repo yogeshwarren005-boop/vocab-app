@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinidine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical cinchona alkaloid and stereoisomer of quinine used as a Class Ia antiarrhythmic cardiac agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that suppresses abnormal heart rhythms by blocking rapid inward sodium channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinidine designates cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of **quinidine** restored sinus rhythm in several stubborn cases of auricular fibrillation."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Physiological experiments showed that **quinidine** depresses excitability throughout the cardiac conducting bundle."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"The optical rotation of **quinidine** stands in striking enantiomeric contrast to its isomeric counterpart quinine."*

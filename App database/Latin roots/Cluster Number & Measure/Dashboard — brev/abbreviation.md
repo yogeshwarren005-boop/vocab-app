@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # abbreviation
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shortened form of a word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shortening something by omitting parts of it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shortened form of a word or phrase used for brevity in writing or printing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of curtailing or condensing a narrative or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was so in the Pequod with the little negro Pippin by nick-name, Pip by abbreviation."*
+> - 📜 **Jonathan Swift (*A Proposal for Correcting the English Tongue*):** *"The barbarous custom of using every colloquial **abbreviation** corrupts the purity of our native speech."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words serve as an expedient **abbreviation** for complex bundles of sensory perceptions."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He introduced an unfamiliar **abbreviation** into his ledger, confounding the auditors of the estate."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septenary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of six and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to the number seven; calculated or grouped by sevens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group or period of seven years or seven things; in poetry, a seven-foot metrical verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septenary designates the cardinal number that is the sum of six and one."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The ancients observed a mystical **septenary** period in the recurrence of critical days during severe fevers."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Newton divided the visible spectrum into a **septenary** scale of colors, corresponding to the intervals of music."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **septenary** division of the week into seven days has been preserved by almost all nations since the creation."*

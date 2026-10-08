@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octogenarian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the eighties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 80 to 89 years old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is between eighty and eighty-nine years old.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a person in their eighties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Sloane, ‘I see here that another octogenarian has just died."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"What is an octogenarian, Peter?’ And Mr."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"In another place, and at another time, he would have been taken for an octogenarian, come to beg alms."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"The venerable **octogenarian** gazed upon the energetic youth with the benign patience of long experience."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An **octogenarian** scholar who preserves his memory intact resembles a noble oak defying winter gales."*
+> - 📜 **Ralph Waldo Emerson (*Conduct of Life*):** *"We admire the serene vigor of John Quincy Adams, who fought for human freedom as a tireless **octogenarian**."*

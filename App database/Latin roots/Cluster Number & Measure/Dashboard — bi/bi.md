@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # bi
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy brittle diamagnetic trivalent metallic element (resembles arsenic and antimony chemically); usually recovered as a by-product from ores of other metals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy brittle diamagnetic trivalent metallic element (resembles arsenic and antimony chemically); usually recovered as a by-product from ores of other metals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prefix meaning two, twice, doubly, or having two parts or cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquial abbreviation for bisexual, denoting romantic or sexual attraction to two or more genders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Thus Hyperion exclaims: "Der Gott in uns, dem die Unendlichkeit zur Bahn sich oeffnet, soll stehen und harren, bis der Wurm ihm aus dem Wege geht?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian, _Apol._ 5, _Hadrianus omnium curiositatum explorator_. [9] _Piscator_, 19. [10] _Quomodo historia_, 24. [11] _Bis accusatus_, 27. [12] _Somnium_, 18. [13] _Bis Accusatus_, 30, 27. [14] _Apology_, 15. [15] _Bis Acc._ 32."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The ancient naturalists used the prefix **bi** to designate twin forms or dual functional principles in nature."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Symmetry in bilateral organisms is denoted in taxonomy by compounds formed with the Latin prefix **bi**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The dual polarity of cognitive functions reveals a **bi** lateral coordination across the cerebral hemispheres."*

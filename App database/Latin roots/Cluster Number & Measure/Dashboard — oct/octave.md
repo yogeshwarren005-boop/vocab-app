@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octave
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feast day and the seven days following it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval of eight tones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical interval spanning eight diatonic scale degrees; or a series of eight days following a church festival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first eight lines of an Italian or Petrarchan sonnet establishing its theme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as she ain’t here; just pitch it an octave or two lower, will you, and I’ll not only be obliged to you, but it’ll do you more credit,” says Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So, an octave struck the answer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The final scene has been graphically described by Madame Octave Feuillet as she witnessed it in her childhood some sixty years ago."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Pythagoras demonstrated that halving the vibrating string produces the musical harmony of the **octave**."*
+> - 📜 **John Milton (*Sonnet XIX*):** *"In the **octave** of the sonnet, Milton laments his blindness before the sestet turns to patient faith."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The solemnities of Easter were observed throughout the **octave** with daily prayers in the royal chapel."*

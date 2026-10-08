@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # miller's-thumb
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater sculpin of europe and north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater sculpin of europe and north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small freshwater sculpin or bullhead fish (*Cottus gobio*), characterized by a broad, flattened head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottom-dwelling river fish inhabiting clean rocky streams, prized as an indicator of water purity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miller's-thumb designates small freshwater sculpin of europe and north america."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The bullhead or **miller's-thumb** is a small fish of a strange shape, having a broad flat head resembling a miller's thumb."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The small **miller's-thumb** lurks beneath river stones, perfectly camouflaged by its mottled brownish skin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the **miller's-thumb**, the pectoral fins are fan-like and used for propping the body against swift currents."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octet
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seven and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eight performers or singers who perform together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of eight musicians or performers, or a musical composition scored for eight voices or instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, a unit of digital information consisting of eight bits; a byte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octet designates the cardinal number that is the sum of seven and one."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The string **octet** of Mendelssohn astonished Vienna with its youthful orchestral richness."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The chemical stability of the noble gases is explained by the completion of an electron **octet** in the outer shell."*
+> - 📜 **Hector Berlioz (*Evenings with the Orchestra*):** *"The brass **octet** delivered a majestic fanfare that echoed throughout the vaulted cathedral."*

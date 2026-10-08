@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quincunx
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin quin within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of quin in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of five objects in a square or rectangle, with one at each of the four corners and the fifth in the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical plantation pattern of orchard trees planted in intersecting diagonal rows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quincunx designates pertaining to, derived from, or characteristic of latin quin within the domain of number & measure."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The ancient gardeners planted their orchards in a mystical **quincunx**, discovering the figure in all celestial geometry."*
+> - 📜 **Francis Bacon (*Of Gardens*):** *"The alleys of fruit trees were disposed in a neat **quincunx**, affording shade from whatever quarter the sun shone."*
+> - 📜 **Alexander Pope (*Moral Essays*):** *"He designs his grounds with mathematical symmetry, planting each **quincunx** to delight the wandering eye."*

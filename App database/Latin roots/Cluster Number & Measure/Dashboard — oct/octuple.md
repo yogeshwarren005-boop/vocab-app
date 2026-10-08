@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octuple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight units or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eight units or components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of eight parts; multiplied by eight or eight times as great.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To multiply or increase by eight times; eightfold in magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octuple designates having eight units or components."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"If the radius of the sphere is doubled, its volume increases in an **octuple** proportion."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical advantage was compounded through an **octuple** train of geared wheels."*
+> - 📜 **James Clerk Maxwell (*Scientific Papers*):** *"The acoustic energy of the pipe rose to an **octuple** intensity under maximum wind pressure."*

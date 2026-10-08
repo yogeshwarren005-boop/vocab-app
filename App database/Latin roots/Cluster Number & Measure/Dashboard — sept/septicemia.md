@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septicemia
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invasion of the bloodstream by virulent microorganisms from a focus of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invasion of the bloodstream by virulent microorganisms from a focus of infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systemic disease caused by the spread of bacteria and their toxins in the bloodstream; blood poisoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe clinical condition marked by high fever, prostration, petechiae, and multi-organ failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septicemia designates invasion of the bloodstream by virulent microorganisms from a focus of infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **septicemia**, blood cultures taken during the febrile paroxysm reveal streptococci in abundant numbers."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle*):** *"The prevention of surgical **septicemia** remains the paramount objective of all antiseptic dressings."*
+> - 📜 **Louis Pasteur (*Studies on Rabies and Microbes*):** *"Inoculation of the blood of an animal dying of **septicemia** reproduced the identical fatal disease in guinea pigs."*

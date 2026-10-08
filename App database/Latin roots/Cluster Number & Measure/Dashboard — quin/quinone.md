@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinone
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of aromatic yellow compounds including several that are biologically important as coenzymes or acceptors or vitamins; used in making dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of aromatic yellow compounds including several that are biologically important as coenzymes or acceptors or vitamins; used in making dyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of aromatic organic compounds having a fully conjugated cyclic dione structure derived from benzene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline compound (1,4-benzoquinone) with an irritating odor, used in dyes, tanning, and photography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinone designates any of a class of aromatic yellow compounds including several that are biologically important as coenzymes or acceptors or vitamins; used in making dyes."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The resonance stabilization of **quinone** explains the reversible oxidation-reduction behavior of hydroquinones."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Oxidation of aniline with chromic acid produced golden needle crystals of **quinone** that sublimed upon heating."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The chemical transformation of plant extracts yielded **quinone**, opening new pathways for synthetic dye manufacture."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octant
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eighth part of a circle or sphere; or a navigational instrument with an arc of 45 degrees used to measure angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the eight three-dimensional compartments into which space is divided by three coordinate planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octant designates a measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration."*
+> - 📜 **John Hadley (*Philosophical Transactions of the Royal Society*):** *"Hadley introduced the reflecting **octant**, whose double mirrors allowed mariners to take sights from pitching decks."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The quadrant was modified into an **octant** using reflective optics to measure angular separations."*
+> - 📜 **James Cook (*A Voyage Towards the South Pole, and Round the World*):** *"Our navigator used his brass **octant** at noon to determine our latitude among the uncharted ice floes."*

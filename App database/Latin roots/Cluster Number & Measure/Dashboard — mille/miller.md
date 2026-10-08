@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # miller
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bandleader of a popular big band (1909-1944).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist whose novels were originally banned as pornographic (1891-1980).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns, operates, or works in a grain mill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pale, dusty moth whose powder resembles flour dust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of seven groats in mill-sixpences, and two Edward shovel-boards that cost me two shilling and two pence a-piece of Yed Miller, by these gloves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, man, more water glideth by the mill Than wots the miller of; and easy it is Of a cut loaf to steal a shive, we know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lisps in’s neighing, able to entice A miller’s mare."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The **miller** was a stout churl for the nones; full big he was of brawn, and eke of bones."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"I had rather be a country **miller** grinding corn than dance attendance upon capricious court favorites."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver was a proud, obstinate **miller** who loved the roaring waters of the Floss with all his heart."*

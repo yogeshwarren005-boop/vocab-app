@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # postmillennial
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period following the millennium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period following the millennium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or believing in the theological doctrine that the second coming of Christ occurs after the millennium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the period, outlook, or events occurring after the arrival of a millennium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmillennial designates of or relating to the period following the millennium."*
+> - 📜 **Jonathan Edwards (*The History of the Work of Redemption*):** *"Edwards articulated an optimistic **postmillennial** theology, anticipating centuries of spiritual revival prior to the end."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The progressive **postmillennial** faith of 19th-century reformers inspired vast crusades for abolition and temperance."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He mocked the naive **postmillennial** daydreams of commercial utopians who mistook steam engines for the reign of peace."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenniumism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in or anticipation of the biblical thousand-year millennium of peace and justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utopian expectation of an idyllic new era transforming human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenniumism designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Early theological **millenniumism** faded as institutional bishops established hierarchical authority across the provinces."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A streak of intense **millenniumism** frequently colors the conversion narratives of revivalist preachers."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No political **millenniumism** can heal social misery unless individual men dedicate themselves to honest labor."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octangular
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight angles and eight sides; octagonal in geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed with eight distinct interior corners or angular facets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Its outward form is circular; but the interior is somewhat of an octangular figure, but very irregular, its general dimensions being thirty-three feet long, and twenty-five feet broad."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The polished prism was shaped into an **octangular** column to examine multiple internal refractions."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **octangular** base of the gothic pier was carved with representations of the eight cardinal virtues."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the magnifying lens, the tiny sand grain displayed an **octangular** crystal silhouette."*

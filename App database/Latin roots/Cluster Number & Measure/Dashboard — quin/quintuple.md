@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintuple
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of five similar things considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fivefold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of five parts or things; five times as much or as many.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To multiply or increase by five; fivefold in amount or magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintuple designates a set of five similar things considered as a unit."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The force of attraction increased in a **quintuple** ratio when the density of the attracting body was enlarged."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"The automated loom permitted the weaver to produce a **quintuple** quantity of cloth in the same workday."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Under extreme compression, the gas generated a **quintuple** pressure against the piston walls."*

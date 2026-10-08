@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # pluralization
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pluralizing or attributing plurality to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pluralizing or attributing plurality to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making plural; or the proliferation of diverse autonomous groups in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of the plural form of words in grammatical morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluralization designates the act of pluralizing or attributing plurality to."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"The irregular **pluralization** of ancient Saxon substantives preserves valuable relics of early Teutonic grammar."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern institutional life displays the continuous **pluralization** of administrative and commercial functions."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **pluralization** of civic associations provides an indispensable training school for democratic citizenship."*

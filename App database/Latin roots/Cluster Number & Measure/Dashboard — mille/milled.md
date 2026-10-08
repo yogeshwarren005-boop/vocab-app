@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # milled
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move about in a confused manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grind with a mill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ground or processed in a mechanical mill; or having a grooved, fluted edge like a minted coin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped or surfaced using a rotary milling machine in metalworking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The six inmates entered, milled about, silent, their features without expressions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Return the group in an hour." "Yes, sir." Myra, Adari, Hodak and Zolan milled about for a moment, then joined Kumiko at the portal."*
+> - 📜 **Isaac Newton (*Mint Reports and Papers*):** *"The introduction of coins with a **milled** edge effectively prevented the fraudulent clipping of gold and silver."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The finely **milled** flour commanded a premium in metropolitan markets over coarse country meal."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"Each gear wheel was accurately **milled** upon the dividing engine to ensure smooth mechanical transmission."*

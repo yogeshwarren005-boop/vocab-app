@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — duo]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # arduous
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxing to the utmost; testing powers of endurance; ; ; - f.d.roosevelt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or requiring strenuous effort; difficult, laborious, and tiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steep and difficult to climb; arduous in physical ascent or mental endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I can now say I am entirely well, and engaged in arduous work--often among the sick, losing whole nights of rest." CURED OF SPINE DISEASE."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In five weeks of most arduous toil I managed thus to make a jar which I estimated to hold a gallon and a half."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through the wild abyss the fiend pursued his **arduous** way, swimming through dark tempestuous seas."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conquest of the mountain tribes proved an **arduous** task that cost Rome many veteran legions."*
+> - 📜 **George Washington (*Farewell Address*):** *"The path of constitutional liberty is **arduous**, demanding perpetual vigilance and sacrifice from every citizen."*

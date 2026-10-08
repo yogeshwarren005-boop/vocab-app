@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — bi]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # biennial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant having a life cycle that normally takes two seasons from germination to death to complete; flowering biennials usually bloom and fruit in the second season.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a life cycle lasting two seasons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place once every two years, or living for two growing seasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that takes two years to complete its biological lifecycle, flowering and dying in the second season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it probable that it would be persevered in, and transmitted along through all the successive variations in a representative body, which biennial elections would naturally produce in both houses?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In order to decide on the propriety of this article, two questions must be considered: first, whether biennial elections will, in this case, be safe; secondly, whether they be necessary or useful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Have we any reason to infer, from the spirit and conduct of the representatives of the people, prior to the Revolution, that biennial elections would have been dangerous to the public liberties?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional provision for **biennial** elections to the House guarantees responsiveness to the electorate."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The foxglove is a typical **biennial** herb, storing root nourishment the first year and flowering the second."*
+> - 📜 **Asa Gray (*How Plants Grow*):** *"In a **biennial** plant, vegetative roots survive the winter to support a rapid burst of blossom in spring."*

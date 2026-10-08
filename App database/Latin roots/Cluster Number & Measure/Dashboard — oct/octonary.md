@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octonary
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seven and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of seven and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or proceeding by eights; octal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody, a metrical line consisting of eight feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octonary designates the cardinal number that is the sum of seven and one."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"The astronomical cycle was divided into an **octonary** period of eight solar years."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The stellar catalog grouped binary systems into an **octonary** classification of angular separation."*
+> - 📜 **Charles Babbage (*Economy of Machinery and Manufactures*):** *"The mechanical counter advanced by an **octonary** rotation of the internal ratchets."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septette
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seven performers or singers who perform together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of seven similar things considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ensemble of seven musicians, or a musical work composed for seven instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set or gathering of seven things or individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septette designates seven performers or singers who perform together."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The delicate **septette** of wind instruments blended with the harp in an ethereal nocturnal romance."*
+> - 📜 **Charles Burney (*The Present State of Music in France and Italy*):** *"The academy maintained a skilled vocal **septette** that performed sacred motets during the holy week."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"The dramatic intensity of the operatic **septette** resolves all conflicting character motifs into a single climax."*

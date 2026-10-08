@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # breve
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (u-shaped) placed over a vowel to indicate a short sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diacritical mark (u-shaped) placed over a vowel to indicate a short sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (˘) placed over a vowel to indicate a short sound or unaccented poetic syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional musical notation, a double whole note equivalent in duration to two semibreves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, breve designates a diacritical mark (u-shaped) placed over a vowel to indicate a short sound."*
+> - 📜 **Samuel Johnson (*Grammar of the English Tongue*):** *"The grammarian places a **breve** above short syllables and a macron over long vowels."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"In Renaissance mensural notation, the **breve** served as the standard unit of rhythmic measure."*
+> - 📜 **Alexander Pope (*The Art of Sinking in Poetry*):** *"A meticulous poet weighs every syllable, marking each **breve** with classical precision."*

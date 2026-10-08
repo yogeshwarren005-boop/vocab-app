@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — plur]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # pluralize
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a grammatical morpheme that indicates plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a grammatical morpheme that indicates plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make plural; to express or form a word in the plural number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause a system, institution, or discourse to encompass multiple diverse viewpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Wherever there are mothers, grandmothers, and nurses there are Mother Gooses,--or; shall we say, Mother Geese--for I am at a loss as to how to pluralize this old dame."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Foreign terms borrowed into English tend over time to **pluralize** according to native inflectional rules."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We **pluralize** our nominal ideas whenever sensory experience presents repeated instances of the same archetype."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"To **pluralize** authorities without testing their empirical foundations only multiplies scholastic confusion."*

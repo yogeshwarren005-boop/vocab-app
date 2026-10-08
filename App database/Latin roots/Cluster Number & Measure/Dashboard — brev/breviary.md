@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — brev]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # breviary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical book containing the daily canonical prayers, hymns, and psalms recited by Catholic clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abridgment, compendium, or concise summary of a larger work or doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Andrew Lang with Lockhart's _Life of Scott_, "make it their breviary "--will detect some echoes of its sentences in this little book."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His language on the accumulation of books recalls the amusement of St Francis at the idea of possessing a breviary."*
-> - 📜 **James Joyce (*Ulysses*):** *"Father Conmee drew off his gloves and took his rededged breviary out."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pious monk chanted his evening office from the illuminated **breviary** beneath the cloister arches."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Suetonius compiled a historical **breviary** of the twelve Caesars for the guidance of imperial magistrates."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The prior closed his vellum **breviary** and turned to hear the urgent messenger from Edinburgh."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octennial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oct within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oct in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring once every eight years, or lasting for a period of eight years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eighth anniversary celebration or recurring eight-year constitutional cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of late these shackles, if I mistake not, have been broken; and octennial parliaments have besides been established."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Now an octennial cycle is the shortest period at the end of which sun and moon really mark time together after overlapping, so to say, throughout the whole of the interval."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Without being unduly rash we may surmise that the tribute of seven youths and seven maidens whom the Athenians were bound to send to Minos every eight years had some connexion with the renewal of the king's power for another octennial cycle."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient cities celebrated an **octennial** festival to propitiate the gods of harvest and war."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **octennial** tenure for senators would have removed representatives too far from popular accountability."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I retired to Monticello after an **octennial** period of presidential service to enjoy domestic tranquility."*

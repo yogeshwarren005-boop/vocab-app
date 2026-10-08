@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenarist
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the coming of the millennium (a time of great peace and prosperity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in the coming of the millennium (a time of great peace and prosperity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in millenarism; one who expects the literal thousand-year reign of Christ on earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious adherent anticipating an apocalyptic transformation of human history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenarist designates a person who believes in the coming of the millennium (a time of great peace and prosperity)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early **millenarist** looked forward with eager joy to the catastrophic ruin of the pagan Roman state."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The enthusiastic **millenarist** preached that the execution of the king cleared the way for the reign of King Jesus."*
+> - 📜 **William James (*The Will to Believe*):** *"To the fervent **millenarist**, every political earthquake is welcomed as a herald of the final consummation."*

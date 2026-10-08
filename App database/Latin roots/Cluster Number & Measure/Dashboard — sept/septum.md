@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septum
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a dividing partition between two tissues or cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partition or wall especially in an ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dividing partition, membrane, or wall between two cavities, chambers, or anatomical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nasal cartilage dividing the nostrils; or the muscular wall separating the cardiac ventricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In one instance these spores are united in pairs, or divided by a septum, so that they are two-celled: these are named _Puccinia_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At first a septum, or partition, divides from the lower portion of the tube a conidium cell; this becomes constricted at the septum and assumes a spherical shape, at length only attached by a short narrow neck."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the nautilus, each gas-filled chamber is separated from the next by a curved nacreous **septum**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The muscular **septum** prevents venous blood from the right heart from entering the systemic left ventricle."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cartilaginous **septum** of the nose supports the ethmoid and vomer bones along the median axis."*

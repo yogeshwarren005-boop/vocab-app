@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quinacrine
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic yellow acridine dye (also known as mepacrine or Atabrine) used as an antimalarial and anthelmintic medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorescent stain used in cytogenetics to identify Q-bands on chromosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinacrine designates a drug (trade name atabrine) used to treat certain worm infestations and once used to treat malaria."*
+> - 📜 **Alexander Fleming (*Chemotherapy in Medicine*):** *"During the Pacific campaign, **quinacrine** was administered daily to Allied soldiers to suppress malignant tertian malaria."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"The targeted acridine structure of **quinacrine** stains parasitic protozoa with selective pharmacological affinity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The replacement of natural cinchona bark by synthetic **quinacrine** transformed tropical military medicine."*

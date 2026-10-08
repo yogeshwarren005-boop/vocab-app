@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octahedron
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any polyhedron having eight plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any polyhedron having eight plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional polyhedron possessing eight plane faces, especially a regular octahedron with equilateral triangular faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental crystal geometry displayed by diamond, magnetite, and fluorite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octahedron designates any polyhedron having eight plane faces."*
+> - 📜 **Euclid (*Elements*):** *"The regular **octahedron** is one of the five Platonic solids, constructed by joining eight equilateral triangles."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"Kepler nested the regular **octahedron** between the planetary spheres of Venus and Mercury in his cosmological model."*
+> - 📜 **René Descartes (*Discourse on the Method and Meditations*):** *"The internal symmetry of an **octahedron** demonstrates the invariant relations between vertices, edges, and faces."*

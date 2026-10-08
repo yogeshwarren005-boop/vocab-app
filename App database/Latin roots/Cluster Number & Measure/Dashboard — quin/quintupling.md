@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintupling
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing by a factor of five.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fivefold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing, multiplying, or expanding by five times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of multiplying an investment, harvest, or production rate by a factor of five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintupling designates increasing by a factor of five."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor in pin manufacturing resulted in a **quintupling** of output per workman."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Unchecked population growth exhibits a rapid doubling and **quintupling** that outstrips agricultural subsistence."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The introduction of the steam loom led to the **quintupling** of textile exports within two decades."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septuagint
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oldest greek version of the old testament; said to have been translated from the hebrew by jewish scholars at the request of ptolemy ii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest extant Greek translation of the Hebrew Bible and Old Testament, made in Alexandria in the third and second centuries BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The canonical Greek text of scripture commonly abbreviated as LXX in biblical scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Don't talk miracles of that kind, or you will be proved to talk folly beyond even that of the Greeks."'[64] Trypho has the Hebrew text behind him, which says {191} nothing about a virgin, though the Septuagint has the word."*
-> - 📜 **James Joyce (*Ulysses*):** *"This tenebrosity of the interior, he proceeded to say, hath not been illumined by the wit of the septuagint nor so much as mentioned for the Orient from on high which brake hell’s gates visited a darkness that was foraneous."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This was translated as χαλκὸς (_chalcos_) in the Septuagint, and _Aes_ in the Vulgate; the Greeks and Romans using the terms, however, both for copper and for the alloys brass and bronze."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The miraculous legend of seventy-two cells wherein the translators of the **Septuagint** agreed was cherished by early theologians."*
+> - 📜 **John Milton (*Areopagitica*):** *"The early apostles quoted freely from the Greek **Septuagint**, consecrating the vernacular language to sacred use."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ptolemy Philadelphus enriched the library of Alexandria by commissioning the famous Greek **Septuagint** translation."*

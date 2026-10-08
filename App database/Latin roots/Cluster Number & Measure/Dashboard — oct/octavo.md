@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octavo
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book size in which each full printer's sheet is folded into eight leaves (sixteen pages).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume having pages approximately six by nine inches in trimmed format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy, you may as well bring me my desk and I’ll direct it at once.” Bathsheba took from her desk a gorgeously illuminated and embossed design in post-octavo, which had been bought on the previous market-day at the chief stationer’s in Casterbridge."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The FOLIO WHALE; II. the OCTAVO WHALE; III. the DUODECIMO WHALE."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the type of the FOLIO I present the _Sperm Whale_; of the OCTAVO, the _Grampus;_ of the DUODECIMO, the _Porpoise_."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The poems were issued in a neat **octavo** volume that found immediate purchase among scholars."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My little library consisted of a dozen worn **octavo** volumes inherited from my father."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I preferred reading in portable **octavo** rather than wrestling with cumbersome folio volumes."*

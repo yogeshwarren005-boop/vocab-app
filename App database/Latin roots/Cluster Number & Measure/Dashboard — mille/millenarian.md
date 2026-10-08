@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — mille]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # millenarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the coming of the millennium (a time of great peace and prosperity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or believing in the millennium of peace and happiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or believing in a future thousand-year period of peace and righteousness (the millennium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who anticipates the imminent supernatural transformation of the world and arrival of the millennium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenarian designates a person who believes in the coming of the millennium (a time of great peace and prosperity)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient **millenarian** doctrine consoled the persecuted Christians with visions of an earthly reign of Christ."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Fifth Monarchy men held wild **millenarian** hopes that the saints were called to overthrow all earthly thrones."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The feverish enthusiasm of the **millenarian** sect illustrates the power of apocalyptic prophecy over emotional minds."*

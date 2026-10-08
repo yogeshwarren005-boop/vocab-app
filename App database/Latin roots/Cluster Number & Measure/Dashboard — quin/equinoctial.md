@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # equinoctial
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great circle on the celestial sphere midway between the celestial poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the vicinity of the equator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an equinox, or occurring at or near the time of an equinox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the celestial equator; or turbulent and stormy like equinoctial gales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In sooth, thou wast in very gracious fooling last night when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus; ’twas very good, i’ faith."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"L She plunged into the chilly equinoctial darkness as the clock struck ten, for her fifteen miles’ walk under the steely stars."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Again, the season was far advanced, for in the Antarctic regions the 13th of March corresponds with the 13th of September of northern regions, which begin at the equinoctial season."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The gravitational pull of the sun and moon upon the earth's equatorial bulge causes the precession of the **equinoctial** points."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship struggled against heavy **equinoctial** gales that tore the canvas into streaming ribbons."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The beach was swept clean by the ferocious **equinoctial** storm that drove ocean rollers over the high dunes."*

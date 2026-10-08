@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octosyllabic
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of eight syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of eight syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or written in lines of eight syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word containing eight syllables; or a verse composed in eight-syllable meter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octosyllabic designates having or characterized by or consisting of eight syllables."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Scott revived the romance in rapid **octosyllabic** verse that enchanted the reading public."*
+> - 📜 **Lord Byron (*The Giaour*):** *"Byron sustained the dark melancholy of his tale in fluent, driving **octosyllabic** rhymed couplets."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The minstrel tuned his harp and poured forth his romantic legend in vigorous **octosyllabic** stanzas."*

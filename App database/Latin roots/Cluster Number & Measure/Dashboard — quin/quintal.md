@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — quin]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # quintal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 100 pounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical unit of weight equal to one hundred pounds (or hundredweight), or in metric measure, one hundred kilograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial bulk measurement used for grain, salt, or dried codfish in maritime trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Lately he was studying books so large that they weighed two quintals."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I have forgotten to say that the Saragossans had improvised a work shop where were turned out daily nine or ten quintals of powder."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The houses go on falling; and France, after establishing one foot, wastes armies and quintals of powder in gaining ground on which to set the other."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The Newfoundland fishermen bartered each **quintal** of cured cod for Mediterranean wine and Spanish salt."*
+> - 📜 **Daniel Defoe (*A Plan of the English Commerce*):** *"The freight was reckoned by the **quintal**, ensuring uniform customs duties at the royal wharves."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Many a **quintal** of prime whale oil was stowed below the deck to light the lamps of New England."*

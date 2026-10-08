@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — oct]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # octopoda
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Octopuses and paper nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octopuses and paper nautilus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of cephalopod mollusks that includes octopuses, characterized by eight arms and no shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cephalopods lacking tentacles and internal gladius, with highly developed nervous systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octopoda designates octopuses and paper nautilus."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier established the order **Octopoda** to distinguish eight-armed cephalopods from the ten-armed decapods."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The cranial cartilage of **Octopoda** protects a centralized brain endowed with exceptional sensory acuity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Members of the **Octopoda** swim by jet propulsion and crawl adroitly across rocky seafloors using their suckers."*

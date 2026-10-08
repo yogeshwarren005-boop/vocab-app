@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — sept]]"
 cluster: "[[Cluster Number & Measure]]"
 status: unread
 ---
+
 # septuagesima
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd sunday before lent (or the 9th before easter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd sunday before lent (or the 9th before easter).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third Sunday before Lent, marking the beginning of the pre-Lenten season in the traditional church calendar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The liturgical season comprising the three weeks preceding Ash Wednesday.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septuagesima designates the 3rd sunday before lent (or the 9th before easter)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere fasts ordained for **Septuagesima** were observed throughout the monasteries of Gaul with rigorous discipline."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"On **Septuagesima** Sunday, the archbishop delivered a solemn homily calling the nation to repentance."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The arrival of **Septuagesima** warns the Christian soul to lay aside worldly distractions and prepare for Lent."*

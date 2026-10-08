@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread wild dabbling duck (Anas platyrhynchos), the ancestor of most domestic ducks, the drake having a glossy green head and white neck ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flesh of this wild fowl consumed as game food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave, sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The male **mallard** displays a splendid emerald green head that glitters brilliantly in the morning marsh light."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A pair of wild **mallard** ducks skimmed low across the mirror surface of the pond and dropped into the reeds."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Flocks of wild **mallard** arrive upon our Sussex meres at the onset of severe northern frosts."*

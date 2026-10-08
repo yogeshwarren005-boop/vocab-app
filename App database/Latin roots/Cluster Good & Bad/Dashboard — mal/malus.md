@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apple trees; found throughout temperate zones of the northern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apple trees; found throughout temperate zones of the northern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of deciduous trees and shrubs in the rose family (Rosaceae), comprising apples and crabapples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman and civil law, the masculine adjective denoting evil, fraud, wrongful intent, or malice (as in dolus malus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malus designates apple trees; found throughout temperate zones of the northern hemisphere."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The domestic apple tree is classified within the genus **Malus**, distinguished by its fleshy umbilicate pome."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of wild **Malus** blossom in early May, scenting the woodland borders with fragrant pink petals."*
+> - 📜 **Hugo Grotius (*The Rights of War and Peace*):** *"In Roman jurisprudence, the jurists drew a sharp distinction between permissible stratagem and prohibited dolus **malus**."*

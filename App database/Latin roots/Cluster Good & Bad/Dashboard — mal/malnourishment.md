@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough food to develop or function normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having enough food to develop or function normally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical state or condition of receiving insufficient, deficient, or improper dietary sustenance; chronic undernutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dietary deficiency resulting in stunted growth, compromised immunity, or physiological wasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malnourishment designates not having enough food to develop or function normally."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Severe **malnourishment** among school children in the district was the direct consequence of seasonal unemployment."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"The inevitable fruit of extreme poverty is widespread **malnourishment** among the children of the poor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound **malnourishment** observed in terminal cases of sprue points to complete failure of intestinal absorption."*

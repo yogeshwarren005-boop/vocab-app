@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is offensively unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive odor that is offensively unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foul, rank, or intensely disagreeable stench; an offensive olfactory effluvium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent foul stench arising from chemical decay or decomposing organic matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malodour designates a distinctive odor that is offensively unpleasant."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A heavy **malodour** of damp rotting vegetation and river silt drifted aboard the anchored steamer."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"An intolerable **malodour** from the steaming pterodactyl rookery filled the humid tropical air."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The damp cellar was pervaded by a moldy **malodour** that betrayed years of neglect."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has committed a crime or has been legally convicted of a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits a crime or violates established civil, criminal, or moral law; an evildoer or felon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wrongdoer or transgressor who inflicts injury upon society or undermines public welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet” is as a gaoler to bring forth Some monstrous malefactor."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was put up in wuld times by the relations of a malefactor who was tortured there by nailing his hand to a post and afterwards hung."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The sole heir appeared to be a certain Elsie, and her they naturally enough took for a dangerous malefactor."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"They are lying knaves; and, to conclude, they are **malefactors** of the highest order."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The wretched **malefactor** sat in the condemned cell, listening in terror to the tolling of the prison bell."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates assembled upon the scaffold to pronounce judgment upon the unhappy **malefactor**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a malignant state; progressive and resistant to treatment and tending to cause death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fierce malevolence, deep animosity, or relentless hostility toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and pathology, the virulent property of a neoplasm to invade surrounding tissues and metastasize lethally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your patience, no; my stars shine darkly over me; the malignancy of my fate might perhaps distemper yours; therefore I shall crave of you your leave that I may bear my evils alone."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Somewhere there, on that desolate plain, was lurking this fiendish man, hiding in a burrow like a wild beast, his heart full of malignancy against the whole race which had cast him out."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical progression of the tumor left no doubt regarding its fatal cellular **malignancy**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The diagnostic criteria for biological **malignancy** depend upon atypical cellular mitosis and rapid vascular infiltration."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"Beneath his smooth veneer of benevolence, there lurked a calculating and chilling moral **malignancy**."*

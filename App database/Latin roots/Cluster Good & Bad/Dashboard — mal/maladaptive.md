@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing faulty adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing faulty adaptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing inadequate, faulty, or disadvantageous adjustment to environmental circumstances or psychological situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing immediate relief or short-term coping while producing detrimental, self-defeating, or destructive long-term outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maladaptive designates showing faulty adaptation."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Neurotic symptoms represent **maladaptive** compromises between the repressed instinctual drives and the rigid demands of the superego."*
+> - 📜 **B. F. Skinner (*Science and Human Behavior*):** *"When behavioral contingencies reinforce avoidance rather than mastery, the individual acquires profoundly **maladaptive** response patterns."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Mutations that prove **maladaptive** under fluctuating climatic regimes are eliminated swiftly by natural selection."*

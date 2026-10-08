@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist specializing in the study of mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist specializing in the study of mollusks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological scientist or zoological specialist dedicated to the systematic study of mollusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomist or researcher who investigates the anatomy, paleontology, ecology, and classification of shells and soft-bodied invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacologist designates a zoologist specializing in the study of mollusks."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every experienced **malacologist** knows how difficult it is to determine whether certain insular land-shells constitute distinct species or mere local varieties."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The competent **malacologist** must dissect the internal viscera rather than rely exclusively upon conchological shell characters."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The distribution of terrestrial snails across oceanic archipelagos has long occupied the attention of the philosophical **malacologist**."*

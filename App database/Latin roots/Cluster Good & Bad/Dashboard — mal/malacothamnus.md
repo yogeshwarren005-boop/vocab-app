@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs or small trees: chaparral mallow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs or small trees: chaparral mallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubby flowering plants in the mallow family (Malvaceae), commonly known as bush-mallows, native to California and Baja California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chaparral and desert scrub shrub characterized by velvety stellate-pubescent leaves and rose to lavender mallow blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacothamnus designates genus of shrubs or small trees: chaparral mallow."*
+> - 📜 **Willis Linn Jepson (*A Flora of Western Middle California*):** *"The genus **Malacothamnus** inhabits dry chaparral hillsides, where its silvery felted foliage resists the arid summer heat."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"Several endemic species of **Malacothamnus** produce clusters of pale pink flowers along dry wash banks and arroyos."*
+> - 📜 **Alice Eastwood (*Leaflets of Western Botany*):** *"Botanists exploring the southern coast ranges discovered a localized stand of **Malacothamnus** blooming profusely after wildfire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Biting lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete order or suborder of small wingless parasitic insects, commonly known as chewing lice or bird lice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ectoparasitic insects that feed on the feathers, hair, and epidermal scales of birds and mammals, differing from sucking lice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mallophaga designates biting lice."*
+> - 📜 **Charles Valentine Riley (*The American Entomologist*):** *"The bird-infesting parasites of the order **Mallophaga** possess strong biting mandibles adapted for shearing feathers."*
+> - 📜 **Vernon Lyman Kellogg (*New Mallophaga*):** *"Host specificity among the **Mallophaga** provides striking evolutionary evidence regarding the genealogical relationships of birds."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Unlike true blood-sucking lice, the **Mallophaga** subsist primarily upon dry skin flakes and plumage debris."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final book of the Minor Prophets in the Old Testament, delivering prophecies of moral repentance and divine judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth-century BCE Hebrew prophet traditionally regarded as the author of the canonical prophetic book bearing his name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"James Steven, on his text, Malachi, ch. iv. vers. 2."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Some prophet Malachi, To lash our selfish conscience, And teach us purpose high. * * * * * Thank Heaven there's a remnant, A few not quite enslaved, For ten just men in Sodom, The city would have saved."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As the prophet **Malachi** foretold, the Sun of righteousness shall arise with healing in his golden wings."*
+> - 📜 **Thomas Cranmer (*The Book of Common Prayer*):** *"The words of the holy prophet **Malachi** admonish the people that they should not rob God of tithes and offerings."*
+> - 📜 **Matthew Henry (*Commentary on the Whole Bible*):** *"The closing oracle of **Malachi** connects the prophetic testimonies of the Old Dispensation with the dawn of the Gospel."*

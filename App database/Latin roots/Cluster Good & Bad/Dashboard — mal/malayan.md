@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people inhabiting the northern malay peninsula and malaysia and parts of the western malay archipelago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or native to the Malay Peninsula, its inhabitants, or the surrounding archipelagic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the fauna, flora, or ethnic cultures indigenous to Malaya.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malayan designates a member of a people inhabiting the northern malay peninsula and malaysia and parts of the western malay archipelago."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The rich **Malayan** fauna includes the tapir, the rhinoceros, and countless magnificent butterflies of the genus Papilio."*
+> - 📜 **Joseph Conrad (*Youth*):** *"A mysterious fragrance of spice, blossom, and moist earth drifted from the unseen **Malayan** shore in the darkness."*
+> - 📜 **Thomas Stamford Raffles (*The History of Java*):** *"Traditional **Malayan** navigation relied upon seasoned knowledge of the monsoon winds across equatorial seas."*

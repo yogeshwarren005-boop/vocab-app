@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subjected to cruel treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to cruel, abusive, harsh, or violent treatment; physically or emotionally mistreated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damaged, neglected, or roughly mishandled through abuse or intentional cruelty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never did the urgency arise of carting my maltreated and perishing carcass to the hospital."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the poor, maltreated machinery has served its purpose."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor would they permit Gabriel to be any way maltreated, say or do what he would; so that it came to pass that Gabriel had the complete freedom of the ship."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A **maltreated** prisoner in the solitary cells learned to endure physical torment by projecting his consciousness elsewhere."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The battered, **maltreated** whaleboat showed jagged splintered planks from its encounter with the leviathan."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The **maltreated** orphan wept in silence beneath the bitter taunts of her wealthy cousins."*

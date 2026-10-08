@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of mali.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of mali or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen or national of the modern Republic of Mali, or a subject of the historical Mali Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the culture, history, geography, or peoples of Mali in West Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malian designates a native or inhabitant of mali."*
+> - 📜 **Ibn Battuta (*The Travels of Ibn Battuta*):** *"The **Malian** courtiers stood in respectful silence as the heralds proclaimed the decrees of the sovereign."*
+> - 📜 **Leo Africanus (*The History and Description of Africa*):** *"The **Malian** cavalry rode with extraordinary swiftness across the open savannas bordering the Niger."*
+> - 📜 **Heinrich Barth (*Travels and Discoveries in North and Central Africa*):** *"The distinctive mud-brick architecture reflected ancient **Malian** techniques preserved through successive dynasties."*

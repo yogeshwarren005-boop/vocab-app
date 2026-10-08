@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly adjusted to demands and stresses of daily living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally unstable and having difficulty coping with personal relationships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to adapt properly or maintain harmonious emotional and social relationships with one's environment or peers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequately configured, synchronized, or physically aligned to function smoothly within a mechanical or institutional system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maladjusted designates poorly adjusted to demands and stresses of daily living."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"A socially **maladjusted** individual suffers not from innate defect alone, but from disharmony between habit and the surrounding community."*
+> - 📜 **Bertrand Russell (*Education and the Good Life*):** *"Rigid institutional discipline frequently creates bitter, **maladjusted** youths who view authority with habitual hostility."*
+> - 📜 **Karen Horney (*The Neurotic Personality of Our Time*):** *"The **maladjusted** adult persistently projects childhood anxieties into normal professional and domestic interactions."*

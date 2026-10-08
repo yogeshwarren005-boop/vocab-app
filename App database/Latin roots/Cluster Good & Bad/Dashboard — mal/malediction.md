@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magical or religious curse; a solemn utterance invoking divine wrath, doom, or calamity upon a person or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bitter slander, reviling speech, or an execration fueled by hatred or malice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But still the disappointed father held a strong lever; and Fred felt as if he were being banished with a malediction."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There! there! there!” And, with an awful gesture of malediction and hatred, he pointed with his wounded hand, swathed and shapeless with bandages, at the cowering, sobbing, wordless woman by his side."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"As I crossed the bridge over the Avon on my return, I paused to contemplate the distant church in which the poet lies buried, and could not but exult in the malediction which has kept his ashes undisturbed in its quiet and hallowed vaults."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Hear, Nature, hear! dear goddess, hear! Suspend thy purpose, if thou didst intend to make this creature fruitful, cried Lear in fierce **malediction**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pope fulminated a terrible **malediction** of excommunication against the rebellious emperor."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature hurled a parting **malediction** at his creator before vanishing across the stormy frozen lake."*

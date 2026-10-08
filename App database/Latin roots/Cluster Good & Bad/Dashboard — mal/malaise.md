@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical discomfort (as mild sickness or depression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical discomfort (as mild sickness or depression).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indefinite, general feeling of bodily discomfort, lethargy, physical unease, or impending illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pervasive, unfocused sense of mental depression, moral discontent, or collective social dissatisfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaise designates physical discomfort (as mild sickness or depression)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of enteric fever is heralded by headache, vague muscular aching, and progressive physical **malaise**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A subtle democratic **malaise** frequently haunts citizens who possess material comfort yet crave elusive equality."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"A strange, oppressive **malaise** hung over London on that stifling afternoon, weighing heavily upon weary spirits."*

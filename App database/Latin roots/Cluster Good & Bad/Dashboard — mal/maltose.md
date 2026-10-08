@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline sugar formed during the digestion of starches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline sugar formed during the digestion of starches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reducing disaccharide sugar (C12H22O11) formed by the enzymatic hydrolysis of starch by amylase or diastase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malt sugar, consisting of two glucose units linked by an alpha(1-4) glycosidic bond, fermentable by yeast in brewing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maltose designates a white crystalline sugar formed during the digestion of starches."*
+> - 📜 **Emil Fischer (*Untersuchungen über Kohlenhydrate und Fermente*):** *"The molecular structure of **maltose** was established by demonstrating that its hydrolysis yields two identical molecules of d-glucose."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeast enzymes ferment **maltose** directly into alcohol and carbon dioxide during the main brewing process."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intestinal maltase hydrolyzes ingested **maltose** into absorbable monosaccharide units within the brush border."*

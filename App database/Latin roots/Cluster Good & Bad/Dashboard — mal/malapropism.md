@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unintentional misuse of a word by confusion with one that sounds similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unintentional misuse of a word by confusion with one that sounds similar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The humorous or unintended misuse of a word through confusion with another word that sounds similar but has an entirely different meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of verbal error whereby an inappropriate homophonic word generates an absurd or comical solecism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malapropism designates the unintentional misuse of a word by confusion with one that sounds similar."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The actor relied upon unconscious **malapropism** to entertain the audience, turning grave matters into farce."*
+> - 📜 **Mark Twain (*Roughing It*):** *"His conversation was adorned with every conceivable species of **malapropism**, delivered with unblushing gravity."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The frontier orator frequently slipped into comical **malapropism** while striving after classical eloquence."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malevolent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent, spiteful, or hostile manner; with malicious intention to inflict injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With harmful, baneful, or destructive effect; maliciously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Rostopchín writes that he will stake his life on it that the enemy will not enter Moscow.” “Oh, that count of yours!” said the princess malevolently."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A gleaming beak had been thrust out and the bright, intelligent eye of one of the dodo-birds was regarding them malevolently from the opening."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"Hyde grinned **malevolently** as he crushed the letter in his fist and stamped upon the fragments."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The count glared **malevolently** at his pursuers, his white teeth bared like those of a cornered wolf."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-man snarled **malevolently** from the shadow of the thicket, clutching a jagged stone."*

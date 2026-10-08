@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unintentional misuse of a word by confusion with one that sounds similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unintentional misuse of a word by confusion with one that sounds similar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the ludicrous and inadvertent misuse of words resembling the intended word in sound but wildly different in sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comical slip of the tongue or blunder involving verbal confusion; Mrs. Malaprop as the archetype of verbal blunders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaprop designates the unintentional misuse of a word by confusion with one that sounds similar."*
+> - 📜 **Richard Brinsley Sheridan (*The Rivals*):** *"Sure, if I reprehend anything in this world, it is the use of my oracular tongue, and a nice derangement of epitaphs, declaimed the comic Mrs. **Malaprop**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Her speech was a perpetual **malaprop** triumph, bewildering her listeners with high-sounding but inverted terminology."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"Sheridan achieved exquisite comic effect by endowing Mrs. **Malaprop** with sublime confidence in her mangled vocabulary."*

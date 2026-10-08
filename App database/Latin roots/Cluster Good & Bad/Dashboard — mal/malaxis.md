@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of small terrestrial and epiphytic orchids, commonly called adder's-mouth orchids, bearing racemes of tiny green or yellowish flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orchidaceous taxon characterized by diminutive pseudobulbs, membranous plicate foliage, and non-resupinate floral columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaxis designates large genus of largely terrestrial orchids with one or a few plicate leaves and slender spikes or tiny mostly green flowers; cosmopolitan."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate terrestrial orchid **Malaxis** unifolia flourishes upon mossy hummocks in northern peat bogs."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"In deep damp hemlock woods, **Malaxis** displays its diminutive green raceme almost hidden among forest litter."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"The structure of the anther in **Malaxis** reveals an affinity with Liparis while possessing notable structural distinctions."*

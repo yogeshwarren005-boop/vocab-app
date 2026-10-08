@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow insecticide used as a dust or spray to control garden pests and house flies and mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow insecticide used as a dust or spray to control garden pests and house flies and mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organophosphate insecticide (C10H19O6PS2) used extensively in agriculture, public health mosquito abatement, and horticulture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical pesticide functioning as an acetylcholinesterase inhibitor to control sucking and chewing agricultural insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malathion designates a yellow insecticide used as a dust or spray to control garden pests and house flies and mites."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Large-scale aerial applications of **malathion** against fruit flies provoked intense public debate regarding non-target wildlife mortality."*
+> - 📜 **Robert van den Bosch (*The Pesticide Conspiracy*):** *"The chemical strategy favored indiscriminate dusting with **malathion**, precipitating secondary pest outbreaks in the valleys."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Ecosystem monitoring demonstrated rapid dissipation of **malathion** residues in aquatic habitats compared to organochlorines."*

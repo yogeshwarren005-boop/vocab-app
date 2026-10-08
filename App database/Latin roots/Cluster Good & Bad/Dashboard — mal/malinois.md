@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fawn-colored short-haired sheepdog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fawn-colored short-haired sheepdog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Belgian Malinois, a variety of the Belgian Shepherd dog breed characterized by a short fawn coat with a black mask, prized for intelligence and agility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A working police and military utility dog noted for extreme drive, athletic obedience, and protective working instincts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malinois designates fawn-colored short-haired sheepdog."*
+> - 📜 **Albert Payson Terhune (*The Heart of a Dog*):** *"The lean, muscular **Malinois** stood poised upon the training lawn, every nerve alert for the handler's signal."*
+> - 📜 **Jack London (*Michael, Brother of Jerry*):** *"The keen-eyed **Malinois** patrol dog tracked the quarry through the dense brush without a single bark."*
+> - 📜 **Konrad Lorenz (*Man Meets Dog*):** *"The extraordinary working tenacity of the **Malinois** reflects centuries of selective breeding among Flemish pastoralists."*

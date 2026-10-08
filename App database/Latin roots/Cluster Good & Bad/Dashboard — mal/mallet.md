@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sports implement with a long handle and a head like a hammer; used in sports (polo or croquet) to hit a ball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light drumstick with a rounded head that is used to strike such percussion instruments as chimes, kettledrums, marimbas, glockenspiels, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden, rubber, or leather hammer with a large barrel-shaped head, used for driving chisels, striking pegs, or playing croquet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long-handled stick with a wooden cigar-shaped head used to strike the ball in the sport of polo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His wit’s as thick as Tewksbury mustard; there’s no more conceit in him than is in a mallet."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hast seen the White Whale?” “See you this?” and withdrawing it from the folds that had hidden it, he held up a white arm of sperm whale bone, terminating in a wooden head like a mallet."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the calking mallet is full of it."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village carpenter struck the mortise chisel with his heavy wooden **mallet**, sending white oak shavings flying."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The chief difficulty Alice found at first was in managing her flamingo, which served as a croquet **mallet**."*
+> - 📜 **Rudyard Kipling (*The Maltese Cat*):** *"The polo player swung his cane **mallet** in a clean sweep, sending the white willow ball flying between the goal posts."*

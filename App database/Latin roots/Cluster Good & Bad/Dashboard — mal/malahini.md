@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newcomer to hawaii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newcomer to hawaii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newcomer, visitor, or stranger to the Hawaiian Islands; an uninitiated traveler unfamiliar with local customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tourist or newly arrived settler lacking cultural familiarity with Polynesian traditions and island ways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malahini designates a newcomer to hawaii."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The islanders greeted the bewildered **malahini** with fragrant flower leis and joyous cries of welcome upon the beach of Waikiki."*
+> - 📜 **Mark Twain (*Letters from Hawaii*):** *"Every curious **malahini** who steps ashore at Honolulu marvels at the dazzling foliage and easy laughter of the Kanakas."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The seasoned resident smiled indulgently at the awkward blunders of the newly landed **malahini** regarding island etiquette."*

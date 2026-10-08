@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adroit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adroit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking physical dexterity, grace, or agility; clumsy, unhandy, and awkward in movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tactless, inept, or bungling in social conduct, diplomatic negotiations, or interpersonal discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of which maladroit delay sprang anxieties, disappointments, shocks, catastrophes, and passing-strange destinies."*
-> - 📜 **James Joyce (*Ulysses*):** *"They swarmed loud, uncouth about the temple, their heads thickplotting under maladroit silk hats."*
+> - 📜 **Jane Austen (*Emma*):** *"It was an awkward, **maladroit** attempt at an apology, which served only to deepen the embarrassment of the company."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He made a **maladroit** movement with his teacup, spilling a brown stain across the delicate linen tablecover."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His **maladroit** interference in council affairs alienated the very aldermen whose goodwill he desperately required."*

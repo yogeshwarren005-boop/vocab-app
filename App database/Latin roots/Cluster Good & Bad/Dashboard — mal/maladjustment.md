@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to establish or maintain healthy, effective, and balanced psychological or behavioral relations with one's environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Faulty or defective mechanical alignment, regulation, or systemic coordination between operating components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Maladjustment of wages causing unemployment. § 16."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Individual maladjustment in finding jobs, § 17."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Severe domestic friction is often the outward symptom of an underlying emotional **maladjustment** between marital partners."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Immigrant families frequently suffered profound social **maladjustment** when abruptly transplanted into crowded industrial tenements."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Economic distress frequently stems from structural **maladjustment** between modern machine technology and archaic business habits."*

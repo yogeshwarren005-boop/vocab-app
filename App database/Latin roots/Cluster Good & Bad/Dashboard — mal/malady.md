@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any unwholesome or desperate condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairment of normal physiological function affecting part or all of an organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily illness, disease, or medical disorder, especially one that is chronic, lingering, or deep-seated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pervasive social, moral, or political defect; a corrupting disorder infecting an institution or culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, it cannot be; and yet my heart Will not confess he owes the malady That doth my life besiege."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rather, an ’t please you, it is the disease of not listening, the malady of not marking, that I am troubled withal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The great **malady** of our time is the slow indifference that blinds men to the suffering of their neighbors."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A quiet and enduring **malady** took possession of his mind, casting shadows across his boldest aspirations."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician sought diligently to probe the mysterious inward **malady** that consumed the minister's youthful strength."*

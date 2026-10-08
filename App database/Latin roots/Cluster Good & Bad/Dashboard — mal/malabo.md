@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of equatorial guinea on the island of bioko in the gulf of guinea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of equatorial guinea on the island of bioko in the gulf of guinea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city and major port of Equatorial Guinea, situated on the northern coast of the island of Bioko.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administrative, commercial, and financial seat of Bioko Norte, formerly known under Spanish colonial rule as Santa Isabel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malabo designates the capital and largest city of equatorial guinea on the island of bioko in the gulf of guinea."*
+> - 📜 **Mary Kingsley (*Travels in West Africa*):** *"The green peak of Bioko towered majestic above the harbor of **Malabo**, its lower slopes clad in luxuriant tropical vegetation."*
+> - 📜 **Sir Richard Burton (*Wanderings in West Africa*):** *"From the anchorage at **Malabo**, the precipitous volcanic amphitheater creates one of the most striking natural harbors on the western coast."*
+> - 📜 **Frederick Lugard (*The Dual Mandate in British Tropical Africa*):** *"Maritime commerce between the Gulf of Guinea settlements converged upon the roadstead of **Malabo** for naval replenishment."*

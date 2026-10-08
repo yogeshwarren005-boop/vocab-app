@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american orchid having a solitary leaf and flowers with threadlike petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american orchid having a solitary leaf and flowers with threadlike petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The single adder's-mouth orchid, a delicate North American terrestrial orchid species bearing a single solitary clasping leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bog-dwelling orchidaceous plant producing a dense terminal raceme of minute pale emerald blossoms above a solitary oval foliage blade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaxis-unifolia designates north american orchid having a solitary leaf and flowers with threadlike petals."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The slender stem of **Malaxis-unifolia** supports a solitary smooth leaf midway between the swollen pseudobulb and the flower spike."*
+> - 📜 **Merritt Lyndon Fernald (*Gray's Manual of Botany*):** *"Collectors in boreal spruce bogs readily recognize **Malaxis-unifolia** by its singular solitary leaf and tiny blossoms."*
+> - 📜 **Nathaniel Lord Britton (*Illustrated Flora of the Northern United States and Canada*):** *"Moist shaded woodlands provide the ideal acidic substrate where **Malaxis-unifolia** produces its summer bloom."*

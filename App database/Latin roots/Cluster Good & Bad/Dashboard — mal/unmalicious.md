@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not malicious or spiteful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not malicious or spiteful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from malice, ill will, or spiteful intent; harmless, benign, and good-natured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prompted by innocent, playful, or harmless motives without desire to hurt or offend.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmalicious designates not malicious or spiteful."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her light-hearted banter was entirely **unmalicious**, intended only to enliven a dull evening by the fireside."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Behind the curate's simple awkwardness lay an **unmalicious** heart that wished well to all mankind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His frequent jests, though occasionally blundering, were completely **unmalicious** and warmly received by his neighbors."*

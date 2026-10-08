@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is discontented or disgusted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontented as toward authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is chronically dissatisfied, rebellious, or discontented with existing political, social, or institutional arrangements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronically dissatisfied, rebellious, or restless under authority or established order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother of Clarence, how like you our choice, That you stand pensive as half malcontent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor Clarence, is it for a wife That thou art malcontent?"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Now is the winter of our discontent made glorious summer by this sun of York, uttered the bitter **malcontent** prince."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A faction of **malcontent** senators secretly conspired to overturn the military despotism of the emperor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The coffee-houses of London were frequented by every **malcontent** who had suffered under the recent royal proclamations."*

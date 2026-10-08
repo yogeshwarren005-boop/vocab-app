@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1914-1986).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (1914-1986).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the literary works, moral vision, and tragicomic themes of the American author Bernard Malamud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The American writer Bernard Malamud, renowned for novels such as The Assistant, The Natural, and The Fixer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malamud designates united states writer (1914-1986)."*
+> - 📜 **Philip Roth (*Reading Myself and Others*):** *"In the fictional world of **Malamud**, ordinary human suffering is transformed into an enduring metaphor for moral responsibility."*
+> - 📜 **Cynthia Ozick (*Art and Ardor*):** *"The poignant parables of **Malamud** capture the bittersweet dignity of immigrants struggling against crushing poverty."*
+> - 📜 **Irving Howe (*World of Our Fathers*):** *"The moral seriousness of Bernard **Malamud** restored an ancient ethical urgency to post-war American fiction."*

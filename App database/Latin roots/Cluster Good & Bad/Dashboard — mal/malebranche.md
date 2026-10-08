@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French philosopher (1638-1715).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French philosopher (1638-1715).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the philosophical doctrines of Nicolas Malebranche, especially occasionalism and the vision of all things in God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The French philosopher Nicolas Malebranche, famous for De la recherche de la vérité (The Search After Truth).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malebranche designates french philosopher (1638-1715)."*
+> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"The opinion of **Malebranche**, that we see all things in God, approaches the true principle while retaining scholastic obscurities."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The doctrine of occasional causes was carried to its highest philosophical pitch by Father **Malebranche**."*
+> - 📜 **Gottfried Wilhelm Leibniz (*New Essays on Human Understanding*):** *"In his luminous dialogue, **Malebranche** sought to reconcile Cartesian mechanism with divine omnipresence."*

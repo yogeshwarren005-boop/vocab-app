@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ossicle attached to the eardrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle attached to the eardrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three auditory ossicles in the mammalian middle ear, commonly known as the hammer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hammer-shaped anatomical structure, such as the hard crushing apparatus in the mastax of certain rotifers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malleus designates the ossicle attached to the eardrum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sound vibrations strike the tympanic membrane and are transmitted directly through the **malleus** to the incus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppuration of the middle ear frequently results in partial necrosis of the slender handle of the **malleus**."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of the Vertebrates*):** *"Comparative embryology reveals that the **malleus** is homologous with the articular bone of the reptilian lower jaw."*

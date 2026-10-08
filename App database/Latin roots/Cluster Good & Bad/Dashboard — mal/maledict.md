@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a curse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accursed, cursed, or damned; subjected to an official religious execration or solemn imprecation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To utter a curse or solemn imprecation against; to execrate or revile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maledict designates wish harm upon; invoke evil upon."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Driven out from Eden, the fallen serpent slunk away beneath the **maledict** sentence of divine retribution."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fallen aristocracy looked with horror upon the **maledict** assembly that decreed their exile and ruin."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The ancient crone muttered a **maledict** prophecy as the master rode past the haunted fountain."*

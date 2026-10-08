@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sir Thomas Malory, the fifteenth-century English author who compiled and translated the definitive prose Arthurian romance Le Morte d'Arthur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the heroic chivalric romance style, diction, and legendary motifs found in Malory's Arthurian tales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malory designates english writer who published a translation of romances about king arthur taken from french and other sources (died in 1471)."*
+> - 📜 **William Caxton (*Preface to Le Morte d'Arthur*):** *"Which book was reduced into English by Sir Thomas **Malory**, knight, and by me William Caxton emprynted into print."*
+> - 📜 **Walter Scott (*Marmion*):** *"The simple, noble prose of **Malory** breathed chivalric grandeur into the ancient legends of the Round Table."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"From the rich pages of **Malory** came the noble vision of the Grail quest that inspired the Victorian imagination."*

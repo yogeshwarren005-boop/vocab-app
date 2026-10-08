@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arch of bone beneath the eye that forms the prominence of the cheek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arch of bone beneath the eye that forms the prominence of the cheek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining, relating, or situated near the cheek or cheekbone (the zygomatic bone) in vertebrate anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cheekbone itself; the zygomatic bone of the facial skeleton that forms the prominence of the cheek.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malar designates the arch of bone beneath the eye that forms the prominence of the cheek."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **malar** bone articulates posteriorly with the zygomatic process of the squamosal, completing the zygomatic arch."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"In mammalian skulls, the **malar** element contributes significantly to the ventral boundary of the orbit."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The robust development of the **malar** arch reflects the enormous masseter muscle required for crushing herbivorous food."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a maladroit manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a maladroit manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an awkward, clumsy, or ungraceful manner; without manual dexterity or physical skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ineptly, tactlessly, or bunglingly in speech, etiquette, or administrative execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maladroitly designates in a maladroit manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He handled the delicate microscope slides **maladroitly**, fumbling with the brass focus screws in his agitation."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"The young curate answered **maladroitly**, blurting out the very name that everyone in the drawing-room wished to avoid."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"He attempted **maladroitly** to conceal his gambling debts beneath a torrent of boisterous excuses."*

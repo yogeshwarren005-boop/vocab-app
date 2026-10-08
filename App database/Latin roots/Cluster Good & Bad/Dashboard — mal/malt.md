@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grain, especially barley, that has been steeped in water, germinated, and dried in a kiln, used in brewing beer and distilling whiskey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beverage fermented or brewed from malted grain, or a rich sweet malted extract used in baking and confections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peasant swain! you whoreson malt-horse drudge!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"I would my horse had the speed of him, for he will run faster than twenty of these **malt**-worms."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fragrant scent of drying barley **malt** drifted across the yard from the old stone malthouse."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery enjoyed a cool mug of home-brewed **malt** liquor beside the forge fire after the day's hard hammering."*

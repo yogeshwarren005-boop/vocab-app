@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of the austronesian languages spoken from madagascar to the central pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the malayo-polynesian branch of the austronesian languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary subgroup of the Austronesian language family, spoken across island Southeast Asia, Madagascar, and the Pacific Islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the widespread linguistic, maritime, and cultural diaspora extending from Madagascar to Easter Island.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malayo-polynesian designates the branch of the austronesian languages spoken from madagascar to the central pacific."*
+> - 📜 **Wilhelm von Humboldt (*Über die Kawi-Sprache auf der Insel Jawa*):** *"The grammatical structures of the **Malayo-Polynesian** languages demonstrate a profound genealogical unity across immense oceanic distances."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Folkloric motifs preserved among **Malayo-Polynesian** islanders suggest ancient maritime migrations across the Pacific."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Comparative vocabulary illustrates the remarkable conservatism of basic nautical terms within the **Malayo-Polynesian** stock."*

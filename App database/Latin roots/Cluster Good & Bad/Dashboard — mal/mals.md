@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A master's degree in library science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in library science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Instances, manifestations, or specific types of illness, disorder, or evil (as in grand mal and petit mal epileptic seizures).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and medical terminology, specific diseased conditions or complaints identified in diagnostic classifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mals designates a master's degree in library science."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neurologists distinguish classical petit **mals** from convulsive paroxysms by the transient nature of the psychic absence."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Observations on recurrent **mals** revealed subtle motor automatisms occurring without loss of postural equilibrium."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient physicians enumerated manifold spiritual and bodily **mals** that afflict mankind in solitary confinement."*

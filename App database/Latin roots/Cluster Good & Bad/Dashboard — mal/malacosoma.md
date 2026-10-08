@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tent caterpillars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tent caterpillars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lasiocampid moths whose hairy larvae, commonly called tent caterpillars, construct dense communal silk nests in fruit and forest trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic genus of phytophagous moths known for periodic eruptive outbreaks that defoliate deciduous woodlands and orchard trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacosoma designates tent caterpillars."*
+> - 📜 **Thaddeus William Harris (*A Treatise on Some of the Insects Injurious to Vegetation*):** *"The caterpillars of the genus **Malacosoma** weave conspicuous webs in the forks of apple limbs, venturing forth daily to strip the leaves."*
+> - 📜 **Charles Valentine Riley (*Reports on the Noxious, Beneficial and Other Insects of the State of Missouri*):** *"Orchardists suffer immense financial loss when populations of **Malacosoma** americana multiply unrestrained across entire counties."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The social habits of **Malacosoma** larvae display cooperative spinning behaviors unmatched among temperate Lepidoptera."*

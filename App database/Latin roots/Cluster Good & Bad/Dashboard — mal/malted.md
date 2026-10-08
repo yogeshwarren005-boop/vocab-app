@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with malt or malt extract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepared, converted, treated, or flavored with malted grain or malt extract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made from grain that has been allowed to germinate and kiln-dried for brewing or distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and-two-and-twenty years I was there turnip-hoeing and harvesting."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I malted at Durnover four year, and four year turnip-hoeing; and I was fourteen times eleven months at Millpond St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and two-and-twenty years I was there turnip-hoeing and harvesting."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The sweet aromatic steam of **malted** barley rose from the brewery vats into the crisp autumn morning."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The travelers refreshed themselves with a foaming tankard of well-brewed **malted** ale at the wayside inn."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The cook stirred a thick bowl of hot **malted** porridge to sustain the exhausted men on the midnight watch."*

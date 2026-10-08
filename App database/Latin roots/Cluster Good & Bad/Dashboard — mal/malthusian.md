@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in malthusian theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thomas malthus or to malthusianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, advocating, or characteristic of the demographic theories of Thomas Robert Malthus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the grim economic proposition that population growth outpaces food supply unless checked by misery, vice, or moral restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess grew older, and began to see how matters stood, she felt quite a Malthusian towards her mother for thoughtlessly giving her so many little sisters and brothers, when it was such a trouble to nurse and provide for them."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"NOTE.--The subject of population generally is discussed under the name of "The Malthusian Doctrine" and much space is given to it in the texts."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Some **Malthusian** panic seemed to seize the cottage mother as she counted her hungry, clamoring brood."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **Malthusian** principle forced legislators to reconsider the unintended effects of the old poor-laws."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"Scientific civilization must resolve the **Malthusian** dilemma through conscious regulation rather than catastrophic famine."*

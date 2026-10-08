@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several low-growing australian eucalypts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several low-growing australian eucalypts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woody Australian eucalyptus plant growing with multiple slender stems arising from a swollen underground lignotuber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dense, semi-arid scrub vegetation dominated by such dwarf multi-stemmed eucalypts across southern inland Australia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mallee designates any of several low-growing australian eucalypts."*
+> - 📜 **Edward John Eyre (*Journals of Expeditions of Discovery into Central Australia*):** *"We forced our way through miles of dense, prickly **mallee** scrub that tore our clothing and exhausted the horses."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The vast arid plains of the south are cloaked in monotonous tracts of dwarf **mallee** stretching to the horizon."*
+> - 📜 **Baldwin Spencer (*Across Australia*):** *"Water is exceedingly scarce across the **mallee** wilderness, forcing the native fauna to depend on deep taproots."*

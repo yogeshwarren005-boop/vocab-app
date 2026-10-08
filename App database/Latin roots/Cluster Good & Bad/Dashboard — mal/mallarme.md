@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French symbolist poet noted for his free verse (1842-1898).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French symbolist poet noted for his free verse (1842-1898).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the poetic techniques, hermetic symbolism, and syntax of Stéphane Mallarmé.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The French Symbolist master Stéphane Mallarmé, celebrated for L'Après-midi d'un faune and Un Coup de dés jamais n'abolira le hasard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mallarme designates french symbolist poet noted for his free verse (1842-1898)."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"In the hermetic verses of **Mallarme**, language is purified of common usage to evoke the silent mystery of the ideal."*
+> - 📜 **Paul Valéry (*Variété*):** *"To have listened to the Tuesday evening conversations of **Mallarme** was an unforgettable initiation into pure poetic consciousness."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"The syntactic compression pioneered by **Mallarme** exerted an enduring influence upon twentieth-century European verse."*

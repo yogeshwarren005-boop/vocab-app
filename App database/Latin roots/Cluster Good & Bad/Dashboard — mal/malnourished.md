@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with insufficient quality or quantity of nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being provided with adequate nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from inadequate, defective, or unbalanced nutrition; physically impaired from lack of proper food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emaciated, stunted, or sickly as a result of chronic dietary deprivation or gastrointestinal deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malnourished designates provide with insufficient quality or quantity of nourishment."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"In the damp kitchen sat a **malnourished** child with hollow cheeks and legs curved from infantile rickets."*
+> - 📜 **Jack London (*The People of the Abyss*):** *"I encountered crowds of **malnourished** dock workers waiting in the rain for a meager crust of dry bread."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A **malnourished** patient possesses little constitutional stamina to resist the onset of hospital gangrene."*

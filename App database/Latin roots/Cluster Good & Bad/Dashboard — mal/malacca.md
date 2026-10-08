@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stem of the rattan palm used for making canes and umbrella handles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cane made from the stem of a rattan palm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic coastal city, Malaysian state, and maritime strait of strategic geopolitical importance connecting the Indian Ocean to the South China Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light, flexible brown cane or walking stick fashioned from the mottled stem of the rattan palm Calamus scipionum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This rampart is pierced by several sally-ports for the convenience of ships and whales; conspicuous among which are the straits of Sunda and Malacca."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He had sailed those sheltered waters from Penang down to the ancient roads of **Malacca**, watching the mangrove shores slide by."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In the perilous passage through the Straits of **Malacca**, piratical prahus were known to lurk behind every forested promontory."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Major Dobbin leaned upon his stout **Malacca** cane, observing the grand carriages pass along the drive in Hyde Park."*

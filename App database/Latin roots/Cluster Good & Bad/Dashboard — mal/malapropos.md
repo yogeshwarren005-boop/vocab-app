@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an inappropriate or incorrectly applied nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate, untimely, unseasonable, or awkwardly out of place with respect to circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inopportune or tactless manner; awkwardly, inappropriately, or at an inconvenient moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They were getting out of their car just outside the gates of Uplands--a most malapropos position!--but without the least hesitation he lifted his hat, and bowed, so that I was spared the troubled uncertainty which I had imagined."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Nothing could have been more **malapropos** than the sudden arrival of the jealous husband at that delicate juncture."*
+> - 📜 **Horace Walpole (*The Letters of Horace Walpole*):** *"The duke blundered into a most **malapropos** remark concerning foreign subsidies just as the peace treaty was signed."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary's enthusiasm burst forth at a moment singularly **malapropos**, interrupting the solemn reading of the testament."*

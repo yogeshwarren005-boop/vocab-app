@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capelins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capelins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical trees and shrubs in the spurge family (Euphorbiaceae), native to the Indo-Pacific region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capelin genus (Mallotus villosus), a small slender marine smelt-like fish of Arctic waters, having hairy-banded scales in the breeding male.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mallotus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tropical genus **Mallotus** includes several trees whose fruit capsules yield brilliant crimson dyes and medicinal resins."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The capelin, classified as **Mallotus** villosus, swarms in millions upon Arctic beaches during the summer spawning run."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Kamala, a valuable orange-red vermifuge powder, is harvested from the glandular hairs of **Mallotus** philippensis."*

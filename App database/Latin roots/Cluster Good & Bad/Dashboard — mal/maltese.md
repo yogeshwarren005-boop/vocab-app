@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of malta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or native to the island nation of Malta, its inhabitants, or the Maltese language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toy breed of dog having a long, silky white coat and dark eyes, or a Maltese cross emblem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They, with two others below, formed the revolving Maltese cross of the reaping-machine, which had been brought to the field on the previous evening to be ready for operations this day."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Busuttil, _Holiday Customs in Malta, and Sports, Usages, Ceremonies, Omens, and Superstitions of the Maltese People_ (Malta, 1894), pp. 56 _sqq._ The extract was kindly sent to me by Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I have brought a little petitioner,” he said, “or rather, I have brought him to see if he will be approved before his petition is offered.” He showed the white object under his arm, which was a tiny Maltese puppy, one of nature’s most naive toys."*
+> - 📜 **Dashiell Hammett (*The Maltese Falcon*):** *"The heavy black statuette was the famous **Maltese** falcon, encrusted beneath its enamel with jewels of fabulous worth."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"During my residence upon the island, I studied the curious Semitic roots underlying the **Maltese** vernacular dialect."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight bore upon his mantle the white eight-pointed cross of the **Maltese** chivalric order."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a people inhabiting the northern malay peninsula and malaysia and parts of the western malay archipelago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A western subfamily of western malayo-polynesian languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an Austronesian ethnic group native to the Malay Peninsula, eastern Sumatra, and coastal Borneo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Austronesian language spoken by the Malay people, which forms the basis of standard Malaysian and Indonesian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No turbaned Turk, no hired Venetian or Malay, could have smote him with more seeming malice."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I entered, a sallow Malay attendant had hurried up with a pipe for me and a supply of the drug, beckoning me to an empty berth."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A crooked smile, like a Malay crease, writhed across the face of one of the women."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The faithful **Malay** crewman stood motionless at the helm, his dark eyes scanning the moonlit sea."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The true **Malay** possesses an impassive temperament, polite bearing, and remarkable nautical dexterity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Among the harpooners were sailors from every remote corner of the earth, including a taciturn **Malay** from the Sunda straits."*

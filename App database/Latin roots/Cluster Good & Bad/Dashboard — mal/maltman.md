@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker of malt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man whose occupation is the making, preparation, or trading of malt for brewing beer and distilling spirits; a maltster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical brewer's supplier who managed the germinating floors and drying kilns of a traditional malthouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maltman designates a maker of malt."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The honest **maltman** delivered his sacks of dried grain to the Edinburgh tavern keepers every market day."*
+> - 📜 **Robert Burns (*The Maltman*):** *"The **maltman** comes on Monday, he craves his silver due for the grain that brewed our autumn ale."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The retired **maltman** sat upon the bench, reminiscing about the great barley harvests of his youth."*

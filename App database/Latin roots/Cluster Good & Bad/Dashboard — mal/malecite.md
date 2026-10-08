@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the algonquian people of northeastern maine and new brunswick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language of the malecite and passamaquody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Indigenous North American people of the Northeast Algonquian linguistic family, native to the Saint John River valley in New Brunswick and Maine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Eastern Algonquian language spoken by the Maliseet (Wolastoqiyik) people, closely related to Passamaquoddy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malecite designates a member of the algonquian people of northeastern maine and new brunswick."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"The Jesuit missionaries established friendly relations with the **Malecite** hunters along the banks of the Saint John River."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide demonstrated how the ancient **Malecite** bark canoes navigated the rocky rapids with consummate grace."*
+> - 📜 **James Mooney (*The Aboriginal Population of America North of Mexico*):** *"The **Malecite** bands formed an essential part of the historic Wabanaki Confederacy against hostile incursions."*

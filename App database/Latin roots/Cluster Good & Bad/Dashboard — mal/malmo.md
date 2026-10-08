@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port in southern sweden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southern sweden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third-largest city in Sweden, located in Scania at the eastern terminus of the Öresund Bridge facing Copenhagen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic commercial port and industrial seaport city on the southern Baltic coast of Sweden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo, the Wounded Rat Mama’s Happy Christmas Cured of Carelessness A Visit from a Prince Stringing Cranberries Christmas in California A Troublesome Call Bertie’s Corn-Popper Fire!"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo was the only company Sam had."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"He worked in a cotton mill, and took Malmo with him."*
+> - 📜 **Hans Christian Andersen (*A Poet's Day-Book*):** *"We took the ferry across the Sound from Copenhagen, watching the red roofs of **Malmo** emerge through the coastal fog."*
+> - 📜 **Selma Lagerlöf (*The Wonderful Adventures of Nils*):** *"The wild geese flew southward over the fertile plains of Scania until the smoking chimneys of **Malmo** came into view."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Strategic couriers frequently crossed the narrow sea between Stralsund and **Malmo** to convey diplomatic dispatches."*

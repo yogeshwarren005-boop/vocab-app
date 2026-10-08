@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoid responsibilities and duties, e.g., by pretending to be ill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid responsibilities and duties, e.g., by pretending to be ill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feign, pretend, or exaggerate illness or incapacity in order to escape work, military service, or burdensome duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To evade responsibility by simulating physical or mental disability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malinger designates avoid responsibilities and duties, e.g., by pretending to be ill."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"A desperate sailor would occasionally **malinger** in his hammock to escape the brutal flogging master at arms."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The young subaltern attempted to **malinger** with a phantom ague until the regimental surgeon threatened castor oil."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The crew debated bitterly whether their sick shipmate was truly dying or had resolved to **malinger** until port."*

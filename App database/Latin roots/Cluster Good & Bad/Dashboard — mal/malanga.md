@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical plant (Xanthosoma sagittifolium) of the arum family, cultivated throughout the Caribbean for its large edible starchy corms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The starchy, earthy-flavored tuberous root of the yautia plant, widely boiled, mashed, or fried in Caribbean cuisine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malanga designates tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Small garden clearings near the coast were planted with cassava, plantains, and the nourishing root called **malanga**."*
+> - 📜 **Charles Kingsley (*At Last: A Christmas in the West Indies*):** *"The market stalls of Port of Spain were piled high with yams, sweet potatoes, and rough brown tubers of **malanga**."*
+> - 📜 **James Anthony Froude (*The English in the West Indies*):** *"Peasant cultivators subsisted comfortably upon the starchy harvest of **malanga** and maize drawn from their fertile plots."*

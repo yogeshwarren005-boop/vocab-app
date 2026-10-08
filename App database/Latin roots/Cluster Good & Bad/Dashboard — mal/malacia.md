@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormal softening of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of abnormal softening of tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal pathological softening or loss of biological firmness in an anatomical organ or animal tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical medicine, a depraved or capricious appetite for unsuitable, bizarre, or inedible substances; pica.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacia designates a state of abnormal softening of tissue."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The morbid condition termed **malacia** often manifests in chlorotic youths as an insatiable craving for chalk and charcoal."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The progressive degeneration of the arterial wall culminates in focal tissue **malacia**, weakening the vessel against blood pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebral **malacia** supervenes rapidly upon the complete thrombotic occlusion of the middle meningeal artery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electric catfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric catfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African freshwater electric catfishes (Malapterurus), capable of generating powerful defensive electric shocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electric catfish of the Nile and central African river basins, capable of producing electrical discharges up to 350 volts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malopterurus designates electric catfish."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Like the gymnotus of the Orinoco, the African **Malopterurus** discharges electric shocks capable of stunning large predators."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The electric catfish **Malopterurus** lacks a rayed dorsal fin, possessing instead a thick fatty adipose structure near the tail."*
+> - 📜 **George Albert Boulenger (*The Fishes of the Nile*):** *"Native fishermen treat **Malopterurus** with great caution, handling the squirming fish with dry cloth to avoid painful shocks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American terrapins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American terrapins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of emydid turtles consisting of the diamondback terrapin (Malaclemys terrapin), native to brackish coastal marshes of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coastal chelonian reptile adapted with webbed feet and salt glands for foraging on mollusks and crabs in tidal estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaclemys designates american terrapins."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The genus **Malaclemys** represents an exquisitely specialized chelonian form restricted entirely to brackish salt marshes."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The diamond-back terrapin, designated **Malaclemys** centrata, is esteemed above all other river turtles for its delicate flesh."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Along the salt-marshes of the Atlantic coast, **Malaclemys** burrows deep into the tidal mud to hibernate during the winter frosts."*

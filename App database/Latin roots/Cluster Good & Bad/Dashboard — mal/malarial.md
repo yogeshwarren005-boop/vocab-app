@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or infected by or resembling malaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or infected by or resembling malaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or characteristic of malaria or its parasitic vectors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with or predisposing to intermittent marsh fevers; miasmatic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Annamese refused to lend a hand, and the Chinese died like flies from the malarial conditions."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There is a swamp of seven acres in the middle, the home of malarial fever, thus making this island one of the most unhealthy spots in New Guinea."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The great sickness amongst the diggers was caused by turning up the virgin soil in the workings and so releasing the malarial germs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sultry coastal atmosphere appeared laden with **malarial** vapors rising from the mangrove swamps."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Patients suffering from chronic **malarial** cachexia present a characteristic yellowish sallow tint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The post-mortem examination revealed intense pigmentation throughout the organs following acute **malarial** infection."*

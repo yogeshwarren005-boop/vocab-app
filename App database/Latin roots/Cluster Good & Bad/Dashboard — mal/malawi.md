@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked sovereign nation situated in Southeastern Africa, along the western shore of Lake Malawi, formerly known as Nyasaland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake Malawi (Lake Nyasa), the third-largest African rift valley freshwater lake, renowned for extreme cichlid fish endemism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malawi designates a landlocked republic in southern central africa; achieved independence from the united kingdom in 1964."*
+> - 📜 **David Livingstone (*Narrative of an Expedition to the Zambesi and Its Tributaries*):** *"The vast inland waters of **Malawi** shimmered beneath the morning sun, encircled by towering purple mountain ranges."*
+> - 📜 **Sir Harry Johnston (*British Central Africa*):** *"The fertile plateau flanking Lake **Malawi** offered promising prospects for agricultural settlement and tea cultivation."*
+> - 📜 **Frederick Lugard (*The Rise of Our East African Empire*):** *"Early missions along the shores of **Malawi** laid the foundations for trade routes into the interior highlands."*

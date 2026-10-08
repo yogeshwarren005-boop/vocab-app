@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is offensively unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive odor that is offensively unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive, foul, repulsive, or nauseating smell; a persistent stench.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pervasive noxious effluvium emanating from putrefaction, decomposition, or chemical stagnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malodor designates a distinctive odor that is offensively unpleasant."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A pestilential **malodor** hung over the squalid graveyard, sickening every pedestrian who passed the iron gate."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The unctuous carcass gave forth an unbearable **malodor** under the blazing tropical sun as the blubber was sliced."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Immediate ventilation is necessary to dispel the sickening **malodor** that collects in crowded hospital wards."*

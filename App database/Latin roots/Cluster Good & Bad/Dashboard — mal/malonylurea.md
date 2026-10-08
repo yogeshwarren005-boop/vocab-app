@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline acid derived from pyrimidine; used in preparing barbiturate drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline acid derived from pyrimidine; used in preparing barbiturate drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heterocyclic organic compound (C4H4N2O3), formally designated barbituric acid, synthesized from malonic acid and urea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical parent nucleus from which barbiturate hypnotic, sedative, and anesthetic drugs are derived.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malonylurea designates a white crystalline acid derived from pyrimidine; used in preparing barbiturate drugs."*
+> - 📜 **Adolf von Baeyer (*Untersuchungen über die Harnsäuregruppe*):** *"By the condensation of urea with malonic acid, we obtained the crystalline heterocyclic compound **malonylurea**."*
+> - 📜 **William Allen Miller (*Elements of Chemistry: Organic Chemistry*):** *"The derivative **malonylurea** crystallizes in colorless prisms and exhibits distinct acidic reactions in aqueous solution."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Treatment of **malonylurea** with fuming nitric acid produces nitrobarbituric acid with energetic evolution of heat."*

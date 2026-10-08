@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to function normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to function or function improperly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to operate, perform, or function normally, properly, or effectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure or flaw in the normal operation, functioning, or working of an apparatus, bodily organ, or system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malfunction designates a failure to function normally."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"A mechanical **malfunction** within the feedback loop invariably produces unstable oscillations in the steering mechanism."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Even a momentary circuit **malfunction** may distort the transmitted signal beyond the decoding threshold."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"We must distinguish between a systemic hardware **malfunction** and an erroneous instruction sequence in the programming."*

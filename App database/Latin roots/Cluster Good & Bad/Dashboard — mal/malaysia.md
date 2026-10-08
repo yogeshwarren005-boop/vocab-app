@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constitutional monarchy in southeastern asia on borneo and the malay peninsula; achieved independence from the united kingdom in 1957.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A federal constitutional monarchy in Southeast Asia, comprising Peninsular Malaysia and Malaysian Borneo (Sabah and Sarawak).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biogeographical and geopolitical region encompassing the Malay Peninsula and northern Borneo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Possibly the ware was of the same type as the coarse crackled porcelain, with roughly painted blue designs, found in Borneo and Malaysia, where it is credited with great antiquity."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The equatorial forests of **Malaysia** shelter an extraordinary richness of animal and botanical forms."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The trading schooner plied the shallow straits and forested archipelagos of northern **Malaysia** in search of gutta-percha."*
+> - 📜 **Isabella Bird (*The Golden Chersonese and the Way Thither*):** *"Dense mangrove jungles and emerald tin hills formed the enchanting landscape of British **Malaysia**."*

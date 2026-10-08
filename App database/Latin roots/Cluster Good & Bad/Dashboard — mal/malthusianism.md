@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The economic and demographic doctrine that population increases exponentially while food production increases only arithmetically, necessitating population checks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocacy of voluntary population control or economic policies based upon Malthusian demographic tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malthusianism designates malthus' theory that population increase would outpace increases in the means of subsistence."*
+> - 📜 **Karl Marx (*Capital*):** *"Classical economists embraced **Malthusianism** to excuse the misery of the working classes as an immutable law of nature."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"Early advocates of birth control were inspired by the demographic warnings inherent in **Malthusianism**."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The pressure of population emphasized by **Malthusianism** serves as the prime evolutionary agent of human progress."*

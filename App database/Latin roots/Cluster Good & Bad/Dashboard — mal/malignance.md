@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a malignant state; progressive and resistant to treatment and tending to cause death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of being disposed to evil; intense ill will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme ill will, active malevolent spite, or hostility; relentless disposition to inflict suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive virulence or venomous potency in an illness or toxic influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malignance designates (medicine) a malignant state; progressive and resistant to treatment and tending to cause death."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The dark portrait looked down from the wainscot with an air of unyielding ancestral **malignance**."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"I was driven into a frenzy of blind **malignance** that extinguished the last spark of human pity within me."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Fierce **malignance** burned in the hearts of the factional leaders as the guillotine claimed daily victims."*

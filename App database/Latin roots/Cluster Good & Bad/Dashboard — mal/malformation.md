@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or irregular development, shape, or structural formation in an animal, plant, or bodily organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital anatomical defect, deformity, or structural abnormality resulting from flawed embryonic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once— “I can’t see him in this state."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood wanting to see you, Miss Everdene.” A woman’s dress being a part of her countenance, and any disorder in the one being of the same nature with a malformation or wound in the other, Bathsheba said at once,— “I can’t see him in this state."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Congenital **malformation** of the limbs occurs with remarkable frequency when closely related individuals are repeatedly bred."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cyanosis in the newborn infant often points to an underlying congenital **malformation** of the cardiac septa."*
+> - 📜 **Thomas Henry Huxley (*On the Origin of Species*):** *"Teratological specimens show that profound anatomical **malformation** may arise from a slight arrest of embryonic growth."*

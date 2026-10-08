@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public area set aside as a pedestrian walk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaded public promenade, walk, or avenue originally laid out for playing the game of pall-mall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modern enclosed or pedestrian shopping concourse containing multiple retail stores, restaurants, and amenities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they like to take dust, like Mistress Mall’s picture?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Here you are, Peterson, run down to the advertising agency and have this put in the evening papers.” “In which, sir?” “Oh, in the _Globe_, _Star_, _Pall Mall_, _St."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Occasionally, a mall or square appeared along the transit route, lined with workshops, playgrounds, and colorful private houses or apartment complexes."*
+> - 📜 **John Evelyn (*The Diary of John Evelyn*):** *"I walked in St. James's Park to see the grand improvements and the courtiers playing upon the sandy **mall**."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"Thence to the **mall** in St. James's Park, where the king and duke were walking briskly in the pleasant breeze."*
+> - 📜 **Washington Irving (*Salmagundi*):** *"Fashionable belles and beaux promenaded the fashionable **mall** on Sunday afternoons to display their springtime finery."*

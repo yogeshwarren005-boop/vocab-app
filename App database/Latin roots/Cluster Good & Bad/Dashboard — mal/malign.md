@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak unfavorably about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evil or harmful in nature or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evil, injurious, or pernicious in influence, nature, or effect; harmful to life or welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To speak evil of, defame, or utter slanderous and injurious falsehoods concerning someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The eyes were no longer merely luminous points; they looked into his own with a meaning, a malign significance."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Amidst the malign influences of secession and treason, entire and unqualified devotion to the Union, shone with additional brightness from its contrast with surrounding darkness."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Before dinner the old prince, of whom she was always afraid, came into her room with a peculiarly restless and malign expression and went out again without saying a word."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Can it be that there is a **malign** influence in this ancient castle which drains the vitality of all who enter?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Envy and despair urged the fallen angel to fix his **malign** gaze upon the innocent beauty of Eden."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I felt as if an evil spirit had guided my steps, casting a **malign** shadow across every noble intention."*

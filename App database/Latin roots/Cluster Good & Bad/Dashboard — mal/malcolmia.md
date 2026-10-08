@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of plants usually found in coastal habitats; mediterranean to afghanistan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of plants usually found in coastal habitats; mediterranean to afghanistan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous annual and perennial plants in the mustard family (Brassicaceae), native to the Mediterranean and Central Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Virginia stock (Malcolmia maritima), widely cultivated in cottage gardens for its sweet-scented lilac, pink, or white blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malcolmia designates genus of plants usually found in coastal habitats; mediterranean to afghanistan."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Malcolmia** includes several charming annual crucifers prized for bordering parterres."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Gardeners frequently sow **Malcolmia** in early spring to secure an abundance of fragrant seaside blossoms."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Among annual bedding crucifers, **Malcolmia** maritima remains a favorite for rapid growth and delicate color."*

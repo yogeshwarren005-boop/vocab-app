@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel or inhumane treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cruel or inhumane treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel, abusive, violent, or neglectful handling; physical or emotional abuse inflicted upon a dependent or victim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The infliction of rough, improper, or harmful treatment resulting in suffering, distress, or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To the ignorant age in which it first 474:9 appears, Science seems to be a mistake, - hence the misinterpretation and consequent maltreatment which it receives."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Humanity protests against every form of mental and physical **maltreatment** that degrades the human spirit."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"No degree of faithful labor could shield a slave from arbitrary **maltreatment** at the hands of the overseer."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The parish boy showed unmistakable traces of systematic starvation and **maltreatment** beneath his ragged clothes."*

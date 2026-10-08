@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or causing evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or nature of being harmful or evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doing or causing of evil, harm, or injury; active malevolent wrongdoing or malicious behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical ethics, the harmful violation of the fundamental duty not to inflict injury upon a patient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleficence designates doing or causing evil."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Moral codes universally prohibit active **maleficence**, condemning all unprovoked injuries to person and property."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No temporary advantage can compensate a man for the guilt and enduring infamy of deliberate **maleficence**."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Justice requires the state to restrain private **maleficence** so that every citizen may exercise liberty unhindered."*

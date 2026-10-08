@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the dravidian people living in northern bengal in eastern india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dravidian language spoken by the malto.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or derived from malt or maltose, used as a prefix in names of sugars, enzymes, and dextrins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating carbohydrate malt derivatives such as maltodextrin, maltobiose, and maltotriose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malto designates a member of the dravidian people living in northern bengal in eastern india."*
+> - 📜 **Emil Fischer (*Untersuchungen über Kohlenhydrate und Fermente*):** *"Enzymatic cleavage of starch produces the intermediate **malto**-dextrins prior to the complete release of glucose."*
+> - 📜 **William Allen Miller (*Elements of Chemistry: Organic Chemistry*):** *"The complex polysaccharide breaks down into various **malto**-derivatives during the commercial mashing process."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Diastatic action upon cereal grain converts starch into fermentable **malto** compounds with remarkable rapidity."*

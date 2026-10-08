@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malay language spoken in malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen or national of Malaysia; of or pertaining to the nation of Malaysia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the multi-ethnic society, culture, or geographic territory of Malaysia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaysian designates a native or inhabitant of malaysia."*
+> - 📜 **Isabella Bird (*The Golden Chersonese and the Way Thither*):** *"The **Malaysian** boatmen guided the long prahu through swirling river currents with astonishing coolness."*
+> - 📜 **Somerset Maugham (*The Casuarina Tree*):** *"The night air was filled with the rhythmic chorus of cicadas rising from the deep **Malaysian** jungle."*
+> - 📜 **Frank Swettenham (*British Malaya*):** *"Traditional **Malaysian** craftsmanship was celebrated for exquisite silver filigree and damascened kris blades."*

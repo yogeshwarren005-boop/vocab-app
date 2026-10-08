@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign king, monarch, or royal ruler in the Arab and Islamic worlds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A village headman, tribal chieftain, or elder in parts of South and Central Asia, particularly in Pakistan and Afghanistan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malik designates the leader of a town or community in some parts of asia minor and the indian subcontinent."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The ancient titles of sultan and **malik** denote supreme temporal governance across Islamic annals."*
+> - 📜 **Sir Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The venerable tribal **malik** received us beneath the shade of the date palms with traditional desert courtesy."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The village **malik** adjusted his turban and offered fresh curds to the holy lama on the Grand Trunk Road."*

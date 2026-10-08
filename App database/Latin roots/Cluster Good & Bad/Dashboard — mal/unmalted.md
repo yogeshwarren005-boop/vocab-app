@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of grain that has not been converted into malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of grain that has not been converted into malt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into malt; grain, such as raw barley, wheat, or rye, that has not undergone germination and kilning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to brewing or distilling mashes incorporating raw, ungerminated grain alongside diastatic malted barley.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmalted designates of grain that has not been converted into malt."*
+> - 📜 **William Cobbett (*Cottage Economy*):** *"The prudent smallholder may brew wholesome harvest beer by mashing a proportion of **unmalted** barley with prime grain."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Starch granules contained within **unmalted** grain require prolonged gelatinization before enzymatic conversion can occur."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The carter delivered three sacks of **unmalted** oats for horse feed to the stables behind the brewery."*

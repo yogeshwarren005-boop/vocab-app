@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of malawi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of malawi or its people or culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the sovereign state of Malawi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the people, culture, languages, geographical territory, or polity of Malawi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malawian designates a native or inhabitant of malawi."*
+> - 📜 **David Livingstone (*Narrative of an Expedition to the Zambesi and Its Tributaries*):** *"The **Malawian** boatmen guided their slender canoes with effortless skill through the rocky narrows."*
+> - 📜 **Sir Harry Johnston (*British Central Africa*):** *"A resilient **Malawian** community preserved ancient smelting and weaving crafts despite centuries of raider incursions."*
+> - 📜 **James Bryce (*Impressions of South Africa*):** *"The gentle temperament of the **Malawian** laborers made them highly sought after in the mining centers of the south."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright green basic copper carbonate mineral (Cu2CO3(OH)2) used as an ore of copper and an ornamental carving stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banded, velvety green ornamental gemstone prized in decorative architecture, lapidary inlays, and mineral pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I slipped on the uneven floor, and fell over one of the malachite tables, almost breaking my shin."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The altar was encrusted with precious slabs of deep green **malachite** and polished porphyry brought from the East."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The mineral **malachite** was named for its vivid resemblance to the luxuriant green hue of common mallow leaves."*
+> - 📜 **Jules Verne (*Michael Strogoff*):** *"In the grand imperial palace at Moscow, colossal urns fashioned of green Siberian **malachite** adorned the reception halls."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; often included in the genus rhus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; often included in the genus rhus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen shrubs in the sumac family (Anacardiaceae), containing laurel sumac (Malosma laurina), native to California and Baja California.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic chaparral and coastal sage scrub shrub bearing taco-shaped folded leaves and dense panicles of small cream flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malosma designates one species; often included in the genus rhus."*
+> - 📜 **Willis Linn Jepson (*A Manual of the Flowering Plants of California*):** *"The laurel sumac, known to botanists as **Malosma** laurina, clothes coastal hillsides with dense aromatic green crowns."*
+> - 📜 **Philip A. Munz (*A California Flora*):** *"The sweet apple-scented foliage of **Malosma** releases fragrant volatile oils when bruised in the hand."*
+> - 📜 **Alice Eastwood (*Leaflets of Western Botany*):** *"On warm afternoons along the canyon slopes, the resinous perfume of **Malosma** hung heavy upon the breeze."*

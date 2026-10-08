@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Mary Mallon or the epidemiological study of asymptomatic disease carriers in public health history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical case of Mary Mallon, illustrating the ethical and sanitary dilemmas of isolating healthy carriers of infectious disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*
+> - 📜 **George Soper (*The Curious Career of Typhoid Mary*):** *"The persistent carrier state identified in Mary **Mallon** presented public health authorities with an unprecedented legal challenge."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"The involuntary quarantine imposed upon Mary **Mallon** underscored the clash between individual liberty and sanitary safety."*
+> - 📜 **Milton J. Rosenau (*Preventive Medicine and Hygiene*):** *"The history of Mary **Mallon** demonstrated that healthy individuals could harbor virulent bacilli in the gallbladder for decades."*

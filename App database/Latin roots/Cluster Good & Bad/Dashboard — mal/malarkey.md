@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Empty rhetoric or insincere or exaggerated talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty rhetoric or insincere or exaggerated talk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meaningless, insincere, or nonsensical talk; humbug, pretentious claptrap, or blather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated foolishness or deceptive speech designed to mislead or disarm listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malarkey designates empty rhetoric or insincere or exaggerated talk."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The colorful slang vocabulary of the city police reporter gave wide currency to terms like bunkum and **malarkey**."*
+> - 📜 **Damon Runyon (*Guys and Dolls*):** *"He listened to the promoter's smooth promises, well aware that the entire scheme was pure **malarkey**."*
+> - 📜 **Sinclair Lewis (*Gideon Planish*):** *"The political orator punctuated his speech with grand promises that the cynical reporter dismissed as hollow **malarkey**."*

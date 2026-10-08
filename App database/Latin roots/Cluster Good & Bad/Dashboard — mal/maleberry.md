@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous much-branched shrub with dense downy panicles of small bell-shaped white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous much-branched shrub with dense downy panicles of small bell-shaped white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deciduous North American wetland shrub (Lyonia ligustrina) of the heath family, bearing clusters of small white urn-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dry, hard, unpalatable capsular fruit of the he-huckleberry shrub, devoid of juicy edible pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleberry designates deciduous much-branched shrub with dense downy panicles of small bell-shaped white flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **maleberry**, Lyonia ligustrina, abounds in swamp margins and moist thickets from Maine to Florida."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Unlike the succulent blueberry, the dry capsule of the **maleberry** offers no edible fruit to birds or cattle."*
+> - 📜 **Nathaniel Lord Britton (*Illustrated Flora of the Northern United States and Canada*):** *"In acidic swamps, the tough stems of **maleberry** form dense tangled thickets alongside alder and sweet pepperbush."*

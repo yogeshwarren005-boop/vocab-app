@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cheerless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dreadful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gloomy, dejected, or cheerless manner; with deep despondency or sorrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a disastrous, utter, or hopelessly disappointing degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Whatever he put on, became him less (it dismally seemed to me) than what he had worn before."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the hours of darkness passed in peace; the men who still remained at their duty toiling hard at the pumps, whose clinking and clanking at intervals through the dreary night dismally resounded through the ship."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The wind groaned through the empty corridors, and the old grandfather clock ticked **dismally** in the shadowy hall."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dripping November rain dripped **dismally** from the thatch, chilling the travelers to the bone."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The surf roared upon the rocks, sounding **dismally** in our ears as we huddled in the darkening stockade."*

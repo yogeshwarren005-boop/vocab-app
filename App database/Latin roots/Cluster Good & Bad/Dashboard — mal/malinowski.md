@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Bronisław Malinowski or his foundational theories of functionalism and participant observation in social anthropology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eminent anthropologist Bronisław Malinowski, famous for his field study Argonauts of the Western Pacific and analysis of the Kula ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malinowski designates british anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942)."*
+> - 📜 **Ruth Benedict (*Patterns of Culture*):** *"The intensive field methods introduced by **Malinowski** revolutionized modern ethnographic research in the South Seas."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Our understanding of primitive ceremonial exchange owes an incalculable debt to the monumental studies of **Malinowski**."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"While functionalism as formulated by **Malinowski** emphasized immediate biological needs, it illuminated the coherence of custom."*

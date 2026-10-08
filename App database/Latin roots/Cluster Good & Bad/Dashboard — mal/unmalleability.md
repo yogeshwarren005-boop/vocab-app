@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of malleability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of malleability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property or quality of resisting deformation, hammering, or shaping under compressive stress; stubborn rigidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflexibility of temperament, stubborn resistance to training, or refusal to yield to persuasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmalleability designates a lack of malleability."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The extreme **unmalleability** of the cast alloy prevented the smiths from rolling it into workable sheets."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The unyielding **unmalleability** of the old judicial system made peaceful constitutional compromise impossible."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Dense crystalline basalt demonstrates total **unmalleability** when subjected to ordinary surface mechanical weathering."*

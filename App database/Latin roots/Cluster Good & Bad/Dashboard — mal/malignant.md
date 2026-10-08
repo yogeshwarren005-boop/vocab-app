@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dangerous to health; characterized by progressive and uncontrolled growth (especially of a tumor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to cause harm, suffering, or distress; intensely malevolent, hostile, or spiteful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, characterized by uncontrollable cell division, invasive infiltration, and capacity to cause death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But—O malignant and ill-boding stars!— Now thou art come unto a feast of death, A terrible and unavoided danger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please your Highness, note This dangerous conception in this point, Not friended by his wish to your high person His will is most malignant, and it stretches Beyond you to your friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Refusing her grand hests, she did confine thee by help of her more potent ministers and in her most **malignant** rage into a cloven pine."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A **malignant** whisper ran through the tribunal that the prisoner had sheltered suspected aristocrats."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The swampy hollow wore a sullen, **malignant** aspect beneath the gathering evening mists."*

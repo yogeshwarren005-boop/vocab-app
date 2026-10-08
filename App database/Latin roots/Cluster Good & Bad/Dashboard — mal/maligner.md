@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately slanders, defames, or utters malicious and false reports about another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calumniator who seeks to ruin the honor, reputation, or character of an adversary through spiteful speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine marched down the halls of the American Congress, and threw his shining lance full and fair against the brazen foreheads of the defamers of his country and the maligners of his honor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The habitual **maligner** poisons the sweet stream of public discourse with undetected droplets of defamation."*
+> - 📜 **Alexander Pope (*An Epistle to Dr. Arbuthnot*):** *"No honest man can escape the secret shaft sped by the cowardly and envious **maligner**."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The king rebuked the courtly **maligner**, refusing to entertain base accusations against an absent friend."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet madeira wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet madeira wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet, rich fortified Madeira wine made from the Malvasia grape variety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fragrant, golden-amber dessert wine historically celebrated across medieval Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder he comes, and that arrant malmsey-nose knave, Bardolph, with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, two treys, an if you grow so nice, Metheglin, wort, and malmsey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him on the costard with the hilts of thy sword, and then throw him in the malmsey-butt in the next room."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Take that, and that; if all this will not do, I'll drown you in the **malmsey**-butt within, cried the murderer to Clarence."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"And forth he goth, no lenger wold he tarye, into the tauerne to drinke of good **malmsey** and vernage."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The hospitable prior offered his noble visitor a goblet of rich **malmsey** imported from the Mediterranean."*

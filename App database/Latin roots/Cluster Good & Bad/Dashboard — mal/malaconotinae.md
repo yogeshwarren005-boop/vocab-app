@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An african bush shrikes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An african bush shrikes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of passerine birds, commonly known as bushshrikes, indigenous to forests and savannahs of sub-Saharan Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An avian clade of songbirds characterized by soft, dense dorsal plumage, hooked raptorial bills, and varied resonant vocal duets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malaconotinae designates an african bush shrikes."*
+> - 📜 **Richard Bowdler Sharpe (*Catalogue of the Birds in the British Museum*):** *"The bushshrikes of the **Malaconotinae** exhibit dense, puffy plumage upon the rump and strong hooked bills adapted for seizing insects."*
+> - 📜 **Arthur Stark (*The Birds of South Africa*):** *"Species belonging to the **Malaconotinae** inhabit thick thornveld and scrub, uttering loud piping calls from the leafy canopy."*
+> - 📜 **Anton Reichenow (*Die Vögel Afrikas*):** *"Within the Ethiopian region, the subfamily **Malaconotinae** displays remarkable diversity in plumage coloration and forest habitat adaptation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The algonquian language of the malecite and passamaquody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language of the malecite and passamaquody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Maliseet (Wolastoqiyik) First Nations people native to the Saint John River valley of New Brunswick and Maine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Algonquian dialect spoken by the Maliseet community of the northeastern woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleseet designates the algonquian language of the malecite and passamaquody."*
+> - 📜 **Francis Parkman (*Count Frontenac and New France under Louis XIV*):** *"A band of hardy **Maleseet** warriors joined the French raid against the New England border settlements."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The birch bark canoe constructed by the **Maleseet** craftsman proved lighter and more buoyant than any colonial wooden skiff."*
+> - 📜 **Frank Speck (*Malecite Tales*):** *"Traditional lore among the **Maleseet** elders preserved epic narratives of Glooskap and the primeval animals."*

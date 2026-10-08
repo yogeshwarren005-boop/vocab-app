@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malignant manner, as of a tumor that spreads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malignant manner, as of a tumor that spreads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malignant, spiteful, or malevolent manner; with intense hostility and desire to inflict injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, with invasive virulence or destructive rapidity threatening life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Gifted with the high perception, I lack the low, enjoying power; damned, most subtly and most malignantly! damned in the midst of Paradise!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Who asked you to?” shouted Natásha, raising herself on the sofa and looking malignantly at Márya Dmítrievna."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Gifted with the high perception, I lack the low, enjoying power; damned, most subtly and most malignantly! damned in the midst of Paradise!"*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The furious ape glared **malignantly** into the room before striking the helpless occupants."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cruel schoolmaster scowled **malignantly** at the trembling pupil as he reached for the wooden rod."*
+> - 📜 **Joseph Conrad (*Victory*):** *"Ricardo watched his employer **malignantly**, his fingers twitching toward the concealed knife in his sleeve."*

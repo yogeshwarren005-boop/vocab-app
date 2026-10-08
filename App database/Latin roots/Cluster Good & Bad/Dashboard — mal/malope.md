@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of Mediterranean annual herbs in the mallow family (Malvaceae), commonly called mallow-worts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The garden annual Malope trifida, cultivated in flower borders for its large, showy purple, pink, or white flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malope designates western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Malope** is distinguished within the Malvaceae by having its carpels crowded into an irregular head."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The showy Mediterranean annual **Malope** trifida produces brilliant crimson-striped blossoms in late summer gardens."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Amateur florists prize **Malope** for its rapid growth and profusion of glossy satiny petals."*

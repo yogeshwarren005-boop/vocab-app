@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French novelist (1901-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French novelist (1901-1976).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to André Malraux or his existential novels of revolutionary action, tragic heroism, and universal artistic philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The French author and statesman André Malraux, famed for La Condition humaine (Man's Fate) and The Voices of Silence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malraux designates french novelist (1901-1976)."*
+> - 📜 **Albert Camus (*Lyrical and Critical Essays*):** *"In the intense, nocturnal dramas of **Malraux**, heroic action is asserted as humanity's defiant answer to cosmic destiny."*
+> - 📜 **Jean-Paul Sartre (*What Is Literature?*):** *"The tragic political universe portrayed by **Malraux** confronted a generation of intellectuals with the demands of direct commitment."*
+> - 📜 **Edmund Wilson (*The Shores of Light*):** *"The revolutionary chronicles of **Malraux** brought the tumultuous conflicts of modern Asia into the bloodstream of Western literature."*

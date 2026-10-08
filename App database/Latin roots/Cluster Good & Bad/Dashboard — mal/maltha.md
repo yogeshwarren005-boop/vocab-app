@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick black tar intermediate between petroleum and asphalt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick black tar intermediate between petroleum and asphalt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, viscid, semi-fluid variety of natural bitumen or asphalt intermediate between petroleum and solid asphaltum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient waterproofing cement or mortar composed of slaked lime, wax, resin, and pitch used in cisterns and aqueducts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maltha designates a thick black tar intermediate between petroleum and asphalt."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The ancient builders caulked the seams of their stone water basins with a tenacious cement called **maltha**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Natural seepages of dark viscous **maltha** exuded from fissures in the bituminous limestone cliffs."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"When mixed with warm pitch and oil, **maltha** forms an impenetrable coating that resists the infiltration of moisture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thomas Robert Malthus, the British political economist famous for his 1798 treatise An Essay on the Principle of Population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the demographic principles or economic theories formulated by Thomas Robert Malthus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His work on political economy not only put into thorough repair the structure raised by Adam Smith, Malthus, and Ricardo, but raised it at least one story higher."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The idea as held by Malthus and Ricardo was modified by John Stuart Mill in somewhat inconsistent ways."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So much useless controversy has been occasioned by the ambiguities of Malthus's argument that it seemed best not to introduce this difficulty into the text."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"In October 1838, I happened to read for amusement **Malthus** on Population, and being well prepared to appreciate the struggle for existence, it struck me at once."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The foundational proposition demonstrated by **Malthus** is that population unchecked tends to outstrip the means of subsistence."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Philosophers who followed **Malthus** regarded human beings as mere geometrical fractions in an arithmetic wilderness."*

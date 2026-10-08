@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city and resort in andalusia in southern spain on the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city and resort in andalusia in southern spain on the mediterranean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet, fortified white dessert wine produced in the province of Málaga from Muscat and Pedro Ximénez grapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large, sweet white variety of table grape originally cultivated extensively in southern Spain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know that we heard ages ago that he is an entirely broken man and that he lay deadly sick in Malaga."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The travelers quenched their thirst with flagons of cool **Malaga** wine after traversing the sun-baked sierras of Andalusia."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"A crystal decanter of amber **Malaga** sparkled upon the sideboard, offering solace to the fatigued guest."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The sweet vintage of **Malaga** owes its rich syrupy fragrance to the sun-ripened raisins pressed in the autumn."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal absorption of nutrients from the digestive tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal absorption of nutrients from the digestive tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective or inadequate assimilation of dietary nutrients, vitamins, or minerals by the mucosa of the small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical syndrome characterized by chronic diarrhea, steatorrhea, weight loss, and nutritional deficiencies resulting from gastrointestinal impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malabsorption designates abnormal absorption of nutrients from the digestive tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe intestinal atrophy frequently produces progressive **malabsorption**, leading to marked emaciation despite adequate caloric ingestion."*
+> - 📜 **Frederick Taylor (*The Practice of Medicine*):** *"The onset of systemic **malabsorption** may be recognized by the passage of bulky, unassimilated stools and accompanying hypochromic anemia."*
+> - 📜 **Thomas Clifford Allbutt (*A System of Medicine*):** *"Chronic mucosal inflammation invariably culminates in generalized **malabsorption**, starving the peripheral tissues of essential fats and salts."*

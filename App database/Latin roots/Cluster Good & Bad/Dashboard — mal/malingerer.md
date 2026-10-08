@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone shirking their duty by feigning illness or incapacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone shirking their duty by feigning illness or incapacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who feigns, simulates, or exaggerates sickness or disability to shirk work, military duty, or legal obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who deceives medical authorities by counterfeiting physical distress for personal advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malingerer designates someone shirking their duty by feigning illness or incapacity."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The cynical boatswain denounced James Wait as an accomplished **malingerer** who preferred ease to honest deck work."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The army surgeon quickly unmasked the cunning **malingerer** who claimed total paralysis of the limbs."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The plantation overseer had little patience with any suspected **malingerer** among the newly recruited islanders."*

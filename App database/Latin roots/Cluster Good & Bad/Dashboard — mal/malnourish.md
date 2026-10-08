@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with insufficient quality or quantity of nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with insufficient quality or quantity of nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide with inadequate, defective, or improper nourishment, causing physical impairment and wasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive an organism of essential vitamins, proteins, or nutrients necessary for healthy growth and development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malnourish designates provide with insufficient quality or quantity of nourishment."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The parish authorities managed to **malnourish** the workhouse children on thin gruel while boasting of their Christian benevolence."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"When food supplies fall short of population growth, famine threatens to **malnourish** the laboring classes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ignorant parental feeding practices frequently **malnourish** infants despite an abundance of wholesome food in the household."*

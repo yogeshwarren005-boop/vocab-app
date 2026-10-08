@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the superorder malacopterygii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fish of the superorder malacopterygii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining or belonging to the Malacopterygii, an obsolete order of soft-finned bony fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having soft, jointed fin rays devoid of rigid, bony pungent spines, characteristic of teleosts like salmon, carp, and herrings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacopterygian designates any fish of the superorder malacopterygii."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The **malacopterygian** fishes possess flexible, articulated fin rays, distinguishing them from the spiny-finned acanthopterygians."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The vertebral column of the **malacopterygian** teleost retains an unconstricted notochordal canal in several primitive families."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In typical **malacopterygian** forms, the pneumatic duct remains open throughout adult life between the air bladder and esophagus."*

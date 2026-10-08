@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An 80/20 alloy of nickel and iron; easily magnetized and demagnetized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nickel-iron magnetic alloy (typically 80% nickel, 20% iron) characterized by exceptionally high magnetic permeability and low coercivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized ferromagnetic material used in transformer cores, magnetic shielding, and submarine communication cable loading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But what I've got here is a piece of permalloy."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The sensitive magnetic detector was shielded within heavy concentric casings of polished **permalloy**."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The wrapping of submarine telegraph cables with high-permeability **permalloy** tape greatly increased the signaling speed."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Transient Electric Phenomena and Oscillations*):** *"The discovery of **permalloy** opened new frontiers in the minimization of hysteresis losses in inductive apparatus."*

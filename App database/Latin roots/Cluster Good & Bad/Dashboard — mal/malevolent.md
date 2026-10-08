@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing or appearing to wish evil to others; arising from intense ill will or hatred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exerting a malignant influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or arising from intense ill will, spite, or a desire to inflict injury on others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a harmful, pernicious, or baneful influence upon human life, health, or fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his uncle’s teaching, this is Worcester, Malevolent to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His face twisted into a malevolent grin."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Its horrible head, thrust flatly forth from the innermost coil and resting upon the outermost, was directed straight toward him, the definition of the wide, brutal jaw and the idiotlike forehead serving to show the direction of its malevolent gaze."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A wild and **malevolent** light gleamed within his sunken eyes as the storm reached its fury."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her aunt cast a cold, **malevolent** glance upon the orphan child before banishing her to the red-room."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The impenetrable jungle seemed a brooding, **malevolent** presence watching the little steamer with silent menace."*

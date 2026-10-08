@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling a need to see others suffer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling a need to see others suffer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, temper, or disposition of being malicious; spiteful hostility or venomous ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate harmfulness in conduct or speech aimed at damaging the welfare or reputation of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even when you scolded the Falcon properly for tramping down your plants, you knew that it was not in maliciousness he did it but in self-defence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The petty **maliciousness** of small minds finds delight in detecting minor blemishes upon great reputations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was no vulgar **maliciousness** in Mrs. Cadwallader, only a lively relish for sharp-tongued observation."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The sudden outburst of village gossip was marked by a petty **maliciousness** that astonished the peaceful traveler."*

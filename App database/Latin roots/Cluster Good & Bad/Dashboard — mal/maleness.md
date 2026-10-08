@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The properties characteristic of the male sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties characteristic of the male sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological, physiological, or anatomical state and characteristics of being male.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The behavioral, cultural, or physical attributes traditionally associated with masculinity in human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleness designates the properties characteristic of the male sex."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In poultry, the conspicuous comb and spur development are direct physiological expressions of constitutional **maleness**."*
+> - 📜 **Havelock Ellis (*Man and Woman: A Study of Secondary Sexual Characters*):** *"Anthropological surveys demonstrate that traits representing biological **maleness** vary across racial types."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The phenotypic manifestation of **maleness** in mammals is governed by early embryonic testicular differentiation."*

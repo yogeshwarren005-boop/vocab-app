@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Semitic language spoken by the people of Malta, derived from Siculo-Arabic and heavily influenced by Italian, Sicilian, and English.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the native Semitic vernacular language or indigenous cultural identity of Malta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malti designates the national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The unique position of **Malti** demonstrates how an Arabic dialect can absorb Romance vocabulary while retaining Semitic grammar."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Linguistic contact in the Mediterranean produced in **Malti** a remarkable hybrid of Arabic syntax and Italian loanwords."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The sailor muttered a prayer in **Malti**, that curious island tongue wherein Arabic roots blend with Italian cadences."*

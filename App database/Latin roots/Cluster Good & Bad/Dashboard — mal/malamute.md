@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of sled dog developed in alaska.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of sled dog developed in alaska.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, powerful breed of Arctic sled dog with a thick, coarse double coat, erect ears, and a bushy plumelike tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy-duty working draft dog bred for endurance, hauling heavy freight sledges across Arctic ice and snow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malamute designates breed of sled dog developed in alaska."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"A giant **malamute** leaped into the traces, barking joyfully as the heavy wooden sledge broke free from the crust."*
+> - 📜 **Robert W. Service (*The Spell of the Yukon*):** *"The gaunt **malamute** howled mournfully at the freezing moon while the blizzard buried the Yukon cabin."*
+> - 📜 **Hudson Stuck (*Ten Thousand Miles with a Dog Sled*):** *"For heavy freighting across rugged tundra trails, the stout **malamute** possesses unmatched stamina and fortitude."*

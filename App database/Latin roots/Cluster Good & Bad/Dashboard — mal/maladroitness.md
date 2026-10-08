@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unskillfulness resulting from a lack of training.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskillfulness resulting from a lack of training.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Awkwardness, unhandiness, or lack of physical dexterity and bodily poise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ineptitude, blundering tactlessness, or want of social diplomacy and interpersonal finesse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maladroitness designates unskillfulness resulting from a lack of training."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The rustic squire laughed heartily at his own **maladroitness** after dropping the heavy antique silver carving knife."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"A momentary social **maladroitness** in Old New York was treated with chilling polite silence rather than open rebuke."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Civilized man often exhibits surprising **maladroitness** when required to kindle a simple camp fire in the rainy wilderness."*

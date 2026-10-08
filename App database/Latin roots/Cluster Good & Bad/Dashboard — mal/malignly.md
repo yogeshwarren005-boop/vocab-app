@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malign and evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malign and evil manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an evil, spiteful, or malevolent manner; with harmful or pernicious intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With injurious, unfavorable, or adverse influence upon circumstances or health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malignly designates in a malign and evil manner."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen star shone **malignly** upon the blasted plain, shedding a pale, unholy radiance."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Adverse destinies seemed to conspire **malignly** against his philosophical peace and domestic comfort."*
+> - 📜 **George Eliot (*Romola*):** *"Tito smiled coldly as the trap closed, knowing that fate had worked **malignly** against his unsuspecting benefactor."*

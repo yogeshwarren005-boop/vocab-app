@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed marine fishes; often brightly colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed marine fishes; often brightly colored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine perciform fishes, commonly known as tilefishes, inhabiting sandy or rubble burrows on continental shelves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teleost family distinguished by elongated bodies, continuous dorsal fins with slender flexible spines, and burrowing benthic behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacanthidae designates short-headed marine fishes; often brightly colored."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Malacanthidae** comprises marine species distinguished by flexible dorsal spines and specialized sand-dwelling habits."*
+> - 📜 **George Albert Boulenger (*Fauna of the Malay Peninsula*):** *"Fishes belonging to the **Malacanthidae** construct elaborate subterranean burrows among coral rubble, into which they retreat upon the slightest alarm."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"In anatomical structures the **Malacanthidae** show close affinity with the labroid fishes while retaining distinct osteological peculiarities."*

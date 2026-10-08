@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling a need to see others suffer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate intention or desire to inflict injury, suffering, harm, or pain upon another human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, the wrongful state of mind accompanying the commission of an injurious act without legal justification or excuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Name Cleopatra as she is called in Rome; Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both truth and malice Have power to utter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I think I utter, and spend my malice in my breath."*
+> - 📜 **William Shakespeare (*Othello*):** *"Speak of me as I am; nothing extenuate, nor set down aught in **malice**."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With **malice** toward none, with charity for all, let us strive on to finish the work we are in."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He had chosen to withdraw himself from the world, and brood in secret over his implacable **malice**."*

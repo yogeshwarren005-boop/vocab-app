@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly adjusted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poorly adjusted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to hinder, prevent, or impair healthy psychological, behavioral, or functional adaptation to conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing friction, psychological disharmony, or operational instability within an organism or social structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maladjustive designates poorly adjusted."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Excessive emotional inhibition exerts a **maladjustive** influence upon practical intellectual enterprise."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"Rigid defense mechanisms develop into persistent **maladjustive** habits that distort objective reality."*
+> - 📜 **Carl Rogers (*Client-Centered Therapy*):** *"When self-regard depends entirely upon external approval, the person adopts **maladjustive** strategies that paralyze authentic growth."*

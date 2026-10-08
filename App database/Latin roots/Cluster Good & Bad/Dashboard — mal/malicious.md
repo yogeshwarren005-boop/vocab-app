@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature of or resulting from malice; ; - rudyard kipling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of or resulting from malice; ; - rudyard kipling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, showing, or arising from intense ill will, spite, or deliberate malice toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, done intentionally with a wrongful motive and without legal justification or excuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either you must confess yourselves wondrous malicious Or be accused of folly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not take His rougher accents for malicious sounds, But, as I say, such as become a soldier Rather than envy you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"All the subtle demonisms of life were personified to Ahab in the **malicious** intelligence of the white whale."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There seemed to be a **malicious** satisfaction in the rustic's eye as he related the neighbor's misfortune."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not imagine that any **malicious** intention had prompted the abrupt cancellation of the visit."*

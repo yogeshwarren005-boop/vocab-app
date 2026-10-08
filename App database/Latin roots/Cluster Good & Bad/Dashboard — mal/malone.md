@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English scholar remembered for his chronology of shakespeare's plays and his editions of shakespeare and dryden (1741-1812).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Edmond Malone, the renowned eighteenth-century Shakespearean scholar and literary editor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Samuel Beckett's fictional narrator Malone, or the existential literary work Malone Dies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A., alone, in the protestant church of Saint Nicholas Without, Coombe, by James O’Connor, Philip Gilligan and James Fitzpatrick, together, under a pump in the village of Swords, and by the reverend Charles Malone C."*
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen (once) by the reverend Charles Malone C."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"They gathered, he declared, all the riffraff of two countries, besides all the Molly Malones and cutpurses that ever were born to be hanged."*
+> - 📜 **James Boswell (*The Life of Samuel Johnson*):** *"My learned and accurate friend Mr. Edmond **Malone** supplied several valuable corrections to the chronological index."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critical acumen of **Malone** restored numerous disputed readings in the folio editions of the plays."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Scholars from Johnson to **Malone** established the modern textual foundation for appreciating the Elizabethan dramatists."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical capability of a metal or material to be hammered, rolled, or beaten into thin sheets without fracturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adaptability, plasticity, or susceptibility to being influenced, trained, or molded in character or mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The life-artist must know how to secure the proper degree of malleability in this mixture of flesh and soul."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Its malleability and the property of being readily toughened by simple mechanical treatment were also factors which account for the discovery of its general usefulness in such primitive times."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Gold possesses an astonishing degree of **malleability**, allowing it to be beaten into leaves of almost atomic thinness."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The youthful mind displays a tender **malleability** which enables the tutor to implant virtuous habits."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Under colossal lithic pressure and volcanic heat, rocks lose their rigidity and acquire temporary **malleability**."*

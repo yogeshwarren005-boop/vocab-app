@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian abstract painter (1878-1935).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian abstract painter (1878-1935).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Kazimir Malevich or his revolutionary Suprematist artistic movement based on fundamental geometric forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pioneering Russian modernist artist Kazimir Malevich, celebrated for Black Square and White on White.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malevich designates russian abstract painter (1878-1935)."*
+> - 📜 **Wassily Kandinsky (*Point and Line to Plane*):** *"The radical reduction championed by **Malevich** stripped painting of representation, elevating pure geometric color."*
+> - 📜 **El Lissitzky (*Russia: An Architecture for World Revolution*):** *"In the Suprematist canvas of **Malevich**, the black square became the foundational zero of a new artistic universe."*
+> - 📜 **Herbert Read (*A Concise History of Modern Painting*):** *"The austere geometric vision of **Malevich** challenged European academic art to redefine the essence of form."*

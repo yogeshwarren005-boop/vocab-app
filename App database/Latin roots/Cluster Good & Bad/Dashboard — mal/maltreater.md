@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who abuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who abuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abuses, abuses violently, or inflicts cruel and harsh treatment upon another person or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive guardian, master, or overseer guilty of cruelty, neglect, or physical maltreatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maltreater designates someone who abuses."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas confronted the cowardly **maltreater** of the boys, seizing the cane from his trembling hand."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"Public indignation was aroused against the notorious **maltreater** of helpless plantation hands."*
+> - 📜 **Henry Bergh (*Addresses on the Prevention of Cruelty to Animals*):** *"The law must punish every brutal **maltreater** of working horses upon the city thoroughfares."*

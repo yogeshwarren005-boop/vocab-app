@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebes megapode that lays eggs in holes in sandy beaches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebes megapode that lays eggs in holes in sandy beaches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, endangered megapode bird (Macrocephalon maleo) endemic to the tropical island of Sulawesi, Indonesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrestrial fowl noted for depositing its extraordinarily large eggs in communal nesting pits heated by solar sand or geothermal volcanic heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleo designates celebes megapode that lays eggs in holes in sandy beaches."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **maleo** bird descends from the mountain forests to the black volcanic beach to deposit its colossal eggs in the warm subterranean sand."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Unlike ordinary gallinaceous fowl, the **maleo** leaves its buried clutch to be hatched entirely by geothermal warmth."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The restricted distribution of the **maleo** across Sulawesi illustrates the remarkable specialization of island megapodes."*

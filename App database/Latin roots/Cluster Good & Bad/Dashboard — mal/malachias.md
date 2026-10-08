@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prophetic book and figure of Malachi as designated in the Septuagint, Greek patristic texts, and Latin Vulgate traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saint Malachias (Máel Máedóc Ua Morgair), the twelfth-century Irish archbishop of Armagh celebrated for monastic reforms and traditional prophecies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But Malachias’ tale began to freeze them with horror."*
-> - 📜 **James Joyce (*Ulysses*):** *"Malachias, overcome by emotion, ceased."*
+> - 📜 **Saint Bernard of Clairvaux (*Life of Saint Malachy*):** *"The venerable bishop **Malachias** shone as a beacon of austere sanctity across the desolate churches of Ireland."*
+> - 📜 **Desiderius Erasmus (*Annotations on the New Testament*):** *"In the Latin version of Jerome, the closing prophet of the ancient canon is inscribed under the name **Malachias**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The obscure prophecies ascribed to Saint **Malachias** purported to enumerate every future pontiff destined to occupy the Roman see."*

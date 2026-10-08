@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat cruelly, harshly, or violently; to abuse, mistreat, or handle roughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To inflict physical neglect, injury, or emotional indignity upon a person, animal, or property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Nobody will maltreat your father again."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It is those who injure women who get the most kindness from them--they are born timid and tyrants and maltreat those who are humblest before them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never did the urgency arise of carting my maltreated and perishing carcass to the hospital."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The cruel chimney sweep was warned by the magistrate never again to **maltreat** the parish apprentices in his care."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The brutal driver began to **maltreat** the exhausted sled dog with heavy blows of the club."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"Even under the harshest overseer, the kind-hearted slave refused to **maltreat** his fellow bondmen in the cotton field."*

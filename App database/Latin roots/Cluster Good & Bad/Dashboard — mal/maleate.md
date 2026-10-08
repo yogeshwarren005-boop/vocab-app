@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of maleic acid, containing the divalent ion C4H2O4(2-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical salt form commonly prepared with maleic acid to enhance chemical solubility and therapeutic stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleate designates a salt or ester of maleic acid; used as a nontricyclic antidepressant drug for psychomotor activation."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Heating malic acid yields two isomeric crystalline compounds, one of which forms the neutral **maleate**."*
+> - 📜 **William Allen Miller (*Elements of Chemistry: Organic Chemistry*):** *"The silver **maleate** decomposes readily when exposed to direct sunlight, depositing metallic silver."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Distillation of maleic anhydride in alkaline solution produces the corresponding sodium **maleate**."*

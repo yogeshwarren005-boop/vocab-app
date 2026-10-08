@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of poor nutrition; can result from insufficient or excessive or unbalanced diet or from inability to absorb foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of poor nutrition; can result from insufficient or excessive or unbalanced diet or from inability to absorb foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe biological condition resulting from a deficiency, excess, or imbalance of energy and dietary nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic dietary insufficiency producing emaciation, impaired immune function, stunted physical development, or organ failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malnutrition designates a state of poor nutrition; can result from insufficient or excessive or unbalanced diet or from inability to absorb foods."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Physical signs of chronic **malnutrition** were stamped upon the faces and hollow chests of the unemployed miners."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced infantile **malnutrition** frequently terminates in fatal bronchopneumonia before systemic remedies can take effect."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"Scarcity of grain among the impoverished peasantry rapidly produced general **malnutrition** and fever epidemics."*

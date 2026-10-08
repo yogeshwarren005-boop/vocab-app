@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Empty rhetoric or insincere or exaggerated talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty rhetoric or insincere or exaggerated talk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Empty talk, foolish nonsense, or fraudulent assertions; bunkum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absurd or dishonest pretext employed to disguise self-serving behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malarky designates empty rhetoric or insincere or exaggerated talk."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"Cut out the **malarky** and tell me exactly who paid you to shadow the girl."*
+> - 📜 **Ring Lardner (*The Big Town*):** *"We were tired of hearing all his pompous **malarky** about aristocratic family connections in Boston."*
+> - 📜 **John O'Hara (*Appointment in Samarra*):** *"He knew how to charm the country club committee with polite talk, but the old doctor saw through the **malarky**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unpleasant smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unpleasant smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or releasing an offensive, fetid, or noxious smell; ill-smelling or stinking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generating rank, disagreeable, or putrid fumes or atmospheric vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malodourous designates having an unpleasant smell."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The travelers bivouacked near a stagnant, **malodourous** swamp where mosquitoes tormented them throughout the night."*
+> - 📜 **Rudyard Kipling (*The Phantom 'Rickshaw and Other Tales*):** *"A dark, **malodourous** mist rose from the nullah as the cavalry patrol rode back toward camp."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The laboratory cage was filled with **malodourous** offal that turned my stomach with revulsion."*

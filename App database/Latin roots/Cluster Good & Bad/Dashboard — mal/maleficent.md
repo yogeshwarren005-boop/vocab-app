@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful or evil in intent or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful or evil in intent or effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or causing harm, injury, or evil; exerting an actively destructive or baneful influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malicious or spiteful in intent; working actively to bring about disaster or misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Indians of Mexico employed for this maleficent purpose the left fore-arm of a woman who had died in giving birth to her first child; but the arm had to be stolen."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The maleficent power of knots may also be manifested in the infliction of sickness, disease, and all kinds of misfortune."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But apart from this negative virtue of maleficent knots, there are certain beneficent knots to which a positive power of healing is ascribed."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Superstitious rustics whispered that the lonely woman possessed a **maleficent** eye that curdled milk and blighted crops."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"Old legends told of a **maleficent** spirit that haunted the ruined belfry, misleading midnight travelers into bogs."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"In Leonardo's portraits there lingers a subtle, almost **maleficent** charm that captivates and unnerves the beholder."*

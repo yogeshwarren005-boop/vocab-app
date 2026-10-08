@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanderous defamation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slanderous defamation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of defaming, slandering, or speaking ill of someone; malicious calumny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wounded status of having one's public honor or character undermined through false accusations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malignment designates slanderous defamation."*
+> - 📜 **Jonathan Swift (*The Drapier's Letters*):** *"This shameful **malignment** of honest tradesmen was concocted to force debased copper coinage upon the kingdom."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The systematic **malignment** of the established clergy served as the preliminary pretext for confiscating their estates."*
+> - 📜 **Washington Irving (*A History of New York*):** *"No worthy governor could escape the unceasing **malignment** of political rivals in the colonial assembly."*

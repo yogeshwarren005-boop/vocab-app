@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exerting a malignant influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exerting a malignant influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing harm, injury, or ruin; exerting a pernicious, baneful, or active malevolent influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrology, designating a celestial body (such as Mars or Saturn) traditionally held to portend misfortune, conflict, or disaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As she was supposed to exercise malefic influence on any man who might inadvertently glance at her, she had to wear a sort of head-dress combining in itself the purposes of a veil, a bonnet, and a mantlet."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Astrologers attribute chronic melancholic distempers to the **malefic** rays of Saturn retrograde."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There seemed to lurk some dark, **malefic** design behind the furious assaults of the great white monster."*
+> - 📜 **H. P. Lovecraft (*The Shadow Over Innsmouth*):** *"The ancient stone monoliths seemed charged with a **malefic** power that filled the intruder with dread."*

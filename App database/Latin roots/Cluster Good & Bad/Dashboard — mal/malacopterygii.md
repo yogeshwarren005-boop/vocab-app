@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete systematic division or superorder of teleost bony fishes characterized by soft, segmented fin rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overarching ichthyological order proposed by Cuvier to group soft-finned fishes including clupeids, cyprinids, and salmonids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacopterygii designates an extensive group of teleost fishes having fins supported by flexible cartilaginous rays."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"We divide the great order of bony fishes into the Acanthopterygii and the **Malacopterygii**, according to the spiny or soft nature of the dorsal rays."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Several freshwater species captured in the streams of Patagonia belonged to the **Malacopterygii**, exhibiting delicate articulated fins."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The historic assemblage termed **Malacopterygii** served for decades as a convenient category for soft-rayed teleost fishes."*

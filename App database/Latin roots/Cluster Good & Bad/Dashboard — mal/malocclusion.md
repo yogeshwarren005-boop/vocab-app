@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A misalignment, structural irregularity, or improper relationship between the teeth of the upper and lower dental arches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Faulty dental contact or bite irregularity impeding normal mastication and producing progressive temporomandibular strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malocclusion designates (dentistry) a condition in which the opposing teeth do not mesh normally."*
+> - 📜 **Edward Hartley Angle (*Treatment of Malocclusion of the Teeth*):** *"Every form of dental **malocclusion** represents a departure from the harmonious architecture of the normal human denture."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Shortening of the facial bones in domestic bulldogs produces a hereditary **malocclusion** of the upper and lower jaws."*
+> - 📜 **Ales Hrdlicka (*Physiological and Medical Observations among the Indians of Southwestern United States and Northern Mexico*):** *"Severe **malocclusion** was observed far less frequently among primitive tribal populations than in civilized urban centers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker of malt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker of malt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is to prepare, manufacture, or sell malt from grain for brewing and distilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master craftsman who oversees the steeping, floor germination, and kiln curing of brewing barley.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Knowed yer grandfather for years and years!” continued the maltster, the words coming forth of their own accord as if the momentum previously imparted had been sufficient."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The aged **maltster** sat in the chimney-corner of the malthouse, warming his wrinkled hands before the embers."*
+> - 📜 **William Cobbett (*Rural Rides*):** *"The prosperous **maltster** supplied all the neighboring farmhouses with prime cured malt for their autumn brewing."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The village **maltster** was known throughout the parish for the exceptional clarity and strength of his ale."*

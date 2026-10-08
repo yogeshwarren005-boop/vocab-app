@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family malvaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family malvaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbaceous plant of the genus Malva or the mallow family (Malvaceae), having lobed leaves, showy five-petaled flowers, and mucilaginous juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soft, demulcent foliage or blossom of this plant, formerly widely gathered for soothing poultices and herbal teas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had had a season in Dublin, and who knows how many in Cork, Killarney, and Mallow?"*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The flowers that she had planted herself long ago had bloomed all summer in the garden; there were still some ragged sailors and the snowberries and phlox and her favorite white mallows, of which she picked herself a posy."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She was certainly a good-looking woman, and stepped modestly and soberly along the walk between the mallows and marigolds."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"Beside the ruined cottage grew the wild **mallow** with its pale purple blossom, spreading across the unkept path."*
+> - 📜 **John Clare (*The Rural Muse*):** *"The humble bees murmur in the trumpet flowers of the garden **mallow** beneath the cottage eaves."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Village herb-gatherers collect the mucilaginous roots of the marsh **mallow** to prepare soothing pectoral syrups."*

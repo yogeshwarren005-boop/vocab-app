@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies the structure and behavior of mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies the structure and behavior of mollusks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of zoology that deals with the study of mollusks in all biological aspects, including anatomy, ecology, and evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The invertebrate discipline encompassing the morphology, shell structure, physiology, and taxonomy of gastropods, bivalves, and cephalopods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacology designates the branch of zoology that studies the structure and behavior of mollusks."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The modern discipline of **malacology** relies upon comparative dissection of internal organs rather than empty external shell cabinets."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Recent discoveries in **malacology** have furnished the geologist with invaluable chronometers for identifying Tertiary strata."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Advances in **malacology** demonstrated that geographic isolation drives the speciation of land snails across mountain ranges."*

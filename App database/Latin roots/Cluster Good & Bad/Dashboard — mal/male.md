@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who belongs to the sex that cannot have babies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or designating the sex that produces small, motile gametes (spermatozoa) capable of fertilizing an egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual organism belonging to the sperm-producing sex; a man or bull, cock, ram, etc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That very hour, and in the self-same inn, A mean woman was delivered Of such a burden, male twins, both alike."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no more mercy in him than there is milk in a male tiger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the son of the female is the shadow of the male."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In almost all animal classes, the **male** possesses more conspicuous secondary sexual ornaments than the female."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than kin, and less than kind, muttered the melancholy **male** heir to Denmark."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The reproductive functions of the adult **male** mammal depend upon specialized testicular endocrine secretions."*

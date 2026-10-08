@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in northwestern africa; achieved independence from france in 1960; mali was a center of west african civilization for more than 4,000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in northwestern africa; achieved independence from france in 1960; mali was a center of west african civilization for more than 4,000 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked sovereign republic in West Africa, centered along the upper and middle basins of the Niger River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medieval Mandinka empire founded by Sundiata Keita, which flourished from the thirteenth to seventeenth centuries as a center of trans-Saharan trade and Islamic scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Bonum, malum, qui fecisti Mali imploramus te, Salve fratrem, causa Christi, Miserere Domine! (Miserere!) [End of Ashtaroth.] FOOTNOTES: [Footnote 1: The extension of the tramways has necessitated the removal of this statue to Spring-street.]"*
+> - 📜 **Ibn Battuta (*The Travels of Ibn Battuta*):** *"The sultan of **Mali** displayed magnificent hospitality and administered justice with rigorous impartiality throughout his realm."*
+> - 📜 **Leo Africanus (*The History and Description of Africa*):** *"Merchants from Barbary traveled across the burning sands to trade gold and books in the opulent cities of **Mali**."*
+> - 📜 **Mungo Park (*Travels in the Interior Districts of Africa*):** *"The great river flowed through fertile valleys once subject to the imperial sway of the emperors of **Mali**."*

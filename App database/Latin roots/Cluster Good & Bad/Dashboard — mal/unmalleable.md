@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to shape or work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to shape or work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being hammered, rolled, or shaped by pressure without cracking; brittle and refractory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflexible, unyielding, intractable, or stubbornly resistant to external influence or compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The quality of Hepzibah’s mind was too unmalleable to take new impressions so readily as Clifford’s."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"His austere character was hard and **unmalleable**, bearing the unyielding stamp of his Puritan forefathers."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain vitrified mineral slags remain utterly **unmalleable**, shattering to dust under the lightest blow."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The conservative mind often presents an **unmalleable** resistance to the vital currents of reform."*

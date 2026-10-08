@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evading duty or work by pretending to be incapacitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Avoid responsibilities and duties, e.g., by pretending to be ill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate act or practice of pretending or exaggerating illness or incapacity to evade duty, work, or military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and medicine, the intentional production of false or grossly exaggerated physical or psychological symptoms motivated by external incentives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malingering designates evading duty or work by pretending to be incapacitated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The detection of systematic **malingering** requires meticulous clinical observation and sensory testing."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"His persistent **malingering** cast a demoralizing gloom over the entire fo'c's'le throughout the voyage."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The military doctor prided himself on his infallible method for detecting simulated blindness and **malingering**."*

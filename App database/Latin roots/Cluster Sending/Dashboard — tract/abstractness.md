@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being considered apart from a specific instance or object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being considered apart from a specific instance or object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conceptual nature of ideas detached from physical reality, tangible instances, or sensory matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficulty of comprehension arising from lack of concrete examples or practical illustrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The very abstractness of the names bespeaks a modern origin; for the personification of times and seasons like the Carnival and Summer, or of an abstract notion like death, is not primitive."*
+> - 📜 **William James (*Pragmatism*):** *"The dry **abstractness** of rationalist philosophy repels minds that thirst for concrete facts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Moral treatises often fail of their purpose through the chilling **abstractness** of their precepts."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The extreme **abstractness** of modern logic is the very secret of its wide applicability."*

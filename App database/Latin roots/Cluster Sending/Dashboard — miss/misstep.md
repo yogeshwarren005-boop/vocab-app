@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misstep
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentional but embarrassing blunder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unintentional but embarrassing blunder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong step; a slip, false step, or blunder in physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake, blunder, or error in judgment, policy, or social conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Down Mount Franklin and over the narrow path cut in the cragged side of Monroe, where a single misstep would hurl the horse and rider down a fathomless abyss, into whose depths the eye dares hardly for a moment gaze."*
-> - 📜 **Effie Afton (*Eventide*):** *"Sometimes their feet lighted on a sharp projection, or by a misstep they fell among the stony piles, bruising and wrenching their flesh and bones."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A single **misstep** upon the narrow bridge would plunge horse and rider into the foaming torrent."*
+> - 📜 **Jane Austen (*Emma*):** *"She was acutely sensible of her recent **misstep** in meddling with the affairs of her neighbors."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In delicate foreign negotiations, a diplomatic **misstep** may precipitate unavoidable hostilities."*

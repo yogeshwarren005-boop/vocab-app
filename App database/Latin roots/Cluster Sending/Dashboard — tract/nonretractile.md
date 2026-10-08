@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonretractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being retracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being retracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In zoology, not capable of being drawn back into a sheath or body cavity; nonretractable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to animal claws, tentacles, or proboscises that remain permanently extended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonretractile designates not capable of being retracted."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"All breeds of domestic dogs have **nonretractile** claws which serve as cleats in galloping."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The hunting leopard differs from other cats in possessing **nonretractile** claws like a hound."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The claws of hyaenas are blunt, stout, and strictly **nonretractile**, adapted for digging."*

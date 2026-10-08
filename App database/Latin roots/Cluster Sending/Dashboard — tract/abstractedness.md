@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractedness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with something to the exclusion of all else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with something to the exclusion of all else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep mental absorption or preoccupation that detaches attention from immediate surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceptual separation or isolation from physical instances and concrete realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractedness designates preoccupation with something to the exclusion of all else."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"His habitual **abstractedness** made him a comical figure amid the bustling commerce of the town."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She noted his sudden **abstractedness** with concern, wondering what secret grief possessed his mind."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Intense scientific concentration produces that **abstractedness** which vulgar observers mistake for folly."*

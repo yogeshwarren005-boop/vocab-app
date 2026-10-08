@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intractable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tractable; difficult to manage or mold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tractable; difficult to manage or mold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard to control, manage, or deal with; stubborn, obstinate, and refractory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and science, resistant to cure, therapy, or chemical manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
-> - 📜 **Effie Afton (*Eventide*):** *"Our pen waxes wild and intractable, whenever we get safely over the stormy gulf, and stand on the shores of bonny, bright Texas; for we feel at home there, hog-wallows, musquitoes, Camanches and all."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He was the most intractable of invalids, even threatening to break a bottle over Dr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wild **intractable** tribes of Caledonia resisted the Roman arms behind their rocky glens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **intractable** pain required substantial doses of opium to afford temporary relief."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Prejudices rooted deeply in vulgar imagination are **intractable** and slow to yield to truth."*

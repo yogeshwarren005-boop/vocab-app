@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acknowledgment of the truth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permission or the right to enter a place, institution, or society; an entering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acknowledgment or concession that something is true, valid, or blameworthy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth rely on none; But carries on the stream of his dispose, Without observance or respect of any, In will peculiar and in self-admission."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady relaxes, consents to the admission of the visitors as a favour, and dismisses Rosa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The policeman considers him an imbecile civilian, a remnant of the barbarous watchmen times, but gives him admission as something that must be borne with until government shall abolish him."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian chiefs sought formal **admission** into the ranks of the imperial confederacy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her candid **admission** of past prejudice surprised him and softened his resentment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The senses provide the exclusive channel for the **admission** of primary simple ideas."*

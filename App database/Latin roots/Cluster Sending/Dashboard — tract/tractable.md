@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractable
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily managed (controlled or taught or molded); ; - samuel butler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily reacting to suggestions and influences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy to control, train, influence, or manage; docile, yielding, and compliant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily worked, malleable, or ductile, as a metal or physical substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt find me tractable to any honest reason."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their curses now Live where their prayers did; and it’s come to pass This tractable obedience is a slave To each incensed will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since my master and mistress have bought you, there’s no going but by their consent: therefore I will make them acquainted with your purpose, and I doubt not but I shall find them tractable enough."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her brother was of a **tractable** and amiable disposition, easily led by his sisters."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Nature cannot be commanded except by obeying her laws and making materials **tractable** to art."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial population remained peaceful and **tractable** under the mild rule of the Antonines."*

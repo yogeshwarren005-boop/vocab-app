@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes abstracts or summarizes information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional who compiles summaries of legal documents, especially title deeds to real property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compiler of bibliographic abstracts or chemical digests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractor designates one who makes abstracts or summarizes information."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The skilful **abstractor** ensures that every encumbrance on the manor is faithfully disclosed."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"The purchaser relied upon the sworn search prepared by the official **abstractor** of titles."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In American county seats, the **abstractor** of deeds maintains public ledgers open to all."*

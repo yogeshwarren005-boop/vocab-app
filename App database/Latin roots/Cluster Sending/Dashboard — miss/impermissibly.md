@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # impermissibly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permissibly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not permissibly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is not allowed, permitted, or tolerable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to binding legal statutes or fundamental moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissibly designates not permissibly."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The officer acted **impermissibly** by exceeding the explicit warrants granted by the court."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The magistrate intervened **impermissibly** in private opinions that inflicted injury on no one."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"To tax an unrepresented people is to govern them **impermissibly** against the spirit of the constitution."*

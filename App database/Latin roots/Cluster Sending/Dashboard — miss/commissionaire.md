@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissionaire
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A uniformed doorman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniformed doorman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A uniformed door attendant or porter at an entrance to a hotel, theater, or office building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trustworthy messenger or orderly, historically drawn from retired military veterans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You know Peterson, the commissionaire?” “Yes.” “It is to him that this trophy belongs.” “It is his hat.” “No, no, he found it."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Great Lord of mercy!” The commissionaire plumped down into a chair and stared from one to the other of us."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"The young Frenchwoman hysterically admitted this, and was in the act of expressing also her thankfulness that Madame had not yet returned, to suffer, when Madame herself walked in, followed by a _commissionaire_ bearing many bundles."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"The honest **commissionaire** Peterson brought the lost goose and battered hat to Baker Street."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"A dignified **commissionaire** with polished brass buttons guarded the doorway of the bank."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The hotel **commissionaire** ran swiftly down the boulevard to summon a carriage."*

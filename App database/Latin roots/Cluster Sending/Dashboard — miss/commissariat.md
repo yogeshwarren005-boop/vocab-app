@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissariat
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stock or supply of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stock or supply of foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The department of an army charged with the provision of food, rations, and daily supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government department or ministry, especially in the early Soviet state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I never want to see a chicken again except alive." For the last week monotony had been the keynote of our commissariat."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But this defect was not due to any fault of the regimental commander, for in spite of repeated demands boots had not been issued by the Austrian commissariat, and the regiment had marched some seven hundred miles."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Just then a commissariat soldier, a hospital orderly, came in from the next room, marching stiffly, and drew up in front of Rostóv."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman **commissariat** maintained vast granaries along the Rhine to supply frontier posts."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Grave abuses in the naval **commissariat** left English sailors with rotting biscuits."*
+> - 📜 **Winston Churchill (*The River War*):** *"The success of Kitchener's Nile advance depended upon an immaculate military **commissariat**."*

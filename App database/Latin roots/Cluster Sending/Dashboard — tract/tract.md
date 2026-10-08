@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended area of land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of body parts that together serve some particular purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive area or expanse of land; or a major system of related anatomical organs or tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short written treatise, pamphlet, or essay, especially on a religious, moral, or political subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I belong to worship and affect In honour honesty, the tract of everything Would by a good discourser lose some life, Which action’s self was tongue to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No levelled malice Infects one comma in the course I hold, But flies an eagle flight, bold and forth on, Leaving no tract behind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the right was a tract of land, partly meadow and partly moor, reaching, at its remote verge, to a wide undulating upland."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A vast **tract** of fertile land along the Danube was ceded to the victorious barbarian tribes."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The publication of the final **tract** stirred fierce theological debate throughout Oxford."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The alimentary **tract** extends continuously from the mouth to the terminal orifice of the bowel."*

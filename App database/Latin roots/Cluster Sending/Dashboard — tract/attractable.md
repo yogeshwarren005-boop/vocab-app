@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attractable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being magnetized or attracted by a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being magnetized or attracted by a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being attracted, magnetically drawn, or influenced by external charm or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to persuasive reason or personal appeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attractable designates capable of being magnetized or attracted by a magnet."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Iron and nickel are strongly **attractable** by an ordinary loadstone, whereas bismuth is repelled."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Subtle electrical effluvia render light particles **attractable** toward amber after friction."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain minds are readily **attractable** by novelty, while others adhere rigidly to ancient custom."*

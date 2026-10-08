@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unsubmissive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not servile or submissive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not servile or submissive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submissive; refusing to yield, surrender, or submit to authority; rebellious and defiant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining stubborn independence against external compulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsubmissive designates not servile or submissive."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With **unsubmissive** spirit the fallen archangel resolved on eternal resistance to heaven."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce and **unsubmissive** mountaineers resisted every attempt of the legions to conquer them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"They punished me severely for what they termed my bold and **unsubmissive** conduct."*

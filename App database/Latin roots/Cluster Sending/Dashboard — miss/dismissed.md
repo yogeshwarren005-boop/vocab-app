@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismissed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar from attention or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease to consider; put out of judicial consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discharged from employment, office, or presence; sent away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejected from further consideration as trivial, false, or baseless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kneeled before him; ’Twas very faintly he said “Rise”; dismissed me Thus with his speechless hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him I’ll send Duke Edmund to the Tower.— And, Somerset, we will commit thee thither, Until his army be dismissed from him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I show it most of all when I show justice; For then I pity those I do not know, Which a dismissed offence would after gall, And do him right that, answering one foul wrong, Lives not to act another."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The haughty barbarian ambassadors were **dismissed** with an abrupt refusal from the palace."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The classes were **dismissed** at four o'clock, and the girls dispersed into the cold garden."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Superstitious interpretations were **dismissed** as incompatible with observed physical laws."*

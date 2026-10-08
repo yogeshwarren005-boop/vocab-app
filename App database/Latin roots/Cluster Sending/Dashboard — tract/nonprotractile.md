@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # nonprotractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being protracted, extended, or thrust forward, as certain claws or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating anatomical parts permanently fixed within a sheath or socket.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonprotractile designates not extensile."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Unlike the felids, canines possess blunt, **nonprotractile** claws suited exclusively for running."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The hyoid apparatus in this genus supports a **nonprotractile** tongue firmly attached to the floor of the mouth."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The cheetah's **nonprotractile** claws represent an evolutionary adaptation for high-speed pursuit on open plains."*

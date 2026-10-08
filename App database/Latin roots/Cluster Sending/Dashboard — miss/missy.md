@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missy
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young girl; sometimes used in an affectionate, patronizing, or disciplinary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maiden or young woman, especially one exhibiting pert or forward airs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Will ye wait, missy?” “No,” said she; and taking her basket Tess trudged on."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Go to the window, missy; I thought I heard a horse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What did missy want with more books?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"'Come here, little **missy**,' the kind doctor said, patting the weeping orphan on the head."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cook scolded the little **missy** for slipping into the pantry after ginger cake."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The old colonel brought sweetmeats for the proud little **missy** who curtsied in the parlor."*

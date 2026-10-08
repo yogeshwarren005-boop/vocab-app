@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # readmission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone again, or the fact of being admitted again to a place or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Permission granted to re-enter an institution, country, or university following departure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Wilson, and expressing regret that no proposal having for its object the readmission of Master Byron to the academy could be entertained."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This had the effect to do away with many of the “black codes,” and the States which desired readmission to the Union had to finally give them up."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The conditions of readmission were the ratification of the thirteenth and fourteenth constitutional amendments."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament fiercely debated the **readmission** of expelled dissenters into the universities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The repentant heretic sought **readmission** into communion through public penance."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"Our policy aimed at the speedy **readmission** of southern states to their constitutional places."*

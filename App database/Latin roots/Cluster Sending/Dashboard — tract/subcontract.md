@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subcontract
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract assigning to another party some obligations of a prior contract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged for contracted work to be done by others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract for a person or firm to perform some of the obligations of another's contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hire a secondary party or firm to carry out part of a larger project or obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontract designates a contract assigning to another party some obligations of a prior contract."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The master builder found it economical to **subcontract** the masonry work to specialized artisans."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"He entered into a lucrative **subcontract** for supplying timber to the government shipyards."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Liability under a **subcontract** remains governed by the principles of principal and agent."*

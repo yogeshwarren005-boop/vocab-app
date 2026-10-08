@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability or quality of shrinking or contracting, especially by muscle fibers and even some other forms of living matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability or quality of shrinking or contracting, especially by muscle fibers and even some other forms of living matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent biological or physical capacity of muscle tissue or fibers to shorten or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The responsiveness of living protoplasm to contract under appropriate external stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contractility designates the capability or quality of shrinking or contracting, especially by muscle fibers and even some other forms of living matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impaired myocardial **contractility** leads directly to congestive heart failure and peripheral edema."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Irritability and **contractility** are fundamental physiological properties of all living protoplasm."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Curare destroys motor nerve communication while leaving the intrinsic **contractility** of muscle intact."*

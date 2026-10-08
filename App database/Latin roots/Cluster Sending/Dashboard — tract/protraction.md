@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protraction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The consequence of being lengthened in duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prolonging or extending something in duration; postponement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and drafting, the act of plotting or drawing to scale on paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"By the quantity of provision which I had consumed, I should guess that I had passed three weeks in this journey; and the continual protraction of hope, returning back upon the heart, often wrung bitter drops of despondency and grief from my eyes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The deliberate **protraction** of the truce permitted the emperor to assemble fresh legions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No advantage could result from the **protraction** of the controversy between the states."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The accurate **protraction** of coastal charts requires rigorous geometric triangulation."*

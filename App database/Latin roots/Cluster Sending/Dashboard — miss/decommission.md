@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # decommission
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdraw from active service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdraw from active service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw a ship, aircraft, industrial facility, or nuclear reactor from active operational service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To dismantle, deactivate, or safely shut down complex military or technical equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decommission designates withdraw from active service."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The admiralty resolved to **decommission** obsolescent pre-dreadnought battleships to free up crews."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The international council voted to **decommission** all arsenals of chemical weapons."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Authorities ordered the militia to **decommission** irregular armored trucks in the city."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # miss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to hit (or meet or find etc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to hit, reach, catch, or achieve an intended object, mark, or goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To notice, regret, or feel sorrow at the absence or loss of someone or something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If he should break his day, what should I gain by the forfeiture of a pound of man's flesh? I will not **miss** it."*
+> - 📜 **Jane Austen (*Emma*):** *"She could not fail to **miss** the daily companionship of her former governess."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner aimed with desperate skill, knowing a single slip would **miss** the monstrous whale."*

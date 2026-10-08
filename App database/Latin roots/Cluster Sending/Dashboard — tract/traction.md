@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # traction
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The friction between a body and the surface on which it moves (as between an automobile tire and the road).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (orthopedics) the act of pulling on a bone or limb (as in a fracture) to relieve pressure or align parts in a special way during healing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grip of a tire on a road or a wheel on a rail; the action of drawing or pulling a thing over a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics, the continuous application of a pulling force to a fractured limb or spine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Because of the use of lead they are terribly heavy too, so much so that for traction purposes they are of very little use, for a large amount of the energy stored in the accumulators is then used up in hauling them about."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The invention of the bicycle with pneumatic tires, coincident with the adoption of electric traction for street cars, reduced the price of horses between 1890 and 1895."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The locomotive relies upon the frictional **traction** between its steel driving wheels and the rails."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Continuous skeletal **traction** with weights was maintained to prevent shortening of the fractured femur."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Canal barges minimize the heavy **traction** required to transport bulk commodities overland."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # pretermission
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letting pass without notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letting pass without notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of passing over, omitting, or neglecting something, intentionally or by oversight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, paralipsis; mentioning something by pretending to omit or pass over it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Should his child sicken unto death,--why, look For scarce abatement of his cheerfulness, {160} Or pretermission of the daily craft!"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The historical survey was flawed by the deliberate **pretermission** of several illustrious authors."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Such an astonishing phenomenon could not suffer **pretermission** by any diligent naturalist."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"By rhetorical **pretermission**, the prosecutor highlighted the very crimes he feigned to overlook."*

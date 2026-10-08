@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # premiss
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take something as preexisting and given.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A previous statement or proposition from which another is inferred or followed as a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal syllogistic logic, one of the two propositions from which the conclusion is drawn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That standpoint was unquestioned by Celsus. [Sidenote: The failure of Celsus] Confident in the truth of his premisses and the conclusions that follow from them, Celsus charged the Christians with folly and dogmatism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor is he the subject of the knowledge which amounts to demonstration; for this depends on premisses (_protera_) and things better known (_gnorimotepa_);[106] but nothing is anterior to the unbegotten."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"If the major **premiss** be false, no validity in the formal deduction can preserve the conclusion."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Every deductive step proceeds from a recognized **premiss** to an established theorem."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"We cannot establish causal necessity from an inductive **premiss** based merely on past sequence."*

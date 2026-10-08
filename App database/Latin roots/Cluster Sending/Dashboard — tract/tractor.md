@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractor
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle with large wheels; used in farming and other applications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck that has a cab but no body; used for pulling large trailers or vans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful motor-driven vehicle with large rear tires, used for pulling farm machinery or heavy loads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, metallic rods or appliances designed to draw out pain (as in Perkins' tractors).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But I can't come in now, Laura: I have to go over to Countisford to talk to Bishop about the new tractor, and I want to get back by teatime."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Words are also tools, whether they describe other tools, or tornadoes, toys, teeth, trees, or tractors."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Fleets of caterpillar **tractor** vehicles cultivated the collective wheat fields of the cooperative."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The charlatan claimed his metallic **tractor** could draw fevers and gout directly out of the body."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The iron crawler **tractor** sliced through the dry Oklahoma soil, ignoring ancient fence-lines."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # misstatement
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that contains a mistake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that contains a mistake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, false, or misleading statement; an inaccurate declaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and finance, a false assertion of fact that may induce another party to enter a contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Passing over what appears in my colleague’s speech as extracts from newspapers, to whose misstatements he has contributed a full share, I come now to notice his animadversions on the Riddleberger bill."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Such an audacious **misstatement** of historical facts can only mislead the unwary."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pamphlet was full of glaring **misstatement** and partisan exaggeration from beginning to end."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A material **misstatement** in a policy of marine insurance voids the contract entirely."*

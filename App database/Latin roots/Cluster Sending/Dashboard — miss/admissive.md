@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admissive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or allowing admission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or allowing admission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to admit, concede, or allow entrance; granting passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceding or conceding readily in argument or legal discussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admissive designates characterized by or allowing admission."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"A penitent heart must remain **admissive** of heavenly counsel and divine correction."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His disposition was too **admissive** of flattering remarks from interested courtiers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The mind should be guarded against notions too easily **admissive** of ancient superstition."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missus
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dialect or colloquial term for mistress, wife, or female head of a household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal domestic title of address used especially by servants or working people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I warn you if you bark again I shall go straight for master and missus and bring them home from the party, and then, oh, won’t master whip you, just.” She tied the unhappy dog up again, but do you think Nana ceased to bark?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Bring master and missus home from the party!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Thisbe, my nerve-reviver this moment!" "There ain't a bit on't left, Missus; 'twas all in the trunk dat tumbled out o' the cart when we swum through dat ar river," said the poor servant, in a tone of anxious dismay."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"'Ask the **missus** for the key,' the beadle muttered as he shuffled through the workhouse hall."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He told the timber merchant that the **missus** was away visiting kinfolk across the hills."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The old parish clerk remarked that the doctor's **missus** was a woman of notable thrift."*

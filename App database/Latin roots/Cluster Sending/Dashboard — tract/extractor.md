@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extractor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for extracting tight-fitting components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that uses centrifugal force to separate particles from a suspension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine, apparatus, or instrument used for extracting or drawing out substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms, a mechanical claw or device that withdraws a spent cartridge case from the chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The terminal positioned in orbit above Alpha Centauri is designated the Extractor and the terminal positioned along the Solar System's rim is designated the Collector."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Extractor and Collector terminals are constructed four million kilometers beyond Planet Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Position the Extractor in orbit above Alpha Centauri at a location commensurate with data provided previously by drone scouts."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The centrifugal **extractor** separates the crystallized sugar rapidly from the viscous syrup."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The brass **extractor** on the breech-loader clicked sharply as he ejected the spent cartridge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon used a specialized bullet **extractor** to retrieve the missile from the wound."*

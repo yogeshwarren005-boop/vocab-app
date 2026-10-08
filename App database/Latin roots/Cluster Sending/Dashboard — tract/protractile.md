@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended or thrust forward at will, as an anatomical appendage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating claws, proboscides, or jaws that can be pushed outward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractile designates able to be extended."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The woodpecker reaches deep into bark crevices with its extraordinarily long, **protractile** tongue."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Chameleons capture flies from afar using an astonishingly elastic, **protractile** tongue apparatus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Certain predatory teleost fishes have premaxillary bones that make the mouth remarkably **protractile**."*

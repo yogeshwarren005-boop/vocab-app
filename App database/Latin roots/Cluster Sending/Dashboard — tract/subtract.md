@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subtract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a subtraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take off or away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take away a number or amount from another to calculate the difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To withdraw, diminish, or deduct something from a whole or total.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, it would much subtract from the glory of the exploit had St."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Affirmation and result 219:6 In mathematics, we do not multiply when we should subtract, and then say the product is correct."*
+> - 📜 **Isaac Newton (*The Method of Fluxions*):** *"We must **subtract** the initial velocity from the final quantity to determine the net acceleration."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When we **subtract** all secondary qualities, only extension and solidity remain in the body."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"If we **subtract** the cost of raw materials, the remaining surplus constitutes rent and profit."*

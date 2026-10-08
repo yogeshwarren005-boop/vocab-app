@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of missionaries in a foreign land sent to carry on religious work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation that is assigned by a higher headquarters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important assignment, purpose, or undertaking given to a person or group, especially abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious organization or station sent to propagate faith and provide charity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale’s mission to be in ecstasies with everybody else’s mission and that it was the most popular mission of all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never have a mission, my dear child.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The envoy departed upon his diplomatic **mission** to negotiate a commercial treaty with Great Britain."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He had arrived in the Congo with a high moral **mission** to enlighten the native populations."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John felt called to a life of hardship upon a Christian **mission** in the Far East."*

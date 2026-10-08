@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractarianism
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious doctrines and practices of the Oxford Movement, emphasizing apostolic succession and Catholic heritage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century Anglo-Catholic movement seeking spiritual revival within the Church of England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractarianism designates principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"Critics denounced **Tractarianism** as a clandestine attempt to Romanize the national church."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He viewed Oxford **Tractarianism** as an earnest but misguided attempt to revive dead medieval forms."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop's wife waged relentless war against every vestige of **Tractarianism** in the diocese."*

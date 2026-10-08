@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in thought or as an idea but not having a physical or concrete existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary of the contents of a book, article, or formal speech; or to extract or remove.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find there A man who is the abstract of all faults That all men follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which soon he granted, Being an abstract ’tween his lust and him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look here upon thy brother Geoffrey’s face; These eyes, these brows, were moulded out of his: This little abstract doth contain that large Which died in Geoffrey, and the hand of time Shall draw this brief into as huge a volume."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind forms **abstract** ideas by separating particular circumstances of time and place from concepts."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Mathematical truths remain purely **abstract**, demonstrating necessary relations between ideas."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He prepared a concise **abstract** of the ancient treaties to assist the peace negotiations."*

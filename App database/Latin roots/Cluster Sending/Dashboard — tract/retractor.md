@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retractor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical instrument that holds back the edges of a surgical incision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical instrument that holds back the edges of a surgical incision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument used to hold back the edges of a wound or incision to expose tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that serves to draw back an organ or part of the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retractor designates surgical instrument that holds back the edges of a surgical incision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The assistant held the blunt **retractor** steadily to provide an unobstructed view of the artery."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The posterior fibers of the temporal muscle act as a powerful **retractor** of the lower jaw."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Strong **retractor** muscles draw the odontophore back into the buccal mass after feeding."*

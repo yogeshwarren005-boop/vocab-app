@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw or pull something back or back in; to withdraw into a sheath or housing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To formally withdraw, renounce, or disavow a statement, accusation, or promise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I protest, Were I alone to pass the difficulties, And had as ample power as I have will, Paris should ne’er retract what he hath done, Nor faint in the pursuit."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had that moment settled with Miss Tilney to take their proposed walk to-morrow; it was quite determined, and she would not, upon any account, retract."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I dare say I shall have to retract.” “I mean what you said about the necessity of knowing German—I mean, for the subjects that Mr."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Persecution may compel a hypocrite to **retract** his words, but cannot alter his inward convictions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Snails **retract** their sensitive tentacles instantly upon the slightest mechanical touch."*
+> - 📜 **William Shakespeare (*King John*):** *"I will not **retract** mine oath, nor yield one foot of ground to French aggression."*

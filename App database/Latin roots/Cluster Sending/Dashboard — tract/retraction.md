@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retraction
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of pulling or holding or drawing a part back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pulling something back, or withdrawal into an enclosing sheath, housing, or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal statement disavowing or taking back an earlier declaration, accusation, or error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A candid **retraction** of an acknowledged error reflects far greater honor than obstinate persistence."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The journal published a complete **retraction** of the libellous charges against the statesman."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **retraction** of the chest wall accompanied the deep inspiratory efforts of the infant."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contracting
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming infected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a contractual arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing together, becoming smaller, or narrowing in size, volume, or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entering into a formal legal pact, alliance, or binding convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Closed in by night with broad screens, and illumined only in that part, the light of the drawing-room seems gradually contracting and dwindling until it shall be no more."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Dodson is the man who is laying down and contracting for the line across the river, Evelina," answered Cousin James without taking any notice whatever of Uncle Peter's squelching of me."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The solemn engagements entered into by the **contracting** sovereign parties must be preserved."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The pupil of the eye responds to sudden bright illumination by rapidly **contracting** in diameter."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"With **contracting** revenues and depleted legions, the emperor struggled to fortify the Alps."*

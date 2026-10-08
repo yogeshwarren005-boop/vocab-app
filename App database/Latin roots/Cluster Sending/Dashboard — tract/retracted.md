@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retracted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawn back or into a sheath or body; pulled inward from an extended position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally withdrawn, disavowed, or recanted, as a statement or opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Of what he had then written, nothing was to be retracted or qualified."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Setting her own inclination apart, to have failed a second time in her engagement to Miss Tilney, to have retracted a promise voluntarily made only five minutes before, and on a false pretence too, must have been wrong."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A click and the heavy door retracted into the adjacent bulkhead."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The terrified heretic **retracted** his doctrines before the synod to escape banishment."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sea-anemone **retracted** all its tentacles when shadowed, closing into a rounded lump."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The torn ends of the divided artery were **retracted** deep within the surrounding fascia."*

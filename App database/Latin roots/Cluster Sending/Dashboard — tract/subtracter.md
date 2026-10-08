@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subtracter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who subtracts numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that subtracts numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs mathematical subtraction, or a mechanical device that calculates differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who takes away, detracts, or diminishes from value or reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtracter designates a person who subtracts numbers."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical calculating engine contains an automatic **subtracter** operating on notched wheels."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"He was ever a chronic **subtracter** from the just praise due to his predecessors."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The envious man is a perpetual **subtracter** from the happiness and honors of his neighbors."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # omissive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by omissions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by omissions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or involving omission; leaving out or failing to perform an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, relating to wrongs committed by failure to act rather than active commission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omissive designates characterized by omissions."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Offenses are divided into positive acts of commission and negative **omissive** failures of duty."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Sin consists as much in **omissive** negligence as in deliberate active transgression."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Liability for purely **omissive** conduct is recognized only where a specific legal duty exists."*

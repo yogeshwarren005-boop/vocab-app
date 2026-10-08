@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractual
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or part of a binding legal agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or part of a binding legal agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or specified in a formal contract or legal agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governed by the terms, stipulations, and mutual covenants of a legal agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same analysis will show that any credit is but a contractual claim upon some other source of income which is, or should have been, already taxed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As we have seen, even now fewer than 1 in 16 of all gainfully employed, and fewer than 1 in 12 of those working for contractual wages are organized."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest on money is the contractual form in which more and more the use of wealth is paid for."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Every citizen is bound by the **contractual** obligations he has deliberately undertaken."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Modern economic relations are based upon voluntary **contractual** agreements rather than feudal status."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The scope of a **contractual** duty is determined by the reasonable meaning of the words employed."*

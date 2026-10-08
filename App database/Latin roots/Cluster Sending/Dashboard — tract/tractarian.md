@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractarian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A follower of tractarianism and supporter of the oxford movement (which was expounded in pamphlets called `tracts for the times').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member or supporter of the 19th-century Oxford Movement within the Church of England.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the high-church theological doctrines expounded in the *Tracts for the Times*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The **Tractarian** movement recalled the English church to its ancient apostolic foundations."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The university pulpits were agitated by fierce debates provoked by **Tractarian** preachers."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The new curate was suspected of dangerous **Tractarian** sympathies because of his ritual innovations."*

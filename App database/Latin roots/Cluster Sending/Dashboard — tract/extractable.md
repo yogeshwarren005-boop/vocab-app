@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extractable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being extracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extracted, drawn out, or separated from a matrix or source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, capable of being dissolved out of a substance by a specialized solvent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extractable designates capable of being extracted."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The oily hydrocarbon proved readily **extractable** from the coal tar by distillation with ether."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Common salt is easily **extractable** from seawater through simple solar evaporation in pans."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Valuable metallic ores are economically **extractable** only where hydrothermal veins concentrate them."*

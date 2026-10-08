@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # counterattraction
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rival attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rival attraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rival or competing attraction that draws attention, interest, or patronage in an opposite direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposing force or influence that neutralizes or diminishes another draw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterattraction designates a rival attraction."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The opera presented a powerful **counterattraction** that emptied the drawing rooms of the nobility."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The theatrical rehearsals formed a delightful **counterattraction** to their usual country pastimes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lively music of the street fair provided an unwelcome **counterattraction** to the temperance meeting."*

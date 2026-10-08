@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intractability
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being hard to influence or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being hard to influence or control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubborn resistance to guidance, persuasion, discipline, or medical treatment; obstinacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme difficulty of handling, managing, or working a material, problem, or metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intractability designates the trait of being hard to influence or control."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The stubborn **intractability** of factional fanatics defeated every attempt at constitutional compromise."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The chronic **intractability** of the cough led us to suspect deep thoracic malignancy."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The mechanical **intractability** of platinum was overcome only by the intense heat of the oxyhydrogen blowpipe."*

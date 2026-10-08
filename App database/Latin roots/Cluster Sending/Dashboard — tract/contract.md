@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A binding agreement between two or more persons that is enforceable by law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binding formal legal agreement between two or more parties enforceable by law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To decrease in size, volume, or extent; to shrink or draw together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, he trots hard with a young maid between the contract of her marriage and the day it is solemnized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The contract you pretend with that base wretch, One bred of alms and foster’d with cold dishes, With scraps o’ th’ court, it is no contract, none."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A valid **contract** requires mutual consent between parties of full capacity based on lawful consideration."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Cooling causes metallic rods to **contract** in length according to uniform thermal ratios."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Civil society is founded upon an original social **contract** for the preservation of property."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # emissary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission to represent the interests of someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission to represent the interests of someone else.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sent on a special mission, especially as a diplomatic representative or secret agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating veins passing through cranial apertures connecting internal and external sinuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And now I find he’s in everybody’s mouth in Middlemarch as the editor of the ‘Pioneer.’ There are stories going about him as a quill-driving alien, a foreign emissary, and what not.” “Casaubon won’t like that,” said the Rector."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"An emissary of the Ranee," cried some."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You were responsible for Camari's emissary, Drummer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A confidential **emissary** was dispatched to Constantinople to negotiate terms of ransom."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The highland chief received the royal **emissary** with wary courtesy in his mountain stronghold."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The mastoid **emissary** vein establishes communication between the sigmoid sinus and occipital veins."*

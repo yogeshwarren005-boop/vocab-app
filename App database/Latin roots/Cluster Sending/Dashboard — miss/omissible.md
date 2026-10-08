@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # omissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being left out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being left out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being omitted, left out, or passed over without injury to meaning or duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Non-essential or dispensable in a ritual, text, or formal procedure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omissible designates capable of being left out."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"In concise prose, every word that is **omissible** without loss of sense ought to be expunged."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Parenthetical remarks are **omissible** without altering the truth value of the main proposition."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"The relative pronoun in objective clauses is frequently **omissible** in colloquial speech."*

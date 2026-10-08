@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missionary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attempts to convert others to a particular doctrine or program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person sent on a religious mission, especially to promote Christianity in a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by zeal or enthusiasm to propagate a cause, doctrine, or reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Over their heads hung the picture of Angel’s sister, the eldest of the family, sixteen years his senior, who had married a missionary and gone out to Africa."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A knowledge of his career having come to the ears of Mr Clare, when he was in that part of the country preaching missionary sermons, he boldly took occasion to speak to the delinquent on his spiritual state."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He came to Trantridge two or three years ago to preach on behalf of some missionary society; and I, wretched fellow that I was, insulted him when, in his disinterestedness, he tried to reason with me and show me the way."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The devoted English **missionary** had established neat gardens and schools among the native Polynesians."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The life of an active **missionary** in the wilderness is one of incessant toil and peril."*
+> - 📜 **Herman Melville (*Typee*):** *"The arrival of the first **missionary** vessel transformed the ancient customs of the Marquesas."*

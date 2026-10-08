@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # omission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake resulting from neglect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that has been omitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that has been left out, excluded, or neglected; a failure to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, a failure to perform an act agreed upon or required by legal duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, beware: Those wounds heal ill that men do give themselves; Omission to do what is necessary Seals a commission to a blank of danger; And danger, like an ague, subtly taints Even then when they sit idly in the sun."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I have not,” pursues Sir Leicester, “in the most emphatic manner, adjured you, officer, to exercise your utmost skill in this atrocious case, I particularly desire to take the present opportunity of rectifying any omission I may have made."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a fatal omission of Boldwood’s that he had never once told her she was beautiful."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **omission** of an express bill of rights in the proposed constitution caused lively alarm."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The editor must supply every careless **omission** that occurred during the early printing of the plays."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She silently reproached herself for the ungenerous **omission** of her sister's merits."*

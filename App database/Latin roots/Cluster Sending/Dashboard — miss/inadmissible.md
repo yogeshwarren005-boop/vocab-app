@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # inadmissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving to be admitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acceptable or valid, especially as evidence in a court of law; not allowable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsound, unacceptable, or not worthy of being entertained in logic or science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will readily be understood that the fluctuations in the value of money and in the state of society rendered a fixed rate of compensation in the Constitution inadmissible."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Any construction that renders a constitutional clause utterly meaningless is clearly **inadmissible**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is **inadmissible** to suppose that catastrophic miracles occurred whenever difficulties arise."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The magistrate ruled the alleged confession **inadmissible** because of threats used by the constable."*

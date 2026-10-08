@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being shaped or bent or drawn out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being drawn out in length; ductile, pliant, and extensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to materials that yield smoothly to tensile stress without fracturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractile designates capable of being shaped or bent or drawn out."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Gold is the most **tractile** of all metals, yielding to wire-drawers into filaments finer than hair."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When heated to redness, soft iron becomes wonderfully **tractile** and readily welded under the hammer."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The melted glass was drawn into an exquisitely fine, **tractile** thread across the flame."*

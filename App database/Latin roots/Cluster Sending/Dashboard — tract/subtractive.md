@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subtractive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or involving subtraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or involving subtraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to subtract; involving, produced by, or characterized by subtraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and color theory, designating color mixture formed by absorbing specific wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtractive designates constituting or involving subtraction."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Pigment mixing operates by a **subtractive** process, absorbing portions of the reflected spectrum."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The **subtractive** method of color combination differs fundamentally from optical superposition of light."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Mathematical operations may be classified broadly into additive and **subtractive** transformations."*

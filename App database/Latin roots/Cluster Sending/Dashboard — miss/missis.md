@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missis
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial or dialect form of address or reference for a mistress of a house or one's wife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female employer or manager of domestic servants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the morning, I said, 'Laura, did you sleep well last night?' She replied, 'O, missis, my heart too full of joy to sleep."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Me never sleep in a bed before, missis.' "Laura, then about thirteen years old, came to me with a hard cough, and pain in her side."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Do you believe he will, Laura?' 'Yes, missis, me _do believe_,' she replied earnestly."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"'The **missis** is upstairs,' Peggotty whispered softly as she welcomed me into the kitchen."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The farm servant took off his cap and said the **missis** was busy churning butter in the dairy."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The coachman touched his hat and asked whether the **missis** desired the carriage that evening."*

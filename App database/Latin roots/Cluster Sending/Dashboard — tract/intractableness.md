@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intractableness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being hard to influence or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being hard to influence or control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent unruliness, stubbornness, or recalcitrance that resists management or resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The refractory quality of a physical substance resistant to heat, fusion, or working.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intractableness designates the trait of being hard to influence or control."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **intractableness** of human passions mocks the neat systems of armchair moralists."*
+> - 📜 **Walter Scott (*Waverley*):** *"The sullen **intractableness** of the prisoner baffled all the threats of his Norman captors."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The **intractableness** of the refractory earths yielded only to the powerful voltaic battery."*

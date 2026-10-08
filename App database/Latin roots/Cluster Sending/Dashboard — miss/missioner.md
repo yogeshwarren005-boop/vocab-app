@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missioner
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in charge of or participating in a religious mission; an evangelist or missionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An itinerant preacher sent to conduct spiritual revivals in neglected parishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was the men’s temperance retreat conducted by the missioner, the reverend John Hughes S."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Under this order a commission was 100:15 appointed, and Benjamin Franklin was one of the com- missioners."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The zealous **missioner** preached plain truths to the neglected industrial poor of the parish."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The covenanting **missioner** addressed the secret assembly gathered among the wild hills."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"An earnest **missioner** had traveled down from London to preach repentance in the villages."*

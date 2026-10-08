@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contracted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a contractual arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage by written agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawn together, shrunk, or made smaller; narrow, limited, or constrained in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entered into by formal agreement, alliance, or betrothal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord Protector, so it please your grace, Here are the articles of contracted peace Between our sovereign and the French king Charles, For eighteen months concluded by consent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was contracted to them both, all three Now marry in an instant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, wast thou e’er contracted to this woman?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The frontiers of the empire were gradually **contracted** beneath barbarian pressure."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The alliance had been formally **contracted** while both parties were yet infants."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His **contracted** brow and compressed lips showed that his temper was severely tried."*

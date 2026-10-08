@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protractor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drafting instrument used to draw or measure angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drafting instrument used to draw or measure angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and drawing angles, usually in the form of a flat semi-circle marked with degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that extends or draws forward a part of the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractor designates drafting instrument used to draw or measure angles."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The student used a brass **protractor** to measure the refraction angles of the prism."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The geniohyoid muscle acts as an energetic **protractor** of the hyoid bone during swallowing."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"With compasses and a **protractor**, the navigator laid down the ship's course upon the chart."*

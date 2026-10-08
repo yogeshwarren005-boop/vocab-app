@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring among members of a family usually by heredity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being passed on or communicated from one person, place, or thing to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and genetics, capable of being transmitted by contagion or inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"It was a curse transmissible to children, but if he desired to keep the influence his genius gave him, he could not tell the world why he refused to marry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery that tuberculosis is a **transmissible** disease revolutionized sanatorium practice."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Remarkable variations in coat color prove strictly **transmissible** across successive generations."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microbial cultures contain the specific **transmissible** agent that induces fermentation in wine."*

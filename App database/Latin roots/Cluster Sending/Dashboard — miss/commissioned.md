@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissioned
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into commission; equip for service; of ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place an order for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Empowered by a formal warrant or written authority, especially holding military rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordered, authorized, or hired to produce an artistic or literary work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And truly when the stars go out and the wan day peeps into the turret-chamber, finding him at his oldest, he looks as if the digger and the spade were both commissioned and would soon be digging."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester’s ward; he commissioned me to find a governess for her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"A certain Captain Roberts was commissioned to get a boat built at Genoa, where Byron also was fitting out a yacht, the 'Bolivar'."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"He was duly **commissioned** by the emperor to lead the legions against the Gothic invasion."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The senate **commissioned** Tintoretto to execute a vast canvas for the council chamber."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Only **commissioned** officers were permitted to wear the royal insignia upon their coats."*

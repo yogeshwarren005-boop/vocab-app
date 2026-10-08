@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subtraction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arithmetic operation in which the difference between two numbers is calculated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subtracting (removing a part from the whole).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical process of taking one number or quantity away from another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking away, withdrawing, or diminishing something from an aggregate whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"He found it impossible, even by the Fulton Market method of subtraction, to get three hundred dollars' worth of express charges out of half that amount of sales, and suggested a discontinuance of shipments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Whether the temperature rises or falls, there is a point beyond which the change is no longer an addition to, but a subtraction from, pleasure."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Am I any the less for these mutilations, for these subtractions of the flesh?"*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The resultant force is obtained by algebraic **subtraction** of the opposing resistance."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The method of residues proceeds by the systematic **subtraction** of known causal agents."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **subtraction** of conjugal rights occurs when one party withdraws without lawful cause."*

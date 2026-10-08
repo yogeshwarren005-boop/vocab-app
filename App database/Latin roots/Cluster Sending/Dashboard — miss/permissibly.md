@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissibly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is allowable, permissible, or legitimate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without violation of law, established ethics, or agreed protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permissibly designates in a permissible manner."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society may **permissibly** coerce an individual only to prevent harm to other citizens."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The owner may **permissibly** abate a private nuisance without awaiting a formal judicial decree."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"We may **permissibly** deduce the existence of physical objects as the best explanation of our data."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protractedly
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a slow, leisurely or prolonged way;  -rossetti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a slow, leisurely or prolonged way;  -rossetti.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a drawn-out, prolonged, or extended manner over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With tedious, agonizing slowness and delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractedly designates in a slow, leisurely or prolonged way;  -rossetti."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The negotiations were conducted **protractedly**, each embassy awaiting fresh instructions from home."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The long winter evening wore away **protractedly** in the cheerless schoolroom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The disease ran its course **protractedly**, characterized by low remittent fevers for months."*

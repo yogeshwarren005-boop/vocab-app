@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # inadmissibility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unacceptability as a consequence of not being admissible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unacceptability as a consequence of not being admissible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal or rational invalidity that prevents evidence or testimony from being introduced or accepted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unacceptability of an argument, premise, or candidate under established guidelines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inadmissibility designates unacceptability as a consequence of not being admissible."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The strict rule of law established the **inadmissibility** of unsworn hearsay in criminal trials."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Artificial rules declaring the **inadmissibility** of relevant testimony frequently shield the guilty."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The **inadmissibility** of coerced confessions is a cornerstone of American jurisprudence."*

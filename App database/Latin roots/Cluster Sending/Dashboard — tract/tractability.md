@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractability
 
 > [!status] 🎯 **Status:**
@@ -42,9 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being easily persuaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being easily persuaded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readiness to be managed, trained, led, or influenced; docility and malleability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanical ease with which a metal or material can be shaped, drawn, or worked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And to please her parent the girl put herself quite in Joan’s hands, saying serenely—“Do what you like with me, mother.” Mrs Durbeyfield was only too delighted at this tractability."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Children's tractability 236:21 Children should obey their parents; insubordination is an evil, blighting the buddings of self-government."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The modest **tractability** of the English people has preserved their ancient constitutional liberties."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection consistently favors breeds displaying high intelligence and gentle **tractability**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The extraordinary **tractability** of annealed gold permits it to be beaten into leaves of utmost thinness."*

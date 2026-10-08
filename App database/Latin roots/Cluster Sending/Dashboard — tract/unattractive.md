@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unattractive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking beauty or charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking power to arouse interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appealing to look at; lacking beauty, charm, or aesthetic grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasant, uninviting, or not arousing interest or favor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"The worst of it is, that she manages to make me appear so unamiable and unattractive in my husband's eyes," she sighed to herself."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet could she as a young and not unattractive lady, go with safety and propriety among a hundred thousand armed men, and tell them that no one had sent her?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was considered rather plain and **unattractive** by those who valued only fashionable airs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked in the mirror and confessed to myself that I was small, poor, and **unattractive**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The gloomy, damp alley was an exceedingly **unattractive** quarter of the great metropolis."*

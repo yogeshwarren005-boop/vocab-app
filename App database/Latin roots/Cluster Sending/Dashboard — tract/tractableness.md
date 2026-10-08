@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractableness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being easily persuaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being easily persuaded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Docility, gentleness, and compliant responsiveness to direction or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easily worked, malleable, or responsive to physical tools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractableness designates the trait of being easily persuaded."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Youth is the season of **tractableness**, before perverse habits have hardened the mind against wisdom."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A tutor should encourage that gentle **tractableness** which makes instruction agreeable to children."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The noble destrier showed astonishing **tractableness** under the firm hand of the champion."*

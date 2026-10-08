@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismissible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to dismissal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to dismissal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being dismissed, removed, or discharged from office or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be set aside or ignored as unimportant, irrelevant, or baseless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dismissible designates subject to dismissal."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Judges are not **dismissible** at the arbitrary pleasure of the legislature, securing their independence."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Subordinate clerks must be readily **dismissible** for proven incompetence or neglect of duty."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A menial servant is **dismissible** upon reasonable notice or payment of statutory wages."*

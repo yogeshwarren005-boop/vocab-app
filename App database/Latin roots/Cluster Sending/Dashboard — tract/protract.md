@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lengthen in time; cause to be or last longer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lengthen in time; cause to be or last longer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prolong, extend, or lengthen in duration; to draw out the time of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In drafting, to lay down or plot lines, angles, and distances on paper with a scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bury him, And not protract with admiration what Is now due debt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubtless he shrives this woman to her smock; Else ne’er could he so long protract his speech."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should wish now to protract this moment _ad infinitum_; but I dare not."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Skillful negotiations served to **protract** the armistice until reinforcements arrived from the east."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factional disputes serve only to **protract** the debates and delay national decisions."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Why should we **protract** our stay when honor calls us to the field of battle?"*

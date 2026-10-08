@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mississippi
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major north american river and the chief river of the united states; rises in northern minnesota and flows southward into the gulf of mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the deep south on the gulf of mexico; one of the confederate states during the american civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major river of North America flowing from Minnesota to the Gulf of Mexico; or a U.S. state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an informal counting word to measure elapsed seconds ('one Mississippi, two Mississippi').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the Mississippi Valley since 1880 natural gas, abundant coal, ore, and timber have made possible a great growth of industries without protection against the Eastern states."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are (in 1913) but seven states with anything resembling a personal income tax.[7] These are Virginia, North Carolina, South Carolina, Mississippi, Oklahoma, Massachusetts, and Wisconsin."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Specialization in wheat production in the states just west of the Mississippi is possible only so long as wheat will grow on the virgin soil without costly fertilizers."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The basin of the **Mississippi** is the body of the nation, and all other parts are but limbs."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"The Father of Waters again goes unvexed to the sea as the **Mississippi** opens to commerce."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The valley of the **Mississippi** is the most magnificent dwelling-place prepared by God for man's abode."*

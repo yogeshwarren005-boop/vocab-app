@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstracted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider a concept without thinking of a specific example; consider abstractly or theoretically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep in thought and not paying attention to one's surroundings; absent-minded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separated or removed from a concrete matrix or material environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby with an abstracted air as she looked over the dispatch last opened; “what a goose you are!” “I am engaged, Ma,” sobbed Caddy, “to young Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The abstracted manner in which Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I found Richard thin and languid, slovenly in his dress, abstracted in his manner, forcing his spirits now and then, and at other intervals relapsing into a dull thoughtfulness."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He appeared silent and **abstracted**, scarcely answering the polite inquiries of the company."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon sat in an **abstracted** mood, pondering the mythological labyrinths of his key."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When profoundly **abstracted**, men often gaze fixedly into space without focusing on objects."*

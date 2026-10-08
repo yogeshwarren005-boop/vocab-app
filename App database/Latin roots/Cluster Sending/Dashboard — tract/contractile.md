@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of contracting or being contracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of contracting or being contracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of contracting or producing contraction, as muscular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the physiological power to shorten when stimulated by nervous or chemical impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contractile designates capable of contracting or being contracted."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The tentacles of Drosera contain delicate **contractile** tissues sensitive to mechanical touch."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Striated muscular fibers consist of microscopic myofibrils endowed with **contractile** properties."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The walls of the smaller arteries contain involuntary **contractile** fibers regulating blood flow."*

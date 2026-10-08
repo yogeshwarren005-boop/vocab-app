@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractedly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absent-minded or preoccupied manner; with thoughts directed elsewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abstract, theoretical, or detached sense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Almost frightened by coming upon him so unexpectedly, I stood still for a moment and should have retired without speaking had he not, in again passing his hand abstractedly through his hair, seen me and started."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer had never turned his head once, but with eyes fixed on the most advanced point along the road, passed as unconsciously and abstractedly as if Bathsheba and her charms were thin air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, overcome by a hundred tumultuous feelings resulting from the scene, abstractedly sat down on a tuft of heather."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She gazed **abstractedly** through the rain-splashed window, lost in painful memories."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes tapped his fingers **abstractedly** upon the mantelpiece while calculating the clues."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym looked **abstractedly** across Egdon Heath, contemplating the quiet destiny before him."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstracter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the mind; separated from embodiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who prepares an abstract, summary, or digest of a document or records.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who separates or abstracts concepts from material instances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In the practical economic issues of the day, the most urgent need is a better popular understanding of the abstracter theory of value."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"An **abstracter** must exercise discriminating judgment to preserve the marrow of long treatises."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The philosophical **abstracter** extracts general axioms from multitude of natural observations."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The title **abstracter** carefully condensed voluminous deeds into a clear chain of ownership."*

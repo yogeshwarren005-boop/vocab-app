@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missoula
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in western montana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university town in western montana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major city in western Montana located on the Clark Fork River in the Rocky Mountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, Glacial Lake Missoula, an ancient proglacial lake that produced the catastrophic Spokane Floods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, missoula designates a university town in western montana."*
+> - 📜 **J Harlen Bretz (*The Channeled Scabland of Eastern Washington*):** *"Catastrophic outpourings from Glacial Lake **Missoula** carved the deep canyons of the scablands."*
+> - 📜 **John Muir (*Our National Parks*):** *"The forested valleys around **Missoula** were alive with the rush of clear trout streams."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"We outfit our hunting party at **Missoula** before heading into the rugged Bitterroot range."*

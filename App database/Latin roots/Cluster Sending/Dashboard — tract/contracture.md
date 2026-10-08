@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contracture
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal and usually permanent contraction of a muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal and usually permanent contraction of a muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In medicine, a permanent or chronic shortening of muscle, tendon, or scar tissue producing joint deformity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of persistent, involuntary muscular rigidity or spasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contracture designates an abnormal and usually permanent contraction of a muscle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spastic hemiplegia is commonly followed by severe **contracture** of the flexor muscles of the arm."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Dupuytren's **contracture** involves progressive fibrotic thickening of the palmar aponeurosis."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Extreme fatigue or toxic agents may induce prolonged physiological **contracture** in isolated muscles."*

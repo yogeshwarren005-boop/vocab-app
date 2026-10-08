@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unattractiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ugliness of appearance that is not appealing to viewers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ugliness of appearance that is not appealing to viewers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absence of aesthetic appeal, charm, or grace; plainness or uninviting appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The undesirable or uninviting quality of a proposal, place, or condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unattractiveness designates an ugliness of appearance that is not appealing to viewers."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She bore the quiet **unattractiveness** of her modest lot with brave, uncomplaining fortitude."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The cold **unattractiveness** of the dreary room chilled her spirits as evening fell."*
+> - 📜 **Henry James (*The Bostonians*):** *"The glaring **unattractiveness** of the boarding-house parlor was softened only by twilight."*

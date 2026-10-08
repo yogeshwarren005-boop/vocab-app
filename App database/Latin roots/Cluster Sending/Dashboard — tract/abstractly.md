@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractly
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In abstract terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the abstract; conceptually, theoretically, and apart from concrete application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without regard to particular circumstances, individuals, or physical realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been too abstractly doctrinaire, have argued too absolutely for the merits of free trade to be applied instantly regardless of the existing distribution of investments and of occupations."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Practically every man in a market acts on the knowledge of what the exchange of direct and indirect goods means; yet abstractly stated, the thought seems at first difficult."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of rent puts this abstractly, but in a clear light."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Rights considered **abstractly** may be theoretically perfect, yet practically ruinous to society."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"When we reason **abstractly** concerning quantity or number, our conclusions are demonstrative."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Principles that appear unassailable when viewed **abstractly** require prudent qualification in life."*

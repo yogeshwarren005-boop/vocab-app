@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retractable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being retracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being retracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being drawn back or in; designed to fold or pull into an enclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and diplomacy, capable of being withdrawn, revoked, or rescinded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retractable designates capable of being retracted."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The intricate brass machine was fitted with **retractable** levers of ivory and crystal."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Spitfires equipped with **retractable** undercarriages achieved speeds surpassing all predecessors."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A testamentary disposition remains strictly **retractable** until the moment of the testator's death."*

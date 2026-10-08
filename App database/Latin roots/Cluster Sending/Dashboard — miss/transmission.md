@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # transmission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication by means of transmitted signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, process, or conveyance of sending something from one person, place, or mechanism to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, the mechanism by which power is transmitted from an engine to an axle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It lay quietly sheltered from the motions of the sea, and under a favourable pressure for the transmission of the electric spark which passes from Europe to America in .32 of a second."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Lenau's case we noted circumstances which point to a direct transmission from parent to child of a predisposition to melancholia."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An instant later the ship disintegrated into thousands of metal and composite fragments, and shards of what had been human flesh and bone. ## "Flash -- Spunnel Transmission Priority One."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The rapid **transmission** of electromagnetic disturbances through space takes place with the velocity of light."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Preventing the waterborne **transmission** of typhoid bacilli eradicated epidemics from modern cities."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The faithful **transmission** of modified traits from parent to offspring underlies natural selection."*

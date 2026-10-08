@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attracter
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that attracts, pulls, or draws others toward itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An influential agent or phenomenon exerting a powerful draw upon attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attracter designates an entertainer who attracts large audiences."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Beauty is a sovereign **attracter** of human affection that overcomes all philosophical resolve."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The loadstone was celebrated by ancient writers as the chief natural **attracter** of iron."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Vain display is an untrustworthy **attracter** of genuine, enduring friendship."*

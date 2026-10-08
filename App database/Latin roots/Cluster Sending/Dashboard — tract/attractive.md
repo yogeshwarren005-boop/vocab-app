@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attractive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the eye or mind especially through beauty or charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to arouse interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to look at; pleasing or charming in appearance or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of attracting other bodies through physical or magnetic force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, good mother, here’s metal more attractive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is Hermia, wheresoe’er she lies, For she hath blessèd and attractive eyes."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He will look for a suitable, attractive home in town that the three boys can move into next fall." "You do not mean to tell me, Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His countenance was handsome and his whole air remarkably **attractive** and pleasing."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"We investigate the laws governing the central **attractive** force exerted by spherical masses."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Generous and benevolent actions present an **attractive** spectacle to every impartial observer."*

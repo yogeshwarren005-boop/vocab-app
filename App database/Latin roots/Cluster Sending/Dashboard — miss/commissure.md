@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissure
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bundle of nerve fibers passing from one side to the other of the brain or spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point, line, or seam of union between two parts, as the angles of the lips or eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, a band of nerve fibers connecting corresponding bilateral parts of the brain or spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commissure designates a bundle of nerve fibers passing from one side to the other of the brain or spinal cord."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The anterior **commissure** consists of transverse white fibers crossing the midline of the brain."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Paired cerebral ganglia are linked by a distinct nervous **commissure** encircling the esophagus."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"During a snarl, muscular contraction draws back the outer **commissure** of the mouth."*

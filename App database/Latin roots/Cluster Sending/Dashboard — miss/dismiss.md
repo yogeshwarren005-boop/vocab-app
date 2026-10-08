@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismiss
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar from attention or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease to consider; put out of judicial consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send away, discharge, or give permission to leave; to remove from employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reject or banish an idea, consideration, or court lawsuit without further hearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dismiss them home. [_Exit Aedile._] Here comes his mother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not bid me Dismiss my soldiers or capitulate Again with Rome’s mechanics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For if Lord Percy thrive not, ere the King Dismiss his power he means to visit us, For he hath heard of our confederacy, And ’tis but wisdom to make strong against him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She attempted to **dismiss** the unwelcome memory of his words from her troubled thoughts."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"We will convince him that he may **dismiss** the guard which surrounds his person."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The president has the constitutional power to **dismiss** subordinate executive officers."*

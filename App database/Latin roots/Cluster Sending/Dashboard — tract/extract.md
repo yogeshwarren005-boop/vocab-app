@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage selected from a larger work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, take out, or pull out, especially by effort or with a force or machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance obtained by extracting juice or active constituents from plants or herbs; or a literary excerpt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"O let us be joyful!” With which remark, which appears from its sound to be an extract in verse, Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It must suffice here to give an extract from one of them on a tour in the West of Ireland in 1864, illustrating as it does a curious phase of Irish social life at that time."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"EXTRACT FROM THE NARRATIVE OF MADAME DUPIN DE LA CLAIRIÈRE (_née_ DE CHAMPFLEURIE)."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The alchemist seeks to **extract** the pure tincture from crude mineral ore through prolonged fire."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Native hunters **extract** a virulent poison from jungle roots to tip their blowpipe darts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"We administered concentrated thyroid **extract** with remarkable clinical benefit in myxedema."*

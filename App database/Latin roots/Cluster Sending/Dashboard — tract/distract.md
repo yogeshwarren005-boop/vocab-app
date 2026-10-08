@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distract
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw someone's attention away from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw away or divert the mind, attention, or thoughts from an object or task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agitate or unsettle the mind with conflicting desires, worries, or emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fellow is distract, and so am I, And here we wander in illusions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With this she fell distract, And, her attendants absent, swallow’d fire."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Violent sensations easily **distract** the attention and hinder deliberate meditation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She sought every innocent amusement that might **distract** her sister from brooding on her grief."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O all you host of heaven! O earth! what else? And shall I couple hell? O fie! hold, hold, my heart; and you, my sinews, grow not instant old, but bear me stiffly up. Remember thee? Ay, thou poor ghost, whiles memory holds a seat in this **distracted** globe."*

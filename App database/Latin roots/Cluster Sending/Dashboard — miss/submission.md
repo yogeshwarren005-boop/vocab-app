@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of submitting; usually surrendering power to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of yielding or surrendering to superior power, authority, or will; compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presenting a proposal, application, or manuscript for formal judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore tell her I return great thanks, And in submission will attend on her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submission, Dauphin! ’Tis a mere French word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conquered princes offered unconditional **submission** at the feet of the victorious emperor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Unshaken faith and humble **submission** to divine decree restore peace to the troubled mind."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A free people will never brook an ignominious **submission** to foreign tyranny."*

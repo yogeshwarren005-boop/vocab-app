@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # unattractively
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unattractive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unattractive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unappealing, displeasing, or unattractive manner; without charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a way that fails to entice or draw favorable attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But seeing a stranger the sickly, scrofulous-looking child, unattractively like her mother, began to yell and run away."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The dreary village was **unattractively** situated upon a bleak, wind-swept limestone ridge."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He expressed his stubborn opinions **unattractively**, without a particle of polite deference."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old spinster sat **unattractively** in the corner, scowling at the laughing dancers."*

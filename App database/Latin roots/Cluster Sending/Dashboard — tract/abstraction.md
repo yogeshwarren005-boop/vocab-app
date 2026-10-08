@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstraction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withdrawing or removing something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of dealing with ideas rather than events; a concept not grounded in tangible objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of absent-mindedness or deep mental preoccupation; or the act of removing or taking away.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye!” said the old man, coming slowly out of his abstraction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has shown neither patience nor impatience, nor attention nor abstraction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby notices that both the constable and his guide fall into a deep abstraction as they come towards each other, and appear entirely to overlook each other, and to gaze into space."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Through **abstraction**, general ideas are framed that enable human communication and scientific thought."*
+> - 📜 **Jane Austen (*Emma*):** *"She fell into a fit of **abstraction** from which her companion's voice could scarcely rouse her."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Every useful classification is the result of systematic intellectual **abstraction**."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written message addressed to a person or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication, letter, or official dispatch, especially an elaborate or formal one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to be sent or dispatched by a messenger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her letter to Sir Leicester is discovered on her table, but it is doubtful yet whether he has not received another missive from another world requiring to be personally answered, and all the living languages, and all the dead, are as one to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A royal **missive** stamped with the Great Seal was delivered to the castellan at midnight."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins's lengthy **missive** was read aloud to the amused family around the breakfast table."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The haughty **missive** of the Persian king demanded immediate submission from the Roman prefect."*

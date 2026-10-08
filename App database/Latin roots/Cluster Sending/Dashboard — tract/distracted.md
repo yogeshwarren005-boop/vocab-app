@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distracted
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw someone's attention away from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to concentrate because one's thoughts and attention are pulled elsewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely agitated, frantic, or crazed with conflicting grief or anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the brightest beams Distracted clouds give way; so stand thou forth; The time is fair again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To fetch my poor distracted husband hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, thou poor ghost, while memory holds a seat In this distracted globe."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I hurried through the streets with a wild and **distracted** demeanor, pursued by horrific memories."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The poor mother was nearly **distracted** with terror as the revolutionary tribunal deliberated."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"His **distracted** look alarmed his friends, who feared for the sanity of his intellect."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractually
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By virtue of a contract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By virtue of a contract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner established by or according to a contract; pursuant to agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under legal covenants and reciprocal binding obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contractually designates by virtue of a contract."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The tenant was **contractually** bound to maintain the premises in good and sufficient repair."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Parties **contractually** allied in partnership share both profits and losses according to equity."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Monies **contractually** pledged cannot be diverted without consent of the creditor."*

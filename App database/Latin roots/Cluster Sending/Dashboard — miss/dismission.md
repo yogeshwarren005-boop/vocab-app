@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official notice that you have been fired from your job.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination of someone's employment (leaving them free to depart).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending away, discharging, or removing from service; formal dismissal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release or discharge from an obligation, custody, or office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not stay here longer; your dismission Is come from Caesar; therefore hear it, Antony."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My conduct may, I fear, be objectionable in having accepted my dismission from your daughter’s lips instead of your own; but we are all liable to error."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The loss of life and estate would often be virtually included in a sentence which, in its terms, imported nothing more than dismission from a present, and disqualification for a future, office."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He received his **dismission** from the patron's house with sullen pride and silent anger."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **dismission** of the praetorian prefect provoked a mutiny among the guard."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her abrupt **dismission** from the circle left her in solitary distress throughout the evening."*

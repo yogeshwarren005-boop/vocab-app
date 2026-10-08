@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attractor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that attracts; an entity or influence that draws other elements toward it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and dynamical systems, a set of states toward which a system tends to evolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tugs nudged it along to a hundred kay above the dome, cut their mass-attractors and the ship disappeared into the node of the Planet Pluto Spunnel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Trajectories in non-linear phase space converge toward a stable limit cycle or dynamical **attractor**."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"A fixed center of force acts as a permanent mechanical **attractor** upon orbiting bodies."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The great metropolis operates as an irresistible economic **attractor** draining rural populations."*

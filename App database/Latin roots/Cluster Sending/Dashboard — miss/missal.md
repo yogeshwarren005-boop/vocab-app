@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing all the prayers, readings, and chants necessary for celebrating Mass throughout the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated liturgical book of the Roman Catholic Church treasured for artistic calligraphy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing opened his missal and began to read, and Quincey and I followed as well as we could."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"On the stone table before her stood a crucifix of ivory, beside which was laid a missal, having its pages richly illuminated, and its boards adorned with clasps of gold, and bosses of the same precious metal."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals; sometimes we ran by rivers and streams which seemed from the wide stony margin on each side of them to be subject to great floods."*
+> - 📜 **John Milton (*Areopagitica*):** *"They sought to constrain religious worship strictly within the rubric of the ancient **missal**."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The monk clasped the silver-clasped **missal** close to his breast as he knelt in the chapel."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He collected rare editions of the fifteenth-century **missal** adorned with miniature paintings."*

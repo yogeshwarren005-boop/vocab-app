@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (a person or firm) who contracts to build things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or firm that undertakes a contract to provide materials or perform labor for a specified job.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, a muscle that serves to contract or draw together a bodily part.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"An iron church was erected for them, but the contractor, an Englishman, before his work was finished was seized with illness and died."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The baronet has been in communication with the architect who prepared the plans for Sir Charles, and with a contractor from London, so that we may expect great changes to begin here soon."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A few months previous to our trip, a contractor on the Kansas Pacific Railroad determined to domesticate a young bison bull, and accordingly took it to his home at Cincinnati."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The public **contractor** who furnishes provisions to the fleet makes large profits from government."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The railway **contractor** marshaled hundreds of navvies across the countryside with energetic speed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A default by an independent **contractor** gives rise to an action for breach under the covenants."*

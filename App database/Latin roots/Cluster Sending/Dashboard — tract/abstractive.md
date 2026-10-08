@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # abstractive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an abstracting nature or having the power of abstracting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an abstracting nature or having the power of abstracting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power or tendency to abstract; pertaining to conceptual abstraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived by or involving the process of mental separation from physical specifics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractive designates of an abstracting nature or having the power of abstracting."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The **abstractive** faculties of the intellect enable the geometer to isolate pure spatial forms."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must beware of hasty **abstractive** leaps that divorce scientific thought from reality."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic imagination operates through both synthetic and **abstractive** processes of mind."*

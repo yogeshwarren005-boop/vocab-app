@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extractible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being extracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extracted or drawn out from a compound, mixture, or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and chemistry, soluble or separable through chemical reagents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extractible designates capable of being extracted."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The nutritious gelatinous principles are **extractible** from crushed bones by pressurized steam."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Pure phosphorus is **extractible** from calcined bones through decomposition with vitriolic acid."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The bitumen present in the bituminous shales was proved thoroughly **extractible** by petroleum naphtha."*

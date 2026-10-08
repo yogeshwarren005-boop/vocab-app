@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missile
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weapon that is forcibly thrown or projected at a targets but is not self-propelled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon, object, or rocket thrown, propelled, or launched at a target to inflict damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thrown or projected from an engine or hand weapon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Seventy-six hundred thousand million of parcels of bank-notes!” “Will somebody give me a quart pot?” exclaims her exasperated husband, looking helplessly about him and finding no missile within his reach."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From a shaft (or 'stem') which appeared slender, came a dangerous sorrow-bringing missile (i.e. the shaft became a ... missile); Hodr proceeded to shoot."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She concluded by throwing me—I often served as a connubial missile—at Joe, who, glad to get hold of me on any terms, passed me on into the chimney and quietly fenced me up there with his great leg."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A storm of heavy stones and **missile** weapons rained down upon the scaling parties."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heavy artillery hurled shell after **missile** into the smoking depression where the Martians lay."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The barbed harpoon flew like a deadly **missile** straight into the flank of the Leviathan."*

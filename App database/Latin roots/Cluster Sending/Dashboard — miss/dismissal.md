@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # dismissal
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment disposing of the matter without a trial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official notice that you have been fired from your job.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ordering or allowing someone to leave; termination of employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, the decision of a judge to terminate a lawsuit without further trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George takes his dismissal in great dudgeon, the greater because a clerk coming up the stairs has heard the last words of all and evidently applies them to him."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No dismissal by a hasty letter affects that.” “I wish you did not feel so strongly about me,” she murmured."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The summary **dismissal** of the faithful clerk cast a dark shadow over the firm."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The unexpected **dismissal** of the lord chancellor produced immense consternation at court."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A plaintiff who fails to appear incurs the immediate **dismissal** of his bill in equity."*

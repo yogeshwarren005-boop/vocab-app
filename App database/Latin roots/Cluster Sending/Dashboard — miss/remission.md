@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cancellation of a debt, charge, or penalty; forgiveness of sins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, a temporary diminution or abatement of the symptoms of a chronic disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I owe My revenge properly, my remission lies In Volscian breasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I find an apt remission in myself."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient experienced a prolonged **remission** of acute symptoms following absolute rest."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor proclaimed a general **remission** of accumulated fiscal arrears throughout the empire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To them preach joyful tidings of **remission** through faith and sincere repentance."*

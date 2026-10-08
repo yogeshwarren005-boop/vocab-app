@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missourian
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of missouri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of missouri.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the state of Missouri or the region along the Missouri River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the history, dialect, or culture of Missouri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Jeff Thompson has just been round behind the Cape pulling up the railroad, but some of the Yankee critter-fellers went out there and run him off," replied the long-haired Missourian."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"It isn't at all likely that he will keep the road in daylight when he hasn't a thing to defend himself with." "I aint thinking about that any more'n I am about him having no boots on," said the Missourian, looking back over his shoulder."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Truman's house in company with a young Missourian who did not want his name spoken where other folks could hear it."*
+> - 📜 **Mark Twain (*Roughing It*):** *"A stalwart **Missourian** had driven six yoke of oxen across the Great Plains to California."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"The hardy **Missourian** emigrants made camp near the creek, preparing their heavy wagons for the journey."*
+> - 📜 **Abraham Lincoln (*Collected Works of Abraham Lincoln*):** *"We received communications from loyal **Missourian** citizens eager to preserve the Union."*

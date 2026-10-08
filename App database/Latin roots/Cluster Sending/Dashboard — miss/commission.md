@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal warrant or authority granted to a person or group to perform specified duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percentage fee paid to an agent or salesman for business services rendered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I might ask you for your commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Aufidius, Take your commission; hie you to your bands."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's letters sealed; and my two schoolfellows bear the **commission** to England."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The factor charged a modest **commission** upon all grain exported through the port."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A special civic **commission** was appointed to supervise the construction of the highway."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missing
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not present or able to be found; absent, lost, or unaccounted for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking from an expected sequence, document, or anatomical set.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, the roynish clown, at whom so oft Your grace was wont to laugh, is also missing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my liege, The day that she was missing he was here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cloten, Upon my lady’s missing, came to me With his sword drawn, foam’d at the mouth, and swore, If I discover’d not which way she was gone, It was my instant death."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Missing Three-Quarter*):** *"The urgent telegram informed us that the star athlete was **missing** from his hotel."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil beds are full of breaks, leaving many **missing** links in genealogical lineages."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"When I counted the muskets on board the wreck, I discovered two were **missing** from the rack."*

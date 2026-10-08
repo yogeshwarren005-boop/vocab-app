@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # commissary
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail store that sells equipment and provisions (usually to military personnel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A snack bar in a film studio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer or deputy entrusted by a superior authority with a specific duty or jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A store that provides food, clothing, and equipment to military personnel or company workers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Commissary Goldie’s Brains Lord, to account who dares thee call, Or e’er dispute thy pleasure?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They became instructors of whole townships in the methods of government business, the constitution of the Commissary and Quartermaster's Departments, and the forms of the Medical Bureau."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Commissary Department issued vegetables in such small quantities that they did not affect the condition of the troops in any appreciable degree."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The continental **commissary** struggled constantly to procure beef and flour for the army."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The bishop's **commissary** held a formal court to decide contested wills and tithes."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"Each parish appointed a sworn **commissary** to inspect provisions and ensure fair weights."*

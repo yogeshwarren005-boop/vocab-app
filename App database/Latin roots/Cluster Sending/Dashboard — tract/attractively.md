@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attractively
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beautiful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beautiful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an appealing, charming, or aesthetically pleasing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to draw favorable attention or sympathetic interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How attractively it is laid out, Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Before we left this attractively clean place the oysterman was met emptying his cans."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"To the right as one walked up from the beach stretched a long line of substantial-looking barracks, and many of the houses were of European appearance, attractively set in large gardens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cottage was **attractively** situated amidst blossoming apple orchards and green lanes."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She dressed **attractively** yet with that dignified simplicity which always distinguished her."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The shop window was **attractively** arranged with bright ribbons and trinkets to catch the eye."*

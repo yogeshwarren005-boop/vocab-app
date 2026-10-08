@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # submissive
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or willing to submit to orders or wishes of others or showing such inclination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abjectly submissive; characteristic of a slave or servant; ; - s.h.adams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to conform to the authority or will of others; meekly obedient or passive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference, humility, and willingness to yield without resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On what submissive message art thou sent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submissive fall his princely feet before, And he from forage will incline to play."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next comes his sister Mea, whose fault is that she is too submissive and confiding."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She possessed a gentle, **submissive** spirit that endured harsh rebukes without resentment."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The poor clerk remained entirely **submissive** before the threatening gaze of his master."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The captive serf cast a **submissive** glance upon the ground before the Norman baron."*

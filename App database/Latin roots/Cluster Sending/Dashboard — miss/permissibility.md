@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissibility
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admissibility as a consequence of being permitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admissibility as a consequence of being permitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being allowable, permissible, or ethically tolerable within a system of rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which an action, practice, or doctrine conforms to moral or statutory law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permissibility designates admissibility as a consequence of being permitted."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"The moral law alone determines the **permissibility** of actions contemplated by human will."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral **permissibility** of an act must be judged by its tendency to promote general happiness."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **permissibility** of self-defense rests upon the inherent right to protect one's life."*

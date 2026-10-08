@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # contractable
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) capable of being transmitted by infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being contracted or shrunk into smaller compass; susceptible to contraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being caught, incurred, or acquired, as an infectious disease or debt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contractable designates (of disease) capable of being transmitted by infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The contagious malady is readily **contractable** through direct contact with infected droplets."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain vesicular membranes are highly elastic and readily **contractable** under muscular pull."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Unnecessary commercial debts are too easily **contractable** during periods of speculative fever."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # detractive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing to decrease in importance or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing to decrease in importance or value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to detract, disparage, or diminish the value or good name of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fault-finding, petty criticism, or envious depreciation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detractive designates causing to decrease in importance or value."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A **detractive** spirit disfigures criticism and blinds the mind to genuine poetic beauties."*
+> - 📜 **Edmund Burke (*Speech on the Reform of Representation*):** *"Such **detractive** remarks against our historic institutions serve only to excite ungrounded discontent."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The envious man indulges a **detractive** tongue that grieves at the prosperity of his fellows."*

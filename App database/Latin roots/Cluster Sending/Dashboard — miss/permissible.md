@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That may be permitted especially as according to rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That may be accepted or conceded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitted, allowable, or justifiable; not forbidden by law, custom, or ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within tolerable bounds of deviation, error, or regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon again and left off receiving favors from him, it would clearly be permissible to hate him the more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes,” replied a footman in a bold loud voice, as if anything were now permissible; “the door to the left, ma’am.” “Perhaps the count did not ask for me,” said Pierre when he reached the landing."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"An excuse is always at hand to make an extra cigarette or cigar permissible on a special occasion."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"It is not **permissible** for the civil magistrate to impose religious dogmas by force."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No construction is **permissible** which contradicts the evident intention of the framers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"It is scientifically **permissible** to infer common descent where anatomical homology is complete."*

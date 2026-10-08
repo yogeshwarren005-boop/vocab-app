@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # protractible
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be extended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be extended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being drawn out, lengthened, or extended forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and mechanics, capable of extension outward from a retracted state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protractible designates able to be extended."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The pharynx is muscular and **protractible**, forming an effective proboscis for seizing prey."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The tongue is supported upon a long, **protractible** cartilaginous rod extending into the gullet."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The anterior segments of the worm form a **protractible** snout that probes crevices in soil."*

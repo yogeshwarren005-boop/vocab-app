@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # distraction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstacle to attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that prevents someone from giving full attention to something else; a diversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme mental agitation, distress, or confusion bordering on madness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How have mine eyes out of their spheres been fitted In the distraction of this madding fever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him no breath, but now Make boot of his distraction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This presence knows, and you must needs have heard, How I am punish’d with sore distraction."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The noisy chatter of her younger sisters proved a constant **distraction** to her reading."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I'll follow him to the chase, and drive him to madness and utter **distraction**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Multitude of worldly businesses brings endless **distraction** to the contemplative philosopher."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # remissness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lax and neglectful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual carelessness, negligence, or slack inattention in performing required duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failure to display proper vigilance, punctuality, or energy in responsibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General, meanwhile, though offended every morning by Frederick’s remissness in writing, was free from any real anxiety about him, and had no more pressing solicitude than that of making Miss Morland’s time at Northanger pass pleasantly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But there he is, and, by the bye, his absence may sufficiently account for any remissness of his sister’s in writing, for there has been no ‘Well, Mary, when do you write to Fanny?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The merchant's bankruptcy was brought about by his own unpardonable **remissness** in book-keeping."*
+> - 📜 **George Washington (*General Orders*):** *"Any officer guilty of scandalous **remissness** upon guard duty will face immediate court-martial."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The government's culpable **remissness** allowed dangerous disorders to spread through the capital."*

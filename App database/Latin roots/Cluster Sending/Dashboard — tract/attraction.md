@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attraction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which one object attracts another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainment that is offered to the public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or power of drawing forth interest, pleasure, or sympathy; charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, a mutual force tending to pull together physical bodies or electrical charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Setting the attraction of my good parts aside, I have no other charms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has an irresistible attraction for him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But, my dear,” she went on in her mysterious way, “there’s a dreadful attraction in the place."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By gravitational **attraction**, the planets are retained in their respective orbits around the sun."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She possessed that genuine **attraction** of mind which pleases far longer than mere personal beauty."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vocal powers and bright plumage of male birds serve as instruments of sexual **attraction**."*

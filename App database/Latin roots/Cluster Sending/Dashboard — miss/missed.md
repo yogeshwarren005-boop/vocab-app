@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # missed
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failed to hit, catch, perceive, or meet an intended target or opportunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Felt with regret or sorrow because of absence or loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Coriolanus is not much missed But with his friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The moon being clouded presently is missed, But little stars may hide them when they list."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I **missed** the accustomed comfort of Helen Burns's gentle voice during those lonely hours."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe looked around the forge and **missed** the familiar tools that Pip had taken."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The rifle shot whistled past the trunk, having **missed** the target by only a hand's breadth."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # detractor
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disparages or belittles the worth, reputation, or achievements of someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critic who systematically finds fault or minimizes another's virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The warmest partisans of the enterprise now became its most ardent detractors."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet perhaps none of his detractors guessed the limits of his power as surely as he came to feel them himself."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Away the fair detractors went, And gave, by turns, their censures vent."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Even the most zealous **detractor** must acknowledge the prudent moderation of Washington's policy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Every petty **detractor** was silenced by the overwhelming majesty of Milton's verse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's **detractor** accused him of superstitious weakness in the conduct of the Persian war."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # retractile
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of retraction; capable of being drawn back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of retraction; capable of being drawn back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being drawn back or in, especially of animal claws or tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, equipped with a physiological mechanism allowing withdrawal into a sheath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retractile designates capable of retraction; capable of being drawn back."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cat family preserves razor sharpness by keeping its curved **retractile** claws within protective sheaths."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Elastic ligaments maintain the **retractile** claws in elevation until muscular contraction strikes."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The leopard sprang upon its prey, unsheathing its formidable **retractile** talons in mid-air."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # extraction
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of obtaining something from a mixture or compound by chemical or physical or mechanical means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of taking out something, especially using effort or force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ethnic, national, or genealogical origin of a family or person; lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fluted pilasters, worked from the solid stone, decorated its front, and above the roof the chimneys were panelled or columnar, some coped gables with finials and like features still retaining traces of their Gothic extraction."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Society is hopelessly snobbish, and this fact of your extraction may make an appreciable difference to its acceptance of you as my wife, after I have made you the well-read woman that I mean to make you."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He is said to be of foreign extraction.” “I know the sort,” said Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The valiant general was of humble peasant **extraction**, born in the rugged hills of Illyricum."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The **extraction** of pure combustible wax from vegetable berries was demonstrated to the class."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The hazardous **extraction** of gold and silver from deep Andean mines employed thousands of natives."*

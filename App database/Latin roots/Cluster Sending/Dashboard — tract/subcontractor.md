@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # subcontractor
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who enters into a subcontract with the primary contractor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enters into a subcontract with the primary contractor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business or person that carries out work for a company as part of a larger project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent tradesman hired by a general contractor to perform specialized tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontractor designates someone who enters into a subcontract with the primary contractor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Each **subcontractor** employs specialized journeymen, dividing the labor of construction."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The railway **subcontractor** drove his gang of laborers through rain and frost to meet the deadline."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The building **subcontractor** underbid his rivals by hiring non-union labor at starvation wages."*

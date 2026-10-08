@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # admissible
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be admitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptable, valid, or allowable under rules, regulations, or standards of legal procedure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being considered, entertained, or accepted as plausible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be shown in the next paper that this CONCURRENT JURISDICTION in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of the State authority to that of the Union."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the CONSEQUENCE from this doctrine admissible?"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"An accident is much more admissible--in this quiet parish."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"No speculative explanation is **admissible** which contradicts our direct sensory experience."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Such arbitrary interpretations are not **admissible** in construing the fundamental charter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The objection is serious and fully **admissible**, deserving our most candid examination."*

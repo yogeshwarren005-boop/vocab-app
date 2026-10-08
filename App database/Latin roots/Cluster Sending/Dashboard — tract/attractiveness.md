@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # attractiveness
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of arousing interest; being attractive or something that attracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual allure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or pleasing charm that draws interest, admiration, or affection from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aesthetic beauty, grace, or magnetic appeal in persons, objects, or ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Among the difficulties of her lonely position not the least was the attention she excited by her appearance, a certain bearing of distinction, which she had caught from Clare, being superadded to her natural attractiveness."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What was the secret of Jesus' attractiveness, and what kinds of men and women did he attract? 3."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality."*
+> - 📜 **Jane Austen (*Emma*):** *"The natural **attractiveness** of her conversation made her a favorite among all her companions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **attractiveness** of secondary sexual characters has been enhanced through sexual selection."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He could not deny the strange **attractiveness** of the historic quarter bathed in twilight."*

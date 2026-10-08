@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # permissiveness
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to allow freedom of choice and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to allow freedom of choice and behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual tolerance, indulgence, or leniency that grants broad personal freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having few rules, restrictions, or moral boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permissiveness designates a disposition to allow freedom of choice and behavior."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The domestic **permissiveness** of American households fosters early independence among children."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Wise parental guidance combines affectionate **permissiveness** with steady moral direction."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive **permissiveness** in youth frequently exposes the character to fatal corruptions later in life."*

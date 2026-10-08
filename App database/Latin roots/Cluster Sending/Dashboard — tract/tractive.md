@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — tract]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # tractive
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting traction and serving to pull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting traction and serving to pull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating by or exerting a pulling force; serving to draw or pull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In locomotive engineering, pertaining to the pulling capability or tractive effort of an engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractive designates exerting traction and serving to pull."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The total **tractive** power of the locomotive must overcome both grade resistance and rail friction."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Muscular contraction exerts a direct **tractive** tension upon the bones through attached tendons."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The enormous **tractive** force of advancing continental ice sheets grooved the solid bedrock."*

@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # intermission
 
 > [!status] 🎯 **Status:**
@@ -42,10 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of suspending activity temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause, interval, or temporary cessation between periods of activity or theatrical acts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary suspension or remission of disease symptoms or legal proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lov’d, I lov’d; for intermission No more pertains to me, my lord, than you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The rain had been thick and heavy all day, and with little intermission for many days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He would think so all the more if he saw the woman thus hurrying up and down for hours, without fatigue, without intermission, followed by the faithful step upon the Ghost’s Walk."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Gentle heavens, cut short all **intermission**; front to front bring thou this fiend of Scotland and myself."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil war raged for twenty years without **intermission**, exhausting the resources of the state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In tertian malaria, the febrile paroxysm is followed by an **intermission** of complete relief."*

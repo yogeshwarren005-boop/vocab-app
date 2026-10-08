@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # mississippian
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of mississippi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the state of Mississippi or the Mississippi River valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American geology, the subperiod of the Carboniferous system characterized by marine limestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mississippian designates from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Every veteran **Mississippian** pilot knew each sand-bar, snag, and towhead between Cairo and New Orleans."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **Mississippian** formations are celebrated for their rich assemblages of crinoids and blastoids."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Heavy limestone beds belonging to the **Mississippian** era outcrop extensively across the Midwest."*

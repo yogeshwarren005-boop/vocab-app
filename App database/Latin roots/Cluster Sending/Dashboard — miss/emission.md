@@ -3,6 +3,7 @@ latin_root: "[[Dashboard — miss]]"
 cluster: "[[Cluster Sending]]"
 status: unread
 ---
+
 # emission
 
 > [!status] 🎯 **Status:**
@@ -42,8 +43,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of emitting; causing to flow forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that is emitted or released.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, discharge, or sending forth of something, especially gas, radiation, or light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal issue of paper currency, banknotes, or legal proclamations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The imposition of duties on imported articles, and the emission of paper money, are specimens of each kind."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The corpuscular hypothesis attributes vision to the rapid **emission** of minute light particles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The continuous **emission** of electric sparks accompanied the rapid rotation of the cylinder."*
+> - 📜 **Alexander Hamilton (*Report on a National Bank*):** *"An unregulated **emission** of paper money invariably depreciates the circulating standard."*

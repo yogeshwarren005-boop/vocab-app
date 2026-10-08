@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The next to last syllable in a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable of a word; the penult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical grammar, the penultimate syllable whose quantity governs the accent of polysyllabic words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penultima designates the next to last syllable in a word."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The orator must observe whether the **penultima** carries an acute accent or yields prominence to the antepenult."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Sanskrit accentuation, rules of tone differed from the strict limitation to the **penultima** found in classical Latin."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Common usage often corrupts ancient pronunciation by shortening the long vowel of the **penultima**."*

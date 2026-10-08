@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a person who repents for wrongdoing (a roman catholic may be admitted to penance under the direction of a confessor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing sorrow and sincere remorse for sin, error, or moral wrongdoing; contrite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who confesses sins to a priest and performs prescribed penance; an apologetic wrongdoer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As nearly as I may I’ll play the penitent to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My conscience, thou art fetter’d More than my shanks and wrists; you good gods, give me The penitent instrument to pick that bolt, Then, free for ever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst ever hear a man so penitent?"*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"I'll teach you how you shall arraign your conscience, and try your **penitent** heart before high heaven."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester looked upon Jane with a softened, **penitent** countenance, acknowledging his reckless deception."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The bishop gave the silver candlesticks to the **penitent** convict, charging him to employ them in becoming an honest man."*

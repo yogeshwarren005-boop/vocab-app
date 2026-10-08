@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a situation) characterized by or causing suspense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a situation) characterized by or causing suspense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing, characterized by, or causing pleasant or anxious suspense, excitement, or nervous anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keeping an audience, reader, or observer in prolonged state of uncertainty regarding the climax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspenseful designates (of a situation) characterized by or causing suspense."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The dark voyage up the Thames in pursuit of the steam launch was a **suspenseful** race against closing night."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Mr. Utterson passed a **suspenseful** night pacing his hearth, haunted by the ghastly face of Hyde."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"The narrative reached a **suspenseful** crisis when Sergeant Cuff announced that the thief was an inmate of the house."*

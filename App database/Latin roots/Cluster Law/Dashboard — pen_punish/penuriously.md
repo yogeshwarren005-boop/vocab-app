@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penurious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a penurious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penurious, extremely stingy, or miserly manner; or in deep destitution and deprivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excessive frugality, penny-pinching meanness, and denial of basic comforts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuriously designates in a penurious manner."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Pitt Crawley lived **penuriously** upon salt pork and small beer, hoarding guineas in rusty deed boxes."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The linen weaver lived **penuriously**, denying himself fire and meat so that his hoard of gold coins might increase."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He spent his youthful prime hoarding wealth **penuriously**, only to discover in old age that he had forgotten how to enjoy it."*

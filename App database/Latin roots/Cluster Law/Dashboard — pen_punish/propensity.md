@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural inclination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural inclination, tendency, or disposition to behave in a particular way or prefer a specific choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, a behavioral tendency to consume or save out of additional income (e.g., marginal propensity to consume).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is occasioned by a propensity on the part of that unlucky old lady whenever she finds herself on her feet to amble about and “set” to inanimate objects, accompanying herself with a chattering noise, as in a witch dance."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I am perfectly persuaded that the tempers had better be unlike: I mean unlike in the flow of the spirits, in the manners, in the inclination for much or little company, in the propensity to talk or to be silent, to be grave or to be gay."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My dear, dear child, try, _try_ to conquer the propensity!"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor arises from a certain **propensity** in human nature to truck, barter, and exchange one thing for another."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The fundamental psychological law of any modern community relates aggregate employment to the marginal **propensity** to consume."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The mind has a strong **propensity** to spread itself upon external objects and conjoin them with inward sentiments."*

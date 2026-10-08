@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for journalists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for journalists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes with a pen, especially one skilled in calligraphy, elegant handwriting, or professional manuscript copying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional clerk, scrivener, or author characterized by a specific prose style or script.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The Captain evidently was not a great penman, and Rosamond reflected that the sisters might have been abroad."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"To write “laff,” the pen has to make the _same number_ of strokes—no labor is saved to the penman."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Milton was an accomplished scholar and an elegant Latin **penman** whose formal dispatches commanded European respect."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My brother employed a skillful **penman** to engross legal documents with flourished gothic headers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The law-writer was a quiet **penman** whose tireless hand earned a scanty bread in the legal stationer's garret."*

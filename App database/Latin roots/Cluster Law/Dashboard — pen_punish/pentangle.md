@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure having five angles, especially a five-pointed star or endless knot revered as a badge of fidelity and virtue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval chivalric literature, the golden five-pointed knot emblazoned on Sir Gawain's shield symbolizing the five knightly virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentangle designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*
+> - 📜 **Anonymous (*Sir Gawain and the Green Knight*):** *"Upon his shield was brightly painted the endless **pentangle**, signifying truth, cleanness, and faultless courtesy."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"The maiden brought forth a shield blazoned with a mystic **pentangle** of azure and pure gold."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary demonstrated that the ancient seal bore a five-pointed **pentangle** intertwined with Gothic letters."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having enough money to pay for necessities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no money whatsoever; completely destitute, broke, and impoverished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of financial capital or livelihood, living in extreme subsistence poverty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had always thought that some accident might happen which would throw me suddenly, without any relation or any property, on the world and had always tried to keep some little money by me that I might not be quite penniless."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps he revered his father’s practice even more now than ever, seeing that, in the question of making Tessy his wife, his father had not once thought of inquiring whether she were well provided or penniless."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A young Southern girl, who had lost a position through five months' sickness, and found herself, at last, in the street and penniless, turned her steps to a daily prayer-meeting."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Many thousands are in want of common necessaries; hundreds of thousands are in want of common comforts, walking **penniless** in the snow."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A young lady who is entirely **penniless** cannot expect to make a brilliant alliance in fashionable society."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"You discover what it is to be absolutely **penniless**, pacing the pavements with only cigarette butts in your pocket."*

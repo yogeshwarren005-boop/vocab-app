@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty or destitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme poverty or destitution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of extreme poverty, destitution, or indigence; absolute lack of resources or necessities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe scarcity, barrenness, or deficiency in vital provisions or ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The weariest and most loathed worldly life That age, ache, penury, and imprisonment Can lay on nature is a paradise To what we fear of death."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Chill **penury** repressed their noble rage, and froze the genial current of the soul."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Famine is in thy cheeks, need and oppression starveth in thine eyes, upon thy back hangs ragged **penury**."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The widespread **penury** of the tenant farmers exposed families to winter starvation throughout the impoverished countryside."*

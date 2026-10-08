@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lacking money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be niggardly with money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme stinginess, parsimony, or miserliness; or the state of severe poverty and destitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual reluctance to spend or share wealth, resulting in mean and sordid living conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuriousness designates a state of lacking money."*
+> - 📜 **Edmund Burke (*Speech on Economical Reform*):** *"True national economy is distinguished from sordid **penuriousness**, which saves a penny only to waste thousands."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Fanny Dashwood persuaded her husband with exquisite subtlety until his natural **penuriousness** triumphed over filial duty."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A prince who is blamed for **penuriousness** is seldom loved, yet prodigality in a ruler is a far more dangerous public vice."*

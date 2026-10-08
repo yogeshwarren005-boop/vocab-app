@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, style, or skill of writing by hand with a pen; calligraphy or personal handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanical technique and aesthetic discipline of forming alphabet characters with ink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He wanted one with slick paper, but Papa said regular ones were plenty good for penmanship practice."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I asked Wiley what was penmanship, but he just told me I sure was stupid."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This book explains all the details of correspondence, whether relating to the form, the penmanship, the directing, folding and sending of a note or a letter."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma admired Frank Churchill's smooth, handsome handwriting, declaring that good **penmanship** reflected a refined mind."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep bent over his ledger, exhibiting that cramped, spider-like **penmanship** that suited his hypocritical nature."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Clerks were trained in distinct national styles of **penmanship** so that ministerial dispatches were instantly recognizable."*

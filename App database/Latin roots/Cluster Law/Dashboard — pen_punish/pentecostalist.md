@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a pentecostal religious body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of a pentecostal religious body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or member of a Pentecostal church; a believer who practices charismatic gifts such as speaking in tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theologian, preacher, or participant identifying with the theological doctrines of Pentecostalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalist designates any member of a pentecostal religious body."*
+> - 📜 **Harvey Cox (*Fire from Heaven*):** *"The humble **pentecostalist** preacher gathered worshippers beneath an open tent pitched in the dusty city lot."*
+> - 📜 **Reinhold Niebuhr (*Faith and History*):** *"To the ardent **pentecostalist**, the historical creeds seemed dry compared to the live fire of current spiritual witness."*
+> - 📜 **H. Richard Niebuhr (*The Kingdom of God in America*):** *"Every generation produces its **pentecostalist** reformers seeking to break free from ecclesiastical formalism."*

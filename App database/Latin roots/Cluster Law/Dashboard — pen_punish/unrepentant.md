@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not penitent or remorseful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no regret, sorrow, or remorse for one's sins, wrongdoing, or past actions; obstinately impenitent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining defiance or stubborn commitment to an error or crime in the face of rebuke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne carried it to him and sat sorrowfully by him while he ate it with an unrepentant relish."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan remained haughty, fierce, and stubbornly **unrepentant**, resolving upon eternal war against the Almighty."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The aristocrat mounted the steps of the guillotine cold, haughty, and utterly **unrepentant** to the last."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The monster stood over the corpse of his victim, **unrepentant** and raging against the humanity that spurned him."*

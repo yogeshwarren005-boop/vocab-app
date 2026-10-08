@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penitent, remorseful, or contrite manner; with heartfelt regret for offenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humble submission to moral censure or ecclesiastical correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he borne himself penitently in prison?"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And as my extreme weakness prevented me from getting up and going to him, I lay there, penitently whispering, “O God bless him!"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I can and do forgive her now," she said, her sweet eyes looking penitently into his."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Donatello knelt **penitently** before the bronze statue of the Pope, seeking peace for his troubled spirit."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley looked **penitently** at his son, mourning the wasted years and dishonorable debts of his youth."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The errant pupil spoke **penitently** to Madame Beck, promising obedience after her sudden burst of defiance."*

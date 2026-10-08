@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus thlaspi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus thlaspi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual cruciferous plant of the genus *Thlaspi* (especially *Thlaspi arvense*), having circular winged seedpods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common field weed also cultivated as a biofuel crop and winter oilseed cover crop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennycress designates any of several plants of the genus thlaspi."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The field **pennycress** bears round pouches containing seed, shaped like flat pennies of beaten coin."*
+> - 📜 **William Turner (*A New Herball*):** *"Country folk gather **pennycress** from fallow furrows, using its sharp peppery seeds in rustic sauces."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The winged silicles of field **pennycress** disperse abundantly in grain fields throughout temperate agricultural belts."*

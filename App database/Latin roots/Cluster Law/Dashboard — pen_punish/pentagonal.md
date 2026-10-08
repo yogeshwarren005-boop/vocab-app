@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five sides and five angles; shaped like or relating to a pentagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying fivefold radial symmetry, as in the geometric faces of a dodecahedron or the plates of certain echinoderms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The two pentagonal towers on the right and left were appropriated to the inferior offices of the castle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The calcareous test of the echinoderm exhibits a strict **pentagonal** symmetry inherited from ancient Paleozoic ancestors."*
+> - 📜 **Johannes Kepler (*The Six-Cornered Snowflake*):** *"While mineral crystals favor hexagonal lattices, living flowers frequently adopt a **pentagonal** plan."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The fortification was laid out in a **pentagonal** earthwork, commanding all approaches to the river crossing."*

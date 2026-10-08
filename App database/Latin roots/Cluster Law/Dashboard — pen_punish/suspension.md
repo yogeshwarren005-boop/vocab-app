@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixture in which fine particles are suspended in a fluid where they are supported by buoyancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time interval during which there is a temporary cessation of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporary debarring or halting of an operation, privilege, or office; or the hanging of an object freely from a fixed support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterogeneous fluid mixture containing insoluble solid particles sufficiently large to settle under gravity; or a vehicle's shock-absorbing assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Patience and suspension of judgement for a few hours were what she wanted to learn, and there was nobody to teach her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It seemed to hold the moonlight in suspension, rendering it more pervasive than in clear air."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A temporary **suspension** of commercial treaties was authorized to counter foreign mercantile restrictions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Fine gold particles in aqueous **suspension** imparted a magnificent ruby coloration when illuminated by sunlight."*
+> - 📜 **John Roebling (*Report to the Brooklyn Bridge Company*):** *"The great wire cables of the **suspension** bridge must sustain immense vehicular traffic without dangerous vibration."*

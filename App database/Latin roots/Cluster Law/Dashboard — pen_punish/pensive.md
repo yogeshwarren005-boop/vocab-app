@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing pensive sadness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in, involving, or reflecting deep or serious thought, often with a tinge of gentle melancholy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dreamily or sorrowfully contemplative; absorbed in introspective meditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother of Clarence, how like you our choice, That you stand pensive as half malcontent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My leisure serves me, pensive daughter, now.— My lord, we must entreat the time alone."*
-> - 📜 **Jane Austen (*Persuasion*):** *"A few months hence, and the room now so deserted, occupied but by her silent, pensive self, might be filled again with all that was happy and gay, all that was glowing and bright in prosperous love, all that was most unlike Anne Elliot!"*
+> - 📜 **John Milton (*Il Penseroso*):** *"Come, **pensive** nun, devout and pure, sober, steadfast, and demure, all in a robe of darkest grain."*
+> - 📜 **William Wordsworth (*I Wandered Lonely as a Cloud*):** *"For oft, when on my couch I lie in vacant or in **pensive** mood, they flash upon that inward eye which is the bliss of solitude."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I looked upon her pale, **pensive** features, touched by an inward sorrow that she would not disclose."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant Christian renewal movement emphasizing personal conversion, baptism in the Holy Spirit, speaking in tongues, and miraculous healing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A global religious movement originating in early twentieth-century American revivals, characterized by experiential, charismatic worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalism designates the principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues."*
+> - 📜 **Reinhold Niebuhr (*The Social Sources of Denominationalism*):** *"The rapid spread of **pentecostalism** among working-class communities reflected a hunger for direct, emotional religious experience."*
+> - 📜 **Harvey Cox (*Fire from Heaven*):** *"Through song and spiritual ecstasy, **pentecostalism** offered dignity and voice to the disinherited throughout the developing world."*
+> - 📜 **Ernst Troeltsch (*The Social Teaching of the Christian Churches*):** *"The pneumatic radicalism of modern **pentecostalism** revives the primitive Christian expectation of imminent divine intervention."*

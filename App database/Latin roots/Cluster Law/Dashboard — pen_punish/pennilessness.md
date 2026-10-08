@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lacking money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of lacking money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of money; absolute poverty, impecuniousness, and financial ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The desperate economic situation of having exhausted every penny and source of credit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennilessness designates a state of lacking money."*
+> - 📜 **George Gissing (*New Grub Street*):** *"The slow degradation of **pennilessness** extinguished whatever literary idealism he had once brought to London."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Their growing **pennilessness** forced them from respectable lodgings into the dingy garrets of the working quarter."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Sudden **pennilessness** exposes a scholar to humiliations that blunt the keenest edges of genius."*

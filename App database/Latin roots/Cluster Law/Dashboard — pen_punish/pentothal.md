@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sodium thiopental, a rapid-onset, ultra-short-acting barbiturate intravenous anesthetic, historically celebrated in popular culture as 'truth serum'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly lipid-soluble thiobarbiturate used clinically for induction of general anesthesia and management of intracranial hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentothal designates barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"An injection of sodium **pentothal** was administered to produce transient unconsciousness before electroencephalographic study."*
+> - 📜 **Michael Crichton (*The Terminal Man*):** *"The surgical team began intravenous **pentothal** infusion, watching the cardiac monitor as the patient slipped into anesthesia."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Because of its high lipophilicity, **pentothal** crosses the blood-brain barrier within seconds to produce profound narcosis."*

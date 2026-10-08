@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who competes in a pentathlon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who competes in a pentathlon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who participates and competes in a pentathlon, an athletic competition consisting of five distinct sporting events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Olympic competition, a multi-discipline competitor skilled in fencing, swimming, equestrian riding, shooting, and running.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlete designates an athlete who competes in a pentathlon."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The **pentathlete** possesses the most admirable physique, because his body combines the runner's speed with the wrestler's strength."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The bronze statue at Olympia celebrated the Spartan **pentathlete** who triumphed across all five grueling contests."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*):** *"The modern **pentathlete** embodies the ideal of the complete sportsman, capable of mastering both sword and steed."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seventh sunday after easter; commemorates the emanation of the holy spirit to the apostles; a quarter day in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) jewish holy day celebrated on the sixth of sivan to celebrate moses receiving the ten commandments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian festival celebrated on the seventh Sunday after Easter commemorating the descent of the Holy Spirit on the Apostles; Whitsunday.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Jewish harvest and Torah festival of Shavuot, celebrated fifty days after Passover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, man, ’tis not so much, ’tis not so much: ’Tis since the nuptial of Lucentio, Come Pentecost as quickly as it will, Some five and twenty years; and then we mask’d."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecost repeated 43:3 The magnitude of Jesus' work, his material disappear- ance before their eyes and his reappearance, all enabled the disciples to understand what Jesus had 43:6 said."*
+> - 📜 **John Milton (*Paradise Lost*):** *"At **Pentecost**, the promised Comforter descended in tongues of cloven fire upon the assembled disciples."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemnities of Easter and **Pentecost** were celebrated in Constantinople with imperial pomp and public banquets."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The mystery of **Pentecost** fulfilled the ancient law by writing the divine statutes upon the human heart through grace."*

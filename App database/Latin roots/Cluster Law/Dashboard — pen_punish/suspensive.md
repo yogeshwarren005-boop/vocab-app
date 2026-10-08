@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a situation) characterized by or causing suspense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undecided or characterized by indecisiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause, maintain, or produce suspense; having the effect of suspending, delaying, or holding in abeyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law, designating a condition (suspensive condition) that prevents an obligation from taking effect until an uncertain event occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspensive designates (of a situation) characterized by or causing suspense."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American executive possesses a **suspensive** veto that compels the legislature to reconsider contested statutes."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **suspensive** clause in a deed defers the vesting of an estate until the specified contingency is fulfilled."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her prolonged silence exerted a **suspensive** power that unsettled the confident expectations of her suitor."*

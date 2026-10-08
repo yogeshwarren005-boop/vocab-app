@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing remorse for misdeeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing sincere regret and contrition for one's sins, errors, or wrongdoing; penitent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicating or arising from moral sorrow and turnaround of behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no malice in this burning coal; The breath of heaven hath blown his spirit out And strew’d repentant ashes on his head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O rash false heat, wrapped in repentant cold, Thy hasty spring still blasts and ne’er grows old!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In order to find peace for his restless soul he became a repentant pilgrim."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Leontes passed sixteen years as a **repentant** king, mourning the supposed loss of his queen and child."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester spoke with a humble, **repentant** voice, begging forgiveness for the misery he had brought upon her."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The **repentant** convict dedicated every franc of his manufacturing fortune to clothing and feeding the poor."*

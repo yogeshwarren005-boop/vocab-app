@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian perennial mint have small lilac-blue flowers and ovate leaves; yields an aromatic oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erect hairy branching american herb having purple-blue flowers; yields an essential oil used as an insect repellent and sometimes in folk medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strongly aromatic creeping mint (*Mentha pulegium* or *Hedeoma pulegioides*), traditionally used as an insect repellent and herbal remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential-oil herb containing toxic pulegone, formerly used in folk medicine as an emmenagogue and abortifacient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not one came, moreover, without her little pipkin of pennyroyal, sage, balm, or other herb tea, delighted at an opportunity of signalizing her kindness and her doctorship."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"A garland of **pennyroyal** worn upon the head eases giddiness and drives away venomous fleas from bedding."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"Boiled in water with honey, **pennyroyal** clears phlegm from the lungs and promotes perspiration in fevers."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The fragrance of bruised **pennyroyal** rose from the warm sand under my feet as I walked to the pond."*

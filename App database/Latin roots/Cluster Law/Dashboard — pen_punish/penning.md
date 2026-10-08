@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of creating written works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce a literary work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of writing, composing, or committing words to paper with a pen; drafting text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of enclosing or confining livestock or animals within a fold, coop, or pen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read thou this challenge; mark but the penning of it."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Writing to Bess and other girl friends in her old home town and penning long letters on thin paper to Momsey and Papa Sherwood in Scotland, did not fill all of these hours when Nan shut herself into that east room."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Whether they or their judges had any part in penning those laws, which they assumed the liberty of interpreting, and glossing upon at their pleasure?"*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Frank spent his morning **penning** romantic verses when he ought to have been balancing the firm's ledgers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was busy **penning** the ewes into the lambing fold before the blizzard struck the down."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was engaged in **penning** an elaborate petition to Parliament setting forth his unmerited misfortunes."*

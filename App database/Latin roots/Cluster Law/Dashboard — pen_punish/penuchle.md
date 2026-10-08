@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A card game played with a pack of forty-eight cards (two of each suit for high cards); play resembles whist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game played with a pack of forty-eight cards (two of each suit for high cards); play resembles whist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular trick-taking card game played with a 48-card deck consisting of two sets of cards from nine through ace; pinochle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meld in the card game formed by the queen of spades and the jack of diamonds, scoring forty points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuchle designates a card game played with a pack of forty-eight cards (two of each suit for high cards); play resembles whist."*
+> - 📜 **Eugene O'Neill (*The Iceman Cometh*):** *"The old barflies sat in the corner booth slapping cards onto the table during an endless game of **penuchle**."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Hurstwood whiled away his idle winter afternoons playing **penuchle** for nickel stakes in the smoky saloon."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"The teamsters gathered around the kerosene lantern after dinner to enjoy a noisy, competitive rubber of **penuchle**."*

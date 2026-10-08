@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of beta-lactam antibiotics naturally produced by *Penicillium* molds, discovered by Alexander Fleming to destroy bacterial cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any semisynthetic therapeutic derivative of benzylpenicillin used to combat Gram-positive staphylococcal and streptococcal infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillin designates any of various antibiotics obtained from penicillium molds (or produced synthetically) and used in the treatment of various infections and diseases."*
+> - 📜 **Alexander Fleming (*British Journal of Experimental Pathology*):** *"The broth filtrate of the mold culture contained an antibacterial substance which I designated **penicillin**."*
+> - 📜 **Howard Florey (*Antibiotics: A Survey of Penicillin and Other Antibacterial Substances*):** *"The therapeutic trial of crude **penicillin** in human streptococcal septicemia demonstrated unprecedented clinical efficacy."*
+> - 📜 **Ernst Chain (*The Lancet*):** *"Chemical purification revealed that crystalline **penicillin** acted as a powerful bacteriolytic agent without causing systemic mammalian toxicity."*

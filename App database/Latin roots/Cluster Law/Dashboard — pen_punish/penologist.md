@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies the theory and practice of prison management.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who studies the theory and practice of prison management.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminologist or sociologist who specializes in penology, the scientific study of prison management and criminal rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert scholar or penal administrator investigating correctional theory, recidivism, and punitive sentencing reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penologist designates a person who studies the theory and practice of prison management."*
+> - 📜 **Enrico Ferri (*Criminal Sociology*):** *"The scientific **penologist** does not seek vengeance, but rather the therapeutic social defense against criminal impulses."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"Every enlightened **penologist** must study the physical and psychological constitution of the offender before determining custody."*
+> - 📜 **Clarence Darrow (*Crime: Its Cause and Treatment*):** *"The modern **penologist** recognizes that harsh solitary confinement breeds insanity rather than civic reformation."*

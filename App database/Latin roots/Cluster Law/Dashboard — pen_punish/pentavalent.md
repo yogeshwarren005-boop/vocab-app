@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of five.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of five.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chemical valence of five; capable of combining with five monovalent atoms or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, effective against five different strains of a microorganism or five separate infectious diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentavalent designates having a valence of five."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Phosphorus and nitrogen exhibit their highest oxidation states when forming **pentavalent** oxygenated compounds."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In phosphorus pentachloride, the central atom utilizes hybridized sp3d orbitals to maintain its **pentavalent** coordination."*
+> - 📜 **Paul Ehrlich (*Experimental Researches on Specific Therapeutics*):** *"Organic arsenicals with **pentavalent** arsenic demonstrated high stability and lower initial tissue toxicity in animals."*

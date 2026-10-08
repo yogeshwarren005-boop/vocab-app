@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having feathered wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having feathered wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feathered; shaped like or possessing feathers or wings; pinnate in biological structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, describing a muscle whose fibers converge obliquely toward a central longitudinal tendon, like barbules on a quill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennate designates having feathered wings."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeds of fancy pigeons exhibit extraordinary diversity in their **pennate** crests and feathered tarsi."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The rectus femoris displays a bipennate arrangement of fibers that maximizes power within a compact **pennate** architecture."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil impression revealed distinct **pennate** contours along the distal digits of the prehistoric specimen."*

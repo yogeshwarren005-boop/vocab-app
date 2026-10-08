@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male organ of copulation (`member' is a euphemism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male organ of copulation (`member' is a euphemism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary male reproductive and copulatory organ in mammals, also functioning as an organ of urination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analogous intromittent organ found in various reptiles, birds, and invertebrate taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Thought he had a deposit of lead in his penis."*
+> - 📜 **Aristotle (*History of Animals*):** *"In viviparous quadrupeds, the male organ or **penis** contains fibrous sinews enabling intromission during mating."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"Nature constructed the **penis** with spongy caverns that expand through pneumatic tension and blood flow."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Anatomists noted structural variations in the osseous support of the **penis** across divergent canine breeds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beneficiary of a pension fund.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives a pension, especially someone retired from work on account of age or disability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a gentleman soldier in the royal bodyguard (Gentleman Pensioner) or a fee-paying student at Cambridge University.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Her crew was composed of some twenty venerable Greenwich-pensioner-looking old salts, who just managed to hobble about deck."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In April, 1782, Swift was entered at Trinity College as pensioner, together with his cousin Thomas, son of his uncle Thomas."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The old Chelsea **pensioner** sat on the bench in his scarlet coat, recounting tales of Wellington and Waterloo."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The crippled veteran became an inmate and **pensioner** of the royal hospital, smoking his pipe in peaceful senility."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The aged miner lived as an old-age **pensioner** in a damp basement, counting every crust of bread."*

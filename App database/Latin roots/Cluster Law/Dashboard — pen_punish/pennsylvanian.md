@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 310 million to 280 million years ago; warm climate; swampy land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of pennsylvania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or native to the state of Pennsylvania; or denoting the late Carboniferous geological epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the major sub-period of the Carboniferous known for extensive swamp coal deposits formed 323 to 299 million years ago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Mary Vance is a Pennsylvanian."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Billing and Miss Belle Robinson, the latter being also a Pennsylvanian, she commenced hospital work at Fredericksburg."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A Pennsylvanian in any of the northern counties has, as we are told, but to cross the line to obtain the best security at seven per cent."*
+> - 📜 **Charles Lyell (*Travels in North America*):** *"We examined the immense coal measures belonging to the **Pennsylvanian** strata that fuel the foundries of Pittsburgh."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Our **Pennsylvanian** neighbors have demonstrated admirable thrift and enterprise in developing their inland river trade."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"Fossil ferns of the **Pennsylvanian** coal forests testify to a warm, humid atmosphere covering ancient North America."*

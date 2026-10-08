@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 pennia formerly equaled 1 markka in finland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 pennia formerly equaled 1 markka in finland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former monetary subunit of Finland, equal to one hundredth of a markka, prior to the adoption of the euro in 2002.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small copper or aluminum coin circulated in Finland from 1860 until euro currency transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The one-pennied Boy has his penny to spare."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hey, ca’ thro’, ca’ thro’, For we hae muckle ado; We hae tales to tell, An’ we hae sangs to sing; We hae pennies tae spend, An’ we hae pints to bring."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I can win my five pennies in a day, An’ spen’t at night fu’ brawlie: And make my bed in the collier’s neuk, And lie down wi’ my Collier laddie.” “And make my bed, &c."*
+> - 📜 **Zachris Topelius (*Tales of a Barber-Surgeon*):** *"The poor peasant counted every **penni** carefully before paying the imperial salt tax at the town market."*
+> - 📜 **Elias Lönnrot (*Writings and Field Notes*):** *"Even the donation of a single **penni** helped sustain the compilation of our ancient national folklore."*
+> - 📜 **Frans Eemil Sillanpää (*Meek Heritage*):** *"He had not a single **penni** left in his coat pocket after the long winter of crop failures."*

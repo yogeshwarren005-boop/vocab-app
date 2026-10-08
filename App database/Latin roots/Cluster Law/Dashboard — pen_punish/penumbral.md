@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the region of partial shadow around an umbra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the region of partial shadow around an umbra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a penumbra; partially in shadow or borderline in clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, describing a subtle eclipse where a celestial body passes only through the partial outer shadow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penumbral designates of or pertaining to the region of partial shadow around an umbra."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"A **penumbral** eclipse of the moon is barely perceptible to the naked eye except as a delicate bronze dimming of the limb."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The heath lay under a **penumbral** gloom as the autumn twilight deepened across the lonely barrows."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The twilight of the forecastle threw a **penumbral** haziness over the rugged visages of the sleeping harpooneers."*

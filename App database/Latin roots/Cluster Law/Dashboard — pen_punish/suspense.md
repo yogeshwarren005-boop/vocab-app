@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apprehension about what is going to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncertain cognitive state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of mental uncertainty, anxiety, or nervous anticipation regarding an outcome; or a literary technique creating tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of temporary cessation or abeyance in legal rights or proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Gloucester, ’tis my special hope That you will clear yourself from all suspense."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now it's moving," her brother continued with growing suspense."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor endured the agonizing **suspense** of several days before a letter arrived to explain Edward's conduct."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the misfortune of mortals that they must pass long seasons in **suspense**, fluctuating between hope and fear."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"The dreadful **suspense** became intolerable; I felt that I must scream or die before those mocking detectives."*

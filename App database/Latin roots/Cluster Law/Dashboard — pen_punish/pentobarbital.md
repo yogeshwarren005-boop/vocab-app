@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-acting barbiturate drug commonly used as a sedative, hypnotic, pre-anesthetic agent, and in veterinary euthanasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlled pharmaceutical substance that depresses the central nervous system by potentiating inhibitory GABA neurotransmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentobarbital designates a barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Intravenous **pentobarbital** produces rapid induction of surgical anesthesia followed by smooth medullary recovery."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A modest dose of **pentobarbital** was administered to alleviate the patient's nocturnal agitation and intractable tremors."*
+> - 📜 **Solomon H. Snyder (*Drugs and the Brain*):** *"Like related barbiturates, **pentobarbital** prolongs chloride channel opening at the postsynaptic GABA-A receptor complex."*

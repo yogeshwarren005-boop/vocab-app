@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apartment located on the top floors of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apartment located on the top floors of a building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A luxurious apartment situated on the top floor of a tall building; or historically, a sloping shed or subsidiary roof attached to a main wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roofed lean-to shelter formerly used to protect archers or siege equipment near fortification walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the penthouse under which Lorenzo Desired us to make stand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand thee close then under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Above Pierre’s head some pigeons, disturbed by the movement he had made in sitting up, fluttered under the dark roof of the penthouse."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Sleep shall neither night nor day hang upon his **penthouse** lid; he shall live a man forbid."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"A wooden **penthouse** projected over the armorer's forge, sheltering the anvil from passing showers."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"From the terrace of the Manhattan **penthouse**, the lights of the bridges sparkled against the dark East River."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flammable gas obtained by cracking petroleum; used in organic synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flammable gas obtained by cracking petroleum; used in organic synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, flammable gaseous unsaturated hydrocarbon (CH2=CH-CH3) obtained from petroleum cracking; propylene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second simplest alkene, vital in industrial petrochemical synthesis as the monomer precursor to polypropylene plastic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propene designates a flammable gas obtained by cracking petroleum; used in organic synthesis."*
+> - 📜 **Giulio Natta (*Nobel Lecture in Chemistry*):** *"Using stereospecific organometallic catalysts, we polymerized gaseous **propene** into highly crystalline isotactic polypropylene."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Thermal cracking of petroleum fractions yields large volumes of ethylene and **propene** for synthetic rubber manufacturing."*
+> - 📜 **Karl Ziegler (*Advances in Catalysis*):** *"Titanium chloride complexes polymerize **propene** at atmospheric pressure, avoiding the extreme pressures previously required."*

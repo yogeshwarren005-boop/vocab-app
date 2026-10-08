@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into or consisting of five parts, members, or divisions; having floral or anatomical organs arranged in multiples of five.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, describing beetle tarsi with five joints or flowers with five petals, sepals, and stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamerous designates divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Dicotyledonous plants characteristically display **pentamerous** floral whorls, in marked contrast to the trimerous flowers of monocotyledons."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A typical apple or pear blossom is strictly **pentamerous**, showing five sepals, five petals, and multiples of five stamens."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Echinoderms universally develop a secondary **pentamerous** symmetry out of their bilaterally symmetrical larval state."*

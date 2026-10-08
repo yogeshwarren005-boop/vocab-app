@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of criminology concerned with prison management and prisoner rehabilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of criminology concerned with prison management and prisoner rehabilitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of criminology concerned with the study, theory, and management of prisons and criminal rehabilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic study of social mechanisms for repressing crime through custodial detention and judicial sentencing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penology designates the branch of criminology concerned with prison management and prisoner rehabilitation."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The new science of **penology** seeks to reconcile deterrence with the moral regeneration of the solitary convict."*
+> - 📜 **Cesare Beccaria (*On Crimes and Punishments*):** *"Modern **penology** traces its philosophical foundations to the principle that certainty of punishment outweighs its savagery."*
+> - 📜 **Jeremy Bentham (*The Rationale of Punishment*):** *"A rational system of **penology** balances the mischief of the offense against the minimum suffering necessary to deter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by penicillin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by penicillin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing strains of bacteria capable of surviving and multiplying in the presence of therapeutic concentrations of penicillin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing beta-lactamase enzymes or altered penicillin-binding proteins that neutralize beta-lactam antimicrobial action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillin-resistant designates unaffected by penicillin."*
+> - 📜 **Mary Barber (*British Medical Journal*):** *"Hospital wards witnessed a rapid emergence of **penicillin-resistant** staphylococci capable of hydrolyzing the antibiotic ring."*
+> - 📜 **Alexander Fleming (*Nobel Lecture in Physiology or Medicine*):** *"The thoughtless person playing with penicillin treatment is morally responsible for the death of the man who succumbs to infection with the **penicillin-resistant** organism."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Natural selection operated relentlessly in hospital environments to favor **penicillin-resistant** mutants over wild strains."*

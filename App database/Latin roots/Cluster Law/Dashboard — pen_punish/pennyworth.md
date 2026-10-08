@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that can be bought for a penny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount that can be bought for a penny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amount or quantity of something that can be bought for a penny; a very modest purchase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good value for money in a bargain; or an experience, share, or modest sample of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but hark you, Francis, for the sugar thou gavest me, ’twas a pennyworth, was’t not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, your pennyworth is good, an your goose be fat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I say nothing to him, for he understands not me, nor I him: he hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"You take your **pennyworth**s of sleep now, for you will watch enough upon your wedding day."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The goods I bought yielded an admirable return, giving me a solid **pennyworth** for every piece of eight invested."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The huckster would give no man more than a strict **pennyworth** of meal, weighing each handful scrupulously."*

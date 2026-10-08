@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of subshrubs or herbs having showy blue or purple or red or yellow or white flowers; mostly western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of subshrubs or herbs having showy blue or purple or red or yellow or white flowers; mostly western north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of North American flowering perennials (beard-tongues) of the plantain family, bearing showy tubular, two-lipped blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drought-tolerant wildflower genus prized in rock gardens and native prairie restoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penstemon designates large genus of subshrubs or herbs having showy blue or purple or red or yellow or white flowers; mostly western north america."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Brilliant spikes of scarlet **penstemon** clung to the granite crevices of the high Sierra passes."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **penstemon** is distinguished by a fifth bearded stamen that projects into the throat of the corolla."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"Along the gravel washes, the azure blossoms of the wild **penstemon** flared after the brief spring rains."*

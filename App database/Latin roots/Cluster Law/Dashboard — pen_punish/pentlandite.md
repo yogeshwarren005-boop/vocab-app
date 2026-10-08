@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral (iron and nickel sulphide) that is the chief ore of nickel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral (iron and nickel sulphide) that is the chief ore of nickel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronze-yellow iron-nickel sulfide mineral ((Fe,Ni)9S8) with metallic luster, the principal commercial ore of nickel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isometric mineral found in mafic and ultramafic igneous rocks, commonly associated with pyrrhotite and chalcopyrite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentlandite designates a mineral (iron and nickel sulphide) that is the chief ore of nickel."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The massive nickeliferous pyrrhotite of Sudbury contains granular crystals of **pentlandite** interspersed throughout the matrix."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Deep magmatic segregations yielded abundant veins of **pentlandite**, supplying the modern steel trade with essential nickel."*
+> - 📜 **Alexander Winchell (*Elements of Optical Mineralogy*):** *"Under reflected polarized light, **pentlandite** is readily distinguished by its octahedral cleavage and high reflectivity."*

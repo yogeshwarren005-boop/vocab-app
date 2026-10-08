@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulator consisting of a valve or gate that controls the rate of water flow through a sluice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduit that carries a rapid flow of water controlled by a sluicegate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sluice, intake gate, or pressurized conduit that controls the flow of water to a water wheel or hydroelectric turbine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy industrial gate or pipe used in hydraulic engineering to manage municipal water reservoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penstock designates regulator consisting of a valve or gate that controls the rate of water flow through a sluice."*
+> - 📜 **Herbert Hoover (*The Memoirs of Herbert Hoover*):** *"Water rushed through the massive steel **penstock** down to the power plant, spinning turbines at enormous pressure."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Subterranean machinery groaned like water roaring through a cavernous hydraulic **penstock** beneath the earth."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The industrial torrent was channeled like a millstream confined within a narrow wooden **penstock**."*

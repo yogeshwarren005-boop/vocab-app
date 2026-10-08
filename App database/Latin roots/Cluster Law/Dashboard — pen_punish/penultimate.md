@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Next to the last.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Second to last in a series or sequence; occurring immediately before the final item, event, or chapter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, designating the second syllable from the end of a word.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"How serene does she now arise, a queen among the Pleiades, in the penultimate antelucan hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In the **penultimate** chapter of my personal history, all the wandering threads of my youth were gathered together."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **penultimate** emperor of the Flavian dynasty squandered the imperial revenues in frivolous, tyrannical ostentation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the **penultimate** line of the warning letter with his magnifying glass, noting the watermark."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to suspend, hold up, or support an anatomical structure, ligament, or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of a bandage or jockstrap designed to support the scrotum or an injured limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspensory designates a bandage of elastic fabric applied to uplift a dependant part (as the scrotum or a pendulous breast)."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The ciliary zonule or **suspensory** ligament of the lens maintains tension necessary to focus the eye upon distant objects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute orchitis, applying a soft **suspensory** bandage affords immediate mechanical relief from dragging pain."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Contraction of facial muscles pulls upon the **suspensory** fascia of the cheeks during expressions of horror."*

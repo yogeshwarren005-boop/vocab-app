@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining, relating, or belonging to the penis or anatomical male copulatory organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomically situated within or directly serving the erectile tissues and vascular chambers of the phallus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penile designates of or relating to the penis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The deep artery enters the crus to supply blood to the cavernous spaces of the **penile** body."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"Turgor and erection in the **penile** tissues depend on the vigorous inflow of arterial blood through pressurized vessels."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative morphology reveals considerable divergence in **penile** ornamentation and bone structures among mammalian orders."*

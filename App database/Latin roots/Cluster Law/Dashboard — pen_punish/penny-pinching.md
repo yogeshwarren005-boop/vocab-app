@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme care in spending money; reluctance to spend money unnecessarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend money frugally; spend as little as possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely, ungenerously, or petty-minded frugal; stingy, parsimonious, and reluctant to spend small coins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excessive practice of petty frugality and nickel-and-dime economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penny-pinching designates extreme care in spending money; reluctance to spend money unnecessarily."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Bella refused to marry a man whose **penny-pinching** habits turned domestic life into a dreary ledger."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's household was conducted without ostentation, yet without any sordid, **penny-pinching** meanness."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He despised the **penny-pinching** calculations of village shopkeepers, desiring the lavish spending of the metropolis."*

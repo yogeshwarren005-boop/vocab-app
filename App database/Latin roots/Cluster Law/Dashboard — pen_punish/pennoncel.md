@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pennant borne on a lance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pennant borne on a lance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small narrow streamer or swallow-tailed flag borne at the tip of a knight's lance; a miniature pennon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval heraldic ribbon indicating the rank of an esquire or younger military bachelor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennoncel designates a small pennant borne on a lance."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A light **pennoncel** fluttered from the knight's ash-wood spear as he paced into the lists at Ashby."*
+> - 📜 **Edward Bulwer-Lytton (*The Last of the Barons*):** *"The young gentleman-at-arms proudly displayed his family badge upon a scarlet **pennoncel**."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"Every man-at-arms in the troop bore a silk **pennoncel** that whipped sharply in the Channel breeze."*

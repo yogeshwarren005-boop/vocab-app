@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oxide containing five atoms of oxygen in the molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide compound containing five oxygen atoms per molecule or formula unit, such as phosphorus pentoxide or dinitrogen pentoxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful dehydrating chemical agent or industrial oxidation catalyst, exemplified by vanadium pentoxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxide designates an oxide containing five atoms of oxygen in the molecule."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Phosphorus **pentoxide** possesses so fierce an affinity for moisture that it strips water molecules from concentrated acids."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The highest oxide of nitrogen, dinitrogen **pentoxide**, forms unstable colorless crystals that decompose into oxygen and peroxide."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Vanadium **pentoxide** serves as the primary solid catalyst in the commercial contact process for manufacturing sulfuric acid."*

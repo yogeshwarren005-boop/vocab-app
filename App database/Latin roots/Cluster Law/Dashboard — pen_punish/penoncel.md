@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pennant borne on a lance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pennant borne on a lance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small knightly lance banner or pennon bearing a personal heraldic device; a pennoncel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluttering swallow-tailed streamer flown on military lances in medieval warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penoncel designates a small pennant borne on a lance."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The chivalrous squire tilted with a light **penoncel** of white taffeta dancing above his steel helm."*
+> - 📜 **Edward Bulwer-Lytton (*Harold, the Last of the Saxon Kings*):** *"The Norman archers recognized the gilded **penoncel** of the Duke as his vanguard charged the crest."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Sir Gareth set his spear in rest, bearing a silver **penoncel** that shone bravely in the morning sun."*

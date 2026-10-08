@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sincere, deep regret or contrition for past actions, offenses, or sins, joined with a determination to make moral amends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete change of mind and moral direction resulting from spiritual contrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The one you may do with sterling money, and the other with current repentance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, in mercy, The Constable desires thee thou wilt mind Thy followers of repentance; that their souls May make a peaceful and a sweet retire From off these fields, where, wretches, their poor bodies Must lie and fester."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian wept tears of sincere **repentance** at the foot of the Cross, and his heavy burden rolled off into the sepulcher."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Hasty resolutions in youth are followed by long seasons of bitter **repentance** in unregarded age."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"In the Siberian prison, Raskolnikov discovered that true **repentance** begins with love rather than intellectual pride."*

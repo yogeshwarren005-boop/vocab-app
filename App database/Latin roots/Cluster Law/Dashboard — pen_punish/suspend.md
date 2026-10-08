@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hang freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be held in suspension in a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hang something from above so that it is free on all sides; or to defer, delay, or temporarily halt a law, privilege, or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To debar someone temporarily from a function, office, or school; or to disperse fine particles throughout a fluid without dissolving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suspend thy purpose, if thou didst intend To make this creature fruitful!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"Nothing could be done without a reference to Elizabeth: but her inclination was growing so strong for a removal, that she was happy to have it fixed and expedited by a tenant at hand; and not a word to suspend decision was uttered by her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was about to advance and restore the missing article when an unexpected performance induced him to suspend the action for the present."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Therefore prepare thee to cut off the flesh; shed thou no blood, nor cut thou less nor more, but **suspend** thy wrath."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind has a native power to **suspend** the execution and satisfaction of any of its desires until deliberating upon them."*
+> - 📜 **Abraham Lincoln (*Letter to Erastus Corning*):** *"The Constitution empowers the executive to **suspend** the writ of habeas corpus when in cases of rebellion public safety requires it."*

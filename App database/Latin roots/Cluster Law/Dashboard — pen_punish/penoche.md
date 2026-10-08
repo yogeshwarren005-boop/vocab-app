@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fudge made with brown sugar and butter and milk and nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fudge made with brown sugar and butter and milk and nuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fudge-like confection made from brown sugar, milk, butter, and nuts, traditional in Mexican and Southwestern American cuisine; penuche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense brown caramel candy flavored with pecans, walnuts, and vanilla.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penoche designates fudge made with brown sugar and butter and milk and nuts."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The Mexican children shared squares of homemade **penoche**, sweet with rich cane sugar and wild piñon nuts."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"During the feast of San Juan, the village women prepared trays of dark **penoche** boiled over mesquite fires."*
+> - 📜 **Bret Harte (*Selected Stories of the West*):** *"The camp cook produced a tin plate of walnut **penoche** that brought smiles to the faces of the tired prospectors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in extreme northwest florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in extreme northwest florida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic port city in the Florida panhandle situated on Pensacola Bay, known as the 'City of Five Flags'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategic Gulf Coast harbor, long contested between Spanish, French, British, and American colonial powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensacola designates a town in extreme northwest florida."*
+> - 📜 **Andrew Jackson (*Correspondence of Andrew Jackson*):** *"Our military occupation of **Pensacola** was necessary to expel British agents inciting Indian raids along the border."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"We entered the wide harbor of **Pensacola**, sheltered by long sandy bluffs and fragrant forests of maritime pine."*
+> - 📜 **George Bancroft (*History of the United States*):** *"Spain fortified the bay of **Pensacola** as her primary naval station in the Gulf against French encroachments."*

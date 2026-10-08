@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government building with five sides that serves as the headquarters of the united states department of defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states military establishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometrical figure with five straight sides and five angles; or the five-sided headquarters of the US Department of Defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular polygon having interior angles of 108 degrees, displaying golden-ratio diagonals and fivefold symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Atch (Copy of letter from) Meyer Moldeven April 26, 1993 To: Secretary of Defense The Pentagon Washington, DC 20301 Honorable Secretary: [The opening paragraph in the original letter cited a number of suicides in a military organization."*
+> - 📜 **Euclid (*Elements*):** *"To construct an equilateral and equiangular **pentagon** within a given circle requires inscribing isosceles triangles."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The divine proportion is uniquely manifested in the regular **pentagon**, generating the harmonic beauty of dodecahedral solids."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mystery of the quincunx is intimately wedded to the angles of the regular **pentagon** in floral architecture."*

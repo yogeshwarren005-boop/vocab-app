@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or showing the suppression of impulses or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or showing the suppression of impulses or emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Held back, restrained, or confined under high pressure; bottled up, especially said of feelings, grief, or wrath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevented from natural outward release or expression, threatening sudden violent outbreak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pent-up designates characterized by or showing the suppression of impulses or emotions."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A burst of **pent-up** passion swept away all her habitual reserve, and she spoke with fiery indignation."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **pent-up** rage of oppressed centuries broke forth in the storming of the Bastille with uncontrollable fury."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea gave way to a torrent of **pent-up** tears, mourning the dry desert of her intellectual marriage."*

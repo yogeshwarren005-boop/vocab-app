@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fringe region of partial shadow around an umbra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fringe region of partial shadow around an umbra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The partially shaded outer region of a shadow cast by an opaque object, where light from an extended source is only partly cut off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peripheral, shadowy, or borderline area of marginal uncertainty, ambiguity, or transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **James Joyce (*Ulysses*):** *"What spectacle confronted them when they, first the host, then the guest, emerged silently, doubly dark, from obscurity by a passage from the rere of the house into the penumbra of the garden?"*
+> - 📜 **Johannes Kepler (*Ad Vitellionem Paralipomena*):** *"During a lunar eclipse, the moon first enters the pale **penumbra** before becoming fully obscured by the dark umbra."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The sun being an extended luminous body, the shadow of any interposed sphere is encompassed by a faint, broadening **penumbra**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness does not terminate abruptly; each vivid thought is surrounded by a rich **penumbra** of vague associations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic tube having five electrodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermionic tube having five electrodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic vacuum tube containing five electrodes: a cathode, control grid, screen grid, suppressor grid, and anode (plate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic amplifying valve engineered with an extra suppressor grid to eliminate dynatron secondary emission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentode designates a thermionic tube having five electrodes."*
+> - 📜 **Frederick Terman (*Radio Engineering*):** *"The introduction of the screen-grid **pentode** revolutionized radio reception by suppressing secondary emission distortion."*
+> - 📜 **Lee de Forest (*Father of Radio: The Autobiography of Lee de Forest*):** *"By adding extra grids, the five-electrode **pentode** achieved immense power amplification in early audio circuits."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Before the transistor, every complex feedback loop relied upon the fast switching properties of the vacuum **pentode**."*

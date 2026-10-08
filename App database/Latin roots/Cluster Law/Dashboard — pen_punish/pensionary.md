@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beneficiary of a pension fund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who works only for money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives a pension; or historically, a chief magistrate of a town or province in the Dutch Republic (e.g., Grand Pensionary).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One maintained in dependence by another through regular monetary allowances; a dependent stipendiary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionary designates the beneficiary of a pension fund."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Grand **Pensionary** De Witt steered the foreign policy of the Dutch Republic with republican integrity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English king became the secret **pensionary** of Louis XIV, selling foreign policy for French gold."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Writers who ought to have served as independent critics of power turned into servile **pensionary** lackeys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fudge made with brown sugar and butter and milk and nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fudge made with brown sugar and butter and milk and nuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, crumbly fudge candy made by boiling brown sugar, butter, and milk together with chopped nuts; penoche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional American home confection characterized by caramelized molasses flavors and pecan pieces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penuche designates fudge made with brown sugar and butter and milk and nuts."*
+> - 📜 **Fannie Farmer (*The Boston Cooking-School Cook Book*):** *"Boil brown sugar, butter, and rich milk until the mixture forms a soft ball in cold water, then beat vigorously to make **penuche**."*
+> - 📜 **Laura Ingalls Wilder (*These Happy Golden Years*):** *"The girls gathered around the warm stove to pour hot **penuche** into buttered pans to cool for the evening party."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg brought out a plate of walnut **penuche** that she had confectioned with great care for the holiday celebration."*

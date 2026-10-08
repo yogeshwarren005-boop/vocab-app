@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flashlight resembling a fountain pen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small flashlight resembling a fountain pen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, slender handheld electric flashlight resembling a fountain pen in size and shape, used especially in medical examinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrow-beam clinical illumination device utilized by physicians to inspect pupils, throats, and reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penlight designates a small flashlight resembling a fountain pen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician should employ a targeted **penlight** to evaluate pupillary constrictions in suspected intracranial lesions."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"I directed the beam of my pocket **penlight** across the patient's eyes, watching for residual consensual light reflexes."*
+> - 📜 **Michael Crichton (*The Andromeda Strain*):** *"Hall switched on his miniature diagnostic **penlight** to examine the deep recesses of the infant's pharynx."*

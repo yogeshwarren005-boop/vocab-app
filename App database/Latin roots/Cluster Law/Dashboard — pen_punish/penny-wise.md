@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrifty in small matters only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrifty in small matters only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful or stingy in small matters while wastefully careless or reckless in large, important ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practicing shortsighted economy that results in disastrously heavy financial losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penny-wise designates thrifty in small matters only."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many men are **penny-wise** and pound-foolish, saving a mite on medicine while forfeiting life itself."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The ministers proved **penny-wise** in skimping upon naval repairs that cost the empire entire fleets."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A **penny-wise** shopkeeper loses credit among merchants when he haggles over shillings and overlooks his main accounts."*

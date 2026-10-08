@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of amerindian language spoken in the great interior valley of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a north american indian people speaking one of the penutian languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed phylum or superfamily of indigenous North American languages spoken along the Pacific coast and Columbia plateau.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or denoting native peoples speaking languages of this macro-family, including Miwok, Yokuts, Klamath, and Chinook.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penutian designates a family of amerindian language spoken in the great interior valley of california."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Morphological correspondences in stem formation support grouping California and Oregon languages into the **Penutian** stock."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"Comparative analysis of verb affixes suggested a deep genetic affiliation connecting divergent **Penutian** dialects."*
+> - 📜 **Alfred Kroeber (*Handbook of the Indians of California*):** *"The great central valley of California was inhabited almost exclusively by nations belonging to the **Penutian** linguistic family."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of five syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of five syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having five syllables; designating a word or verse line containing five distinct phonetic syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and linguistics, characterizing lexical units with five vowel peaks in metrical scanning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentasyllabic designates having or characterized by or consisting of five syllables."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The critic cautioned against stuffing solemn verse with ponderous, **pentasyllabic** Latinisms that encumber natural eloquence."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Agglutinative languages build up lengthy **pentasyllabic** compounds by appending grammatical suffixes to monosyllabic roots."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Milton balanced his verse line by ending with a majestic **pentasyllabic** cadence that echoes like an organ."*

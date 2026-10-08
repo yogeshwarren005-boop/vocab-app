@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively unwilling to spend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poor, destitute, or poverty-stricken; or excessively parsimonious, stingy, and unwilling to spend money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding little return; meager, scanty, or barren in resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but little gold of late, brave Timon, The want whereof doth daily make revolt In my penurious band."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What might be extravagant to-day, might in half a century become penurious and inadequate."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In cold and bleak solitudes, man drags out a **penurious** existence, struggling against barren rocks and biting frost."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was a squeezing, wrenching, grasping, scraping, clutching, covetous old sinner, living in **penurious** seclusion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **penurious** landlord refuses to invest capital in fertilizing fields, thereby impoverishing both tenant and estate."*

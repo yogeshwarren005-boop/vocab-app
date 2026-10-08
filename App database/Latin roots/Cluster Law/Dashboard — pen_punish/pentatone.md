@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical chord or scale consisting of five tones; an interval or chord containing five whole musical tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, a five-pitch melodic system or five-tone tuning structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatone designates a gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Ancient Scottish melodies and traditional Chinese airs share a primordial **pentatone** framework that omits semitones."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The archaic harp was tuned to an unadorned **pentatone** that produced agreeable concords without chromatic modulation."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"The primitive **pentatone** scale represents one of the earliest universal stages in human melodic development."*

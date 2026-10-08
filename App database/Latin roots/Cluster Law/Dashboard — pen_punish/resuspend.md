@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put back into suspension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put back into suspension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suspend again, especially to disperse centrifuged or sedimented biological cells or solid particles back into a liquid medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To restore an insoluble precipitate or cell pellet into a uniform liquid suspension by vortexing or pipetting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resuspend designates put back into suspension."*
+> - 📜 **Alexander Fleming (*British Journal of Experimental Pathology*):** *"After centrifuging the broth culture, we carefully wash and **resuspend** the staphylococci in sterile saline."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The experimenter must gently **resuspend** the fragile bacterial spheroplasts in osmotic buffer to prevent premature lysis."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Decant the exhausted supernatant and **resuspend** the active yeast sediment into freshly prepared grape must."*

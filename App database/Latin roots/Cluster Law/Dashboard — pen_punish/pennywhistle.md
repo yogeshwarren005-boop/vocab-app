@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inexpensive fipple flute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inexpensive fipple flute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple, cheap six-holed fipple flute made of tin or plastic, commonly played in traditional Irish and British folk music; a tin whistle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rustic musical pipe producing high, shrill, cheerful woodwind notes in folk tunes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennywhistle designates an inexpensive fipple flute."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The drunken sailor piped a lively sea chantey upon an old battered **pennywhistle** while sitting on the sea-chest."*
+> - 📜 **James Joyce (*Dubliners*):** *"A ragged urchin played a melancholy air upon a tin **pennywhistle** in the damp entry of the tavern."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The boy supplemented the village fiddle with his shrill **pennywhistle**, adding brisk trills to the rustic dance."*

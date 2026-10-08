@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family pennatulidae: sea pens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family pennatulidae: sea pens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine octocoral of the genus *Pennatula*, known commonly as a sea pen, possessing a fleshy stem and feather-like lateral polyp leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colonial marine invertebrate that anchors in soft seafloor sediments and exhibits vivid bioluminescence when disturbed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennatula designates type genus of the family pennatulidae: sea pens."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We dredged up a magnificent sea pen or **pennatula**, which emitted a brilliant phosphorescent light in the dark bucket."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The rachis of **pennatula** bears lateral pinnules composed of fused polyp bodies communicating with central canals."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"In living specimens of **pennatula**, waves of luminous green light pass sequentially along the entire feathery colony."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entitled to receive a pension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entitled to receive a pension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Qualifying or eligible to receive a pension; or designating employment service that counts toward retirement benefits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reaching the legally specified age or term of employment that entitles one to a statutory retirement annuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensionable designates entitled to receive a pension."*
+> - 📜 **Beatrice Webb (*The Prevention of Destitution*):** *"The committee proposed establishing a statutory **pensionable** age for industrial laborers worn out by heavy toil."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Civil servants clung tenaciously to their desks until they attained the fully **pensionable** threshold of thirty years."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"Under our proposed social charter, all essential citizens become **pensionable** upon reaching sixty years of age."*

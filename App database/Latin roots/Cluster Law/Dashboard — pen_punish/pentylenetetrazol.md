@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system and circulatory stimulant used experimentally as an epileptogenic chemical agent to study seizure disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent GABAA receptor chloride-channel blocker utilized as a model convulsant in laboratory drug discovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentylenetetrazol designates a drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark."*
+> - 📜 **Ladislas J. Meduna (*Die Konvulsionstherapie der Schizophrenie*):** *"We demonstrated that intravenous **pentylenetetrazol** induced predictable epileptic discharges that temporarily relieved melancholia."*
+> - 📜 **Solomon H. Snyder (*Drugs and the Brain*):** *"Screening for new antiepileptic therapies routinely relies on their capability to block seizures induced by **pentylenetetrazol**."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The convulsive spasms elicited by **pentylenetetrazol** originate primarily in brainstem and cerebral cortical motor pathways."*

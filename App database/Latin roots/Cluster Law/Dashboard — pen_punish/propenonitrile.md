@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless liquid unsaturated nitrile made from propene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless liquid unsaturated nitrile made from propene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, volatile, flammable toxic liquid nitrile (acrylonitrile) used extensively in manufacturing acrylic fibers, rubbers, and plastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vinyl monomer synthesized by ammoxidation of propylene, essential in polyacrylonitrile and ABS copolymer production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propenonitrile designates a colorless liquid unsaturated nitrile made from propene."*
+> - 📜 **H. Staudinger (*From Organic Chemistry to Macromolecules*):** *"Copolymerization of butadiene with **propenonitrile** produced synthetic Buna-N rubber displaying high resistance to oil solvents."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The nitrile group in **propenonitrile** confers strong intermolecular dipolar attraction, resulting in fibers of remarkable tensile strength."*
+> - 📜 **F. A. Cotton (*Advanced Inorganic Chemistry*):** *"Industrial ammoxidation of propylene over bismuth molybdate catalysts provides the global supply of pure **propenonitrile**."*

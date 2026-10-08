@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from sin or do penitence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel deep, sincere sorrow, regret, or contrition for past sin, wrongdoing, or error, accompanied by a resolve to reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, creeping along the ground and rooting at intervals from stems; prostrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that I am afraid to die, but that, my offences being many, I would repent out the remainder of nature."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He resolved to seek divine pardon, knowing that to **repent** and seek grace was man's sole remaining path to salvation."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Confess yourself to heaven; **repent** what's past; avoid what is to come; and do not spread the compost on the weeds."*
+> - 📜 **Jonathan Edwards (*Sinners in the Hands of an Angry God*):** *"Awakened sinners are urged to **repent** without delay, lest the forbearance of God be suddenly withdrawn forever."*

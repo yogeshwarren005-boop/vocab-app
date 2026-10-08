@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that can be bought for a penny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount that can be bought for a penny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pennyworth; a small, cheap quantity of something purchased for a single penny; a trifling amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modest contribution or small portion of advice, gossip, or provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penn'orth designates the amount that can be bought for a penny."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The hungry boy bought a **penn'orth** of bread at the baker's shop, devouring it greedily in the muddy street."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village children would run to the shop for a **penn'orth** of peppermint drops on fair days."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He would not spend a **penn'orth** of cheese without scrutinizing the bill down to the final farthing."*

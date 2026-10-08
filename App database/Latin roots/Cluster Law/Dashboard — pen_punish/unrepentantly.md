@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impenitent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impenitent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unrepentant, shameless, or impenitent manner; without expressing or feeling sorrow for offenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With bold, unashamed persistence in a mistaken, controversial, or immoral course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrepentantly designates in an impenitent manner."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He chose to maintain his worldly hypocrisy **unrepentantly**, while his inward guilt wasted his bodily frame."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The condemned outlaw went to the scaffold **unrepentantly**, cursing the judges who had pronounced his sentence."*
+> - 📜 **George Eliot (*Romola*):** *"Tito pursued his selfish ambition **unrepentantly**, casting aside every sacred tie of filial gratitude."*

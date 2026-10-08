@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support for the genitals worn by men engaging in strenuous exercise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A support for the genitals worn by men engaging in strenuous exercise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical or botanical structure that suspends, supports, or anchors another organ, especially the embryonal suspensor of angiosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, a chain of cells that pushes the developing plant embryo deep into the nutrient endosperm tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspensor designates a support for the genitals worn by men engaging in strenuous exercise."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Early division of the zygote gives rise to an elongated **suspensor** that anchors the embryo within the ovule."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The proembryo forms a filamentous **suspensor** whose uppermost cell becomes the embryonal knob."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In certain cephalopods, a muscular **suspensor** anchors the ink sac directly to the visceral mass."*

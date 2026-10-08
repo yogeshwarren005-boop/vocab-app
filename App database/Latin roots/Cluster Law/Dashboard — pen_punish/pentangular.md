@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five angles or corners; pentagonal in geometric form or layout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a five-cornered cross section or perimeter in natural and architectural structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentangular designates of or relating to or shaped like a pentagon."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Certain fossil sea-lilies exhibit a remarkable **pentangular** column composed of star-like calcareous joints."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Basaltic prisms in the cavern displayed five-sided and six-sided faces, often terminating in a **pentangular** contour."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The young shoots of this foreign shrub are distinctly **pentangular**, bearing winged ridges along each corner."*

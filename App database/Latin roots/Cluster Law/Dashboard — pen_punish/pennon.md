@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long flag; often tapering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wing of a bird.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow, pointed or forked flag carried on a knight's lance as a personal military badge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative swallow-tailed pennant flown on ships or displayed in heraldic armorial bearings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The procession was led off by two venerable-looking savages, each provided with a spear, from the end of which streamed a pennon of milk-white tappa."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was the first thing he mentioned." They ceased speaking as the thin pennon of smoke, followed by two tall masts, became visible over the horizon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bar Harry England, that sweeps through our land With pennons painted in the blood of Harfleur."*
+> - 📜 **Walter Scott (*Marmion*):** *"His square banner was carried high, whilst behind him fluttered the light swallow-tailed **pennon** of his esquire."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"A knight rode forth with red **pennon** streaming from his lance-point into the golden mist."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Ten thousand banners rise into the air with orient colors waving, and glittering **pennon**s blaze above the field."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of propenoic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of propenoic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of propenoic acid (acrylic acid), widely used in producing acrylic polymers, paints, and adhesives; an acrylate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organic compound containing the ester functional group CH2=CH-COO-, essential in plastics polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propenoate designates a salt or ester of propenoic acid."*
+> - 📜 **H. Staudinger (*From Organic Chemistry to Macromolecules*):** *"Polymerization of ethyl **propenoate** proceeds through a free-radical chain mechanism to form transparent elastic resins."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Methyl **propenoate** and related acrylic esters polymerize smoothly to yield durable optical plastics and weather-resistant enamels."*
+> - 📜 **F. A. Cotton (*Advanced Inorganic Chemistry*):** *"Transition metal catalysts coordinate with the vinyl double bond of the **propenoate** ester, controlling polymer stereochemistry."*

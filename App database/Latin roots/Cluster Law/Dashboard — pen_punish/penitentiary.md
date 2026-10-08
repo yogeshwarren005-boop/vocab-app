@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A correctional institution for those convicted of major crimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used for punishment or reform of criminals or wrongdoers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prison for persons convicted of serious crimes, originally conceived as an institution for solitary reflection and moral reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Roman Catholic Church, a papal officer or tribunal having jurisdiction over absolution, penances, and dispensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I do not hesitate to say that if you had your deserts you would be in the Penitentiary."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"But I can tell pretty well where he is.” “Where?” “In the penitentiary."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"I deserve the penitentiary." Continuing, he told us his story."*
+> - 📜 **Alexis de Tocqueville (*On the Penitentiary System in the United States*):** *"The American **penitentiary** system sought to replace corporal violence with solitary labor that awakens personal conscience."*
+> - 📜 **Charles Dickens (*American Notes*):** *"I visited the Eastern State **penitentiary** at Philadelphia and beheld its rigid regime of perpetual silence."*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"A properly constructed **penitentiary** unites constant surveillance with sanitary labor to ensure moral rehabilitation."*

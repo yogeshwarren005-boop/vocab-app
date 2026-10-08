@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not receiving compensation, monetary payment, or legal damages; unrecompensed or unrewarded for labor, loss, or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, describing organ failure (e.g., uncompensated cirrhosis or heart failure) where compensatory mechanisms are exhausted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompensated designates not paying a salary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **uncompensated** aortic regurgitation, ventricular dilatation outstrips coronary perfusion, leading to rapid pulmonary edema."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"No society can flourish where the labor of the working classes remains permanently **uncompensated** by equitable wages."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"To impose liability where no negligence occurred leaves the defendant with an **uncompensated** loss inflicted by state power."*

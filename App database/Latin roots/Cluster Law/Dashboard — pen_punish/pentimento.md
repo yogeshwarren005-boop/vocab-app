@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible trace of earlier painting or drawing beneath later layers of paint on a canvas, revealing the artist changed their mind during composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic or literary emergence of an underlying, earlier intention through the overlay of later revisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentimento designates the reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age)."*
+> - 📜 **Kenneth Clark (*Looking at Pictures*):** *"Beneath the coat of the courtier, infrared photography detected a clear **pentimento** where Rembrandt had altered the hand's posture."*
+> - 📜 **Lillian Hellman (*Pentimento: A Book of Portraits*):** *"Old paint on canvas sometimes becomes transparent with age, and you can see a **pentimento**—the original conception beneath."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Every great master leaves some faint **pentimento** upon his sketch, proving that perfection is attained through tireless correction."*

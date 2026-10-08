@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pensive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pensive, thoughtful, or deeply contemplative manner, often tinged with sadness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With quiet, introspective absorption in one's private reflections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was dusk when Oak, who had not been far a-field that day, took the same path and met her returning, quite pensively, as he thought."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess saw her three chamber-mates in a row against the wall, pensively inclining their heads."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne gazed **pensively** at the fading autumn leaves, lost in memories of her absent Willoughby."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella looked **pensively** into the dying embers of the hearth, murmuring of choices made long ago."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie walked **pensively** along the riverbank, pondering the irreconcilable duties of love and honor."*

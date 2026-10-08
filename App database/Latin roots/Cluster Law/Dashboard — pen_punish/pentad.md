@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of four and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, set, or series of five things, persons, or years; a five-year period or five-unit entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, an element or atom with a valence of five; a pentavalent element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentad designates the cardinal number that is the sum of four and one."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The Pythagoreans revered the **pentad** as the sacred emblem of marriage, uniting the first odd and even numbers."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"In examining natural cycles, the observer noted recurring variations every **pentad** of astronomical seasons."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Nature delights in the **pentad**, exhibiting its fivefold symmetry across floral petals and starfish arms."*

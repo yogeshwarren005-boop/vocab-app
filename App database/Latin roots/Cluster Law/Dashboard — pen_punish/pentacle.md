@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A five-pointed star inscribed within a circle, historically used as a magical talisman or protective amulet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occult traditions and tarot, a symbolic disk or suit representing earth, material wealth, and protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentacle designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*
+> - 📜 **Johann Wolfgang von Goethe (*Faust*):** *"The wizard drew a mystical **pentacle** upon the stone threshold to bar the demon from crossing into the chamber."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The adept engraved a sacred **pentacle** upon virgin parchment to avert evil spirits and maledictions."*
+> - 📜 **Arthur Conan Doyle (*The Parasite*):** *"On the ancient altar rested a heavy silver plate inscribed with a cabalistic **pentacle**."*

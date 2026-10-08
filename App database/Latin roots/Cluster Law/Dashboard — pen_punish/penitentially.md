@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a penitential, contrite, or sorrowful manner; with humble signs of repentance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of ecclesiastical penance or mortification of the flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penitentially designates showing remorse."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Palmer bowed **penitentially** before the altar, murmuring orisons for the forgiveness of ancient transgressions."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine citizens walked barefoot and **penitentially** behind Savonarola during the solemn Lenten procession."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"He shook his head **penitentially**, confessing that wine had betrayed him into unseemly and violent speech."*

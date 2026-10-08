@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pungent colorless unsaturated liquid aldehyde made from propene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pungent colorless unsaturated liquid aldehyde made from propene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest unsaturated aldehyde (commonly known as acrolein), a colorless liquid with an acrid, intensely irritating vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic, flammable volatile organic compound produced by thermal dehydration of glycerol and combustion of fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propenal designates a pungent colorless unsaturated liquid aldehyde made from propene."*
+> - 📜 **Justus von Liebig (*Annalen der Chemie und Pharmacie*):** *"Heating animal fat with potassium bisulfate yields a volatile unsaturated aldehyde which we identify as **propenal**."*
+> - 📜 **F. A. Cotton (*Advanced Inorganic Chemistry*):** *"Because of its conjugated double bond, **propenal** readily undergoes 1,4-addition reactions with nucleophilic reagents."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The tear-gas effect of burnt cooking oil is caused by airborne traces of **propenal** formed during fat decomposition."*

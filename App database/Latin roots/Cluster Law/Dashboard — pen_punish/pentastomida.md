@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tongue worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tongue worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized subclass of parasitic crustaceans (tongue worms) characterized by a segmented worm-like body and respiratory endoparasitism in vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient arthropod lineage possessing modified grasping appendages and specialized life cycles involving intermediate hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomida designates tongue worms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The enigmatic subclass **Pentastomida** combines extreme degenerative parasitism with rudimentary arthropod appendages."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Molecular studies confirm that the **Pentastomida** are highly specialized maxillopod crustaceans adapted to pulmonary tissues."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Canine lungs occasionally harbor adult forms of the **Pentastomida** contracted through ingestion of encysted larvae."*

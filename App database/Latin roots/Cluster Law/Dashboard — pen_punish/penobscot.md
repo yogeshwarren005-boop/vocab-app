@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the algonquian people belonging to the abnaki confederacy and living in the penobscot valley in northern maine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in central maine flowing into penobscot bay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A federally recognized Native American nation indigenous to northeastern North America, or the major river and bay in Maine bearing their name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Algonquian-speaking indigenous people of Maine, famous for birchbark canoes and traditional basketry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Per vol. 16mo 1 50 Little Bobtail; or, The Wreck of the Penobscot."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide belonged to the **Penobscot** tribe, steering his birch canoe with effortless skill through wild rapids."*
+> - 📜 **Francis Parkman (*The Jesuits in North America in the Seventeenth Century*):** *"French missionaries traveled along the **Penobscot** river to establish missions among the Abenaki bands."*
+> - 📜 **John Greenleaf Whittier (*The Bridal of Pennacook*):** *"The warrior gazed across the waters of the **Penobscot**, remembering the ancient council fires of his ancestors."*

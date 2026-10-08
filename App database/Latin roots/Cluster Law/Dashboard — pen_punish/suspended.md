@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hang freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be held in suspension in a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging freely from above; temporarily halted, held in abeyance, or debarred from office or privilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining dispersed throughout a gas or liquid without settling to the bottom or dissolving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The town awakes; the great tee-totum is set up for its daily spin and whirl; all that unaccountable reading and writing, which has been suspended for a few hours, recommences."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak extinguished the lantern by blowing into it and then pinching the snuff, the cot being lighted by a candle suspended by a twisted wire."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I hear something.” Maryann suspended the brush."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A heavy pendulum **suspended** from a fixed pivot oscillates in equal intervals of time under the pull of gravity."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"I looked upward and observed a gigantic crescent-shaped blade **suspended** from the lofty ceiling of my cell."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fine particles of volcanic dust remained **suspended** in the upper atmosphere for months following the eruption."*

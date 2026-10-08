@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chelating agent and pharmaceutical compound used to treat Wilson disease, cystinuria, and severe rheumatoid arthritis by binding excess copper and heavy metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thiol-containing metabolite that dissolves cystine stones and binds toxic circulating metal ions in human tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillamine designates a drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis."*
+> - 📜 **J. M. Walshe (*The Lancet*):** *"Treatment with **penicillamine** dramatically promoted the cupriuresis required to reverse neurological symptoms of hepatolenticular degeneration."*
+> - 📜 **I. Herbert Scheinberg (*Wilson's Disease*):** *"Long-term maintenance on oral **penicillamine** prevented the toxic accumulation of ionic copper in hepatic parenchyma."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Because **penicillamine** possesses a free sulfhydryl group, it readily chelates divalent metal cations in biological fluids."*

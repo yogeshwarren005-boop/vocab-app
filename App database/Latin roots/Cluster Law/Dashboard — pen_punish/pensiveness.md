@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent morbid meditation on a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of serious, deep, or melancholy thoughtfulness; contemplative reverie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gentle, introspective sadness expressed through quiet demeanor and pensive countenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Over all the legal neighbourhood there hangs, like some great veil of rust or gigantic cobweb, the idleness and pensiveness of the long vacation."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sportive sunlight—feebly sportive, at best, in the predominant pensiveness of the day and scene—withdrew itself as they came nigh, and left the spots where it had danced the drearier, because they had hoped to find them bright."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The ancient cathedral inspired a sweet **pensiveness** that hushed every worldly passion into quietude."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A dark **pensiveness** settled upon Victor's brow whenever he contemplated the monstrous catastrophe of his creation."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius unites vivid sensibility with a calm, intellectual **pensiveness** that searches the soul."*

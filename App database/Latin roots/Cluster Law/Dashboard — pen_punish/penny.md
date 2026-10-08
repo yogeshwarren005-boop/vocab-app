@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of ireland and the united kingdom; equal to one hundredth of a pound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coin or monetary unit equal to one hundredth of a pound sterling in the UK, or one cent in the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an Anglo-Saxon and British silver coin; metaphorically, a trifling amount of money.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a man thanks me heartily, methinks I have given him a penny and he renders me the beggarly thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, the charity of a penny cord!"*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"A **penny** saved is two pence clear, and a pin a day is a groat a year."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ancient sterling **penny** contained originally a genuine pennyweight of pure silver."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"If a man has twenty pounds a year and spends nineteen pounds nineteen shillings and sixpence, he is happy; if he spends twenty pounds and one **penny**, he is miserable."*

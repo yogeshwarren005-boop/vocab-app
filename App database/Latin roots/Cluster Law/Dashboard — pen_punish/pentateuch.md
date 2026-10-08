@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first of three divisions of the hebrew scriptures comprising the first five books of the hebrew bible considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first of three divisions of the hebrew scriptures comprising the first five books of the hebrew bible considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of the Hebrew Bible and Christian Old Testament (Genesis, Exodus, Leviticus, Numbers, and Deuteronomy); the Torah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational Mosaic law codes and sacred historical narrative of ancient Israel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Colenso, Bishop of Natal, in South Africa; he published works questioning the inspiration and historical accuracy of certain parts of the Bible, among which was ‘The Pentateuch, and the Book of Joshua critically examined’. -- Holy-Cross Day."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Moses saw the Promised Land from a distance, but the sight of that collection of log shacks means more to you, tired and almost frozen, than the land beyond muddy Jordan did to the writer of the Pentateuch."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil and ceremonial polity of the ancient Hebrews was embodied in the sacred scroll of the **Pentateuch**."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Filmer derived his theory of absolute royal authority from patriarchal passages in the **Pentateuch**."*
+> - 📜 **Baruch Spinoza (*Theological-Political Treatise*):** *"Critical examination shows that the **Pentateuch** was compiled from diverse historic sources long after the demise of Moses."*

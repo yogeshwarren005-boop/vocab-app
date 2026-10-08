@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or constituting penance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or constituting penance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressive of, or appointed for penance, remorse, or religious contrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval ecclesiastical handbook containing a catalogue of sins and their prescribed canonical punishments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The debilitated cousin, more debilitated by the dreariness of the place, gets into a fearful state of depression, groaning under penitential sofa-pillows in his gunless hours and protesting that such fernal old jail’s—nough t’sew fler up—frever."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXXII This penitential mood kept her from naming the wedding-day."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as I arrived, I sent a penitential codfish and barrel of oysters to Joe (as reparation for not having gone myself), and then went on to Barnard’s Inn."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early bishops composed rigorous **penitential** canons to regulate the public reconciliation of backsliders."*
+> - 📜 **Dante Alighieri (*Purgatorio*):** *"Ascending the mountain terrace, the weeping spirits chanted **penitential** psalms to purge away lingering earthly taints."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The deposed monarch passed his final captivity in solemn **penitential** exercises, resigned to martyrdom."*

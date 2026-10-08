@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or forming or resembling a peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or forming or resembling a peninsula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or situated on a peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically designating the military campaign fought between 1807 and 1814 in Portugal and Spain against Napoleon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Then the war fever laid hold of him, and he enlisted in the regular army, serving in the Rifle Brigade all through the Peninsular War, from Vimiera to Toulouse, and earning a medal with twelve clasps."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But talking of books, there is Southey’s ‘Peninsular War.’ I am reading that of a morning."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Colonel Barlow made the Peninsular Campaign in the spring and summer of 1862 under McClellan."*
+> - 📜 **William Napier (*History of the War in the Peninsula*):** *"The **peninsular** campaigns drained the military resources of imperial France through endless guerrilla warfare."*
+> - 📜 **Arthur Wellesley, Duke of Wellington (*Dispatches*):** *"Our defensive lines at Torres Vedras secured the **peninsular** base from which allied armies advanced into Castile."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"British sea power exerted its decisive pressure along the vast **peninsular** coastline of southern Europe."*

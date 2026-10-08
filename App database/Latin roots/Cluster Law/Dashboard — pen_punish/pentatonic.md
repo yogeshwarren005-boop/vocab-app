@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a pentatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a pentatonic scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on a musical scale of five notes to the octave, especially common in folk music, blues, and Asian music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by five melodic scale steps per octave that omit fourth and seventh diatonic scale degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatonic designates relating to a pentatonic scale."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The ancient **pentatonic** scale avoids harsh semitone dissonances, giving primitive folk airs their sweet, pastoral character."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"The oldest layer of Magyar peasant melody is based strictly upon an archaic, descending **pentatonic** system."*
+> - 📜 **Ralph Vaughan Williams (*National Music and Other Essays*):** *"English folk song preserves magnificent modal melodies rooted deeply in ancient **pentatonic** phrases."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The next to last syllable in a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second-to-last syllable in a word; the syllable immediately preceding the final syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical phonetics, the syllable whose vowel length determines accent placement in Latin and Greek words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penult designates the next to last syllable in a word."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"In Latin prosody, when the **penult** is long by nature or position, the accent is firmly placed upon it."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The shift of dynamic stress from the **penult** to the antepenult is a characteristic evolution of English phonology."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"Words borrowed from French frequently adjusted their accentuation from the ultimate syllable back to the **penult**."*

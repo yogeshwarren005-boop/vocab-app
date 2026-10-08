@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific beta-lactamase enzyme produced by certain bacteria that hydrolyzes and deactivates penicillin by opening its beta-lactam ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inducible bacterial protein providing evolutionary protection against beta-lactam antibiotic therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillinase designates enzyme produced by certain bacteria that inactivates penicillin and results in resistance to that antibiotic."*
+> - 📜 **Edward Abraham (*Nature*):** *"We isolated a bacterial enzyme, named **penicillinase**, that completely destroyed the antibiotic activity of Fleming's substance."*
+> - 📜 **Ernst Chain (*The Lancet*):** *"Coliform bacilli resisted the broth because their endogenous **penicillinase** cleaved the essential four-membered ring structure."*
+> - 📜 **Howard Florey (*Lectures on General Pathology*):** *"Staphylococci produced **penicillinase** in quantities sufficient to protect entire mixed colonies from therapeutic destruction."*

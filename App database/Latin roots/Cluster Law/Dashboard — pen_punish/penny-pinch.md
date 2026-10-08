@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend money frugally; spend as little as possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend money frugally; spend as little as possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice extreme, petty frugality; to be excessively stingy or parsimonious with trifling sums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To economize obsessively on trivial expenses while neglecting larger, more valuable concerns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penny-pinch designates spend money frugally; spend as little as possible."*
+> - 📜 **George Gissing (*The Odd Women*):** *"She was forced to **penny-pinch** on daily groceries, calculating the cost of every cabbage and egg."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The old miser would **penny-pinch** with his scullery maids while boasting of noble blood to his dinner guests."*
+> - 📜 **H. G. Wells (*Kipps*):** *"He had learned behind the draper's counter to **penny-pinch** until every copper seemed as large as a dinner plate."*

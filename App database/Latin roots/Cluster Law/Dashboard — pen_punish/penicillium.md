@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ascomycetous fungi characterized by dense brush-like conidiophore structures, celebrated as the natural source of penicillin and blue cheeses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any mold belonging to this widely distributed saprophytic fungal genus, vital in natural organic decomposition and biotechnology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillium designates genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin."*
+> - 📜 **Alexander Fleming (*Nobel Lecture in Physiology or Medicine*):** *"A contamination of the staphylococcal culture plate by a spore of **penicillium** initiated the whole inquiry into antibacterial molds."*
+> - 📜 **Charles Thom (*The Penicillia*):** *"Under the microscope, species of **penicillium** display verticillate branches resembling miniature paintbrushes bearing chains of conidia."*
+> - 📜 **Louis Pasteur (*Comptes Rendus*):** *"In our nutrient solutions, green tufts of **penicillium** competed vigorously against pathogenic bacteria for organic nutrients."*

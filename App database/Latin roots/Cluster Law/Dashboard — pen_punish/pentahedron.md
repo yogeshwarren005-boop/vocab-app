@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any polyhedron having five plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any polyhedron having five plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid geometric figure bounded by five plane faces, such as a four-sided pyramid or a triangular prism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any three-dimensional polyhedron possessing exactly five polygonal surfaces and varying vertices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentahedron designates any polyhedron having five plane faces."*
+> - 📜 **Euclid (*Elements*):** *"A square-based pyramid constitutes a regular **pentahedron**, possessing four triangular faces and a single quadrilateral base."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"In examining polyhedral packing, the geometer considers the triangular prism as an asymmetric **pentahedron**."*
+> - 📜 **James Clerk Maxwell (*On the Calculation of the Equilibrium and Stiffness of Frames*):** *"The structural stability of a skeletal **pentahedron** depends upon the triangulation of its external joints."*

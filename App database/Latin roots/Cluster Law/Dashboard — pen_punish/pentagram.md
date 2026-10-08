@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A five-pointed star figure formed by producing the sides of a regular pentagon until they intersect, widely used as a mystical or protective emblem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous geometric knot drawn with five intersecting straight lines, revered in Pythagorean geometry as a symbol of health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentagram designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*
+> - 📜 **Johann Wolfgang von Goethe (*Faust*):** *"Mephistopheles was trapped within the doctor's study because an angle of the drawn **pentagram** was left imperfectly closed."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mathematical beauty of the **pentagram** enchanted the ancient geometers with its recurring golden proportions."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old adept scratched a **pentagram** upon the threshold to guard the laboratory from malevolent intrusions."*

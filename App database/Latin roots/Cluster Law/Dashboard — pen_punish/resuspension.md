@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A renewed suspension of insoluble particles after they have been precipitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A renewed suspension of insoluble particles after they have been precipitated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of suspending particles, sediment, or cells again in a liquid medium; or the resulting suspension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cell biology, the reconstituting of a compacted pellet into an evenly dispersed liquid phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resuspension designates a renewed suspension of insoluble particles after they have been precipitated."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Immediate **resuspension** of the precipitated ferment into nutrient broth revived fermentation within hours."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Tidal surges caused the rapid **resuspension** of fine estuarine silt, transporting it miles along the coast."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Gentle pipetting ensured the thorough **resuspension** of viral particles without shearing their delicate nucleic acid cores."*

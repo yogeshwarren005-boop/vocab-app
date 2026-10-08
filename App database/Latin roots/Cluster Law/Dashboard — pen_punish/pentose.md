@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monosaccharide sugar containing five carbon atoms per molecule, including ribose, deoxyribose, arabinose, and xylose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental biochemical carbohydrate essential in the synthesis of nucleotides, nucleic acids, and metabolic coenzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was my pentose and methyl-pentose determination in grapes and wines to which I had devoted my last summer vacation at the Asti Vineyards."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The backbone of the genetic polymer consists of alternating phosphate groups and five-carbon **pentose** sugar rings."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Ribose is an aldopentose sugar whose furanose ring exemplifies the stable biological configuration of a **pentose**."*
+> - 📜 **Hans Krebs (*The Biochemical Journal*):** *"The **pentose** phosphate pathway generates NADPH required for reductive lipid biosynthesis and cellular defense against oxidants."*

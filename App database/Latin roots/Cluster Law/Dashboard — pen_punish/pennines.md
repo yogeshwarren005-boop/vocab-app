@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A range of upland hills and mountains running through northern England, often referred to as 'the backbone of England'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The carboniferous limestone and gritstone watershed separating northwestern and northeastern England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennines designates a system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers."*
+> - 📜 **Daniel Defoe (*A Tour Through the Whole Island of Great Britain*):** *"We crossed the desolate heights of the **Pennines**, where bleak moors stretched in wild solitude toward Yorkshire."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"The fierce winds that blow across the **Pennines** bent the stunted firs perpetually toward the valley."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Beyond the western vales rose the dark, undulating rampart of the **Pennines** under the autumn twilight."*

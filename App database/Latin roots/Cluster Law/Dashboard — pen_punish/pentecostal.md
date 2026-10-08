@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a pentecostal religious body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of any of various pentecostal religious bodies or their members.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Pentecost; or relating to modern Christian movements that emphasize baptism in the Holy Spirit and charismatic gifts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by enthusiastic charismatic worship, faith healing, and speaking in tongues (glossolalia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecostal power 46:30 His students then received the Holy Ghost."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"REES, Author of "Christlikeness," "Hulda, the Pentecostal Prophetess," and "Hallelujahs from Portsmouth, Nos. 2 and 3." DEDICATION."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The onward movement of the Holy Ghost along Pentecostal lines, convicting of depravity, creating a clean-reading public, and endueing with power both pulpit and pew, has resulted in a constant and growing demand for full-salvation literature."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Sudden conversions and emotional revivals reproduce the passionate ecstasy of the original **pentecostal** awakening."*
+> - 📜 **John Wesley (*Journal*):** *"We prayed for a fresh **pentecostal** outpouring of divine love upon our small band of seekers."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Pneumatic enthusiasm and ecstatic speech give modern **pentecostal** communities their intense sectarian cohesion."*

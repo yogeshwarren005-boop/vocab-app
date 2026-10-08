@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of old world grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of old world grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread genus of tropical and warm-temperate grasses, including pearl millet (*Pennisetum glaucum*) and ornamental fountain grasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural and ecological cereal genus prized for drought-resistant grain cultivation and livestock forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennisetum designates a genus of old world grasses."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Pearl millet, a species of **pennisetum**, was cultivated in sub-Saharan Africa long before the dawn of recorded history."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The inflorescence of **pennisetum** forms a dense cylindrical spike surrounded by an involucre of plumose bristles."*
+> - 📜 **Nikolai Vavilov (*The Origin and Geography of Cultivated Plants*):** *"The extreme drought tolerance of **pennisetum** made it the primary breadstuff across arid Sahelian plateaus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea pens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea pens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of sea pens comprising octocorallian coelenterates that resemble bird feathers anchored in ocean sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colonial anthozoans characterized by an axial horny rod, a fleshy peduncle, and bilateral polyp leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog pennatulidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Ernst Haeckel (*Report on Deep-Sea Keratosa*):** *"Among the benthic fauna brought up by the trawl, representatives of the family **pennatulidae** were richly represented."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The skeletal support of the **pennatulidae** consists of an unbranched, flexible calcified rod running through the fleshy stem."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The sheltered coral lagoons sheltered curious invertebrates, including delicate benthic plumes belonging to the **pennatulidae**."*

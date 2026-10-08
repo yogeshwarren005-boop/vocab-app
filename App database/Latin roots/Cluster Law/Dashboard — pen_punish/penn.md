@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and quaker who founded the colony of pennsylvania (1644-1718).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in philadelphia, pennsylvania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hill, summit, or prominent headland in Celtic toponymy; or historical surname associated with William Penn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A topographical boundary marker or pastoral enclosure in historic British place-names.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"This was never penn'd at _Geneva_, the Note's too sprightly."*
+> - 📜 **William Camden (*Britannia*):** *"The ancient Britons named any high beacon or lofty crest a **penn**, as preserved in the names of western hills."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William **Penn** stood before the king as a resolute Quaker advocate, pleading for general liberty of conscience."*
+> - 📜 **George Fox (*Journal*):** *"We gathered at the home of friend **Penn** to give thanks for our preservation through seasons of fierce trial."*

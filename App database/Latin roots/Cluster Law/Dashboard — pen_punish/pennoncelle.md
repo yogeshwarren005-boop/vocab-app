@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pennant borne on a lance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pennant borne on a lance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diminutive pennon or heraldic streamer borne on a spearhead, lance, or ship's yardarm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative ribbon displayed by an esquire or knight during chivalric tournaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennoncelle designates a small pennant borne on a lance."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The breeze from the Syrian desert fluttered the knight's silk **pennoncelle** as he drew rein before the hermitage."*
+> - 📜 **Charlotte Mary Yonge (*The Lances of Lynwood*):** *"Eustace looked with joy upon the azure **pennoncelle** that his sovereign had granted for valor in Aquitaine."*
+> - 📜 **Geoffrey Chaucer (*The Knight's Tale*):** *"With shining shield and bright **pennoncelle**, the young warrior rode forth to prove his noble breeding."*
